@@ -1,22 +1,30 @@
 # dis8644-2025-1
 
-# dis8637-2024-2
-
 ## acerca de
 
-curso de taller en Universidad Diego Portales.
+DIS8644 taller de máquinas eléctricas
 
-equipo docente:
+curso de taller en la Escuela de Diseño, Facultad de Arquitectura, Arte y Diseño, de la Universidad Diego Portales.
 
-- aarón montoya
+dictado durante el primer semestre 2025 (marzo a julio)
+
+## equipo docente
+
+- aarón montoya <https://github.com/montoyamoraga/>
 - TODO
-- andrés martin
-- paula landeros
+- andrés martin <https://github.com/AndresMartinM>
+- paula landeros <https://github.com/pixelitaa>
 
 ## enlaces a cada carpeta
 
 - [00-docentes](./00-docentes/)
 - TODO
+
+## evaluaciones
+
+- bitácora
+- participación en clases
+
 
 ## calendario detallado
 
@@ -51,4 +59,5 @@ equipo docente:
 | [sesion-14-a](00-docentes/sesion-01-a/) | 2025-XX-XX martes | TODO                                                |
 | [sesion-14-b](00-docentes/semana-01/-a) | 2024-XX-XX viernes| TODO                                                |
 | [sesion-15-a](00-docentes/sesion-01-a/) | 2025-XX-XX martes | TODO                                                |
-| [sesion-15-b](00-docentes/semana-01/-a) | 2024-XX-XX viernes| examen                                                |
+| [sesion-15-b](00-docentes/semana-01/-a) | 2024-XX-XX viernes| examen                                              |
+
