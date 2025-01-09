@@ -25,7 +25,6 @@ dictado durante el primer semestre 2025 (marzo a julio)
 - bitácora
 - participación en clases
 
-
 ## calendario detallado
 
 | sesión                                  | fecha             | tema                                                |
