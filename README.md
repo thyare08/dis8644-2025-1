@@ -11,7 +11,7 @@ dictado durante el primer semestre 2025 (marzo a julio)
 ## equipo docente
 
 - aarón montoya <https://github.com/montoyamoraga/>
-- TODO
+- matías serrano <https://github.com/misaaaaaa>
 - andrés martin <https://github.com/AndresMartinM>
 - paula landeros <https://github.com/pixelitaa>
 
