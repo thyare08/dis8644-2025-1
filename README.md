@@ -60,3 +60,6 @@ dictado durante el primer semestre 2025 (marzo a julio)
 | [sesion-15-a](00-docentes/sesion-01-a/) | 2025-XX-XX martes | TODO                                                |
 | [sesion-15-b](00-docentes/semana-01/-a) | 2024-XX-XX viernes| examen                                              |
 
+## bibliografia
+
+## referentes
