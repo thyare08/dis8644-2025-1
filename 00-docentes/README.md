@@ -30,3 +30,7 @@
 - [sesion-14-b](./sesion-14-b)
 - [sesion-15-a](./sesion-15-a)
 - [sesion-15-b](./sesion-15-b)
+- [sesion-16-a](./sesion-16-a)
+- [sesion-16-b](./sesion-16-b)
+- [sesion-17-a](./sesion-17-a)
+- [sesion-17-b](./sesion-17-b)
