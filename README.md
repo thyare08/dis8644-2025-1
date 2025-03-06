@@ -25,6 +25,15 @@ dictado durante el primer semestre 2025 (marzo a julio)
 - bitácora
 - participación en clases
 
+## sesiones
+
+nuestras sesiones de clases serán los martes y viernes entre marzo y julio 2025.
+
+- 08:30am - 09:00am: preparación inicial, resolver dudas
+- 09:00am - 10:30am: primera parte, fuerte en contenidos y trabajo grupal de taller
+- 10:30am - 11:00am: pausa
+- 11:00am - 12:30pm: segunda parte, fuerte en presentaciones de estudiantes y retroalimentación
+
 ## calendario detallado
 
 | sesión                        | fecha        | temas                                           |
