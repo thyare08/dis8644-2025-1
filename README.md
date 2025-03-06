@@ -31,9 +31,9 @@ dictado durante el primer semestre 2025 (marzo a julio)
 | :---------------------------- | :----------- | :---------------------------------------------- |
 | [01a](00-docentes/sesion-01a/)| 03-11 martes | presentación equipo                             |
 | [01b](00-docentes/sesion-01b/)| 03-14 viernes| docs MarkDown, protoboard, caja negra           |
-| [02a](00-docentes/sesion-02a/)| 03-18 martes | circuitos serie y paralelo, LEDs, interruptores |
-| [02b](00-docentes/sesion-02b/)| 03-21 viernes| TODO                                            |
-| [03a](00-docentes/sesion-03a/)| 03-25 martes | TODO                                            |
+| [02a](00-docentes/sesion-02a/)| 03-18 martes | resistores, LEDs, interruptores                 |
+| [02b](00-docentes/sesion-02b/)| 03-21 viernes| circuitos serie y paralelo                      |
+| [03a](00-docentes/sesion-03a/)| 03-25 martes | chips, timer 555, esquemáticos                  |
 | [03b](00-docentes/sesion-03b/)| 03-28 viernes| TODO                                            |
 | [04a](00-docentes/sesion-04a/)| 04-01 martes | TODO                                            |
 | [04b](00-docentes/sesion-04b/)| 04-04 viernes| entrega proyecto-01                             |
