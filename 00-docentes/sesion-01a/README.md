@@ -28,6 +28,7 @@ experiencia docente:
   * AUDIV027 inteligencia artificial, segundo semestre 2023, primer semestre 2024, segundo semestre 2024, primer semestre 2025
 * profe invitade, DesignLab, UAI
   * DIS145 diseño y construcción de interfaces, primer semestre 2024
+  * DIS8644 taller de diseño de máquinas electrónicas, primer semestre 2025
 
 enlaces:
 
