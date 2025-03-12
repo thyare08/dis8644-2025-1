@@ -42,10 +42,27 @@ enlaces:
 
 profe asistente y co-creador del curso.
 
-licenciado en artes mención sonido UChile
-magíster en artes mediales, UChile
+* pregrado: licenciado en artes mención sonido UChile (2011-2016)
+* postgrado: magíster en artes mediales, UChile (2021-2023)
 
+experiencia docente:
+
+* 2024 Medios 2. Artes Visuales, Universidad de Chile. Semestre 2 (5 secciones)
+* 2024 Taller complementario de electrónica: del dato al objeto. Artes Visuales, Universidad de Chile. Semestre 6 (1 sección)
+* 2024 Laboratorio de Arte y Electrónica. Artes Visuales, Universidad Diego Portales. Semestre 6 (1 sección)
+* 2024 Aplicaciones Tecnológicas 3: Objeto. Artes Visuales, UNIACC. Semestre 7 (2 secciones)
+* 2024 Aplicaciones Tecnológicas 1: Electrónica. Artes Visuales, Uniacc. Semestre 5 (2 secciones)
+* 2024 Taller Electrónica en Soportes Alternativos. Artes Visuales, Universidad de Chile. Semestre 5 (1 sección)
+* 2023 Taller complementario de electrónica: del dato al objeto. Artes Visuales, Universidad de Chile. Semestre 6 (1 sección)
+* 2023 Medios 2. Artes Visuales, Universidad de Chile. Semestre 2 (5 secciones)
+* 2023 Taller Electrónica en Soportes Alternativos. Artes Visuales, Universidad de Chile. Semestre 5 (1 sección)
+* 2023 Aplicaciones Tecnológicas 1: Electrónica. Artes Visuales, Uniacc. Semestre 5 (2 secciones)
+* 2022 Medios 2. Artes Visuales, Universidad de Chile. Semestre 2 (1 sección)
+
+enlaces:
 <http://misaa.cc/>
+<https://instagram.com/misaa.cc/>
+<https://www.instagram.com/nucleoartessonoras/>
 
 ### andrés martin
 
