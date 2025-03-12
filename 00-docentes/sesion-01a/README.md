@@ -107,6 +107,14 @@ este encargo00 es de consumo multimedia para dar contexto al curso y para un dia
 
 este encargo será revisado y compartido durante la siguiente sesión 01b, del viernes 14 marzo 2025.
 
+### respuesta ejemplo del equipo docente
+
+por aarón:
+
+vi la película Barrio Universitario y deja una muy mala imagen del barrio, es una parodia muy dura de clases, de la educación chilena, es una crítica social al sistema privado de universidades, y también a los institutos técnicos, en particular a profesores y administradores. Está llena de referencias que quizás nuevas generaciones no notarán, como la inclusión de comediantes chilenos de la década de los 1980s y 1990s, y lo que más destaca es la actuación de Felipe Avello, un comediante con muchas eras distintas en su obra, y en múltiples formatos, incluyendo video arte y performance.
+
+escuché el disco Computerwelt de Kraftwerk, del año 1981. Es una edición alemana del disco, tiene una contraparte en inglés llamada Computer World, una práctica que hicieron en otros discos, de lanzar el mismo disco con letras en distintos idiomas. me impresiona que la primera canción parta con una lista estéril de instituciones, como Interpol y FBI, y lo contrapone con una voz procesada o sintetizada que habla de computadores, marcando de inmediato el tono del disco. la percusión es clínica, tiene el tempo muy marcado, más parecido a una máquina que a una interpretración humana. leí en Wikipedia que a pesar de la temática de computadores, el disco fue hecho de forma análoga, con cinta y con instrumentos electrónicos como el Stylophone que sigue vigente hasta hoy. las canciones están basadas en percusión muy repetitiva y de sonido electrónico, con riffs y melodías muy cuidadas hechas con instrumentos eléctricos. la voz no es la protagonista de las canciones, las letras refuerzan el mensaje de admiración y de precaución hacia la computación.
+
 ## encargo01 - mi caja negra y yo
 
 este encargo01 consiste en la elección de un objeto electrónico con el que tengan una relación afectiva.
@@ -120,4 +128,18 @@ la entrega debe tener 2 componentes:
 
 este encargo será revisado y compartido durante la siguiente sesión 01b, del viernes 14 marzo 2025.
 
-## ejemplo del equipo docente
+### ejemplo del equipo docente
+
+encargo00 sobre mi electrodoméstico instant pot, para hacer arroz.
+
+hecho con lápiz y papel.
+
+![imagen de mi croquera](./imagenes/encargo00-foto-00.jpg)
+
+![imagen de mi croquera](./imagenes/encargo00-foto-01.jpg)
+
+![imagen de mi croquera](./imagenes/encargo00-foto-02.jpg)
+
+![imagen de mi croquera](./imagenes/encargo00-foto-03.jpg)
+
+![imagen de mi croquera](./imagenes/encargo00-foto-04.jpg)
