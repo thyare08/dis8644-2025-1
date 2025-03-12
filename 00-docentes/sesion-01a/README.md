@@ -98,13 +98,26 @@ a escala humana
 * CW&T
 * Zimoun
 
-## encargo00
+## encargo00 - introducción local a la electrónica
 
 este encargo00 es de consumo multimedia para dar contexto al curso y para un diagnóstico de su capacidad de observación en obras multimedia.
 
 * ver película Barrio Universitario, del año 2023, escrita por Fabrizio Copano y Pedro Ruminot. La razón es porque estamos haciendo electrónica desde este lugar, y porque es una parodia al mundo universitario, la robótica, y la desigualdad.
-* elegir un disco de la banda Kraftwerk, estudiar su contexto, su historia, los instrumentos usados y creados, las letras
+* elegir un disco de la banda Kraftwerk, estudiar su contexto, su historia, los instrumentos usados y creados, las letras.
 
 este encargo será revisado y compartido durante la siguiente sesión 01b, del viernes 14 marzo 2025.
 
-## encargo01
+## encargo01 - mi caja negra y yo
+
+este encargo01 consiste en la elección de un objeto electrónico con el que tengan una relación afectiva.
+
+deben analizar, especular e imaginar sobre su funcionamiento, usando la metáfora de caja negra, inputs y outputs.
+
+la entrega debe tener 2 componentes:
+
+1. textual: deben escribir texto, en prosa o verso, que explica el funcionamiento del objeto de estudio. deben responder a las preguntas "qué pasa adentro", "cuáles son los límites de este objeto", "cómo este objeto logra hacer lo que hace?", "por qué falla este objeto?", etc.
+2. visual: deben hacer diagramas especulativos sobre el funcionamiento del objeto de estudio. pueden usar herramietnas gráficas que ya conocen, y les invitamos a estudiar diagramas electrónicos de instrumentos electrónicos, como el Atari Punk Console.
+
+este encargo será revisado y compartido durante la siguiente sesión 01b, del viernes 14 marzo 2025.
+
+## ejemplo del equipo docente
