@@ -20,6 +20,7 @@ experiencia docente:
   * DIS9034 programación creativa multimedia, primer semestre 2024
   * DIS8636 taller de interfaz de usuario UI, primer semestre 2023, primer semestre 2024, con profesor Sergio Majluf
   * DIS8637 taller de experiencia de usuario UX, segundo semestre 2023, segundo semestre 2024, con profesor Sergio Majluf
+  * DIS8644 taller de diseño de máquinas electrónicas, primer semestre 2025
 * profe de ciencias básicas, media jornada, FAU UChile, desde 2022
   * AUD10004 matemáticas aplicadas al diseño, segundo semestre 2023
   * AUD20004 física aplicada al diseño, segundo semestre 2022, segundo semestre 2023, primer semestre 2024, segundo semestre 2024, primer semestre 2025
@@ -28,7 +29,7 @@ experiencia docente:
   * AUDIV027 inteligencia artificial, segundo semestre 2023, primer semestre 2024, segundo semestre 2024, primer semestre 2025
 * profe invitade, DesignLab, UAI
   * DIS145 diseño y construcción de interfaces, primer semestre 2024
-  * DIS8644 taller de diseño de máquinas electrónicas, primer semestre 2025
+
 
 enlaces:
 
@@ -60,21 +61,28 @@ experiencia docente:
 * 2022 Medios 2. Artes Visuales, Universidad de Chile. Semestre 2 (1 sección)
 
 enlaces:
-<http://misaa.cc/>
-<https://instagram.com/misaa.cc/>
-<https://www.instagram.com/nucleoartessonoras/>
+
+* <http://misaa.cc/>
+* <https://instagram.com/misaa.cc/>
+* <https://www.instagram.com/nucleoartessonoras/>
 
 ### andrés martin
 
 ayudante del curso
 
-titulado de diseño UChile.
+* pregrado: diseño UChile
+
+experiencia docente:
+
+* ayudante curso AUD2004 Física aplicada al diseño, Universidad de Chile
+* ayudante taller DIS8636 Taller de Interfaz de Usuario UI, Universidad Diego Portales, primer semestre 2024.
+* ayudante taller DIS8637 Taller de Experiencia de Usuario UX, Universidad Diego Portales, segundo semestre 2023 y segundo semestre 2024.
 
 ### paula landeros
 
 ayudante del curso
 
-* estudiante de quinto año de diseño UDP
+* pregrado: estudiante de quinto año de diseño UDP
 
 ## máquinas electrónicas
 
@@ -88,3 +96,15 @@ a escala humana
 * Critter and Guitari
 * Hikari Instruments
 * CW&T
+* Zimoun
+
+## encargo00
+
+este encargo00 es de consumo multimedia para dar contexto al curso y para un diagnóstico de su capacidad de observación en obras multimedia.
+
+* ver película Barrio Universitario, del año 2023, escrita por Fabrizio Copano y Pedro Ruminot. La razón es porque estamos haciendo electrónica desde este lugar, y porque es una parodia al mundo universitario, la robótica, y la desigualdad.
+* elegir un disco de la banda Kraftwerk, estudiar su contexto, su historia, los instrumentos usados y creados, las letras
+
+este encargo será revisado y compartido durante la siguiente sesión 01b, del viernes 14 marzo 2025.
+
+## encargo01
