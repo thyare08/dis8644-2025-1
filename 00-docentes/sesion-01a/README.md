@@ -124,7 +124,7 @@ deben analizar, especular e imaginar sobre su funcionamiento, usando la metáfor
 la entrega debe tener 2 componentes:
 
 1. textual: deben escribir texto, en prosa o verso, que explica el funcionamiento del objeto de estudio. deben responder a las preguntas "qué pasa adentro", "cuáles son los límites de este objeto", "cómo este objeto logra hacer lo que hace?", "por qué falla este objeto?", etc.
-2. visual: deben hacer diagramas especulativos sobre el funcionamiento del objeto de estudio. pueden usar herramietnas gráficas que ya conocen, y les invitamos a estudiar diagramas electrónicos de instrumentos electrónicos, como el Atari Punk Console.
+2. visual: deben hacer diagramas especulativos sobre el funcionamiento del objeto de estudio. pueden usar herramientas gráficas que ya conocen, y les invitamos a estudiar diagramas electrónicos de instrumentos electrónicos, como el Atari Punk Console.
 
 este encargo será revisado y compartido durante la siguiente sesión 01b, del viernes 14 marzo 2025.
 
