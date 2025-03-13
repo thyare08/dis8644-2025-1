@@ -1,5 +1,7 @@
 # sesion-01a
 
+martes 11 marzo 2025
+
 ## presentación equipo docente
 
 ### aarón montoya
@@ -30,7 +32,6 @@ experiencia docente:
 * profe invitade, DesignLab, UAI
   * DIS145 diseño y construcción de interfaces, primer semestre 2024
 
-
 enlaces:
 
 * <https://montoyamoraga.io/>
@@ -41,7 +42,7 @@ enlaces:
 
 ### matías serrano
 
-profe asistente y co-creador del curso.
+profe adjunto y co-creador del curso.
 
 * pregrado: licenciado en artes mención sonido UChile (2011-2016)
 * postgrado: magíster en artes mediales, UChile (2021-2023)
