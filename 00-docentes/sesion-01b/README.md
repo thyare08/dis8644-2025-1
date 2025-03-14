@@ -41,3 +41,11 @@ outputs
 sensores
 
 actuadores
+
+## notas clase
+
+subir cheatsheet de markdown
+
+encargo: tratar de subir lo que puedan
+
+
