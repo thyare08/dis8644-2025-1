@@ -41,3 +41,12 @@ outputs
 sensores
 
 actuadores
+
+## notas clase
+
+subir cheatsheet de markdown
+
+encargo: tratar de subir lo que puedan
+[DIS8644_ListaMateriales - Hoja 1.pdf](https://github.com/user-attachments/files/19248756/DIS8644_ListaMateriales.-.Hoja.1.pdf)
+
+
