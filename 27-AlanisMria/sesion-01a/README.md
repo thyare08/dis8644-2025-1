@@ -9,8 +9,9 @@
 
 Debemos comprender que siempre será mas importante el concepto que la tecnología.
 
+Durante la clase conocimos distintas maneras de hacer sonidos mediante elementos electronicos.
 
-Referentes de la clase 
+## Referentes de la clase 
 
 * Oficina de sonido
 
@@ -24,3 +25,4 @@ Referentes de la clase
 * Critter and Guitari
 
 <https://www.critterandguitari.com/>
+
