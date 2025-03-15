@@ -1,7 +1,7 @@
 # sesion-01a
 *11 de marzo de 2025*
 
-## Encargos
+### Encargos
 
 1. Escuchar un disco de Kraftwerk
 2. Ver pelicula "Barrio universitario" 2023
@@ -11,7 +11,7 @@ Debemos comprender que siempre ser√° mas importante el concepto que la tecnolog√
 
 Durante la clase conocimos distintas maneras de hacer sonidos mediante elementos electronicos.
 
-## Referentes de la clase 
+### Referentes de la clase 
 
 * Oficina de sonido
 
