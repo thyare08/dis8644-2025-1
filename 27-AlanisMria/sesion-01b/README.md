@@ -11,7 +11,7 @@ Durante la clase se dio una pequeña charla de seguridad, respecto a los voltaje
 * Batería de auto 12v 
 * Pilas cilindricas 1.5v
 
-> 30v **xox** <- muerte
+Mayor a 30v **xox** <- muerte
 
 ### Encargo 
 
