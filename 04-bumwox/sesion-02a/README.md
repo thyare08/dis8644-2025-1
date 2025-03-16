@@ -2,22 +2,26 @@
 
 ## 01. [aphex twin](https://es.wikipedia.org/wiki/Aphex_Twin)
 
+aphex twin es un dj y productor irlandes llamado richard david james, actualmente con 53 años, nacido en limerick irlanda. uno de los mayores referentes de la musica electroncia
 
-Richard David James, más conocido como Aphex Twin, es un DJ y productor irlandés nacionalizado británico. Fue descrito por el periódico The Guardian en 2001 como «la figura más innovadora e influyente de la música electrónica contemporánea».​ Wikipedia
-Nacimiento: 18 de agosto de 1971 (edad 53 años), Limerick, Irlanda
-Cónyuge: Anastasia Rybina
-Padres: Lorna James, Derek James
-Hermanos: Richard James
-Grupos musicales: The Tuss (Desde 2007), Universal Indicator
+revisando su discografia me llamaron atencion varios albumes tanto por su portada como popr su titulo (asi es, lo juzgo por su portada) por lo que escuche en su mayoria la totalidad de el tracklist de cada album
 
-
-discografia que escuche:
-
-1. syro
+1. syro ✓  
 2. selected ambient works 85-92
 3. ...i care because you do
 4. surfing on sine waves
 5. rushup edge
+
+contexto del disco:
+
+
+instrumentos usados:
+
+entrevistas de la epoca:
+
+videos musicales:
+
+opiniones del disco: 
 
 ## 02. [the internet´s own boy: the story of aaron swartz](https://www.youtube.com/watch?v=9vz06QO3UkQ&rco=1)
 
