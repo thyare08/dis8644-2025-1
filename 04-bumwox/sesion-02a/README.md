@@ -13,9 +13,13 @@ revisando su discografia me llamaron atencion varios albumes tanto por su portad
 5. rushup edge
 
 contexto del disco:
+- syro es el sexto album de richerd james bajo el nombre de aphex twin lanzando el 19 de septiembre de 2014
+- combina varios generos musicales entre ellos techno, acid techno, breakbeat, synthfunk y el jungle
+- _"James también explicó que al componer, "lo lógico es no cambiar nada y simplemente hacer otra canción con el mismo conjunto de sonidos", pero durante las sesiones de grabación de Syro a menudo "se aburría y cambiaba cosas". [ 1 ] Las 12 canciones fueron escritas por James en el estudio."_ (esto debo editarlo)
 
 
 instrumentos usados:
+- Se utilizaron un total de 138 equipos en Syro , incluyendo sintetizadores , samplers , secuenciadores , unidades de procesamiento , interfaces MIDI , cajas de ritmos , vocoders , ecualizadores gráficos y mesas de mezclas . Entre las marcas que James usó se encontraban Yamaha , SSL , Sennheiser , Boss , Roland , Korg y AKG . Varios equipos fueron modificados por el propio James.
 
 entrevistas de la epoca:
 
