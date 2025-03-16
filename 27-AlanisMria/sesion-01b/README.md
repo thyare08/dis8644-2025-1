@@ -1,5 +1,5 @@
 # sesion-01b
-* 14 de marzo de 2025 *
+*14 de marzo de 2025*
 
 Durante la clase se dio una pequeña charla de seguridad, respecto a los voltajes de algunos elementos.
 
