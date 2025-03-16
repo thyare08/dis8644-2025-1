@@ -19,3 +19,7 @@ discografia que escuche:
 5. rushup edge
 
 ## 02. [the internet´s own boy: the story of aaron swartz](https://www.youtube.com/watch?v=9vz06QO3UkQ&rco=1)
+
+## 03. caja de componentes
+- kjdkcjd
+- dj vkdjn
