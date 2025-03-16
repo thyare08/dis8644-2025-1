@@ -4,13 +4,15 @@
 
 aphex twin es un dj y productor irlandes llamado richard david james, actualmente con 53 años, nacido en limerick irlanda. uno de los mayores referentes de la musica electroncia
 
-revisando su discografia me llamaron atencion varios albumes tanto por su portada como popr su titulo (asi es, lo juzgo por su portada) por lo que escuche en su mayoria la totalidad de el tracklist de cada album
+revisando su discografia me llamaron atencion varios albumes tanto por su portada como por su titulo (asi es, lo juzgo por su portada) por lo que escuche en su mayoria la totalidad de el tracklist de cada album
 
-1. syro ✓  
+1. __syro__ ✓  
 2. selected ambient works 85-92
 3. ...i care because you do
 4. surfing on sine waves
 5. rushup edge
+
+el que mas me cautivo fue syro, asi que me enfocare en ello para el analisis ;)
 
 contexto del disco:
 - syro es el sexto album de richerd james bajo el nombre de aphex twin lanzando el 19 de septiembre de 2014
@@ -22,8 +24,10 @@ instrumentos usados:
 - Se utilizaron un total de 138 equipos en Syro , incluyendo sintetizadores , samplers , secuenciadores , unidades de procesamiento , interfaces MIDI , cajas de ritmos , vocoders , ecualizadores gráficos y mesas de mezclas . Entre las marcas que James usó se encontraban Yamaha , SSL , Sennheiser , Boss , Roland , Korg y AKG . Varios equipos fueron modificados por el propio James.
 
 entrevistas de la epoca:
+- 
 
 videos musicales:
+- 
 
 opiniones del disco: 
 
