@@ -1,6 +1,8 @@
 # sesion-01b
 
-mi primer MarkDown.
+14 de Marzo de 2025.
 
-* uno
-* otra cosa.
+**Encargo 00:**
+
+Parte 1: Escuchar un álbum de **Kraftwerk** (música electrónica) 
+
