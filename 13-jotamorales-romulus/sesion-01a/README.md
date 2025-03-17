@@ -17,7 +17,7 @@ Durante la mitad de la clase, los profesores nos presentaron distintos dispositi
 bastl instruments
 oficina de sonido (buscar en instagram)
 
-encargo clase viernes 14
+#encargos#
 1. escuchar disco de kraftwerk
 2. ver pelicula "barrio universitario"
 3. "Mi caja negra y yo"
