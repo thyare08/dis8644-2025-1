@@ -1,5 +1,7 @@
 # sesion-01b
 
+14-03-2025
+
 ## Encargo 00 
 Escuchar disco Kraftwerk y ver película Barrio Universitario
 
