@@ -2,6 +2,11 @@
 
 ## 01. [aphex twin](https://es.wikipedia.org/wiki/Aphex_Twin)
 
+### referencias
+- [syro](https://en-m-wikipedia-org.translate.goog/wiki/Syro?_x_tr_sl=en&_x_tr_tl=es-419&_x_tr_hl=es-419&_x_tr_pto=sc)
+- [aphex twin wiki](https://en.m.wikipedia.org/wiki/Aphex_Twin)
+- [aphex twin spotify](https://open.spotify.com/intl-es/artist/6kBDZFXuLrZgHnvmPu9NsG)
+
 aphex twin es un dj y productor irlandes llamado richard david james, actualmente con 53 años, nacido en limerick irlanda. uno de los mayores referentes de la musica electroncia
 
 revisando su discografia me llamaron atencion varios albumes tanto por su portada como por su titulo (asi es, lo juzgo por su portada) por lo que escuche en su mayoria la totalidad de el tracklist de cada album
