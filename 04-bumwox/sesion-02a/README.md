@@ -25,12 +25,28 @@ instrumentos usados:
 - Se utilizaron un total de 138 equipos en Syro , incluyendo sintetizadores , samplers , secuenciadores , unidades de procesamiento , interfaces MIDI , cajas de ritmos , vocoders , ecualizadores gráficos y mesas de mezclas . Entre las marcas que James usó se encontraban Yamaha , SSL , Sennheiser , Boss , Roland , Korg y AKG . Varios equipos fueron modificados por el propio James.
 
 entrevistas de la epoca:
-- 
-
+- [Aphex Twin on New ‘Syro’ LP: ‘I’m Feeling Really Horny About It – and Very Smug’](https://www.rollingstone.com/music/music-news/aphex-twin-on-new-syro-lp-im-feeling-really-horny-about-it-and-very-smug-49382/)
+- [Strange Visitor: A Conversation With Aphex Twin](https://pitchfork.com/features/cover-story/9506-strange-visitor-a-conversation-with-aphex-twin/)
+  
 videos musicales:
-- 
+- [syro](https://youtube.com/playlist?list=OLAK5uy_kWLa7L4b7s7TTTtf2Mku7oQ3M2obgG5Xg&si=A8XRbGc1jeHRuck-)
 
 opiniones del disco: 
+- yv
+
+tracklist (spotify ver.):
+1. minipops 67 [120.2][source field mix]
+2. XMAS_EVET10 [120][thanaton3 mix]
+3. produk 29 [101]
+4. 4 bit 9d api+e+6[126.26]
+5. 180db_[130]
+6. CIRCLONT6A [141.98][syrobonkus mix]
+7. fz pseudotimestretch+e+3 [138.85]
+8. CIRCLONT14 [152.97][shrymoming mix]
+9. syro u473t8+e [141.98][piezolimunescence mix]
+10. PAPAT4 [155][pineal mix]
+11. s950tx16wasr10 [163.97][earth portal mix]
+12. aisatna [102]
 
 ## 02. [the internet´s own boy: the story of aaron swartz](https://www.youtube.com/watch?v=9vz06QO3UkQ&rco=1)
 
