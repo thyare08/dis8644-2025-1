@@ -30,6 +30,9 @@ Barrio Universitario No suelo ver cine chileno y este fue después de tanto tiem
 encargo 1 Mi caja negra y yo
 Mi objeto es un amplificador de guitarra que uso para practicar. Me permite escuchar mi guitarra a través de un altavoz y modificar el sonido con efectos como distorsión y tono. 20250314_014303
 
+![20250314_014303](https://github.com/user-attachments/assets/4ab3823f-d9d4-4ca5-9c0c-c5de2c0839ec)
+
+
 Como extra, repitiendo lo que puse en mi croquera. La parte trasera tiene una tapa que oculta un mundo que no he conocido todavia. Puedo intuir que hay dentro, pero de momento no quiero perder la magia que hay dentro. Me gusta imaginar que realmente hay una boca que expulsa todo el sonido de la guitarra. Durante el semestre me gustaria aprender como funciona correctamente y lograr hacer algo parecido o que se puedar complementar con una guitarra.
 
 
