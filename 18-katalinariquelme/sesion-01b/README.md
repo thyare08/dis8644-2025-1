@@ -10,7 +10,7 @@ Foto de mi bitácora 01:
 
 [![Foto-croquera-1.jpg](https://i.postimg.cc/wjbFcFrJ/Foto-croquera-1.jpg)](https://postimg.cc/sM7p3PsD)
 
-**Parte 2:** Ver película **Barrio universitario** (Fabrizio Copano).
+**Parte 2:** Ver película **"Barrio universitario"** (Fabrizio Copano).
 
 Foto de mi bitácora 02:
 
