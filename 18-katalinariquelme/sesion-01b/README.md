@@ -59,13 +59,13 @@ Foto conector de batería
 
 [![Conector-de-bater-a.webp](https://i.postimg.cc/RqxqBrqf/Conector-de-bater-a.webp)](https://postimg.cc/GTzbF5Fh)
 
-3. **Cables:** Los cables son un conjunto de hilos metálicos, generalmente de cobre (por su grado de conductividad) o aluminio (por su bajo coste), que cumplen la función de conducir la electricidad de un punto a otro. Normalmente uno suele dar sentido de orden a estos ya que suelen ser de colores, pero lo mas común es : rojo-positivo y negro-negativo.
+3. **Cables:** Los cables son un conjunto de hilos metálicos ( generalmente de cobre), que cumplen la función de conducir la electricidad de un punto a otro. Normalmente uno suele dar sentido de orden a estos ya que suelen ser de colores, pero lo mas común es : rojo-positivo y negro-negativo.
 
 Foto cables
 
 [![cables-electricos.jpg](https://i.postimg.cc/SRMj3QQk/cables-electricos.jpg)](https://postimg.cc/0K98JsJB)
 
-4. **LEDS:** Los LED son un diodo (dispositivo semiconductor unidireccional) que emiten luz al pasar corriente eléctrica a través de ellos. Tienen dos patas, las cuales de diferencias en una pata larga (positivo) y una pata corta (negativo).
+4. **LEDS:** Los LED son un diodo (dispositivo semiconductor unidireccional) que emiten luz al pasar corriente eléctrica a través de ellos. Tienen dos patas, las cuales se diferencian en una pata larga (positivo) y una pata corta (negativo).
 
 Foto LEDS
 
