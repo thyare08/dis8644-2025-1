@@ -20,5 +20,5 @@
 -----
 
 ## Encargo 01
-
-![ALT TEXT](https://github.com/FranUDP/dis8644-2025-1/blob/42fb8c2f1de25bc3f7deb0b8fd48dd41a9c63323/25-FranUDP/sesion-01a/Screenshot_Black_Box.jpg)
+>
+>![ALT TEXT](https://github.com/FranUDP/dis8644-2025-1/blob/42fb8c2f1de25bc3f7deb0b8fd48dd41a9c63323/25-FranUDP/sesion-01a/Screenshot_Black_Box.jpg)
