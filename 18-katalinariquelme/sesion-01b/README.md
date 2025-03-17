@@ -4,13 +4,13 @@ Clase 1: Martes 11 de Marzo de 2025.
 
 **Encargo 00**
 
-**1:** Escuchar algún disco de **Kraftwerk** .
+**Parte 1:** Escuchar algún disco de **Kraftwerk** .
 
 Foto de mi bitácora 01:
 
 [![Foto-croquera-1.jpg](https://i.postimg.cc/wjbFcFrJ/Foto-croquera-1.jpg)](https://postimg.cc/sM7p3PsD)
 
-**2:** Ver película **Barrio universitario** (Fabrizio Copano).
+**Parte 2:** Ver película **Barrio universitario** (Fabrizio Copano).
 
 Foto de mi bitácora 02:
 
@@ -18,7 +18,7 @@ Foto de mi bitácora 02:
 
 **Encargo 01: Mi caja negra y yo**
 
-- Eligir 1 objeto eléctrico o electrónicoy especular: ¿Qué sucede drentro?.
+- Eligir 1 objeto eléctrico o electrónico y especular: ¿Qué sucede dentro?.
 - Encontrar el input y output del objeto.
 - Diagramar cómo funciona por dentro, con dibujos y texto descriptivo en prosa.
 
