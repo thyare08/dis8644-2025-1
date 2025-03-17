@@ -37,7 +37,7 @@ videos musicales:
 - [syro](https://youtube.com/playlist?list=OLAK5uy_kWLa7L4b7s7TTTtf2Mku7oQ3M2obgG5Xg&si=A8XRbGc1jeHRuck-)
 
 opiniones del disco: 
-- yv
+- eeee nose
 
 tracklist (spotify ver.):
 1. minipops 67 [120.2][source field mix]
