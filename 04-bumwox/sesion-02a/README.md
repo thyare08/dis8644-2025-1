@@ -12,7 +12,7 @@ aphex twin es un dj y productor irlandes llamado richard david james, actualment
 revisando su discografia me llamaron atencion varios albumes tanto por su portada como por su titulo (asi es, lo juzgo por su portada) por lo que escuche en su mayoria la totalidad de el tracklist de cada album
 
 1. __syro__ ✓  
-2. selected ambient works 85-92
+2. selected ambient works 85-92 ✓ (excelente, delicia auditiva 👌)
 3. ...i care because you do
 4. surfing on sine waves
 5. rushup edge
@@ -37,7 +37,7 @@ videos musicales:
 - [syro](https://youtube.com/playlist?list=OLAK5uy_kWLa7L4b7s7TTTtf2Mku7oQ3M2obgG5Xg&si=A8XRbGc1jeHRuck-)
 
 opiniones del disco: 
-- eeee nose
+- syro es un punto de partida y al mismo tiempo es el punto final que recorre aphex twin, el hecho de que de por si sea un album que haya tomado tanto tiempo en preoararse enfrento al artista al desafio del cambio, es curioso que syro quedara como ese contaste en su carrera y el punto de distincion del mismo, partamos por su tracklist, que solo se quedaron en las versiones de prueba en los titulos, y eso es un plus a lo invaluable del trabajo de esta parte de su discografia, y no solo syro sino mas de su obra que or suuesto estare mas atenta de ahora en adelante.
 
 tracklist (spotify ver.):
 1. minipops 67 [120.2][source field mix]
