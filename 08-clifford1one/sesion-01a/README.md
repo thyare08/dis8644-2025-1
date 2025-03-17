@@ -6,4 +6,4 @@ Clase 1 kemosión
 
 https://www.figma.com/board/2tv4jx75qGZa6Gua2UCVer/taller.maq.electr?node-id=9-45&t=aZ8HCSQeFZaROUsg-1
 
-![alt text](tme-c1-links.jpg)
+![alt text](tme-c1-links.png)
