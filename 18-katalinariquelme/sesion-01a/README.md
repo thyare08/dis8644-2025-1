@@ -1,5 +1,9 @@
 # sesion-01a
 Clase 1: Martes 11 de Marzo de 2025.
+
+   **Apuntes clase**
+
+![apuntesClases](https://github.com/user-attachments/assets/be1c0ee6-bfc2-4405-8895-aecc96f7bb63)
  
  **Encargo 00**
  
@@ -33,6 +37,3 @@ Clase 1: Martes 11 de Marzo de 2025.
  
    [![Foto-croquera-6.jpg](https://i.postimg.cc/4xzNpFy2/Foto-croquera-6.jpg)](https://postimg.cc/21SDDG4n)
 
-   **Apuntes clase**
-
-   ![apuntesClases](https://github.com/user-attachments/assets/be1c0ee6-bfc2-4405-8895-aecc96f7bb63)
