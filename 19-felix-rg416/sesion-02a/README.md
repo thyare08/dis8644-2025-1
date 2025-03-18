@@ -12,6 +12,8 @@
 - @mikamartini
 - https://rahuldkjain.github.io/gh-profile-readme-generator/
 - https://archive.org/
+- https://www.markdownguide.org/
+- https://www.bbc.co.uk/bitesize/articles/zqryn9q#zfx44xs
 
 
 ## lenguaje
