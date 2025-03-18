@@ -26,6 +26,23 @@ A pesar de formar parte de varias ideas en conjunto, siempre mantuvo la idea, de
 Personalmente siento que este documental es un llamado de alerta, y cuestionamiento en una sociedad que al día de hoy, pensamos que tenemos total libertad de conocimiento ¿Pero y si aquello que nos da una respuesta instantánea, que consideramos eficaz, nos está privando del cuestionamiento como comunidad? Es algo bastante inquietante, en un mundo que está en constante **evolución tecnológica**. Y que debemos de educarnos para utilizar de forma consciente, sin olvidar nuestras habilidades de conocimiento propio.
 
 
+
+
+
+
+ Links Consultados
+
+https://www.itsnicethat.com/features/weirdcore-aphex-twin-field-day-050617-miscellaneous
+
+https://www.vice.com/en/article/aphex-twins-twisted-new-live-show-interview/
+
+https://www.technomag.fr/es/de-donde-viene-la-cultura-rave/#google_vignette
+
+
+
+
+
+
  
 
 
