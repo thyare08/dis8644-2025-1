@@ -1,19 +1,29 @@
 # sesion-01b
-# encargo 0
+clase martes 18 de marzo
 
-**Barrio Universitario**
-No suelo ver cine chileno y este fue después de tanto tiempo, un reencuentro. Reconocí a varios humoristas chilenos, lo que me dejo claro desde un principio que esta no iba a ser una pelicula que se tomara en serio. Su humor aunque efectivo, se ve sofocado, por saltos entre escenas y un montaje que encuentro desordenado. Tiene escenas bien creativas y chistosas, lo cual permite ignorar varios fallos de la pelicula. Me gusta cómo ridiculiza ciertas realidades en chile, como la diferencia entre universidades privadas y técnicas. Lo que sí hace que todo se venga a bajo es el desarrollo de la historia, esperaba cosas como un poco más de enfoque en el robot y el desenlace se siente apresurado y sin moraleja ni evolución de personajes. 
 
-**Kraftwerk*
-Elegí el álbum Radio-Activity de 1975. Primero que nada, busqué la banda en Spotify y puse sus canciones en modo aleatorio. Al principio, no me gustaba para nada; estaba en el metro y las canciones se me hicieron eternas, aunque tenían su encanto. Sin embargo, cuando escuché Radioactivity en mi habitación, en un contexto más cómodo, me atrapó por completo y me maravilló lo poco común que era para mí. Lo que en un inicio me resultaba monótono terminó atrapandome por completo. La repetitividad de los ritmo comenzó a hipnotizarme.
-El álbum inicia con un sonido que se asemeja a un contador Geiger. A medida que avanza, crea una atmósfera única con voces que parecen provenir de una radio. Me transmite una sensación de miedo y preocupación por la radiación, como si estuviera escuchando una advertencia en medio de un mundo dominado por la energía nuclear. Su sonido me da la idea de un futuro tecnológico incierto. 
 
-# encargo 1 Mi caja negra y yo
+recordatorio, poner apuuntes clase viernes 14
 
-Mi objeto es un amplificador de guitarra que uso para practicar. Me permite escuchar mi guitarra a través de un altavoz y modificar el sonido con efectos como distorsión y tono.
-![20250314_014303](https://github.com/user-attachments/assets/8ff24eff-a0f3-4f71-898a-b97025112f45)
 
-Como extra, repitiendo lo que puse en mi croquera. La parte trasera tiene una tapa que oculta un mundo que no he conocido todavia. Puedo intuir que hay dentro, pero de momento no quiero perder la magia que hay dentro. Me gusta imaginar que realmente hay una boca que expulsa todo el sonido de la guitarra. Durante el semestre me gustaria aprender como funciona correctamente y lograr hacer algo parecido o que se puedar complementar con una guitarra.
 
-# 
 
+# encargo 2
+Aphex Twin - Selected Ambient Works 85-92 - 1992
+
+![image](https://github.com/user-attachments/assets/d84bfd95-e67f-44e1-ab83-95ef0723c9e4)
+
+Primero que nada, llevo bastantes años viendo a gente caminar por las calles con bolsas y poleras de Aphex Twin, y me alegra saber por fin de dónde proviene el logo. Escuché Selected Ambient Works 85-92 porque lo reconocí a primera vista, sin saber que este era el álbum debut del artista. Al escucharlo, se siente más ambiental en comparación con la música de esa época (acid house, etc.). El título me hace pensar que compuso estas canciones entre 1985 y 1992.
+
+Con temas como Xtal (mi tema favorito, aunque si le llego a dar más vueltas al álbum, puede que cambie de opinión), me resulta difícil imaginar a alguien bailando enérgicamente. Siento que transmite una sensación de estar en un lugar liminal, con ecos y voces difusas, como si estuvieras en un recuerdo borroso o en un espacio entre lo real y lo soñado. En pocas palabras, es como si las capas del sonido se fueran desprendiendo progresivamente.
+
+Para su producción, principalmente se usaron un Roland SH-101, un Korg MS-20 y un Yamaha DX7 para los parches de sintetizador, pasando todo a través de un Alesis Quadraverb y mezclándolo en cintas de casete estándar.
+
+https://www.youtube.com/watch?v=SOUvcVc14L4&t=74s
+https://reverbmachine.com/blog/aphex-twin-selected-ambient-works-85-92/#:~:text=Selected%20Ambient%20Works%2085-92%20was%20made%20with%20a%20limited,and%20mixing%20to%20standard%20cassettes.
+
+
+
+
+
+#encargo 3 
