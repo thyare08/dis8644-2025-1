@@ -17,14 +17,14 @@ Analisis disco Aphex Twin
 
 * Contexto:
 
+A modo de contexto historico, en el año 1992, año en el cual se estreno este disco, estaba habiendo una resaca respecto a la innovacion de la musica techno-house, por lo que Aphex Twin , influenciado por el acid house de los 80s, dio pie a una nueva forma de ver este genero, tanto por las melodias que utiliza, como por las emociones que genera.
+
 
 * Instrumentos usados:
 
-
-* Entrevistas de la época:
-
-
-* Videos musicales:
+Sintetizadores ( Roland SH-101, Korg MS-20 y Yamaha DX7 ) , una computadora de mesa y un sampler. 
 
 
-* Impresiones y opiniones:
+* Opinion:
+  Mi track favorito fue por lejos "Green Calx", debido a que me recordo inmediatamente a los juegos arcade, y posteriormente ( Min 1:20 ) a un soundtack de los clasicos "Mortal Kombat". Ya hablando del resto del disco lo encontre bastante bueno, mientras lo escuchaba estaba aprovechando de hacer otros encargos, y se me hizop bastante ameno y una experiencia bastante inmersiva, ya que con los sintetizadores y los sonidos ambientales, pareciera que este te lleva a distintas dimensiones.
+
