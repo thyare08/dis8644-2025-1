@@ -69,6 +69,10 @@ tracklist (spotify ver.):
 
 ## 02. [the internet´s own boy: the story of aaron swartz](https://www.youtube.com/watch?v=9vz06QO3UkQ&rco=1)
 
+![image](https://github.com/user-attachments/assets/6ea3699e-12e7-46ed-a526-9ea3dd270f66)
+
+aqui va la reseña
+
 ## 03. caja de componentes
 
 ![image](https://github.com/user-attachments/assets/d41c9bdf-c9af-4e35-a607-b2937a26e1d0)
