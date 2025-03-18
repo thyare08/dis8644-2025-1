@@ -71,7 +71,14 @@ tracklist (spotify ver.):
 
 ![image](https://github.com/user-attachments/assets/6ea3699e-12e7-46ed-a526-9ea3dd270f66)
 
-aqui va la reseña
+- para el siempre habia algo que hacer
+- la programacion es magia
+
+me impresiona el impacto o la huella que marco, con solo una idea, o un proposito, es incluso alentador en el sentido de que de verdad yo tambien puedo hacerlo si lo intento
+
+ser participe de un cambio o siquiera solo apoyarlo es un gran paso para avanzar e involucrar a las demas personas ajenas al mundo
+
+![image](https://github.com/user-attachments/assets/d0c551bc-ff26-4da4-b982-c3b7f1a97b2b)
 
 ## 03. caja de componentes
 
