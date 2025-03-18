@@ -25,4 +25,3 @@ https://pueblonuevo.cl/
 
 [sch_symbols.pdf](https://github.com/user-attachments/files/19319793/sch_symbols.pdf)
 
-<img width="592" alt="Captura de pantalla 2024-08-20 a la(s) 11 00 20" src="https://github.com/user-attachments/assets/cd8774e7-f984-4cc9-b204-6ab988d2666d" />
