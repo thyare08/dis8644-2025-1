@@ -36,6 +36,6 @@ La carátula del disco fue diseñada por Karl Klefisch, basado en el trabajo de 
 -https://en.wikipedia.org/wiki/The_Man-Machine
 -https://revistaladosis.com/kraftwerk-the-man-machine
 
-### Ver la película "Barrio UNiversitario"
+### Ver la película "Barrio Universitario"
 
 Al ver la película “Barrio Universitario” me di cuenta que habían hartos actores de la película, los cuales no reconocía ninguno, pero sabía que eran personajes de la televisión Chilena, en esta película se demuestra la participación de 2 distintos grupos que participan en una competencia de robótica, con unos estereotipos cómicamente exagerados de cómo es la educación pública y privada en Chile, con un humor bastante ordinario a lo largo de la película. Aunque el enfoque desde un inicio de la película no era el de la robótica, sino que el romance o enamoramiento de uno de los personajes principales, también se puede observar un ejemplo de cómo un proyecto, aun con financiamiento y “buenas intenciones” puede fracasar estrepitosamente, o incluso puede ser apreciado por otros, aunque este hecho con basura, sin necesidad de echar para abajo antes de conocer el resultado final de tu objetivo.
