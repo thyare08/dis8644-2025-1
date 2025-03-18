@@ -12,7 +12,10 @@ https://www.figma.com/board/2tv4jx75qGZa6Gua2UCVer/taller.maq.electr?node-id=0-1
 
 # DIAGRAMAS ELÉCTRICOS 
 
-
+![alt text](tme-c2-encargod1.jpg)
+![alt text](tme-c2-encargod2.jpg)
+![alt text](tme-c2-encargod3.jpg)
+![alt text](tme-c2-encargod4.jpg)
 
 # MÚSICA ELECTRÓNICA: Aphex Twin
 
