@@ -6,7 +6,7 @@
 .
 .
 
-## Encargo 03
+## Encargo 02
 
 Escuchar álbum _Aphex Twin_ y ver documental de _Aaron Swartz_
 
@@ -21,7 +21,8 @@ Escuchar álbum _Aphex Twin_ y ver documental de _Aaron Swartz_
 * Al final del siglo de los 90, la música electrónica se estaba llevando a cabo en ordenadores interactivos, creciendo en la música con distintos ritmos, como: **Drum and bass**, **Jungle**, **Trance**, etcétera.
 * El álbum tiene sonidos extravagantes y en la primera canción tiene muchos sonidos hardcore, por lo que me dio miedo escucharla. Sus canciones son bastantes abstractas, como si fuera música tipo extraterrestre. :)
   
-  ![ComeToDaddy](https://github.com/user-attachments/assets/32032816-9cdc-4ae5-abcd-ccba4e12ac43
+  ![ComeToDaddy](https://github.com/user-attachments/assets/90f8e13f-cd89-42b6-9e15-6aa44d552783)
+
 
   ![Aphex](https://github.com/user-attachments/assets/37856fa3-eeee-4a21-b18f-16422f60ee75)
 
@@ -30,4 +31,17 @@ Este álbum me gustó mucho, excepto la primera canción _Come to Daddy_, ya que
 
 ### El hijo del internet - Documental de la historia de Aaron Swartz 
 
+<https://www.youtube.com/watch?v=9vz06QO3UkQ&rco=1>
 
+<https://www.youtube.com/watch?v=NfY91teCXds>
+
+_"Existen leyes injustas, deberíamos contentarnos con obedecerlas o deberíamos trabajar en enmendarlas, y cumplirlas hasta tener éxito, o deberíamos Transgedirlas desde el principio?"_ (Henry David Thoreau)
+
+* Aaron Swartz (8-11-1986 / 11-01-2013) nació en Highland Park y fue un programador, activista y hacker del internet.
+
+Sobre el documental: 
+
+* Aaron aprendió a aprender a una edad muy temprana; empezó a programar desde muy joven.
+* El documental se divide en: Childhood- programming- RSS- school- copyright- creative commons- personal blog- college- leaving startup culture- tim bernerslee- open library- pacer- thumb drive corps- pacer problem- FBI- JSTOR- american greed- anonymous- taking the deal- his motives- his depression.
+
+  
