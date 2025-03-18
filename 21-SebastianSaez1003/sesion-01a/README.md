@@ -39,3 +39,9 @@ La carátula del disco fue diseñada por Karl Klefisch, basado en el trabajo de 
 ### Ver la película "Barrio Universitario"
 
 Al ver la película “Barrio Universitario” me di cuenta que habían hartos actores de la película, los cuales no reconocía ninguno, pero sabía que eran personajes de la televisión Chilena, en esta película se demuestra la participación de 2 distintos grupos que participan en una competencia de robótica, con unos estereotipos cómicamente exagerados de cómo es la educación pública y privada en Chile, con un humor bastante ordinario a lo largo de la película. Aunque el enfoque desde un inicio de la película no era el de la robótica, sino que el romance o enamoramiento de uno de los personajes principales, también se puede observar un ejemplo de cómo un proyecto, aun con financiamiento y “buenas intenciones” puede fracasar estrepitosamente, o incluso puede ser apreciado por otros, aunque este hecho con basura, sin necesidad de echar para abajo antes de conocer el resultado final de tu objetivo.
+
+
+# Encargo 01 Mi caja negra y yo
+![20250314_093926](https://github.com/user-attachments/assets/2b78b9c9-0933-4814-b0e6-0d8cd2ad0e49)
+![20250317_230935](https://github.com/user-attachments/assets/c54792c6-49d5-4e68-882f-406cac47fb59)
+
