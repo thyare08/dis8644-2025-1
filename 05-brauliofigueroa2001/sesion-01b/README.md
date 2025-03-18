@@ -67,6 +67,88 @@ El disco me pareció bastante raro de escuchar, posee mezclas muy diversas de in
 
 
 
-## Encargo 03
+## Encargo 02 parte 2
 ### review documental: Internet Own Boy
 Ví el documental Internet Own Boy el fin de semana, la verdad nunca había visto algo acerca sobre Aaron Swartz, no lo conocía en lo más mínimo. La verdad me pareció una maravilla de documental, siento que representa muy bien lo que Aaron quería lograr y su mensaje. Hablando más específico de Aaron Swartz, me conmovió la vida que llevó, lloré al final del documental. Creo que es de las causas más nobles por las cuáles una persona puede luchar, por el acceso al conocimiento libre para todos. Antes de ver el documental hay cosas las cuáles no tenía conocimiento previo, tales como el funcionamiento y creación de Creative Commons, organización dedicada a promover el acceso de información e intercambio de cultura,siento que antes de ver esto, son cosas que uno da por sentado que siempre fueron así, el acceso a información, pero después de ver este documental y la lucha de Aaron Swartz, me hace dar cuenta de todo el esfuerzo que hubo y hay detrás de esto, como por ejemplo, cuando detuvieron la ley SOPA, nunca imaginé estas situaciones con la magnitud que se muestra en el documental. Por otra parte me costó entender determinados conceptos o cosas que se mostraban, sobretodo relacionado a la programación. El hecho de ver lo que Aaron Swartz logró en base a la programación, me hace dar cuenta de lo que es posible lograr con esta herramienta, la verdad siempre la ví bien de lejos pero ahora que lo reflexiono después de ver el documental creo que es mucho más de lo que alguna vez pensé o la idea que creía tener de ello. Me quedo con una frase de Aaron, no la recuerdo a la perfección, pero hablaba de que las personas creen que como funciona el mundo es lo que está bien, cuando en realidad uno siempre se tiene que cuestionar las cosas o tratar de cambiarlas, como Aaron lo hizo, me gustó mucho el documental, aprendí cosas que no conocía y me emocionó profundamente, muchas gracias por la recomendación.
+
+
+## Encargo 03
+### Review de caja de componentes electrónicos
+
+**Componente 1: Protoboard 830**
+![protoboard830](https://github.com/user-attachments/assets/80ad1047-49b3-474f-8dfb-9b0df8df32d7)
+
+1. **Creador**: Jack S. Kilby
+2. **Año**: 1958
+3. **Función**: Sirve para conectar componentes eléctricos entre sí, sin la necesidad de realizar una soldadura
+4. Esta protoboard en específico, cuenta con 830 puntos de conexión, fue patentada por la marca Zurich.
+
+**Componente 2: Cable Puente**
+
+![cablepuente](https://github.com/user-attachments/assets/5e959171-7ae4-4f43-8580-7ce3455da427)
+
+1. **Creador**: No posee uno específico
+2. **Año**: Entre 1950 y 1960
+3. **Función**: Un cable puente es un tipo de cable eléctrico o conductor utilizado para conectar dos puntos en un circuito eléctrico, permitiendo la transmisión de energía o señales entre ellos.
+
+**Componente 3: Resistencia o Resistor**
+
+![resistencia](https://github.com/user-attachments/assets/712c6965-ea76-4e9b-90c6-222b103cee6a)
+
+1. **Creador**: Georg Ohm
+2. **Año**: 1827
+3. **Función**: La resistencia es utilizada para introducir una resistencia eléctrica específica entre dos puntos de un circuito eléctrico.
+
+**Componente 4: Interruptor Basculante**
+
+![interruptor basculante](https://github.com/user-attachments/assets/cc519554-f4ad-4b4e-a512-b53b13458a52)
+
+1. **Creador**: No posee uno específico
+2. **Año**: Década de los 80
+3. **Función**: Los interruptores basculantes contienen un botón de funcionamiento que se puede presionar en cualquier extremo como un balancín para conectar o desconectar un circuito eléctrico.
+
+**Componente 5: Zumbador Piezoeléctrico**
+
+![zumbadorpiezoelectrico](https://github.com/user-attachments/assets/7dfb72a8-137f-4754-90c7-9c395c145827)
+
+1. **Creador**: Inventores Japoneses, no hay autor específico
+2. **Año**: Década de los 70-80
+3. **Función**: Es un dispositivo de señalización de audio que puede ser utilizado como alarma.
+
+**Componente 6: Potenciómetro**
+
+![image](https://github.com/user-attachments/assets/c84e0321-26b0-4ff5-aa1f-2561018b1758)
+
+1. **Creador**: Charles Francis Sischka
+2. **Año**: 1906
+3. **Función**: Sirve como un divisor de tensión o divisor de voltaje.
+
+**Componente 7: Servomotor**
+
+![IMG_20250318_015343](https://github.com/user-attachments/assets/7cdf523b-9985-4f4a-b586-a087c352d602)
+
+1. **Creador**: No posee uno en específico
+2. **Año**: Mediados del siglo XX
+3. **Función**: Un servomotor, también conocido como servo, es un dispositivo que permite controlar con máxima precisión la posición y movimientos de su eje. Esto significa que este se puede mover en un ángulo, posición y a una velocidad determinada en cada momento, algo que no puede hacer un motor eléctrico normal.
+
+**Componente 8: Condensador Electrolítico**
+
+![image](https://github.com/user-attachments/assets/df856c8e-91a8-4e1d-94e7-3de1c22080ee)
+
+1. **Creador**: No posee uno en específico
+2. **Año**: Finales de la década de 1920
+3. **Función**: El condensador electrolítico tiene la función principal de almacenar energía eléctrica en forma de un campo eléctrico entre sus placas conductoras. Se utiliza comúnmente en circuitos electrónicos para varias aplicaciones, debido a su alta capacitancia (su capacidad de almacenar carga).
+
+**Componente 9: Condensador Cerámico**
+
+![image](https://github.com/user-attachments/assets/826e5733-b023-416b-a431-89df01ee6bd7)
+
+1. **Creador**: Charles Pollak
+2. **Año**: Década de 1930
+3. **Función**: En circuitos electrónicos, los condensadores cerámicos se usan comúnmente para filtrar señales. Esto significa que ayudan a suavizar las variaciones de voltaje y a eliminar el ruido de alta frecuencia en las señales de corriente continua.
+
+
+
+
+
+
