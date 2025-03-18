@@ -15,7 +15,7 @@
 
 [![Foto-croquera-3.jpg](https://i.postimg.cc/mgtghNFh/Foto-croquera-3.jpg)](https://postimg.cc/68xXmZcN)
 
-**Parte 2:** Componentes.
+**Parte 2:** Componentes vistos en clases.
 
 1. **Protoboard:** Un protoboard es una herramienta que permite construir circuitos electrónicos sin necesidad de soldar. Es utilizado para la creación de prototipos de un circuito.
 
