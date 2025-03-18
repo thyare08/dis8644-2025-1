@@ -11,6 +11,10 @@ https://www.figma.com/board/2tv4jx75qGZa6Gua2UCVer/taller.maq.electr?node-id=9-4
 
 ## ENCARGOS 
 
+### "MI CAJA NEGRA"
+
+![alt text](tme-c1-encargo.jpg)
+
 ### BARRIO UNIVERSITARIO
 
 Barrio Universitario:
