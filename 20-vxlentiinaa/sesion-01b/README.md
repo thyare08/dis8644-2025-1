@@ -70,4 +70,4 @@ Sobre el documental:
 
 ![Swartz](https://github.com/user-attachments/assets/a00c5961-e2ba-451c-a218-df6ec1c70e6c)
 
-Me pareció super entretenido e interesante ver el documental sobre la vida de Aaron, muestra todas las etapas de la vida de Swartz y como fue un referente importante en la lucha sobre la censura del internet
+Me pareció super entretenido e interesante ver el documental sobre la vida de Aaron, muestra todas las etapas de la vida de Swartz y como fue un referente importante en la lucha sobre la censura del internet, participó en esta campaña contra la ley SOPA
