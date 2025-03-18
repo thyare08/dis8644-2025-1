@@ -13,7 +13,10 @@ Explorar la caja negra de un objeto con la que tengan una relación afectiva.
 
 ![El texto del párrafo (1)](https://github.com/user-attachments/assets/576286cd-3a48-4d26-9bb7-581d659873ca)
 
-Analisis disco Aphex Twin 
+Analisis disco "Selected Ambient Works 85-92" por Aphex Twin 
+
+![cropped-36a223_c1251865d9924f9e8e121e8bcbda163b-1](https://github.com/user-attachments/assets/c0322e9c-67e1-492c-a738-195119d82bfc)
+
 
 * **Contexto** :
 
