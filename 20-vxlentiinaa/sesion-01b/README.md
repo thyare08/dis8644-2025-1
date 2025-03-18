@@ -1,5 +1,26 @@
 # sesion-01b
 
+14-03-2025
+
+## Apuntes 
+
+* **Markdown**: lenguaje que permite dar formato a texto sin necesidad de dar etiquetas, un editor de texto.
+* **Fork**: es la copia donde uno puede hacer cambios como si fuera mi bitácora; no se pueden hacer cambios en _diseño udp_ como tal. 
+* Hay 2 formas de representar un circuito **ESQUEMÁTICO** y **FÍSICO**.
+* La protoboard se trabaja en horizontal.
+* Los electrones no "discriminan" colores, es decir, que pasan por cualquier cable.
+* **Contribute**: yo le hice un cambio al fork y quiero que los demás se enteren.
+* Markdown: .md
+* Markup: html
+* commit: grabar
+* enlace: < enlace >
+* imagen: ![nombre de imagen] (ubicación de la imagen)
+
+![Clase 01b](https://github.com/user-attachments/assets/f294b9b7-9ccd-4157-8a6c-e754d46414c6)
+
+![Clase 01b](https://github.com/user-attachments/assets/1ceb59c5-357c-4a22-bc83-47229a22b2ad)
+
+
 ## Encargo 00 
 Escuchar disco Kraftwerk y ver película Barrio Universitario
 
@@ -16,6 +37,7 @@ Me di cuenta que crítica al barrio en donde estudian, separando a los estatus s
 
 ![2  Barrio Universitario](https://github.com/user-attachments/assets/130381ba-414a-42fd-8295-18994465c15b)
 
+## Encargo 01
 
 ### Mi caja negra y yo
 Elegí mis _Audífonos de cable_
