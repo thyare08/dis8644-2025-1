@@ -2,10 +2,11 @@
 
  Clase 2: Viernes 14 de Marzo de 2025.
 
- **Apuntes:**
-
 - Parte 1: Introducción a GitHub.
 - Parte 2: Componentes electrónicos vistos en clase.
+- Parte 3: Encargo 02; escuchar un disco de **"Aphex Twin"** y ver documental de **"Aaron Swartz"**.
+
+**Apuntes:**
 
 **Parte 1:** Fotos de mi bitácora.
 
@@ -15,9 +16,16 @@
 
 [![Foto-croquera-3.jpg](https://i.postimg.cc/mgtghNFh/Foto-croquera-3.jpg)](https://postimg.cc/68xXmZcN)
 
-**Parte 2:** Componentes vistos en clases.
+**Parte 2:** Componentes electrónicos vistos en clases.
 
-1. **Protoboard:** Un protoboard es una herramienta que permite construir circuitos electrónicos sin necesidad de soldar. Es utilizado para la creación de prototipos de un circuito.
+1. **Protoboard**
+¿Quién fue el creador?
+Según el blog: "Especialista en informática" El creador del protoboard o breadboard conocido en inglés, fue Jack Kilby (ingeniero de las empresas Texas Instrument) en 1958.
+
+¿Qué es un protoboard?
+Es una herramienta fundamental en el mundo de la electrónica. Se trata de una placa con orificios interconectados internamente, diseñada para permitir la construcción rápida y sencilla de circuitos electrónicos temporales.
+Su principal característica es que no requiere soldadura, lo que facilita la experimentación y el prototipado de circuitos.
+
 
 Foto Protoboard
 
@@ -52,6 +60,7 @@ Foto resistencias
 Foto batería 9V
 
 [![bateria-9v.jpg](https://i.postimg.cc/k4ZBTRmT/bateria-9v.jpg)](https://postimg.cc/zbCzBB3h)
+
 
 **Ejercicio práctico:** Encender un LED con componentes vistos en clases.
 
