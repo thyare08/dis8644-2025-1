@@ -54,7 +54,9 @@ Aaron Swartz
 
 ![image](https://github.com/user-attachments/assets/a3e71b2e-54d6-401f-a124-a685d071c0a0)
 
-El documental inicia con esta frase, lo que refuerza la idea de que las leyes no siempre son justas y plantea la pregunta de cómo enfrentarlas. Swartz tomó el camino de la resistencia activa, demostrando su compromiso con el acceso libre al conocimiento. Su historia me hace cuestionar el costo de desafiar el sistema y hasta qué punto es necesario hacerlo por un bien mayor. Me impacta ver cómo alguien tan joven pudo generar un cambio tan grande en el mundo digital. Me gusta cómo el documental muestra el amor que tenía por la tecnología y la comunicación.Me hace pensar en el precio de luchar por lo que creemos justo. Me inspira su pasión y valentía, pero también me conmueve la presión que enfrentó. Aun así, su legado nos recuerda que el cambio es posible si nos atrevemos a cuestionar el sistema. Su historia me deja con una pregunta: ¿qué acciones podemos tomar hoy para construir un futuro más justo y accesible para todos?
+El documental inicia con esta frase, lo que refuerza la idea de que las leyes no siempre son justas y plantea la pregunta de cómo enfrentarlas. Swartz tomó el camino de la resistencia activa, demostrando su compromiso con el acceso libre al conocimiento. Su historia me hace cuestionar el costo de desafiar el sistema y hasta qué punto es necesario hacerlo por un bien mayor. Me impacta ver cómo alguien tan joven pudo generar un cambio tan grande en el mundo digital. Me gusta cómo el documental muestra el amor que tenía por la tecnología y la comunicación.
+
+Me hace pensar en el precio de luchar por lo que creemos justo. Me inspira su pasión y valentía, pero también me conmueve la presión que enfrentó. Aun así, su legado nos recuerda que el cambio es posible si nos atrevemos a cuestionar el sistema. Su historia me deja con una pregunta: ¿qué acciones podemos tomar hoy para construir un futuro más justo y accesible para todos?
 
 The Internet's Own Boy: The Story of Aaron Swartz | full movie (2014)
 https://www.youtube.com/watch?v=9vz06QO3UkQ&rco=1
