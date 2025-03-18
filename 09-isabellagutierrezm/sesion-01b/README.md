@@ -17,7 +17,7 @@ Para el espectáculo utiliza imágenes conocidas como **mapeo facial**, que cons
 ![festival 1](https://github.com/user-attachments/assets/478857a3-afc0-43de-93ba-5e9bc9a0d8af)
 
 ## The Internet Own Boy - Reseña 
-The internet Own Boy es un documental sobre la vida del programador y activista de la programación  **Aaron Swartz** asesinado por el gobierno, quien desde muy pequeño demostró habilidades para aprender y enseñar, **desarrollando un intelecto asombroso**, el cual le permitió a temprana edad ser reconocido. Asimismo, ser parte del desarrollo del lenguaje **Markdown, HTML y  páginas web**. Entre ellas RSS, donde ayudaba a construir la infraestructura para el hipertexto moderno, enlaces los cuales están unidos para rescatar información de la red, es decir una herramienta para obtener resúmenes de cosas que suceden en otras páginas.
+The internet Own Boy es un documental sobre la vida del programador y activista de la programación  **Aaron Swartz**, quien desde muy pequeño demostró habilidades para aprender y enseñar, **desarrollando un intelecto asombroso**, el cual le permitió a temprana edad ser reconocido. Asimismo, ser parte del desarrollo del lenguaje **Markdown, HTML y  páginas web**. Entre ellas RSS, donde ayudaba a construir la infraestructura para el hipertexto moderno, enlaces los cuales están unidos para rescatar información de la red, es decir una herramienta para obtener resúmenes de cosas que suceden en otras páginas.
 
 ### ¿Pero cuál era su objetivo? ### 
 
