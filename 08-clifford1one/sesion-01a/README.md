@@ -80,7 +80,9 @@ Es el séptimo álbum de Kraftwerk estrenado en 1978(el nombre original del disc
 
 Su portada fue realizada por el estudio de diseño gráfico Klefisch. Inspirado en
 
-las obras del artista “El Lisitski”. ![alt text](lisitski.jpg)
+las obras del artista “El Lisitski”. 
+
+![alt text](lisitski.jpg)
 
 Lo que más me llamó la atención de las canciones fu los sonidos que utilizaban
 
