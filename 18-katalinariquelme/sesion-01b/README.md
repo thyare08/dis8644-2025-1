@@ -7,9 +7,13 @@
 - Parte 1: Introducción a GitHub.
 - Parte 2: Componentes electrónicos vistos en clase.
 
-**Parte 1:** Foto de mi bitácora.
+**Parte 1:** Fotos de mi bitácora.
 
 [![Foto-croquera-7.jpg](https://i.postimg.cc/kgcGkpC6/Foto-croquera-7.jpg)](https://postimg.cc/688BZzyt)
+
+[![Foto-croquera-2.jpg](https://i.postimg.cc/ZKfqTDn1/Foto-croquera-2.jpg)](https://postimg.cc/JGk8xxbq)
+
+[![Foto-croquera-3.jpg](https://i.postimg.cc/mgtghNFh/Foto-croquera-3.jpg)](https://postimg.cc/68xXmZcN)
 
 **Parte 2:** Componentes.
 
@@ -59,9 +63,4 @@ Foto batería 9V
 
 [![Resultado.jpg](https://i.postimg.cc/zBWLvw6T/Resultado.jpg)](https://postimg.cc/VrfsHtYN)
 
-**Apuntes clases:**
-
-[![Foto-croquera-2.jpg](https://i.postimg.cc/ZKfqTDn1/Foto-croquera-2.jpg)](https://postimg.cc/JGk8xxbq)
-
-[![Foto-croquera-3.jpg](https://i.postimg.cc/mgtghNFh/Foto-croquera-3.jpg)](https://postimg.cc/68xXmZcN)
 
