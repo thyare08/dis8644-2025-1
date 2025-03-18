@@ -70,13 +70,13 @@ Nota final: 6/10
 Escuche el disco “The Man Machine”
 https://open.spotify.com/intl-es/album/3eyz60xEK5dGEeZF1JJSi9 
 
-![alt text](theManMachine.png)
+![alt text](TheManMachine.png)
 
 Es el séptimo álbum de Kraftwerk estrenado en 1978(el nombre original del disco es
 
 "Die Mensch-Maschine", el que yo escuche es su versión traducida al inglés).
 
-![alt text](theManMachine-og.png)
+![alt text](TheManMachine-og.png)
 
 Su portada fue realizada por el estudio de diseño gráfico Klefisch. Inspirado en
 
