@@ -1,9 +1,36 @@
 # sesion-01b
 clase martes 18 de marzo
+-parte 1
+Revisamos el encargo 0 y 1, comentándolo con el curso.
 
+GITHUB - plataforma principal del curso
+Los encargos se suben en la carpeta de la sesión en la que fueron asignados
 
+escribir en markdown en los readme.md 
+crear fork para hacer encargo y despues para guardar = commit changes y actualizar.
+Markdown es un lenguaje de marcado que permite dar formato a textos usando caracteres especiales en el texto plano. Se puede usar para crear documentos enriquecidos, como HTML, sin necesidad de usar etiquetas HTML o un editor de texto formal. 
 
-recordatorio, poner apuuntes clase viernes 14
+-parte 2: introducción a los componente electricos
+
+ <u> componentes <u>
+ 1. protoboard
+ 2. conector bateria
+ 3. cables
+ 4. leds
+ 5. resistencias
+
+ <u> precauciones <u>
+se considera seguro cualquier voltaje menor a 30V en corriente continua (DC) y 50V en corriente alterna (AC).
+ejemplos: pilas de 5v, bateria de auto 12v.
+trabajaremos con pilas de 9v, pero igual hay que aprender a tener cuidado
+
+*Un enchufe de hogar es peligroso porque maneja corriente alterna (AC) a un voltaje elevado, generalmente 110V o 220V, dependiendo del país. Este nivel de voltaje puede causar descargas eléctricas severas y otros riesgos como incendios o daños en dispositivos.
+  
+*encendimos un led en una protoboard.
+
+![image](https://github.com/user-attachments/assets/2b3489bf-cfa4-4039-80f3-d77a0d4810e3)
+
+![image](https://github.com/user-attachments/assets/dacb1224-a22b-45f8-ba01-5d4c62188c98)
 
 
 
@@ -33,6 +60,40 @@ The Internet's Own Boy: The Story of Aaron Swartz | full movie (2014)
 https://www.youtube.com/watch?v=9vz06QO3UkQ&rco=1
 
 # encargo 3- caja de componentes #
+![WhatsApp Image 2025-03-18 at 01 24 06 (1)](https://github.com/user-attachments/assets/fdd9cbe1-821a-4ebb-8bdb-a2b206a9ffdd)
+1. Protoboard 
+![image](https://github.com/user-attachments/assets/234d9389-db1c-4477-b273-381cf9a415a7)
+2.Interruptor 
+![image](https://github.com/user-attachments/assets/404c0ebd-f10c-40b9-9e5e-15d9ac9a3790)
+3. Servo Motor
+![image](https://github.com/user-attachments/assets/6002e6c8-c161-4887-9fda-a310cebb05d4)
+4. Potenciómetro
+   https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6r3gH8hlEdn_uQ2of9tFCzHKd0v1jgJCUJQ&s
+5. condensador
+ ![image](https://github.com/user-attachments/assets/b61f237d-52ba-4a6d-9daf-791f56976a0f)
+6. LEDs de colores
+7. ![image](https://github.com/user-attachments/assets/83f6ae87-5c0b-4feb-865d-c99962908ea4)
+8. cables
+   ![image](https://github.com/user-attachments/assets/3cb4ea46-7c85-455a-b6e1-be011ac61c85)
+9. Batería de 9V
+10. conector para batería de 9V
+    ![image](https://github.com/user-attachments/assets/276b44c4-b6ff-4689-a8f8-6f019b76536e)
+11. Zumbador piezoeléctrico
+    ![image](https://github.com/user-attachments/assets/d18caedf-89a1-4d26-a59f-441ffb2aae5d)
+12. Parlante pequeño
+  ![image](https://github.com/user-attachments/assets/cb008a72-7478-417b-af87-9d9190dec02d)
+13. Resistencias
+    ![image](https://github.com/user-attachments/assets/87cdaf55-7bb5-4237-83ec-809d0b9c27aa)
+14 .Condensadores ceramicos
+![image](https://github.com/user-attachments/assets/cb421f52-3e64-4ead-90da-e5d05ebaf228)
+
+
+
+
+
+
+
+
 
 
 
