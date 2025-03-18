@@ -4,6 +4,10 @@
 
 ## Apuntes 
 
+<https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax>
+
+<https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf>
+
 * **Markdown**: lenguaje que permite dar formato a texto sin necesidad de dar etiquetas, un editor de texto.
 * **Fork**: es la copia donde uno puede hacer cambios como si fuera mi bitácora; no se pueden hacer cambios en _diseño udp_ como tal. 
 * Hay 2 formas de representar un circuito **ESQUEMÁTICO** y **FÍSICO**.
@@ -26,6 +30,9 @@
 Escuchar álbum _Aphex Twin_ y ver documental de _Aaron Swartz_
 
 ### Aphex twin - Álbum _Come to Daddy_
+
+<https://www.ilictronix.com/2021/03/retro-reviews-aphex-twin-come-to-daddy.html>
+
 * Publicado en 1997, es un _extended play_ significa que es un EP un miniálbum.
 * Alcanzó el puesto #36 en la lista de UK Singles Chart.
 * Richard David James, es un dj y productor irlandés, nacionalizado británico.
@@ -59,3 +66,8 @@ Sobre el documental:
 * Aaron aprendió a aprender a una edad muy temprana; empezó a programar desde muy joven.
 * El documental se divide en: Childhood- programming- RSS- school- copyright- creative commons- personal blog- college- leaving startup culture- tim bernerslee- open library- pacer- thumb drive corps- pacer problem- FBI- JSTOR- american greed- anonymous- taking the deal- his motives- his depression.
 
+![Aaron](https://github.com/user-attachments/assets/710195e0-c6c2-48f5-9634-aef6b52846f8)
+
+![Swartz](https://github.com/user-attachments/assets/a00c5961-e2ba-451c-a218-df6ec1c70e6c)
+
+Me pareció super entretenido e interesante ver el documental sobre la vida de Aaron, muestra todas las etapas de la vida de Swartz y como fue un referente importante en la lucha sobre la censura del internet
