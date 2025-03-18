@@ -1,5 +1,5 @@
 # sesion-02a
-# Martes 18 Marzo
+# 18-Marzo
 
 # Encargo-02
 Falta documental Internet's Own Boy, sobre la vida de Aaron Swartz.
