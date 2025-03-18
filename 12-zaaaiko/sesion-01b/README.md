@@ -12,3 +12,19 @@ Explorar la caja negra de un objeto con la que tengan una relación afectiva.
 # Componentes electronicos
 
 ![El texto del párrafo (1)](https://github.com/user-attachments/assets/576286cd-3a48-4d26-9bb7-581d659873ca)
+
+Analisis disco Aphex Twin 
+
+* Contexto:
+
+
+* Instrumentos usados:
+
+
+* Entrevistas de la época:
+
+
+* Videos musicales:
+
+
+* Impresiones y opiniones:
