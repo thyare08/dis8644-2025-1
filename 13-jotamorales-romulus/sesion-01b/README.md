@@ -87,6 +87,47 @@ https://www.youtube.com/watch?v=9vz06QO3UkQ&rco=1
 14 .Condensadores ceramicos
 ![image](https://github.com/user-attachments/assets/cb421f52-3e64-4ead-90da-e5d05ebaf228)
 
+# Encargo 3 - Caja de Componentes  
+
+## 1. Protoboard  
+![Protoboard](https://github.com/user-attachments/assets/234d9389-db1c-4477-b273-381cf9a415a7)  
+
+## 2. Interruptor  
+![Interruptor](https://github.com/user-attachments/assets/404c0ebd-f10c-40b9-9e5e-15d9ac9a3790)  
+
+## 3. Servo Motor  
+![Servo Motor](https://github.com/user-attachments/assets/6002e6c8-c161-4887-9fda-a310cebb05d4)  
+
+## 4. Potenciómetro  
+![Potenciómetro](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6r3gH8hlEdn_uQ2of9tFCzHKd0v1jgJCUJQ&s)  
+
+## 5. Condensador  
+![Condensador](https://github.com/user-attachments/assets/b61f237d-52ba-4a6d-9daf-791f56976a0f)  
+
+## 6. LEDs de colores  
+![LEDs](https://github.com/user-attachments/assets/83f6ae87-5c0b-4feb-865d-c99962908ea4)  
+
+## 7. Cables  
+![Cables](https://github.com/user-attachments/assets/3cb4ea46-7c85-455a-b6e1-be011ac61c85)  
+
+## 8. Batería de 9V  
+
+## 9. Conector para batería de 9V  
+![Conector](https://github.com/user-attachments/assets/276b44c4-b6ff-4689-a8f8-6f019b76536e)  
+
+## 10. Zumbador piezoeléctrico  
+![Zumbador](https://github.com/user-attachments/assets/d18caedf-89a1-4d26-a59f-441ffb2aae5d)  
+
+## 11. Parlante pequeño  
+![Parlante](https://github.com/user-attachments/assets/cb008a72-7478-417b-af87-9d9190dec02d)  
+
+## 12. Resistencias  
+![Resistencias](https://github.com/user-attachments/assets/87cdaf55-7bb5-4237-83ec-809d0b9c27aa)  
+
+## 13. Condensadores cerámicos  
+![Condensadores cerámicos](https://github.com/user-attachments/assets/cb421f52-3e64-4ead-90da-e5d05ebaf228)  
+
+
 
 
 
