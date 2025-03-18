@@ -60,6 +60,8 @@ The Internet's Own Boy: The Story of Aaron Swartz | full movie (2014)
 https://www.youtube.com/watch?v=9vz06QO3UkQ&rco=1
 
 # Encargo 3 - Caja de Componentes  
+que hay en mi caja?
+![WhatsApp Image 2025-03-18 at 01 24 06 (2)](https://github.com/user-attachments/assets/8cbc4e9b-8a35-4323-a7c6-1eaf2293a7e8)
 
 ## 1. Protoboard  
 ![Protoboard](https://github.com/user-attachments/assets/234d9389-db1c-4477-b273-381cf9a415a7)  
