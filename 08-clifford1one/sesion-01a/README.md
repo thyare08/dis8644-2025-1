@@ -4,24 +4,23 @@ Clase 1 kemosión
 
 ![image](https://github.com/user-attachments/assets/60ea94ea-d153-4ae9-a926-19c0af8f4403)
 
-https://www.figma.com/board/2tv4jx75qGZa6Gua2UCVer/taller.maq.electr?node-id=9-45&t=aZ8HCSQeFZaROUsg-1
+<https://www.figma.com/board/2tv4jx75qGZa6Gua2UCVer/taller.maq.electr?node-id=9-45&t=aZ8HCSQeFZaROUsg-1>
 
-![alt text](tme-c1-links.png)
+![alt text](./imagenes/tme-c1-links.png)
 
-
-## ENCARGOS 
+## ENCARGOS
 
 ### "MI CAJA NEGRA"
 
-![alt text](tme-c1-encargo.jpg)
+![alt text](./imagenes/tme-c1-encargo.jpg)
 
 ### BARRIO UNIVERSITARIO
 
 Barrio Universitario:
- 
+
 Sin duda lo más rescatable de la película es la intro y la actuación de Felipe Avello.
 
-La intro con un estilo “epico” grabada en una toma. 
+La intro con un estilo “epico” grabada en una toma.
 
 En cuanto a los actores principales, Sergio Freire, Fabrizio Copano, Pedro Ruminot y Guatón Salinas,
 
@@ -53,14 +52,13 @@ están bien justificados y que la historia sea contada por un narrador testigo, 
 
 flexibilidad a la forma de contar la historia, además aporta un excelente momento cuando
 
-el narrador se incluye a si mismo en la historia. 
+el narrador se incluye a si mismo en la historia.
 
 Si bien el final es poco extraño, me parece coherente que los estudiantes del colegio
 
 Michael J Fox terminen perdiendo el concurso.
 
-
-Momentos destacados de la película: 
+Momentos destacados de la película:
 La intro grabada en una toma
 El monólogo de el profe guajardo
 El montaje final animación-collage
@@ -69,24 +67,24 @@ Los cameos: Ítalo Passalacqua, Iván Arenas, Paul Vásquez “El flaco”, Fern
 
 Nota final: 6/10
 
-# The Man Machine - Kraftwerk:
+# The Man Machine - Kraftwerk
 
 Escuche el disco “The Man Machine”
-https://open.spotify.com/intl-es/album/3eyz60xEK5dGEeZF1JJSi9 
+<https://open.spotify.com/intl-es/album/3eyz60xEK5dGEeZF1JJSi9>
 
-![alt text](TheManMachine.png)
+![alt text](./imagenes/TheManMachine.png)
 
 Es el séptimo álbum de Kraftwerk estrenado en 1978(el nombre original del disco es
 
 "Die Mensch-Maschine", el que yo escuche es su versión traducida al inglés).
 
-![alt text](TheManMachine-og.png)
+![alt text](./imagenes/TheManMachine-og.png)
 
 Su portada fue realizada por el estudio de diseño gráfico Klefisch. Inspirado en
 
-las obras del artista “El Lisitski”. 
+las obras del artista “El Lisitski”.
 
-![alt text](lisitski.jpg)
+![alt text](./imagenes/lisitski.jpg)
 
 Lo que más me llamó la atención de las canciones fu los sonidos que utilizaban
 
@@ -94,11 +92,11 @@ para hacer música, los cuales son poco convencionales en comparación con la m�
 
 que escucho usualmente. Otra cosas que me llamo la atensión es la cohesión del album,
 
-en el cual todas las canciones comparten un estilo e identidad. 
+en el cual todas las canciones comparten un estilo e identidad.
 
 Si bien objetivamente es música de mucho valor, este disco no conectó conmigo,
 
-en palabras coloquiales lo llamaría “atrapante”. 
+en palabras coloquiales lo llamaría “atrapante”.
 
 Me gustaría escuchar otros proyectos de la banda, ya que me parece interesante lo que
 
