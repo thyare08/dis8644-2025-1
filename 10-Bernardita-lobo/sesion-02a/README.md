@@ -1,4 +1,4 @@
-![foto5](https://github.com/user-attachments/assets/b1a347ca-2bb9-41ec-8e15-151dcdefe993)# sesion-02a
+# sesion-02a
 ## introduccion a github y componentes electricos
 
 ### componentes y circuito 1
