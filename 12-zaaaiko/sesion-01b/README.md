@@ -17,12 +17,12 @@ Analisis disco Aphex Twin
 
 * **Contexto** :
 
-A modo de contexto historico, en el año 1992, año en el cual se estreno este disco, estaba habiendo una resaca respecto a la innovacion de la musica techno-house, por lo que Aphex Twin , influenciado por el acid house de los 80s, dio pie a una nueva forma de ver este genero, tanto por las melodias que utiliza, como por las emociones que genera.
+  A modo de contexto historico, en el año 1992, año en el cual se estreno este disco, estaba habiendo una resaca respecto a la innovacion de la musica techno-house, por lo que Aphex Twin , influenciado por el acid house de los 80s, dio pie a una nueva forma de ver este genero, tanto por las melodias que utiliza, como por las emociones que genera.
 
 
 * **Instrumentos usados** :
 
-Sintetizadores ( Roland SH-101, Korg MS-20 y Yamaha DX7 ) , una computadora de mesa y un sampler. 
+  Sintetizadores ( Roland SH-101, Korg MS-20 y Yamaha DX7 ) , una computadora de mesa y un sampler. 
 
 
 * **Opinion** :
