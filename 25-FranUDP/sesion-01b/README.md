@@ -60,7 +60,10 @@
 ><br/>
 ><br/>
 ><br/>
-*###
+>___
+
+>*### Ejercicio práctico
+
 ___
 
 ## Encargo 02
