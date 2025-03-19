@@ -71,6 +71,9 @@
 
   
 <h2>Encargos:</h2>
+  <h4><li>Escuchar un álbum de <i>Pueblo Nuevo Netlabel</i>.</li></h4>
+    <p><i>Pueblo Nuevo</i> sello <i>online</i> y <i>netlabel</i> que busca la interconexión entre nuestra música milenaria y las tecnologías modernas en el ámbito sonoro. Una parte no tan mencionada de la música chilena que, sin embargo, posee artistas reconocidos nacionalmente como <i>Delight Lab</i>. Escuché el <i>mixtape</i> <i>Campo de Deportes</i> (2024) por <i>El Buga</i> y de verdad el ritmo de relajo es gratificante, en el <i>mixtape</i> se recopilan temas de <i>Delight Lab</i>, <i>Alisú</i>, <i>Mono o Estéreo?</i>, <i>Gozne</i>, <i>Sokio</i>, entre otros. Esto trae a colación la riqueza musical que hay en el país con respecto a la música electroacústica y también nos posiciona en la escena contemporánea de estos géneros. La música a veces suave y otras veces algo inquietantes tiene su encanto en lo experimental. Somos testigos, entonces, de las capacidades de la electrónica, que a pesar de a simple vista parecer un mundo complejo e incomprendido, está ahí y más cerca de lo que uno puede llegar a creer.</p>
+    <p>Pienso, entonces, que es una expresión que responde al período globalizado del que somos parte diariamente, en especial en la urbe que es Santiago de donde nace la idea de formar este sello, pues, hay tantos detalles de la cultura visual y sonora que se establecen en reminiscencias y creo que es en parte eso lo que se alcanza en este tipo de música que podría llegar a asimilarse al <i>lo-fi</i> o al <i>ambient</i>. Buena recomendación.</p>
   <h4><li>Investigar y probar sobre combinaciones en serie y en paralelo.</li></h4>
     <p>Las conexiones en serie y en paralelo son formas de conectar componentes eléctricos.</p>
     <h5><li>Conexiones en serie</li></h5>
