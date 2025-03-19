@@ -1,22 +1,97 @@
 # sesion-01b
 
 ## Apuntes
-
-#### HTML (Hypertext Markup Languaje)
-Es un lenguaje de programación utilizado para hacer paginas web, permite poner imagenes, videos, audios, links, etc. Usando las URL de estos y usando el navegador para armarlo todo junto. Fue creado por Tim Berners-Lee en 1991.
-
-#### [Markdown](https://youtu.be/_PPWWRV6gbA?si=GPtY7Q4p4yIaAxX3)
-Creado por John Gruber y Aaron Swartz. Permite hacer paginas web sin la complejidad de hacerlo diractamente en HTML.
-
-#### Github
-Plataforma que permite a desarrolladores trabajar en código de forma colaborativa, haciendo versiones alternativas de repositorios (fork), teniendo un historial con todos los cambios realizados, una jerarquia ríjida que evita accidentes o sabotaje por terceros.
-
+>
+>#### HTML (Hypertext Markup Languaje)
+>Es un lenguaje de programación utilizado para hacer paginas web, permite poner imagenes, videos, audios, links, etc. Usando las URL de estos y usando el navegador para armarlo todo junto. Fue creado por Tim Berners-Lee en 1991.
+>
+>#### [Markdown](https://youtu.be/_PPWWRV6gbA?si=GPtY7Q4p4yIaAxX3)
+>Creado por John Gruber y Aaron Swartz. Permite hacer paginas web sin la complejidad de hacerlo diractamente en HTML.
+>
+>#### Github
+>Plataforma que permite a desarrolladores trabajar en código de forma colaborativa, haciendo versiones alternativas de repositorios (fork), teniendo un historial con todos los cambios realizados, una jerarquia ríjida que evita accidentes o sabotaje por terceros.
+>
+>___
+>
+>### Introducción componentes electrónicos
+>* #### Protoboard
+><img align="left" src="https://github.com/FranUDP/dis8644-2025-1/blob/76995fdc008b9e73b547b12ea980b1d7464a84f9/25-FranUDP/sesion-01b/protoboard.jpg" width=250> Es una placa donde se pueden construir facilmente circuitos, como si de legos se tratase (prototipar) antes de soldar los componentes permanentemente. en la imagen se ve en amarillo como se conectan las casillas de la protoboard.
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+>* #### Cables dupont
+><img align="left" src="https://th.bing.com/th/id/OIP.C0Dkwfs0NJ08mkYUYNdPFAHaHa?rs=1&pid=ImgDetMain" width=250> Permiten el flujo de electrones (corriente), se utilizan para conectar los componentes de un circuito entre ellos, estos cables cuentan con uno o más conectores dupont (macho o hembra) para facil conección con otros componentes, como la protoboard
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+>* #### [LEDs](https://youtu.be/O8M2z2hIbag?si=uG1paAWGHIQ_Cpy1) (Light Emiting Diodes)
+><img align="left" src="https://compratuled.es/blog/wp-content/uploads/2019/02/como-funciona-bombilla-led-grafico.jpg" width=250> son [diodos](https://youtu.be/a4ttjOEdlc8?si=e0KYQyNURl_I6kub) (solo permiten que la corriente fluya en una dirección aka. solo se pueden conectar de una forma específica y no son reversibles (+- = yes -+ = no), que emiten luz cuando la corriente pasa a travez de ellos.
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+>* #### [Resistencias](https://youtu.be/DYcLFHgVCn0?si=iWMDk43cGch1poTw)
+>  <img align="left" src="https://1.bp.blogspot.com/-j9cv-1nx7a4/XBPHxbdVXcI/AAAAAAAAAFw/TGeEokbRO3cMuH13Ery3XflgEgwsY0-BwCLcBGAs/s1600/Resistor01.jpg" width=250> Limitan el flujo de electrones (corriente) para que otros componentes puedan funcionar según es deseado (led brillando menos o un componente quemandose al resivir mucha corriente)
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+>* #### Baterias
+>  <img align="left" src="https://media.licdn.com/dms/image/v2/D5612AQGAPUJPOk3GXA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1718624801052?e=1747872000&v=beta&t=jJfT0pireZLA0QnAAVElrogv1ybiwcjoslnfZ1FnDWo" width=400> Similares a los [capacitores](https://youtu.be/X4EUwTwZ110?si=W06CjwpOs9OW3rEu) en que almacenan y liberan energía (baterias almacenan más y se cargan más lento). Las baterias pueden ser de distintas capacidades (miliamperios mah) y voltajes (v), pero todas se usan para proveer de energia un circuito.
+><br/>
+>Después de desconectar un aparato eléctrico y/o circuito esperar 30 sec para evitar descargas eléctricas.
+><br/>
+>tener cuidado con voltajes sobre 30 Volts. Outlets in Chile output 220V AC (alternate current). usb ports typicaly output 5V DC (direct current). Car batteries output 12V DC.
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+>___
+>
+>*### Ejercicio práctico
+>
+><img align="left" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-01b/diagrama.jpg" width=250> <img align="center" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-01b/circuito.jpg" width=400>
+>Armamos un circuito usando los componentes antes mencionados y usamos una bateria de 9V (voltios/volts) para darle energía.
+>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
 ___
-
-### Introducción componentes electrónicos
-* #### Protoboard
-
-<img src="https://github.com/FranUDP/dis8644-2025-1/blob/76995fdc008b9e73b547b12ea980b1d7464a84f9/25-FranUDP/sesion-01b/protoboard.jpg" width=200>
 
 ## Encargo 02
 
