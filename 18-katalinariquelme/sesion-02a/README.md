@@ -1,6 +1,6 @@
 # sesion-02a
 
-Clase martes 18 de marzo de 2025.
+Clase 3: Martes 18 de marzo de 2025.
 
 **Encargo 04:** Escuchar un disco de “Pueblo Nuevo”
 
