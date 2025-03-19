@@ -18,6 +18,10 @@ ___
 
 <img align="left" src="https://github.com/FranUDP/dis8644-2025-1/blob/76995fdc008b9e73b547b12ea980b1d7464a84f9/25-FranUDP/sesion-01b/protoboard.jpg" width=200> Es una placa donde se pueden construir facilmente circuitos, como si de legos se tratase (prototipar) antes de soldar los componentes permanentemente. en la imagen se ve en amarillo como se conectan las casillas de la protoboard.
 
+
+
+
+
 ## Encargo 02
 
 ### Aphex twin
