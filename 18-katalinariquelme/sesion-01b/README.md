@@ -258,3 +258,13 @@ Foto de zumbador
 - Ver documental de **"Aaron Swartz"**.
 
  Subir foto bitácora.
+
+Fuentes que me fueron interesantes :)
+
+- HechosReales, & HechosReales. (2018, 10 abril). La ley de ohm: historia y aplicaciones de la electricidad. Basado En Hechos Reales. https://basadoenhechosreales.com.ar/real-historia-de-ohm/
+
+- Rodríguez, J. (2022, 27 junio). ¿Sabías que el primer interruptor se inventó en 1884? iElektro | Medio Digital Especializado En Transporte y Logística. https://ielektro.es/2022/06/28/primer-interruptor-invento-1884/#:~:text=En%20concreto%2C%20fue%20en%201884,sistema%20estaba%20abierto%20como%20cerrado.
+
+- What is an Electrolytic Capacitor? | TTI Europe. (s. f.). https://www.ttieurope.com/content/ttieurope/en/resources/tti-europe-blog/what-is-an-electrolytic-capacitor-blog.html#:~:text=Charlese%20Pollak%2C%20a%20German%20rechargeable,stability%20of%20an%20oxide%20layer.
+
+- Gian, A. (s. f.). Universitario Conversa 3: PLACA DE PRUEBAS, PROTOBOARD O BREADBOARD. . .¿Y eso qué es? Universitario Conversa 3. https://especialidadeninformaticaenconversa.blogspot.com/p/placa-de-pruebas-protoboard-o.html#:~:text=Las%20%22PROTOBOARDS%22%20fueron%20inventadas%20por,memoria%20de%20almacenamiento%20de%20datos.
