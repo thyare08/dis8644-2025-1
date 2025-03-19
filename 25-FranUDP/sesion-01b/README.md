@@ -63,6 +63,7 @@
 >___
 >
 >*### Ejercicio práctico
+>
 ><img align="left" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-01b/diagrama.jpg" width 250>
 ___
 
