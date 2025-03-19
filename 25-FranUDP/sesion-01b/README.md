@@ -30,7 +30,7 @@ ___
 <br/>
 <br/>
 * #### Cables dupont
-<img align="left" src="https://th.bing.com/th/id/OIP.C0Dkwfs0NJ08mkYUYNdPFAHaHa?rs=1&pid=ImgDetMain" width=250>
+<img align="left" src="https://th.bing.com/th/id/OIP.C0Dkwfs0NJ08mkYUYNdPFAHaHa?rs=1&pid=ImgDetMain" width=250> Permiten el flujo de electrones (corriente), se utilizan para conectar los componentes de un circuito entre ellos, estos cables cuentan con uno o más conectores dupont (macho o hembra) para facil conección con otros componentes, como la protoboard
 <br/>
 <br/>
 <br/>
