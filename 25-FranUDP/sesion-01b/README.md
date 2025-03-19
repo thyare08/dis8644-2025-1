@@ -61,7 +61,7 @@
 ><br/>
 ><br/>
 >* #### Baterias
->  <img align="left" src="https://media.licdn.com/dms/image/v2/D5612AQGAPUJPOk3GXA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1718624801052?e=1747872000&v=beta&t=jJfT0pireZLA0QnAAVElrogv1ybiwcjoslnfZ1FnDWo">
+>  <img align="left" src="https://media.licdn.com/dms/image/v2/D5612AQGAPUJPOk3GXA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1718624801052?e=1747872000&v=beta&t=jJfT0pireZLA0QnAAVElrogv1ybiwcjoslnfZ1FnDWo" width=400>
 ><br/>
 ><br/>
 ><br/>
