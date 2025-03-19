@@ -40,7 +40,7 @@
 ><br/>
 ><br/>
 >* #### [LEDs](https://youtu.be/O8M2z2hIbag?si=uG1paAWGHIQ_Cpy1) (Light Emiting Diodes)
-><img align="left" src="https://compratuled.es/blog/wp-content/uploads/2019/02/como-funciona-bombilla-led-grafico.jpg" width=250>
+><img align="left" src="https://compratuled.es/blog/wp-content/uploads/2019/02/como-funciona-bombilla-led-grafico.jpg" width=250> son [diodos](https://youtu.be/a4ttjOEdlc8?si=e0KYQyNURl_I6kub), (solo permiten que la corriente fluya en una dirección aka. solo se pueden conectar de una forma específica y no son reversibles (+- = yes -+ = no), que emiten luz cuando la corriente pasa a travez de ellos.
 ><br/>
 ><br/>
 ><br/>
