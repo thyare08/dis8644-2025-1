@@ -28,7 +28,7 @@ Durante la clase conocimos distintas maneras de hacer sonidos mediante elementos
 
 ### Desarrollo encargo caja negra
 
-![Captura de pantalla (269)](https://github.com/user-attachments/assets/8b8ee189-6af7-4ab2-91cb-aa2f944f8861) 
+![IMG_6413](https://github.com/user-attachments/assets/cf9bc841-efb7-483f-98bf-d840804524df)
 
 
 
