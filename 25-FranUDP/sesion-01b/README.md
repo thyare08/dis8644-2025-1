@@ -61,7 +61,7 @@
 ><br/>
 ><br/>
 >* #### Baterias
->  <img align="left" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fdifferent-types-batteries-applications-battery-building-vijay-tharad-erphe&psig=AOvVaw2tqpXrv-fF-SZsvlFJOKUb&ust=1742503666126000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCQyJiCl4wDFQAAAAAdAAAAABAd">
+>  <img align="left" src="https://media.licdn.com/dms/image/v2/D5612AQGAPUJPOk3GXA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1718624801052?e=1747872000&v=beta&t=jJfT0pireZLA0QnAAVElrogv1ybiwcjoslnfZ1FnDWo">
 ><br/>
 ><br/>
 ><br/>
