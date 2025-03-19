@@ -1,38 +1,38 @@
 # sesion-01b
 
 ## Apuntes
-
-#### HTML (Hypertext Markup Languaje)
-Es un lenguaje de programación utilizado para hacer paginas web, permite poner imagenes, videos, audios, links, etc. Usando las URL de estos y usando el navegador para armarlo todo junto. Fue creado por Tim Berners-Lee en 1991.
-
-#### [Markdown](https://youtu.be/_PPWWRV6gbA?si=GPtY7Q4p4yIaAxX3)
-Creado por John Gruber y Aaron Swartz. Permite hacer paginas web sin la complejidad de hacerlo diractamente en HTML.
-
-#### Github
-Plataforma que permite a desarrolladores trabajar en código de forma colaborativa, haciendo versiones alternativas de repositorios (fork), teniendo un historial con todos los cambios realizados, una jerarquia ríjida que evita accidentes o sabotaje por terceros.
-
-___
-
-### Introducción componentes electrónicos
-* #### Protoboard
-<img align="left" src="https://github.com/FranUDP/dis8644-2025-1/blob/76995fdc008b9e73b547b12ea980b1d7464a84f9/25-FranUDP/sesion-01b/protoboard.jpg" width=250> Es una placa donde se pueden construir facilmente circuitos, como si de legos se tratase (prototipar) antes de soldar los componentes permanentemente. en la imagen se ve en amarillo como se conectan las casillas de la protoboard.
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-* #### Cables dupont
-<img align="left" src="https://th.bing.com/th/id/OIP.C0Dkwfs0NJ08mkYUYNdPFAHaHa?rs=1&pid=ImgDetMain" width=250> Permiten el flujo de electrones (corriente), se utilizan para conectar los componentes de un circuito entre ellos, estos cables cuentan con uno o más conectores dupont (macho o hembra) para facil conección con otros componentes, como la protoboard
-<br/>
-<br/>
+>
+>#### HTML (Hypertext Markup Languaje)
+>Es un lenguaje de programación utilizado para hacer paginas web, permite poner imagenes, videos, audios, links, etc. Usando las URL de estos y usando el navegador para armarlo todo junto. Fue creado por Tim Berners-Lee en 1991.
+>
+>#### [Markdown](https://youtu.be/_PPWWRV6gbA?si=GPtY7Q4p4yIaAxX3)
+>Creado por John Gruber y Aaron Swartz. Permite hacer paginas web sin la complejidad de hacerlo diractamente en HTML.
+>
+>#### Github
+>Plataforma que permite a desarrolladores trabajar en código de forma colaborativa, haciendo versiones alternativas de repositorios (fork), teniendo un historial con todos los cambios realizados, una jerarquia ríjida que evita accidentes o sabotaje por terceros.
+>
+>___
+>
+>### Introducción componentes electrónicos
+>* #### Protoboard
+><img align="left" src="https://github.com/FranUDP/dis8644-2025-1/blob/76995fdc008b9e73b547b12ea980b1d7464a84f9/25-FranUDP/sesion-01b/protoboard.jpg" width=250> Es una placa donde se pueden construir facilmente circuitos, como si de legos se tratase (prototipar) antes de soldar los componentes permanentemente. en la imagen se ve en amarillo como se conectan las casillas de la protoboard.
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+>* #### Cables dupont
+><img align="left" src="https://th.bing.com/th/id/OIP.C0Dkwfs0NJ08mkYUYNdPFAHaHa?rs=1&pid=ImgDetMain" width=250> Permiten el flujo de electrones (corriente), se utilizan para conectar los componentes de un circuito entre ellos, estos cables cuentan con uno o más conectores dupont (macho o hembra) para facil conección con otros componentes, como la protoboard
+><br/>
+><br/>
 <br/>
 <br/>
 <br/>
