@@ -6,6 +6,10 @@
 Es un lenguaje de programación utilizado para hacer paginas web, permite poner imagenes, videos, audios, links, etc. Usando las URL de estos y usando el navegador para armarlo todo junto. Fue creado por Tim Berners-Lee en 1991.
 
 #### [Markdown](https://youtu.be/_PPWWRV6gbA?si=GPtY7Q4p4yIaAxX3)
+Creado por John Gruber y Aaron Swartz. Permite hacer paginas web sin la complejidad de hacerlo diractamente en HTML.
+
+#### Github
+Plataforma que permite a desarrolladores trabajar en código de forma colaborativa, haciendo versiones alternativas de repositorios (fork), teniendo un historial con todos los cambios realizados, una jerarquia ríjida que evita accidentes o sabotaje por terceros.
 
 ## Encargo 02
 
