@@ -52,7 +52,7 @@
 ><br/>
 ><br/>
 >* #### [resistencias](https://youtu.be/DYcLFHgVCn0?si=iWMDk43cGch1poTw)
->  <img align="left" src="https://1.bp.blogspot.com/-j9cv-1nx7a4/XBPHxbdVXcI/AAAAAAAAAFw/TGeEokbRO3cMuH13Ery3XflgEgwsY0-BwCLcBGAs/s1600/Resistor01.jpg" width=250> 
+>  <img align="left" src="https://1.bp.blogspot.com/-j9cv-1nx7a4/XBPHxbdVXcI/AAAAAAAAAFw/TGeEokbRO3cMuH13Ery3XflgEgwsY0-BwCLcBGAs/s1600/Resistor01.jpg" width=250> Limitan el flujo de electrones (corriente) para que otros componentes puedan funcionar según es deseado (led brillando menos o un componente quemandose al resivir mucha corriente)
 ><br/>
 ><br/>
 ><br/>
