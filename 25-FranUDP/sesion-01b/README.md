@@ -15,7 +15,7 @@ ___
 
 ### Introducción componentes electrónicos
 * #### Protoboard
-![protoboard](25-FranUDP/sesion-01b/protoboard.jpg)
+![protoboard]([25-FranUDP/sesion-01b/protoboard.jpg](https://github.com/FranUDP/dis8644-2025-1/blob/6f71f79c546264d8c680f4478b3b1ff104e24786/25-FranUDP/sesion-01b/protoboard.jpg))
 ## Encargo 02
 
 ### Aphex twin
