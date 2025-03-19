@@ -65,7 +65,13 @@
 >*### Ejercicio práctico
 >
 ><img align="left" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-01b/diagrama.jpg" width=250> <img align="center" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-01b/circuito.jpg" width=250>
-___
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
 ___
 
 ## Encargo 02
