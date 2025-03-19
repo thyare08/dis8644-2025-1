@@ -33,25 +33,25 @@
 ><img align="left" src="https://th.bing.com/th/id/OIP.C0Dkwfs0NJ08mkYUYNdPFAHaHa?rs=1&pid=ImgDetMain" width=250> Permiten el flujo de electrones (corriente), se utilizan para conectar los componentes de un circuito entre ellos, estos cables cuentan con uno o más conectores dupont (macho o hembra) para facil conección con otros componentes, como la protoboard
 ><br/>
 ><br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-* #### [LEDs](https://youtu.be/O8M2z2hIbag?si=uG1paAWGHIQ_Cpy1) (Light Emiting Diodes)
-<img align="left" src="https://compratuled.es/blog/wp-content/uploads/2019/02/como-funciona-bombilla-led-grafico.jpg" width=250>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+>* #### [LEDs](https://youtu.be/O8M2z2hIbag?si=uG1paAWGHIQ_Cpy1) (Light Emiting Diodes)
+><img align="left" src="https://compratuled.es/blog/wp-content/uploads/2019/02/como-funciona-bombilla-led-grafico.jpg" width=250>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
 
 ## Encargo 02
 
