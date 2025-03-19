@@ -2,8 +2,20 @@
 
 ## Apuntes
 
+#### HTML (Hypertext Markup Languaje)
+Es un lenguaje de programación utilizado para hacer paginas web, permite poner imagenes, videos, audios, links, etc. Usando las URL de estos y usando el navegador para armarlo todo junto. Fue creado por Tim Berners-Lee en 1991.
 
+#### [Markdown](https://youtu.be/_PPWWRV6gbA?si=GPtY7Q4p4yIaAxX3)
+Creado por John Gruber y Aaron Swartz. Permite hacer paginas web sin la complejidad de hacerlo diractamente en HTML.
 
+#### Github
+Plataforma que permite a desarrolladores trabajar en código de forma colaborativa, haciendo versiones alternativas de repositorios (fork), teniendo un historial con todos los cambios realizados, una jerarquia ríjida que evita accidentes o sabotaje por terceros.
+
+___
+
+### Introducción componentes electrónicos
+* #### Protoboard
+![Protoboard y conecciones](https://github.com/FranUDP/dis8644-2025-1/blob/76995fdc008b9e73b547b12ea980b1d7464a84f9/25-FranUDP/sesion-01b/protoboard.jpg)
 ## Encargo 02
 
 ### Aphex twin
