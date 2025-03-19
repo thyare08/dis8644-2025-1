@@ -2,5 +2,10 @@
 
 viernes 21 de marzo 2025
 
-## encargo
+## primera mitad
 
+revisión de encargos y bitácoras
+
+## segunda mitad
+
+chips, timer 555, esquemáticos
