@@ -61,9 +61,9 @@
 ><br/>
 ><br/>
 >* #### Baterias
->  <img align="left" src="https://media.licdn.com/dms/image/v2/D5612AQGAPUJPOk3GXA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1718624801052?e=1747872000&v=beta&t=jJfT0pireZLA0QnAAVElrogv1ybiwcjoslnfZ1FnDWo" width=400>
-><br/>
-><br/>
+>  <img align="left" src="https://media.licdn.com/dms/image/v2/D5612AQGAPUJPOk3GXA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1718624801052?e=1747872000&v=beta&t=jJfT0pireZLA0QnAAVElrogv1ybiwcjoslnfZ1FnDWo" width=400> Similares a los [capacitores](https://youtu.be/X4EUwTwZ110?si=W06CjwpOs9OW3rEu) en que almacenan y liberan energía (baterias almacenan más y se cargan más lento). Las baterias pueden ser de distintas capacidades (miliamperios mah) y voltajes (v), pero todas se usan para proveer de energia un circuito.
+>Después de desconectar un aparato eléctrico y/o circuito esperar 30 sec para evitar descargas eléctricas.
+>tener cuidado con voltajes sobre 30 Volts. Outlets in Chile output 220V AC (alternate current). usb ports typicaly output 5V DC (direct current). Car batteries output 12V DC.
 ><br/>
 ><br/>
 ><br/>
