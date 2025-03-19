@@ -20,4 +20,8 @@ ordenar apuntes y forks y pull requests
 
 ## encargo
 
-ver documental sisters with transistors, disponible para streaming en <https://archive.org/details/sisters_with_transistors>
+escuchar un (1) disco del sello chileno pueblo nuevo netlabel
+https://pueblonuevo.cl/
+
+[sch_symbols.pdf](https://github.com/user-attachments/files/19319793/sch_symbols.pdf)
+
