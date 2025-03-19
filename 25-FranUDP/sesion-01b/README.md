@@ -27,7 +27,18 @@ ___
 <br/>
 <br/>
 * #### Cables dupont
-<img align="left" src="https://th.bing.com/th/id/OIP.C0Dkwfs0NJ08mkYUYNdPFAHaHa?rs=1&pid=ImgDetMain">
+<img align="left" src="https://th.bing.com/th/id/OIP.C0Dkwfs0NJ08mkYUYNdPFAHaHa?rs=1&pid=ImgDetMain" width=200>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 ## Encargo 02
 
 ### Aphex twin
