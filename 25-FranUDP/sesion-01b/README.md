@@ -15,7 +15,7 @@ ___
 
 ### Introducción componentes electrónicos
 * #### Protoboard
-<img align="left" src="https://github.com/FranUDP/dis8644-2025-1/blob/76995fdc008b9e73b547b12ea980b1d7464a84f9/25-FranUDP/sesion-01b/protoboard.jpg" width=200> Es una placa donde se pueden construir facilmente circuitos, como si de legos se tratase (prototipar) antes de soldar los componentes permanentemente. en la imagen se ve en amarillo como se conectan las casillas de la protoboard.
+<img align="left" src="https://github.com/FranUDP/dis8644-2025-1/blob/76995fdc008b9e73b547b12ea980b1d7464a84f9/25-FranUDP/sesion-01b/protoboard.jpg" width=150> Es una placa donde se pueden construir facilmente circuitos, como si de legos se tratase (prototipar) antes de soldar los componentes permanentemente. en la imagen se ve en amarillo como se conectan las casillas de la protoboard.
 <br/>
 <br/>
 <br/>
@@ -27,7 +27,7 @@ ___
 <br/>
 <br/>
 * #### Cables dupont
-<img align="left" src="https://th.bing.com/th/id/OIP.C0Dkwfs0NJ08mkYUYNdPFAHaHa?rs=1&pid=ImgDetMain" width=200>
+<img align="left" src="https://th.bing.com/th/id/OIP.C0Dkwfs0NJ08mkYUYNdPFAHaHa?rs=1&pid=ImgDetMain" width=150>
 <br/>
 <br/>
 <br/>
