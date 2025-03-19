@@ -1,6 +1,6 @@
 # sesion-01a
 
-11 de Marzo de 2025
+11 de Marzo de 2025.
 
 **Encargo 00:**
 
