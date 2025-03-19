@@ -26,3 +26,9 @@ Durante la clase conocimos distintas maneras de hacer sonidos mediante elementos
 
 <https://www.critterandguitari.com/>
 
+### Desarrollo encargo caja negra
+
+![Captura de pantalla (269)](https://github.com/user-attachments/assets/8b8ee189-6af7-4ab2-91cb-aa2f944f8861) 
+
+
+
