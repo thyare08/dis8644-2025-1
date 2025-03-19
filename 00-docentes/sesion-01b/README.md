@@ -45,13 +45,9 @@ outputs
 sensores
 
 actuadores
-
-## notas clase
-
-subir cheatsheet de markdown
-
+s
 encargo: tratar de subir lo que puedan
-[DIS8644_ListaMateriales - Hoja 1.pdf](https://github.com/user-attachments/files/19248756/DIS8644_ListaMateriales.-.Hoja.1.pdf)
+[dis8644-lista-materiales](./archivos/dis8644-lista-materiales.pdf)
 
 ## encargo02 - aphex twin y aaron swartz
 
