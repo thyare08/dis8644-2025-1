@@ -253,11 +253,11 @@ Foto de zumbador
 
 - Escuchar un disco de **"Aphex Twin"**
 
- Subir foto bitácora.
- 
+![IMG_8487](https://github.com/user-attachments/assets/c1a862b0-defe-4ce3-9b3f-42e61c618deb)
+
 - Ver documental de **"Aaron Swartz"**.
 
- Subir foto bitácora.
+![IMG_8488](https://github.com/user-attachments/assets/409e6e34-0c38-4586-9f61-bfb046b13b46)
 
 Fuentes que me fueron interesantes :)
 
