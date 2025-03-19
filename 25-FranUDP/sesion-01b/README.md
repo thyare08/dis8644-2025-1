@@ -15,7 +15,7 @@ ___
 
 ### Introducción componentes electrónicos
 * #### Protoboard
-<img src="protoboard.jpg" width=50>
+<img src="protoboard.jpg" width=200>
 
 ## Encargo 02
 
