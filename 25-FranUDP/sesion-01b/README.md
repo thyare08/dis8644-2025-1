@@ -63,7 +63,7 @@
 >___
 >
 >*### Ejercicio práctico
-
+><img align="left" src="diagrama.jpg" width 250>
 ___
 
 ## Encargo 02
