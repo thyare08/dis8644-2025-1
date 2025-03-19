@@ -51,8 +51,17 @@
 ><br/>
 ><br/>
 ><br/>
->* #### [resistencias](https://youtu.be/DYcLFHgVCn0?si=iWMDk43cGch1poTw)
+>* #### [Resistencias](https://youtu.be/DYcLFHgVCn0?si=iWMDk43cGch1poTw)
 >  <img align="left" src="https://1.bp.blogspot.com/-j9cv-1nx7a4/XBPHxbdVXcI/AAAAAAAAAFw/TGeEokbRO3cMuH13Ery3XflgEgwsY0-BwCLcBGAs/s1600/Resistor01.jpg" width=250> Limitan el flujo de electrones (corriente) para que otros componentes puedan funcionar según es deseado (led brillando menos o un componente quemandose al resivir mucha corriente)
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+>* #### Baterias
+>  <img align="left" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fdifferent-types-batteries-applications-battery-building-vijay-tharad-erphe&psig=AOvVaw2tqpXrv-fF-SZsvlFJOKUb&ust=1742503666126000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCQyJiCl4wDFQAAAAAdAAAAABAd">
 ><br/>
 ><br/>
 ><br/>
@@ -65,6 +74,8 @@
 >*### Ejercicio práctico
 >
 ><img align="left" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-01b/diagrama.jpg" width=250> <img align="center" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-01b/circuito.jpg" width=400>
+>Armamos un circuito usando los componentes antes mencionados y usamos una bateria de 9V (voltios/volts) para darle energía.
+>
 ><br/>
 ><br/>
 ><br/>
