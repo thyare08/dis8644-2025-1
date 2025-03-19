@@ -11,6 +11,11 @@ Creado por John Gruber y Aaron Swartz. Permite hacer paginas web sin la compleji
 #### Github
 Plataforma que permite a desarrolladores trabajar en código de forma colaborativa, haciendo versiones alternativas de repositorios (fork), teniendo un historial con todos los cambios realizados, una jerarquia ríjida que evita accidentes o sabotaje por terceros.
 
+___
+
+### Introducción componentes electrónicos
+* #### Protoboard
+![Protoboard](25-FranUDP/sesion-01b/protoboard.jpg)
 ## Encargo 02
 
 ### Aphex twin
