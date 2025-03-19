@@ -50,9 +50,9 @@ Foto conector de batería
 
 [![Conector-de-bater-a.webp](https://i.postimg.cc/RqxqBrqf/Conector-de-bater-a.webp)](https://postimg.cc/GTzbF5Fh)
 
-3. **Cables de conección**
+3. **Cables de conexión**
 
-- ¿Qué son los cables de conección y para que sirven?
+- ¿Qué son los cables de conexión y para que sirven?
 
 Los cables son un conjunto de hilos metálicos ( generalmente de cobre), que cumplen la función de conducir la electricidad de un punto a otro. Normalmente uno suele dar sentido de orden a estos ya que suelen ser de colores, pero lo mas común es : rojo-positivo y negro-negativo.
 
