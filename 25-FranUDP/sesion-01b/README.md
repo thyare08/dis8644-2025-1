@@ -15,8 +15,9 @@ ___
 
 ### Introducción componentes electrónicos
 * #### Protoboard
-<img src="[protoboard.jpg](protoboard.jpg)" width=200>
 ![Protoboard y conecciones](https://github.com/FranUDP/dis8644-2025-1/blob/76995fdc008b9e73b547b12ea980b1d7464a84f9/25-FranUDP/sesion-01b/protoboard.jpg)
+<img src="[protoboard.jpg](protoboard.jpg)" width=200>
+
 ## Encargo 02
 
 ### Aphex twin
