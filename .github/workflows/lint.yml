@@ -9,22 +9,22 @@ on:
       - main
 
 jobs:
-    run-linters:
-        name: run linters
-        runs-on: ubuntu-latest
-        steps:
-            - name: check out git respository
-              uses: actions/checkout@v4
+  run-linters:
+    name: run linters
+    runs-on: ubuntu-latest
+    steps:
+      - name: check out git respository
+        uses: actions/checkout@v4
 
-            - name: setup node.js
-              uses: actions/setup-node@v2
-              with:
-                node-version: '14'
+      - name: setup node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: "14"
 
-            - name: install node.js dependencias
-              run: npm ci
+      - name: install node.js dependencias
+        run: npm ci
 
-            - name: run linters
-              uses: wearerequired/lint-action@v2
-              with:
-                prettier: true
+      - name: run linters
+        uses: wearerequired/lint-action@v2
+        with:
+          prettier: true
