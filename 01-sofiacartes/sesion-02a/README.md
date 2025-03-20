@@ -7,6 +7,7 @@
 * ejercicio práctico 18/03
   
 ![IMG_7938](https://github.com/user-attachments/assets/74f7fefa-8e1d-4cae-9e05-c7ffc9e23609)
+![IMG_7937](https://github.com/user-attachments/assets/07771728-434b-45d5-92df-5985ccd48312)
 
 * ### ley de ohm (Ω)
 se usa para determinar la relación entre tensión, corriente y resistencia en un circuito eléctrico.
