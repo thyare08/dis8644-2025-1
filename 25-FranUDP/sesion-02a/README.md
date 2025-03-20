@@ -23,8 +23,8 @@
 > circuito = laso cerrado con elementos resistivos
 >
 > #### tipos de circuito
-> Paralelo -> se divide la corriente pero se mantiene el voltaje
-> Serie -> Se divide el voltaje
+> [Paralelo](https://youtu.be/5uyJezQNSHw?si=AVs_V-hrtPFCKdkU) -> se divide la corriente pero se mantiene el voltaje
+> [Serie](https://youtu.be/VV6tZ3Aqfuc?si=LqOyVR3KekmErDvc) -> Se divide el voltaje
 ___
 ## Encargo 04
 ### Pueblo nuevo
