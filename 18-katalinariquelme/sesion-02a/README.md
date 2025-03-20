@@ -2,15 +2,11 @@
 
 Clase 3: Martes 18 de marzo de 2025.
 
-**Parte 1:** Apuntes clase.
-
-**Parte 2:** ¿Qué es la ley de Ohm?
-
-**Parte 3:** Ejercicio practicó realizado en clases.
-
-**Parte 4:** Encargo 04.
-
-**Parte 5:** Encargo 05. 
+- Parte 1: Apuntes clase.
+- Parte 2: ¿Qué es la ley de Ohm?
+- Parte 3: Ejercicio practicó realizado en clases.
+- Parte 4: Encargo 04.
+- Parte 5: Encargo 05. 
 
 
 **Parte 1:** Apuntes.
