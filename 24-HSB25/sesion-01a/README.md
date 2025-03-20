@@ -10,3 +10,5 @@ No hay una exploración del diseño de circuitos, la programación o el ensambla
 # Opinión sobre *KRAFTWERK - COMPUTER LOVE*
 
 Escuche Computer Love de Kraftwerk y disfrute demasiado los sonidos sinteticos y no pude evitar asociarlo a la musica de Donkey Kong Country (DKC1) de DAVID WISE, ya que Los sintetizadores suaves y melódicos de Kraftwerk en esta canción tienen un aire hipnótico que recuerda a las atmósferas relajantes de niveles como Aquatic Ambience o Fear Factory en DKC1. Ambos estilos comparten un enfoque en la repetición melódica y los arpegios electrónicos que dan una sensación de movimiento y fluidez, como si la música te transportara a un espacio digital o a un entorno natural reinterpretado a través de la tecnología.
+
+# ENCARGO ILUSTRAR UN OBJETO COTIDIANO*
