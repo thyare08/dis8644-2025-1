@@ -18,7 +18,7 @@ se usa para determinar la relación entre tensión, corriente y resistencia en u
   <img width="560" alt="ohm" src="https://github.com/user-attachments/assets/228fd344-92c6-4022-ac8a-0febefaf4b6b" />
 
 
-### **DISCO A ELECCIÓN, PUEBLO NUEVO:**
+### **disco a elección, pueblo nuevo:**
 
 ## **El Sueño de la Casa Propia (Chile)** 
 
