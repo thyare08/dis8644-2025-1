@@ -1,5 +1,5 @@
 # sesion-02a
-* ### APUNTES 18/03
+### APUNTES 18/03
 ![IMG_7984](https://github.com/user-attachments/assets/43b8d32c-2e3a-4bf2-a7cd-f2f38f9b8dce)
 ![IMG_7983](https://github.com/user-attachments/assets/35c1f7cd-3b9d-4a2e-b90d-27b3c3e114ab)
 ![IMG_7982](https://github.com/user-attachments/assets/0dedf31c-e3ea-4759-8f02-08a2edc68061)
