@@ -74,4 +74,4 @@ subir foto bitácora
 
 **Fuentes donde saqué la información del código de colores de las resistencias :)**
 
-Página digikey: https://www.digikey.com/es/resources/conversion-calculators/conversion-calculator-resistor-color-code
+https://www.digikey.com/es/resources/conversion-calculators/conversion-calculator-resistor-color-code
