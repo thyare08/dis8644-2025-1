@@ -1,5 +1,5 @@
 # sesion-02a
-* ### Apuntes 18/03
+* ### APUNTES 18/03
 ![IMG_7984](https://github.com/user-attachments/assets/43b8d32c-2e3a-4bf2-a7cd-f2f38f9b8dce)
 ![IMG_7983](https://github.com/user-attachments/assets/35c1f7cd-3b9d-4a2e-b90d-27b3c3e114ab)
 ![IMG_7982](https://github.com/user-attachments/assets/0dedf31c-e3ea-4759-8f02-08a2edc68061)
@@ -9,7 +9,7 @@
 ![IMG_7938](https://github.com/user-attachments/assets/74f7fefa-8e1d-4cae-9e05-c7ffc9e23609)
 ![IMG_7937](https://github.com/user-attachments/assets/07771728-434b-45d5-92df-5985ccd48312)
 
-* ### ley de ohm (Ω)
+* ### LEY DE OHM (Ω)
 se usa para determinar la relación entre tensión, corriente y resistencia en un circuito eléctrico.
 * **V** es el potencial eléctrico en voltios.
 * **I** es la corriente en amperios.
@@ -17,7 +17,7 @@ se usa para determinar la relación entre tensión, corriente y resistencia en u
   
   <img width="560" alt="ohm" src="https://github.com/user-attachments/assets/228fd344-92c6-4022-ac8a-0febefaf4b6b" />
 
-* ### **disco a elección de pueblo nuevo:**
+* ### **DISCO A ELECCIÓN, PUEBLO NUEVO:**
 ## **El Sueño de la Casa Propia (Chile)** 
 
 <img width="458" alt="elsueñodeunacasapropia" src="https://github.com/user-attachments/assets/2491aa27-8c2b-4380-88b0-cf91de12dc42" />
