@@ -48,7 +48,7 @@ V representa el voltaje, I es la corriente y R es la resistencia. Es una herrami
 
 **Parte 04:** Encargo 04, escuchar un disco de “Pueblo Nuevo”.
 
-subir foto bitácora
+![IMG_8498](https://github.com/user-attachments/assets/8a80cfcc-4c6b-45ee-9869-408b696cf37c)
 
 **Parte 5:** Encargo 05, investigar colores de resistencias: 220, 440, 460, 680 y 1000.
 
