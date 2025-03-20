@@ -14,6 +14,7 @@ Clase 3: Martes 18 de marzo de 2025.
 
 
 **Parte 1:** Apuntes.
+
 Foto de mi bitácora
 
 ![IMG_8489](https://github.com/user-attachments/assets/b44f59d8-8d75-4fb3-8ffc-62c640a5d013)
@@ -45,7 +46,9 @@ V representa el voltaje, I es la corriente y R es la resistencia. Es una herrami
 
 **Parte 3:** Trabajo practico en clases.
 
-Subir foto
+![IMG_8474](https://github.com/user-attachments/assets/e6757e7c-a442-4792-8f7d-5af657f5bdc2)
+
+![IMG_8475](https://github.com/user-attachments/assets/922ea4be-3c92-4728-a51b-b1ef07b782d8)
 
 **Parte 04:** Encargo 04, escuchar un disco de “Pueblo Nuevo”.
 
@@ -57,14 +60,13 @@ subir foto bitácora
 
 ![Captura de pantalla 2025-03-19 204109](https://github.com/user-attachments/assets/097c177c-94bd-492f-bb35-64d7bb8f8ab4)
 
+- Resistencia 440 = amarrillo, amarrillo, café , dorado.
 
-- Resistencia 440 = 
+![Captura de pantalla 2025-03-19 210951](https://github.com/user-attachments/assets/9645e21d-1dc8-49be-905a-110b06eb1eb1)
 
+- Resistencia 460 = amarrillo, azul, café, dorado.
 
-
-- Resistencia 460 = 
-
-
+![Captura de pantalla 2025-03-19 211102](https://github.com/user-attachments/assets/9ddf2523-db3f-4bb5-aa5e-b927b29dfd0b)
 
 - Resistencia 680 = azul, gris, café, dorado.
 
