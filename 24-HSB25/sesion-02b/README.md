@@ -26,5 +26,22 @@ Significa la lista de materiales o componentes, donde se organiza de la siguient
 | Leds     |  4  | D1,D2,D3,D4 | Surtido   |
 | Batería    |  1  | Bat         | 9V        |
 
+PROTOBOARD
+JUMPERS (CABLE)
+CLIP (BATERIA 9V)
+
+# Apuntes de Experimentos en Clases
+
+Al poner las resistencias del mismo VALOR, la luminicencia del LED son iguales, en este primer caso el valor de la resistencias es de 1K entonces todos tienen el brillo igual, mientras que si cambiamos una resistencia a una de 2K, este led tendra menos brillo que el de 1K debido a que:
+Si aumentas la resistencia, la corriente disminuye y el LED brillará menos.
+Si reduces la resistencia, la corriente aumenta y el LED brillará más (pero cuidado, demasiada corriente puede quemarlo).
+
+# Ver Resistencias (6.8k)
+
+Azul 6
+Gris 8
+Negro 0
+Café 0
+Café 0 
 
 
