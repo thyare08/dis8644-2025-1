@@ -52,6 +52,8 @@ Saqué este ejemplo de google imágenes para agarrar vuelo.
 
 ![alt text](nivel3-foto.jpg)
 
+![alt text](nivel3-foto2.jpg)
+
 Pruebas:
 
 - Si, en vez poner el led entre el botón y la resistencia, pongo la resistencia entre el botón y el led, sigue funcionando.
