@@ -20,7 +20,7 @@ Como dijo el profe, la vendian tan baratas ya que no funciono para lo que era el
 
 Significa la lista de materiales o componentes, donde se organiza de la siguiente manera:
 
-| TIPO     | QTY | NOMBRE        | VALOR     |
+| TIPO     | QTY | NOMBRE        | VALOR   |
 |:---------|:---:|------------:| ---------:| 
 | Resisten |  3  | 3           | 1K        |
 | Leds     |  4  | D1,D2,D3,D4 | Surtido   |
