@@ -20,15 +20,24 @@
 > ### Circuitos
 > cerrado v/s abierto
 >> En un circuito cerrado hay flujo de corriente, mientras que en uno abierto, no.
->> <img align="left" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-02a/closedCircuitArduino.jpg" witdh=1000>
-
+>> 
+>><img align="left" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-02a/closedCircuitArduino.jpg" width=300> <img align="center" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-02a/openCircuitArduino_9V.jpg" width=300> <img align="right" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-02a/ClosedCircuit9V.jpg" width=300>
+>> Como se ve en las imagenes, un componente puede estar conectado al positivo de una fuente de alimentación y al negativo de otra, pero al no estar cerrado el circuito este LED no se ilumina.
+><img align="right" src="https://i.pinimg.com/736x/ca/3c/b4/ca3cb49388066ce14e9acee02dcac84a.jpg" width=300>
 > Voltaje = diferencia de potencial entre 2 puntos -> 0V = negativo/tierra
-> I=V/R   Ley de ohm
+><br/>
+><br/>
+> I=V/R   Ley de ohm 
+><br/>
+><br/>
 > circuito = laso cerrado con elementos resistivos
+><br/>
+><br/>
 >
 > #### tipos de circuito
-> [Paralelo](https://youtu.be/5uyJezQNSHw?si=AVs_V-hrtPFCKdkU) -> se divide la corriente pero se mantiene el voltaje
-> [Serie](https://youtu.be/VV6tZ3Aqfuc?si=LqOyVR3KekmErDvc) -> Se divide el voltaje
+> * [Paralelo](https://youtu.be/5uyJezQNSHw?si=AVs_V-hrtPFCKdkU) -> se divide la corriente pero se mantiene el voltaje
+>
+> * [Serie](https://youtu.be/VV6tZ3Aqfuc?si=LqOyVR3KekmErDvc) -> Se divide/multiplica el voltaje
 ___
 ## Encargo 04
 ### Pueblo nuevo
