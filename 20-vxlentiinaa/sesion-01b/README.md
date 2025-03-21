@@ -65,9 +65,61 @@ Sobre el documental:
 
 * Aaron aprendió a aprender a una edad muy temprana; empezó a programar desde muy joven.
 * El documental se divide en: Childhood- programming- RSS- school- copyright- creative commons- personal blog- college- leaving startup culture- tim bernerslee- open library- pacer- thumb drive corps- pacer problem- FBI- JSTOR- american greed- anonymous- taking the deal- his motives- his depression.
+* La ley SOPA intentaba frenar la piratería en línea de música y películas
 
 ![Aaron](https://github.com/user-attachments/assets/710195e0-c6c2-48f5-9634-aef6b52846f8)
 
 ![Swartz](https://github.com/user-attachments/assets/a00c5961-e2ba-451c-a218-df6ec1c70e6c)
 
-Me pareció super entretenido e interesante ver el documental sobre la vida de Aaron, muestra todas las etapas de la vida de Swartz y como fue un referente importante en la lucha sobre la censura del internet, participó en esta campaña contra la ley SOPA
+Me pareció súper importante e interesante saber sobre este documental sobre la vida de Aaron, muestra todas las etapas de la vida de Swartz y muestra como fue un referente importante sobre la "lucha" por el internet privado. Participó en una campaña contra la ley SOPA (intentaba frenar la piratería en línea de música y películas) el cual ganaron. Sin embargo, su activismo lo llevo a tener muchos cargos y antecedentes penales; fue acusado de fraude informático por descargar documentos en JSTOR ya que quería hacerlos públicos. El sistema lo persiguió tanto que el se sintió agobiado y su salud mental estaba deteriorando de a poco, llevándolo a suicidarse en 2013.
+
+## Encargo 03 Caja de materiales 
+
+1. ***Resistencias***: Se opone a la energía que está pasando por el circuito.
+2. ***Protoboard***: Tablero que interiormente está conectado eléctricamente.
+3. ***Potenciometro***: Su función principal es dividir la tensión en una proporción.
+4. ***Interruptor***: Permite el paso de corriente.
+5. ***Capacitor Electrolítico***: Almacena y libera electricidad en un circuito.
+6. ***Parlante***: Convierte una señal de audio en ondas mecánicas de sonido.
+7. ***Luces LED***: Diodo que emite luz cuando está activado.
+8. ***Fotorresistor***: Utilizados para detectar luz y cambiar el funcionamiento de un circuito.
+9. ***Varistor***: Conducir una corriente eléctrica significativa cuando el voltaje sea excesivo.
+10. ***Cables***: _Cable fase_ cable conductor encargado de transportar la corriente eléctrica. _Cable Neutro_ permite que la corriente eléctrica circule por el cable fase. _Cable a tierra_ encargado de proteger la instalación, cable conductor.
+
+Links: 
+
+<https://www.fluke.com/es-cl/informacion/blog/electrica/que-es-la-resistencia#:~:text=La%20resistencia%20es%20una%20medida,entre%20voltaje%2C%20corriente%20y%20resistencia.>
+
+<https://www.youtube.com/watch?v=N6zTa0BFuac>
+
+<https://sdindustrial.com.mx/blog/potenciometro-que-es/#%C2%BFComo-funciona-un-potenciometro>
+
+<https://es.wikipedia.org/wiki/Condensador_electrol%C3%ADtico>
+
+<https://es.wikipedia.org/wiki/Altavoz#:~:text=Un%20altavoz%20(tambi%C3%A9n%20conocido%20como,cines%20y%20teatros%20y%20megafon%C3%ADa.>
+
+<https://es.wikipedia.org/wiki/Uni%C3%B3n_PN>
+
+<https://es.wikipedia.org/wiki/Led>
+
+<https://huergo.edu.ar/docs/hojadatos.pdf>
+
+<https://www.youtube.com/watch?v=QF4TKc-scwo>
+
+<https://www.youtube.com/watch?v=7WPmcdbiFRU>
+
+<https://grupo-jarama.com/blog/cable-neutro-fase-tierra-diferencias-caracteristicas#:~:text=%C2%BFQu%C3%A9%20es%20el%20cable%20neutro,M%C3%A1s%20vale%20prevenir%20que%20curar.>
+
+<https://grupo-jarama.com/blog/colores-cables-electricos>
+
+<https://floorcenter.cl/cual-cable-es-positivo-el-cafe-o-el-azul-en-instalaciones-electricas/>
+
+![Img 1](https://github.com/user-attachments/assets/86911a11-7ac3-4cb6-871a-372e110c5866)
+
+![Img 2](https://github.com/user-attachments/assets/3d693ef1-32a0-4cc5-a02a-8b522beab370)
+
+![Img 3](https://github.com/user-attachments/assets/5ecf358d-73fe-4136-86e2-8a9ff4c9f8b1)
+
+![Img 4](https://github.com/user-attachments/assets/311ae345-9e8b-43a7-9c14-563b93e7ea85)
+
+![Img 5](https://github.com/user-attachments/assets/3da72906-a0a5-492b-a9f4-a469ea58b77a)
