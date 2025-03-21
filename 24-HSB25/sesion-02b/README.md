@@ -24,5 +24,7 @@ Significa la lista de materiales o componentes, donde se organiza de la siguient
 |:---------|:---:|------------:| ---------:| 
 | Resistencia |  3  | 3           | 1K        |
 | Leds     |  4  | D1,D2,D3,D4 | Surtido   |
-| Sofía    |  1  | Bat         | 9V        |
+| Batería    |  1  | Bat         | 9V        |
+
+
 
