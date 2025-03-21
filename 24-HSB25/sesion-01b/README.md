@@ -1,5 +1,7 @@
 # sesion-01b
 
+# ENCARGO 02
+
 # Opinión sobre *Aphex Twin*
 
 Drukqs (2001) es un álbum de Aphex Twin que genera muchas opiniones divididas. No es un disco fácil de escuchar ni está pensado para agradar a todos. Parece más bien un experimento donde Richard D. James combina música para piano con piezas de breakcore, un estilo de música electrónica muy rápida y desordenada. Es un álbum doble que no sigue una estructura clara, sino que se siente como una recopilación de diferentes ideas, algunas muy interesantes y otras un poco caóticas.
@@ -17,3 +19,5 @@ The Internet's Own Boy, también tiene un lado muy triste, ya que todo su esfuer
 A través de su vida y trabajo, me hizo reflexionar sobre el poder que la tecnología tiene para cambiar el mundo y cómo personas como él pueden tener un impacto duradero, aunque no siempre sean reconocidos como deberían. Me hace pensar que no importa cuán joven seas, puedes hacer una gran diferencia si te enfrentas a lo que crees que está mal, incluso si las fuerzas en contra son enormes.
 
 Es como el mero ejemplo de Vincent Van Gogh, a pesar de su manera de ser artista, sus pinturas fueron valoradas cuando el ya no estaba para ver el impacto que generaron. Lo mismo que le paso a Aaron Swartz.
+
+# ENCARGO 03
