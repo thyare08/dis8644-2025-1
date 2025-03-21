@@ -19,15 +19,17 @@ la ley de ohm, establece que la corriente eléctrica que cirucla por un conducto
 limitaciones: 
 no se aplica en casos en los que hay una carga inductiva
 no se aplica en casos donde la resistencia no es constante
-no se aplica en dispositivos con una relación no lineal entre tensión y corriente, como un termistor
+no se aplica en dispositivos con una relación no lineal entre tensión y corriente, como un termistor.
 ## experimentos de circuitos en la protoboard
 _circuito en paralelo_
+
 observaciones: 
 1. puse los cables + - mas cerca de los leds 
 2. me di cuenta que puse los led alreves upsi
 3. cambie de lugar las resistencias
 resultado: prendió/funcionó
 _circuito en serie_
+
 observaciones:
 1. no prendió ningun led, ¿que está mal?
 2. en el segundo intento tampoco prendió, ¿por qué? ¿será la resistencia?
