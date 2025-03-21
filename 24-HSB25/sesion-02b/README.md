@@ -20,9 +20,9 @@ Como dijo el profe, la vendian tan baratas ya que no funciono para lo que era el
 
 Significa la lista de materiales o componentes, donde se organiza de la siguiente manera:
 
-| Tipo  | QTY | Nombre | Valor |
-|------------|------------|------------|
-| Resistencia    | 3     | R1,R2,R3  | 1K |
-| Leds     | 4| D1,D2,D3,D4     | Surtido |
-| Bat    | 1    | Bat    | 9V |
+| TIPO     | QTY | NOMBRE        | VALOR     |
+|:---------|:---:|------------:| ---------:| 
+| Resisten |  3  | 3           | 1K        |
+| Leds     |  4  | D1,D2,D3,D4 | Surtido   |
+| Sofía    |  1  | Bat         | 9V        |
 
