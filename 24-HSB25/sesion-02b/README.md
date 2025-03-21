@@ -16,4 +16,13 @@ Como dijo el profe, la vendian tan baratas ya que no funciono para lo que era el
 
 ![808](https://www.latercera.com/resizer/v2/U4E6OZFFBZFHBB7DUIXHE2YI7Q.jpg?quality=80&smart=true&auth=78470195fb9cb9b36f882eeb05927628752c62bafbee5946923b3aa6eb2e240c&width=1200&height=800)
 
+# BOM (Bill of Materials)
+
+Significa la lista de materiales o componentes, donde se organiza de la siguiente manera:
+
+| Tipo  | QTY | Nombre | Valor |
+|------------|------------|------------|
+| Resistencia    | 3     | R1,R2,R3  | 1K |
+| Leds     | 4| D1,D2,D3,D4     | Surtido |
+| Bat    | 1    | Bat    | 9V |
 
