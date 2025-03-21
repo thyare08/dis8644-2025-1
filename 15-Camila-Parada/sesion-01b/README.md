@@ -17,5 +17,24 @@
         <br>
         <img src="./image/01.jpeg" style="width:600px;height:800px;">
         <br>
+<h2> Tarea: Analizar los componentes entregados en el Kit </h2>
+         <p>Estudiar las piezas y partes que componen el kit inicial con el cual se trabajó en dicha clase, además de hacerse preguntas curiosas.</p>
+        <br>
+        <h2> Tareas extras</h2>
+       <ol>
+         <li> Escuchar un álbum de "Aphex Twin", hacer una reseña y breve investigación </li>
+         <li> Ver el documental "The Internet's Own Boy" y escribir una breve reseña de esta. </li>
+        </ol>
+        <br>
+ <h1> Encargos y tareas 18 marzo 2025 </h1>
+        <br>
+    <h2> 1. Encargo 01B: Kit de electrónica </h2>
+        <ol>
+         <li></li>
+         <li></li>
+        </ol>
+        <br>
+    <h2> 2. Tarea extra 01A.1: Aphex Twin - Come to Daddy </h2>
+        <p> </p>
     </body>
 </html>
