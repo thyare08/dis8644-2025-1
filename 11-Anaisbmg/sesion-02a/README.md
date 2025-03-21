@@ -14,11 +14,11 @@ tinkercad.com
 **ley de ohm**: el voltaje, la corriente y la resistencia están relacionadas matemáticamente.
 
 recomendación:
--https://web.archive.org/ 
--https://archive.org/ 
--https://gifcities.org/ 
--https://rahuldkjain.github.io/gh-profile-readme-generatoR
--mika Martini
+- https://web.archive.org/
+- https://archive.org/
+- https://gifcities.org/
+- https://rahuldkjain.github.io/gh-profile-readme-generatoR
+- mika Martini
 
 -calculadora de resistencia: https://www.digikey.com/es/resources/conversion-calculators/conversion-calculator-resistor-color-code
 
@@ -39,7 +39,7 @@ circuito eléctrico: trayectoria cerrada que recorre una corriente eléctrica. E
 
 – Si conectamos varias ampolletas en serie, estamos aumentando la resistencia, por lo que como resultado disminuye la intensidad de luz en cada ampolleta y ésta baja notoriamente.
 
-– Una desventaja es que si se corta el paso de corriente en cualquier punto del circuito, cesa la conducción, lo que provocaría que todas ampolletas se apaguen." <sacado de https://www.wited.com/los-circuitos-electricos/>
+– Una desventaja es que si se corta el paso de corriente en cualquier punto del circuito, cesa la conducción, lo que provocaría que todas ampolletas se apaguen." < sacado de https://www.wited.com/los-circuitos-electricos/ >
 
 ![2a Clase F2](https://github.com/user-attachments/assets/4dcad165-10ef-4c45-ae77-e4653a023151)
 
@@ -55,7 +55,7 @@ circuito eléctrico: trayectoria cerrada que recorre una corriente eléctrica. E
 –  Los circuitos de nuestras casas son en paralelo, de modo de conectar distintos aparatos eléctricos que requieren distinta corriente para funcionar.
 
 –  Cada aparato eléctrico presenta a su vez un interruptor y puede prenderse o apagarse independientemente del resto."
-<sacado de https://www.wited.com/los-circuitos-electricos/>
+< sacado de https://www.wited.com/los-circuitos-electricos/ >
 
 ![2a Clase F3](https://github.com/user-attachments/assets/84d74a4d-0686-4f7f-b20b-2a840588abc5)
 
