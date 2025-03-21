@@ -27,14 +27,14 @@
 > Voltaje = diferencia de potencial entre 2 puntos -> 0V = negativo/tierra
 ><br/>
 ><br/>
-> I=V/R   Ley de ohm 
+> I=V/R [Ley de Ohm](https://youtu.be/HsLLq6Rm5tU?si=bHJU8ItBuc0yNuFI)
 ><br/>
 ><br/>
-> circuito = laso cerrado con elementos resistivos
+>Circuito = laso cerrado con elementos resistivos
 ><br/>
 ><br/>
 >
-> #### tipos de circuito
+> #### Tipos de circuito
 > * [Paralelo](https://youtu.be/5uyJezQNSHw?si=AVs_V-hrtPFCKdkU) -> se divide la corriente pero se mantiene el voltaje
 >
 > * [Serie](https://youtu.be/VV6tZ3Aqfuc?si=LqOyVR3KekmErDvc) -> Se divide/multiplica el voltaje
