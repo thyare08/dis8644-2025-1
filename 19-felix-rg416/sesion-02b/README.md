@@ -27,11 +27,20 @@ https://www.youtube.com/watch?v=K0HSD_i2DvA
 
 ## serie y paralelo
 ![actividad 01](https://github.com/user-attachments/assets/532a6372-a573-4771-a146-bfd2b522acfc)
-![BOM](https://github.com/user-attachments/assets/38bc675c-881b-4aea-9329-be8137635429)
+| tipo         | Qty | nombre/etiqueta | valor     |
+|--------------|-----|-----------------|-----------|
+| resistencias | 3   | R1 R2 R3        | 1k        |
+| LED roja     | 4   | D1 D2 D3 D4     | 1.8 - 2.1 |
+| batería      | 1   | bat             | 9v        |
 
 # LQXTLC
 
 ## 01
+| tipo         | Qty | nombre/etiqueta | valor        |
+|--------------|-----|-----------------|--------------|
+| resistencias | 5   | R1 R2 R3 R4 R5  | 220x4 - 1kx1 |
+| LED roja     | 4   | D1 D2 D3 D4     | 1.8 - 2.1    |
+| batería      | 1   | bat             | 9v           |
 
 ![LQXTLC 01](https://github.com/user-attachments/assets/af289a4c-b779-40eb-b468-04aece44040d)
 
@@ -43,4 +52,36 @@ https://www.youtube.com/watch?v=K0HSD_i2DvA
 | R4     | 1  | 1  | 1  | 0  |
 | R5     | 1  | 0  | 0  | 1  |
 
+## 02
+| tipo         | Qty | nombre/etiqueta   | valor     |
+|--------------|-----|-------------------|-----------|
+| resistencias | 6   | R1 R2 R3 R4 R5 R6 | 220       |
+| LED roja     | 4   | D1 D2 D3 D4       | 1.8 - 2.1 |
+| batería      | 1   | bat               | 9v        |
 
+| LQXTLC | D1 | D2 | D3 | D4 |
+|--------|----|----|----|----|
+| R1     |    |    |    |    |
+| R2     |    |    |    |    |
+| R3     |    |    |    |    |
+| R4     |    |    |    |    |
+| R5     |    |    |    |    |
+| R6     |    |    |    |    |
+
+## 03
+| tipo         | Qty | nombre/etiqueta         | valor        |
+|--------------|-----|-------------------------|--------------|
+| resistencias | 8   | R1 R2 R3 R4 R5 R6 R7 R8 | 220x5 - 1kx3 |
+| LED roja     | 3   | D1 D2 D3                | 1.8 - 2.1    |
+| batería      | 1   | bat                     | 9v           |
+
+| LQXTLC | D1 | D2 | D3 | 
+|--------|----|----|----|
+| R1     |    |    |    |
+| R2     |    |    |    |
+| R3     |    |    |    |
+| R4     |    |    |    |
+| R5     |    |    |    |
+| R6     |    |    |    |
+| R7     |    |    |    |
+| R8     |    |    |    |
