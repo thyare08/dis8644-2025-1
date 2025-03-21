@@ -62,3 +62,30 @@ Tiempo total CD / CD total play: 53:59
 
 ## Encargo 05
 
+![Img 9](https://github.com/user-attachments/assets/b63ea290-a1cc-4da1-b797-58ffe0722904)
+
+![Img 10](https://github.com/user-attachments/assets/b882f1f6-786b-4239-b293-fbc092185112)
+
+![Img 10](https://github.com/user-attachments/assets/a91cb746-bf86-422c-a6bb-3ed8e70cee04)
+
+![Img 12](https://github.com/user-attachments/assets/978bcca7-235f-430c-8824-74fe85d36434)
+
+![Img 13](https://github.com/user-attachments/assets/7aa542b5-91ed-4e08-b272-49f09a205e8b)
+
+![Img 14](https://github.com/user-attachments/assets/76598c2d-b0c7-472d-bb8d-b768e3a8747f)
+
+![Img 15](https://github.com/user-attachments/assets/4b848f42-57ec-4517-ba39-42e23722a715)
+
+![Img 16](https://github.com/user-attachments/assets/e2f847cf-2c85-47a2-bb43-7f47271e679a)
+
+![Img 17](https://github.com/user-attachments/assets/d2c12ecd-7458-40d8-b4aa-684d7a6781ac)
+
+![Img 18](https://github.com/user-attachments/assets/40487850-4116-449f-90b1-ba9ef2681d27)
+
+![Img 19](https://github.com/user-attachments/assets/16c8bb10-02f2-446c-bd66-957e9ccc2e2d)
+
+![Img 20](https://github.com/user-attachments/assets/46c946ee-ccd1-4631-a135-124bf254dca6)
+
+![Img 21](https://github.com/user-attachments/assets/372f038b-c4ce-4bd5-9dd4-d71d99194b71)
+
+![Img 22](https://github.com/user-attachments/assets/03d49634-8052-4782-a881-86522cf09521)
