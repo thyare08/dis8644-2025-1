@@ -1,7 +1,14 @@
 # sesion-01a
-## mi caja negra y yo
 
-### ¿como llegan mis perritos a mi 3ds?
+## trabajo en clase
+### conociendo el taller maquinas electronicas
+![foto6](https://github.com/user-attachments/assets/bf64df51-610b-4e25-8dde-08d56e7d7d57)
+![foto7](https://github.com/user-attachments/assets/2f946879-bd3c-496a-9e08-25af20795c02)
+
+
+## encargo
+### mi caja negra y yo
+¿como llegan mis perritos a mi 3ds?
 
 ![foto1](https://github.com/user-attachments/assets/27bde512-b2ea-475e-8833-fa6e4e4d4cc2)
 

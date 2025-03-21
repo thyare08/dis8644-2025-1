@@ -1,8 +1,8 @@
 # sesion-02a
-## introduccion a github y componentes electricos
 
-### componentes y circuito 1
-![foto5](https://github.com/user-attachments/assets/4fc794e2-8415-4af5-a2db-6e27aa7027b9)
+## trabajo en clase
+### circuitos electricos
+![foto10](https://github.com/user-attachments/assets/6d77738c-f9c8-4489-be3a-d8c83d9a61b7)
+![foto11](https://github.com/user-attachments/assets/e4d63ab9-22e4-407c-9c6e-4f9ed1c03330)
 
-### aplex twin y aaron swartz
-![foto2](https://github.com/user-attachments/assets/68e9150f-f196-421d-8f64-ea3c7ee603a4)
+## encargo

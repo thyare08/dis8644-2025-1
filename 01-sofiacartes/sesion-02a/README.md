@@ -8,6 +8,42 @@
   
 ![IMG_7938](https://github.com/user-attachments/assets/74f7fefa-8e1d-4cae-9e05-c7ffc9e23609)
 ![IMG_7937](https://github.com/user-attachments/assets/07771728-434b-45d5-92df-5985ccd48312)
+* ### circuito en serie ejercicio
+  
+  ![IMG_7994](https://github.com/user-attachments/assets/2fc49a71-c1c3-414c-832c-2d5e60bf727e)
+  ![IMG_7992](https://github.com/user-attachments/assets/ba75a1ec-350f-4f1c-9259-a003904a13f8)
+
+* ### resistencias
+
+* ¿cómo leer una resistencia?
+  
+<img width="618" alt="como leer una resistencia" src="https://github.com/user-attachments/assets/a55e40e3-4c7a-406f-bc7f-b679548c1806" />
+<img width="622" alt="nresistencias" src="https://github.com/user-attachments/assets/72f6efcc-66ff-4c89-873c-9d95c444e45a" />
+
+
+imágenes sacadas de: <https://masterplc.com/calculadora/codigo-de-colores-de-resistencias/>
+
+* ### Calculadora de código de colores de resistencias de 4 bandas
+  
+ 100k Ω
+
+<img width="979" alt="100kohm" src="https://github.com/user-attachments/assets/1ff747fc-863d-41dc-95ba-bdc4803654e0" />
+
+ 10k Ω
+
+<img width="979" alt="10kohm" src="https://github.com/user-attachments/assets/b8630e43-0465-4cd0-b47f-36308aefa04d" />
+
+ 1k Ω
+
+<img width="979" alt="1kohm" src="https://github.com/user-attachments/assets/1d067185-2d00-412f-8fb7-fce3145e64ca" />
+
+ 100 Ω
+
+<img width="979" alt="100kohm" src="https://github.com/user-attachments/assets/3e448ef9-b15a-4260-bcac-671090ba4659" />
+
+ 220 Ω
+
+<img width="979" alt="220ohm" src="https://github.com/user-attachments/assets/3d8e0284-e35b-46b8-9da2-ac90da04895a" />
 
 * ### ley de ohm (Ω)
 se usa para determinar la relación entre tensión, corriente y resistencia en un circuito eléctrico.
