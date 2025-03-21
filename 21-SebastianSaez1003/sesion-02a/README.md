@@ -10,5 +10,4 @@ Referentes del dia de hoy:
 -Wayback Machine  
 -Profile README generator  
 
-En la mañana nos pusimos a revisar el github.
-explicandonos como podemos revisar y estar bien nuestra carpeta.
+En la mañana nos pusimos a revisar el github explicandonos como podemos revisar y estar bien nuestra carpeta.
