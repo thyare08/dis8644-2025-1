@@ -30,7 +30,7 @@ Mencionado por William Gilbert en *Sobre los imanes, los cuerpos magnéticos y e
 
 No existen materiales 100% conductivos o aislantes, sino que mas bien se clasifican según cuanto se oponen al paso de la electricidad.
 
-La tabla de la izquierda muestra tanto elementos como materiales compuestos (Ej. Acero inoxidable = Acero + Cromo) 
+La tabla de la izquierda muestra tanto elementos como materiales compuestos (Ej. Acero inoxidable = Acero + Cromo)
 
 ![image.png](archivos/image%202.png)
 
@@ -56,7 +56,7 @@ Un átomo que ganó un electrón es un Catión, y uno que perdió Anión
 
 ![image.png](archivos/image%205.png)
 
-# ⚡ La electricidad como flujo de electrones
+## ⚡ La electricidad como flujo de electrones
 
 ## 🚀 Electrones libres
 
@@ -68,7 +68,7 @@ Si se ubican cargas positivas y negativas a los extremos de un conductor (como e
 
 Los electrones más externos están atraídos con menos fuerza al núcleo. Pueden salir de un átomo y moverse a otro.
 
-# (-) ![imagen.gif](archivos/imagen.gif) (+)
+## (-) ![imagen.gif](archivos/imagen.gif) (+)
 
 La cantidad de corriente que un material permite dejar circular se denomina RESISTENCIA
 
@@ -106,9 +106,9 @@ $$
 
 Material audiovisual recomendado: Cosmos S01E10 - The Electric Boy
 
-https://archive.org/details/cosmos-s01e10-the-electric-boy-with-subtitles-by-vaibhav-khade
+<https://archive.org/details/cosmos-s01e10-the-electric-boy-with-subtitles-by-vaibhav-khade>
 
-# 📏 Unidades de medida y ejemplos de V, I y R
+## 📏 Unidades de medida y ejemplos de V, I y R
 
 ## 🔋 Voltaje (V)
 
@@ -164,7 +164,7 @@ La ampolleta genera luz y calor al oponerse a la corriente eléctrica
 
 El hervidor eléctrico de agua funciona en base a una resistencia
 
-# 🔀 Circuito eléctrico
+## 🔀 Circuito eléctrico
 
 Arreglo de resistencias, cables, u otros componentes eléctricos, conectados en forma de lazo cerrado, que generan que la energía fluye a través de él.
 
@@ -195,7 +195,7 @@ La potencia nos permite saber fácilmente el consumo de un circuito. Se mide en 
 Ej. Una extensión eléctrica (alargador) puede dejar pasar hasta 10A de corriente, y funciona a 220V
 
 $$
-P = 220V*10A 
+P = 220V*10A
 
 $$
 
@@ -205,13 +205,13 @@ $$
 
 ![Captura de pantalla 2024-11-12 a la(s) 12.32.58.png](archivos/Captura_de_pantalla_2024-11-12_a_la(s)_12.32.58.png)
 
-**Consumo de potencia (lo que mide la compañía eléctrica)**
+## Consumo de potencia (lo que mide la compañía eléctrica)
 
 La electricidad se cobra según el nivel de consumo por hora, con la unidad **kilo watt hora** (kWh)
 
 Al 12 de noviembre de 2024 el costo de valor hora en Chile es de $192.
 
-https://www.enel.cl/es/clientes/tarifas-y-regulacion/consumo-artefactos-electricos.html
+<https://www.enel.cl/es/clientes/tarifas-y-regulacion/consumo-artefactos-electricos.html>
 
 ## 🏃🏽‍♂️ Circuitos serie y paralelo
 
