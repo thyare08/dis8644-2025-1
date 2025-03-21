@@ -66,7 +66,7 @@ Tiempo total CD / CD total play: 53:59
 
 ![Img 10](https://github.com/user-attachments/assets/b882f1f6-786b-4239-b293-fbc092185112)
 
-![Img 10](https://github.com/user-attachments/assets/a91cb746-bf86-422c-a6bb-3ed8e70cee04)
+![Img 11](https://github.com/user-attachments/assets/a7fc4cf4-60c6-46f7-a131-c50b213ca9b1)
 
 ![Img 12](https://github.com/user-attachments/assets/978bcca7-235f-430c-8824-74fe85d36434)
 
