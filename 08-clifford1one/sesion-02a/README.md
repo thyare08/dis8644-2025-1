@@ -18,7 +18,7 @@ Esta es mi cajita de componentes, la quiero mucho <3
 
 Conexión con un led
 
-![alt text](nivel1-diagrama.jpg)
+![alt text](nivel1-diagrama.png)
 
 
 ### NIVEL 2
@@ -40,13 +40,13 @@ comparten voltaje, se dividen la corriente. (por lo tanto, mientras más leds, m
 
 Comparten corriente, se dividen el voltaje (por lo tanto, si desconecto uno, todos se apagan)
 
-![alt text](nivel2-diagrama.jpg)
+![alt text](nivel2-diagrama.png)
 
 ### NIVEL 3
 
 Saqué este ejemplo de google imágenes para agarrar vuelo.
 
-![alt text](nivel3-diagrama.jpg)
+![alt text](nivel3-diagrama.png)
 <https://blog.uelectronics.com/electronica/como-prender-un-led-con-un-push-boton-utilizando-el-protoboard-de-400-pts/>
 
 ![alt text](nivel3-foto.jpg)
