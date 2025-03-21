@@ -12,7 +12,7 @@
 
 ## encargo 04- cultura electrónica chilena y latinoamericana
 
-El álbum que analicé en este caso fue "Demasiado personal" de Felipe Pérez aka Phillippe, este álbum es un EP y fue lanzado el 1 de Febrero de 2006. Es el quinto EP del sello chileno Pueblo Nuevo y es un EP del género electrónico y minimalista, se compone de 5 canciones las cuáles son:
+El álbum que analicé en este caso fue "Demasiado personal" de Felipe Pérez aka Phillippe, este álbum es un EP y fue lanzado el 1 de Febrero de 2006. Es el quinto EP del netlabel chileno Pueblo Nuevo y es del género electrónico y minimalista, se compone de 5 canciones las cuáles son:
 1. Una pausa
 2. Canyon
 3. Metrónomo
@@ -38,3 +38,8 @@ La cuarta canción se llama Mom, también posee percusión de distintas formas y
 La quinta y última canción se llama Miss, en esta canción percibí una percusión que suena un poco más análoga, como si fuera un bongó pero con un efecto de eco de fondo, este se repite durante toda la canción. Otra cosa que me llamó la atención es un sonido de alarma que hay, como si fuera de un botón de ascensor o algo parecido
 
 En términos generales el disco me gustó harto, siento que es muy relajado y también los ritmos repetitivos hacen que sea bailable, o por lo menos a mi me hizo mover las patitas. Es bastante minimalista y limitado en cuanto a sonidos ya que al repetirlos como que juega con eso y no indaga mucho más allá en hacer mezclas enormes de sonidos o frenéticas como Aphex Twin por ejemplo. La verdad me gustó más este EP que el álbum que escuché de Aphex Twin, lo encontré más piola y lo disfruté más.
+
+## ejercicio valores de resistencia y Ohms
+
+![IMG_20250321_021351](https://github.com/user-attachments/assets/c3394e1c-9305-4e78-99cb-9e9e4ce852d0)
+
