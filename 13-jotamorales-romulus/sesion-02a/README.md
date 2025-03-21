@@ -41,14 +41,25 @@ Más videos: https://youtu.be/0gp1pTGiMhI  -  https://youtu.be/YtTkdyzFw5k
 
 1. protoboard - resistores , potenciometro
 
-
+![image](https://github.com/user-attachments/assets/dc4ff12a-086e-44fc-a14b-741e1c90e322)
 
 el circuito con una bateria de 9v que alimenta el led. El potenciometro regula el brilo de este. Resistencia alta = led brilla menos, resistencia baja = brilla más. El led al ser pequeño, es de baja eficiencia, por lo cual brilla poquito; si utilizara un led más grande brillaria más.
 
 
--incluir texto explicativo con tus propias palabras, diagramas, fotos de las conexiones, observaciones sobre brillo, sobre posibilidades.
+
 
 -investigar cuáles son los colores de los resistores que estás usando y a qué valor en Ohms corresponde. describir qué colores debes usar en un resistor para simbolizar 1 Ohm, 10 Ohm, 100 Ohm, 1k Ohm.
+
+La resistencia controla cuánta corriente pasa para que el LED no se queme, y el LED convierte esa energía en luz.
+
+Resistores de 3 o 4 bandas:
+Las dos primeras bandas indican los primeros dos dígitos del valor de resistencia. La tercera banda es el multiplicador, que cambia la magnitud del valor en ohmios. La cuarta banda (si está presente) indica la tolerancia. Si no hay cuarta banda, la tolerancia es ±20%.
+
+Resistores de 5 o 6 bandas:
+Tienen una banda adicional que representa un tercer dígito significativo. La cuarta banda se convierte en el multiplicador. La quinta banda indica la tolerancia del resistor. Si hay una sexta banda, esta representa la confiabilidad o el coeficiente de temperatura (ppm/K), indicando cómo cambia la resistencia con la temperatura.
+
+1 Ohm = 
+
 
 
 
