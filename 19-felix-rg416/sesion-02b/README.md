@@ -13,6 +13,7 @@ https://www.youtube.com/watch?v=K0HSD_i2DvA
 - solenoide
 - poesía - poíēsis - creación o hacer
 - david tudor - reminded by the instruments - rainforest moma
+- john widlar
 
 
 BOM - Bill Of Materials
