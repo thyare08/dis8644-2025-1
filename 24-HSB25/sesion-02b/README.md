@@ -44,7 +44,15 @@ Pero nosotros con mi compañero Martin probamos con una resitencia de 47K, para 
 `Negro` 0
 `Café` 0
 `Café`  0 
+
 6,800= 6,8K
 K=1.000
 
+# 
+
+| LOQUITO POR TI LOCO LOCO     | D1 D2 | D3 D4|
+|:---------|:---:|------------:| ---------:| 
+| R1 |  0 1  | 1 1 | 
+| R2 |  1 0  | 1 1 | 
+| R3 |  1 1  | 0 0 | 
 
