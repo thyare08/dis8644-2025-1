@@ -14,11 +14,11 @@ Esta es mi cajita de componentes, la quiero mucho <3
 
 ### NIVEL 1
 
-*foto*
+![alt text](nivel1-foto.jpg)
 
 Conexión con un led
 
-*Digrama elect*
+![alt text](nivel1-diagrama.jpg)
 
 
 ### NIVEL 2
@@ -27,28 +27,29 @@ Conexión paralela y en serie
 
 # PARALELA
 
-*foto*
+![alt text](nivel2-foto.paralela.jpg)
 
 comparten voltaje, se dividen la corriente. (por lo tanto, mientras más leds, menos brilla c/u de ellos)
 
-*diagrma elct*
 
 # SERIE
 
-*foto*
+![alt text](nivel2-foto.serie.jpg)
+
+![alt text](nivel2-foto2.jpg)
 
 Comparten corriente, se dividen el voltaje (por lo tanto, si desconecto uno, todos se apagan)
 
-*diagrama elct*
+![alt text](nivel2-diagrama.jpg)
 
 ### NIVEL 3
 
 Saqué este ejemplo de google imágenes para agarrar vuelo.
 
-*diagrama elct*
+![alt text](nivel3-diagrama.jpg)
 <https://blog.uelectronics.com/electronica/como-prender-un-led-con-un-push-boton-utilizando-el-protoboard-de-400-pts/>
 
-*foto*
+![alt text](nivel3-foto.jpg)
 
 Pruebas:
 
@@ -56,8 +57,8 @@ Pruebas:
 - Si el cable de tierra y el led están conectados al mismo pin, el botón permanece prendido.
 - Si pongo un cable entre el botón y el led, igual funciona
 
+### NIVEL 4: Dos botones
 
+![alt text](nivel4-foto.jpg)
 
-
-
-
+![alt text](nivel4-foto2.jpg)
