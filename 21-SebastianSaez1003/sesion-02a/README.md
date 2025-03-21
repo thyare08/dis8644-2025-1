@@ -1,4 +1,5 @@
 # sesion-02a
+###Modulo de la mañana
 
 Referentes del dia de hoy:
 NIME, new interfaces for musical expression
