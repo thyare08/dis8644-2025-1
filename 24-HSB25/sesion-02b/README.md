@@ -47,5 +47,5 @@ Café 0
 6,800= 6,8K
 K=1.000
 
-<span style="color:cyan">Este es un texto rojo</span>
+`texto` 
 
