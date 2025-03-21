@@ -70,6 +70,11 @@ v=i:r
 *si no estoy segura de la polaridad, se busca.
 
 # encargo-03
+**dinámica estructural**
+1 de agosto 2024, chile
+por pablo gómez bate
+estilos: Ambient, IDM, Trip-Hop
+Personalmente, me gustó este disco. Lo escuché mientras realizaba tareas y sentí que me ayudó a concentrarme mucho más. Creo que sus melodías envolventes influyeron en esto. Considero que tiene un buen contraste entre el ritmo y la experimentación, algo que se aprecia a lo largo del álbum. Aunque sigue una idea central, el disco tiene un desarrollo claro a medida que avanzan las canciones, lo que genera un contraste interesante entre la primera y la última canción.
 
 # encargo-04
 # resistencia 
