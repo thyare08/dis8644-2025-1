@@ -33,32 +33,24 @@ circuito eléctrico: trayectoria cerrada que recorre una corriente eléctrica. E
 # circuito en serie
 "Dependiendo de la manera en que se conectan los componentes de un circuito, estos pueden estar conectados en serie, en paralelo o de manera mixta, que es una combinación de estos dos últimos.
 
-– Los componentes están conectados de modo que las cargas eléctricas circulan por un solo trayecto
-
-– La corriente eléctrica es la misma en cada componente
-
-– Si conectamos varias ampolletas en serie, estamos aumentando la resistencia, por lo que como resultado disminuye la intensidad de luz en cada ampolleta y ésta baja notoriamente.
-
-– Una desventaja es que si se corta el paso de corriente en cualquier punto del circuito, cesa la conducción, lo que provocaría que todas ampolletas se apaguen." < sacado de https://www.wited.com/los-circuitos-electricos/ >
+- Los componentes están conectados de modo que las cargas eléctricas circulan por un solo trayecto
+- La corriente eléctrica es la misma en cada componente
+- Si conectamos varias ampolletas en serie, estamos aumentando la resistencia, por lo que como resultado disminuye la intensidad de luz en cada ampolleta y ésta baja notoriamente.
+- Una desventaja es que si se corta el paso de corriente en cualquier punto del circuito, cesa la conducción, lo que provocaría que todas ampolletas se apaguen." < sacado de https://www.wited.com/los-circuitos-electricos/ >
 
 ![2a Clase F2](https://github.com/user-attachments/assets/4dcad165-10ef-4c45-ae77-e4653a023151)
 
 
 # circuito en paralelo
 
-– "Los componentes están conectados de modo que se presenta más de un camino para el paso de las cargas eléctricas.
-
-–  Cada ampolleta está conectada directamente a la pila, de modo que todas tienen el mismo voltaje.
-
-–  Al aumentar la cantidad de ampolletas en paralelo, no aumenta la resistencia, por lo que cada ampolleta brilla con igual intensidad.
-
-–  Los circuitos de nuestras casas son en paralelo, de modo de conectar distintos aparatos eléctricos que requieren distinta corriente para funcionar.
-
-–  Cada aparato eléctrico presenta a su vez un interruptor y puede prenderse o apagarse independientemente del resto."
+- "Los componentes están conectados de modo que se presenta más de un camino para el paso de las cargas eléctricas.
+- Cada ampolleta está conectada directamente a la pila, de modo que todas tienen el mismo voltaje.
+- Al aumentar la cantidad de ampolletas en paralelo, no aumenta la resistencia, por lo que cada ampolleta brilla con igual intensidad.
+- Los circuitos de nuestras casas son en paralelo, de modo de conectar distintos aparatos eléctricos que requieren distinta corriente para funcionar.
+- Cada aparato eléctrico presenta a su vez un interruptor y puede prenderse o apagarse independientemente del resto."
 < sacado de https://www.wited.com/los-circuitos-electricos/ >
 
 ![2a Clase F3](https://github.com/user-attachments/assets/84d74a4d-0686-4f7f-b20b-2a840588abc5)
-
 
 todos los positivos van arriba y los negativos abajo
 
@@ -82,9 +74,9 @@ v=i:r
 # encargo-04
 # resistencia 
 - 100K café-negro-amarillo
-- 10K café-negro-naranjo 
-- 1k café-negro-rojo 	
-- 220Ω rojo-rojo-café	
+- 10K café-negro-naranjo
+- 1k café-negro-rojo
+- 220Ω rojo-rojo-café
 - 100Ω café-negro-café
 
 ¿Qué significa cada banda?
