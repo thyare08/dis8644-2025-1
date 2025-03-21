@@ -1,7 +1,8 @@
 # sesion-01a
-*11 de marzo de 2025*
 
-### Encargos
+11 de marzo de 2025
+
+## Encargos
 
 1. Escuchar un disco de Kraftwerk
 2. Ver pelicula "Barrio universitario" 2023
@@ -11,24 +12,16 @@ Debemos comprender que siempre será mas importante el concepto que la tecnolog�
 
 Durante la clase conocimos distintas maneras de hacer sonidos mediante elementos electronicos.
 
-### Referentes de la clase 
+### Referentes de la clase
 
-* Oficina de sonido
+* Oficina de sonido <https://www.instagram.com/oficina_de_sonido/>
 
-<https://www.instagram.com/oficina_de_sonido/?hl=es>
-* Corazón de robota 
+* Corazón de robota <https://www.instagram.com/corazonderobota/>
 
-<https://www.instagram.com/corazonderobota/>
-* Bastl instruments
+* Bastl instruments <https://bastl-instruments.com/>
 
-<https://bastl-instruments.com/?srsltid=AfmBOoo2HWaNqrRHY935i1CEOMiI1LKjh07xfwB6VgBy9DZpLdflrW24>
-* Critter and Guitari
-
-<https://www.critterandguitari.com/>
+* Critter and Guitari <https://www.critterandguitari.com/>
 
 ### Desarrollo encargo caja negra
 
-![IMG_6413](https://github.com/user-attachments/assets/cf9bc841-efb7-483f-98bf-d840804524df)
-
-
-
+![encargo caja negra sobre mis audífonos](./archivos/mis-audifonos.jpg)
