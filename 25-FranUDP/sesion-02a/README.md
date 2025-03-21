@@ -7,17 +7,20 @@
 > Sin letras mayúsculas en nombres de archivos y/o carpetas
 > Asegurarse que el archivo tenga la extensión deseada (.exe .txt. .md .stl ...)
 >
-> ### Github personal web page
+> ### [Github personal web page](https://youtu.be/o5g-lUuFgpg?si=7qb0U5vslgImk-H2)
 > nombrePerfil.github.io = pagina web personal gratis (html, md compatible)
-> CNAME ->  file
-> profile readme generator
 >
-> ### Tinkercad
+> CNAME (Cannonical NAME record). Maps one domain name to another eg: originalName.github.io -> clicheSurame.com (dominio nuevo se tiene que comprar)
+>
+> [profile readme generator](https://youtu.be/onUx22pgiBM?si=5ASsmWzo5xztjWpg)
+>
+> ### [Tinkercad](https://www.tinkercad.com)
 > simulación circuitos electricos
-> surprising jarv
 >
 > ### Circuitos
 > cerrado v/s abierto
+>> En un circuito cerrado hay flujo de corriente, mientras que en uno abierto, no.
+>> 
 > Voltaje = diferencia de potencial entre 2 puntos -> 0V = negativo/tierra
 > I=V/R   Ley de ohm
 > circuito = laso cerrado con elementos resistivos
