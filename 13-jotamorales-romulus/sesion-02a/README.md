@@ -53,13 +53,21 @@ el circuito con una bateria de 9v que alimenta el led. El potenciometro regula e
 
 La resistencia controla cuánta corriente pasa para que el LED no se queme, y el LED convierte esa energía en luz.
 
+la ley de ohm la resistencia es igual al voltaje dividido entre la corriente
+
 Resistores de 3 o 4 bandas:
 Las dos primeras bandas indican los primeros dos dígitos del valor de resistencia. La tercera banda es el multiplicador, que cambia la magnitud del valor en ohmios. La cuarta banda (si está presente) indica la tolerancia. Si no hay cuarta banda, la tolerancia es ±20%.
 
 Resistores de 5 o 6 bandas:
 Tienen una banda adicional que representa un tercer dígito significativo. La cuarta banda se convierte en el multiplicador. La quinta banda indica la tolerancia del resistor. Si hay una sexta banda, esta representa la confiabilidad o el coeficiente de temperatura (ppm/K), indicando cómo cambia la resistencia con la temperatura.
 
-1 Ohm = 
+negro = 10
+1 Ohm =  Negro - Negro - Marrón - Negro - Marrón
+10 Ohm = negro - marron -negro - negro - marron 
+100 Ohm =  marron - negro - negro - negro - merron 
+1k Ohm = marron - negro - negro - marron - marron 
+
+https://www.digikey.com/es/resources/conversion-calculators/conversion-calculator-resistor-color-code 
 
 
 
