@@ -31,7 +31,7 @@ dictado durante el primer semestre 2025 (marzo a julio)
 - [11-Anaisbmg](./11-Anaisbmg/)
 - [12-zaaaiko](./12-zaaaiko/)
 - [13-jotamorales-romulus](./13-jotamorales-romulus/)
-- [14-todo](./14-todo/)
+- [14-todo](./14-todo/) NOTA: estudiante ya no está en el curso
 - [15-Camila-Parada](./15-Camila-Parada/)
 - [16-sofrito](./16-sofrito/)
 - [17-sz-mada](./17-sz-mada/)

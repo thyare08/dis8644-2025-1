@@ -4,6 +4,10 @@
 
 ## Apuntes 
 
+<https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax>
+
+<https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf>
+
 * **Markdown**: lenguaje que permite dar formato a texto sin necesidad de dar etiquetas, un editor de texto.
 * **Fork**: es la copia donde uno puede hacer cambios como si fuera mi bitácora; no se pueden hacer cambios en _diseño udp_ como tal. 
 * Hay 2 formas de representar un circuito **ESQUEMÁTICO** y **FÍSICO**.
@@ -21,32 +25,101 @@
 ![Clase 01b](https://github.com/user-attachments/assets/1ceb59c5-357c-4a22-bc83-47229a22b2ad)
 
 
-## Encargo 00 
-Escuchar disco Kraftwerk y ver película Barrio Universitario
+## Encargo 02
 
-### Kraftwerk- Album _Techno Pop_
-_Kraftwerk_ (1970) significa **planta de energía** o **central de energía**
+Escuchar álbum _Aphex Twin_ y ver documental de _Aaron Swartz_
 
-Escuché el disco Techno pop: 2009 remaster, producida por Florian Schneider y Ralf Hütter, escrita por Emil Schult, Florian Schneider, Karl Bartos y Ralf Hütter. Me gustó este disco porque me di cuenta que las tres primeras canciones se mezclan con las siguientes, es decir que tiene una correlación entre las canciones. Además me fijé que en estas canciones (Boing Boom Tschak, Techno pop y Musique Non-stop) se puede escuchar melodías de la primera, en la tercera; y también que tiene muchos sonidos repetitivos; me fijé que entre medio de las canciones decían el título de la siguiente canción, lo encontré muy divertido. 
+### Aphex twin - Álbum _Come to Daddy_
 
-![1  Kraftwerk](https://github.com/user-attachments/assets/a8e3388e-6c9b-4607-96c9-c302020e7d97)
+<https://www.ilictronix.com/2021/03/retro-reviews-aphex-twin-come-to-daddy.html>
 
-
-### Barrio Universitario Película
-Me di cuenta que crítica al barrio en donde estudian, separando a los estatus sociales y encapsulandolos en el _estudiante pobre_ y en el _estudiante rico_, dando a entender que el pobre siempre estará en un instituto técnico malo y el rico siempre tendrá los privilegios de estudiar en la mejor universidad. También muestra dos versiones de como es la vida de alguien _pobre_ que es de escasos recursos, que no tiene buena situación económica y también en el entorno en que se desenvuelven (Miguel, Dakota, Guata y Dallas) y por supuesto en donde estudian ( Michael J. Fox); por otro lado tenemos al _rico_ que muestra en la película que tiene una mejor casa, hablan "bien", que son educados, etc. 
-
-![2  Barrio Universitario](https://github.com/user-attachments/assets/130381ba-414a-42fd-8295-18994465c15b)
-
-## Encargo 01
-
-### Mi caja negra y yo
-Elegí mis _Audífonos de cable_
-
-![3  Mi caja negra](https://github.com/user-attachments/assets/d602a5b5-add3-4dd9-bccd-cc22d6b3c337)
+* Publicado en 1997, es un _extended play_ significa que es un EP un miniálbum.
+* Alcanzó el puesto #36 en la lista de UK Singles Chart.
+* Richard David James, es un dj y productor irlandés, nacionalizado británico.
+* Conocido por ser una figura innovadora e influyente de la música electrónica.
+* ***Aphex Twin*** es una combinación de _Aphex Systems Limmited_ (marca de equipos de procesamiento de señales de audio) y _Twin_ para recordar a su hermano muerto.
+* Fundó el sello discográfico _Rephlex Records_
+* El álbum surgió un día en que Richard estaba borracho en su casa, haciendo un tipo de _death metal_
+* Al final del siglo de los 90, la música electrónica se estaba llevando a cabo en ordenadores interactivos, creciendo en la música con distintos ritmos, como: **Drum and bass**, **Jungle**, **Trance**, etcétera.
+* El álbum tiene sonidos extravagantes y en la primera canción tiene muchos sonidos hardcore, por lo que me dio miedo escucharla. Sus canciones son bastantes abstractas, como si fuera música tipo extraterrestre. :)
+  
+  ![ComeToDaddy](https://github.com/user-attachments/assets/90f8e13f-cd89-42b6-9e15-6aa44d552783)
 
 
-![4  Mi caja negra](https://github.com/user-attachments/assets/f691a9e6-5312-4a26-9b1b-a65fe913b6b3)
+  ![Aphex](https://github.com/user-attachments/assets/37856fa3-eeee-4a21-b18f-16422f60ee75)
+
+Este álbum me gustó mucho, excepto la primera canción _Come to Daddy_, ya que al tener muchos sonidos hardcore y extravagantes (que no estoy acostumbrada escuchar) me dió miedo cuando lo puse. La canción _Film_ es mucho más amigable y genera un contraste notorio con respecto a la primera canción; tiene sonidos repetitivos y fácilmente podría ser una canción para Minecraft :), me causa alegría escucharla y como dato esta canción era una de las favoritas de Skrillex. Las demás canciones son bastantes estructuradas, que siguen un patrón repetitivo en ciertas partes como la canción _Bucephalus Bouncing_ tiene hartas melodías Breakdown, que baja la intensidad de la canción, lo que lo hace bastante llamativa e interesante. 
 
 
-![5  Mi caja negra](https://github.com/user-attachments/assets/8b590923-bf9d-416a-bb23-6302ec6b330e)
+### El hijo del internet - Documental de la historia de Aaron Swartz 
 
+<https://www.youtube.com/watch?v=9vz06QO3UkQ&rco=1>
+
+<https://www.youtube.com/watch?v=NfY91teCXds>
+
+_"Existen leyes injustas, deberíamos contentarnos con obedecerlas o deberíamos trabajar en enmendarlas, y cumplirlas hasta tener éxito, o deberíamos Transgedirlas desde el principio?"_ (Henry David Thoreau)
+
+* Aaron Swartz (8-11-1986 / 11-01-2013) nació en Highland Park y fue un programador, activista y hacker del internet.
+
+Sobre el documental: 
+
+* Aaron aprendió a aprender a una edad muy temprana; empezó a programar desde muy joven.
+* El documental se divide en: Childhood- programming- RSS- school- copyright- creative commons- personal blog- college- leaving startup culture- tim bernerslee- open library- pacer- thumb drive corps- pacer problem- FBI- JSTOR- american greed- anonymous- taking the deal- his motives- his depression.
+* La ley SOPA intentaba frenar la piratería en línea de música y películas
+
+![Aaron](https://github.com/user-attachments/assets/710195e0-c6c2-48f5-9634-aef6b52846f8)
+
+![Swartz](https://github.com/user-attachments/assets/a00c5961-e2ba-451c-a218-df6ec1c70e6c)
+
+Me pareció súper importante e interesante saber sobre este documental sobre la vida de Aaron, muestra todas las etapas de la vida de Swartz y muestra como fue un referente importante sobre la "lucha" por el internet privado. Participó en una campaña contra la ley SOPA (intentaba frenar la piratería en línea de música y películas) el cual ganaron. Sin embargo, su activismo lo llevo a tener muchos cargos y antecedentes penales; fue acusado de fraude informático por descargar documentos en JSTOR ya que quería hacerlos públicos. El sistema lo persiguió tanto que el se sintió agobiado y su salud mental estaba deteriorando de a poco, llevándolo a suicidarse en 2013.
+
+## Encargo 03 Caja de materiales 
+
+1. ***Resistencias***: Se opone a la energía que está pasando por el circuito.
+2. ***Protoboard***: Tablero que interiormente está conectado eléctricamente.
+3. ***Potenciometro***: Su función principal es dividir la tensión en una proporción.
+4. ***Interruptor***: Permite el paso de corriente.
+5. ***Capacitor Electrolítico***: Almacena y libera electricidad en un circuito.
+6. ***Parlante***: Convierte una señal de audio en ondas mecánicas de sonido.
+7. ***Luces LED***: Diodo que emite luz cuando está activado.
+8. ***Fotorresistor***: Utilizados para detectar luz y cambiar el funcionamiento de un circuito.
+9. ***Varistor***: Conducir una corriente eléctrica significativa cuando el voltaje sea excesivo.
+10. ***Cables***: _Cable fase_ cable conductor encargado de transportar la corriente eléctrica. _Cable Neutro_ permite que la corriente eléctrica circule por el cable fase. _Cable a tierra_ encargado de proteger la instalación, cable conductor.
+
+Links: 
+
+<https://www.fluke.com/es-cl/informacion/blog/electrica/que-es-la-resistencia#:~:text=La%20resistencia%20es%20una%20medida,entre%20voltaje%2C%20corriente%20y%20resistencia.>
+
+<https://www.youtube.com/watch?v=N6zTa0BFuac>
+
+<https://sdindustrial.com.mx/blog/potenciometro-que-es/#%C2%BFComo-funciona-un-potenciometro>
+
+<https://es.wikipedia.org/wiki/Condensador_electrol%C3%ADtico>
+
+<https://es.wikipedia.org/wiki/Altavoz#:~:text=Un%20altavoz%20(tambi%C3%A9n%20conocido%20como,cines%20y%20teatros%20y%20megafon%C3%ADa.>
+
+<https://es.wikipedia.org/wiki/Uni%C3%B3n_PN>
+
+<https://es.wikipedia.org/wiki/Led>
+
+<https://huergo.edu.ar/docs/hojadatos.pdf>
+
+<https://www.youtube.com/watch?v=QF4TKc-scwo>
+
+<https://www.youtube.com/watch?v=7WPmcdbiFRU>
+
+<https://grupo-jarama.com/blog/cable-neutro-fase-tierra-diferencias-caracteristicas#:~:text=%C2%BFQu%C3%A9%20es%20el%20cable%20neutro,M%C3%A1s%20vale%20prevenir%20que%20curar.>
+
+<https://grupo-jarama.com/blog/colores-cables-electricos>
+
+<https://floorcenter.cl/cual-cable-es-positivo-el-cafe-o-el-azul-en-instalaciones-electricas/>
+
+![Img 1](https://github.com/user-attachments/assets/86911a11-7ac3-4cb6-871a-372e110c5866)
+
+![Img 2](https://github.com/user-attachments/assets/3d693ef1-32a0-4cc5-a02a-8b522beab370)
+
+![Img 3](https://github.com/user-attachments/assets/5ecf358d-73fe-4136-86e2-8a9ff4c9f8b1)
+
+![Img 4](https://github.com/user-attachments/assets/311ae345-9e8b-43a7-9c14-563b93e7ea85)
+
+![Img 5](https://github.com/user-attachments/assets/3da72906-a0a5-492b-a9f4-a469ea58b77a)

@@ -8,19 +8,21 @@ esta parte fue caótica porque la sala asignada no tenía mesas, oops, pero lo l
 
 ## documentación en MarkDown
 
-txt y RST
+vimos cómo hacer documentación en MarkDown.
 
-wysiwyg - what you see is what you get
+en vez de usar archivos .txt o .doc, usaremos MarkDown.
 
-utf-8
+vimos que MarkDown
 
-HTML
+recomendamos revisar documentación de MarkDown a secas, que en inglés eso se traduce a "vanilla" MarkDown, ya que es el sabor de helado más vendido, y es el sabor por defecto si es que no se especifica.
 
-Aaron Swartz
+* guía de Markdown resumida <https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet>
 
-adam-p markdown
+* guía de Markdown específica a GitHub <https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax>
 
-LateX
+revisamos la diferencia entre el lenguaje HTML con etiquetas que necesitan abrir y cerrar, y lo comparamos a las reglas de tipeo de MarkDown, que privilegian el tomar apuntes en vivo, y promueven la traspilación a otros lenguajes.
+
+en contraposición, también recomendamos revisar LaTeX, que es un lenguaje antiguo que permite programar texto, que se usa mucho hasta el día de hoy en ámbitos científicos, para programar ecuaciones y sistemas de notación para matemáticas.
 
 ## protoboard
 
@@ -43,13 +45,9 @@ outputs
 sensores
 
 actuadores
-
-## notas clase
-
-subir cheatsheet de markdown
-
+s
 encargo: tratar de subir lo que puedan
-[DIS8644_ListaMateriales - Hoja 1.pdf](https://github.com/user-attachments/files/19248756/DIS8644_ListaMateriales.-.Hoja.1.pdf)
+[dis8644-lista-materiales](./archivos/dis8644-lista-materiales.pdf)
 
 ## encargo02 - aphex twin y aaron swartz
 
@@ -57,7 +55,7 @@ este encargo continúa nuestra tradición de ampliar la cultura electrónica com
 
 la primera parte es estudiar un disco de Aphex Twin, incluyendo contexto, instrumentos usados, entrevistas de la época, videos musicales, y sus impresiones y opiniones.
 
-la segunda parte es ver el documental Internet's Own Boy, sobre la vida de Aaron Swartz. les recomendamos partir por la info en wikipedia <https://en.wikipedia.org/wiki/The_Internet%27s_Own_Boy> y buscarlo en youtube, hay mucha gente que lo ha compartido, ya que tiene una licencia creative commons permisiva. les pedimos también escriban una breve reseña con sus opiniones sobre la vida de este activista y programador.
+la segunda parte es ver el documental Internet's Own Boy, sobre la vida de Aaron Swartz. les recomendamos partir por la info en wikipedia <https://en.wikipedia.org/wiki/The_Internet%27s_Own_Boy> y buscarlo en youtube, hay mucha gente que lo ha compartido, ya que tiene una licencia creative commons permisiva. les pedimos también escriban una breve reseña con sus opiniones sobre la vida de este activista y programador, que fue parte del desarrollo de herramientas que se usan hasta el día de hoy como RSS, MarkDown y Reddit.
 
 ### respuesta ejemplo del equipo docente
 
