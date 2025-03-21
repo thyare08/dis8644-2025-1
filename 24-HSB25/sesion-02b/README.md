@@ -22,7 +22,7 @@ Significa la lista de materiales o componentes, donde se organiza de la siguient
 
 | TIPO     | QTY | NOMBRE        | VALOR   |
 |:---------|:---:|------------:| ---------:| 
-| Resisten |  3  | 3           | 1K        |
+| Resistencia |  3  | 3           | 1K        |
 | Leds     |  4  | D1,D2,D3,D4 | Surtido   |
 | Sofía    |  1  | Bat         | 9V        |
 
