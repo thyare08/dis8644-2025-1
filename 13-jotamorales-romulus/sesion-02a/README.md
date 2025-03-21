@@ -26,4 +26,15 @@ Más videos: https://youtu.be/0gp1pTGiMhI  -  https://youtu.be/YtTkdyzFw5k
         
 
 
-encargo 5
+## encargo 5 
+-documentar experimentos en casa con protoboards, LED, batería y resistores.
+
+-incluir texto explicativo con tus propias palabras, diagramas, fotos de las conexiones, observaciones sobre brillo, sobre posibilidades.
+
+-investigar cuáles son los colores de los resistores que estás usando y a qué valor en Ohms corresponde. describir qué colores debes usar en un resistor para simbolizar 1 Ohm, 10 Ohm, 100 Ohm, 1k Ohm.
+
+
+
+
+
+
