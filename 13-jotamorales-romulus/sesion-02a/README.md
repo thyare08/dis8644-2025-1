@@ -2,11 +2,16 @@
 martes 18 marzo 2025
 
 ## apuntes
+- en github si tengo algun problema etiquetar a aaron con @ c(omo en discord)
 _  Wayback Machine (Archive.org):  Permite ver versiones antiguas de sitios web. Puedes encontrar de todo.
 _  se puede visualizar una protoboard en tinkercad
 - * Los resistores son componentes eléctricos que se utilizan para controlar el flujo de corriente y el voltaje en los circuitos *
 _ ley de ohmen?
 ![image](https://github.com/user-attachments/assets/8d0331b6-bffe-4c7e-bc44-42c81b1a7110)
+
+- circuito en serie
+![WhatsApp Image 2025-03-21 at 02 13 26](https://github.com/user-attachments/assets/3aed38bf-a17a-4de0-8029-2a79520af86e)
+
 
 
 
