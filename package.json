@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/disenoUDP/dis8644-2025-1#readme",
   "devDependencies": {
-    "prettier": "^3.5.3"
+    "markdownlint": "^0.37.4"
   }
 }
