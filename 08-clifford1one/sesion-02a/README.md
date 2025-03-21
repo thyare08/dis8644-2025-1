@@ -46,7 +46,8 @@ Comparten corriente, se dividen el voltaje (por lo tanto, si desconecto uno, tod
 
 Saqué este ejemplo de google imágenes para agarrar vuelo.
 
-![alt text](nivel3-diagrama.png)
+![alt text](nivel3-diagrama.jpg)
+
 <https://blog.uelectronics.com/electronica/como-prender-un-led-con-un-push-boton-utilizando-el-protoboard-de-400-pts/>
 
 ![alt text](nivel3-foto.jpg)
