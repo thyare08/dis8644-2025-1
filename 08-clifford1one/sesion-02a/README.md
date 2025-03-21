@@ -27,7 +27,7 @@ Conexión paralela y en serie
 
 # PARALELA
 
-![alt text](nivel2-foto.paralela.jpg)
+![alt text](nivel2-foto.paralelo.jpg)
 
 comparten voltaje, se dividen la corriente. (por lo tanto, mientras más leds, menos brilla c/u de ellos)
 
