@@ -32,7 +32,7 @@ Materiales a dispoisición:
 
 Esta es mi cajita de componentes, la quiero mucho <3
 
--foto de los materiales-
+![alt text](tme-02a-componentes.jpg)
 
 ### NIVEL 1
 
