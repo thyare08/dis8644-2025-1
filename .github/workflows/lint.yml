@@ -22,7 +22,7 @@ jobs:
           node-version: "14"
 
       # - name: install node.js dependencies
-      #   run: npm ci
+     run: npm ci
 
       # - name: run linters
       #   uses: wearerequired/lint-action@v2
