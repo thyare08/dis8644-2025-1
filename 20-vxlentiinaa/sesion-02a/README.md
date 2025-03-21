@@ -25,5 +25,14 @@
 
 ![Img 8](https://github.com/user-attachments/assets/7e760441-64d6-4adb-9fc0-8c9ab03e3ac4)
 
+# Ley de Ohm (Ω)
+
+La intensidad de la corriente en un circuito eléctrico es igual al voltaje suministrado por la pila dividido por la resistencia existente en el circuito.
+La ley de Ohm es la relación directa que existe entre las tres variables de la corriente eléctrica (voltaje, amperaje y resistencia), esta ley esta expresada en forma de ecuación (V=RI), donde V es la tensión eléctrica en voltios, I es la corriente de intensidad en amperios y R es la resistencia en ohm.
+
+![ley de ohm](https://github.com/user-attachments/assets/f5bc2977-5611-4621-bc19-ace74e8937fe)
+
+
+
 
 
