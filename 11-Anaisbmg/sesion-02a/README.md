@@ -1,5 +1,5 @@
 # sesion-02a
-# 18-Marzo
+# 18-marzo
 github: 
 - Branch: cambios aislados
 - todo en minúscula
