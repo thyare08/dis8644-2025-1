@@ -22,17 +22,17 @@ Es como el mero ejemplo de Vincent Van Gogh, a pesar de su manera de ser artista
 
 # ENCARGO 03
 
-**Condensadores cerámicos**: Utilizados en circuitos electrónicos desde la década de 1950, son conocidos por su pequeño tamaño y estabilidad. Se fabrican con materiales cerámicos como dieléctrico y se usan para filtrar o almacenar energía en circuitos.
+1. **Condensadores cerámicos**: Utilizados en circuitos electrónicos desde la década de 1950, son conocidos por su pequeño tamaño y estabilidad. Se fabrican con materiales cerámicos como dieléctrico y se usan para filtrar o almacenar energía en circuitos.
 
 2. **Resistencias eléctricas**: Inventadas a fines del siglo XIX, las resistencias se utilizan para controlar el flujo de corriente eléctrica. Están hechas de materiales que resisten el paso de corriente, como carbono o metal.
 
 3. **Interruptor**: Un dispositivo para abrir o cerrar un circuito eléctrico, utilizado desde el siglo XIX. Permite controlar el paso de corriente de forma manual.
 
-4. **LEDs**: Los LEDs azules, desarrollados en los años 90 por Shuji Nakamura, revolucionaron la tecnología de iluminación debido a su eficiencia energética.
+4. **LEDs**: Los LEDs fueron fabricados como componentes electrónicos para su uso práctico en 1962 y emitían luz infrarroja de baja intensidad. Y los leds azules, desarrollados en los años 90 por Shuji Nakamura, revolucionaron la tecnología de iluminación debido a su eficiencia energética.
 
 5. **Protoboard**: Fue inventada en 1964 por Harold J. Ossel, y se usa para construir circuitos temporales sin necesidad de soldar. Permite la rápida prototipación.
 
-6. **Cables**: El color de los cables, como negro o verde, tiene un código de colores estándar para identificar su propósito: el verde generalmente se usa para la conexión a tierra (ground) por su asociación con la seguridad.
+6. **Cables**: El color de los cables, como negro o verde, tiene un código de colores estándar para identificar su propósito: el verde generalmente se usa para la conexión a tierra (ground) por su asociación con la seguridad. 
 
 7. **Potenciómetro**: Inventado a principios del siglo XX, este dispositivo ajustable permite variar la resistencia en un circuito, lo que ayuda a controlar parámetros como el volumen o la intensidad de la luz.
 
