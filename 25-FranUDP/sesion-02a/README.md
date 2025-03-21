@@ -20,7 +20,7 @@
 > ### Circuitos
 > cerrado v/s abierto
 >> En un circuito cerrado hay flujo de corriente, mientras que en uno abierto, no.
->> <img align="left" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-02a/closedCircuitArduino.jpg" witdh=10>
+>> <img align="left" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-02a/closedCircuitArduino.jpg" witdh=1000>
 
 > Voltaje = diferencia de potencial entre 2 puntos -> 0V = negativo/tierra
 > I=V/R   Ley de ohm
