@@ -10,6 +10,21 @@ https://www.figma.com/board/2tv4jx75qGZa6Gua2UCVer/taller.maq.electr?node-id=0-1
 
 ![alt text](tme-02a-apunte.rlvnt.png)
 
+## Encargo Musical
+
+pueblo nuevo:
+DANCE - Música Inmobiliaria
+
+Elegí este disco principalmente por su título y portada. Estuve unos 10 minutos escuchando pedazos de otros álbumes de la weblabel, sin embargo, después de un par de semanas de escuchar música electrónica experimental, música que yo llamaría “muy electrónica”, buscaba escuchar algo que se asemejara más a los ritmos más funk y rap que me gustan más, -que te hagan mover más el cuerpo que el cerebro-.
+
+Cuando vi el título de este disco me hizo pensar que quizás se acercaría más a lo que yo buscaba.
+
+Mientras lo escuchaba estaba explorando con la protoboard, y las canciones no llamaron mi atención en particular, hasta que llegué a la 3ra canción del disco, “givi tumi”, la cual desde que empieza tiene un ritmo pegadizo y unos sonidos que me recuerdan a 31 minutos. Cerca de los 55 segundos de canción se introduce un nuevo instrumento que me encantó, que es como un piano, y que me recuerda como a la wii.
+
+El álbum en general me gustó, todas las canciones me parecen agradables, la única que añadiría a mi playlist sería el 3er track “givi tumi”.
+
+
+
 ## AVANCE EXPLORATORIO
 
 
