@@ -25,6 +25,30 @@ Hay que hacer un sync para poder darnos cuenta de que todos los recursos que act
 
 Si vamos a hacer un archivo en la web, debemos ponerle un nombre y una extensión.
 
+
+### Modulo de la tarde
+Vamos a complejizar lo que hicimos la semana pasada
+
+Gracias a una página llamada tinkercad se podrá visualizar un esquema
+
+La energia potencial es aquilla energia que se acomula y se libera como movimiento 
+volts es la diferencia de Volts
+Nuestra batería tiene una diferencia de 9v , no es que un polo tenga 0 y el otro 9, solo se le llama así
+La resistencia es lo que se opone a la electricidad que está pasando
+La corriente eléctrica fluye de positivo a negativo
+los electrones circulan a través del circuito eléctrico
+una manera más amable de llamar al voltaje es tensión
+calculadora de electro alimentación
+
+los leds se prenden con 10 ml amperes
+
+resistencias 1k= cafe negro negro cafe cafe
+
+foto 1 es un circuito paralelo
+foto 2 es un circuito paralelo distinto
+foto 3 es un circuito 
+
+
 Nos podemos crear una página web gratis en *usuario*.github.io 
 cualquier repositorio puede convertirse en una página web.
 
