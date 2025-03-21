@@ -56,3 +56,18 @@ K=1.000
 | R2 |  1 0  | 1 1 | 
 | R3 |  1 1  | 0 0 | 
 
+# Tabla Exp. Clase
+
+| LOQUITO POR TI LOCO LOCO     | D1 D2 | D3 D4|
+|:-----------------------------|:-----:|-----:| 
+| R1 |  0 1  | 1 1 | 
+| R2 |  1 0  | 1 1 | 
+| R3 |  1 1  | 1 0 |
+| R4 |  0 1  | 1 0 |
+| R5 |  1 1  | 0 1 |
+
+| Componente | Nombre | Valor | Cantidad | 
+|:-----------|:------:|------:|:--------:|  
+| Resistor |  R1,R2,R3,R5 | 220 Ω | 4 |
+| Resistor |  R4  | 1K Ω | 1 |
+| Led |  D1,D2,D3,D4  | Cualquiera | 4 |
