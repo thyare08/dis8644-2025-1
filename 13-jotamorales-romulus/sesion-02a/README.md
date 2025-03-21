@@ -2,9 +2,14 @@
 martes 18 marzo 2025
 
 ## apuntes
-_
-_
-_
+_  Wayback Machine (Archive.org):  Permite ver versiones antiguas de sitios web. Puedes encontrar de todo.
+_  se puede visualizar una protoboard en tinkercad
+- * Los resistores son componentes eléctricos que se utilizan para controlar el flujo de corriente y el voltaje en los circuitos *
+_ ley de ohmen?
+![image](https://github.com/user-attachments/assets/8d0331b6-bffe-4c7e-bc44-42c81b1a7110)
+
+
+
 
 ## encargo 4 pueblo nuevo
 Electro Lines de Baradit 
@@ -28,6 +33,13 @@ Más videos: https://youtu.be/0gp1pTGiMhI  -  https://youtu.be/YtTkdyzFw5k
 
 ## encargo 5 
 -documentar experimentos en casa con protoboards, LED, batería y resistores.
+
+1. protoboard - resistores , potenciometro
+
+
+
+el circuito con una bateria de 9v que alimenta el led. El potenciometro regula el brilo de este. Resistencia alta = led brilla menos, resistencia baja = brilla más. El led al ser pequeño, es de baja eficiencia, por lo cual brilla poquito; si utilizara un led más grande brillaria más.
+
 
 -incluir texto explicativo con tus propias palabras, diagramas, fotos de las conexiones, observaciones sobre brillo, sobre posibilidades.
 
