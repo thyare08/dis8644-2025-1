@@ -26,7 +26,7 @@ Hay que hacer un sync para poder darnos cuenta de que todos los recursos que act
 Si vamos a hacer un archivo en la web, debemos ponerle un nombre y una extensión.
 
 
-### Modulo de la tarde
+### Modulo despues del break
 Vamos a complejizar lo que hicimos la semana pasada
 
 Gracias a una página llamada tinkercad se podrá visualizar un esquema
