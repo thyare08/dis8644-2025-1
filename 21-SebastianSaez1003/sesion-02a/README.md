@@ -62,7 +62,32 @@ foto 2 es un circuito distinto, el cual no estoy seguro del nombre
 
 foto 3 es un circuito en serie
 
-# encargo
+# encargo-04 cultura electrónica chilena y latinoamericana
+
+
+
+# encargo-05: estudio de resistores y circuitos en serie y paralelo
+Para las siguientes resistencias, se ocupan los siguientes códigos de color:  
+-1K marrón negro rojo gold para 4 bandas / marrón negro negro marrón marrón para 5 bandas  
+-10k marrón negro naranja gold para 4 bandas / marrón negro negro rojo marrón para 5 bandas  
+-100K marrón negro amarillo gold para 4 bandas / marrón negro negro naranja marrón para 5 bandas  
+
+
+
+
+
+![20250320_234310](https://github.com/user-attachments/assets/25df930f-d2eb-4b48-8477-aba73e51e542)
+
+![20250320_230123](https://github.com/user-attachments/assets/e0e4f77e-d6fd-4445-8fce-e923bff2994f)
+
+Como primer experimento, probé crear un circuito en serie con la misma cantidad de LEDs, pero con una resistencia de 470k vs una de 200k, para poder ver claramente la diferencia de la intensidad de los LEDs solo gracias a la diferencia de resistencia.
+
+
+![20250320_232100](https://github.com/user-attachments/assets/556f9907-e305-47ac-b583-c855ada3df14)
+
+![20250320_232201](https://github.com/user-attachments/assets/be9fd962-3f89-4702-8697-1334a6aca772)
+
+Luego, con esa resistencia de 200k, empecé a probar cuál sería la mejor combinación de LEDs que podría completar mi circuito, en el que aún se prendieron los LEDs, llegando al siguiente resultado, al observar la distinta energía que cada LED consume.
 
 
 
