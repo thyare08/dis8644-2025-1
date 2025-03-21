@@ -40,6 +40,8 @@ Más videos: https://youtu.be/0gp1pTGiMhI  -  https://youtu.be/YtTkdyzFw5k
 ## encargo 5 
 -documentar experimentos en casa con protoboards, LED, batería y resistores.
 
+## reforzar conocimiento conexiones (me cuesta entender materia) 
+
 1. protoboard - resistores , potenciometro
 
 ![image](https://github.com/user-attachments/assets/dc4ff12a-086e-44fc-a14b-741e1c90e322)
