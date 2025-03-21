@@ -62,6 +62,7 @@ foto 2 es un circuito distinto, el cual no estoy seguro del nombre
 
 foto 3 es un circuito en serie
 
+# encargo
 
 
 
