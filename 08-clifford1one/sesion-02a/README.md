@@ -1,6 +1,10 @@
 # sesion-02a
 
-*apuntes pendientes* (solo falta subir los pantallazos)
+## Apuntes
+
+https://www.figma.com/board/2tv4jx75qGZa6Gua2UCVer/taller.maq.electr?node-id=0-1&t=6yhYUOzb6bTK2Cu1-1
+
+
 
 
 ## AVANCE EXPLORATORIO
