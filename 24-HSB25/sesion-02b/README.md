@@ -43,5 +43,6 @@ Gris 8
 Negro 0
 Café 0
 Café 0 
-
+6,800= 6,8K
+K=1.000
 
