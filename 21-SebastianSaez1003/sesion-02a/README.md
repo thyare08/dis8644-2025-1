@@ -41,17 +41,28 @@ una manera más amable de llamar al voltaje es tensión
 calculadora de electro alimentación
 
 los leds se prenden con 10 ml amperes
-
-resistencias 1k= cafe negro negro cafe cafe
-
-foto 1 es un circuito paralelo
-foto 2 es un circuito paralelo distinto
-foto 3 es un circuito 
-
-
 Nos podemos crear una página web gratis en *usuario*.github.io 
 cualquier repositorio puede convertirse en una página web.
 
 Hay que subir los encargos y tareas dentro de la carpeta de la misma clase a la que fue asignada la tarea.
 
 Html es el estándar de la web
+resistencias 1k= cafe negro negro cafe cafe
+
+
+![20250318_121154](https://github.com/user-attachments/assets/5c10563c-52dd-47f4-8ec2-a50f01664154)
+
+foto 1 es un circuito paralelo
+
+![20250318_120718](https://github.com/user-attachments/assets/556911dd-743e-4035-a4c0-3451d5cc9774)
+
+foto 2 es un circuito distinto, el cual no estoy seguro del nombre
+
+![20250318_123227](https://github.com/user-attachments/assets/880c1777-9811-4c47-a706-9e562fc51f93)
+
+foto 3 es un circuito en serie
+
+
+
+
+
