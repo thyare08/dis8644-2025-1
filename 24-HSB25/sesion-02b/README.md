@@ -39,13 +39,12 @@ Pero nosotros con mi compañero Martin probamos con una resitencia de 47K, para 
 
 # Ver Resistencias (6.8k)
 
-Azul 6
-Gris 8
-Negro 0
-Café 0
-Café 0 
+`Azul` 6
+`Gris` 8
+`Negro` 0
+`Café` 0
+`Café`  0 
 6,800= 6,8K
 K=1.000
 
-`texto` 
 
