@@ -15,7 +15,7 @@
 <h2> Registro visual </h2>
        <p>Fotografías de apuntes y resultados obtenidos.</p>
         <br>
-        <img src="./image/001.jpg" style="width:600px;height:800px;">
+        <img src="./image/01.jpg" style="width:600px;height:800px;">
         <br>
     </body>
 </html>
