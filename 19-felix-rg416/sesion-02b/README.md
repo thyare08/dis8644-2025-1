@@ -12,10 +12,14 @@ https://www.youtube.com/watch?v=K0HSD_i2DvA
 - tutupá - https://vimeo.com/matiasserranoacevedo
 - solenoide
 - poesía - poíēsis - creación o hacer
-- david tudor
+- david tudor - reminded by the instruments - rainforest moma
 
 
 BOM - Bill Of Materials
 
-# circuitos
+# circuitos y actividades
+
+## serie y paralelo
+
+## loquitoportilocoloco
 
