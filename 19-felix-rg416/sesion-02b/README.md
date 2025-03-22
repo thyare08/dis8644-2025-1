@@ -1,19 +1,21 @@
 # sesion-02b
 
-**[Daft Punk - Around The World](https://www.youtube.com/watch?v=K0HSD_i2DvA)**
-
 - hi hat 808
+
 ![image](https://github.com/user-attachments/assets/7d4b5637-1132-46ca-abfd-5d94c94f3726)
 
 - TB303
+
 ![image](https://github.com/user-attachments/assets/4d1e23f8-abc4-4bd8-8244-f54d162ee2a2)
 
+- **[Daft Punk - Around The World](https://www.youtube.com/watch?v=K0HSD_i2DvA)**
 - **[tutupá](https://vimeo.com/matiasserranoacevedo)**
 - solenoide
 - poesía - poíēsis - creación o hacer
 - david tudor - reminded by the instruments - rainforest moma
 - john widlar
-
+- **[node.js](https://nodejs.org/en)**
+- **[plantillas para tablas markdown](https://www.tablesgenerator.com/markdown_tables)**
 
 ## BOM - Bill Of Materials
 | tipo        | Qty      | nombre/etiqueta | valor |
@@ -30,7 +32,7 @@
 
 > consiste en ir sacando resistencias y ver qué pasa con las leds. se apaga o se mantiene prendida? aumenta o baja la luz?
 
-### serie y paralelo
+### 00
 ![actividad 01](https://github.com/user-attachments/assets/532a6372-a573-4771-a146-bfd2b522acfc)
 | tipo         | Qty | nombre/etiqueta | valor     |
 |--------------|-----|-----------------|-----------|
