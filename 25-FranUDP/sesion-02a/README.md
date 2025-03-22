@@ -12,7 +12,7 @@
 >
 > CNAME (Cannonical NAME record). Maps one domain name to another eg: originalName.github.io -> clicheSurame.com (dominio nuevo se tiene que comprar)
 >
-> [profile readme generator](https://youtu.be/onUx22pgiBM?si=5ASsmWzo5xztjWpg)
+> [Profile readme generator](https://youtu.be/onUx22pgiBM?si=5ASsmWzo5xztjWpg)
 >
 > ### [Tinkercad](https://www.tinkercad.com)
 > simulación circuitos electricos
