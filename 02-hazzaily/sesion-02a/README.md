@@ -4,7 +4,7 @@
 
 **¿Cómo calcular la resistencia que necesitamos para un circuito?**
 
- - Parte 1: Comprender para qué se necesitan las resistencias.
+ - Parte 1: Comprender para qué se necesitan los resistores.
 
 Para comprender esto debemos responder las siguientes preguntas y entender la información a continuación:
 
@@ -34,7 +34,7 @@ Con esta ley es que podemos calcular, aproximadamente, qué resistencia necesita
 
 Para esto también podemos recurrir a un recurso web que es una calculadora creada especialmente para esto, el enlace está a continuación:
 
-![Calculadora de resistencia]<https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-led-series-resistor>
+Calculadora de Ohms en circuito: <https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-led-series-resistor>
 
 - Parte 3: Código de color en las resistencias.
 
@@ -46,7 +46,7 @@ Foto de tabla de códigos de color.
 
 También es posible hacerlo a través de una página web.
 
-![Identificador de código de color de resistencia]<https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-resistor-color-code>
+Identificador de código de color de resistencia: <https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-resistor-color-code>
 
 **Ejercicio en clase**
 
@@ -74,4 +74,16 @@ Cuando se realiza un circuito en serie, al sacar una luz LED se apaga la otra, e
 
 **Encargo 04:** Escuchar 1 álbum del sello chileno **Pueblo Nuevo**
 
+Álbum: Historial de caídas.
+Artista: El Sueño de la Casa Propia.
+
+**Encargo 05:** Experimentar en casa con protoboard, LEDs, batrías y resistores.
+
+ - Experimento 01: Intenté no usar resistores a la hora de generar un circuito en la protoboard, esto hizo que el LED brillara tan fuerte que era incómodo de ver, de hecho, en las fotos que tomé de este experimento tuve que maniobrar para que se entendiera lo que estaba pasando. El LED era azul, así que se veía extremandamente azul.
+
+Foto de comparación entre circuito con resistencia y sin resistencia.
+
+![Experimento_01](https://github.com/user-attachments/assets/a254bff3-4755-4b48-bd6b-c6271f031a6a)
+
+ - Experimento 02: 
 
