@@ -59,6 +59,8 @@ https://www.youtube.com/watch?v=K0HSD_i2DvA
 | LED roja     | 4   | D1 D2 D3 D4       | 1.8 - 2.1 |
 | batería      | 1   | bat               | 9v        |
 
+![LQXTLC 02](https://github.com/user-attachments/assets/a14bbbe9-b156-4911-b060-7d3aaf1913a5)
+
 | LQXTLC | D1 | D2 | D3 | D4 |
 |--------|----|----|----|----|
 | R1     |1   |1   |1   |1   |
@@ -75,6 +77,8 @@ https://www.youtube.com/watch?v=K0HSD_i2DvA
 | LED roja     | 3   | D1 D2 D3                | 1.8 - 2.1    |
 | batería      | 1   | bat                     | 9v           |
 
+![LQXTLC 03](https://github.com/user-attachments/assets/097d8501-8685-42a6-ab02-fc31f5725958)
+
 | LQXTLC | D1 | D2 | D3 | 
 |--------|----|----|----|
 | R1     | 1  | 0  |1   |
@@ -85,3 +89,5 @@ https://www.youtube.com/watch?v=K0HSD_i2DvA
 | R6     |1   |1   |1   |
 | R7     |1   |1   |1   |
 | R8     |1   |1   |0   |
+
+> siento que al sacar R3 se deberían quedar prendidas todas las leds, pero en la protoboard quedó separado, por lo tanto se apagó igualmente. Aunque si estuviera hecho sin protoboard igual se apagarían, lo mismo con R1, R2, R3 y R4. no lo sé, _preguntar en clases_
