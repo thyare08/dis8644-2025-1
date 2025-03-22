@@ -110,3 +110,48 @@ ___
 >><br/>
 >
 >### Experimentos
+>> 1. LED (Ø3.5mm) + LED Ø11mm + potenciómetro
+>> 
+>> <img align="left" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-02a/exp1.jpg" width=450> <img src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-02a/exp1D.jpg" width=300>
+>>
+>> Tras medir ambas LEDs con un multimetro y ver que ambas se encendian con el mismo voltaje, con Martin las conectamos en serie para ver la differencia de brillo entre ambas.
+>> El LED más grande tiene un voltaje máximo más alto que el led más pequeño (3.3V v/s 2V) y se ilumina más.
+>><br/>
+>><br/>
+>><br/>
+>><br/>
+>><br/>
+>><br/>
+>><br/>
+>><br/>
+>><br/>
+>><br/>
+>><br/>
+>>
+>> 2. LED (x2) + resistencia (x3) + potenciómetro
+>>
+>> <img align="left" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-02a/exp2.jpg" width=450> <img src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-02a/exp2D.jpg" width=300>
+>>
+>> Conecté 2 LEDs a los extremos de un potenciómetro para ver si lograba que una se apagara al aumentar la reistencia.
+>> No logré que se apagara alguna de las LEDs.
+>><br/>
+>><br/>
+>><br/>
+>>
+>> 3. LED white + LED red + resistencia + potenciómetro
+>> 
+>> <img align="left" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-02a/exp3.jpg" width=450> <img src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-02a/exp3D_1.jpg" width=300>
+>>
+>> Tras ver que el LED blanco se apagaba al conectarlo junto con uno rojo, armé in circuito para ver que pasa si un LED recive el flujo de electrones antes que el otro.
+>> Cambia la intensidad del LED rojo en &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; una curva + - +, pero el LED blanco se mantiene apagado.
+>>
+>> 4. LED white + LED red + resistencia + potenciómetro
+>>
+>> <img align="left" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-02a/exp4.jpg" width=450> <img src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-02a/exp4D.jpg" width=300>
+>>
+>> Decidí conectar los LEDs independiente uno del otro y ver que pasaba.
+>> Al aumentar el voltaje del LED rojo (y disminuir la del blanco), el LED blanco se apaga, sin embargo el LED rojo no se apaga al reducir su voltaje.
+>><br/>
+>><br/>
+>><br/>
+>><br/>
