@@ -37,8 +37,12 @@
 >
 > #### Tipos de circuito
 > * [Paralelo](https://youtu.be/5uyJezQNSHw?si=AVs_V-hrtPFCKdkU) -> se divide la corriente pero se mantiene el voltaje
+>> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="middle" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-02a/circuitoParaleloClass.jpg" width=400>
+>><br/>
 >
 > * [Serie](https://youtu.be/VV6tZ3Aqfuc?si=LqOyVR3KekmErDvc) -> Se divide/multiplica el voltaje
+>> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="middle" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-02a/circuitoSerieClass.jpg" width=400>
+>>
 ___
 ## Encargo 04
 ### Pueblo nuevo
