@@ -49,4 +49,60 @@ ___
 
 ___
 ## Encargo 05
-### Experimentos
+> ### Resistencias
+> <img align="left" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-02a/FotoLibroArduinoResist.jpg" width=600> De acurdo a la tabla vista en la foto, las siguientes resistencias tendrian los siguientes colores (4 y 5 bandas, sin banda de tolerancia):
+> 
+> 1 Ohm ![#4e4e4e](https://placehold.co/15x15/4e4e4e/4e4e4e.png) ![#9d3a1f](https://placehold.co/15x15/9d3a1f/9d3a1f.png) ![#4e4e4e](https://placehold.co/15x15/4e4e4e/4e4e4e.png)
+>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![#4e4e4e](https://placehold.co/15x15/4e4e4e/4e4e4e.png) ![#4e4e4e](https://placehold.co/15x15/4e4e4e/4e4e4e.png) ![#9d3a1f](https://placehold.co/15x15/9d3a1f/9d3a1f.png) ![#4e4e4e](https://placehold.co/15x15/4e4e4e/4e4e4e.png)
+>
+> <br/>
+
+>  10 Ohm ![#9d3a1f](https://placehold.co/15x15/9d3a1f/9d3a1f.png) ![#4e4e4e](https://placehold.co/15x15/4e4e4e/4e4e4e.png) ![#4e4e4e](https://placehold.co/15x15/4e4e4e/4e4e4e.png)
+> 
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![#4e4e4e](https://placehold.co/15x15/4e4e4e/4e4e4e.png) ![#9d3a1f](https://placehold.co/15x15/9d3a1f/9d3a1f.png) ![#4e4e4e](https://placehold.co/15x15/4e4e4e/4e4e4e.png) ![#4e4e4e](https://placehold.co/15x15/4e4e4e/4e4e4e.png)
+>
+> <br/>
+
+> 100 Ohm ![#4e4e4e](https://placehold.co/15x15/4e4e4e/4e4e4e.png) ![#9d3a1f](https://placehold.co/15x15/9d3a1f/9d3a1f.png) ![#4e4e4e](https://placehold.co/15x15/4e4e4e/4e4e4e.png)
+> 
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![#4e4e4e](https://placehold.co/15x15/4e4e4e/4e4e4e.png) ![#4e4e4e](https://placehold.co/15x15/4e4e4e/4e4e4e.png) ![#9d3a1f](https://placehold.co/15x15/9d3a1f/9d3a1f.png) ![#4e4e4e](https://placehold.co/15x15/4e4e4e/4e4e4e.png)
+>
+> <br/>
+
+> 1k Ohm ![#4e4e4e](https://placehold.co/15x15/4e4e4e/4e4e4e.png) ![#9d3a1f](https://placehold.co/15x15/9d3a1f/9d3a1f.png) ![#4e4e4e](https://placehold.co/15x15/4e4e4e/4e4e4e.png)
+> 
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![#4e4e4e](https://placehold.co/15x15/4e4e4e/4e4e4e.png) ![#4e4e4e](https://placehold.co/15x15/4e4e4e/4e4e4e.png) ![#9d3a1f](https://placehold.co/15x15/9d3a1f/9d3a1f.png) ![#4e4e4e](https://placehold.co/15x15/4e4e4e/4e4e4e.png)
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+><br/>
+>
+>### Experimentos
