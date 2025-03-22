@@ -27,7 +27,8 @@
 > Voltaje = diferencia de potencial entre 2 puntos -> 0V = negativo/tierra
 ><br/>
 ><br/>
-> I=V/R [Ley de Ohm](https://youtu.be/HsLLq6Rm5tU?si=bHJU8ItBuc0yNuFI)
+>
+> I=V/R &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Ley de Ohm](https://www.youtube.com/watch?v=HsLLq6Rm5tU)
 ><br/>
 ><br/>
 >Circuito = laso cerrado con elementos resistivos
