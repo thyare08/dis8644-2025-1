@@ -50,59 +50,63 @@ ___
 ___
 ## Encargo 05
 > ### Resistencias
-> <img align="left" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-02a/FotoLibroArduinoResist.jpg" width=600> De acurdo a la tabla vista en la foto, las siguientes resistencias tendrian los siguientes colores (4 y 5 bandas, sin banda de tolerancia):
-> 
-> 1 Ohm ![#4e4e4e](https://placehold.co/15x15/4e4e4e/4e4e4e.png) ![#9d3a1f](https://placehold.co/15x15/9d3a1f/9d3a1f.png) ![#4e4e4e](https://placehold.co/15x15/4e4e4e/4e4e4e.png)
+>> <img align="left" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-02a/FotoLibroArduinoResist.jpg" width=600> De acurdo a la tabla vista en la foto, las siguientes resistencias tendrian los siguientes colores (4 y 5 bandas, sin banda de tolerancia):
+>> 
+>> 1 Ohm ![#4e4e4e](https://placehold.co/15x15/4e4e4e/4e4e4e.png) ![#9d3a1f](https://placehold.co/15x15/9d3a1f/9d3a1f.png) ![#4e4e4e](https://placehold.co/15x15/4e4e4e/4e4e4e.png)
+>>
+>> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![#4e4e4e](https://placehold.co/15x15/4e4e4e/4e4e4e.png) ![#4e4e4e](https://placehold.co/15x15/4e4e4e/4e4e4e.png) ![#9d3a1f](https://placehold.co/15x15/9d3a1f/9d3a1f.png) ![#4e4e4e](https://placehold.co/15x15/4e4e4e/4e4e4e.png)
+>>
+>> <br/>
+>>
+>>  10 Ohm ![#9d3a1f](https://placehold.co/15x15/9d3a1f/9d3a1f.png) ![#4e4e4e](https://placehold.co/15x15/4e4e4e/4e4e4e.png) ![#4e4e4e](https://placehold.co/15x15/4e4e4e/4e4e4e.png)
+>> 
+>> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![#4e4e4e](https://placehold.co/15x15/4e4e4e/4e4e4e.png) ![#9d3a1f](https://placehold.co/15x15/9d3a1f/9d3a1f.png) ![#4e4e4e](https://placehold.co/15x15/4e4e4e/4e4e4e.png) ![#4e4e4e](https://placehold.co/15x15/4e4e4e/4e4e4e.png)
+>>
+>> <br/>
+>>
+>> 100 Ohm ![#9d3a1f](https://placehold.co/15x15/9d3a1f/9d3a1f.png) ![#4e4e4e](https://placehold.co/15x15/4e4e4e/4e4e4e.png) ![#9d3a1f](https://placehold.co/15x15/9d3a1f/9d3a1f.png)
+>> 
+>> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![#4e4e4e](https://placehold.co/15x15/4e4e4e/4e4e4e.png) ![#9d3a1f](https://placehold.co/15x15/9d3a1f/9d3a1f.png) ![#4e4e4e](https://placehold.co/15x15/4e4e4e/4e4e4e.png) ![#9d3a1f](https://placehold.co/15x15/9d3a1f/9d3a1f.png)
+>>
+>> <br/>
+>>
+>> 1k Ohm ![#9d3a1f](https://placehold.co/15x15/9d3a1f/9d3a1f.png) ![#4e4e4e](https://placehold.co/15x15/4e4e4e/4e4e4e.png) ![#ff0000](https://placehold.co/15x15/ff0000/ff0000.png)
+>> 
+>> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![#9d3a1f](https://placehold.co/15x15/9d3a1f/9d3a1f.png) ![#4e4e4e](https://placehold.co/15x15/4e4e4e/4e4e4e.png) ![#4e4e4e](https://placehold.co/15x15/4e4e4e/4e4e4e.png) ![#9d3a1f](https://placehold.co/15x15/9d3a1f/9d3a1f.png)
+>><br/>
+>><br/>
+>><br/>
+>><br/>
+>><br/>
+>><br/>
+>><br/>
+>><br/>
+>><br/>
+>><br/>
+>><br/>
+>><br/>
 >
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![#4e4e4e](https://placehold.co/15x15/4e4e4e/4e4e4e.png) ![#4e4e4e](https://placehold.co/15x15/4e4e4e/4e4e4e.png) ![#9d3a1f](https://placehold.co/15x15/9d3a1f/9d3a1f.png) ![#4e4e4e](https://placehold.co/15x15/4e4e4e/4e4e4e.png)
->
-> <br/>
->
->  10 Ohm ![#9d3a1f](https://placehold.co/15x15/9d3a1f/9d3a1f.png) ![#4e4e4e](https://placehold.co/15x15/4e4e4e/4e4e4e.png) ![#4e4e4e](https://placehold.co/15x15/4e4e4e/4e4e4e.png)
-> 
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![#4e4e4e](https://placehold.co/15x15/4e4e4e/4e4e4e.png) ![#9d3a1f](https://placehold.co/15x15/9d3a1f/9d3a1f.png) ![#4e4e4e](https://placehold.co/15x15/4e4e4e/4e4e4e.png) ![#4e4e4e](https://placehold.co/15x15/4e4e4e/4e4e4e.png)
->
-> <br/>
->
-> 100 Ohm ![#9d3a1f](https://placehold.co/15x15/9d3a1f/9d3a1f.png) ![#4e4e4e](https://placehold.co/15x15/4e4e4e/4e4e4e.png) ![#9d3a1f](https://placehold.co/15x15/9d3a1f/9d3a1f.png)
-> 
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![#4e4e4e](https://placehold.co/15x15/4e4e4e/4e4e4e.png) ![#9d3a1f](https://placehold.co/15x15/9d3a1f/9d3a1f.png) ![#4e4e4e](https://placehold.co/15x15/4e4e4e/4e4e4e.png) ![#9d3a1f](https://placehold.co/15x15/9d3a1f/9d3a1f.png)
->
-> <br/>
->
-> 1k Ohm ![#9d3a1f](https://placehold.co/15x15/9d3a1f/9d3a1f.png) ![#4e4e4e](https://placehold.co/15x15/4e4e4e/4e4e4e.png) ![#ff0000](https://placehold.co/15x15/ff0000/ff0000.png)
-> 
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![#9d3a1f](https://placehold.co/15x15/9d3a1f/9d3a1f.png) ![#4e4e4e](https://placehold.co/15x15/4e4e4e/4e4e4e.png) ![#4e4e4e](https://placehold.co/15x15/4e4e4e/4e4e4e.png) ![#9d3a1f](https://placehold.co/15x15/9d3a1f/9d3a1f.png)
-><br/>
-><br/>
-><br/>
-><br/>
-><br/>
-><br/>
-><br/>
-><br/>
-><br/>
-><br/>
-><br/>
-><br/>
-><br/>
-><br/>
-><br/>
-><br/>
-><br/>
-><br/>
-><br/>
-><br/>
-><br/>
-><br/>
-><br/>
-><br/>
-><br/>
-><br/>
-><br/>
-><br/>
-><br/>
-><br/>
-><br/>
+> ### LEDs
+>> El rango de voltaje en que operan difiere entre LEDs de distintos colores.
+>> Para determinar el rango de voltaje de un LED se puede usar una [calculadora de voltaje](https://somanytech.com/led-voltage-calculator-for-different-color/) o testear el LED con un multimetro (in diode mode)
+>> 
+>> <img align="left" src="https://somanytech.com/wp-content/uploads/2023/04/optim-online-led-voltage-calculator-smd.jpg" width=600> Tras medir los LEDs que nos dieron los profes (Ø3.5mm), estos son los voltajes optimos de operación:
+>>
+>> | Color | Voltaje |
+>> |-------|---------|
+>> | $${\color{white}Blanco}$$ | 2.6 |
+>> | $${\color{blue}Azul}$$ | 2.5 |
+>> | $${\color{yellow}Amarillo}$$ | 1.9 |
+>> | $${\color{green}Verde}$$ | 1.9 |
+>> | $${\color{red}Rojo}$$ | 1.8 |
+>><br/>
+>><br/>
+>><br/>
+>><br/>
+>><br/>
+>><br/>
+>><br/>
+>><br/>
+>><br/>
 >
 >### Experimentos
