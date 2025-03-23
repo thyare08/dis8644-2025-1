@@ -17,7 +17,7 @@ Con este experimento logramos ver que la intensidad de los LED es igual en todos
 
 Foto del circuito.
 
-
+![Foto_circuito_00](https://github.com/user-attachments/assets/80c60408-5042-47b5-9b59-241ed2271a75)
 
  - **Bill of material:** Es un documento que se utiliza para detallar todos los materiales o componentes necesarios para fabricar un producto. Tambióen se le cono ce como BOM.
 
@@ -45,6 +45,8 @@ Foto del circuito esquemático 01.
 
 Foto del circuito 01. 
 
+![Foto_circuito_01](https://github.com/user-attachments/assets/07a84285-ef8b-4fe2-81a5-282b453932cb)
+
 Foto de tabla BOM circuito 01.
 
 ![Tabla_BOM_01](https://github.com/user-attachments/assets/9f4bda77-e306-497d-9e6f-0cd779566011)
@@ -61,6 +63,7 @@ Foto del circuito esquemático 02.
 
 Foto del circuito 02.
 
+![Foto_circuito_02](https://github.com/user-attachments/assets/8ce03339-5da8-4c22-ab19-15528814f5e1)
 
 Foto de tabla BOM circuito 02.
 
@@ -77,6 +80,7 @@ Foto del circuito esquemático 03.
 
 Foto del circuito 03.
 
+![Foto_circuito_03](https://github.com/user-attachments/assets/97ae3cd5-e41c-4f05-9762-fc710a3004bb)
 
 Foto de tabla BOM circuito 03.
 
