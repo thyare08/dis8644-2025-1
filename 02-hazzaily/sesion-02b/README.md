@@ -17,6 +17,8 @@ Con este experimento logramos ver que la intensidad de los LED es igual en todos
 
 Foto del circuito.
 
+
+
  - **Bill of material:** Es un documento que se utiliza para detallar todos los materiales o componentes necesarios para fabricar un producto. Tambióen se le cono ce como BOM.
 
 Foto de tabla BOM para creación de circuito en clase.
