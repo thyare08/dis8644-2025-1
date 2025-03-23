@@ -25,33 +25,60 @@ A través de esto podemos desarrollar la capacidad de ordenar y saber qué neces
 
 Foto de tabla de la verdad circuito desarrollado en clase.
 
+![Tabla_verdad](https://github.com/user-attachments/assets/9559b69c-3914-4a8d-97b5-736cb3b172fc)
 
+En esta tabla O = apagado y I = encendido, de esta forma podemos observar qué LEDs se apagan al retirar ciertos resistores.
 
 **Parte 2:** Con los conocimientos ya aplicados y desarrollados, generar el circuito, BOM, y la tabla de verdad con los siguientes circuitos de forma autónoma.
 
 **Circuito a realizar de forma autónoma (1):**
 
-Foto del circuito 01.
+Foto del circuito esquemático 01.
+
+<img width="695" alt="schLearn1" src="https://github.com/user-attachments/assets/acf954b0-d899-4a63-9b24-9abe610d47d4" />
+
+Foto del circuito 01. 
 
 Foto de tabla BOM circuito 01.
 
+![Tabla_BOM_01](https://github.com/user-attachments/assets/9f4bda77-e306-497d-9e6f-0cd779566011)
+
 Foto de tabla de verdad circuito 01.
+
+![Tabla_verdad_01](https://github.com/user-attachments/assets/ced9458e-cb88-41f4-8cc6-58c4a3202db5)
 
 **Circuito a realizar de forma autónoma (2):**
 
 <img width="848" alt="schLearn3" src="https://github.com/user-attachments/assets/94587e07-3b7b-4eba-8be2-9c5b5e266634" />
 
+Foto del circuito esquemático 02.
+
+<img width="901" alt="schLearn2" src="https://github.com/user-attachments/assets/c0e27d7b-b4e1-4a40-979d-3f9d89c3a351" />
+
 Foto del circuito 02.
+
 
 Foto de tabla BOM circuito 02.
 
+![Tabla_BOM_02](https://github.com/user-attachments/assets/92b65da4-9d45-40a8-aea9-b070fb99efd0)
+
 Foto de tabla de verdad circuito 02.
+
 
 **Circuito a realizar de forma autónoma (3):**
 
+Foto del circuito esquemático 03.
+
+<img width="848" alt="schLearn3" src="https://github.com/user-attachments/assets/28692c8c-4ccb-4bd5-8665-011f5affc4d5" />
+
 Foto del circuito 03.
+
 
 Foto de tabla BOM circuito 03.
 
+![Tabla_BOM_03](https://github.com/user-attachments/assets/c542a137-cc69-4a43-9f75-efb860dacfeb)
+
 Foto de tabla de verdad circuito 03.
+
+![Tabla_verdad_03](https://github.com/user-attachments/assets/146b9dee-e10b-4367-8053-b9ec671b0d00)
 
