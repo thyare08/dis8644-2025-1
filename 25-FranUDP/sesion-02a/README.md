@@ -46,7 +46,12 @@
 ___
 ## Encargo 04
 ### Pueblo nuevo
-
+>
+> Escuché el disco Tecnoasuar de CASTEX y S3T3 (lo elegí pq el autocorrector de mi cerebro acostumbrado al inglés le cambió el titulo a *Tecnosaur*). Lo primero que llamó mi atención fue que la canción "Música con computadores" no sonaba como un dinosaurio robótico, sino como una clase de música grabada con un microfono antiguo. Tras escuchar el resto del álbum estaba seguro que tenía relación con algo pedagógico, lo cual se me hiso bien extraño, por que nunca habia escuchado de un disco cuyas canciones fuesen hechas como ejemplos prácticos para enseñar.
+>
+>Tras leer la descripción del álbum me di cuenta que el disco que escuché no era un conjunto de ejemplos prácticos (o quizas si, no se suficiente de musica para decirlo), sino que es un homenaje a un disco que sí tenia como objetivo enseñar música y a su creador José Vicente Asuar, un pionero de la música electroacústica en chile, creador del primer laboratorio de música electrónica en latinoamérica y del sintetizador COMDASUAR.
+>
+>Fuera del contexto del álbum, encontré curioso que en el disco, el componente vocal no tiene emoción ni un ritmo musical, a diferencia de otras obras de música electrónica ej: *"Around the world"* de Daft Punk, es como si un computador hubiese "cantado" la parte vocal. 
 ___
 ## Encargo 05
 > ### Resistencias
