@@ -2,16 +2,20 @@
 
 21 de Marzo de 2025.
 
-**Parte 1:** A partir de un circuito inicial podemos desarrollar y conocer los conceptos de:
+ - **Parte 1:** A partir de un circuito inicial podemos desarrollar y conocer los conceptos de:
 
  - Bill of Materials (BOM).
  - Tabla de la verdad.
 
 **Circuto a realizar en clase:**
 
+Foto circuito esquemático.
+
 ![Circuito_clase](https://github.com/user-attachments/assets/e8c99d6a-3ab6-4ec1-8705-de8781dcb179)
 
 Con este experimento logramos ver que la intensidad de los LED es igual en todos los ellos, y en caso de poner una resistencia menor, el LED en que se modifique brillará menos que el resto.
+
+Foto del circuito.
 
  - **Bill of material:** Es un documento que se utiliza para detallar todos los materiales o componentes necesarios para fabricar un producto. Tambióen se le cono ce como BOM.
 
@@ -29,9 +33,9 @@ Foto de tabla de la verdad circuito desarrollado en clase.
 
 En esta tabla O = apagado y I = encendido, de esta forma podemos observar qué LEDs se apagan al retirar ciertos resistores.
 
-**Parte 2:** Con los conocimientos ya aplicados y desarrollados, generar el circuito, BOM, y la tabla de verdad con los siguientes circuitos de forma autónoma.
+ - **Parte 2:** Con los conocimientos ya aplicados y desarrollados, generar el circuito, BOM, y la tabla de verdad con los siguientes circuitos de forma autónoma.
 
-**Circuito a realizar de forma autónoma (1):**
+ 1. **Circuito a realizar de forma autónoma:**
 
 Foto del circuito esquemático 01.
 
@@ -47,9 +51,7 @@ Foto de tabla de verdad circuito 01.
 
 ![Tabla_verdad_01](https://github.com/user-attachments/assets/ced9458e-cb88-41f4-8cc6-58c4a3202db5)
 
-**Circuito a realizar de forma autónoma (2):**
-
-<img width="848" alt="schLearn3" src="https://github.com/user-attachments/assets/94587e07-3b7b-4eba-8be2-9c5b5e266634" />
+ 2. **Circuito a realizar de forma autónoma:**
 
 Foto del circuito esquemático 02.
 
@@ -65,7 +67,7 @@ Foto de tabla BOM circuito 02.
 Foto de tabla de verdad circuito 02.
 
 
-**Circuito a realizar de forma autónoma (3):**
+ 3. **Circuito a realizar de forma autónoma:**
 
 Foto del circuito esquemático 03.
 
