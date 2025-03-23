@@ -4,8 +4,8 @@
 
  - **Parte 1:** A partir de un circuito inicial podemos desarrollar y conocer los conceptos de:
 
- - Bill of Materials (BOM).
- - Tabla de la verdad.
+    - Bill of Materials (BOM).
+    - Tabla de la verdad.
 
 **Circuto a realizar en clase:**
 
