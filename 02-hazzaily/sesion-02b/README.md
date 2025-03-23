@@ -9,11 +9,13 @@
 
 **Circuto a realizar en clase:**
 
+<img width="848" alt="schLearn3" src="https://github.com/user-attachments/assets/7b4a0809-fa04-4585-bb45-8822a5430453" />
+
 ![Circuito_clase](https://github.com/user-attachments/assets/e8c99d6a-3ab6-4ec1-8705-de8781dcb179)
 
 Con este experimento logramos ver que la intensidad de los LED es igual en todos los ellos, y en caso de poner una resistencia menor, el LED en que se modifique brillará menos que el resto.
 
- - **Bill of mterial:** Es un documento que se utiliza para detallar todos los materiales o componentes necesarios para fabricar un producto. Tambióen se le cono ce como BOM.
+ - **Bill of material:** Es un documento que se utiliza para detallar todos los materiales o componentes necesarios para fabricar un producto. Tambióen se le cono ce como BOM.
 
 Foto de tabla BOM para creación de circuito en clase.
 
@@ -28,6 +30,8 @@ Foto de tabla de la verdad circuito 01.
 **Parte 2:** Con los conocimientos ya aplicados y desarrollados, generar el circuito, BOM, y la tabla de verdad con los siguientes circuitos de forma autónoma.
 
 **Circuito a realizar de forma autónoma (2):**
+
+
 
 Foto del circuito 02.
 
