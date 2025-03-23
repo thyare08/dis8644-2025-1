@@ -9,8 +9,6 @@
 
 **Circuto a realizar en clase:**
 
-<img width="848" alt="schLearn3" src="https://github.com/user-attachments/assets/7b4a0809-fa04-4585-bb45-8822a5430453" />
-
 ![Circuito_clase](https://github.com/user-attachments/assets/e8c99d6a-3ab6-4ec1-8705-de8781dcb179)
 
 Con este experimento logramos ver que la intensidad de los LED es igual en todos los ellos, y en caso de poner una resistencia menor, el LED en que se modifique brillará menos que el resto.
@@ -23,15 +21,25 @@ Foto de tabla BOM para creación de circuito en clase.
 
 A través de esto podemos desarrollar la capacidad de ordenar y saber qué necesitamos para realizar cualquier proyecto de manera organizada. 
 
- - **Tabla de la verdad:**
+ - **Tabla de la verdad:** Una tabla de verdad es una herramienta que nos permite conocer todas las combinaciones posibles y sus posibles valores para una expresión, en este caso, circuito.
 
-Foto de tabla de la verdad circuito 01.
+Foto de tabla de la verdad circuito desarrollado en clase.
+
+
 
 **Parte 2:** Con los conocimientos ya aplicados y desarrollados, generar el circuito, BOM, y la tabla de verdad con los siguientes circuitos de forma autónoma.
 
+**Circuito a realizar de forma autónoma (1):**
+
+Foto del circuito 01.
+
+Foto de tabla BOM circuito 01.
+
+Foto de tabla de verdad circuito 01.
+
 **Circuito a realizar de forma autónoma (2):**
 
-
+<img width="848" alt="schLearn3" src="https://github.com/user-attachments/assets/94587e07-3b7b-4eba-8be2-9c5b5e266634" />
 
 Foto del circuito 02.
 
