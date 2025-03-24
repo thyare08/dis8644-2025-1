@@ -60,6 +60,8 @@ Tabla de la verdad
 
 - **Circuito 2**
 
+![Captura de pantalla 2025-03-24 133308](https://github.com/user-attachments/assets/3da81570-1de2-446a-a44c-b47868b2c30a)
+
 Foto circuito
 
 BOM
@@ -69,6 +71,8 @@ BOM
 Tabla de la verdad
 
 - **Circuito 3**
+
+![Captura de pantalla 2025-03-24 133252](https://github.com/user-attachments/assets/abe7f3bc-4cc0-4dbf-bef0-516823a22ccb)
 
 Foto circuito
 
