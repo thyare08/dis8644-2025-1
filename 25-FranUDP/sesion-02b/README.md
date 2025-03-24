@@ -19,8 +19,8 @@
 >  <img align="right" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-02b/circuitoClase.jpg" width=400>
 >  
 > | Bill Of Materials (BOM) | Qty | Name | Valor | 
-> |-------------------------|------|------|-----|
-> |       resistencia       |  3  | R<sub>1</sub>, R<sub>2</sub>, R<sub>3</sub> | 1k ohm |
+> |:-----------------------:|:---:|:----:|:-----:|
+> |       Resistencia       |  3  | R<sub>1</sub>, R<sub>2</sub>, R<sub>3</sub> | 1k ohm |
 > |         LED             |  4  | D<sub>1</sub>, D<sub>2</sub>, D<sub>3</sub>, D<sub>4</sub> | 
 > |         Batteria        |  1  | Batt | 9V |
 > </div>
@@ -28,11 +28,14 @@
 > <div>
 > <img align="left" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-02b/circuitoClaseD.jpg" width=400>  
 >
+> <p align="right">
+>
 > | Tabla dependencia | D<sub>1</sub> | D<sub>2</sub> | D<sub>3</sub> | D<sub>4</sub> |
-> |-------------------|---------------|---------------|---------------|---------------|
+> |:-----------------:|---------------|---------------|---------------|---------------|
 > | R<sub>1</sub>     |      0        |      1        |       1       |        1      |
 > | R<sub>2</sub>     |       1       |      0        |       1       |        1      |
 > | R<sub>3</sub>     |      1        |      1        |       0       |        0      |
+> </p>
 > </div>
 >
 ><br/>
@@ -42,12 +45,51 @@
 ---
 ## Ejercicios
 >
-> 1. 
+> 1. <img align="left" src="https://github.com/disenoUDP/dis8644-2025-1/blob/main/00-docentes/sesion-02b/archivos/schLearn2.png" width=400>
+>><br/>
+>><br/>
+>><br/>
+>><br/>
+>><br/>
+>><br/>
+>><br/>
+>><br/>
+>><br/>
+>><br/>
+>><br/>
+>><br/>
+>><br/>
+><br/>
 >
->>
-> 2. 
->>
->>
-> 3. 
->>
->>
+> 2. <img align="left" src="https://github.com/disenoUDP/dis8644-2025-1/blob/main/00-docentes/sesion-02b/archivos/schLearn3.png" width=400>
+>><br/>
+>><br/>
+>><br/>
+>><br/>
+>><br/>
+>><br/>
+>><br/>
+>><br/>
+>><br/>
+>><br/>
+>><br/>
+>><br/>
+>><br/>
+><br/>
+>
+> 3. <img align="left" src="https://github.com/disenoUDP/dis8644-2025-1/blob/main/00-docentes/sesion-02b/archivos/schLearn1.png" width=400>
+>><br/>
+>><br/>
+>><br/>
+>><br/>
+>><br/>
+>><br/>
+>><br/>
+>><br/>
+>><br/>
+>><br/>
+>><br/>
+>><br/>
+>><br/>
+><br/>
+>
