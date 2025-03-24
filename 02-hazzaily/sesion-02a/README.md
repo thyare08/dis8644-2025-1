@@ -48,6 +48,28 @@ También es posible hacerlo a través de una página web.
 
 Identificador de código de color de resistencia: <https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-resistor-color-code>
 
+ - **Resistores comunes y sus códigos de color:**
+
+Foto resistencia 220 Ω
+
+![220_ohm](https://github.com/user-attachments/assets/169e7616-cb72-4629-b187-a8d43005962e)
+
+Foto resistencia 330 Ω
+
+![330_ohm](https://github.com/user-attachments/assets/02dc766c-54ad-46d5-917f-f08eaa0a03a5)
+
+Foto resistencia 470 Ω
+
+![470_ohm](https://github.com/user-attachments/assets/b72ac294-70a7-4e05-8798-66b4d4cb3627)
+
+Foto resistencia 680 Ω
+
+![680_ohm](https://github.com/user-attachments/assets/04979a3e-ffd5-4028-8392-0bd4b1135ec5)
+
+Foto resistencia 1k Ω
+
+![1k_ohm](https://github.com/user-attachments/assets/17a5db6f-3348-412d-86fa-8426acb4322c)
+
 **Ejercicio en clase**
 
  1. Recrear el circuito de la clase anterior:
