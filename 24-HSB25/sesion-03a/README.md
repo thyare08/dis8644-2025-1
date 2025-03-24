@@ -1,6 +1,6 @@
 # sesion-03a
 
-#ENCARGO 06: ¿Quien es Suzanne Cianni?
+# ENCARGO 06: ¿Quien es Suzanne Cianni?
 
 Suzanne Ciani es una compositora, pianista y pionera de la música electrónica y el diseño de sonido. Nació en 1946 en Estados Unidos y es conocida por su trabajo con sintetizadores, especialmente el Buchla, un tipo de sintetizador modular.
 
