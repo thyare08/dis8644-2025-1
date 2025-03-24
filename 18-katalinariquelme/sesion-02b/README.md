@@ -12,7 +12,7 @@ Foto de mi bitácora
 
 ![IMG_8528](https://github.com/user-attachments/assets/31298929-0ac9-4ec0-889c-7c79cfe98964)
 
-Foto de bitácora
+Foto de mi bitácora
 
 ![IMG_8529](https://github.com/user-attachments/assets/115f018f-0dc0-41d9-9354-ea12ff0a2547)
 
@@ -64,6 +64,8 @@ Tabla de la verdad
 
 Foto circuito
 
+![IMG_8541](https://github.com/user-attachments/assets/8488d784-6839-45da-b7b0-66882d20b9ae)
+
 BOM
 
 ![Captura de pantalla 2025-03-24 140736](https://github.com/user-attachments/assets/d9e61e8d-4771-45b7-aa72-48e51e9b2aed)
@@ -75,6 +77,8 @@ Tabla de la verdad
 ![Captura de pantalla 2025-03-24 133252](https://github.com/user-attachments/assets/abe7f3bc-4cc0-4dbf-bef0-516823a22ccb)
 
 Foto circuito
+
+![IMG_8534](https://github.com/user-attachments/assets/25341355-9537-4f04-9c96-ce577178c1be)
 
 BOM
 
