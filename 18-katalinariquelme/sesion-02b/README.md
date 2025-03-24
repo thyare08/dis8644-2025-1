@@ -64,7 +64,7 @@ Tabla de la verdad
 
 Foto circuito
 
-
+![IMG_8541](https://github.com/user-attachments/assets/8488d784-6839-45da-b7b0-66882d20b9ae)
 
 BOM
 
