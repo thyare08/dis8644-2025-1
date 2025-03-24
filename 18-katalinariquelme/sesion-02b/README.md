@@ -12,7 +12,7 @@ Foto de mi bitácora
 
 ![IMG_8528](https://github.com/user-attachments/assets/31298929-0ac9-4ec0-889c-7c79cfe98964)
 
-Foto de bitácora
+Foto de mi bitácora
 
 ![IMG_8529](https://github.com/user-attachments/assets/115f018f-0dc0-41d9-9354-ea12ff0a2547)
 
