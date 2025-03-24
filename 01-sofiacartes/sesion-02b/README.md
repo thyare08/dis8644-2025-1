@@ -50,4 +50,10 @@ La relación simple de entrada/salida del amplificador operacional es la razón 
 ![IMG_8008](https://github.com/user-attachments/assets/5074dfd1-45cf-4101-914a-81a6fad159c4)
 ![IMG_8003](https://github.com/user-attachments/assets/ab0965d1-af29-4b59-b5fa-2e6b7dee74d0)
 
+### Suzanne Ciani
+
+nacionalidad norteamericana; pianista y pionera de la música electrónica, es conocida por su trabajo con los sintetizadores Buchla. Su capacidad para crear paisajes sonoros atmosféricos, la han convertido en una figura icónica. A lo largo de su carrera, ha lanzado 20 discos, recibido cinco nominaciones a los premios Grammy y ha ganado un Globo de Oro.
+
+
+
   
