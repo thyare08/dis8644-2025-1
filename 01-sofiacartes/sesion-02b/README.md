@@ -52,8 +52,10 @@ La relación simple de entrada/salida del amplificador operacional es la razón 
 
 ### Suzanne Ciani
 
+<img width="527" alt="suzzane" src="https://github.com/user-attachments/assets/2006b48a-ed1f-497e-afbf-2cab4fe5cda0" />
+
 nacionalidad norteamericana; pianista y pionera de la música electrónica, es conocida por su trabajo con los sintetizadores Buchla. Su capacidad para crear paisajes sonoros atmosféricos, la han convertido en una figura icónica. A lo largo de su carrera, ha lanzado 20 discos, recibido cinco nominaciones a los premios Grammy y ha ganado un Globo de Oro.
 
+The Velocity of Love - disco
+me gustó bastante, sentí que es acogedor. la utilización de elementos de la naturaleza me llama mucho la atención, ya que los pone como elemento principal.
 
-
-  
