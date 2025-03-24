@@ -64,6 +64,9 @@ Tabla de la verdad
 
 Foto circuito
 
+![IMG_8538](https://github.com/user-attachments/assets/8c35a5fb-7903-4c32-8c86-d048959e2a94)
+
+
 BOM
 
 ![Captura de pantalla 2025-03-24 140736](https://github.com/user-attachments/assets/d9e61e8d-4771-45b7-aa72-48e51e9b2aed)
@@ -75,6 +78,8 @@ Tabla de la verdad
 ![Captura de pantalla 2025-03-24 133252](https://github.com/user-attachments/assets/abe7f3bc-4cc0-4dbf-bef0-516823a22ccb)
 
 Foto circuito
+
+![IMG_8534](https://github.com/user-attachments/assets/25341355-9537-4f04-9c96-ce577178c1be)
 
 BOM
 
