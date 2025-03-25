@@ -47,6 +47,20 @@
 
  usaremos el pin de en medio y uno mas
 
+Esquemático chip 555 + led
+
+
+![Imagen de WhatsApp 2025-03-25 a las 15 52 55_3075903c](https://github.com/user-attachments/assets/10b28ba2-4a00-4c12-a15e-b192963eefea)
+![Imagen de WhatsApp 2025-03-25 a las 15 52 55_4319efa5](https://github.com/user-attachments/assets/d7f66600-db94-48c7-aca9-6b74e001755b)
+
+Circuito original
+https://github.com/user-attachments/assets/b318b8ae-6df7-4903-8357-70d5f788e8f8
+
+Circuito con potenciometro
+
+https://github.com/user-attachments/assets/54020300-a564-453b-88d3-b5d5267f52dc
+
+
 
 encargo: escuchar banda einsturzende
 
