@@ -58,7 +58,7 @@ Ciani también es famosa por sus trabajos de diseño de sonido, incluyendo sonid
 
 # Descripciones Materiales Recibidos
 
-#**Resistencia 220Ω**
+# **Resistencia 220Ω**
 
 El condensador electrolítico de 100µF es un componente electrónico diseñado para almacenar y liberar energía en circuitos eléctricos. Su alta capacitancia lo hace ideal para aplicaciones de filtrado, estabilización y almacenamiento de carga.
 
@@ -74,7 +74,7 @@ Características principales:
 
 ![Resistencia220](https://aelectronics.com.mx/2754-large_default/resistencia-th-1-4-watt-300-ohm.jpg)
 
-#**Resistencia de 1K**
+# **Resistencia de 1K**
 
 La resistencia de 1KΩ (1,000 ohmios) es un componente electrónico pasivo ampliamente utilizado para limitar corriente, ajustar voltajes y estabilizar circuitos. Se representa con la notación "1K", donde "K" indica kiloohmios (1,000 ohmios).
 
@@ -92,7 +92,7 @@ Características principales:
 
 ![Resistencia1k](https://www.electrocomponentes.es/9138-large_default/resistencia-1k-ohm-025w.jpg)
 
-#**Resistencia de 10K**
+# **Resistencia de 10K**
 
 La resistencia de 10KΩ (10,000 ohmios) es un componente electrónico pasivo ampliamente utilizado en circuitos electrónicos para limitar corriente, crear divisores de voltaje y estabilizar señales. Se representa con la notación "10K", donde "K" indica kiloohmios (10,000 ohmios).
 
@@ -110,7 +110,7 @@ Características principales:
 
 ![Resistencia10k](https://electronicaemedin.cl/wp-content/uploads/2023/04/10k-1.jpg)
 
-#**Resistencia de 100K**
+# **Resistencia de 100K**
 
 La resistencia de 100KΩ (100,000 ohmios) es un componente pasivo usado en circuitos electrónicos para limitar corriente, ajustar voltajes y establecer condiciones de polarización en dispositivos activos. Su notación es "100K", donde "K" representa kiloohmios (100,000 ohmios).
 
@@ -128,7 +128,7 @@ Características principales:
 
 ![Resistencia100k](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCUaMFAY0VITVZ62p8YOZqhbchecP7wRyL5A&s)
 
-#**Resistencia de 470KΩ**
+# **Resistencia de 470KΩ**
 
 Pequeña resistencia de película de carbón con un valor de 470K ohm y una tolerancia de ±5%, capaz de disipar potencias de hasta 0,25w (1/4w) y soportar tensiones de trabajo de hasta 300v.
 
@@ -152,7 +152,7 @@ Características de la resistencia de 470KΩ:
 
 ![Resistencia470k](https://www.electrocomponentes.es/9182-large_default/resistencia-470k-ohm-025w.jpg)
 
-#**Condensador MLCC**
+# **Condensador MLCC**
 
 El condensador MLCC (Multilayer Ceramic Capacitor) de 50V es un componente electrónico pasivo diseñado para almacenar y liberar carga eléctrica en circuitos electrónicos. Su estructura multicapa de cerámica le otorga alta estabilidad, baja ESR (resistencia en serie equivalente) y buena tolerancia a altas frecuencias.
 
@@ -172,7 +172,7 @@ Características principales:
 
 ![CondensadorMLCCk](https://m.media-amazon.com/images/I/616ZiGXnoOL._AC_UF894,1000_QL80_.jpg)
 
-#**Condensador Electrolitico 1uF**
+# **Condensador Electrolitico 1uF**
 
 El condensador electrolítico es un tipo de condensador que utiliza un electrolito líquido o sólido para lograr una mayor capacidad en comparación con otros tipos de condensadores. Son ideales para aplicaciones donde se requieren valores de capacitancia elevados y son comúnmente usados en fuentes de alimentación y circuitos de filtrado.
 
@@ -191,7 +191,7 @@ Características principales:
 
 ![CondensadorElec](https://www.victronics.cl/wp-content/uploads/2019/02/60-04335.jpg)
 
-#**Condensador Electrolitico 10uF**
+# **Condensador Electrolitico 10uF**
 
 El condensador electrolítico de 10µF es un componente pasivo utilizado para almacenar y liberar energía en circuitos eléctricos. Su alta capacitancia lo hace ideal para aplicaciones de filtrado, desacoplo y estabilización de voltaje.
 
@@ -209,7 +209,7 @@ Características principales:
 
 ![CondensadorElec10](https://http2.mlstatic.com/D_NQ_NP_831640-MLC46512056183_062021-O-condensador-electrolitico-10uf-x-450v.webp)
 
-#**Condensador Electrolitico 100uF**
+# **Condensador Electrolitico 100uF**
 
 El condensador electrolítico de 100µF es un componente electrónico diseñado para almacenar y liberar energía en circuitos eléctricos. Su alta capacitancia lo hace ideal para aplicaciones de filtrado, estabilización y almacenamiento de carga.
 
@@ -228,7 +228,7 @@ Características principales:
 
 ![CondensadorElec2](https://www.victronics.cl/wp-content/uploads/2019/02/CECAP6x12.jpg)
 
-#**Diodo Rectificador 1000V**
+# **Diodo Rectificador 1000V**
 
 El diodo rectificador de 1000V es un componente semiconductor diseñado para permitir el paso de corriente en un solo sentido, bloqueando la corriente en la dirección opuesta. Se usa principalmente en fuentes de alimentación y circuitos de conversión de corriente alterna (CA) a corriente continua (CC).
 
@@ -244,7 +244,7 @@ Características principales:
 
 ![DiodoRectificador1000V](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwEgBaI2Bme3-z406Yb0eQx1vvJWE83arASg&s)
 
-#**Potenciometro Carbon PTS504**
+# **Potenciometro Carbon PTS504**
 
 El potenciómetro de carbono PTS 504 es un componente electrónico utilizado para variar la resistencia en un circuito de manera ajustable, lo que permite controlar parámetros como voltaje y corriente en aplicaciones de control. Este potenciómetro pertenece a la serie PTS de carbono y es conocido por su fiabilidad y ajuste preciso.
 
@@ -266,7 +266,7 @@ Características principales:
 
 ![PotenciometroCarbon](https://www.victronics.cl/wp-content/uploads/2019/02/81-182102.jpg)
 
-#**Chipset 555 Bipolar Timer**
+# **Chipset 555 Bipolar Timer**
 
 El NE555P es un temporizador (timer) bipolar de propósito general muy popular en electrónica. Es un circuito integrado (CI) utilizado para generar señales temporales (del tipo monostable o astable) y se emplea en una amplia gama de aplicaciones, como temporizadores, osciladores, generadores de pulsos, y en circuitos de modulación.
 
@@ -284,7 +284,7 @@ Características principales:
 
 ![Chipset555](https://www.victronics.cl/wp-content/uploads/2019/02/PDIP8.jpg)
 
-#**TACT SWITCH**
+# **TACT SWITCH**
 
 El Tact Switch PCB 6mm x 7mm es un interruptor de presión (táctil) compacto, diseñado para ser montado en placas de circuito impreso (PCB). Estos interruptores se utilizan comúnmente en dispositivos electrónicos para activar o desactivar funciones con un simple toque o presión en su superficie.
 
@@ -308,19 +308,19 @@ Un juego de 10 cables de 45 cm con pinzas caimán es un conjunto de cables eléc
 
 [Cables](https://www.victronics.cl/wp-content/uploads/2019/02/87-002304.jpg)
 
-#**KIT 65 CABLES PARA PROTOBOARD**
+# **KIT 65 CABLES PARA PROTOBOARD**
 
 El kit de 65 cables para protoboard es un conjunto de cables de diferentes longitudes y colores, diseñados para facilitar las conexiones en protoboards (placas de pruebas) durante el prototipado de circuitos electrónicos. Estos cables son ideales para realizar conexiones rápidas y seguras sin necesidad de soldadura, permitiendo realizar pruebas, ajustes y modificaciones en el diseño de circuitos de manera eficiente.
 
 [KIT65](https://www.victronics.cl/wp-content/uploads/2019/02/85-809000AC.jpg)
 
-#**TERMINAL CLIP PARA BATERIAS 9V**
+# **TERMINAL CLIP PARA BATERIAS 9V**
 
 El terminal clip para baterías 9V es un componente utilizado para conectar de manera segura y rápida una batería de 9V a un circuito o dispositivo. Este terminal es muy común en proyectos electrónicos, especialmente cuando se requiere una fuente de energía portátil o para pruebas.
 
 [CLIPBATERIAS](https://www.victronics.cl/wp-content/uploads/2019/02/52-00111.jpg)
 
-#**RESISTENCIA LDR**
+# **RESISTENCIA LDR**
 
 La resistencia LDR (Light Dependent Resistor) GL5528 de 1MΩ es un tipo de resistencia cuya resistencia varía en función de la cantidad de luz que incide sobre ella. Es un componente óptico comúnmente utilizado en circuitos donde se necesita la detección de luz o para aplicaciones relacionadas con la fotoconductividad.
 
