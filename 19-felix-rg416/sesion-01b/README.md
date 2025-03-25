@@ -33,7 +33,8 @@ es la oposición a la circulación de corriente. se mide en Ohm (Ω). el código
 ## LED
 Light-Emitting Diode. fuente de luz. el voltaje que necesitan depende del color. para no quemarlos se usan resistencias. tiene un positivo y un negativo
 
-![rango de voltajeLED](https://github.com/user-attachments/assets/1472a352-625f-4cef-996d-e1e5717d1874)
+![valoresLED](https://github.com/user-attachments/assets/68d4fd64-d3db-4b37-ba38-f77ce9d7559a)
+
 
 ## buzzer o zumbador
 convierten la electricidad en sonido. el sonido cambia dependiendo del tamaño y el voltaje
