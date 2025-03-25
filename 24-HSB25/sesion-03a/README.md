@@ -45,3 +45,10 @@ Eighth Wave (del álbum Seven Waves)**
 - Liberator (del álbum Historia)
 
 Ciani también es famosa por sus trabajos de diseño de sonido, incluyendo sonidos de burbujas, efectos para comerciales de Coca-Cola y videojuegos como Xenon 2: Megablast.
+
+![CocaCola](https://live.staticflickr.com/65535/49424515662_99d5493404_b.jpg)
+
+![Xenon2](https://i.ytimg.com/vi/v9nD9DQwd80/maxresdefault.jpg)
+
+
+
