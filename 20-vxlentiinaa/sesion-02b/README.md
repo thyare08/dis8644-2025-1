@@ -51,5 +51,18 @@
 
 <img width="848" alt="Ejercicio 3 " src="https://github.com/user-attachments/assets/59d27a30-d9d5-406b-be94-f33a7722d34e" />
 
-![ej 3 ](https://github.com/user-attachments/assets/1fad9e12-4489-401e-9045-e2eadad37bae)
+![ej 3 ](https://github.com/user-attachments/assets/1fad9e12-4489-401e-9045-e2eadad37bae
 
+## Encargo 6
+Escuchar un disco de Suzanne Ciani
+
+* Compositora, pianista y productora musical estadounidense.
+* Fue la creadora del sonido de Coca-cola
+* En la época de universidad empezó su interés por la tecnología cuando un profesor del MIT le explicó que estaba intentando que un computador reprodujera el sonido de un violín.
+
+* Escuché el album Silver Ship
+![suzanne ciani](https://github.com/user-attachments/assets/c3a55096-f9e4-4043-bc3b-bcbc845734fd)
+
+Fue lanzado el 1 de enero de 2005 por Suzanne Ciani, sacó el albúm después de 6 años desde 1999. El albúm es una combinación de música clásica con electrónica.
+_List_: For Lise, Wine Dark Sea, Stromboli, Capri, Eclipse, Open Seas, Dentecane, Snow Crystals, Sargasso Sea, Silver Ship. 
+* Me gustó bastante este álbum, sobre todo la composición entre música clásica y un poco de música electrónica como en Capri. Me gustan las combinaciones de la flauta, piano, sonidos interesantes (como Snow Crystals) y también guitarras. Hay composiciones alegres, de misterio, clásicas y de carácter sinfónico, como en Eclipse.
