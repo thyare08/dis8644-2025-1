@@ -2,27 +2,26 @@
 
 ## 〰️ Oscilador astable
 
-![Captura de pantalla 2024-11-25 a la(s) 16.29.18.png](archivos/Captura_de_pantalla_2024-11-25_a_la(s)_16.29.18.png)
+![esquematico-astable](./archivos/esquematico-astable.png)
 
 ### 🎱 Lista de materiales (BOM)
 
-| **TIPO** | **VALOR** | **CANTIDAD** |
-| --- | --- | --- |
-| Circuito integrado | NE555 | 1 |
-| Protoboard  |  | 1 |
-| Led | 5mm rojo | 1 |
-| Resistencia | 10k 1/4w | 2 |
-| Resistencia | 1k 1/4w | 2 |
-| Fotoresistencia | LDR | 1 |
-| Potenciómetro | 100k o 500k | 1 |
-| Condensador cerámico | 470nF (474) | 2 |
-| Condensador electrolítico | 100uF | 1 |
-| Condensador electrolítico | 10uF | 1 |
-| Condensador electrolítico | 1uF | 1 |
-| Cables  | Dupont (M-M) | 15 |
-| Cables  | Caimanes | 4 |
-| Parlante  | 8ohm 0.5W | 1 |
-|  |  |  |
+| **TIPO**                  | **VALOR**    | **CANTIDAD** |
+| ------------------------- | -----------  | ------------ |
+| Circuito integrado        | NE555        | 1            |
+| Protoboard                |              | 1            |
+| LED                       | 5mm rojo     | 1            |
+| Resistencia               | 10k 1/4w     | 2            |
+| Resistencia               | 1k 1/4w      | 2            |
+| Fotoresistencia           | LDR          | 1            |
+| Potenciómetro             | 100k o 500k  | 1            |
+| Condensador cerámico      | 470nF (474)  | 2            |
+| Condensador electrolítico | 100uF        | 1            |
+| Condensador electrolítico | 10uF         | 1            |
+| Condensador electrolítico | 1uF          | 1            |
+| Cables                    | Dupont (M-M) | 15           |
+| Cables                    | Caimanes     | 4            |
+| Parlante                  | 8ohm 0.5W    | 1            |
 
 ## Base para circuito: La protoboard
 
@@ -101,7 +100,7 @@ Reemplacemos el valor de por un potenciómetro, en las patas 1 y 2 de éste. ¿Q
 
 Podemos reemplazar el led de salida por un parlante. Para mayor seguridad, se debe ubicar un condensador entre la pata 3 y el parlante (100uF o más)
 
-![Captura de pantalla 2024-11-25 a la(s) 16.30.53.png](archivos/efa27b50-4ffc-407c-bed5-783608adbc9c.png)
+![esquematico-parlante](./archivos/esquematico-parlante.png)
 
 ![image.png](archivos/imagen-12.png)
 
@@ -109,7 +108,7 @@ Podemos reemplazar el led de salida por un parlante. Para mayor seguridad, se de
 
 Si reemplazamos el potenciómetro por un LDR, la luz que le llegue al LDR determinará la frecuencia de oscilación
 
-![Captura de pantalla 2024-11-25 a la(s) 16.31.45.png](archivos/6b0620a5-8d05-49c7-b212-183cf7b982d8.png)
+![esquematico con sensor LDR](./archivos/esquematico-ldr.pngg)
 
 ![image.png](./archivos/archivos/imagen-13.png)
 
@@ -117,9 +116,9 @@ Si reemplazamos el potenciómetro por un LDR, la luz que le llegue al LDR determ
 
 Puedes reemplazar la resistencia que está entre las patas 2 y 7 del 555 por cualquier material orgánico. ¡Experimenta!
 
-![Captura de pantalla 2024-10-07 a la(s) 01.22.48.png](archivos/Captura_de_pantalla_2024-10-07_a_la(s)_01.22.48.png)
+![esquemático con papa](./archivos/esquematico-papa.png)
 
-![Captura de pantalla 2024-11-25 a la(s) 16.32.35.png](archivos/226236e5-9eb6-4d9e-a46f-e334f62ac30c.png)
+![esquematico con resistencia experimental](./archivos/esquematico-experimental.png)
 
 ### Tip: Ajustar rango de frecuencia
 
@@ -129,15 +128,13 @@ A veces nuestro circuito suena de forma muy lenta, y podríamos querer que fuera
 
 * Condensador más pequeño → Aumenta la frecuencia (suena más agudo)**
 
-![Captura de pantalla 2024-10-07 a la(s) 01.25.04.png](archivos/Captura_de_pantalla_2024-10-07_a_la(s)_01.25.04.png)
+![esquemático con condensadores](./archivos/esquematico-condensador.png)
 
 ## Calculadora de frecuencia
 
 La oscilación de este circuito está determinada por los valores de R1, R2 y C1. Esta web te ayudará a calcular qué frecuencia se puede obtener
 
 <https://ohmslawcalculator.com/555-astable-calculator>
-
-[https://ohmslawcalculator.com/555-astable-calculator](https://ohmslawcalculator.com/555-astable-calculator)
 
 La frecuencia se calcula según la siguiente fórmula
 

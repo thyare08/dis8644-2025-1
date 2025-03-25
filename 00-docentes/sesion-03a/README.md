@@ -2,21 +2,21 @@
 
 martes 25 marzo 2025
 
-## primera mitad
+## primera mitad 9:00am - 10:30am
 
-Prefijos científicos
+prefijos científicos
 
 ![prefijos](./archivos/prefijos.jpg)
 
 repaso de serie y paralelo
 
-[Datasheet del 555](./archivos/lm555-datasheet.pdf)
+[datasheet del 555](./archivos/lm555-datasheet.pdf)
 
 circuitos integrados (IC)
 
 chip 555
 
-## segunda mitad
+## segunda mitad 11:00am - 12:30pm
 
 circuito astable con chip 555
 
