@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/549f8f2b-fca0-465b-9efd-03aa65276b79)# sesion-03a
+# sesion-03a
 
 # ENCARGO 06: ¿Quien es Suzanne Cianni?
 
