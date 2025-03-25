@@ -30,3 +30,15 @@
  Si al chip pasa mucha corriente se quema, por eso al conectarlo a positivo se debe usar una resistencia de 10k 
 
  pata 3: output
+
+ Configuracion del 555 astable: no tiene ni un momento de estabilidad, por lo que es intermitente.
+
+ Calculadora de modo astable, que nos indica que el tiempo de encendido y apagado depender de el tamaño de las resistencias.
+
+ que es un potenciometro? una resistencia variable o un sensor de angulo
+
+ usaremos el pin de en medio y uno mas
+
+
+encargo: escuchar banda einsturzende
+
