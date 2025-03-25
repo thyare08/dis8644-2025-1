@@ -10,6 +10,14 @@
 ## circuitos
 
 - VCC = votaje de corriente continua = positivo
-
 - resistencias en serie Req (resistencia equivalente) = R1 + R2 
 - resistencias en paralelo 1/Req = 1/R1 + 1/R2 (si son resistencias iguales la equivalencia es la mitad)
+
+# cirtuito LM 555
+
+- proporciona retardos de tiempo, como un circuitto integrado flipflop (almacena y cambia el estado de señal digital)
+
+![LM-555](https://github.com/user-attachments/assets/a1815c02-1614-4644-98c7-b21a7b908fdf)
+
+
+- 
