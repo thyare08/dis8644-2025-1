@@ -1,7 +1,5 @@
 # sesion-03a
 
-(https://github.com/felix-rg416/dis8644-2025-1/blob/main/19-felix-rg416/sesion-03a/1er-circuito-555.mp4)
-
 - *[suzanne ciani](https://www.youtube.com/watch?v=nJWk7jiASP0)*
 - delia derbyshire
 - sisters with transistors - documental
