@@ -12,14 +12,17 @@
 - 1x10 elevado a 6 = 1.000.000 M
 - 1x10 elevado a 9 = 1.000.000.000 G
 
+![Imagen de WhatsApp 2025-03-25 a las 11 22 25_e963d055](https://github.com/user-attachments/assets/f729f5ba-8090-4adf-b151-31c289491d7d)
+
 ### Componentes 
 
 . El último digito de un condensador es la cantidad de ceros que tiene 
 
-
 . El condensador electrolítico negro: tiene polaridad, la cual esta demarcada por un costado blanco y una patita mas corta, indicando su lado negativo. tiene mas faradios.
 
 . Condensador cerámico:parece una lenteja, la nuestra es de 470000.
+
+![Imagen de WhatsApp 2025-03-25 a las 11 22 27_cbbcf66b](https://github.com/user-attachments/assets/fe17c839-1095-4f06-8c38-6dadb02766bf)
 
 . Un condensador: almacena voltaje, hace que la caida del voltaje sea mas lenta.
 
@@ -33,7 +36,12 @@
 
  Configuracion del 555 astable: no tiene ni un momento de estabilidad, por lo que es intermitente.
 
+![Imagen de WhatsApp 2025-03-25 a las 11 22 31_a8b5c80b](https://github.com/user-attachments/assets/7491d502-fa3a-4db2-9db1-552694c33953)
+
+
  Calculadora de modo astable, que nos indica que el tiempo de encendido y apagado depender de el tamaño de las resistencias.
+
+![Imagen de WhatsApp 2025-03-25 a las 15 45 36_6c78399d](https://github.com/user-attachments/assets/dcc6be51-914a-4d16-abe3-dcef4e2d7509)
 
  que es un potenciometro? una resistencia variable o un sensor de angulo
 
