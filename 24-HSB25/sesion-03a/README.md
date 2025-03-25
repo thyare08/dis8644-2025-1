@@ -59,6 +59,7 @@ Ciani también es famosa por sus trabajos de diseño de sonido, incluyendo sonid
 # Descripciones Materiales Recibidos
 
 - **Resistencia de 470KΩ**
+
 Pequeña resistencia de película de carbón con un valor de 470K ohm y una tolerancia de ±5%, capaz de disipar potencias de hasta 0,25w (1/4w) y soportar tensiones de trabajo de hasta 300v.
 
 Características de la resistencia de 470KΩ:
@@ -74,7 +75,10 @@ Características de la resistencia de 470KΩ:
 
 6. Uso común:
 
-Circuitos electrónicos para limitar corriente. División de voltaje. Filtros y amplificadores en electrónica analógica. Aplicaciones en fuentes de alimentación y sensores.
+- Circuitos electrónicos para limitar corriente.
+- División de voltaje.
+- Filtros y amplificadores en electrónica analógica.
+-  Aplicaciones en fuentes de alimentación y sensores.
 
 ![Resistencia470k](https://www.electrocomponentes.es/9182-large_default/resistencia-470k-ohm-025w.jpg)
 
@@ -94,6 +98,51 @@ Características principales:
 5. Tolerancia: ±1%, ±5%, ±10% (según el tipo y fabricante)
 
 6. Factor de pérdidas (ESR): Muy bajo, ideal para aplicaciones de alta frecuencia
+
+![CondensadorMLCCk](https://m.media-amazon.com/images/I/616ZiGXnoOL._AC_UF894,1000_QL80_.jpg)
+
+-**Condensador Electrolitico 10uF**
+
+El condensador electrolítico es un tipo de condensador que utiliza un electrolito líquido o sólido para lograr una mayor capacidad en comparación con otros tipos de condensadores. Son ideales para aplicaciones donde se requieren valores de capacitancia elevados y son comúnmente usados en fuentes de alimentación y circuitos de filtrado.
+
+Características principales:
+
+1. Capacitancia: Generalmente entre 1 µF y varios miles de µF
+
+2. Voltaje nominal: Varía desde 6.3V hasta cientos de voltios
+
+3. Polaridad: Polarizado (+/-), debe conectarse correctamente para evitar daños
+
+4. Tipos:
+-De aluminio: Los más comunes, con electrolito líquido
+-De tántalo: Más compactos y estables, con electrolito sólido
+-De polímero: Baja ESR, mejor rendimiento en alta frecuencia
+
+![CondensadorElec](https://www.victronics.cl/wp-content/uploads/2019/02/60-04335.jpg)
+
+-**Condensador Electrolitico 100uF**
+
+El condensador electrolítico de 100µF es un componente electrónico diseñado para almacenar y liberar energía en circuitos eléctricos. Su alta capacitancia lo hace ideal para aplicaciones de filtrado, estabilización y almacenamiento de carga.
+
+Características principales:
+
+1. Capacitancia: 100µF (microfaradios)
+
+2. Voltaje nominal: Disponible en diferentes valores (6.3V, 10V, 16V, 25V, 50V, etc.)
+
+3. Polaridad: Sí, debe conectarse correctamente (terminal más largo = positivo)
+
+4. Tipo:
+
+- Aluminio con electrolito líquido (el más común)
+- Tántalo o polímero (menos frecuente en este valor)
+
+![CondensadorElec2](https://www.victronics.cl/wp-content/uploads/2019/02/CECAP6x12.jpg)
+
+#
+
+
+
 
 
 
