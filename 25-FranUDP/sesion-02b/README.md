@@ -121,7 +121,5 @@
 >>  | R<sub>8</sub>     |       1       |       1       |       0       |              
 >> 
 >> <img src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-02b/circuito3.jpg" width=410>
->> 
 >><br/>
-><br/>
 >
