@@ -13,3 +13,9 @@
 
 
 ![alt text](tme-02b-relevante.png)
+
+
+
+## EXPERIMENTACON
+
+![alt text](tme-02b-exp.png)
