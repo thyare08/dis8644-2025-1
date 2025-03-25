@@ -1,6 +1,5 @@
 # sesion-03a
 
-
 - *[suzanne ciani](https://www.youtube.com/watch?v=nJWk7jiASP0)*
 - delia derbyshire
 - sisters with transistors - documental
@@ -49,9 +48,17 @@ almacena votaje
 
 ![condensador-elctrolítico](https://github.com/user-attachments/assets/daaeae61-54a1-44b7-a357-e49719f2bfb7)
 
+#### fotoresistencia
+
 
 # 1er circuito con 555
 
+*revisar muy bien el valor de los componentes*
+
+*revisar muy bien las conexiones*
 
 
-la LED se enciende y se apaga de forma constante 
+![1er-circuito-555](https://github.com/user-attachments/assets/8b943581-2b52-4f1a-b3b9-642dfcc00c2a)
+
+
+el LED se enciende y se apaga de forma constante 
