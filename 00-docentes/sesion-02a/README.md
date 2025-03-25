@@ -10,7 +10,6 @@ ordenar apuntes y forks y pull requests
 
 discusión sobre branches, orden en la programación, uso de bitácoras digitales.
 
-
 ## segunda mitad
 
 el equipo docente compró de forma mayorista 30 baterías recargables y los estudiantes pagaron su cuota y se les entregaron la batería. la próxima clase se habilitará un punto de recarga en el laboratorio de interacción UDP para que puedan reutilizarlas.
@@ -28,7 +27,6 @@ nos dimos cuenta que como la corriente eléctrica circula por una rama, basta qu
 al final de la clase, paula hizo una demo de simulación de circuitos electrónicos en minecraft.
 
 después de clase subimos al laboratorio de interacción en salvador sanfuentes y revisamos algunos de los materiales ahí existentes.
-
 
 [sch_symbols.pdf](./archivos/sch_symbols.pdf)
 

@@ -4,7 +4,7 @@ viernes 21 de marzo 2025
 
 ## primera mitad
 
-revisión de encargos y bitácoras
+revisión de encargos 04 y 05, y bitácoras en GitHub
 
 ## segunda mitad
 
