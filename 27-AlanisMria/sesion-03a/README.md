@@ -12,14 +12,17 @@
 - 1x10 elevado a 6 = 1.000.000 M
 - 1x10 elevado a 9 = 1.000.000.000 G
 
+### Componentes 
+
 . El último digito de un condensador es la cantidad de ceros que tiene 
 
-. La nuestra es de 470000
 
-. El condensador electrolítico negro tiene polaridad, la cual esta demarcada por un costado blanco y una patita mas corta, indicando su lado negativo. tiene mas faradios.
+. El condensador electrolítico negro: tiene polaridad, la cual esta demarcada por un costado blanco y una patita mas corta, indicando su lado negativo. tiene mas faradios.
 
-. Condensador cerámico, parece una lenteja.
+. Condensador cerámico:parece una lenteja, la nuestra es de 470000.
 
-. Un condensador almacena voltaje, hace que la caida del voltaje sea mas lenta.
+. Un condensador: almacena voltaje, hace que la caida del voltaje sea mas lenta.
 
-. 
+. Chip 555: Es una caja negra que tiene 8 pins (datasheet manual), es un timer, lo usaremos para prender y apagar.
+
+ Circuito planchado con cable de alambre
