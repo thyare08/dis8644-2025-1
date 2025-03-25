@@ -26,3 +26,7 @@
 . Chip 555: Es una caja negra que tiene 8 pins (datasheet manual), es un timer, lo usaremos para prender y apagar.
 
  Circuito planchado con cable de alambre
+
+ Si al chip pasa mucha corriente se quema, por eso al conectarlo a positivo se debe usar una resistencia de 10k 
+
+ pata 3: output
