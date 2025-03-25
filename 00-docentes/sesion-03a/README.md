@@ -14,3 +14,9 @@ para medir la cantidad de farats, primeros 2 digitos se quedan tal cual y el ult
 - 0,000001: 1µ (micro)
 - 0,000000001: 1n (nano)
 - 0.000000000001: 1p (pico)
+
+555 chip es un timer, para prender y alagar cosas, ademas de varir en comportamiento en el tiempo
+
+calculadoras para configuraciones astables
+
+astable: no estable
