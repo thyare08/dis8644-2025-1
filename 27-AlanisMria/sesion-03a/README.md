@@ -16,5 +16,10 @@
 
 . La nuestra es de 470000
 
-. El condensador negro tiene polaridad, la cual esta demarcada por un costado blanco y una patita mas corta, indicando su lado negativo.
+. El condensador electrolítico negro tiene polaridad, la cual esta demarcada por un costado blanco y una patita mas corta, indicando su lado negativo. tiene mas faradios.
 
+. Condensador cerámico, parece una lenteja.
+
+. Un condensador almacena voltaje, hace que la caida del voltaje sea mas lenta.
+
+. 
