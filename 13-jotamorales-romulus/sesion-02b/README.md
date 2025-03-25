@@ -30,12 +30,15 @@ La siguiente tabla muestra qué LEDs permanecían encendidos al desconectar dist
 
 
 ###oskitone
+
 ![image](https://github.com/user-attachments/assets/cd212392-f3e7-42c3-b096-2cbadb055336)
 
 chip NE555 lo veremos la siguiente clase  
+
 ![image](https://github.com/user-attachments/assets/efb218f3-1ff8-4878-808e-5ad4711688a2)
 
 muestra en clase
+
 ![image](https://github.com/user-attachments/assets/3dbff436-e13d-4a5d-8394-50193f3af68f)
 
 
