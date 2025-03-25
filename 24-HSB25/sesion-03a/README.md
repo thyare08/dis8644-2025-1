@@ -56,6 +56,44 @@ Ciani también es famosa por sus trabajos de diseño de sonido, incluyendo sonid
 **Link de Musica del Videojuego Xenon 2:** 
 [Suzanne Ciani - Xenon - Long Effects](https://www.youtube.com/watch?v=Vz1P7L8wgzk&ab_channel=FindersKeepersRecords)
 
+# Descripciones Materiales Recibidos
+
+- **Resistencia de 470KΩ**
+Pequeña resistencia de película de carbón con un valor de 470K ohm y una tolerancia de ±5%, capaz de disipar potencias de hasta 0,25w (1/4w) y soportar tensiones de trabajo de hasta 300v.
+
+Características de la resistencia de 470KΩ:
+1. Valor: 470KΩ (470,000 ohmios)
+
+2. Tolerancia: Puede variar según el tipo (±1%, ±5%, ±10%)
+
+3. Potencia: Comúnmente disponible en 1/4W, 1/2W, 1W, etc.
+
+4. Código de colores: Amarillo (4) – Violeta (7) – Amarillo (x10⁴) – (Oro o Plata para tolerancia)
+
+5. Material: Puede ser de carbón, película metálica o de óxido metálico.
+
+6. Uso común:
+
+Circuitos electrónicos para limitar corriente. División de voltaje. Filtros y amplificadores en electrónica analógica. Aplicaciones en fuentes de alimentación y sensores.
+
+![Resistencia470k](https://www.electrocomponentes.es/9182-large_default/resistencia-470k-ohm-025w.jpg)
+
+- **Condensador MLCC**
+
+El condensador MLCC (Multilayer Ceramic Capacitor) de 50V es un componente electrónico pasivo diseñado para almacenar y liberar carga eléctrica en circuitos electrónicos. Su estructura multicapa de cerámica le otorga alta estabilidad, baja ESR (resistencia en serie equivalente) y buena tolerancia a altas frecuencias.
+
+Características principales:
+1. Tipo: Condensador cerámico multicapa (MLCC)
+
+2. Tensión nominal: 50V
+
+3. Capacitancia: Varía según el modelo (puede ir desde pF hasta varios µF)
+
+4. Dieléctrico: Material cerámico (clases I y II, como NP0, X7R, X5R, Y5V)
+
+5. Tolerancia: ±1%, ±5%, ±10% (según el tipo y fabricante)
+
+6. Factor de pérdidas (ESR): Muy bajo, ideal para aplicaciones de alta frecuencia
 
 
 
