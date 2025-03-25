@@ -29,15 +29,21 @@
 ## cirtuito LM 555
 " todo esto funciona con magia, cuando sale el humito, se va el humo mágico y no funciona "
 - proporciona retardos de tiempo, como un circuitto integrado flipflop (almacena y cambia el estado de señal digital)
+-  *[datasheet - manual](https://www.ti.com/lit/ds/symlink/ne555.pdf)*
+-  
+
 ![NE555P](https://github.com/user-attachments/assets/36168649-1e76-4465-a9cb-4952b3943334)
 
 
-### condensador o capacitador 474
+### condensador
+almacena votaje 
+
+#### cerámico 474
 *47* = dígito *4* 0s = 470.000 p = 470 n = 0,47 
 
 ![condensador-cerámico-474](https://github.com/user-attachments/assets/b7809dfd-b8f9-41cc-9995-ff0d15c837a7)
 
-### condensador electrolítico
+#### condensador electrolítico
 1 μf
 
 ![condensador-elctrolítico](https://github.com/user-attachments/assets/daaeae61-54a1-44b7-a357-e49719f2bfb7)
