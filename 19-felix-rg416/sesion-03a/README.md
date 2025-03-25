@@ -6,7 +6,6 @@
 - daphne oram
 - eliane radigue - trilogie de la muerte
 
-
 ## circuitos
 
 - VCC = votaje de corriente continua = positivo
