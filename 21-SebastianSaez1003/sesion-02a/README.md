@@ -62,7 +62,49 @@ foto 2 es un circuito distinto, el cual no estoy seguro del nombre
 
 foto 3 es un circuito en serie
 
-# encargo
+# encargo-04 cultura electrónica chilena y latinoamericana
+
+El disco que escuché fue “Sandía” de Pablo Flores, lanzado el 26 de febrero de 2025 con un tracklist de 9 canciones y una duración de 00:24:37 horas/minutos/segundos. 
+La producción de este disco pasó por unos periodos impactantes dentro de la sociedad chilena y mundial, al haber comenzado durante el estallido social, luego la pandemia del covid-19 y finalizando por el genocidio que hasta el día de hoy sigue ocurriendo en Palestina, el cual tiene correlación directa con la portada y título del disco, ya que las sandías han sido conectadas como símbolo a la bandera de Palestina por sus colores compartidos, con imágenes de fondo que son representaciones de lo destruida que ha quedado sobre todo Gaza debido a esta guerra.
+
+En palabras del autor: “Así que “Sandía” no es solo un disco. Es un grito de humanidad en medio del caos, una llamada a no olvidar lo que realmente importa: a cuidar y amar a los unos a los otros, sin importar lo que el mundo nos quiera imponer.
+Este es un trabajo que busca, más que explicar, sentir. No sé qué significa exactamente, pero sé lo que me hace sentir. Y espero que, al escucharlo, ustedes también puedan encontrar una resonancia con el momento que estamos viviendo.”
+
+
+Este álbum me llamó la atención instantáneamente solo por el concepto de que se llame Sandía, ya que tengo 2 amigos que viven en Paine y siempre que veo una sandía, me acuerdo de ellos.
+
+Los sonidos presentes en este disco realmente me transportaron a un ambiente del espacio exterior, me podía imaginar cómo estas canciones podrían ser parte del soundtrack de un videojuego con gráficas retro con un pequeño astronauta de personaje principal.
+En comparación con los 2 anteriores discos que había escuchado las semanas anteriores, estas canciones no me parecieron tan locas como para dejarme disociado. También la duración de cada una de estas y sus cambios de beats ayudaron a que me pudiese concentrar y escuchar cada una de las canciones en su duración completa con pocas distracciones en medio.
+
+Después de leer el contexto detrás de la producción de este disco, solo puedo imaginarme el cómo estas canciones, que en mi opinión eran bastante “felices”, tratan de mostrar, reflejar este sentimiento de esperanza que todas estas personas durante estos momentos impactantes en la historia deben de haber sentido, y siguen sintiendo hoy en día respecto a los terribles hechos que los rodean a diario.
+
+
+Referencias:
+https://pueblonuevo.cl/catalogo/sandia/
+
+
+# encargo-05: estudio de resistores y circuitos en serie y paralelo
+Para las siguientes resistencias, se ocupan los siguientes códigos de color:  
+-1K marrón negro rojo gold para 4 bandas / marrón negro negro marrón marrón para 5 bandas  
+-10k marrón negro naranja gold para 4 bandas / marrón negro negro rojo marrón para 5 bandas  
+-100K marrón negro amarillo gold para 4 bandas / marrón negro negro naranja marrón para 5 bandas  
+
+
+
+
+
+![20250320_234310](https://github.com/user-attachments/assets/25df930f-d2eb-4b48-8477-aba73e51e542)
+
+![20250320_230123](https://github.com/user-attachments/assets/e0e4f77e-d6fd-4445-8fce-e923bff2994f)
+
+Como primer experimento, probé crear un circuito en serie con la misma cantidad de LEDs, pero con una resistencia de 470k vs una de 200k, para poder ver claramente la diferencia de la intensidad de los LEDs solo gracias a la diferencia de resistencia.
+
+
+![20250320_232100](https://github.com/user-attachments/assets/556f9907-e305-47ac-b583-c855ada3df14)
+
+![20250320_232201](https://github.com/user-attachments/assets/be9fd962-3f89-4702-8697-1334a6aca772)
+
+Luego, con esa resistencia de 200k, empecé a probar cuál sería la mejor combinación de LEDs que podría completar mi circuito, en el que aún se prendieron los LEDs de una manera que np parecieran que tuvieran menos energia, llegando al siguiente resultado, al investigar la distinta energía que cada LED consume.
 
 
 
