@@ -4,9 +4,17 @@ martes 25 marzo 2025
 
 ## primera mitad
 
+Prefijos científicos
+
+![prefijos](archivos/prefijos.gif)
+
+
+
 repaso de serie y paralelo
 
-datasheets
+[Datasheet del 555 ](archivos/lm555.pdf) 
+
+
 
 circuitos integrados (IC)
 
@@ -15,6 +23,8 @@ chip 555
 ## segunda mitad
 
 circuito astable con chip 555
+
+Revisar proceso de armado en [miprimer555.md](/miprimer555.md)
 
 calculadora de circuito astable con chip 555
 
