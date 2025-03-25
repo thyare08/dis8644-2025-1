@@ -2,6 +2,8 @@
 
 # ENCARGO 06: ¿Quien es Suzanne Cianni?
 
+![SuzanneCiani](https://proyectoidis.org/wp-content/uploads/2023/03/ciani-main.jpg)
+
 Suzanne Ciani es una compositora, pianista y pionera de la música electrónica y el diseño de sonido. Nació en 1946 en Estados Unidos y es conocida por su trabajo con sintetizadores, especialmente el Buchla, un tipo de sintetizador modular.
 
 Es una de las primeras mujeres en hacerse un nombre en el mundo de la música New Age.[1]​[2]​[3]​[4]​[5]​ Fue la inventora del sonido Coca-Cola, patentado por esta empresa.[6]​[7]​ Entre los reconocimientos a su obra destacan cinco nominaciones a los premios Grammy y un Globo de Oro.
