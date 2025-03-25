@@ -6,7 +6,7 @@
 
 Suzanne Ciani es una compositora, pianista y pionera de la música electrónica y el diseño de sonido. Nació en 1946 en Estados Unidos y es conocida por su trabajo con sintetizadores, especialmente el Buchla, un tipo de sintetizador modular.
 
-Es una de las primeras mujeres en hacerse un nombre en el mundo de la música New Age.[1]​[2]​[3]​[4]​[5]​ Fue la inventora del sonido Coca-Cola, patentado por esta empresa.[6]​[7]​ Entre los reconocimientos a su obra destacan cinco nominaciones a los premios Grammy y un Globo de Oro.
+Es una de las primeras mujeres en hacerse un nombre en el mundo de la música New Age.[1]​[2]​[3]​[4]​[5]​ Fue la inventora del sonido Coca-Cola, patentado por esta empresa. Entre los reconocimientos a su obra destacan cinco nominaciones a los premios Grammy y un Globo de Oro.
 
 Álbumes Clásicos y Canciones Destacadas
 **1. Seven Waves (1982) – Su álbum debut con un sonido ambiental y sintético muy característico.**
@@ -49,6 +49,9 @@ Ciani también es famosa por sus trabajos de diseño de sonido, incluyendo sonid
 ![CocaCola](https://live.staticflickr.com/65535/49424515662_99d5493404_b.jpg)
 
 ![Xenon2](https://i.ytimg.com/vi/v9nD9DQwd80/maxresdefault.jpg)
+
+**AQUI DEJO EL LINK DEL AUDIO DE SUZANNE CIANI:** 
+[Coca Cola Pop & Pour](https://www.youtube.com/shorts/f32oy2is0EY)
 
 
 
