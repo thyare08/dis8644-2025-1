@@ -1,6 +1,5 @@
 # sesion-03a
 
-(19-felix-rg416/sesion-03a/1er-circuito-555.mp4)
 
 - *[suzanne ciani](https://www.youtube.com/watch?v=nJWk7jiASP0)*
 - delia derbyshire
