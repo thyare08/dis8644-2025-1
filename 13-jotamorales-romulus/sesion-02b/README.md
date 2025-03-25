@@ -15,7 +15,7 @@ debiamos realizar este circuito que dio misaa
 
 *recordar usar cables calidos para el positivo y cables oscuros para negativo
 
-ejercicio 
+### ejercicio 
 La siguiente tabla muestra qué LEDs permanecían encendidos al desconectar distintas resistencias en el circuito
 
 |     | D1 | D2 | D3 | D4 |
