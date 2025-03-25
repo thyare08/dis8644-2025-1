@@ -49,3 +49,8 @@ almacena votaje
 ![condensador-elctrolítico](https://github.com/user-attachments/assets/daaeae61-54a1-44b7-a357-e49719f2bfb7)
 
 
+# 1er circuito con 555
+
+
+
+la LED se enciende y se apaga de forma constante 
