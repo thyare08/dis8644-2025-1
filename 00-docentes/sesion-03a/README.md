@@ -20,11 +20,14 @@ calculadora de circuito astable con chip 555
 
 agregar potenciómetro
 
-## encargo06: cultura electrónica alemana
+## encargo06: cultura electrónica europea de los 1980s y 1990s
 
-escuchar un disco de la banda alemana einstürzende neubauten, con énfasis en la investigación en los instrumentos que usan.
+escoger una de estas dos:
 
-## encargo07: digerir e investigar apuntes sobre el chip 555
+* escuchar un disco de la banda alemana einstürzende neubauten, incluyendo investigación en los instrumentos que usan.
+* escuchar un disco de la banda francesa stereolab, incluyendo investigación sobre los sintetizadores y teclados que usan, además de las referencias estílisticas que citan de otras bandas y contextos.
+
+## encargo07: apuntes sobre digerir, reflexión y expansión del chip 555
 
 explicar en palabras, imágenes, video, diagramas, etc, lo que hicimos hoy día con el chip 555, incluyendo el circuito astable 555.
 
