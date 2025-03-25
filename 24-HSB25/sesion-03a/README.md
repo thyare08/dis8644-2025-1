@@ -306,19 +306,19 @@ Características principales:
 
 Un juego de 10 cables de 45 cm con pinzas caimán es un conjunto de cables eléctricos diseñados para facilitar las conexiones temporales en proyectos electrónicos, pruebas de circuitos o trabajos de soldadura. Las pinzas caimán se usan para sujetar de manera segura los cables a los puntos de prueba o componentes, lo que hace que sean muy útiles para aplicaciones de prototipado y diagnóstico.
 
-[Cables](https://www.victronics.cl/wp-content/uploads/2019/02/87-002304.jpg)
+![Cables](https://www.victronics.cl/wp-content/uploads/2019/02/87-002304.jpg)
 
 # **KIT 65 CABLES PARA PROTOBOARD**
 
 El kit de 65 cables para protoboard es un conjunto de cables de diferentes longitudes y colores, diseñados para facilitar las conexiones en protoboards (placas de pruebas) durante el prototipado de circuitos electrónicos. Estos cables son ideales para realizar conexiones rápidas y seguras sin necesidad de soldadura, permitiendo realizar pruebas, ajustes y modificaciones en el diseño de circuitos de manera eficiente.
 
-[KIT65](https://www.victronics.cl/wp-content/uploads/2019/02/85-809000AC.jpg)
+![KIT65](https://www.victronics.cl/wp-content/uploads/2019/02/85-809000AC.jpg)
 
 # **TERMINAL CLIP PARA BATERIAS 9V**
 
 El terminal clip para baterías 9V es un componente utilizado para conectar de manera segura y rápida una batería de 9V a un circuito o dispositivo. Este terminal es muy común en proyectos electrónicos, especialmente cuando se requiere una fuente de energía portátil o para pruebas.
 
-[CLIPBATERIAS](https://www.victronics.cl/wp-content/uploads/2019/02/52-00111.jpg)
+![CLIPBATERIAS](https://www.victronics.cl/wp-content/uploads/2019/02/52-00111.jpg)
 
 # **RESISTENCIA LDR**
 
@@ -339,7 +339,7 @@ En exposición a la luz (especialmente luz visible o infrarroja), la resistencia
 
 5. Material: Fabricado generalmente con materiales fotoconductores como sulfuro de cadmio o selenio.
 
-[LDR](https://www.victronics.cl/wp-content/uploads/2019/02/81-60000.jpg)
+![LDR](https://www.victronics.cl/wp-content/uploads/2019/02/81-60000.jpg)
 
 
 
