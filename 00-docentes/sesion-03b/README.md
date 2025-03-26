@@ -2,10 +2,14 @@
 
 viernes 28 marzo 2025
 
-## aplicaciones circuito timer 555
+## primera mitad
 
-## visita a museo
+aplicaciones circuito timer 555
 
-ida al museo de arte contemporáneo de santiago <https://mac.uchile.cl/>.
+## segunda mitad
+
+salida a terreno
+
+museo de arte contemporáneo de santiago <https://mac.uchile.cl/>.
 
 <https://mac.uchile.cl/exposiciones/sala-interaccion-museo-en-estereo/>
