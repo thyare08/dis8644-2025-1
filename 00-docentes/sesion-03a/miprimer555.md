@@ -108,9 +108,9 @@ Podemos reemplazar el led de salida por un parlante. Para mayor seguridad, se de
 
 Si reemplazamos el potenciómetro por un LDR, la luz que le llegue al LDR determinará la frecuencia de oscilación
 
-![esquematico con sensor LDR](./archivos/esquematico-ldr.pngg)
+![esquematico con sensor LDR](./archivos/esquematico-ldr.png)
 
-![image.png](./archivos/archivos/imagen-13.png)
+![image.png](./archivos/imagen-13.png)
 
 ### 5. Resistencias experimentales (plantas, líquidos, piel, etc)
 
