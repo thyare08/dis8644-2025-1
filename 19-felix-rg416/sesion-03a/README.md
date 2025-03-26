@@ -52,6 +52,8 @@ almacena votaje
 
 # 1er circuito con 555
 
+![circuito-NE555](https://github.com/user-attachments/assets/19042858-de64-4df2-abb7-867a24c81020)
+
 *revisar muy bien el valor de los componentes*
 
 *revisar muy bien las conexiones*
