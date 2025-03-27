@@ -59,7 +59,7 @@ almacena votaje
 
 *revisar muy bien el valor de los componentes*
 
-*revisar muy bien las conexiones*
+*revisar muy bien las conexiones* 
 
 
 ![1er-circuito-555](https://github.com/user-attachments/assets/8b943581-2b52-4f1a-b3b9-642dfcc00c2a)
@@ -79,4 +79,19 @@ con 10 μF es más rápido que con 100 μF, con 1 μF parpadea tan rápido que s
 | Condensador cerámico      | 470nF (474)  | 2            |
 | Condensador electrolítico | 10uF         | 2            |
 
-con el potenciómetro se puede controlar la velocidad de parapdeo,  
+con el potenciómetro se puede controlar la velocidad de parapdeo
+
+## encargo06
+
+#### einstrürzende neubauten
+
+grupo musical formado en Berlín, 1980. se podría clasificar usualmente como industrial o electrónica, pero esos estilos no llegan a describir su sonido. usan instrumentos y sonidos que ellos mismos fabricaron, acompañados de instrumentos tradicionales como guitarra, bajo y sintetizadores. pertenecieron al movimiento dadaísta Die Geniale Dilletanten, que tenía el objetivo de revolucionar lo musical usando sierras, palas, taladros y otras herramientas de construcción como instrumentos musicales. 
+
+Escuché el álbum "silence is sexy". la canción, con el mismo nombre, me incomodó mucho, sentía que tenía que escuchar algo que no había, me generó una sensación muy extraña, casi desagradable, 
+
+#### stereolab
+
+grupo británico de rock formado en Londres en 1990. su estilo combina la música lounge e easy-listening de los años 50 y 60 con influencias del krautrock y el pop de los años 60, entre otros. se les aplicó la etiqueta "post-rock". usan antiguos instrumentos de teclado analógicos tales como sintetizadores Moog y órganos eléctricos Farfisa y Vox.
+se inspiran en el género krautrock, como las bandas Can, Kraftwerk y Neu!; el pop de los 60; el rock experimental como Syd Barrett y The Velvet Underground. 
+
+Me pareció agradable su música, guardé varias en mi playlist, 
