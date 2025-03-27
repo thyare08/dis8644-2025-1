@@ -79,34 +79,36 @@ Foto de mi bitácora
 **Parte 4:** Encargo 07.
 - Ejercicio con chip 555 en clases.
 
-Circuito a realizar.
+**Circuito esquematico a realizar**
 
 ![esquematico-astable](https://github.com/user-attachments/assets/f962d256-14e8-4536-8015-732d4ed8edd1)
 
 Es un circuito esquematico astable, esto quiere decir, que es un circuito electrónico que no tiene un estado estable, sino que alterna entre dos estados inestables. En cada estado permanece un tiempo determinado.
 
-Foto de mi bitácora: _Bill of materials_
+**Foto de mi bitácora:** _Bill of materials_
 
 ![IMG_8568](https://github.com/user-attachments/assets/0759de1b-60b6-48df-914a-fb18863f9100)
 
-Resultado del circuito
+**Resultado del circuito**
 
 ![IMG_8552](https://github.com/user-attachments/assets/838e2a88-e791-4e15-9055-051dcdeee706)
 
-Video
+**Video**
 
 https://github.com/user-attachments/assets/84a7cd49-4066-4ddd-b7a8-5679c94bc09d
 
-Circuito esquematico con potenciometro.
+**Observación:** Cuando se activa un circuito con un chip 555, este produce pulsos de temporización o oscilaciones eléctricas, es decir, que el diodo LED enciende y se apaga en una misma frecuencia.
+
+**Circuito esquematico con potenciometro**
 
 ![imagen-10](https://github.com/user-attachments/assets/14dd0bed-7bf6-47d1-8bab-12f1bc6e510b)
 
-Resultado del circuito
+**Resultado del circuito**
 
 ![IMG_8553](https://github.com/user-attachments/assets/67a3acf5-c759-4d13-bc9c-56cf74bae49f)
 
-Video
+**Video**
 
 https://github.com/user-attachments/assets/74888089-93e1-4065-8e4d-90378e56a652
 
-Lo que sucede cuando se le agrega un potenciómetro a un circuito con chip 555, es que puede variar la resistencia del circuito y, por lo tanto, la cantidad de corriente que fluye, es decir, uno puede controlar la velocidad de conmutación del LED de forma alternada. 
+**Observación:** Lo que sucede cuando se le agrega un potenciómetro a un circuito con chip 555, es que puede variar la resistencia del circuito y, por lo tanto, la cantidad de corriente que fluye, es decir, uno puede controlar la velocidad de cambio del LED de forma alternada. 
