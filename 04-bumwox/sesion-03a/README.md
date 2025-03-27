@@ -67,8 +67,8 @@ tracklist (spotify ver)
 
 ## 07. chip 555
 
-https://github.com/user-attachments/assets/f20494b1-69b5-48c3-a2a7-8db3b0601570
+es un circuito integrado (chip) que se utiliza en la generación de temporizadores, pulsos y oscilaciones. el 555 puede ser utilizado para proporcionar retardos de tiempo, como un oscilador, y como un circuito integrado flip flop. Sus derivados proporcionan hasta cuatro circuitos de sincronización en un solo paquete
 
-https://github.com/disenoUDP/dis8644-2025-1/raw/main/00-docentes/sesion-03a/archivos/imagen-09.png
+https://github.com/user-attachments/assets/f20494b1-69b5-48c3-a2a7-8db3b0601570
 
 explicar en palabras, imágenes, video, diagramas, etc, lo que hicimos hoy día con el chip 555, incluyendo el circuito astable 555.
