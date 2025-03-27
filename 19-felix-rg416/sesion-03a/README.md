@@ -54,6 +54,8 @@ almacena votaje
 
 ![circuito-NE555](https://github.com/user-attachments/assets/19042858-de64-4df2-abb7-867a24c81020)
 
+## ATENTO A DONDE PONES LOS CANLES
+
 *revisar muy bien el valor de los componentes*
 
 *revisar muy bien las conexiones*
@@ -61,5 +63,20 @@ almacena votaje
 
 ![1er-circuito-555](https://github.com/user-attachments/assets/8b943581-2b52-4f1a-b3b9-642dfcc00c2a)
 
-
 el LED se enciende y se apaga de forma constante 
+
+| **TIPO**                  | **VALOR**    | **CANTIDAD** |
+| ------------------------- | -----------  | ------------ |
+| Circuito integrado        | NE555        | 1            |
+| Protoboard                |              | 1            |
+| LED                       | 5mm rojo     | 1            |
+| Resistencia               | 10k 1/4w     | 2            |
+| Resistencia               | 1k 1/4w      | 2            |
+| Fotoresistencia           | LDR          | 1            |
+| Potenciómetro             | 100k o 500k  | 1            |
+| Condensador cerámico      | 470nF (474)  | 2            |
+| Condensador electrolítico | 10uF         | 2            |
+| Cables                    | Dupont (M-M) | 15           |
+| Cables                    | Caimanes     | 4            |
+| Parlante                  | 8ohm 0.5W    | 1            |
+
