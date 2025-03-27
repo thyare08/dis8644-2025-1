@@ -19,3 +19,12 @@ para medir la cantidad de farats, primeros 2 digitos se quedan tal cual y el ult
 calculadoras para configuraciones astables
 
 astable: no estable
+
+
+## 06. einstürzende neubauten
+
+escuchar un disco de la banda alemana einstürzende neubauten, incluyendo investigación en los instrumentos que usan.
+
+## 07. chip 555
+
+explicar en palabras, imágenes, video, diagramas, etc, lo que hicimos hoy día con el chip 555, incluyendo el circuito astable 555.
