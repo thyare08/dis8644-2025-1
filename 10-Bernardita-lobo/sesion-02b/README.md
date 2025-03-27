@@ -12,4 +12,7 @@
 ### loquito x ti loco loco
 - circuitos y testeo extracción de resistencias
 
+![foto15](https://github.com/user-attachments/assets/8f3674e5-b2c6-4e5b-ab03-a6c3cc732487)
+
 ### suzane cianni
+![foto13](https://github.com/user-attachments/assets/42d93c8f-c0b3-42e3-a467-ebe2efd54717)
