@@ -109,4 +109,4 @@ Video
 
 https://github.com/user-attachments/assets/74888089-93e1-4065-8e4d-90378e56a652
 
-
+Lo que sucede cuando se le agrega un potenciómetro a un circuito con chip 555, es que puede variar la resistencia del circuito y, por lo tanto, la cantidad de corriente que fluye, es decir, uno puede controlar la velocidad de conmutación del LED de forma alternada. 
