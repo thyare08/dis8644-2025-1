@@ -27,7 +27,7 @@ es una banda musical originada en Berlín en 1980; u música se clasifica usualm
 
 una de las características principales de einstürzende neubauten es el uso de instrumentos y sonidos que ellos mismos fabricaron, acompañados de instrumentos tradicionales como guitarra, bajo y sintetizadores. 
 
-la banda perteneció al movimiento dadaísta _"die geniale dilletanten"_, que tenía el objetivo de revolucionar la escena musical usando sierras, palas, taladros y demás herramientas de la construcción como instrumentos musicales.
+la banda perteneció al movimiento dadaísta [_"die geniale dilletanten"_](https://www.makma.net/subcultura-alemana-de-los-80/), que tenía el objetivo de revolucionar la escena musical usando sierras, palas, taladros y demás herramientas de la construcción como instrumentos musicales.
 
 ### Haus der Lüge
 
