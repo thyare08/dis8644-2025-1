@@ -2,9 +2,10 @@
 
 Clase 5: Martes 25 de Marzo del 2025.
 
-- **Parte 1:** Apuntes en clases y ejercicio practico con **chip 555**.
+- **Parte 1:** Apuntes en clases.
 - **Parte 2:** Investigar historia de **"chip 555"**.
-- **Parte 3:** Encargo 06 y 07.
+- **Parte 3:** Encargo 06.
+- **Parte 4:** Encargo 07.
 
 **Apuntes**
 
@@ -15,14 +16,6 @@ Foto de mi bitácora
 Foto de mi bitácora
 
 ![IMG_8567](https://github.com/user-attachments/assets/fcc0a78f-661e-4b09-a5eb-3e15e0056ea9)
-
-Ejercicio practico
-
-![IMG_8552](https://github.com/user-attachments/assets/838e2a88-e791-4e15-9055-051dcdeee706)
-
-Foto de mi bitácora: _Bill of materials_
-
-![IMG_8568](https://github.com/user-attachments/assets/0759de1b-60b6-48df-914a-fb18863f9100)
 
 **Parte 2** Investigar la historia del chip 555:
 
@@ -59,3 +52,49 @@ Foto de mi bitácora: _Bill of materials_
 **Aplicaciones**
 
 ![chip 555](https://github.com/user-attachments/assets/f9ec60a6-ff7f-467d-b34f-04e71dfa56e2)
+
+**Parte 3:** Encargo 06.
+- escuchar disco de banda alemana **Einstürzende Neubauten** e investigar intrumentos utilizados en sus canciones.
+- escuchar banda francesa **Stereolab** e investigar sobre los sintetizadores y teclados que utilizan, adémas de las referencias esteticas que citan de otras bandas y contexto.
+
+**Einstürzende Neubauten**
+
+Foto de mi bitácora
+
+**Stereolab**
+
+Foto de mi bitácora
+
+**Parte 4:** Encargo 07.
+- Ejercicio con chip 555 en clases.
+
+Circuito a realizar.
+
+![esquematico-astable](https://github.com/user-attachments/assets/f962d256-14e8-4536-8015-732d4ed8edd1)
+
+Es un circuito esquematico astable, esto quiere decir, que es un circuito electrónico que no tiene un estado estable, sino que alterna entre dos estados inestables. En cada estado permanece un tiempo determinado.
+
+Foto de mi bitácora: _Bill of materials_
+
+![IMG_8568](https://github.com/user-attachments/assets/0759de1b-60b6-48df-914a-fb18863f9100)
+
+Resultado del circuito
+
+![IMG_8552](https://github.com/user-attachments/assets/838e2a88-e791-4e15-9055-051dcdeee706)
+
+Video
+
+https://github.com/user-attachments/assets/84a7cd49-4066-4ddd-b7a8-5679c94bc09d
+
+Circuito esquematico con potenciometro.
+
+![IMG_8553](https://github.com/user-attachments/assets/67a3acf5-c759-4d13-bc9c-56cf74bae49f)
+
+Resultado del circuito
+
+![IMG_8553](https://github.com/user-attachments/assets/67a3acf5-c759-4d13-bc9c-56cf74bae49f)
+
+Video
+
+https://github.com/user-attachments/assets/74888089-93e1-4065-8e4d-90378e56a652
+
