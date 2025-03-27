@@ -67,4 +67,7 @@ tracklist (spotify ver)
 
 ## 07. chip 555
 
+https://github.com/user-attachments/assets/f20494b1-69b5-48c3-a2a7-8db3b0601570
+
+
 explicar en palabras, imágenes, video, diagramas, etc, lo que hicimos hoy día con el chip 555, incluyendo el circuito astable 555.
