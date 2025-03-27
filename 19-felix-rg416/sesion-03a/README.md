@@ -1,6 +1,7 @@
 # sesion-03a
 
 
+
 - *[suzanne ciani](https://www.youtube.com/watch?v=nJWk7jiASP0)*
 - delia derbyshire
 - sisters with transistors - documental
