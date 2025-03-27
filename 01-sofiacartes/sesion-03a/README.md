@@ -53,6 +53,7 @@ Grupo musical alemán ha sido pionero en el movimiento de la música industrial 
 Su nombre es traducido como Edificios en ruinas, se formó en Berlín en 1980. El grupo está compuesto por Blixa Bargeld, N.U. Unruh, Alexander Hacke, Jochen Arbeit y Rudolf Moser. La banda comenzó como un proyecto artístico.
 
 <img width="699" alt="aa" src="https://github.com/user-attachments/assets/6eb2cf64-b40e-4df1-ae1b-58f337b243d0" /> 
+
 _imágen de: <https://www.soundonsound.com/techniques/einsturzende-neubauten>_
 
 El estilo musical de la banda es industrial, post-industrial, experimental, avant-garde y noise, ***utilizan martillos, clavos y objetos metálicos para crear sonidos***
