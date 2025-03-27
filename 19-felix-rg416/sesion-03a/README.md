@@ -1,5 +1,6 @@
 # sesion-03a
 
+
 - *[suzanne ciani](https://www.youtube.com/watch?v=nJWk7jiASP0)*
 - delia derbyshire
 - sisters with transistors - documental
@@ -63,20 +64,19 @@ almacena votaje
 
 ![1er-circuito-555](https://github.com/user-attachments/assets/8b943581-2b52-4f1a-b3b9-642dfcc00c2a)
 
-el LED se enciende y se apaga de forma constante 
+el LED se enciende y se apaga de forma constante. dependiendo del condensador, el tiempo de parpadeo aumenta o disminuye
+
+con 10 μF es más rápido que con 100 μF, con 1 μF parpadea tan rápido que sólo se ve encendida
 
 | **TIPO**                  | **VALOR**    | **CANTIDAD** |
 | ------------------------- | -----------  | ------------ |
 | Circuito integrado        | NE555        | 1            |
 | Protoboard                |              | 1            |
-| LED                       | 5mm rojo     | 1            |
-| Resistencia               | 10k 1/4w     | 2            |
-| Resistencia               | 1k 1/4w      | 2            |
-| Fotoresistencia           | LDR          | 1            |
-| Potenciómetro             | 100k o 500k  | 1            |
+| LED                       | rojo         | 1            |
+| Resistencia               | 10k          | 2            |
+| Resistencia               | 1k           | 2            |
+| Potenciómetro             | B500k        | 1            |
 | Condensador cerámico      | 470nF (474)  | 2            |
 | Condensador electrolítico | 10uF         | 2            |
-| Cables                    | Dupont (M-M) | 15           |
-| Cables                    | Caimanes     | 4            |
-| Parlante                  | 8ohm 0.5W    | 1            |
 
+con el potenciómetro se puede controlar la velocidad de parapdeo,  
