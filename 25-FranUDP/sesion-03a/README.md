@@ -4,11 +4,15 @@
 >
 > ### Voltaje y resistencia en tipos de circuitos
 >
+>
 > ### Prefijos notación científica
 >
-> ### Capacitores/Condensadores
 >
-> ### 555 Timer
+> ### [Capacitores/Condensadores](https://youtu.be/X4EUwTwZ110?si=W06CjwpOs9OW3rEu)
+>
+>
+> ### [555 Timer](https://youtu.be/fLaexx-NMj8?si=-22qzLNU37zI5imM)
+>
 >
 >> #### Circuito astable
 -----------------------------------------------------------------------------------------------------------
