@@ -69,5 +69,6 @@ tracklist (spotify ver)
 
 https://github.com/user-attachments/assets/f20494b1-69b5-48c3-a2a7-8db3b0601570
 
+https://github.com/disenoUDP/dis8644-2025-1/raw/main/00-docentes/sesion-03a/archivos/imagen-09.png
 
 explicar en palabras, imágenes, video, diagramas, etc, lo que hicimos hoy día con el chip 555, incluyendo el circuito astable 555.
