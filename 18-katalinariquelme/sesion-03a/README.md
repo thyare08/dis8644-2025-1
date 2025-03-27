@@ -88,7 +88,7 @@ https://github.com/user-attachments/assets/84a7cd49-4066-4ddd-b7a8-5679c94bc09d
 
 Circuito esquematico con potenciometro.
 
-![IMG_8553](https://github.com/user-attachments/assets/67a3acf5-c759-4d13-bc9c-56cf74bae49f)
+![imagen-10](https://github.com/user-attachments/assets/14dd0bed-7bf6-47d1-8bab-12f1bc6e510b)
 
 Resultado del circuito
 
@@ -97,4 +97,5 @@ Resultado del circuito
 Video
 
 https://github.com/user-attachments/assets/74888089-93e1-4065-8e4d-90378e56a652
+
 
