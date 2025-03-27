@@ -23,8 +23,26 @@
 >
 >
 > ### [Capacitores<sub>1</sub>/](https://youtu.be/X4EUwTwZ110?si=W06CjwpOs9OW3rEu)[Condensadores<sub>2</sub>](https://www.youtube.com/watch?v=rbCXKhhzBN0)
-> Similares a una bateria en que atrapan y liberan electrones (carga/corriente), pero difieren en que estos se cargan mucho más rapidamente y tienen una capacidad muchisimo más limitada. <br/>
-> Se suelen utilizar para estabilizar señales (pulsación como metralleta -> pulsación estable, al evitar un on-off de golpe al descargarse el capacitor)
+><img align="left" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-03a/CapacitorChargeDischarge.gif" width=500>
+> <br/>
+> &nbsp;&nbsp;&nbsp;Similares a una bateria en que atrapan y liberan electrones
+> &nbsp;&nbsp;&nbsp;(carga/corriente), pero difieren en que estos se cargan mucho
+> &nbsp;&nbsp;&nbsp;más rapidamente y tienen una capacidad muchisimo más
+> &nbsp;&nbsp;&nbsp;limitada. <br/>
+> &nbsp;&nbsp;&nbsp;Se suelen utilizar para estabilizar señales (pulsación como
+> &nbsp;&nbsp;&nbsp;metralleta -> pulsación estable, al evitar un on-off de golpe al
+> &nbsp;&nbsp;&nbsp;descargarse el capacitor)
+> 
+> <br/>
+> <br/>
+> <br/>
+> <br/>
+> <br/>
+> <br/>
+> <br/>
+> <br/>
+> <br/>
+> <br/>
 >
 > ### [555 Timer](https://youtu.be/fLaexx-NMj8?si=-22qzLNU37zI5imM)
 >
