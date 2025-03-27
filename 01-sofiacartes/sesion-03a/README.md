@@ -44,4 +44,21 @@ Descarga **DIS o DISCH:** Permite descargar el condensador externo al circuito i
 
  _información de: <https://www.areatecnologia.com/electronica/circuito-integrado-555.html> <https://www.330ohms.com/blogs/blog/que-es-el-circuito-integrado-555?srsltid=AfmBOopvba65AJOLFOc9oJPC7cs7yi6Nfiz5dXYf4YRss-Ne0m_mtXn9>_ 
 
- 
+## Einstürzende Neubauten - disco: Grundstueck
+
+<img width="604" alt="bbb" src="https://github.com/user-attachments/assets/5474eaeb-8925-46b1-9fbd-19545c46edde" />
+
+Grupo musical alemán ha sido pionero en el movimiento de la música industrial y experimental en los años 80. 
+
+Su nombre es traducido como Edificios en ruinas, se formó en Berlín en 1980. El grupo está compuesto por Blixa Bargeld, N.U. Unruh, Alexander Hacke, Jochen Arbeit y Rudolf Moser. La banda comenzó como un proyecto artístico.
+
+<img width="699" alt="aa" src="https://github.com/user-attachments/assets/6eb2cf64-b40e-4df1-ae1b-58f337b243d0" /> 
+_imágen de: <https://www.soundonsound.com/techniques/einsturzende-neubauten>_
+
+El estilo musical de la banda es industrial, post-industrial, experimental, avant-garde y noise, ***utilizan martillos, clavos y objetos metálicos para crear sonidos***
+
+en el siguiente video,de la canción #Grundstueck: GS 1, 2" están en un show en vivo y se pueden apreciar sus instrumentos 
+
+<https://youtu.be/LhRDzQiEZ7g?si=W_gCwbqubFi8mutV>
+
+me pareció bastante interesante una forma distinta de tocar música que no se ve habitualmente y el disco me pareció bastante bueno.
