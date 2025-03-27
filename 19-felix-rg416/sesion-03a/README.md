@@ -75,17 +75,41 @@ almacena votaje
 
 **los condensadores electrolíticos TIENEN polaridad. si no se ponen correctamente EXPLOTAN**
 
-![1er-circuito-555](https://github.com/user-attachments/assets/8b943581-2b52-4f1a-b3b9-642dfcc00c2a)
+![esquematico-astable](https://github.com/user-attachments/assets/9915a34c-306b-4363-936a-51acff133bbf)
 
 el LED se enciende y se apaga de forma constante. dependiendo del condensador, el tiempo de parpadeo aumenta o disminuye
 
 con 10 μF es más rápido que con 100 μF, con 1 μF parpadea tan rápido que sólo se ve encendida
 
+#### 1 μF 
 
-con el potenciómetro se puede controlar la velocidad de parapdeo
+![1-μF](https://github.com/user-attachments/assets/b793c57b-d10a-4fbe-a953-ae4d2ad2dd86)
 
 
-## encargo06
+
+#### 10 μF
+
+![10-μF](https://github.com/user-attachments/assets/37cdd5ce-b262-46ef-ab50-2fa5d64a6e7b)
+
+
+
+#### 100 μF
+
+![100-μF](https://github.com/user-attachments/assets/1f0502be-6ae8-4c8b-9748-f4bf6cfde64d)
+
+
+#### potenciómetro B500k
+
+![circuito-NE555-potenciómetro](https://github.com/user-attachments/assets/b37bf651-ef32-4644-bef2-e30bdc1710c2)
+
+
+![potenciómetro-B500k](https://github.com/user-attachments/assets/4ed2ae96-c859-45b2-8f83-fbd20cbd15ff)
+
+condensador electrolítico 1 μF + con el potenciómetro se puede controlar la velocidad de parapdeo
+
+
+
+## encargo-06
 
 #### einstrürzende neubauten
 
