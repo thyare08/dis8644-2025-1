@@ -36,7 +36,7 @@ circuito eléctrico: trayectoria cerrada que recorre una corriente eléctrica. E
 - Los componentes están conectados de modo que las cargas eléctricas circulan por un solo trayecto
 - La corriente eléctrica es la misma en cada componente
 - Si conectamos varias ampolletas en serie, estamos aumentando la resistencia, por lo que como resultado disminuye la intensidad de luz en cada ampolleta y ésta baja notoriamente.
-- Una desventaja es que si se corta el paso de corriente en cualquier punto del circuito, cesa la conducción, lo que provocaría que todas ampolletas se apaguen." <sacado de https://www.wited.com/los-circuitos-electricos/>
+- Una desventaja es que si se corta el paso de corriente en cualquier punto del circuito, cesa la conducción, lo que provocaría que todas ampolletas se apaguen." sacado de https://www.wited.com/los-circuitos-electricos/
 
 ![2a Clase F2](https://github.com/user-attachments/assets/4dcad165-10ef-4c45-ae77-e4653a023151)
 
