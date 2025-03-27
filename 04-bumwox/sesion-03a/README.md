@@ -23,9 +23,35 @@ astable: no estable
 
 ## 06. [einstürzende neubauten](https://es.wikipedia.org/wiki/Einstürzende_Neubauten)
 
-haus der Lüge
+es una banda musical originada en Berlín en 1980; u música se clasifica usualmente como industrial o electrónica, pero estos términos no pueden realmente describir el sonido de la banda
+
+una de las características principales de einstürzende neubauten es el uso de instrumentos y sonidos que ellos mismos fabricaron, acompañados de instrumentos tradicionales como guitarra, bajo y sintetizadores. 
+
+la banda perteneció al movimiento dadaísta _"die geniale dilletanten"_, que tenía el objetivo de revolucionar la escena musical usando sierras, palas, taladros y demás herramientas de la construcción como instrumentos musicales.
+
+### Haus der Lüge
 
 ![image](https://github.com/user-attachments/assets/8734040c-5159-4922-bbc8-a30524da3797)
+
+lanzado el 4 de septiembre de 1989 explora el genero de musica rock-industrial y electronica- industrial 
+
+lleva el humor industrial a nuevas cimas creativas, llevando un género musical destinado únicamente a ofender y confundir. la música es sorprendentemente trágica, extrañamente conmovedora, y es una experiencia que solo puede calificarse de "artística".
+
+un album bastante tsco de escuchar, emepezar con _"prolog"_ fue una apuesta interesante ya que de primera dije "que raro" y pense que todo el album seria asi de tenso, pero mezcla varios ritmos y frecuencias de sonido que hace que la obra entera sea amena de escuchar hasta cierto punto
+
+en cuento a los instrumentos utilizados por la banda no encontre mayor resgistro de que tuvieran nombres exactos mas alla de haber sido fabrixcados por ellos mismos, por lo que me puse a ver videos en vivo de la banda
+
+[Einsturzende Neubauten - Haus Der Luge/Epilog (Live 1990)](https://youtu.be/0Ve5ceF_BiI?si=zj5PhG0p7hyMEyAa)
+
+https://github.com/user-attachments/assets/ed39969a-602b-44c2-a28e-15178ca2b488
+
+https://github.com/user-attachments/assets/4a6abf6c-e512-43a6-92f5-b3d5099390fc
+
+en su mayoria la medolia y ritmos son marcados tanto or la voz como guitarras, pero ademas de eso lo que genera el ambiente industrial de la banda son las artesanias que crearon fusionando materiales en su mayoria metalicos
+
+como se ve en los videos un bombo de bateria fusionado con alambres y otro materiales que no pude identificar, tambien una perscusion hecha con un bowl de metal, los cuales marcaban el ritmo y el mas bkn de todos el carrito de supermercado
+
+en resumen este album fue un sorpresa para mi, sin duda lo escucharia de nuevo
 
 tracklist (spotify ver)
 1. Prolog
