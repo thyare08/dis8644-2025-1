@@ -80,6 +80,8 @@ Una protoboard por dentro
 
 ### Circuito final
 
+Este circuito lo podemos llamar "lugar seguro", ya que tiene un comportamiento predecible: parpadear a una frecuencia fija. Ahora podremos hacerle algunas variaciones.
+
 ![image.png](./archivos/imagen-09.png)
 
 ## Modificaciones
@@ -92,13 +94,13 @@ Reemplacemos R2 por un potenciómetro, en las patas 1 y 2 de éste. ¿Qué pasa 
 
 ![image.png](./archivos/imagen-11.png)
 
-### 1. ¿Parpadea DEMASIADO lento?
+### ¿Parpadea DEMASIADO lento?
 
-Reemplacemos el valor de por un potenciómetro, en las patas 1 y 2 de éste. ¿Qué pasa con el LED cuando giro la perilla?
+Cambiemos el valor del condensador (C2) que va entre la pata 2 del 555 y GND. Si usaste uno de 100uF o de 10uF, prueba ahora uno de 1uF
 
 ### 3. Incluir un parlante
 
-Podemos reemplazar el led de salida por un parlante. Para mayor seguridad, se debe ubicar un condensador entre la pata 3 y el parlante (100uF o más)
+Podemos reemplazar el led de salida por un parlante. Para mayor seguridad, se debe ubicar un condensador entre la pata 3 y el parlante (100uF o más), como muestra la siguiente figura
 
 ![esquematico-parlante](./archivos/esquematico-parlante.png)
 
