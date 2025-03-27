@@ -53,6 +53,17 @@ Foto de mi bitácora
 
 ![chip 555](https://github.com/user-attachments/assets/f9ec60a6-ff7f-467d-b34f-04e71dfa56e2)
 
+Los pines del 555 tienen las funciones siguientes:
+
+- Pin 1: GND. Masa.
+- Pin 2: Trigger. Si se produce un pulso a 1/3 de la tensión +V o menos, se genera el disparo.
+- Pin 3: Output. Salida de onda cuadrada.
+- Pin 4: Reset. En estado bajo (0V) se anula la tensión de salida. Para evitar falsos resets se conecta este pin a +V.
+- Pin 5: Control Voltage. Puede hacer modular la salida del 555 aplicando tensión o señal en este pin. Cuando no se usa conviene conectarlo a masa a través de un condensador de 10 o 100nF.
+- Pin 6: Threshold. Entrada de un comparador interno responsable del estado del flip flop.
+  Pin 7: Discharge. Permite descargar el condensador asociado, pasando la salida de estado alto a bajo cuando la tensión de este pin alcanza 2/3 de +V.
+- Pin 8: +V. Tensión de alimentación, según la hoja de características, entre 4,5V y 16V.
+
 **Parte 3:** Encargo 06.
 - escuchar disco de banda alemana **Einstürzende Neubauten** e investigar intrumentos utilizados en sus canciones.
 - escuchar banda francesa **Stereolab** e investigar sobre los sintetizadores y teclados que utilizan, adémas de las referencias esteticas que citan de otras bandas y contexto.
