@@ -12,6 +12,8 @@
 
 Oceans Reimagined - artistas varios y ethernet orchestra
 
+![image](https://github.com/user-attachments/assets/b345ed3c-1dcd-4bca-965c-17b82fb76458)
+
 fue un agrado escuchar este album, principalmente que es muy interesante la combinacion de sonidos, saturaciones y la baja / alta de ritmos dentro de una sola cancion
 
 que sea de variados artistas es increible ya que al ser un trabajo colectivo entre tantas personas se logro una obra uniforme y consecuente entre si
