@@ -3,7 +3,10 @@
 ## Apuntes
 >
 > ### Voltaje y resistencia en tipos de circuitos
-> Vcc = Voltaje Corriente Continua (positivo)
+> Vcc = Voltaje Corriente Continua (el positivo) <br/>
+> * Resistencia en serie = **R<sub>Total</sub>** = R<sub>1</sub> + R<sub>2</sub> + R<sub>2</sub> + R<sub>4</sub> <br/>
+> * [Resistencias en paralelo](https://youtu.be/5uyJezQNSHw?si=-xhBxAEVZoKuAEOg&t=576) = 1/**R<sub>T</sub>** = 1/R<sub>1</sub> + 1/R<sub>2</sub> + 1/R<sub>2</sub> + 1/R<sub>4</sub>
+>> 1k + 1k = 500 ohm (por eso al conectar una segunda resistencia en paralelo, el LED brilla más) 
 >
 > ### Prefijos notación científica
 > <img align="left" src="https://th.bing.com/th/id/R.a8057d46a9fe796121af98f1a3dd02f3?rik=AAD%2fVV2eYzustQ&riu=http%3a%2f%2ftutordelectronica.weebly.com%2fuploads%2f2%2f4%2f4%2f1%2f24418880%2f239438.jpg%3f623&ehk=s40UHD9u%2ffetT%2bD8Yr1tyAEp6rkjAxeDieXO5BjA7ys%3d&risl=&pid=ImgRaw&r=0" width=400>
@@ -55,7 +58,25 @@
 >> <p align="center"> :warning: <strong>Si se conectan al revés hay una alta probabilidad que exploten</strong> :warning: </p>
 >
 > ### [555 Timer](https://youtu.be/fLaexx-NMj8?si=-22qzLNU37zI5imM)
-> Es una IC (Integrated Circuit) 
+> Es una IC (Integrated Circuit), es decir, un circuito que alguien ya diseñó y que solo tenemos que conectarlo y usarlo. <br/>
+> En el caso del NE555, este es una IC que se emplea para producir *time delays* y oscilaciones precisas. <br/>
+> <br/>
+> El 555 puede operar en los siguientes modos: <br/>
+> * ${\color{white}Bistable}$: We can make it output 0 or 1 <br/>
+> * ${\color{white}Monostable}$: We can make it output 0 or 1, but it will return to it's set default state (auto-reset) <br/>
+> * ${\color{white}Astable}$: It will oscillate between 0 and 1 <br/>
+> ### Pinout and datasheet <br/>
+> <img align="left" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-03a/555Pinout.jpg" width=400> [NE555 datasheet](https://github.com/disenoUDP/dis8644-2025-1/blob/main/00-docentes/sesion-03a/archivos/lm555-datasheet.pdf)
+>
+> <br/>
+> <br/>
+> <br/>
+> <br/>
+> <br/>
+> <br/>
+> <br/>
+> <br/>
+> <br/>
 >
 >> #### Circuito astable
 -----------------------------------------------------------------------------------------------------------
