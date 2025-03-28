@@ -19,7 +19,7 @@ El album se siente como un choque sonoro. En "Steh auf Berlin", por ejemplo, los
 
 ![image](https://github.com/user-attachments/assets/68d18162-5932-476d-be10-738383380c31)
 
-Algunos de los instrumentos poco convencionales utilizados fueron Taladros, laminas de metal o mejor dicho chatarra metalica; tambien no se si es imaginacion mia pero en algunos temas logro escuchar un resorte o un alambre tensado.
+Algunos de los instrumentos poco convencionales utilizados fueron taladros, laminas de metal o mejor dicho chatarra metalica; tambien no se si es imaginacion mia pero en algunos temas logro escuchar un resorte o un alambre tensado.
 Me deja loco lo poco comun que es esta banda, estar acostumbrado a escuchar diversos instrumentos y ver como una banda te hace buscarle el sentido a sonidos que provienen de cosas tan cotidianas, mezclandolo en un caos.
 
 
