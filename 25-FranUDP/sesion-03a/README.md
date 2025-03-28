@@ -72,7 +72,11 @@
 >> <img align="left" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-03a/555Circuit1D.jpg" width=420> <img src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-03a/555Circuit1.jpg" width=420> <br/>
 >> Armamos un circuito que prende y apaga un LED continuamente. <br/>
 >> <br/>
->> <img align="left" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-03a/555Circuit1a.jpg" width=420> 
+>> <img align="left" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-03a/555Circuit1a.jpg" width=420> <br/>
+>> <br/>
+>> <br/>
+>> <br/>
+>> Cambiando el valor del capacitor C<sub>1</sub> (conectado al pin 2) y resistencia R<sub>2</sub> aprendimos que mientras menor su capacitancia y menor su resistencia, mayor es la frecuencia de la oscilación.
 >> <br/>
 >> <br/>
 >> <br/>
@@ -80,12 +84,7 @@
 >> <br/>
 >> <br/>
 >> <br/>
->> <br/>
->> <br/>
->> <br/>
->> <br/>
->> <br/>
->> <br/>
+>
 -----------------------------------------------------------------------------------------------------------
 ## Encargo 06
 ### Einstürzende Neubauten
