@@ -97,7 +97,7 @@ El chip NE555P, fabricado por Texas Instruments y creado en el año 1971, es asi
 
 El 555 es un dispositivo altamente estable para generar oscilaciones o demoras de tiempo precisas. Si se necesita, hay terminales adicionales para el activamiento o el reinicio. En el modo de funcionamiento de retraso temporal, el tiempo se controla con precisión mediante una resistencia y un condensador externos. 
 
-Las funciones que tiene cada pata son las siguientes:
+### Las funciones que tiene cada pata son las siguientes:
 1.Ground: Conectado directamente a negativo  
 2.Trigger: permite que se active o no se active la señal de la pata  
 3.Output: A partir de esta pata se recoge la señal emitida por el chip.  
@@ -107,7 +107,7 @@ Las funciones que tiene cada pata son las siguientes:
 7.Discharge: Cambia la salida de alta a baja cuando la tensión alcanza 2/3 de la tensión de alimentación. El condensador de temporización se descarga a través de esta pata.  
 8.V+:Conectado directamente a positivo, con un mínimo de 4.5 voltios y un máximo de 16 voltios de alimentación.
 
-Tienen múltiples distintos modos de uso, entre los que se encuentran:
+### Tienen múltiples distintos modos de uso, entre los que se encuentran:
 
 Astable mode
 Que no tiene estado estable, el output cambia continuamente de estado entre alto y bajo sin ninguna intervención del usuario, lo que se denomina una onda "cuadrada". Este tipo de circuito puede utilizarse para dar movimiento intermitente a un mecanismo, encendiendo y apagando un motor a intervalos regulares. También puede utilizarse para hacer parpadear lámparas y LED, y es útil como pulso de 'reloj' para otros circuitos integrados y circuitos digitales.
@@ -118,8 +118,8 @@ Un circuito monoestable produce un impulso de una duración determinada en respu
 Bistable Mode (or Schmitt Trigger)
 Un modo biestable o lo que a veces se denomina Schmitt Trigger, tiene dos estados estables, alto y bajo. Si la entrada Trigger está baja, la salida del circuito pasa al estado alto. Tomando la entrada de Reset baja hace que la salida del circuito pase al estado bajo. Este tipo de circuito es ideal para su uso en una maqueta de trenes automatizada en la que el tren debe circular una y otra vez por el mismo tramo de vía. Se colocaría un pulsador (o un interruptor de láminas con un imán en la parte inferior del tren) en cada extremo de la vía, de modo que cuando el tren golpee uno de ellos, se activará o reiniciará el biestable. La salida del 555 controlaría un relay DPDT que se conectaría como un interruptor inversor para invertir la dirección de la corriente a la vía, invirtiendo así la dirección del tren.
 
-Algunas de las maneras en las que son utilizados son:
--Cronometraje de precisión  
+Algunas de las maneras en las que son utilizados son:  
+- Cronometraje de precisión  
 - Generación de impulsos  
 - Temporización secuencial  
 - Desfases de tiempo  
