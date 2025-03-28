@@ -33,7 +33,7 @@
 > &nbsp;&nbsp;&nbsp;metralleta -> pulsación estable, al evitar un on-off de golpe al
 > &nbsp;&nbsp;&nbsp;descargarse el capacitor)
 > 
-> <br/>
+> <img align="left" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-03a/CapacitorSymbology.png" width=500>
 > <br/>
 > <br/>
 > <br/>

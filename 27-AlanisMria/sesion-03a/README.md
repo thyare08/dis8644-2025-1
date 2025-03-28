@@ -61,6 +61,10 @@ Circuito con potenciometro
 https://github.com/user-attachments/assets/54020300-a564-453b-88d3-b5d5267f52dc
 
 
+### encargo06: cultura electrónica europea de los 1980s y 1990s
 
-encargo: escuchar banda einsturzende
+### Stereolab
+
+Stereolab es una banda anglo-francesa fundada en 1990 por Laetitia Sadier y Tim Gane.
+Mediante melodias y voces mezclan ritmos como el rock, krautrock (corriente músical alemana y una de sus principales influencias), lounge, electronica, etc.
 
