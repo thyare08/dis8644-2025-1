@@ -28,13 +28,8 @@
 > ### [Capacitores<sub>1</sub>/](https://youtu.be/X4EUwTwZ110?si=W06CjwpOs9OW3rEu)[Condensadores<sub>2</sub>](https://www.youtube.com/watch?v=rbCXKhhzBN0)
 >> <img align="left" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-03a/CapacitorChargeDischarge.gif" width=500>
 >> <br/>
->> &nbsp;&nbsp;&nbsp;Similares a una bateria en que atrapan y liberan electrones
->> &nbsp;&nbsp;&nbsp;(carga/corriente), pero difieren en que estos se cargan
->> &nbsp;&nbsp;&nbsp;mucho más rapidamente y tienen una capacidad muchisimo
->> &nbsp;&nbsp;&nbsp;más limitada. <br/>
->> &nbsp;&nbsp;&nbsp;Se suelen utilizar para estabilizar señales (pulsación como
->> &nbsp;&nbsp;&nbsp;metralleta -> pulsación estable, al evitar un on-off de golpe
->> &nbsp;&nbsp;&nbsp;al descargarse el capacitor)
+>> &nbsp;&nbsp;&nbsp;Similares a una bateria en que atrapan y liberan electrones (carga/corriente), pero difieren en que estos se cargan mucho más rapidamente y tienen una capacidad muchisimo más limitada. <br/>
+>> &nbsp;&nbsp;&nbsp;Se suelen utilizar para estabilizar señales (pulsación como metralleta -> pulsación estable, al evitar un on-off de golpe al descargarse el capacitor)
 >> <br/>
 >>
 >> #### Simbologia
@@ -66,8 +61,15 @@
 > * ${\color{white}Monostable}$: We can make it output 0 or 1, but it will return to it's set default state (auto-reset) <br/>
 > * ${\color{white}Astable}$: It will oscillate between 0 and 1 <br/>
 > ### Pinout and datasheet <br/>
-> <img align="left" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-03a/555Pinout.jpg" width=400> [NE555 datasheet](https://github.com/disenoUDP/dis8644-2025-1/blob/main/00-docentes/sesion-03a/archivos/lm555-datasheet.pdf)
->
+> <img align="left" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-03a/555Pinout.jpg" width=440> [NE555 datasheet](https://github.com/disenoUDP/dis8644-2025-1/blob/main/00-docentes/sesion-03a/archivos/lm555-datasheet.pdf): Una *datasheet* es como un manual, en ella está toda la información relevante en cuanto al uso y operaciones de un componente o módulo electrónico, como lo son: <br/>
+> * Operational Voltaje range
+> * Current rating
+> * Power consumption (Watts)
+> * Pinout diagrams
+> * Etc.
+> ---
+> ### Circuito astable
+> 
 > <br/>
 > <br/>
 > <br/>
