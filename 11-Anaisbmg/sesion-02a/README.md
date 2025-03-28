@@ -36,7 +36,7 @@ circuito eléctrico: trayectoria cerrada que recorre una corriente eléctrica. E
 - Los componentes están conectados de modo que las cargas eléctricas circulan por un solo trayecto
 - La corriente eléctrica es la misma en cada componente
 - Si conectamos varias ampolletas en serie, estamos aumentando la resistencia, por lo que como resultado disminuye la intensidad de luz en cada ampolleta y ésta baja notoriamente.
-- Una desventaja es que si se corta el paso de corriente en cualquier punto del circuito, cesa la conducción, lo que provocaría que todas ampolletas se apaguen." < sacado de https://www.wited.com/los-circuitos-electricos/ >
+- Una desventaja es que si se corta el paso de corriente en cualquier punto del circuito, cesa la conducción, lo que provocaría que todas ampolletas se apaguen." sacado de https://www.wited.com/los-circuitos-electricos/
 
 ![2a Clase F2](https://github.com/user-attachments/assets/4dcad165-10ef-4c45-ae77-e4653a023151)
 
@@ -69,14 +69,14 @@ v=i:r
 
 *si no estoy segura de la polaridad, se busca.
 
-# encargo-03
+# encargo-04
 **dinámica estructural**
 1 de agosto 2024, chile
 por pablo gómez bate
 estilos: Ambient, IDM, Trip-Hop
 Personalmente, me gustó este disco. Lo escuché mientras realizaba tareas y sentí que me ayudó a concentrarme mucho más. Creo que sus melodías envolventes influyeron en esto. Considero que tiene un buen contraste entre el ritmo y la experimentación, algo que se aprecia a lo largo del álbum. Aunque sigue una idea central, el disco tiene un desarrollo claro a medida que avanzan las canciones, lo que genera un contraste interesante entre la primera y la última canción.
 
-# encargo-04
+# encargo-05
 # resistencia 
 - 100K café-negro-amarillo
 - 10K café-negro-naranjo

@@ -46,9 +46,20 @@ La relación simple de entrada/salida del amplificador operacional es la razón 
 
 ### Ejercicios en clases:
 
+n°1
+
 ![IMG_8011](https://github.com/user-attachments/assets/4e021a0a-5dfc-4dc4-861f-974c6a784c59)
 ![IMG_8008](https://github.com/user-attachments/assets/5074dfd1-45cf-4101-914a-81a6fad159c4)
 ![IMG_8003](https://github.com/user-attachments/assets/ab0965d1-af29-4b59-b5fa-2e6b7dee74d0)
+
+n°2
+
+![IMG_8133](https://github.com/user-attachments/assets/3c410c6f-436c-4090-84b0-979ed97ee903)
+
+n°3
+
+![IMG_8130](https://github.com/user-attachments/assets/94619f5c-c115-4dfc-8d80-270c84eb9398)
+
 
 ### Suzanne Ciani
 

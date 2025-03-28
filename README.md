@@ -13,7 +13,6 @@ dictado durante el primer semestre 2025 (marzo a julio)
 - aarón montoya <https://github.com/montoyamoraga/>
 - matías serrano <https://github.com/misaaaaaa>
 - andrés martin <https://github.com/AndresMartinM>
-- paula landeros <https://github.com/pixelitaa>
 
 ## enlaces a cada carpeta
 
