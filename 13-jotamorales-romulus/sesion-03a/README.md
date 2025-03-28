@@ -34,8 +34,9 @@ capacitor cerámico 474
 Nanofaradios (nF) es una unidad de medida que indica cuánta carga puede almacenar un condensador.
 
 CHIP 555
+
 ![image](https://github.com/user-attachments/assets/2b816ec5-e548-449e-ac72-24db1b3a95fa)
- cada una de sus patas tiene una función distinta. 
+cada una de sus patas tiene una función distinta. 
 
 
 Los capacitores están diseñados para evitar daños en caso de fallos. Estos se reventarán de manera controlada, con una cruz arriba que hace que explote de manera controlada. (No nos deberia pasar nada con los trabajos que vamos a hacer, ya que las cantidades son muy bajas)
