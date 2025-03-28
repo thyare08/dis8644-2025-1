@@ -87,6 +87,10 @@ Parte del final de *Hexploding Head Movie* me recordó al fina de *Space odity* 
 
 La voz de la vocalista de verdad es muy francesa xd, no me refiero al acento, es su tono.
 
+Muy bueno e inesperado el collage que se mandaron en *"Animal Or Vegetable [A Wonderful Wooden Reason...]" [Crumb Duck]*
+
+Me gustó mucho *Sadistic* sobre todo la letra.
+
 Fuente: <https://rincondesconexion.blogspot.com/2013/07/stereolab.html>
 
 #### ¿Cúal es la diferencia entre un sintetizador analógico y uno digital?
