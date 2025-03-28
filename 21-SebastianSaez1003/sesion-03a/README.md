@@ -58,7 +58,7 @@ El circuito que logramos hacer va a ser nuestro lugar seguro.
 
 
 Configuración astable
-Existen calculadoras para la configuración en modo astable.
+Existen calculadoras para la configuración en modo astable. https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-555-timer
 El tiempo de encendido y apagado va a depender de 3 cosas.
 
 Vamos a conectar un potenciómetro. WOWOWOW
