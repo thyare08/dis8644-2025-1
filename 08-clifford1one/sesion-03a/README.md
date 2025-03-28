@@ -9,10 +9,15 @@
 
 ## EXPERIMENTACION
 
+
+![Foto de circuito en tinkercad](tme-03a-tinker.png)
+
+Me pasó que intenté recrear el el circuito viendo mis apuntes, y no pude, tbn viendo el diagrama electrico del datsheet, y tampoco pude, asiq ue recree el circuito en tinkercad viendo el apunte de la carpeta docentes, y ahí lo logré.
+
 Video de lo que hice en mi casa subido a youtube
 <https://youtu.be/Gu-Fglth_9U>
 
-![Foto de circuito en tinkercad](tme-03a-tinker.png)
+
 
 ## INVESTIGACIÓN
 
