@@ -15,7 +15,7 @@
 | pico | 1*10^-12 | 0,000000000001 | p |
 
 # chip 555
-** data sheet **
+*data sheet*
 se lee de una forma especifica y es un oscilador astable
 ![4](https://github.com/user-attachments/assets/6716431b-a7fe-444c-8d1b-b2e481a65173)
 circuito astable con chip 555 y se agrega potenciómetro para variar el tiempo del periodo 
