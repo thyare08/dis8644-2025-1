@@ -14,8 +14,6 @@
 | nano | 1*10^-9 | 0,000000001 | n | 
 | pico | 1*10^-12 | 0,000000000001 | p |
 
-![3](https://github.com/user-attachments/assets/4b85a4f8-afa6-4024-bb37-ef84a45b133d)
-
 # chip 555
 data sheet
 se lee de una forma especifica y es un oscilador astable
@@ -27,5 +25,7 @@ astable -> oscilador
 monoestable -> pulso en base a una señal
 biestable -> funciona como flip-flop o interruptor
 se puede calcular en base a las resistencias y el capacitador
+
+![3](https://github.com/user-attachments/assets/4b85a4f8-afa6-4024-bb37-ef84a45b133d)
 
 # encargo-04
