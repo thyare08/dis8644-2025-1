@@ -33,6 +33,10 @@ capacitor cerámico 474
 
 Nanofaradios (nF) es una unidad de medida que indica cuánta carga puede almacenar un condensador.
 
+CHIP 555
+![image](https://github.com/user-attachments/assets/2b816ec5-e548-449e-ac72-24db1b3a95fa)
+ cada una de sus patas tiene una función distinta. 
+
 
 Los capacitores están diseñados para evitar daños en caso de fallos. Estos se reventarán de manera controlada, con una cruz arriba que hace que explote de manera controlada. (No nos deberia pasar nada con los trabajos que vamos a hacer, ya que las cantidades son muy bajas)
 
@@ -54,8 +58,15 @@ Me deja loco lo poco comun que es esta banda, estar acostumbrado a escuchar dive
 
 
 ## encargo 07 
+ConectE el chip 555, dos resistencias y un capacitor. El 555 carga y descarga el capacitor, creando pulsos que hacen que el LED se encienda y apague.
+Al hacer el ejercicio con el 555 y tener todo listo me pasó que el led no se prendia y apagaba y eso era por que estaba utilizando un condesador de 100 nf y debia ocupar uno de 10nf para que el led se prendiera y apagara. 
+Hicimos uso de un potenciometro el cual ajusta la resistencia en el circuito. Al aumentar la resistencia, el LED parpadea más lento, y al disminuirla, parpadea más rápido.
+
+Hice uso de un potenciometro de 500k, con este es muy poco preciso la velocidad del parpadeo del led, tenia que girar la manilla de manera despacio. 
+EXTRA --- conseguir cables mas cortos, me resulto incomodo hacer el circuito, queda muy desordenado. Se puede conseguir de un cable de red.
 
 
+https://github.com/user-attachments/assets/0692815d-bd11-49cc-9453-3574e40e9437
 
 
 
