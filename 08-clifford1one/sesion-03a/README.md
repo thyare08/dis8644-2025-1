@@ -2,7 +2,7 @@
 
 <https://www.markdownguide.org/cheat-sheet/>
 
-![alt text](tme-03a-apunte.jpg)
+![alt text](tme-03a-apunte.png)
 
 
 
