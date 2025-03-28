@@ -53,6 +53,17 @@ Foto de mi bitácora
 
 ![chip 555](https://github.com/user-attachments/assets/f9ec60a6-ff7f-467d-b34f-04e71dfa56e2)
 
+Los pines del 555 tienen las funciones siguientes:
+
+- Pin 1: GND. Masa.
+- Pin 2: Trigger. Si se produce un pulso a 1/3 de la tensión +V o menos, se genera el disparo.
+- Pin 3: Output. Salida de onda cuadrada.
+- Pin 4: Reset. En estado bajo (0V) se anula la tensión de salida. Para evitar falsos resets se conecta este pin a +V.
+- Pin 5: Control Voltage. Puede hacer modular la salida del 555 aplicando tensión o señal en este pin. Cuando no se usa conviene conectarlo a masa a través de un condensador de 10 o 100nF.
+- Pin 6: Threshold. Entrada de un comparador interno responsable del estado del flip flop.
+  Pin 7: Discharge. Permite descargar el condensador asociado, pasando la salida de estado alto a bajo cuando la tensión de este pin alcanza 2/3 de +V.
+- Pin 8: +V. Tensión de alimentación, según la hoja de características, entre 4,5V y 16V.
+
 **Parte 3:** Encargo 06.
 - escuchar disco de banda alemana **Einstürzende Neubauten** e investigar intrumentos utilizados en sus canciones.
 - escuchar banda francesa **Stereolab** e investigar sobre los sintetizadores y teclados que utilizan, adémas de las referencias esteticas que citan de otras bandas y contexto.
@@ -68,34 +79,36 @@ Foto de mi bitácora
 **Parte 4:** Encargo 07.
 - Ejercicio con chip 555 en clases.
 
-Circuito a realizar.
+**Circuito esquematico a realizar**
 
 ![esquematico-astable](https://github.com/user-attachments/assets/f962d256-14e8-4536-8015-732d4ed8edd1)
 
 Es un circuito esquematico astable, esto quiere decir, que es un circuito electrónico que no tiene un estado estable, sino que alterna entre dos estados inestables. En cada estado permanece un tiempo determinado.
 
-Foto de mi bitácora: _Bill of materials_
+**Foto de mi bitácora:** _Bill of materials_
 
 ![IMG_8568](https://github.com/user-attachments/assets/0759de1b-60b6-48df-914a-fb18863f9100)
 
-Resultado del circuito
+**Resultado del circuito**
 
 ![IMG_8552](https://github.com/user-attachments/assets/838e2a88-e791-4e15-9055-051dcdeee706)
 
-Video
+**Video**
 
 https://github.com/user-attachments/assets/84a7cd49-4066-4ddd-b7a8-5679c94bc09d
 
-Circuito esquematico con potenciometro.
+**Observación:** Cuando se activa un circuito con un chip 555, este produce pulsos de temporización o oscilaciones eléctricas, es decir, que el diodo LED enciende y se apaga en una misma frecuencia.
+
+**Circuito esquematico con potenciometro**
 
 ![imagen-10](https://github.com/user-attachments/assets/14dd0bed-7bf6-47d1-8bab-12f1bc6e510b)
 
-Resultado del circuito
+**Resultado del circuito**
 
 ![IMG_8553](https://github.com/user-attachments/assets/67a3acf5-c759-4d13-bc9c-56cf74bae49f)
 
-Video
+**Video**
 
 https://github.com/user-attachments/assets/74888089-93e1-4065-8e4d-90378e56a652
 
-
+**Observación:** Lo que sucede cuando se le agrega un potenciómetro a un circuito con chip 555, es que puede variar la resistencia del circuito y, por lo tanto, la cantidad de corriente que fluye, es decir, uno puede controlar la velocidad de encendido y apago del LED de forma alternada. 
