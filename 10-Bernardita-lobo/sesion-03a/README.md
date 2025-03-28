@@ -10,8 +10,14 @@
 
 ### primer circuito astable
 - circuito eléctrico con circuito integrado 555
-- luz oscilante con potencimetro
+- luz oscilante con potenciómetro
 
 ![foto14](https://github.com/user-attachments/assets/059aec7a-4a6e-46d0-bd3a-9eaa948c61f8)
 
-### encargo
+## encargo
+### circuito intrago 555
+- ¿cómo funciona en mis palabras?
+- ¿cómo se diagrama un potenciómetro?
+
+### einstÜrzende neubauten
+- álbum "perpetuum mobile"
