@@ -66,8 +66,7 @@ Hicimos uso de un potenciometro el cual ajusta la resistencia en el circuito. Al
 
 Hice uso de un potenciometro de 500k, con este es muy poco preciso la velocidad del parpadeo del led, tenia que girar la manilla de manera despacio. 
 
-- EXTRA --- conseguir cables mas cortos, me resulto incomodo hacer el circuito, queda muy desordenado. Se puede conseguir de un cable de red.
-
+- Extra: Conseguir cables más cortos, me resultó incómodo hacer el circuito, queda muy desordenado. Se pueden conseguir de un cable de red.
 
 https://github.com/user-attachments/assets/0692815d-bd11-49cc-9453-3574e40e9437
 
