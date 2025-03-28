@@ -38,6 +38,42 @@ En algunas composiciones se utiliza el violín y el contrabajo pero de forma no 
 
 El disco me pareció rarísimo, lo escuché antes de investigar sobre él y pude adivinar algunos sonidos que se escuchaban, lo que más me llamó la atención fueron las percusiones o ruidos metálicos que se presentan en casi todas las canciones, es algo poco común o que por lo menos yo no conocía mucho. Se pueden percibir distintos tipos de ruidos, los cuáles generan una atmósfera o por así decirlo una textura de fondo, algunos de los que percibí son objetos siendo arrastrados, puertas que se abren, metales que chocan entre sí, objetos que son lanzados con violencia y chocan, metales que son golpeados con objetos más grandes porque suenan mucho, sonidos de agua, etc. Otra cosa que me llamó la atención es en la canción Robert Fuzzo en la cuál se escuchan sonidos robóticos, como de máquinas que caminan, también hay sonidos de pistolas láser que me recordaron a los blasters de star wars. En términos generales me costó digerirlo, ya que, las canciones no poseían una estructura convencional por lo cuál se me hizo bastante denso y pesado terminar el disco. Me llamó la atención el cómo los sonidos de objetos que uno ve/escucha en el día a día pueden generar ruidos muy interesantes, sobre todo los metálicos, creo que es un trabajo enorme dedicarse a descubrir el cómo suenan de distintas formas los objetos si los muevo, arrastro, expongo a equis situaciones como se muestra en este disco, muy entretenida esa parte de la experimentación a mi parecer. Por último, puedo decir con certeza que el álbum no me gustó pero me abrió bastante la cabeza, me sacó de mi zona de confort musical.
 
+## encargo 07, experimentación en clases con chip 555
+
+![IMG_20250325_115352](https://github.com/user-attachments/assets/181a95b5-ed56-4a2f-bc66-69bdf26ba389)
+
+Se conectó el 555 en medio de la protoboard, se dispusieron distintos cables negativos y positivos, resistencias , condensadores y 1 led. Se probó el cómo funcionaba el 555 con un condensador de 10u, este condensador hacía que el led parpadeara muy rápido, a veces imperceptible , luego, se cambió el condensador por uno de 100u, lo que se obtuvo fue que ahora la luz del led parpadeaba más lento. Si aumento el tamaño de unidades del condensador, esto hará que el tiempo que dura apagado y encendido el led sea más largo, por lo cual se hace más lento el parpadeo.
+
+En la segunda parte de experimentación, se agregó el potenciómetro reemplazando una de las resistencias puestas en el lado izquierdo de la protoboard, no recuerdo bien por qué justo ahí. Se recomendó poner 2 de las 3 patitas del potenciómetro aunque yo puse las 3, el efecto creo que fue el mismo, lo que noté al girar la perilla del potenciómetro era que podía acelerar y desacelerar la velocidad de parpadeo del led a mi gusto, me pareció muy interesante.
+
+## Investigación sobre el 555
+
+Encontré información respecto a las descripciones de las patitas del 555, el para qué sirve cada una.
+
+![image](https://github.com/user-attachments/assets/0d1cca02-692f-47db-9c57-5e0c4185cee5)
+
+GND (normalmente la 1): es el polo negativo de la alimentación, generalmente tierra (masa).
+
+Disparo (normalmente la 2): Es donde se establece el inicio del tiempo de retardo si el 555 es configurado como monoestable. Este proceso de disparo ocurre cuando esta patilla tiene menos de 1/3 del voltaje de alimentación. Este pulso debe ser de corta duración, pues si se mantiene bajo por mucho tiempo la salida se quedará en alto hasta que la entrada de disparo pase a alto otra vez.
+
+Salida (normalmente la 3): Aquí veremos el resultado de la operación del temporizador, ya sea que esté conectado como monoestable, estable u otro. Cuando la salida es alta, el voltaje será el voltaje de alimentación (Vcc) menos 1.7 V. Esta salida se puede obligar a estar en casi 0 voltios con la ayuda de la patilla de reinicio (normalmente la 4).
+
+Reinicio (normalmente la 4): Si se pone a un nivel por debajo de 0.7 Voltios, pone la patilla de salida a nivel bajo. Si por algún motivo esta patilla no se utiliza hay que conectarla a alimentación para evitar que el temporizador se reinicie.
+
+Control de voltaje (normalmente la 5): Cuando el temporizador se utiliza en el modo de controlador de voltaje, el voltaje en esta patilla puede variar casi desde Vcc (en la práctica como Vcc -1.7 V) hasta casi 0 V (aprox. 2 V menos). Así es posible modificar los tiempos. Puede también configurarse para, por ejemplo, generar pulsos en rampa.
+
+Umbral (normalmente la 6): Es una entrada a un comparador interno que se utiliza para poner la salida a nivel bajo.
+
+Descarga (normalmente la 7): Utilizado para descargar con efectividad el condensador externo utilizado por el temporizador para su funcionamiento.
+
+Voltaje de alimentación (VCC) (normalmente la 8): es el terminal donde se conecta el voltaje de alimentación que va de 4.5 V hasta 16 V.
+
+Fuente de info: https://es.wikipedia.org/wiki/Circuito_integrado_555#:~:text=El%20temporizador%20IC%20555%20es,un%20circuito%20integrado%20flip%20flop.
+
+
+
+
+
 
 
 
