@@ -23,39 +23,39 @@
 >
 >
 > ### [Capacitores<sub>1</sub>/](https://youtu.be/X4EUwTwZ110?si=W06CjwpOs9OW3rEu)[Condensadores<sub>2</sub>](https://www.youtube.com/watch?v=rbCXKhhzBN0)
-><img align="left" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-03a/CapacitorChargeDischarge.gif" width=500>
-> <br/>
-> &nbsp;&nbsp;&nbsp;Similares a una bateria en que atrapan y liberan electrones
-> &nbsp;&nbsp;&nbsp;(carga/corriente), pero difieren en que estos se cargan mucho
-> &nbsp;&nbsp;&nbsp;más rapidamente y tienen una capacidad muchisimo más
-> &nbsp;&nbsp;&nbsp;limitada. <br/>
-> &nbsp;&nbsp;&nbsp;Se suelen utilizar para estabilizar señales (pulsación como
-> &nbsp;&nbsp;&nbsp;metralleta -> pulsación estable, al evitar un on-off de golpe al
-> &nbsp;&nbsp;&nbsp;descargarse el capacitor)
-> <br/>
->
-> #### Simbologia
-> <img align="left" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-03a/CapacitorSymbology.png" width=500>
-> <br/>
-> <br/>
-> <br/>
-> <br/>
-> <br/>
-> <br/>
-> <br/>
->
-> #### Ceramic & electrolytic 
-> <img align="right" src="https://www.majju.pk/assets/uploads/2018/06/470UF-35V-ALUMINIUM-ELECTROLYTIC-POLAR-CAPACITOR-1200x684.jpg" width=334> Los ${\color{orange}capacitores \space cerámicos}$ no tienen una polaridad predefinida, por lo que no importa que "pata" del capacitor es conectada al positivo o negativo. <br/>
-> 
->
-> <img align="right" src="https://th.bing.com/th/id/OIP.fZ6K37RHqWd1_SyJEgwiYgAAAA?rs=1&pid=ImgDetMain" width=200> Estos capacitores tienen su capacidad escrita en un código de 3 dígitos: XXY, donde los primeros 2 dígitos (XX) son los primeros digitos del valor, al los cuales se le agrega (Y) cantidad de 0s. Ej: 474 = 470.000 F (Farads)
-> <br/>
-> <br/>
-> Los ${\color{#6462fe}capacitores \space electrolíticos}$, a diferencia de los cerámicos, si tienen una polaridad definida. Aparte de eso, almacenan más electrones y tienen su <br/> capacitancia y voltaje escritos.
-> <p align="center"> :warning: <strong>Si se conectan al revés hay una alta probabilidad que exploten</strong> :warning: </p>
+>> <img align="left" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-03a/CapacitorChargeDischarge.gif" width=500>
+>> <br/>
+>> &nbsp;&nbsp;&nbsp;Similares a una bateria en que atrapan y liberan electrones
+>> &nbsp;&nbsp;&nbsp;(carga/corriente), pero difieren en que estos se cargan
+>> &nbsp;&nbsp;&nbsp;mucho más rapidamente y tienen una capacidad muchisimo
+>> &nbsp;&nbsp;&nbsp;más limitada. <br/>
+>> &nbsp;&nbsp;&nbsp;Se suelen utilizar para estabilizar señales (pulsación como
+>> &nbsp;&nbsp;&nbsp;metralleta -> pulsación estable, al evitar un on-off de golpe
+>> &nbsp;&nbsp;&nbsp;al descargarse el capacitor)
+>> <br/>
+>>
+>> #### Simbologia
+>> <img align="left" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-03a/CapacitorSymbology.png" width=500>
+>> <br/>
+>> <br/>
+>> <br/>
+>> <br/>
+>> <br/>
+>> <br/>
+>> <br/>
+>>
+>> #### Ceramic & electrolytic 
+>> <img align="right" src="https://www.majju.pk/assets/uploads/2018/06/470UF-35V-ALUMINIUM-ELECTROLYTIC-POLAR-CAPACITOR-1200x684.jpg" width=334> Los ${\color{orange}capacitores \space cerámicos}$ no tienen una polaridad predefinida, por lo que no importa que "pata" del capacitor es conectada al positivo o negativo. <br/>
+>> 
+>>
+>> <img align="right" src="https://th.bing.com/th/id/OIP.fZ6K37RHqWd1_SyJEgwiYgAAAA?rs=1&pid=ImgDetMain" width=200> Estos capacitores tienen su capacidad escrita en un código de 3 dígitos: XXY, donde los primeros 2 dígitos (XX) son los primeros digitos del valor, al los cuales se le agrega (Y) cantidad de 0s. Ej: 474 = 470.000 F (Farads)
+>> <br/>
+>> <br/>
+>> Los ${\color{#6462fe}capacitores \space electrolíticos}$, a diferencia de los cerámicos, si tienen una polaridad definida. Aparte de eso, almacenan más electrones y tienen su <br/> capacitancia y voltaje escritos.
+>> <p align="center"> :warning: <strong>Si se conectan al revés hay una alta probabilidad que exploten</strong> :warning: </p>
 >
 > ### [555 Timer](https://youtu.be/fLaexx-NMj8?si=-22qzLNU37zI5imM)
->
+> Es una IC (Integrated Circuit) 
 >
 >> #### Circuito astable
 -----------------------------------------------------------------------------------------------------------
