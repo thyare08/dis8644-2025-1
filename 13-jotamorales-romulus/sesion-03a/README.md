@@ -1,10 +1,40 @@
 # sesion-03a
 
+## apuntes
+
+Éliane Radigue --- compositora francesa --- trilogia de la muerte
+
+La buchla --- sintetizadores midi.
+
+se nos hizo entrega de diversos materiales, entre ellos el chip 555.
+
+Prefijos de notacion científica
+
+1 × 10⁹ = 1.000.000.000 G (giga)
+
+1 × 10⁶ = 1.000.000 M (mega)
+
+1 × 10³ = 1.000 K (kilo)
+
+1 × 10⁰ = 1 u (unidad)
+
+1 × 10⁻³ = 0,001 m (mili)
+
+1 × 10⁻⁶ = 0,000001 μ (micro)
+
+1 × 10⁻⁹ = 0,000000001 n (nano)
+
+1 × 10⁻¹² = 0,000000000001 p (pico)
 
 
+repasamos los circuitos de la clase pasada.
+
+capacitor cerámico 474
+
+Nanofaradios (nF) es una unidad de medida que indica cuánta carga puede almacenar un condensador.
 
 
-
+Los capacitores están diseñados para evitar daños en caso de fallos. Estos se reventarán de manera controlada, con una cruz arriba que hace que explote de manera controlada. (No nos deberia pasar nada con los trabajos que vamos a hacer, ya que las cantidades son muy bajas)
 
 
 
