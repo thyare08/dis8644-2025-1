@@ -29,6 +29,16 @@ Por otra parte, una característica de la banda que se puede apreciar también e
 
 En algunas composiciones se utiliza el violín y el contrabajo pero de forma no convencionales. Por último, en cuanto a la voz, en las canciones del álbum se escucha de forma natural pero también la digitalizan dándole efectos de distorsión, reverb y delay.
 
+## Portada del álbum
+
+<img width="159" alt="ww2w" src="https://github.com/user-attachments/assets/a9ec0742-9dd7-42f8-b7f0-dbc114d43b0d" />
+
+
 ###  análisis y percepción personal del disco
 
 El disco me pareció rarísimo, lo escuché antes de investigar sobre él y pude adivinar algunos sonidos que se escuchaban, lo que más me llamó la atención fueron las percusiones o ruidos metálicos que se presentan en casi todas las canciones, es algo poco común o que por lo menos yo no conocía mucho. Se pueden percibir distintos tipos de ruidos, los cuáles generan una atmósfera o por así decirlo una textura de fondo, algunos de los que percibí son objetos siendo arrastrados, puertas que se abren, metales que chocan entre sí, objetos que son lanzados con violencia y chocan, metales que son golpeados con objetos más grandes porque suenan mucho, sonidos de agua, etc. Otra cosa que me llamó la atención es en la canción Robert Fuzzo en la cuál se escuchan sonidos robóticos, como de máquinas que caminan, también hay sonidos de pistolas láser que me recordaron a los blasters de star wars. En términos generales me costó digerirlo, ya que, las canciones no poseían una estructura convencional por lo cuál se me hizo bastante denso y pesado terminar el disco. Me llamó la atención el cómo los sonidos de objetos que uno ve/escucha en el día a día pueden generar ruidos muy interesantes, sobre todo los metálicos, creo que es un trabajo enorme dedicarse a descubrir el cómo suenan de distintas formas los objetos si los muevo, arrastro, expongo a equis situaciones como se muestra en este disco, muy entretenida esa parte de la experimentación a mi parecer. Por último, puedo decir con certeza que el álbum no me gustó pero me abrió bastante la cabeza, me sacó de mi zona de confort musical.
+
+
+
+
+
