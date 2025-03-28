@@ -25,7 +25,7 @@ circuito astable con chip 555 y se agrega potenciómetro para variar el tiempo d
 # encargo-06
 zeichnungen des patienten o.t. 
 de 1983 en Berlín , Alemania.
-personalmente el disco no es de mi gusto. Lo que más me llama la atención es la forma en que lleva al extremo el uso de materiales no convencionales como instrumentos, creando un sonidos agresivos y ruidosos.
+personalmente el disco no es de mi gusto. lo que más me llama la atención es la forma en que lleva al extremo el uso de materiales no convencionales como instrumentos, creando un sonidos agresivos y ruidosos.
 en este álbum, utiliza chatarra metálica, tuberías, entre otros y la percusión hecha con objetos de construcción que considero que es interesante la composición de sus instrumentos musicales, son totalmente experimentales.
 en ciertas canciones juegan con la repetición rítmica creando patrones que aparecen y desaparecen. me parece increíble lo que logran con esta combinación de sonidos que totalmente es un sello y se logra diferenciar de todos los otros estilos de música que he escuchado antes. 
 
