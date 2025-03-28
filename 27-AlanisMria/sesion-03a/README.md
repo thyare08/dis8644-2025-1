@@ -53,13 +53,17 @@ Esquemático chip 555 + led
 ![Imagen de WhatsApp 2025-03-25 a las 15 52 55_3075903c](https://github.com/user-attachments/assets/10b28ba2-4a00-4c12-a15e-b192963eefea)
 ![Imagen de WhatsApp 2025-03-25 a las 15 52 55_4319efa5](https://github.com/user-attachments/assets/d7f66600-db94-48c7-aca9-6b74e001755b)
 
+Durante este ejercicio nos dimos cuenta de que el chip lograba que la energía que fluía a led oscilara, dependiendo de el valor de las resistencias que implementaramos en la conexión.
 Circuito original
 https://github.com/user-attachments/assets/b318b8ae-6df7-4903-8357-70d5f788e8f8
 
-Circuito con potenciometro
+Circuito con potenciómetro
 
 https://github.com/user-attachments/assets/54020300-a564-453b-88d3-b5d5267f52dc
 
+Al implementar el potenciómetro en reemplazo de la resistencia que conectaba al pin 7 y 2, este nos permitío manipular la cantidad de energía que pasaba al led y de esta forma pudimos controlar la oscilación de energia y con esto dar distintos tiempos al encendido y apagado del led.
+
+*Este chip se usa frecuentemente en la creación de temporizadores, generadores de pulso, alarmas, etc.*
 
 ### encargo06: cultura electrónica europea de los 1980s y 1990s
 
@@ -68,6 +72,20 @@ https://github.com/user-attachments/assets/54020300-a564-453b-88d3-b5d5267f52dc
 - Stereolab es una banda anglo-francesa fundada en 1990 por Laetitia Sadier y Tim Gane.
 - Mediante melodías y letras, en ingles y frances, mezclan ritmos como el rock, krautrock (corriente músical alemana y una de sus principales influencias), lounge, electronica, etc.
 - Entre sus instrumentos se encuentran guitarras, teclados eléctricos, sintetizadores analógicos y cajas de ritmo vintage.
+
+El disco que escuché fue *Refried ectoplasm [Switched On Volume 2]* de 1995, lo elegí porque la primera canción que escuche de la banda fue *French disko*, la cual se fue a mi playlist, este disco es de caracter recopilarorio, lo que explica el sonido y estilo variado.
+
+A mi parecer durante todas sus canciones logran adentrarnos en un ambiente tranquilo, de letras y canciones cortas, bastante repetitivas en contenido vocal, pero no asi en composiciones, ya que estas se mantienen en su loop, pero sorprenden los distintos arreglos electrónicos o climax en instrumentos como la guitarra, lo que destaca la mayoria de las veces al final de la canción, cuando la voz ya se ha desvanecido.
+
+Otra de mis canciones favoritas de este albúm fue *Revox* me encanta la manera en que la voz acompaña a los instrumentos en la primera parte y como la letra son simples palabras sueltas que para mi representan el flujo de una vida.
+
+Me parece interesante como en ocasiones la melodía se superpone a la voz, sobre todo cuando la letra es repetitiva.
+
+De alguna forma este albúm o la banda me recordó a *The breeders*?, no pregunten por qué, no lo se xd.
+
+Parte del final de *Hexploding Head Movie* me recordó al fina de *Space odity* de David Bowie, como si hubieran tomado ese sonido y lo hicieran menos chirreante y mucho más de fondo.
+
+La voz de la vocalista de verdad es muy francesa xd, no me refiero al acento, es su tono.
 
 Fuente: <https://rincondesconexion.blogspot.com/2013/07/stereolab.html>
 
