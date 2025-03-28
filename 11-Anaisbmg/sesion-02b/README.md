@@ -8,7 +8,7 @@ bom -> bill of materials
 | resistencia | r4 | 1k | 1 | 
 | led | d1, d2, d3, d4 | - | 4 | 
 
-|  x  | d1 | d2 | d3 | d4 |
+| n1 | d1 | d2 | d3 | d4 |
 | --- | --- | --- | --- |
 | resistencia | r1, r2, r3 | 220 | 4 | 
 | resistencia | r4 | 1k | 1 | 
