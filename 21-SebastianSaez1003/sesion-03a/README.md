@@ -65,7 +65,37 @@ El tiempo de encendido y apagado va a depender de 3 cosas.
 Vamos a conectar un potenciómetro. WOWOWOW
 
 # encargo06: cultura electrónica europea de los 1980s y 1990s
+Cuando a Blixa Bargeld le preguntaron si quería actuar en el Moon Club el 1 de abril de 1980, ideó el grupo EINSTÜRZENDE NEUBAUTEN, aceptó el concierto y llamó a unos cuantos amigos. Los miembros iniciales de la banda resultaron ser músicos que casualmente tenían tiempo esa noche. El nacimiento oficial de EINSTÜRZENDE NEUBAUTEN suele vincularse a este concierto. Ciertamente, nadie podría haberse atrevido a predecir entonces que la banda seguiría siendo tan productiva y que seguiría funcionando con fuerza después de casi cuatro décadas.
 
+Una de sus sellos distintivos es el uso de instrumentos construidos a mano, principalmente con chatarra y herramientas de construcción, y ruidos, además de instrumentos musicales estándar. Sus primeros álbumes eran implacablemente duros, con la voz de Bargeld gritando por encima de un estruendo de golpes y percusión metálica. En grabaciones posteriores, el sonido del grupo se hizo algo más convencional, aunque seguía conteniendo muchos elementos poco ortodoxos.
+
+Con el lanzamiento de su álbum de debut «Kollaps» en noviembre de 1981, EINSTÜRZENDE NEUBAUTEN declaró la guerra a todos los hábitos de escucha convencionales. El álbum es en realidad un disco «inaudible»; es un ataque frontal a las expectativas y formas de escuchar que han sido embotadas por el sonido dominante. Por falta de dinero, entre otras razones, la gama de instrumentos consistía en objetos «encontrados» y hechos por uno mismo, creados a partir de chapas metálicas y que incluían taladros, martillos, una «no voz» que arrancaba jirones de palabras en alemán de un texto, y equipos de estudio profesionales, que se utilizaban sistemáticamente para desvirtuar sus propósitos técnicos reales. Esta mezcla inconformista en sí misma se convertiría en la base de una comprensión completamente nueva de la música que más tarde influiría en innumerables artistas, y estilizaría enormemente los siguientes álbumes de la banda hasta convertirlos en hitos de la escena industrial.
+
+Halber Mensch (o 1/2 Mensch; en inglés: Half Person) es el tercer álbum de estudio del grupo industrial alemán Einstürzende Neubauten, publicado el 2 de septiembre de 1985 por Some Bizzare Records en el Reino Unido y por What's So Funny About GmbH en Alemania. En Estados Unidos, el álbum fue distribuido por Rough Trade Records.
+
+Su track-list era:  
+Halber Mensch  
+Yü-Gung  
+Trinklied  
+Z.N.S.  
+Seele brennt  
+Sehnsucht (zitternd)  
+Der Tod ist ein Dandy  
+Letztes Biest (am Himmel)  
+Bonus: Sand  
+Bonus: Yü-Gung (Adrian Sherwood-Mix)  
+Bonus: Das Schaben  
+
+Estas canciones personalmente me llamaron la atención, ya que son unas de las primeras canciones de música electrónica, que he escuchado como recomendación por los profesores, que tenían letra, o almenos que no era simplemente un mismo sample de la misma frase, sino que en estas canciones se encontraban letras que estaban escritas como poemas, aunque no las pude entender de primeras, en mi segunda escuchada del álbum trate de leer las letras en conjunto.
+
+También me llamó la atención el uso de sonidos más “electrónicos" más prevalentes dentro de las canciones, incluso si eran con instrumentos hechos a mano, sentí que los percibo más atentamente durante la duración de las canciones, incluso ensordeciendo a los sonidos un poco más electrónicos que estaban presentes en unas pocas instancias.
+
+
+
+### Referencias:  
+-https://en.wikipedia.org/wiki/Halber_Mensch  
+-https://neubauten.org/en/biography/  
+-https://en.wikipedia.org/wiki/Einst%C3%BCrzende_Neubauten
 
 # encargo07: apuntes sobre digerir, reflexión y expansión del chip 555
 
