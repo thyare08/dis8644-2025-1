@@ -44,7 +44,7 @@
 > <br/>
 > <br/>
 >
-> #### Ceramic & electrolytic
+> #### Ceramic & electrolytic 
 > <img align="right" src="https://www.majju.pk/assets/uploads/2018/06/470UF-35V-ALUMINIUM-ELECTROLYTIC-POLAR-CAPACITOR-1200x684.jpg" width=334> Los ${\color{orange}capacitores \space cerámicos}$ no tienen una polaridad predefinida, por lo que no importa que "pata" del capacitor es conectada al positivo o negativo. <br/>
 > 
 >
