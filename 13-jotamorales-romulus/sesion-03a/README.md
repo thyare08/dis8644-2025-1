@@ -2,13 +2,13 @@
 
 ## apuntes
 
-Éliane Radigue --- compositora francesa --- trilogia de la muerte
+- Éliane Radigue --- compositora francesa --- trilogia de la muerte
 
-La buchla --- sintetizadores midi.
+- La buchla --- sintetizadores midi.
 
-se nos hizo entrega de diversos materiales, entre ellos el chip 555.
+- se nos hizo entrega de diversos materiales, entre ellos el chip 555.
 
-Prefijos de notacion científica
+### Prefijos de notacion científica
 
 1 × 10⁹ = 1.000.000.000 G (giga)
 
