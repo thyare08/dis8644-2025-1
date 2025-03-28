@@ -36,6 +36,7 @@ Prefijos de notacion científica
 ### CHIP 555
 
 ![image](https://github.com/user-attachments/assets/2b816ec5-e548-449e-ac72-24db1b3a95fa)
+
 cada una de sus patas tiene una función distinta. 
 
 
