@@ -69,13 +69,13 @@ https://github.com/user-attachments/assets/54020300-a564-453b-88d3-b5d5267f52dc
 - Mediante melodías y letras, en ingles y frances, mezclan ritmos como el rock, krautrock (corriente músical alemana y una de sus principales influencias), lounge, electronica, etc.
 - Entre sus instrumentos se encuentran teclados eléctricos, sintetizadores analógicos y cajas de ritmo vintage.
 
-. #### ¿Cúal es la diferencia entre un sintetizador analógico y uno digital?
+#### ¿Cúal es la diferencia entre un sintetizador analógico y uno digital?
 
 La diferencia se encuentra en que los sintetizadores analógicos producen sonidos provenientes del voltaje circulante en circuitos eléctricos, lo que le daba un sonido inestable, pero con un caracter único, aspero y un tanto psicodelico, mientras que los digitales funcionan a travez de algoritmos que llegan a un procesador digital para lograr emular sonidos. 
 
 fuente: <https://soundsmarket.com/blog/diferencias-entre-un-sintetizador-digital-y-analogico>
 
-. #### Teclados eléctricos
+#### Teclados eléctricos
 
 - Tienen 61 teclas
 - Son una evolución del piano eléctrico, (mucho mas pesados)
