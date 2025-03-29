@@ -3,9 +3,9 @@
 ## Apuntes
 >
 > ### Voltaje y resistencia en tipos de circuitos
-> Vcc = Voltaje Corriente Continua (el positivo) <br/>
-> * Resistencia en serie = **R<sub>Total</sub>** = R<sub>1</sub> + R<sub>2</sub> + R<sub>2</sub> + R<sub>4</sub> <br/>
-> * [Resistencias en paralelo](https://youtu.be/5uyJezQNSHw?si=-xhBxAEVZoKuAEOg&t=576) = 1/**R<sub>T</sub>** = 1/R<sub>1</sub> + 1/R<sub>2</sub> + 1/R<sub>2</sub> + 1/R<sub>4</sub>
+> ${\color{Red}Vcc}$ = Voltaje Corriente Continua (el positivo) <br/>
+> * Resistencia en serie = **${\color{#ffe4a8}R}$<sub>${\color{#ffe4a8}Total}$</sub>** = R<sub>1</sub> + R<sub>2</sub> + R<sub>2</sub> + R<sub>4</sub> <br/>
+> * [Resistencias en paralelo](https://youtu.be/5uyJezQNSHw?si=-xhBxAEVZoKuAEOg&t=576) = 1/**${\color{#ffe4a8}R}$<sub>${\color{#ffe4a8}T}$</sub>** = 1/R<sub>1</sub> + 1/R<sub>2</sub> + 1/R<sub>2</sub> + 1/R<sub>4</sub>
 >> 1k + 1k = 500 ohm (por eso al conectar una segunda resistencia en paralelo, el LED brilla más) 
 >
 > ### Prefijos notación científica
