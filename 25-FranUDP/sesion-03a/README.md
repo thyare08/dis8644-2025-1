@@ -28,8 +28,13 @@
 > ### [Capacitores<sub>1</sub>/](https://youtu.be/X4EUwTwZ110?si=W06CjwpOs9OW3rEu)[Condensadores<sub>2</sub>](https://www.youtube.com/watch?v=rbCXKhhzBN0)
 >> <img align="left" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-03a/CapacitorChargeDischarge.gif" width=500>
 >> <br/>
->> &nbsp;&nbsp;&nbsp;Similares a una bateria en que atrapan y liberan electrones (carga/corriente), pero difieren en que estos se cargan mucho más rapidamente y tienen una capacidad muchisimo más limitada. <br/>
->> &nbsp;&nbsp;&nbsp;Se suelen utilizar para estabilizar señales (pulsación como metralleta -> pulsación estable, al evitar un on-off de golpe al descargarse el capacitor)
+>> &nbsp;&nbsp;&nbsp;Similares a una bateria en que atrapan y liberan electrones <br/>
+>> &nbsp;&nbsp;&nbsp;(carga/corriente), pero difieren en que estos se cargan <br/>
+>> &nbsp;&nbsp;&nbsp;mucho más rapidamente y tienen una capacidad muchisimo <br/>
+>> &nbsp;&nbsp;&nbsp;más limitada. <br/>
+>> &nbsp;&nbsp;&nbsp;Se suelen utilizar para estabilizar señales (pulsación como <br/>
+>> &nbsp;&nbsp;&nbsp;metralleta -> pulsación estable, al evitar un on-off de golpe <br/>
+>> &nbsp;&nbsp;&nbsp;al descargarse el capacitor) <br/>
 >> <br/>
 >>
 >> #### Simbologia
@@ -76,7 +81,7 @@
 >> <br/>
 >> <br/>
 >> <br/>
->> Cambiando el valor del capacitor C<sub>1</sub> (conectado al pin 2) y resistencia R<sub>2</sub> (conectada al pin 2, pin 6 y pin 7) aprendimos que mientras menor su capacitancia y menor su resistencia, mayor es la frecuencia de la oscilación.
+>> Cambiando el valor del capacitor C<sub>1</sub> (conectado al pin 2) y resistencia R<sub>2</sub> (conectada al pin 2, pin 6 y pin 7) aprendimos que mientras menor su capacitancia y menor su resistencia, mayor es la frecuencia de la oscilación. me da la sensación como si estubiesen jugando a hacer ruidos, comenzando siempre con pocos elementos y conforme va progresando la canción, agregando más, pero de forma caotica, algunos sonidos apareniendo solo una o dos veces.
 >> <br/>
 >> <br/>
 >> <br/>
@@ -88,8 +93,10 @@
 -----------------------------------------------------------------------------------------------------------
 ## Encargo 06
 ### Einstürzende Neubauten
+> Escuché el album *"Five on the open-Ended Richter Scale"*, me sorprendió lo caoticos que eran los sonidos de las canciones, a diferencia del 90% de la música que tienen partes definidas que suelen repetirse o mantrenerse constantes. <br/> Al escucharlos me daba una sensación... como si no tuviesen una estructura, como si estuviesen jugando con los sonidos, haciendo ruido para ver como suena, sin un orden o ritmo definido. <br/> También están los sonidos que se escuchan a demás de algún que otro instrumento tradicional. Sonidos metálicos, motores, algo que sonaba como un pistón hidraulico... me da la sensación como si estuviesen en un taller mecanico o en una obra en construcción haciendo sonidos golpeando cosas con una llave inglesa o tirando un barril bajo las escaleras.
 >
->
+> Tras investigar un poco y ver algunas entrevistas a Blixa, puedo decir que no me esperaba que de verdad tocasen golpeando, raspando, doblando y haciendo quien sabe qué con basura o chatarra que sacaron de un deshuesadero, a pesar que al inicio ello era por necesidad, al no poder costear instumentos.<br/> Aunque supongo que tras ver la filosofia creativa de Blixa tiene sentido, ya que la inprevisibilidad de la vida les dio esos instrumentos, que según menciona Blixa, no podían llevar en sus giras, por lo que se veian forzados a ir a basurales a buscar nuevos para cada performance.<br/> Lo cual también explica el aparente caos y falta de orden en sus canciones, al preferir los patrones aleatorios y/o accidentales que se producen al no tener tanto control del proceso creativo.
+> 
 -----------------------------------------------------------------------------------------------------------
 ## Encargo 07
 ### The 555 rabbit hole
