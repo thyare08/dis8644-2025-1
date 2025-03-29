@@ -66,7 +66,7 @@
 > * ${\color{white}Monostable}$: We can make it output 0 or 1, but it will return to it's set default state (auto-reset) <br/>
 > * ${\color{white}Astable}$: It will oscillate between 0 and 1 <br/>
 > ### Pinout and datasheet <br/>
-> <img align="left" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-03a/555Pinout.jpg" width=440> [NE555 datasheet](https://github.com/disenoUDP/dis8644-2025-1/blob/main/00-docentes/sesion-03a/archivos/lm555-datasheet.pdf): Una *datasheet* es como un manual, en ella está toda la información relevante en cuanto al uso y operaciones de un componente o módulo electrónico, como lo son: <br/>
+> <img align="left" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-03a/555Pinout.jpg" width=440> [NE555 datasheet](https://github.com/disenoUDP/dis8644-2025-1/blob/main/00-docentes/sesion-03a/archivos/lm555-datasheet.pdf): Una *datasheet* es como un manual, en ella está (o debería estar) toda la información relevante  en cuanto al uso y operaciones de un componente o módulo electrónico, como lo son: <br/>
 > * Operational Voltaje range
 > * Current rating
 > * Power consumption (Watts)
