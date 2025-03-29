@@ -81,7 +81,7 @@
 >> <br/>
 >> <br/>
 >> <br/>
->> Cambiando el valor del ${\color{#6462fe}capacitor \space C}$<sub>${\color{#6462fe}1}$</sub> (conectado al pin 2) y ${\color{#ffe4a8}resistencia \space R}$<sub>${\color{#ffe4a8}2}$</sub> (conectada al pin 2, pin 6 y pin 7) aprendimos que mientras menor su capacitancia y menor su resistencia, mayor es la frecuencia de la oscilación.
+>> Cambiando el valor del ${\color{#6462fe}capacitor \space C}$<sub>${\color{#6462fe}1}$</sub> (conectado al pin 2) y ${\color{#ffe4a8}resistencia \space R}$<sub>${\color{#ffe4a8}2}$</sub> (conectada al pin 2, pin 6 y pin 7) aprendimos que mientras menor su capacitancia y menor su resistencia, mayor es la ${\color{White}frecuencia}$ de la oscilación.
 >> <br/>
 >> <br/>
 >> <br/>
