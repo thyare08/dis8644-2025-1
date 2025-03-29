@@ -57,7 +57,7 @@
 >> Los ${\color{#6462fe}capacitores \space electrolíticos}$, a diferencia de los cerámicos, si tienen una polaridad definida. Aparte de eso, almacenan más electrones y tienen su <br/> capacitancia y voltaje escritos.
 >> <p align="center"> :warning: <strong>Si se conectan al revés hay una alta probabilidad que exploten</strong> :warning: </p>
 >
-> ### [555 Timer](https://youtu.be/fLaexx-NMj8?si=-22qzLNU37zI5imM)
+> ### [555 Timer](https://youtu.be/iwbGccGU4io?si=_w-Vn72tDD2A57a5)
 > Es una IC (Integrated Circuit), es decir, un circuito que alguien ya diseñó y que solo tenemos que conectarlo y usarlo. <br/>
 > En el caso del NE555, este es una IC que se emplea para producir *time delays* y oscilaciones precisas. <br/>
 > <br/>
