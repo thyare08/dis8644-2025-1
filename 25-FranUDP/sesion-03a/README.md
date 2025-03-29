@@ -51,7 +51,7 @@
 >> <img align="right" src="https://www.majju.pk/assets/uploads/2018/06/470UF-35V-ALUMINIUM-ELECTROLYTIC-POLAR-CAPACITOR-1200x684.jpg" width=334> Los ${\color{orange}capacitores \space cerámicos}$ no tienen una polaridad predefinida, por lo que no importa que "pata" del capacitor es conectada al positivo o negativo. <br/>
 >> 
 >>
->> <img align="right" src="https://th.bing.com/th/id/OIP.fZ6K37RHqWd1_SyJEgwiYgAAAA?rs=1&pid=ImgDetMain" width=200> Estos capacitores tienen su capacidad escrita en un código de 3 dígitos: XXY, donde los primeros 2 dígitos (XX) son los primeros digitos del valor, al los cuales se le agrega (Y) cantidad de 0s. Ej: 474 = 470.000 F (Farads)
+>> <img align="right" src="https://th.bing.com/th/id/OIP.fZ6K37RHqWd1_SyJEgwiYgAAAA?rs=1&pid=ImgDetMain" width=200> Estos capacitores tienen su capacidad escrita en un código de 3 dígitos: XXY, donde los primeros 2 dígitos (XX) son los primeros digitos del valor, al los cuales se le agrega (Y) cantidad de 0s. Ej: 474 = 470.000 F (Farads) ${\color{#3d3d44}[same \space as \space SMD \space resistors]}$
 >> <br/>
 >> <br/>
 >> Los ${\color{#6462fe}capacitores \space electrolíticos}$, a diferencia de los cerámicos, si tienen una polaridad definida. Aparte de eso, almacenan más electrones y tienen su <br/> capacitancia y voltaje escritos.
@@ -71,9 +71,10 @@
 > * Current rating
 > * Power consumption (Watts)
 > * Pinout diagrams
-> * Etc.
+> * Etc. 
 >
 >> #### Circuito astable
+
 >> <img align="left" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-03a/555Circuit1D.jpg" width=420> <img src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-03a/555Circuit1.jpg" width=420> <br/>
 >> Armamos un circuito que prende y apaga un LED continuamente. <br/>
 >> <br/>
@@ -81,7 +82,10 @@
 >> <br/>
 >> <br/>
 >> <br/>
->> Cambiando el valor del capacitor C<sub>1</sub> (conectado al pin 2) y resistencia R<sub>2</sub> (conectada al pin 2, pin 6 y pin 7) aprendimos que mientras menor su capacitancia y menor su resistencia, mayor es la frecuencia de la oscilación. me da la sensación como si estubiesen jugando a hacer ruidos, comenzando siempre con pocos elementos y conforme va progresando la canción, agregando más, pero de forma caotica, algunos sonidos apareniendo solo una o dos veces.
+>> Cambiando el valor del capacitor C<sub>1</sub> (conectado al pin 2) y resistencia R<sub>2</sub> (conectada al pin 2, pin 6 y pin 7) aprendimos que mientras menor su capacitancia y menor su resistencia, mayor es la frecuencia de la oscilación.
+>> <br/>
+>> <br/>
+>> <br/>
 >> <br/>
 >> <br/>
 >> <br/>
@@ -90,9 +94,9 @@
 -----------------------------------------------------------------------------------------------------------
 ## Encargo 06
 ### Einstürzende Neubauten
-> Escuché el album *"Five on the open-Ended Richter Scale"*, me sorprendió lo caoticos que eran los sonidos de las canciones, a diferencia del 90% de la música que tienen partes definidas que suelen repetirse o mantrenerse constantes. <br/> Al escucharlos me daba una sensación... como si no tuviesen una estructura, como si estuviesen jugando con los sonidos, haciendo ruido para ver como suena, sin un orden o ritmo definido. <br/> También están los sonidos que se escuchan a demás de algún que otro instrumento tradicional. Sonidos metálicos, motores, algo que sonaba como un pistón hidraulico... me da la sensación como si estuviesen en un taller mecanico o en una obra en construcción haciendo sonidos golpeando cosas con una llave inglesa o tirando un barril bajo las escaleras.
+> Escuché el album ${\color{lightGray}"Five \space on \space the \space open-Ended \space Richter \space Scale"}$ , me sorprendió lo caoticos que eran los sonidos de las canciones, a diferencia del 90% de la música que tienen partes definidas que suelen repetirse o mantrenerse constantes. <br/> Al escucharlos me daba una sensación... como si no tuviesen una estructura, como si estuviesen jugando con los sonidos, haciendo ruido para ver como suena, sin un orden o ritmo definido. <br/> También están los sonidos que se escuchan a demás de algún que otro instrumento tradicional. Sonidos metálicos, motores, algo que sonaba como un pistón hidraulico... me da la sensación como si estuviesen en un taller mecanico o en una obra en construcción haciendo sonidos golpeando cosas con una llave inglesa o tirando un barril bajo las escaleras.
 >
-> Tras investigar un poco y ver algunas entrevistas a Blixa, puedo decir que no me esperaba que de verdad tocasen golpeando, raspando, doblando y haciendo quien sabe qué con basura o chatarra que sacaron de un deshuesadero, a pesar que al inicio ello era por necesidad, al no poder costear instumentos.<br/> Aunque supongo que tras ver la filosofia creativa de Blixa tiene sentido, ya que la inprevisibilidad de la vida les dio esos instrumentos, que según menciona Blixa, no podían llevar en sus giras, por lo que se veian forzados a ir a basurales a buscar nuevos para cada performance.<br/> Lo cual también explica el aparente caos y falta de orden en sus canciones, al preferir los patrones aleatorios y/o accidentales que se producen al no tener tanto control del proceso creativo.
+> Tras investigar un poco y ver algunas entrevistas a Blixa, puedo decir que no me esperaba que de verdad tocasen golpeando, raspando, doblando y haciendo quien sabe qué con basura o chatarra que sacaron de un deshuesadero, a pesar que al inicio ello era por necesidad, al no poder costear instumentos.<br/> Aunque supongo que tras ver la filosofia creativa de Blixa tiene sentido, ya que la imprevisibilidad de la vida les dio esos instrumentos, que según menciona Blixa, no podían llevar con sigo en sus giras, por lo que se veian forzados a ir a basurales en busca de nuevos instrumentos para cada performance.<br/> Lo cual también explica el aparente caos y falta de orden en sus canciones, al preferir los patrones aleatorios y/o accidentales que se producen al no tener tanto control del proceso creativo.
 > 
 -----------------------------------------------------------------------------------------------------------
 ## Encargo 07
