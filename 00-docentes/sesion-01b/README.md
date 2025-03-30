@@ -45,9 +45,6 @@ outputs
 sensores
 
 actuadores
-s
-encargo: tratar de subir lo que puedan
-[dis8644-lista-materiales](./archivos/dis8644-lista-materiales.pdf)
 
 ## encargo02 - aphex twin y aaron swartz
 
@@ -68,3 +65,7 @@ escuché el disco de Aphex twin blabllablblalablablblba
 este encargo03 consiste en estudiar la caja de materiales que les entregamos la clase pasada.
 
 hacer un listado de los componentes, subir fotos, buscar información histórica sobre ellas, por ejemplo, desde cuándo existen LEDs azules? quién inventó las protoboard? por qué se usan cables negros o café o verde para la conexión a tierra?
+
+tratar de subir lo que puedan
+
+[dis8644-lista-materiales](./archivos/dis8644-lista-materiales.pdf)
