@@ -27,15 +27,14 @@
 >
 > ### [Capacitores<sub>1</sub>/](https://youtu.be/X4EUwTwZ110?si=W06CjwpOs9OW3rEu)[Condensadores<sub>2</sub>](https://www.youtube.com/watch?v=rbCXKhhzBN0)
 >> <img align="left" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-03a/CapacitorChargeDischarge.gif" width=500>
->> <br/>
 >> &nbsp;&nbsp;&nbsp;Similares a una bateria en que atrapan y liberan electrones <br/>
->> &nbsp;&nbsp;&nbsp;(carga/corriente), pero difieren en que estos se cargan <br/>
->> &nbsp;&nbsp;&nbsp;mucho más rapidamente y tienen una capacidad muchisimo <br/>
->> &nbsp;&nbsp;&nbsp;más limitada. <br/>
+>> &nbsp;&nbsp;&nbsp;(carga/corriente), pero difieren en que estos se cargan
+>> &nbsp;&nbsp;&nbsp;mucho más rapidamente, tienen una capacidad muchisimo
+>> &nbsp;&nbsp;&nbsp;más limitada y no permiten el flujo de corriente a travez de
+>> &nbsp;&nbsp;&nbsp;ellos. <br/>
 >> &nbsp;&nbsp;&nbsp;Se suelen utilizar para estabilizar señales (pulsación como <br/>
 >> &nbsp;&nbsp;&nbsp;metralleta -> pulsación estable, al evitar un on-off de golpe <br/>
 >> &nbsp;&nbsp;&nbsp;al descargarse el capacitor) <br/>
->> <br/>
 >>
 >> #### Simbologia
 >> <img align="left" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-03a/CapacitorSymbology.png" width=500>
@@ -108,7 +107,7 @@
 > * If ${\color{white}(Reset)pin4}$ is ${\color{white}grounded \space (GND)}$ -> flip flop resets -> ${\color{#6462fe}capacitor}$ is allowed to discharge and ${\color{white}(Output)pin3}$ = ${\color{white}0}$
 >
 > #### **Messing with the thing**
-> <img align="left" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-03a/test1.png" width=600> Pin8 is connected to ${\color{red}Vcc}$, pin1 is connected to ${\color{white}GND}$, Pin3 is connected to an LED, Pin6 is connected to ${\color{red}Vcc}$ through a switch, Pin2 is connected to ${\color{white}GND}$ through a switch and Pin4 is connected to ${\color{red}Vcc}$ through a switch. <br/>
+> <img align="left" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-03a/test1.png" width=600> (Bistable) Pin8 is connected to ${\color{red}Vcc}$, pin1 is connected to ${\color{white}GND}$, Pin3 is connected to an LED, Pin6 is connected to ${\color{red}Vcc}$ through a switch, Pin2 is connected to ${\color{white}GND}$ through a switch and Pin4 is connected to ${\color{red}Vcc}$ through a switch. <br/>
 > <br/>
 > When current is allowed to go into Pin6, comparator1 receives ${\color{red}9V}$, which is more than the ${\color{white}6V \space (2/3 \space Vcc)}$ its getting from Pin8, therefore it outputs ${\color{white}HIGH}$ or ${\color{white}1}$.
 > Pin2 is floating, so comparator2 is comparing ${\color{red}3V \space (1/3 \space Vcc)}$ against ${\color{white}0V}$, autputing ${\color{white}HIGH}$ or ${\color{white}1}$.
@@ -123,8 +122,7 @@
 > <img align="left" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-03a/Test2.png" width=600> En este segundo intento, intentando hacer que al presionar y soltar un botón, un pin pase de estar conectado a ${\color{white}tierra \space (GND)}$ a ${\color{red}Vcc}$ y viendo lo **errático** que era el circuito al tener el pin2 **flotando** (tras haber conectado el pin4 a tierra y haberlo desconectado), me llevó a descubrir el concepto de __*"pull down"*__ y __*"pull up resistors"*__, lo cual puede que me equivoque, pero parece que hacen justo lo que intentaba hacer.
 > <br/>
 > <br/>
-> <br/>
-> <br/>
+> <br/> Olso, all of the 555 imputs exept pin5 don´t have internal pull ups (aka, don´t leave them floating
 > <br/>
 > <br/>
 > <br/>
@@ -136,11 +134,22 @@
 > <br/>
 > <br/>
 > <br/>
-> <img align="left" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-03a/Test2b.png" width=600> Anyways, al presionar el botón1 (superior), el pin6 que se encuentra conectado a ${\color{white}GND}$ recive ${\color{red}9V}$ al cerrarse el circuito, making **comp1** output ${\color{white}1}$. Y debido a que el Pin2 esta conectado a ${\color{red}Vcc}$, **Comp2** is outputting ${\color{white}0}$. ${\color{white}R \space = \space 1}$ y ${\color{white}S \space = \space 0}$ -> LED apagada.
+> <img align="left" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-03a/Test2b.png" width=600> Anyways, al presionar el botón1 (superior), el pin6 que se encuentra conectado a ${\color{white}GND}$ recive ${\color{red}9V}$ al cerrarse el circuito, making **Comp1** output ${\color{white}1}$. Y debido a que el Pin2 esta conectado a ${\color{red}Vcc}$, **Comp2** is outputting ${\color{white}0}$. ${\color{white}R \space = \space 1}$ y ${\color{white}S \space = \space 0}$ -> LED apagada.
 > <br/>
 > Y al presionar el botón2 (inferior), el pin2 pasa a recivir ${\color{white}0V}$ al cerrarse el circuito, making **comp2** output ${\color{white}1}$. Y al tener al pin6 conectado a ${\color{white}GND}$, **Comp1** is outputting ${\color{white}0}$. ${\color{white}R \space = \space 0}$ y ${\color{white}S \space = \space 1}$ -> LED encendida.
 > <br/>
 > <br/>
 > <br/>
 > <br/>
+> <br/>
+> <img align="right" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-03a/Test3.png" width=600> En este circuito monoestable, el LED está apagado, ya que pin 2 está reciviendo cerca de ${\color{red}9V}$, haciendo que **Comp2** output ${\color{white}0}$. <br>
+> Pin6 está conectado a un ${\color{#6462fe}capacitor}$ (recordar que corriente no pasa a travez de ellos), a pin7 y a ${\color{red}Vcc}$, por lo que está reciviendo cerca de ${\color{red}9V}$, haciendo que **Comp1** output 1. <br/>
+> ${\color{white}R \space == \space 1}$ y ${\color{white}S \space == \space 0}$ = LED apagada y ${\color{#6462fe}capacitor}$ descargado (pin7 y pin6 conectados a ${\color{white}GND}$ y **Comp1** outputting ${\color{white}0}$. <br/>
+> ${\color{white}R \space == \space 0}$ y ${\color{white}S \space == \space 0}$ = flip-flop mantiene estado anterior. <br/>
+> <br/>
+> <img align="right" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-03a/Test3a.png" width=600> Al presionar el botón, Pin2 es conectado a ${\color{white}GND}$, **Comp2** = ${\color{white}1}$. <br/>
+> ${\color{white}R \space == \space 0}$ y ${\color{white}S \space == \space 1}$ = LED encendida, Pin7 desconectado de ${\color{white}GND}$ y ${\color{#6462fe}capacitor}$ se carga y Pin6 recive ${\color{red}Voltaje}$. <br/>
+> <br/>
+> Al soltar el botón, Pin2 es recive a ${\color{red}Voltaje}$ y **Comp2** = ${\color{white}0}$. <br/>
+> ${\color{white}R \space == \space 1}$ y ${\color{white}S \space == \space 0}$ = ${\color{#6462fe}capacitor}$ se descarga, LED apagado (circuito regresa al estado predeterminado).
 > <br/>
