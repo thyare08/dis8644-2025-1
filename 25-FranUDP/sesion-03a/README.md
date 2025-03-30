@@ -120,7 +120,26 @@
 > <br/>
 > And to turn it off again we could olso ground pin4, reseting the flip-flop. <br/>
 > <br/>
+> <img align="left" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-03a/Test2.png" width=600> En este segundo intento, intentando hacer que al presionar y soltar un botón, un pin pase de estar conectado a tierra (GND) a Vcc y viendo lo errático que era el circuito al tener el pin2 flotando (tras haber conectado el pin4 a tierra y haberlo desconectado), me llevó a descubrir el concepto de *"pull down"* y *"pull up resistors"*, lo cual puede que me equivoque, pero parece que hacen justo lo que intentaba hacer.
 > <br/>
+> <br/>
+> <br/>
+> <br/>
+> <br/>
+> <br/>
+> <br/>
+> <img align="left" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-03a/Test2a.png" width=600> Según entiendo, al estar cerrado el circuito (botón sin apretar), el Pin está conectado a GND o Vcc, por lo que está reciviendo el voltaje que conlleva estar conectado a GND o Vcc, pero sin haber corriente.
+> Al presionar el botón, se cierra el circuito "interruptor" y el flujo somete al pin al voltaje de la cconección opuesta (de alguna forma, tampoco entiendo pq sin la resistencia no funciona)
+> <br/>
+> <br/>
+> <br/>
+> <br/>
+> <br/>
+> <br/>
+> <br/>
+> <img align="left" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-03a/Test2b.png" width=600> Anyways, al presionar el botón1 (superior), el pin6 que se encuentra conectado a GND recive 9V al cerrarse el circuito, making comp1 output 1. Y debido a que el Pin2 esta conectado a Vcc, Comp2 is outputting 0. R = 1 y S = 0 -> LED apagada.
+> <br/>
+> Y al presionar el botón2 (inferior), el pin2 pasa a recivir 0V al cerrarse el circuito, making comp2 output 1. Y al tener al pin6 conectado a GND, Comp1 is outputting 0. R = 0 y S = 1 -> LED encendida.
 > <br/>
 > <br/>
 > <br/>
