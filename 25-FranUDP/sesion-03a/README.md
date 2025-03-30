@@ -154,3 +154,11 @@
 > ${\color{white}R \space == \space 1}$ y ${\color{white}S \space == \space 0}$ = ${\color{#6462fe}capacitor}$ se descarga, LED apagado (circuito regresa al estado predeterminado).
 > <br/>
 > <br/>
+> <img align="left" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-03a/555Circuit1t.png" width=600> El circuito astable se mantiene oscilando por:<br/>
+> Al darle corriente, pin2 está conectado a ${\color{red}Vcc}$ a travez de una resistencia de 10K + otra variable ${\color{red}(<1/3Vcc)}$, por lo que **Comp2** = ${\color{white}1}$.<br/>
+> Pin2 está conectado a pin6 ${\color{red}(<2/3Vcc)}$, por lo que **Comp1** = 0. ${\color{white}R \space == \space 0}$ y ${\color{white}S \space == \space 1}$ = LED encendida y pin7 abierto.<br/>
+> Tras X milisegundos, el ${\color{#6462fe}capacitor}$ conectado a pin2 y pin6 se carga ${\color{red}(voltaje \space aumenta)}$ y **Comp2** = ${\color{white}0}$ y **Comp1** = ${\color{white}1}$. ${\color{white}R \space == \space 1}$ y ${\color{white}S \space == \space 0}$ = LED apagada y pin7 conectado a ${\color{white}GND}$.<br/>
+> El ${\color{#6462fe}capacitor}$ se descarga a travez de las resistencias (10K + Variable) y pin7. <br/>
+> El voltaje se reduce, **Comp2** = ${\color{white}1}$ y **Comp2** = ${\color{white}0}$. <br/>
+> ${\color{white}R \space == \space 0}$ y ${\color{white}S \space == \space 1}$ = LED encendida y pin7 abierto. El ciclo se repite. <br/>
+> El valor de la **resistencia 10K** afecta el tiempo de carga del ${\color{#6462fe}capacitor}$ | El valor de la **resistencia Variable** afecta el tiempo de carga y descarga del ${\color{#6462fe}capacitor}$ | La capacitancia del ${\color{#6462fe}capacitor}$ afecta el tiempo que tarda en "llenarse" y "vaciarse".
