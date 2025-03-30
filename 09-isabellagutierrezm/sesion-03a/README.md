@@ -5,17 +5,22 @@
 
 
 ## Encargo 06: STEREOLAB
-Es un grupo francés-británico formado en 1990, cuyo estilo combina música de los años 50 y 60. El álbum que escuché fue **Emperor Tomato Ketchup (1996)**, y se sintió algo **nostálgico**, definitivamente el estilo de música que se usaría para ambientar algo del pasado, aunque tiene algunos sonidos que suena algo **futurist**a, quiero decir como sonidos de máquinas, como **botones para activar una nave espacial** o algo parecido. Como también mezclaban **sonidos de violín, con batería y guitarra**, algo que encontré bastante interesante.
+Es un grupo francés-británico formado en 1990, cuyo estilo combina música de los años 50 y 60. El álbum que escuché fue **Emperor Tomato Ketchup (1996)**, y se sintió algo **nostálgico**, definitivamente el estilo de música que se usaría para ambientar algo del pasado, aunque tiene algunos sonidos que suena algo **futurista**, quiero decir como sonidos de máquinas, como **botones para activar una nave espacial** o algo parecido. Como también mezclaban **sonidos de violín, con batería y guitarra**, algo que encontré bastante interesante.
 Según la información que pude encontrar la banda utilizaba **sintetizadores Moog** los cuales son un instrumento que se utiliza para generar sonidos artificiales de **manera análoga**, diseñado por **Robert Moog.**
 
 ![moog](https://github.com/user-attachments/assets/6db6705f-5656-47db-898e-edc4e011ab50)
 
-
-
-
 Encontré este video de referencia:
-
 https://www.youtube.com/watch?v=RpuV-kpXZRI&t=67s
+
+### Referencias estalisticas: 
+El nombre del disco fue tomado de una película japonesa dirigida por **Shuji Terayama**, basada en un relato de radio que hizo el director 10 años atrás. La cual trata de una sociedad en donde los niños someten de manera violenta a los adultos. Además la portada también hace referencia al afiche para un **concierto de orquesta diseñado por Bela Bartok**, en 1964.
+
+
+![BÉLA_BARTÓK_CONCERTO+FOR+ORCHESTRA-669376](https://github.com/user-attachments/assets/88fc0459-b1c9-46b4-930b-99be3725156a)
+
+
+![stereolab disco](https://github.com/user-attachments/assets/ed445d0f-2170-45f6-82ed-1e01bdb26300)
 
 
 
