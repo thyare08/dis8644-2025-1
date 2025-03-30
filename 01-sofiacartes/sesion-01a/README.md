@@ -8,7 +8,7 @@
 
 Primera parte sobre la película Barrio Universitario y después sobre el disco Radio-Activity de Kraftwerk.
 
-![apuntes sobre pelicula](./archivos/apuntes-pelicula.jpg)
+![apuntes sobre pelicula](./archivos/encargo-00-pelicula.jpg)
 
 ### encargo-01: Mi caja negra y yo
 
