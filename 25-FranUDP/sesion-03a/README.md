@@ -103,7 +103,7 @@
 > <img src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-03a/555HowWorks.jpg"> <br/>
 > In a nutshell:
 > * If voltage on ${\color{white}(Threshold)pin6}$ > ${\color{red}2/3 \space Vcc}$ -> ${\color{#6462fe}capacitor}$ is allowed to discharge and ${\color{white}(Output)pin3}$ = ${\color{white}0}$
-> * If voltage on ${\color{white}(Trigger)pin2}$ < ${\color{red}1/3 \space Vcc}$ -> ${\color{#6462fe}capacitor}$ is not allowed to discharge and ${\color{white}(Output)pin3}$ = ${\color{red}1}$
+> * If voltage on ${\color{white}(Trigger)pin2}$ < ${\color{red}1/3 \space Vcc}$ -> ${\color{#6462fe}capacitor}$ is not allowed to discharge and ${\color{white}(Output)pin3}$ = ${\color{white}1}$
 > * If ${\color{white}(Reset)pin4}$ is ${\color{white}grounded \space (GND)}$ -> flip flop resets -> ${\color{#6462fe}capacitor}$ is allowed to discharge and ${\color{white}(Output)pin3}$ = ${\color{white}0}$
 >
 > #### **Messing with the thing**
@@ -122,7 +122,7 @@
 > <img align="left" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-03a/Test2.png" width=600> En este segundo intento, intentando hacer que al presionar y soltar un botón, un pin pase de estar conectado a ${\color{white}tierra \space (GND)}$ a ${\color{red}Vcc}$ y viendo lo **errático** que era el circuito al tener el pin2 **flotando** (tras haber conectado el pin4 a tierra y haberlo desconectado), me llevó a descubrir el concepto de __*"pull down"*__ y __*"pull up resistors"*__, lo cual puede que me equivoque, pero parece que hacen justo lo que intentaba hacer.
 > <br/>
 > <br/>
-> <br/> Olso, all of the 555 imputs exept pin5 don´t have internal pull ups (aka, don´t leave them floating
+> <br/> *Also, all of the 555 imputs exept pin5 don´t have internal pull ups (aka, don´t leave them floating)*
 > <br/>
 > <br/>
 > <br/>
