@@ -99,6 +99,30 @@
 > 
 -----------------------------------------------------------------------------------------------------------
 ## Encargo 07
-### The 555 rabbit hole
-> El 555 obtiene su nombre a partir de las 5 resistencias de 5 ohm conectadas en serie entre el pin 1 (GND) y el pin 8 (VCC)
+### Understanding the 555
+> The 555 on the inside: <br/>
+> <img src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-03a/555HowWorks.jpg"> <br/>
+> In a nutshell:
+> * If voltage on ${\color{white}(Threshold)pin6}$ > ${\color{red}2/3 \space Vcc}$ -> ${\color{#6462fe}capacitor}$ is allowed to discharge and ${\color{white}(Output)pin3}$ = ${\color{white}0}$
+> * If voltage on ${\color{white}(Trigger)pin2}$ < ${\color{red}1/3 \space Vcc}$ -> ${\color{#6462fe}capacitor}$ is not allowed to discharge and ${\color{white}(Output)pin3}$ = ${\color{red}1}$
+> * If ${\color{white}(Reset)pin4}$ is ${\color{white}grounded \space (GND)}$ -> flip flop resets -> ${\color{#6462fe}capacitor}$ is allowed to discharge and ${\color{white}(Output)pin3}$ = ${\color{white}0}$
 >
+> #### **Messing with the thing**
+> <img align="left" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-03a/test1.png" width=600> Pin8 is connected to ${\color{red}Vcc}$, pin1 is connected to ${\color{white}GND}$, Pin3 is connected to an LED, Pin6 is connected to ${\color{red}Vcc}$ through a switch, Pin2 is connected to ${\color{white}GND}$ through a switch and Pin4 is connected to ${\color{red}Vcc}$ through a switch. <br/>
+> <br/>
+> When current is allowed to go into Pin6, comparator1 receives ${\color{red}9V}$, which is more than the ${\color{white}6V \space (2/3 \space Vcc)}$ its getting from Pin8, therefore it outputs ${\color{white}HIGH}$ or ${\color{white}1}$.
+> Pin2 is floating, so comparator2 is comparing ${\color{red}3V \space (1/3 \space Vcc)}$ against ${\color{white}0V}$, autputing ${\color{white}HIGH}$ or ${\color{white}1}$.
+> In the flip-flop, R = 1 and S = 1, which is ${\color{white}invalid}$, but in the simulation <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;it did what I wanted, turn off the LED. IRL not so <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;much. <br/>
+> <br/>
+> To turn the LED back on, we would ground Pin2 by pressing the button, causing comparator2 to output 1, and with comparator1 outputing 0 (after releasing it's button) we would have: R = 0 and S = 1, turning on the LED.
+> <br/>
+> And to turn it off again we could olso ground pin4, reseting the flip-flop. <br/>
+> <br/>
+> <br/>
+> <br/>
+> <br/>
+> <br/>
+> <br/>
+> <br/>
