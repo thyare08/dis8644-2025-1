@@ -153,3 +153,4 @@
 > Al soltar el botón, Pin2 es recive a ${\color{red}Voltaje}$ y **Comp2** = ${\color{white}0}$. <br/>
 > ${\color{white}R \space == \space 1}$ y ${\color{white}S \space == \space 0}$ = ${\color{#6462fe}capacitor}$ se descarga, LED apagado (circuito regresa al estado predeterminado).
 > <br/>
+> <br/>
