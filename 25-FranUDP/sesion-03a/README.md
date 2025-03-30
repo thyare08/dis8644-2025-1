@@ -142,6 +142,9 @@
 > <br/>
 > <br/>
 > <br/>
+> <br/>
+> <br/>
+> <br/>
 > <img align="right" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-03a/Test3.png" width=600> En este circuito monoestable, el LED está apagado, ya que pin 2 está reciviendo cerca de ${\color{red}9V}$, haciendo que **Comp2** = ${\color{white}0}$. <br>
 > Pin6 está conectado a un ${\color{#6462fe}capacitor}$ (recordar que corriente no pasa a travez de ellos), a pin7 y a ${\color{red}Vcc}$, por lo que está reciviendo cerca de ${\color{red}9V}$, haciendo que **Comp1** = ${\color{white}1}$. <br/>
 > ${\color{white}R \space == \space 1}$ y ${\color{white}S \space == \space 0}$ = LED apagada y ${\color{#6462fe}capacitor}$ descargado (pin7 y pin6 conectados a ${\color{white}GND}$ y **Comp1** = ${\color{white}0}$. <br/>
