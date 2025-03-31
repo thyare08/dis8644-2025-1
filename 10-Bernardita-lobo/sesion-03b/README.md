@@ -15,5 +15,6 @@
 
 ## encargo
 ### apuntes visita museo de arte contemporaneo
+- ¿cómo se relaciona la electrónica con el arte?
 
 ### gonzalo martínez y sus congas pensantes
