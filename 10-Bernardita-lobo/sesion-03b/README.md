@@ -1,7 +1,7 @@
 # sesion-03b
 
 ## trabajo en clase
-### circuito electronico aplicado
+### circuito electrónico aplicado
 - circuito con sensor de luz
 - circuito con bocina
 
