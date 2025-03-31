@@ -22,6 +22,9 @@ El **viernes 28 de marzo** realizamos una salida a terreno al **Museo de Arte Co
 
 ![imzgen01](imagen01.png)
 
+![imagen02](imagen02.png)
+
+![imagen03](imagen03.png)
 
 
 
