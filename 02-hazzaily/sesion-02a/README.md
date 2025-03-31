@@ -96,8 +96,12 @@ Cuando se realiza un circuito en serie, al sacar una luz LED se apaga la otra, e
 
 **Encargo 04:** Escuchar 1 álbum del sello chileno **Pueblo Nuevo**
 
-Álbum: Historial de caídas.
-Artista: El Sueño de la Casa Propia.
+Álbum: **Historial de caídas**.
+Artista: **El Sueño de la Casa Propia**.
+
+Foto de mi croquera.
+
+![Encargo_04](https://github.com/user-attachments/assets/0dbaadd7-e755-400e-ac59-0d2cb62f878a)
 
 **Encargo 05:** Experimentar en casa con protoboard, LEDs, batrías y resistores.
 
@@ -107,5 +111,10 @@ Foto de comparación entre circuito con resistencia y sin resistencia.
 
 ![Experimento_01](https://github.com/user-attachments/assets/a254bff3-4755-4b48-bd6b-c6271f031a6a)
 
- - Experimento 02: 
+ - Experimento 02:  Lo que intenté en este experimento fue prender tantos LEDs en paralelo como me fuera posible, y llegué a la cantidad de 9, para esto utilicé resistores de 330 Ω, y la luz que irradiaban todos los LED eran igual de intensos.
+
+Foto de experimento 02 comparativa.
+
+![Experimento_02](https://github.com/user-attachments/assets/6d2b9c55-4a6e-4494-aae3-fb70438b8f51)
+
 

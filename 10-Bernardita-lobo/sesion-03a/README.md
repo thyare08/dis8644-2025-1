@@ -17,7 +17,8 @@
 ## encargo
 ### circuito intrago 555
 - ¿cómo funciona en mis palabras?
-- ¿cómo se diagrama un potenciómetro?
+
+
 
 ### einstÜrzende neubauten
 - álbum "perpetuum mobile"

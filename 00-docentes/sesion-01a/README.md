@@ -6,7 +6,7 @@ martes 11 marzo 2025
 
 ### aarón montoya
 
-profe titular y creador del curso.
+profe titular y co-creador del curso.
 
 educación:
 
@@ -79,12 +79,6 @@ experiencia docente:
 * ayudante taller DIS8636 Taller de Interfaz de Usuario UI, Universidad Diego Portales, primer semestre 2024.
 * ayudante taller DIS8637 Taller de Experiencia de Usuario UX, Universidad Diego Portales, segundo semestre 2023 y segundo semestre 2024.
 
-### paula landeros
-
-ayudante del curso
-
-* pregrado: estudiante de quinto año de diseño UDP
-
 ## máquinas electrónicas
 
 a escala humana
@@ -135,12 +129,12 @@ encargo00 sobre mi electrodoméstico instant pot, para hacer arroz.
 
 hecho con lápiz y papel.
 
-![imagen de mi croquera](./imagenes/encargo00-foto-00.jpg)
+![imagen de mi croquera](./archivos/encargo00-foto-00.jpg)
 
-![imagen de mi croquera](./imagenes/encargo00-foto-01.jpg)
+![imagen de mi croquera](./archivos/encargo00-foto-01.jpg)
 
-![imagen de mi croquera](./imagenes/encargo00-foto-02.jpg)
+![imagen de mi croquera](./archivos/encargo00-foto-02.jpg)
 
-![imagen de mi croquera](./imagenes/encargo00-foto-03.jpg)
+![imagen de mi croquera](./archivos/encargo00-foto-03.jpg)
 
-![imagen de mi croquera](./imagenes/encargo00-foto-04.jpg)
+![imagen de mi croquera](./archivos/encargo00-foto-04.jpg)
