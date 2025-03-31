@@ -31,3 +31,21 @@ Demostración de uso: https://youtube.com/shorts/GoCO87L8da8?si=nMSKCjf6m50tEn-J
 
 ### Visita al Museo de arte contemporanéo
 
+<div align="left">
+  <img height="50%" src="https://media.discordapp.net/attachments/1248658110625742862/1356095266092089477/articles-75787_imagen_portada.png?ex=67eb51a2&is=67ea0022&hm=21a7ce9db153db8fd8b9e670924f287f829adae94fef948f84163b75ec117cd3&=&format=webp&quality=lossless&width=1745&height=1163"  /><div align="left">
+  <img height="50%" src="https://media.discordapp.net/attachments/1248658110625742862/1356094671130198156/20250328_113346.jpg?ex=67eb5114&is=67e9ff94&hm=784a2064f009f37d030045195cf5e6d5f5d7e8651c4d6fcd3dd7442ac1fef8f7&=&format=webp&width=1472&height=1104"  />
+    </div>
+
+  </div>
+  
+El día viernes 28 de Marzo tuvimos una salida a terreno en el museo de arte contemporanéon (MAC) donde fuimos testigos de varios tipos de exposiciones de diferentes indoles, a continuación, las exposiones que mas me llamaron la atención:
+  
+<div align="left">
+  <img height="400" src="https://media.discordapp.net/attachments/1248658110625742862/1356094672019128410/20250328_114621.jpg?ex=67eb5114&is=67e9ff94&hm=e2880c3c9e08fcc138dc8864c6af8719afa7207cfa60150289c02e36de60fd63&=&format=webp&width=1472&height=1104"  /> 
+</div> 
+
+- Al entrar al museo, uno es recivido con un mensaje en luces de neon que dicen "Con años de soledad (no realmente)" por parte de Alfredo Jaar (1985) con un mensaje de ironía politica que se veía en los años 80 que ejercía Estados Unidos en Latinoamerica
+
+</div> 
+
+- Esta pieza me llama la atención mas que nada por el juego con las luces de neon y sus colores, se podría ahondar mas como funcionan las conexiones que poseé con la pared y como esta se ordena para dar los colores que uno quiere en cada letra
