@@ -18,6 +18,7 @@
 ### apuntes visita al museo de arte contemporáneo
 - ¿cómo se relaciona la electrónica con el arte?
 - exposición museo en estéreo
+- ¿cómo comenzó el arte electónico?
 
 ![foto22](https://github.com/user-attachments/assets/7d167358-36c5-438d-985c-3fe520a0b53a)
 
