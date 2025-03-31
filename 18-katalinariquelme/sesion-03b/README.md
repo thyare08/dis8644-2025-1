@@ -39,8 +39,11 @@ Foto
 
 Cultura musical nacional, escuchar e investigar disco de **"Gonzalo Martínez y sus Congas Pensantes"**. quién hizo ese disco, por qué, cómo le fue, qué influencias tuvo en Chile.
 
+- El álbum "Gonzalo Martínez y sus congas pensantes" fue creada por el dúo chileno **Gonzalo Martínez**, formado por **Jorge González** y **Dandy Jack**. Fue lanzado en 1997, este álbum fusiona ritmos latinoamericanos con música electrónica, creando un sonido innovador y vanguardista.
 
-Foto de mi bitácora
+- **¿Por qué se hizo el disco?** La creación de este disco fue una experimentación musical por parte de Jorge González, quien buscaba explorar nuevos sonidos y ritmos. Influenciado por la música latina y la electrónica, González se unió a Dandy Jack para crear un proyecto que fusionara ambos estilos.
+
+- **¿Cómo le fue al disco?** El disco no tuvo un gran éxito comercial en su momento, pero con el tiempo se ha convertido en una obra de culto, valorada por su originalidad y su propuesta innovadora. Se destaca la calidad de la producción y la fusión de ritmos, considerándolo un disco adelantado a su tiempo.
 
 **Parte 4:** Encargo09: Visita al museo de arte contemporáneo.
 
