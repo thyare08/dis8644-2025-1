@@ -8,7 +8,7 @@
 
 Foto de mis apuntes.
 
-![Apuntes_github_01b](https://github.com/user-attachments/assets/4a8ee382-8cb1-4bf4-88c1-56ca9d4f5727)
+![apuntes github sesion 01b](./archivos/apuntes-github-sesion-01b.jpg)
 
 ### Parte 2: Introducción a los componentes eléctricos.
 
@@ -30,11 +30,11 @@ Foto de mis apuntes.
 
 El circuito realizado es el siguiente:
 
-![Foto_circuito](https://github.com/user-attachments/assets/65dd78b9-4222-47c0-9a87-67de70811656)
+![foto de circuito con led](./archivos/foto-circuito-led.jpg)
 
 Foto de procesos
 
-![Collage_peocesos](https://github.com/user-attachments/assets/a560060b-a66b-41a1-897c-942926702717)
+![collage de procesos](./archivos/collage-procesos.png)
 
 ## encargo-02
 
@@ -42,13 +42,13 @@ Foto de procesos
 
 Foto de mi croquera.
 
-![Encargo02-foto-01](https://github.com/user-attachments/assets/4ed67f37-96a3-4b49-932b-f2e56bf50e57)
+![encargo-02 foto 1 de 2](./archivos/encargo-02-foto-01.jpg)
 
 ### Parte 2: Ver documental **Internet's Own Boy** y escribir una reseña sobre la vida de Aaron Swartz.
 
 Foto de mi croquera.
 
-![Encargo02-foto-02](https://github.com/user-attachments/assets/9c7466e5-ad41-4290-a997-b8e73de47e95)
+![encargo-02 foto 2 de 2](./archivos/encargo-02-foto-02.jpg)
 
 ## encargo-03
 
