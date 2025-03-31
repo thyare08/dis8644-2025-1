@@ -85,4 +85,4 @@ Demostración de uso: https://youtube.com/shorts/GoCO87L8da8?si=nMSKCjf6m50tEn-J
 </div>
 
 ## Reflexiones finales
-### Despues de la visita, si regreso con nuevos conocimientos de lo que uno puede llegar a hacer con lo que hemos estado llegando a aprender clases, me habré saltado algunas secciones del museo pero eso fue por el hecho de que los consideraba un poco mas artisticos en su estructura mas allá de lo que yo buscaba, que fuera una especie de tecnología detras de su diseño. En conclusión, fue un buen día de aprendizaje.
+### Despues de la visita, si regreso con nuevos conocimientos de lo que uno puede llegar a hacer con lo que hemos estado llegando a aprender clases, me habré saltado algunas secciones del museo pero eso fue por el hecho de que los consideraba un poco mas artisticos en su estructura mas allá de lo que yo buscaba, que hubiera una especie de tecnología detras de su diseño. En conclusión, fue un buen día de aprendizaje.
