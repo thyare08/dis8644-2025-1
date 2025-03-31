@@ -39,11 +39,20 @@ Foto
 
 Cultura musical nacional, escuchar e investigar disco de **"Gonzalo Martínez y sus Congas Pensantes"**. quién hizo ese disco, por qué, cómo le fue, qué influencias tuvo en Chile.
 
-- El álbum "Gonzalo Martínez y sus congas pensantes" fue creada por el dúo chileno **Gonzalo Martínez**, formado por **Jorge González** y **Dandy Jack**. Fue lanzado en 1997, este álbum fusiona ritmos latinoamericanos con música electrónica, creando un sonido innovador y vanguardista.
+- El álbum "Gonzalo Martínez y sus congas pensantes" fue creada por el dúo chileno **Gonzalo Martínez**, formado por Jorge González y Martín Schopf mejor conocido por Dandy Jack. Fue lanzado en 1997, este álbum fusiona ritmos latinoamericanos con música electrónica, creando un sonido innovador y vanguardista.
 
-- **¿Por qué se hizo el disco?** La creación de este disco fue una experimentación musical por parte de Jorge González, quien buscaba explorar nuevos sonidos y ritmos. Influenciado por la música latina y la electrónica, González se unió a Dandy Jack para crear un proyecto que fusionara ambos estilos.
+![a2945043049_16](https://github.com/user-attachments/assets/e9c72401-abd3-45a2-ab37-a06d8a081ca0)
 
-- **¿Cómo le fue al disco?** El disco no tuvo un gran éxito comercial en su momento, pero con el tiempo se ha convertido en una obra de culto, valorada por su originalidad y su propuesta innovadora. Se destaca la calidad de la producción y la fusión de ritmos, considerándolo un disco adelantado a su tiempo.
+- La creación de este disco fue una experimentación musical por parte de Jorge González, quien buscaba explorar nuevos sonidos y ritmos. Influenciado por la música latina y la electrónica, González se unió a Dandy Jack para crear un proyecto que fusionara ambos estilos.
+- El disco no tuvo un gran éxito comercial en su momento, pero con el tiempo se ha convertido en una obra de culto, valorada por su originalidad y su propuesta innovadora. Se destaca la calidad de la producción y la fusión de ritmos, considerándolo un disco adelantado a su tiempo.
+
+Jorge González
+
+![jorgegonzalez](https://github.com/user-attachments/assets/f206d5c9-60ae-4a77-8624-f97601e72ea7)
+
+Dandy Jack
+
+![dandyjack](https://github.com/user-attachments/assets/97751233-c33d-40d8-ad7f-d596924b09cb)
 
 **Parte 4:** Encargo09: Visita al museo de arte contemporáneo.
 
