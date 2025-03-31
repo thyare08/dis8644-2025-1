@@ -18,4 +18,15 @@ tips:
   <img height="100%" src="https://media.discordapp.net/attachments/1248658110625742862/1355177929214263316/image.png?ex=67e7fb4c&is=67e6a9cc&hm=f1c5e0ab2775877ccd403f1aa0f7bb230df690ab3160803f491a6e3112840ae3&=&format=webp&quality=lossless&width=2210&height=1104"  />
 </div>
 
+### Protoboard final
+<div align="center">
+  <img height="100%" src="https://media.discordapp.net/attachments/1248658110625742862/1356075615869997329/20250328_105729.jpg?ex=67eb3f55&is=67e9edd5&hm=e4abdaa2eb1bc7dfdad30e9c98a7ae0cbacd6326fe11d7d284bfda88d08c8773&=&format=webp&width=1335&height=1104"  />
+</div>
+
 ###
+<div align="center">
+  <img height="100%" src="https://media.discordapp.net/attachments/1248658110625742862/1356075616520372314/20250328_105741.jpg?ex=67eb3f55&is=67e9edd5&hm=432c7df190659bd05196b120a4209f4b8f9dc0c75c17d5b2d729beb14be805fc&=&format=webp&width=1442&height=1104"  />
+</div>
+Demostración de uso: https://youtube.com/shorts/GoCO87L8da8?si=nMSKCjf6m50tEn-J
+
+### Visita al museo MAC
