@@ -20,11 +20,9 @@ La propuesta del disco Gonzalo Martínez influyó en la escena musical chilena a
 
 El **viernes 28 de marzo** realizamos una salida a terreno al **Museo de Arte Contemporáneo (MAC)**, donde pudimos apreciar y observar diversas exposiciones de distintos estilos y temáticas. A continuación, presento las exhibiciones que más llamaron mi atención como grupo:
 
-![imzgen01](imagen01.png)
+![imzgen01](imagen01.png)   ![imagen02](imagen03.png)
 
-![imagen02](imagen02.png)
-
-![imagen03](imagen03.png)
+![imagen03](imagen02.png)
 
 
 
