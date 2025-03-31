@@ -29,4 +29,5 @@ tips:
 </div>
 Demostración de uso: https://youtube.com/shorts/GoCO87L8da8?si=nMSKCjf6m50tEn-J
 
-### Visita al museo MAC
+### Visita al Museo de arte contemporanéo
+
