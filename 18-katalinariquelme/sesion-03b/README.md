@@ -1,6 +1,6 @@
 # sesion-03b
 
-Clase 6: 28 de Marzo del 2025.
+Clase 6: Viernes 28 de Marzo del 2025.
 
 - **Parte 1:** Apuntes en clases.
 - **Parte 2:** Ejercicios realizados en clase.
