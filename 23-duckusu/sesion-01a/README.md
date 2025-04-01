@@ -21,7 +21,7 @@ Albúm a escuchar:
 The Man-Machine (1978)
 
 Opiniones:
-
+- Primero que nada, no tengo mucha experiencia con este genero mas allá de haberlo escuchado algunas veces en la radio, como lo es con su tema mas conocido "The model" y por ello decidí escuchar el disco la verdad, para encontrar un tema entre todos que llamará mi atención, el cual fue "Metrópolis", razón? Me recordo a Metroid..... Pero mas allá de eso si me gusto la composición de esta pieza porque todo se sentía ordenado, los sintetizadores seguían una logica, la melodía "espacial" si se sentía como si te llevará en un viaje por una ciudad desconocida, por ello lo elegí como EL tema.
 ## Encargo 00 (Parte 2)
 ### Ver pelicula "Barrío universitario" (2013)
 - Película protagonizada por Fabrizio Copano y dirigida por Esteban Vidal.
