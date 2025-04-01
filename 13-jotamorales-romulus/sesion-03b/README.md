@@ -11,7 +11,7 @@ agregar videos y fotos clase viernes
 
 
 
-Al principio me pareció gracioso que Gonzalo Martínez no era una persona sino la asociación de Jorge González de la banda nacional Los Prisioneros (tremendos) junto con Martín Schopf  Lanzado en 1997 es un disco en el que hacen mezcla cumbia con electrónica, algo que encuentro súper raro para su época.
+Al principio me pareció gracioso que Gonzalo Martínez no era una persona sino la asociación de Jorge González de la banda nacional Los Prisioneros (tremendos) junto con Martín Schopf. Fue lanzado en 1997 es un disco en el que hacen mezcla cumbia con electrónica, algo que encuentro súper raro para su época.
 
 #### “La única manera de que la música tecno entrara a Sudamérica era que Sudamérica entrará en ella” – Martín Schopf / Jorge González
 
