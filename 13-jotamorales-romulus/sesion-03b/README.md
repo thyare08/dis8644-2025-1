@@ -38,6 +38,8 @@ La visita al museo puedo decir que me impactó más de lo que creía. Al entrar 
 
 
 Retomando la visita al museo, los objetos sonoros de Museo en estereo, los encontré muy buenos, me alejan de lo que tenía pensado cuando íbamos a visitar el museo. Pensaba en objetos más cercanos a un sintetizador, pero en cambio eran mezcla de objetos cotidianos, mezclados en contextos diferentes. Me llamó la atención cómo en la habitación chocaba el sonido y se generaba un ambiente interesante. El montaje me gustó, pero debo decir que, en comparación con otras habitaciones, me hubiese gustado un juego de luces en esta; algo que potencie el montaje.
+
+
 ![image](https://github.com/user-attachments/assets/0bb23d57-a161-4244-a94e-cadf2a640405)
 ![image](https://github.com/user-attachments/assets/ad26bb79-d879-4229-93b5-e62a08aea9fd)
 ![image](https://github.com/user-attachments/assets/debee99f-49de-4293-ad3a-46120e6858f4)
