@@ -12,6 +12,8 @@
  - [ ] subir imágenes como imagenes, no como link (crear carpeta de archivos)
  - [ ] objeto para desarmar
  - [ ] escuhar **1 bit symphony**
+ - [ ] usar imágenes propias, si son de otros lugares, referenciarlos/citarlos
+       
 
 ### ideas
 - caja de madera, una cara con acrílico para ver los componentes, bellísimo
