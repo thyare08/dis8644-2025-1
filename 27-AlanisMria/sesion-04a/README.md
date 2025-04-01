@@ -37,3 +37,10 @@ Funciona con ondas cuadradas (cosas que prendo y apago)
 Escuchar disco 1 bit symphony de Tristan Perich.
 
 los tipos de imputs que usamos la semana pasada fueron los potenciometros, los sensores de luz, el cuerpo y el grafito.
+
+Modulación: Cambio de un valor
+
+2 555 vinculados, con el primero en modo astable y el segundo en modo ...
+
+incorporar kicad
+
