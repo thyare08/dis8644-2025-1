@@ -1,6 +1,6 @@
 # sesion-03b
 ## encargo 08: cultura musical nacional
-## Gonzalo Mrtínez y los congas pensantes:
+## Gonzalo Martínez y los congas pensantes:
 Dúo compuesto por Jorge Gonzalez y Martín Schofp, también conocido por Dandy Jack, son dos chilenos conocidos, primero el vocalista de Los Prisioneros (banda de rock chilena de los años 80s), y el segundo conocido por la música electrónica en Alemania, siendo productor y músico.
 El disco “Gonzalo Martínez y los congas pensantes” salió en el año 1998, y mezcla la música electrónica con cumbias famosas de Latinoamérica.
 Jorge González, mientras vivía en Nueva York, identificó similitudes entre los ritmos del house y la cumbia, lo que lo llevó a explorar esta combinación, además Dandy Jack, fue clave para el proyecto, ya que aportó su experiencia en música electrónica y compartió la visión de desafiar las normas musicales tradicionales.
