@@ -18,7 +18,7 @@ Cage, J. (1985). Seriously Comma. En A year from Monday: New lectures and writin
 
 ## 🧲 Primeros acercamientos al magnetismo
 
-![image.png](archivos/image%201.png)
+![image.png](archivos/image1.png)
 
 ~ 600 A.C.
 
@@ -32,15 +32,15 @@ No existen materiales 100% conductivos o aislantes, sino que mas bien se clasifi
 
 La tabla de la izquierda muestra tanto elementos como materiales compuestos (Ej. Acero inoxidable = Acero + Cromo)
 
-![image.png](archivos/image%202.png)
+![image.png](archivos/image2.png)
 
 ## ⚛️ Átomos y materiales
 
 La tabla periódica de los elementos ordena la materia según la cantidad de protones
 
-![image.png](archivos/image%203.png)
+![image.png](archivos/image3.png)
 
-![image.png](archivos/image%204.png)
+![image.png](archivos/image4.png)
 
 Los átomos se componen de protones (cargas positivas) y neutrones (cargas neutras) en el núcleo, y de una nube de electrones (carga negativa)
 
@@ -54,13 +54,13 @@ En la capa más externa de su nube de electrones solo tiene 1 electrón, y tiene
 
 Un átomo que ganó un electrón es un Catión, y uno que perdió Anión
 
-![image.png](archivos/image%205.png)
+![image.png](archivos/image5.png)
 
 ## ⚡ La electricidad como flujo de electrones
 
 ## 🚀 Electrones libres
 
-![image.png](archivos/image%206.png)
+![image.png](archivos/image6.png)
 
 Electrones más alejados de la órbita central, y que da propiedad eléctrica a los átomos. “Circulan” a lo largo de conductores eléctricos
 
@@ -72,15 +72,15 @@ Los electrones más externos están atraídos con menos fuerza al núcleo. Puede
 
 La cantidad de corriente que un material permite dejar circular se denomina RESISTENCIA
 
-![image.png](archivos/image%209.png)
+![image.png](archivos/image9.png)
 
 La diferencia de carga entre los polos extremos que ubicamos se llama VOLTAJE.
 
-![image.png](archivos/image%2010.png)
+![image.png](archivos/image10.png)
 
 La cantidad de flujo de electrones se denomina CORRIENTE
 
-![image.png](archivos/image%2011.png)
+![image.png](archivos/image11.png)
 
 Ley de OHM
 
@@ -112,25 +112,25 @@ Material audiovisual recomendado: Cosmos S01E10 - The Electric Boy
 
 ## 🔋 Voltaje (V)
 
-![image.png](archivos/image%2012.png)
+![image.png](archivos/image12.png)
 
 La tensión eléctrica o diferencia de potencial es una magnitud física que cuantifica la diferencia de potencial eléctrico entre dos puntos.
 
 Se mide en Volts (V)
 
-![Fuentes de voltaje DC](archivos/image%2013.png)
+![Fuentes de voltaje DC](archivos/image13.png)
 
 Fuentes de voltaje DC
 
-![Fuentes de voltaje AC](archivos/image%2014.png)
+![Fuentes de voltaje AC](archivos/image14.png)
 
 Fuentes de voltaje AC
 
-![Fuente poder típica: Adaptador AC (220V) a DC (24V)](archivos/image%2015.png)
+![Fuente poder típica: Adaptador AC (220V) a DC (24V)](archivos/image15.png)
 
 Fuente poder típica: Adaptador AC (220V) a DC (24V)
 
-![Captura de pantalla 2024-11-07 a la(s) 16.02.46.png](archivos/Captura_de_pantalla_2024-11-07_a_la(s)_16.02.46.png)
+![Captura de pantalla 2024-11-07 a la(s) 16.02.46.png](archivos/ieeecore.png)
 
 ## ⚡ Corriente (I)
 
@@ -140,17 +140,17 @@ Flujo de partículas cargadas, como electrones o iones, que se mueven a través 
 
 Se mide en Amperes (A)
 
-![Alargador típico de 10A (a 220V)](archivos/image%2016.png)
+![Alargador típico de 10A (a 220V)](archivos/image16.png)
 
 Alargador típico de 10A (a 220V)
 
-![Cargador USB de 3A (a 5v)](archivos/image%2017.png)
+![Cargador USB de 3A (a 5v)](archivos/image17.png)
 
 Cargador USB de 3A (a 5v)
 
 ## ✊🏽 Resistencia (R)
 
-![image.png](archivos/image%2018.png)
+![image.png](archivos/image18.png)
 
 Oposición que presenta un elemento al paso de la corriente eléctrica.
 
@@ -158,9 +158,9 @@ Se mide en Ohms (Ω)
 
 La ampolleta genera luz y calor al oponerse a la corriente eléctrica
 
-![image.png](archivos/image%2019.png)
+![image.png](archivos/image19.png)
 
-![image.png](archivos/image%2020.png)
+![image.png](archivos/image20.png)
 
 El hervidor eléctrico de agua funciona en base a una resistencia
 
@@ -170,17 +170,17 @@ Arreglo de resistencias, cables, u otros componentes eléctricos, conectados en 
 
 Trabajaremos con un arreglo sencillo de 2 pilas, un interruptor y una ampolleta
 
-![40656b15aa9a994df043cd8ed51826b7.gif](archivos/40656b15aa9a994df043cd8ed51826b7.gif)
+![openclosed.gif](archivos/openclosed.gif)
 
 Circuito abierto (interrumpido)
 
 Circuito cerrado
 
-![image.png](archivos/image%2021.png)
+![image.png](archivos/image21.png)
 
 Representación de esquemático como dibujo
 
-![image.png](archivos/image%2022.png)
+![image.png](archivos/image22.png)
 
 Representación gráfica (esquemático)
 
@@ -203,7 +203,7 @@ $$
 P = 2200 W
 $$
 
-![Captura de pantalla 2024-11-12 a la(s) 12.32.58.png](archivos/Captura_de_pantalla_2024-11-12_a_la(s)_12.32.58.png)
+![Captura de pantalla 2024-11-12 a la(s) 12.32.58.png](archivos/zapatilla.png)
 
 ## Consumo de potencia (lo que mide la compañía eléctrica)
 
@@ -217,13 +217,13 @@ Al 12 de noviembre de 2024 el costo de valor hora en Chile es de $192.
 
 ![serieparalelo.gif](archivos/serieparalelo.gif)
 
-![Captura de pantalla 2024-11-12 a la(s) 12.10.48.png](archivos/Captura_de_pantalla_2024-11-12_a_la(s)_12.10.48.png)
+![Captura de pantalla 2024-11-12 a la(s) 12.10.48.png](archivos/interruptor2.png)
 
 Ambos interruptores son dependientes. Su relación es de tipo AND (y)
 
 SW1 Y SW2 encendidos → Ampolleta encendida
 
-![Captura de pantalla 2024-11-12 a la(s) 12.09.28.png](archivos/Captura_de_pantalla_2024-11-12_a_la(s)_12.09.28.png)
+![Captura de pantalla 2024-11-12 a la(s) 12.09.28.png](archivos/interruptor1.png)
 
 Ambos interruptores son independientes. Su relación es de tipo OR (o)
 
@@ -233,7 +233,7 @@ SW1 o SW2 encendidos → Ampolleta encendida
 
 ![sch_symbols.png](archivos/sch_symbols.png)
 
-![no.si.si.no__2023-02-04T002633.000Z.jpg](archivos/e12565a7-0703-4c87-abd8-a7d6361dc87f.png)
+![no.si.si.no__2023-02-04T002633.000Z.jpg](archivos/nosisino.png)
 
 Serigrafías de María Ignacia Valdebenito basadas en símbolos electrónicos
 
