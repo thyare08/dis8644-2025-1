@@ -104,6 +104,9 @@ Al mismo tiempo contaba con trazos muy pulidos y formas muy definidas.
 En esta pintura los trazos eran irregulares y los bordes siquiera estaban pintados, solo tenían las pequeñas cantidades de pintura que quedaron ahí al momento de la realización de la pintura (probablemente algo que yo haría).
 
 
+Me pareció interesante ver por primera vez esculturas realizadas en impresión 3d expuestas en un museo, las tuve que tocar, necesitaba saber de que eran, perdón.
 
+Mencionando que esta fue una de las obras con la museografía mas estetica del lugar.
 
+![Imagen de WhatsApp 2025-03-31 a las 20 44 41_c27eaef5](https://github.com/user-attachments/assets/e51488cd-5792-4a16-acca-6c75ec08eafb)
 
