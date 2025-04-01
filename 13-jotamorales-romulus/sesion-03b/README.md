@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/634fa446-fc12-49f2-8cca-f9a51e2ebab5)# sesion-03b
+# sesion-03b
 viernes 28 marzo 2025
 
 PORFIN LOGRAMOS HACER SONIDO
