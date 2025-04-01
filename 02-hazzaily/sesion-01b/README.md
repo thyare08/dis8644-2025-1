@@ -63,91 +63,91 @@ Estudiar la caja de materiales entregada la clase pasada, hacer un listado de co
 
 Foto de protoboard.
 
-![Foto_protoboard](https://github.com/user-attachments/assets/1848ea62-842f-44c9-99df-fff83cd5109f)
+![encargo-03 foto de protoboard](./archivos/encargo-03-protoboard.jpg)
 
 2. **Conector de batería:** Es un dispositivo a través del cual podemos conectar una batería a un equipo eléctrico. Se utiliza para darle “vida” a nuestros circuitos.
 
 Foto del conector de batería.
 
-![Foto_conector_de_batería](https://github.com/user-attachments/assets/a1f23bc0-f19d-47d8-ab89-5e31a60074e9)
+![encargo-03 foto de conector de bateria](./archivos/encargo-03-conector-bateria.jpg)
 
 3. **Cables:** Los cables son conductores de electricidad de un punto a otro. Un punto importante a aclarar de estos mismos son sus colores llamativos, a los cuales uno les puede dar sentido para tener un orden, pero lo más común es: rojo=positivo y negro=negativo.
 
- Foto de los cables.
+Foto de los cables.
 
-- ![Foto_cables](https://github.com/user-attachments/assets/07ae8766-e945-43f1-bc7d-1c910ecc4576)
+- ![encargo-03 foto de cables](./archivos/encargo-03-cables.jpg)
 
 4. **LEDs:** Es un diodo (dispositivo semiconductor unidireccional) emisor de luz que se ilumina al momento en que la energía los "atraviesa". Tiene dos patas, una más larga que la otra; esto nos indica que: pata larga=positivo y pata corta=negativo.
 
 Foto de los LEDs.
 
-![Foto_leds](https://github.com/user-attachments/assets/4e3e8dba-936e-4301-b410-f4484b4b6d2d)
+![encargo-03 foto de LEDs](./archivos/encargo-03-leds.jpg)
 
 5. **Resistencia:** Regulan y estabilizan el flujo de corriente en los circuitos. Ayudan a mantener un nivel de corriente seguro para evitar que se quemen o echen a perder.
 
 Foto de las resietencias.
 
-![Foto_resistencias](https://github.com/user-attachments/assets/5fa0a9b3-88bd-40c3-aa75-d45f924e3c83)
+![encargo-03 foto de resistencias](./archivos/encargo-03-resistencias.jpg)
 
 6. **Batería 9V:** Es una pila eléctrica de corriente de 9 voltios. Es la fuente de energía que vamos a utilizar en el semestre.
 
 Foto de la batería de 9V.
 
-![Foto_batería_9V](https://github.com/user-attachments/assets/6f7002df-f01e-4d4e-8d08-2e6dcb0516e7)
+![encargo-03 foto de batería 9V](./archivos/encargo-03-bateria-9v.jpg)
 
 7. **Interruptor basculante:** Dependiendo del lado hacia el que esté inclinado tiene una función distinta, por ende este interruptor se utiliza para iniciar o detener, y encender o apagar el flujo de corriente en un circuito.
  
 Foto del interruptor basculante.
 
-![Interruptor_basculante](https://github.com/user-attachments/assets/e8fc6e39-f620-4d6a-9bab-127c59ca99b5)
+![encargo-03 foto de interruptor basculante](./archivos/encargo-03-interruptor-basculante.jpg)
 
 8. **Parlante 0.5W, 8 Ohms:** Reproduce sonidos o melodías por un microcontrolador como podría ser Arduino.
 
 Foto del parlante.
 
-![Parlante](https://github.com/user-attachments/assets/d0894145-ebc6-4e95-9702-e9e390592725)
+![encargo-03 foto de parlante](./archivos/encargo-03-parlante.jpg)
 
 9. **Mini protoboard:** Cumple la misma función que la protoboard normal, solo que en un tamaño reducido.
 
 Foto mini protoboard.
 
-![Mini_protoboard](https://github.com/user-attachments/assets/026cef12-615d-4bce-bf80-e298a3fe3f1d)
+![encargo-03 foto de mini protoboard](./archivos/encargo-03-mini-protoboard.jpg)
 
 10. **Potenciómetro:** Es un componente utilizado para ajustar la resistencia eléctrica en un circuito. Esto es a través de una perilla regulable para la necesidad que tengamos, como podría ser el regular el voltaje.
 
 Foto potenciómetro.
 
-![Potenciómetro](https://github.com/user-attachments/assets/fc50ddf3-a36c-4ae7-b43a-42f1b6a71e75)
+![encargo-03 foto de potenciómetro](./archivos/encargo-03-potenciometro.jpg)
 
 11. **Micro servo motor:** Es un pequeño actuador rotativo diseñado para controlar el movimiento de su eje en cuanto a velocidad, aceleración, torque (fuerza que se utiliza para hacer girar un objeto) y posición.
 
 Foto micro servo motor.
 
-![Micro_servo_motor](https://github.com/user-attachments/assets/dfed54ef-b88f-4e91-bc54-e9d8d807ae3c)
+![encargo-03 foto de micro servo motor](./archivos/encargo-03-mini-servo-motor.jpg)
 
 12. **Condensador electrolítico o capacitor:** Es un dispositivo que almacena energía de forma interna cuando se conecta a una fuente de tensión o voltaje.
 
 Foto condensador electrolítico.
 
-![Condensadores_electrolíticos](https://github.com/user-attachments/assets/dd60b26d-6fe1-4002-97c9-a65c18598845)
+![encargo-03 foto de condensadores electrolíticos](./archivos/encargo-03-condensadores-electroliticos.jpg)
 
 13. **Zumbador piezoeléctrico:** Son componentes eléctricos diseñados para producir sonido. Existen en una variedad de tonos y frecuencias.
 
 Foto de zumbador piezoeléctrico.
 
-![Zumbador](https://github.com/user-attachments/assets/11fcbc99-ab7a-4d33-a9a1-3c151d751064)
+![encargo-03 foto de zumbador](./archivos/)
 
 14. **Adaptador de conector:** Sirven para adaptar para interconectar dos conectores de puertos distintos.
 
 Foto de adaptador de conector.
 
-![Adaptador_conector](https://github.com/user-attachments/assets/d166954a-d689-4dc0-b45a-cf9c3204d7bd)
+![encargo-03 foto de adaptador de conector](./archivos/encargo-03-zumbador.jpg)
 
 15. **Condensador cerámico  o tipo lenteja:** Al igual que los condensadores más grandes, almacenan energía de igual manera pero en menor escala.
 
 Foto de condensador cerámico.
 
-![Condensadores_cerámicos](https://github.com/user-attachments/assets/eeabf0de-d553-4c5a-a957-03dee1f9784b)
+![encargo-03 foto de condensadores cerámicos](./archivos/encargo-03-condensadores-ceramicos.jpg)
 
 ## Preguntas
 
