@@ -14,13 +14,17 @@ un objeto por grupo
 
 ## proyecto 1 
 2 personas 
+
 la nota mide 6 criterios, entre 0.0 y 0.1
+
 15 abril
+
 construccion de prototipo electrónico a partir de circuito específico APC  
 
 ### encargo 10 
 
 1 bit symphony
+
 armar dúo
 
 
