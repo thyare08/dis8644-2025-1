@@ -1,7 +1,7 @@
 # sesion-03b
 viernes 28 marzo 2025
 
-## Apuntes
+## Fotos y video 
 
 agregar videos y fotos clase viernes
 
