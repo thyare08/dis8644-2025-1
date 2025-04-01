@@ -70,15 +70,15 @@ nuestras sesiones de clases serán los martes y viernes entre marzo y julio 2025
 | [02b](00-docentes/sesion-02b/)| 03-21 viernes| circuitos serie y paralelo                      |
 | [03a](00-docentes/sesion-03a/)| 03-25 martes | chips, timer 555, esquemáticos                  |
 | [03b](00-docentes/sesion-03b/)| 03-28 viernes| resistores experimentales, visita museo MAC     |
-| [04a](00-docentes/sesion-04a/)| 04-01 martes | TODO                                            |
-| [04b](00-docentes/sesion-04b/)| 04-04 viernes| entrega proyecto-01                             |
-| [05a](00-docentes/sesion-05a/)| 04-08 martes | TODO                                            |
-| [05b](00-docentes/sesion-05b/)| 04-11 viernes| TODO                                            |
-| [06a](00-docentes/sesion-06a/)| 04-15 martes | TODO                                            |
-| [06b](00-docentes/sesion-06b/)| 04-18 viernes| TODO                                            |
-| [07a](00-docentes/sesion-07a/)| 04-22 martes | TODO                                            |
-| [07b](00-docentes/sesion-07b/)| 04-25 viernes| TODO                                            |
-| [08a](00-docentes/sesion-08a/)| 04-29 martes | TODO                                            |
+| [04a](00-docentes/sesion-04a/)| 04-01 martes | trabajo en proyecto-01                          |
+| [04b](00-docentes/sesion-04b/)| 04-04 viernes| trabajo en proyecto-01                          |
+| [05a](00-docentes/sesion-05a/)| 04-08 martes | sin evaluación por semana solemnes              |
+| [05b](00-docentes/sesion-05b/)| 04-11 viernes| sin evaluación por semana solemnes              |
+| [06a](00-docentes/sesion-06a/)| 04-15 martes | entrega proyecto-01                             |
+| [06b](00-docentes/sesion-06b/)| 04-18 viernes| no hay clase por feriado                       |
+| [07a](00-docentes/sesion-07a/)| 04-22 martes | diseño de circuitos en kicad                    |
+| [07b](00-docentes/sesion-07b/)| 04-25 viernes| diseño de circuitos en kicad                    |
+| [08a](00-docentes/sesion-08a/)| 04-29 martes | diseño de circuitos en kicad                    |
 | [08b](00-docentes/sesion-08b/)| 05-02 viernes| no hay clase por receso                         |
 | [09a](00-docentes/sesion-09a/)| 05-06 martes | no hay clase por receso                         |
 | [09b](00-docentes/sesion-09b/)| 05-09 viernes| TODO                                            |
