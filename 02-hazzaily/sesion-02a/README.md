@@ -4,7 +4,7 @@
 
 **¿Cómo calcular la resistencia que necesitamos para un circuito?**
 
- - Parte 1: Comprender para qué se necesitan los resistores.
+- Parte 1: Comprender para qué se necesitan los resistores.
 
 Para comprender esto debemos responder las siguientes preguntas y entender la información a continuación:
 
@@ -18,15 +18,15 @@ Por ejemplo: El agua está a una cierta altura (**voltaje de 0 a 9**), y utiliza
 
 Más simple:
 
- - Altura = Voltaje = de 0 a 9 (**V**)
- - Agua = Caudal = Corriente (**I**)
- - LLave de paso = Oposición = Resistencia (**R**)
+- Altura = Voltaje = de 0 a 9 (**V**)
+- Agua = Caudal = Corriente (**I**)
+- LLave de paso = Oposición = Resistencia (**R**)
 
 La manguera es por donde fluye la energía/corriente, aka cables, y el voltaje = diferencia de potencial.
 
 Algo importante a recordar es que toda la energía viene de un lugar, por ende: **"La energía no se crea ni se destruye, sólo se tranforma"**.
 
- - Parte 2: Cómo calcular la resistencia qué necesito.
+- Parte 2: Cómo calcular la resistencia qué necesito.
 
 Esto es posible gracias a la **Ley de Ohm** que nos dice que: I = V/R, ó, V = IxR.
 
@@ -48,7 +48,7 @@ También es posible hacerlo a través de una página web.
 
 Identificador de código de color de resistencia: <https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-resistor-color-code>
 
- - **Resistores comunes y sus códigos de color:**
+- **Resistores comunes y sus códigos de color:**
 
 Foto resistencia 220 Ω
 
@@ -105,16 +105,14 @@ Foto de mi croquera.
 
 **Encargo 05:** Experimentar en casa con protoboard, LEDs, batrías y resistores.
 
- - Experimento 01: Intenté no usar resistores a la hora de generar un circuito en la protoboard, esto hizo que el LED brillara tan fuerte que era incómodo de ver, de hecho, en las fotos que tomé de este experimento tuve que maniobrar para que se entendiera lo que estaba pasando. El LED era azul, así que se veía extremandamente azul.
+- Experimento 01: Intenté no usar resistores a la hora de generar un circuito en la protoboard, esto hizo que el LED brillara tan fuerte que era incómodo de ver, de hecho, en las fotos que tomé de este experimento tuve que maniobrar para que se entendiera lo que estaba pasando. El LED era azul, así que se veía extremandamente azul.
 
 Foto de comparación entre circuito con resistencia y sin resistencia.
 
 ![Experimento_01](https://github.com/user-attachments/assets/a254bff3-4755-4b48-bd6b-c6271f031a6a)
 
- - Experimento 02:  Lo que intenté en este experimento fue prender tantos LEDs en paralelo como me fuera posible, y llegué a la cantidad de 9, para esto utilicé resistores de 330 Ω, y la luz que irradiaban todos los LED eran igual de intensos.
+- Experimento 02:  Lo que intenté en este experimento fue prender tantos LEDs en paralelo como me fuera posible, y llegué a la cantidad de 9, para esto utilicé resistores de 330 Ω, y la luz que irradiaban todos los LED eran igual de intensos.
 
 Foto de experimento 02 comparativa.
 
 ![Experimento_02](https://github.com/user-attachments/assets/6d2b9c55-4a6e-4494-aae3-fb70438b8f51)
-
-

@@ -29,4 +29,3 @@ Foto de mi croquera 03:
 Foto diagrama de "mi caja negra"
 
 ![encargo 01 foto 1 de 1](./archivos/encargo-01-foto-01.jpg)
- 
