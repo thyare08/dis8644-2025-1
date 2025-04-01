@@ -4,6 +4,7 @@ viernes 28 marzo 2025
 PORFIN LOGRAMOS HACER SONIDO
 
 
+![WhatsApp Image 2025-04-01 at 01 47 36](https://github.com/user-attachments/assets/28937e12-2cfd-45e7-b228-cc89d83b9317)
 
 https://github.com/user-attachments/assets/0bdadb5e-9802-4a14-9a86-3b649da07c77
 
