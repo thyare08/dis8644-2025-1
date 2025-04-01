@@ -44,3 +44,4 @@ Modulación: Cambio de un valor
 
 incorporar kicad
 
+555 timer circuits
