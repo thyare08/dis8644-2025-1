@@ -45,8 +45,6 @@ dictado durante el primer semestre 2025 (marzo a julio)
 - [26-paulinavargasf](./26-paulinavargasf/)
 - [27-AlanisMria](./27-AlanisMria/)
 - [28-IzhakVillegas](./28-IzhakVillegas/)
-- [29-todo](./29-todo/)
-- [30-todo](./30-todo/)
 
 ## evaluaciones
 
@@ -71,7 +69,7 @@ nuestras sesiones de clases serán los martes y viernes entre marzo y julio 2025
 | [02a](00-docentes/sesion-02a/)| 03-18 martes | resistores, LEDs, interruptores                 |
 | [02b](00-docentes/sesion-02b/)| 03-21 viernes| circuitos serie y paralelo                      |
 | [03a](00-docentes/sesion-03a/)| 03-25 martes | chips, timer 555, esquemáticos                  |
-| [03b](00-docentes/sesion-03b/)| 03-28 viernes| TODO                                            |
+| [03b](00-docentes/sesion-03b/)| 03-28 viernes| resistores experimentales, visita museo MAC     |
 | [04a](00-docentes/sesion-04a/)| 04-01 martes | TODO                                            |
 | [04b](00-docentes/sesion-04b/)| 04-04 viernes| entrega proyecto-01                             |
 | [05a](00-docentes/sesion-05a/)| 04-08 martes | TODO                                            |
@@ -107,6 +105,8 @@ otras fechas:
 - semana de exámenes teóricos, por lo tanto, NO hay evaluación de taller
 - semana exclusiva de trabajo de talleres, NO hay evaluación de taller
 - semana exclusiva de trabajo de talleres, NO hay evaluación de taller
+
+## evaluaciones
 
 ## bibliografia
 

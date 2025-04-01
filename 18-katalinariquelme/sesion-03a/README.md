@@ -66,16 +66,23 @@ Los pines del 555 tienen las funciones siguientes:
 
 **Parte 3:** Encargo 06.
 - escuchar disco de banda alemana **Einstürzende Neubauten** e investigar intrumentos utilizados en sus canciones.
-- escuchar banda francesa **Stereolab** e investigar sobre los sintetizadores y teclados que utilizan, adémas de las referencias esteticas que citan de otras bandas y contexto.
 
 **Einstürzende Neubauten**
 
-Foto de mi bitácora
+   - **¿Quienes son?**
+     Einstürzende Neubauten es una banda alemana de música experimental e industrial, formada en Berlín Occidental en 1980. Son conocidos por su uso innovador de instrumentos no convencionales, como herramientas de construcción y objetos metálicos, para crear paisajes sonoros únicos y a menudo estridentes.
 
-**Stereolab**
+![images](https://github.com/user-attachments/assets/5204ddfb-87fa-4e21-bbba-3db4f5e825aa)
 
-Foto de mi bitácora
+Disco escuchado: **Halber Mensch**
 
+![HalberMenschAlbumCover](https://github.com/user-attachments/assets/17e003aa-51d9-4cf2-90ca-30e02780bde4)
+
+  - Este álbum es considerado uno de los trabajos más influyentes y radicales de la banda, y es ampliamente reconocido como un clásico de la música industrial y experimental. Tiene sonidos intensos y ruidosos creados con objetos como tuberías, metales y madera. Voz que dice vocales gritados y emotivos del líder (Blixa Bargeld).
+
+   - Las letras de las canciones abordan temas como la alienación, la deshumanización y la crítica social, reflejando la atmósfera de tensión y cambio político en Alemania en la época.
+   - "Halber Mensch" es un álbum desafiante y provocador que sigue siendo influyente en la música experimental y underground hasta hoy en día.
+   
 **Parte 4:** Encargo 07.
 - Ejercicio con chip 555 en clases.
 

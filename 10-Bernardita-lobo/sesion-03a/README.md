@@ -15,9 +15,8 @@
 ![foto14](https://github.com/user-attachments/assets/059aec7a-4a6e-46d0-bd3a-9eaa948c61f8)
 
 ## encargo
-### circuito intrago 555
-- ¿cómo funciona en mis palabras?
-- ¿cómo se diagrama un potenciómetro?
-
-### einstÜrzende neubauten
+### circuito integrado 555 y einstÜrzende neubauten
+- ¿cómo funciona un circuito integrado 555 en mis palabras?
 - álbum "perpetuum mobile"
+
+![foto21](https://github.com/user-attachments/assets/dd6ac920-43b9-4f2b-a817-6fa0d4cd05b1)
