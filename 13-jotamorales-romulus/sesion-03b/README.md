@@ -57,6 +57,7 @@ Hay un momento que me dio pena no registrar; estaba tan concentrado en este que 
 
 
 https://github.com/user-attachments/assets/d1430a22-d787-4e93-8f6f-a8c923f5d21d
+
 ![image](https://github.com/user-attachments/assets/44c63e54-bef6-457c-b331-69ce4f26d48e)
 
 
