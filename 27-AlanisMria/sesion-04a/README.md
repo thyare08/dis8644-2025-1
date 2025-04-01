@@ -36,4 +36,4 @@ Funciona con ondas cuadradas (cosas que prendo y apago)
 
 Escuchar disco 1 bit symphony de Tristan Perich.
 
-
+los tipos de imputs que usamos la semana pasada fueron los potenciometros, los sensores de luz, el cuerpo y el grafito.
