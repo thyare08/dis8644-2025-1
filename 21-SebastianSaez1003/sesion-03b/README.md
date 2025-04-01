@@ -14,3 +14,11 @@ Lo importante de nuestro instrumento es que va distinto a partir de una gestuali
 Jugamos con el LDR, las bocinas y intentamos hacer una orquesta todos juntos, no lo grabé pero me dio risa, fue entretenido. 
 
 ### Módulo después de break
+
+
+
+
+
+# encargo08: cultura musical nacional
+
+# encargo09: apuntes sobre visita al museo de arte contemporáneo
