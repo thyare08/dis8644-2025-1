@@ -17,6 +17,10 @@ la variacion de resistencia controla nuestro instrumento.
 
 Cambiar el condensador nos puede servir para cambiar la octava (agudez) del sonido.
 
+
+https://github.com/user-attachments/assets/47d1d095-3664-45d5-8039-bc6faedb5341
+
+
 ### Encargo08: cultura musical nacional
 Gonzalo martinez y sus congas pensantes es un disco de 1997, de electrocumbia, desarrollado por el dúo Gonzalo Martines, compuesto por Jorge Gonzalez y Dandy Jack (Martín Schopf).
 
@@ -37,10 +41,10 @@ Gonzalo Martinez fue una banda precursora en el desarrollo de una mezcla entre e
 
 Fuentes: 
 
-. <https://www.latercera.com/culto/2024/12/06/el-dia-en-que-jorge-gonzalez-hizo-cumbia-electronica-en-nueva-york-y-lanzo-uno-de-sus-mejores-discos/>
-. <https://open.spotify.com/intl-es/album/0hhLviQJCAqmFXvWdoU5ck>
-. <https://www.musicapopular.cl/grupo/gonzalo-martinez/>
-. h<ttps://www.vice.com/es/article/dj-zikuta-habla-sobre-los-inicios-de-la-electronica-en-chile/>
+- <https://www.latercera.com/culto/2024/12/06/el-dia-en-que-jorge-gonzalez-hizo-cumbia-electronica-en-nueva-york-y-lanzo-uno-de-sus-mejores-discos/>
+- <https://open.spotify.com/intl-es/album/0hhLviQJCAqmFXvWdoU5ck>
+- <https://www.musicapopular.cl/grupo/gonzalo-martinez/>
+- <https://www.vice.com/es/article/dj-zikuta-habla-sobre-los-inicios-de-la-electronica-en-chile/>
 
 ### Encargo09: apuntes sobre visita al museo de arte contemporáneo
 
@@ -86,6 +90,19 @@ La obra en general me pareció una reflexión muy bella, respecto a que en mucho
 ![Imagen de WhatsApp 2025-03-31 a las 20 44 44_c1c85280](https://github.com/user-attachments/assets/7999134d-2035-40e3-8ea6-a3e170088b58)
 
 ![Imagen de WhatsApp 2025-03-31 a las 20 44 42_867fd050](https://github.com/user-attachments/assets/fd58ebc4-e611-4321-a614-8431d92344c9)
+
+#### Observación
+
+Tengo un interés particular en ver las terminaciones de las pinturas que veo en exhibiciones, siento que eso dice mucho de quien la pintó, siempre me fijo en los trazos y la manera en que tratan los bordes del lienzo, en este caso presencie 2 obras que representan extremos totalmente opuestos en cuanto a la realización de estos detalles, es increíble como estas simples decisiones o acciones frente a tu obran logran darle autenticidad y personalidad.
+
+![image](https://github.com/user-attachments/assets/aea72560-52d4-4f37-bc53-99fafd160640)
+En esta obra los bordes estaban hechos a la perfección, cuidando cada detalle para que continúe la imagen central hasta el fin del lienzo.
+Al mismo tiempo contaba con trazos muy pulidos y formas muy definidas.
+
+
+![Imagen de WhatsApp 2025-03-31 a las 20 44 45_51c8759b](https://github.com/user-attachments/assets/7fa99a22-936c-44e5-af0d-1d9e23286e6b)
+En esta pintura los trazos eran irregulares y los bordes siquiera estaban pintados, solo tenían las pequeñas cantidades de pintura que quedaron ahí al momento de la realización de la pintura (probablemente algo que yo haría).
+
 
 
 
