@@ -8,6 +8,8 @@ PORFIN LOGRAMOS HACER SONIDO
 
 https://github.com/user-attachments/assets/0bdadb5e-9802-4a14-9a86-3b649da07c77
 
+Si se aumenta la resistencia, el tiempo de carga del condensador se incrementa, lo que disminuye la frecuencia y hace que el sonido sea más grave. Si se disminuye la resistencia, el condensador se carga más rápido, aumentando la frecuencia y generando un sonido más agudo. 
+
 
 
 ## encargo08 Gonzalo Martínez y sus Congas Pensantes
