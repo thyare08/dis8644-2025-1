@@ -4,13 +4,13 @@
 
 ## Apuntes
 
-### Parte 1: Introducción a GitHub.
+### Parte 1: Introducción a GitHub
 
 Foto de mis apuntes.
 
 ![apuntes github sesion 01b](./archivos/apuntes-github-sesion-01b.jpg)
 
-### Parte 2: Introducción a los componentes eléctricos.
+### Parte 2: Introducción a los componentes eléctricos
 
 #### Componentes
 
@@ -20,9 +20,9 @@ Foto de mis apuntes.
 
 3. **Cables:** Los Cbles son connductores de electricidad de un punto a otro. Un punto importante a aclarar de estos mismos son sus colores llamativos, a los cuales uno les puede dar sentido para tener un orden, pero lo más común es: rojo=positivo y negro=negativo.
 
-4.  **Leds:** Es un diodo (dispositivo semiconductor unidireccional) emisor de luz que se ilumina al momento en que la energía los "atraviesa". Tiene dos patas, una más larga que la otra; esto nos indica que: pata larga=positivo y pata corta=negativo.
-   
-5.  **Resistencia:** Regulan y estabilizan el flujo de corriente en los circuitos. Ayudan a mantener un nivel de corriente seguro para evitar que se quemen o echen a perder.
+4. **Leds:** Es un diodo (dispositivo semiconductor unidireccional) emisor de luz que se ilumina al momento en que la energía los "atraviesa". Tiene dos patas, una más larga que la otra; esto nos indica que: pata larga=positivo y pata corta=negativo.
+
+5. **Resistencia:** Regulan y estabilizan el flujo de corriente en los circuitos. Ayudan a mantener un nivel de corriente seguro para evitar que se quemen o echen a perder.
 
 6. **Batería 9V:** Es una pila eléctrica de corriente de 9 voltios. Es la fuente de enrgía que vamos a utilizar en el semestre.
 
@@ -38,13 +38,13 @@ Foto de procesos
 
 ## encargo-02
 
-### Parte 1: Escuchar un disco de **Aphex Twin**, incluyendo contexto, instrumentos usados, entrevistas de la época, nuestras impresiones y opiniones.
+### Parte 1: Escuchar un disco de **Aphex Twin**, incluyendo contexto, instrumentos usados, entrevistas de la época, nuestras impresiones y opiniones
 
 Foto de mi croquera.
 
 ![encargo-02 foto 1 de 2](./archivos/encargo-02-foto-01.jpg)
 
-### Parte 2: Ver documental **Internet's Own Boy** y escribir una reseña sobre la vida de Aaron Swartz.
+### Parte 2: Ver documental **Internet's Own Boy** y escribir una reseña sobre la vida de Aaron Swartz
 
 Foto de mi croquera.
 
@@ -54,8 +54,8 @@ Foto de mi croquera.
 
 Estudiar la caja de materiales entregada la clase pasada, hacer un listado de componentes, subir fotos y buscar información básica al respecto, como por ejemplo:
 
- - ¿Desde cuándo existen los LED azules?
- - ¿Quién inventó las protoboard?
+- ¿Desde cuándo existen los LED azules?
+- ¿Quién inventó las protoboard?
 
 **Componentes:**
 
@@ -96,7 +96,7 @@ Foto de la batería de 9V.
 ![encargo-03 foto de batería 9V](./archivos/encargo-03-bateria-9v.jpg)
 
 7. **Interruptor basculante:** Dependiendo del lado hacia el que esté inclinado tiene una función distinta, por ende este interruptor se utiliza para iniciar o detener, y encender o apagar el flujo de corriente en un circuito.
- 
+
 Foto del interruptor basculante.
 
 ![encargo-03 foto de interruptor basculante](./archivos/encargo-03-interruptor-basculante.jpg)
@@ -153,7 +153,7 @@ Foto de condensador cerámico.
 
 ### ¿Desde cuándo existen los LED azules?
 
-Las luces led como las conocemos fueron creadas en 1962 por Nick Holonyack, un ingeniero eléctrico que gracias a los descubrimientos previos de otros tres individuos (Henry Joseph Round, Oleg Lossew y Georges Destriau), descubrimientos que involucran luz en objetos inorgánicos, diodos reaccionando en forma de luz al ser atravesados por una corriente eléctrica y a la electroluminiscencia causada por el sulfuro de zinc y su exposición tanto a luz ultravioleta como a la luz natural y artificial. 
+Las luces led como las conocemos fueron creadas en 1962 por Nick Holonyack, un ingeniero eléctrico que gracias a los descubrimientos previos de otros tres individuos (Henry Joseph Round, Oleg Lossew y Georges Destriau), descubrimientos que involucran luz en objetos inorgánicos, diodos reaccionando en forma de luz al ser atravesados por una corriente eléctrica y a la electroluminiscencia causada por el sulfuro de zinc y su exposición tanto a luz ultravioleta como a la luz natural y artificial.
 
 Gracias a esto es que Holonyack obtuvo las bases para su experimentación, en donde creó un componente de dos terminales que permitían que lo atravesara la corriente eléctrica sin necesidad de un gas. Es así que cada terminal de su diodo tenía una carga distinta (una positiva y una negativa) con un espacio intermedio entre ellas que era el lugar en donde sucede la transición que genera la luz, lo más curioso de esto es que el uso de fosfuro de arseniuro de galio (GaAsP) dió como resultado una luz de color rojo que fue el primer color de LED.
 
