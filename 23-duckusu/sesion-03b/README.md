@@ -86,3 +86,8 @@ Demostración de uso: https://youtube.com/shorts/GoCO87L8da8?si=nMSKCjf6m50tEn-J
 
 ## Reflexiones finales
 ### Despues de la visita, si regreso con nuevos conocimientos de lo que uno puede llegar a hacer con lo que hemos estado llegando a aprender clases, me habré saltado algunas secciones del museo pero eso fue por el hecho de que los consideraba un poco mas artisticos en su estructura mas allá de lo que yo buscaba, que hubiera una especie de tecnología detras de su diseño. En conclusión, fue un buen día de aprendizaje.
+
+## Cultura Musical Nacional - Gonzalo Martínez y sus Congas Pensantes
+- Proyecto musical que nació en la decadad de los 90 como propuesta en la musica latina y especialmente la electronica, el productor Cristián Moraga, tanbien conocido como "c-funk" es uno de los miembros fundadores del grupo "Los tetas", demostrando el calibre que poseía el proyecto.
+- Protagonizado por Jorge González (el vocalista de Los Prisioneros) y Martín Schopf, un músico chileno que vivía en Alemania y usaba el nombre Dandy Jack conocido por su música electrónica.
+- Lanzaron un album en 1997 bajo el sello de BMG, incluye una serie de canciones elctronicas como "La pollera amarilla", "La piragua" y "La pollera colorá", las cuales fueron destacadados para seguir avanzando en sus proyectos hasta llegar al disco "Gonzalo Martínez y sus Congas Pensantes", el cual no fue una gran locura en el ambito comercial pero si en ambitos underground de Europa, fue considerado como un producto adelantado a su epoca.
