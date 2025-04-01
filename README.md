@@ -106,6 +106,8 @@ otras fechas:
 - semana exclusiva de trabajo de talleres, NO hay evaluación de taller
 - semana exclusiva de trabajo de talleres, NO hay evaluación de taller
 
+## evaluaciones
+
 ## bibliografia
 
 ## referentes
