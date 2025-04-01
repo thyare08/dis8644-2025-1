@@ -91,7 +91,7 @@ La obra en general me pareció una reflexión muy bella, respecto a que en mucho
 
 ![Imagen de WhatsApp 2025-03-31 a las 20 44 42_867fd050](https://github.com/user-attachments/assets/fd58ebc4-e611-4321-a614-8431d92344c9)
 
-#### Observación
+#### Observación 1
 
 Tengo un interés particular en ver las terminaciones de las pinturas que veo en exhibiciones, siento que eso dice mucho de quien la pintó, siempre me fijo en los trazos y la manera en que tratan los bordes del lienzo, en este caso presencie 2 obras que representan extremos totalmente opuestos en cuanto a la realización de estos detalles, es increíble como estas simples decisiones o acciones frente a tu obran logran darle autenticidad y personalidad.
 
@@ -103,6 +103,7 @@ Al mismo tiempo contaba con trazos muy pulidos y formas muy definidas.
 ![Imagen de WhatsApp 2025-03-31 a las 20 44 45_51c8759b](https://github.com/user-attachments/assets/7fa99a22-936c-44e5-af0d-1d9e23286e6b)
 En esta pintura los trazos eran irregulares y los bordes siquiera estaban pintados, solo tenían las pequeñas cantidades de pintura que quedaron ahí al momento de la realización de la pintura (probablemente algo que yo haría).
 
+#### Observación 2
 
 Me pareció interesante ver por primera vez esculturas realizadas en impresión 3d expuestas en un museo, las tuve que tocar, necesitaba saber de que eran, perdón.
 
