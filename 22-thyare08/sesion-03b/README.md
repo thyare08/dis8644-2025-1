@@ -12,6 +12,7 @@
 ![20250328_115654](https://github.com/user-attachments/assets/863461e2-bcda-431f-a791-833df1298787)
 ![20250328_115659](https://github.com/user-attachments/assets/248918fe-3553-4413-aff4-e93cb39d9917)
 ![20250328_120249](https://github.com/user-attachments/assets/94f53c40-2fd8-4589-a0fd-198eba19a6b8)
+##### imagen 2 a 7: museo estéreo, me intrigó bastante, la construcción de todos los objectos y los diversos silencios que se escuchaba de cada uno
 ![20250328_120859](https://github.com/user-attachments/assets/db49949c-1a22-4c89-addc-db47264bc894)
 ![20250328_121520](https://github.com/user-attachments/assets/18f1b198-04de-4afd-870a-a9e415cbf2b5)
 ![20250328_122214](https://github.com/user-attachments/assets/92bad2bd-2485-45cf-b55f-2eefeffe6dbd)
