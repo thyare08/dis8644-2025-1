@@ -14,8 +14,9 @@
 ![20250328_120249](https://github.com/user-attachments/assets/94f53c40-2fd8-4589-a0fd-198eba19a6b8)
 ##### imagen 2 a 7: museo estéreo, me intrigó bastante, la construcción de todos los objectos y los diversos silencios que se escuchaba de cada uno
 ![20250328_120859](https://github.com/user-attachments/assets/db49949c-1a22-4c89-addc-db47264bc894)
-###### imagen 8: fotografía y manipulación digital, me pareció interesante loa efectos y colores que se veían en las imágenes
+###### imagen 8: fotografía y manipulación digital, me pareció interesante los efectos y colores que se veían en las imágenes
 ![20250328_121520](https://github.com/user-attachments/assets/18f1b198-04de-4afd-870a-a9e415cbf2b5)
+####### imagen 9: un caleidoscopio es mi corazón, fue una experiencia llena se intriga, por entender cómo funciona
 ![20250328_122214](https://github.com/user-attachments/assets/92bad2bd-2485-45cf-b55f-2eefeffe6dbd)
 ![20250328_122631](https://github.com/user-attachments/assets/ef9b2f2f-d2f6-4b3f-957c-0a2fd0fd3639)
 ![20250328_122647](https://github.com/user-attachments/assets/590b2ff9-e082-4a4f-85c0-5f9d59fef2ac)
