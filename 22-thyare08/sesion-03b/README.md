@@ -18,6 +18,7 @@
 ![20250328_121520](https://github.com/user-attachments/assets/18f1b198-04de-4afd-870a-a9e415cbf2b5)
 ####### imagen 9: un caleidoscopio es mi corazón, fue una experiencia llena se intriga, por entender cómo funciona
 ![20250328_122214](https://github.com/user-attachments/assets/92bad2bd-2485-45cf-b55f-2eefeffe6dbd)
+######## imagen 10: corresponde a lo mismo que la imagen 8
 ![20250328_122631](https://github.com/user-attachments/assets/ef9b2f2f-d2f6-4b3f-957c-0a2fd0fd3639)
 ![20250328_122647](https://github.com/user-attachments/assets/590b2ff9-e082-4a4f-85c0-5f9d59fef2ac)
 ![20250328_123307](https://github.com/user-attachments/assets/24ebd545-2bab-44a9-b551-2db364f3b673)
