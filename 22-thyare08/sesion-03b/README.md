@@ -4,6 +4,7 @@
 ![20250328_103106](https://github.com/user-attachments/assets/eeef162e-a21f-48d8-b2a5-218cf39ba59e)
 ### salida al mac
 ![20250328_113356](https://github.com/user-attachments/assets/74a5627a-28de-4dad-a964-e2256bee0bc8)
+#### imagen 1: me pareció una buena pregunta que invita a reflexionar
 ![20250328_115025](https://github.com/user-attachments/assets/2ab1ab83-f6cd-46e7-b4e9-4083ddd01291)
 ![20250328_115306](https://github.com/user-attachments/assets/5b31b9ec-b12e-4b9c-8b32-bda7e3d58931)
 ![20250328_115326](https://github.com/user-attachments/assets/c4674dac-6e2d-4c75-8ae0-bb64792c3bb3)
