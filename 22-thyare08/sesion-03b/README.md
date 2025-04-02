@@ -28,3 +28,4 @@
 ![20250328_123358](https://github.com/user-attachments/assets/e4126f71-fdc3-4a39-a878-6509578f6dee)
 ![20250328_123408](https://github.com/user-attachments/assets/44628a77-0b1d-40f4-b4f3-ab8641ddffb2)
 ########## imagen 13 a 17: un mundo bajo los párpados, me gustó mucho esta sala por su luz amarilla y sus esculturas siento que dicen mucho sobre las personas
+########### encargo sobre el disco Gonzalo Martinez y sus congas pensantes fue realizado por el cantautor chileno Jorge Gonzáles, hizo este disco debido a sus recuerdos de la infancia cuanso la cumbia unía a toda la gente en el baile, además de que en los clubes de New York notó que el hi hat del house y el platillo de la cumbia eran iguales, lo que le dió la idea de cruzar la cumbia y la electrónica. Este fue un disco que sorprendió, rompió molds y expectativas, también fue uno de los mejores de su carrera y pot último influyó en la música Chilena al introducir la electrocumbia
