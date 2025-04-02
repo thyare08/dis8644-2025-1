@@ -27,3 +27,4 @@
 ![20250328_123335](https://github.com/user-attachments/assets/74c83257-891a-4e2a-805c-0a3f22aa25ea)
 ![20250328_123358](https://github.com/user-attachments/assets/e4126f71-fdc3-4a39-a878-6509578f6dee)
 ![20250328_123408](https://github.com/user-attachments/assets/44628a77-0b1d-40f4-b4f3-ab8641ddffb2)
+########## imagen 13 a 17: un mundo bajo los párpados, me gustó mucho esta sala por su luz amarilla y sus esculturas siento que dicen mucho sobre las personas
