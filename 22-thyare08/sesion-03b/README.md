@@ -21,6 +21,7 @@
 ######## imagen 10: corresponde a lo mismo que la imagen 8
 ![20250328_122631](https://github.com/user-attachments/assets/ef9b2f2f-d2f6-4b3f-957c-0a2fd0fd3639)
 ![20250328_122647](https://github.com/user-attachments/assets/590b2ff9-e082-4a4f-85c0-5f9d59fef2ac)
+######### imagen 11 y 12: en la casa vive el río, más que nada las frases que tienen me recordaron a momentos de mi vida
 ![20250328_123307](https://github.com/user-attachments/assets/24ebd545-2bab-44a9-b551-2db364f3b673)
 ![20250328_123315](https://github.com/user-attachments/assets/259cb4ad-1a61-439c-9616-24662fd77587)
 ![20250328_123335](https://github.com/user-attachments/assets/74c83257-891a-4e2a-805c-0a3f22aa25ea)
