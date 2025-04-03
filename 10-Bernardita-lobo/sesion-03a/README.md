@@ -13,7 +13,7 @@
 - datasheet manual
 - circuito electrónico con circuito integrado 555
 - luz oscilante con potenciómetro
-- 
+
 ![foto14](https://github.com/user-attachments/assets/059aec7a-4a6e-46d0-bd3a-9eaa948c61f8)
 
 ## encargo
