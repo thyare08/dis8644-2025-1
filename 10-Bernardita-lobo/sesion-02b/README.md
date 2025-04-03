@@ -18,5 +18,6 @@
 
 ### suzane cianni
 - álbum "golden apples of the sun"
+- la mezcla de los sintetizadores y sus habilidades para el piano
 
 ![foto13](https://github.com/user-attachments/assets/42d93c8f-c0b3-42e3-a467-ebe2efd54717)
