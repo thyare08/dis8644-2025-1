@@ -2,8 +2,10 @@
 
 ## trabajo en clase
 ### circuito electrónico aplicado
-- circuito con sensor de luz
-- circuito con bocina
+- oscilador astable
+- circuito electrónico con sensor de luz
+- circuito electrónico con bocina
+- orquesta de circuitos electrónicos con sensor de luz y bocina
 
 ![foto17](https://github.com/user-attachments/assets/a229eff2-9730-4c44-90d8-b20370cc8680)
 ![foto18](https://github.com/user-attachments/assets/251fa9e9-4619-494f-a632-ad9c42afed2a)
@@ -19,10 +21,13 @@
 - ¿cómo se relaciona la electrónica con el arte?
 - exposición museo en estéreo
 - ¿cómo comenzó el arte electónico?
+- videos documentales sobre los inicios del arte electrónico
 
 ![foto22](https://github.com/user-attachments/assets/7d167358-36c5-438d-985c-3fe520a0b53a)
 
 ### gonzalo martínez y sus congas pensantes
 - por jorge gonzález y dandy jack
+- cumbia electrónica
+- entrevista jorge gonzáles
 
 ![foto23](https://github.com/user-attachments/assets/12a8a261-94ed-46ee-937b-19d2443d4a4f)
