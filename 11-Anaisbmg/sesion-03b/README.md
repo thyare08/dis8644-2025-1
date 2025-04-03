@@ -20,8 +20,6 @@ https://github.com/user-attachments/assets/53301331-a3dc-41f0-aae2-190b3dbae034
 escuchar e investigar disco de Gonzalo Martínez y sus Congas Pensantes. quién hizo ese disco, por qué, cómo le fue, qué influencias tuvo en Chile.
 
 # encargo09: apuntes sobre visita al museo de arte contemporáneo
-subir fotos, impresiones, comentarios, reflexiones, críticas, y todo el material que produzcan.
-la idea de la visita era aprender cómo exhibir y explicar la construcción de dispositivos electrónicos y artefactos sonoros en contextos de museo y públicos.
 
 ![a cédula](https://github.com/user-attachments/assets/ff7033e4-7e7d-4867-834f-f85e477770f2)
 
