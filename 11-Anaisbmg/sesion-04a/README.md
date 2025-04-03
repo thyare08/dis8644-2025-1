@@ -32,10 +32,11 @@ en el esquematico cuando aparece un . es por que esta conectado, si no aparece e
 
 # encargo-10
 __*1 bit synphony*__
-hecha por tristan perich
-fue creada en el 2010
+hecha por tristan perich, fue creada en el 2010
+
 la composición es con sonido de 1 bit, bit (binary digit) funciona 0 o 1, apagado o encendido, 0v o 9v, etc.
 lo interesante es que es una sinfonía desde un circuito electronico que genera música en tiempo real
+
 la construcción de este cuenta de:
 1. bateria cr2032
 2. microcontrolador proframado
