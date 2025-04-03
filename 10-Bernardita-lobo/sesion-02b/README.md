@@ -12,7 +12,7 @@
 
 ## encargo
 ### loquito x ti loco loco
-- circuitos complejos con testeo extracción de resistencias
+- circuitos complejos con testeo de extracción de resistencias
 
 ![foto15](https://github.com/user-attachments/assets/8f3674e5-b2c6-4e5b-ab03-a6c3cc732487)
 
