@@ -15,7 +15,7 @@
 - con sensor de luz LDR o con potenciómetro
 - inputs: LDR, potenciómetro, orgánico, cuerpo
 
-![foto25](https://github.com/user-attachments/assets/7fb3e7ad-98fa-4786-950e-6d2f4290ad6b)
+![foto25](https://github.com/user-attachments/assets/0ddab1f7-4246-468b-9228-71fd9bee2ae2)
 
 ## encargo
 ### 1-bit symphony
