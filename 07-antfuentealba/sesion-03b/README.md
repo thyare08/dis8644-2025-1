@@ -8,3 +8,6 @@
 ## encargo-08
 
 ![WhatsApp Image 2025-03-31 at 5 22 58 PM](https://github.com/user-attachments/assets/b65d32b5-59c9-4977-a0ea-20507e321f91)
+
+## apuntes
+no pude tomar muchos apuntes porque me tuve que ir temprano por emergencia.
