@@ -2,6 +2,9 @@
 
 ## trabajo en clase
 ### circuitos eléctricos
+- repaso github
+- explicación dibujos esquemáticos
+- voltaje y resistencia
 - circuitos paralelos e independientes
 - valores de las resistencias
 
@@ -17,5 +20,6 @@
 ### componentes y circuitos
 - componentes repasados: resistencia, capacitor, diodo, potenciómetro y protoboard
 - simlogía de los esquemas electrónicos
+- funcionamiento protoboard
 
 ![foto14](https://github.com/user-attachments/assets/29d4463a-7f6e-425e-8c73-29aa5ec8ad98)
