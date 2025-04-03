@@ -9,8 +9,8 @@
 - funcionamiento si o no
 
 ### atari punk console
-- circuito con dos circuitos integrados 555
-- con sensor de luz LDR o con potenciometro
-- inputs como 
+- circuito electrónico con dos circuitos integrados 555
+- con sensor de luz LDR o con potenciómetro
+- inputs: LDR, potenciómetro, orgánico, cuerpo
 
 ## encargo
