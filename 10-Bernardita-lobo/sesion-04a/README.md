@@ -14,3 +14,4 @@
 - inputs: LDR, potenciómetro, orgánico, cuerpo
 
 ## encargo
+### álbum "1-bit symphony"
