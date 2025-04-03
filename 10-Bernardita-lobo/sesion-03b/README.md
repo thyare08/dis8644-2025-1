@@ -2,6 +2,7 @@
 
 ## trabajo en clase
 ### circuito electrónico aplicado
+- oscilador astable
 - circuito electrónico con sensor de luz
 - circuito electrónico con bocina
 - orquesta de circuitos electrónicos con sensor de luz y bocina
