@@ -20,6 +20,6 @@
 ### circuito integrado 555 y einstÜrzende neubauten
 - ¿cómo funciona un circuito integrado 555 en mis palabras?
 - funciones de patillas del circuito integrado 555
-- álbum "perpetuum mobile"
+- álbum "perpetuum mobile" por einstürzende neubauten
 
 ![foto21](https://github.com/user-attachments/assets/dd6ac920-43b9-4f2b-a817-6fa0d4cd05b1)
