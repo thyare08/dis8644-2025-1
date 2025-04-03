@@ -20,6 +20,21 @@ información sacada de: <https://www.musicapopular.cl/grupo/gonzalo-martinez/#:~
 
 ### Encargo09: apuntes sobre visita al museo de arte contemporáneo
 
+**"Museo en estéreo"**
+
+el sonido como medio en caminatas, la obra era interactiva con el visitante mediante los sonidos, los cuales eran un intercambio auditivo. Se logra entender como la percepción del espacio a través de herramientas digitales y experimentación auditiva.
+
+**"Ecosistemas y paisajes mediados"**
+
+Alude a los videos performaticos y registros sobre la exploración entre la relación del entorno y la tecnología. ¿cómo los paisajes y ecosistemas pueden ser reinterpretados a través de medios electrónicos?
+
+mediante sensores, proyecciones y paisajes sonoros digitales.
+
+**"Bordes Fluidos"**
+
+Combinaron tecnología y medios digitales con enfoque a la memoria, identidad y territorio, utilizando videos y audios. Percepción sensorial y emocional dentro de la electrónica.
+
+
 ![FullSizeRender 7](https://github.com/user-attachments/assets/c83adab2-17b7-491e-b6fd-e5dec622d537)
 ![FullSizeRender 6](https://github.com/user-attachments/assets/289775c2-e1b6-4cd8-be02-f7a9614664e5)
 ![FullSizeRender 5](https://github.com/user-attachments/assets/1d101d76-26d0-4b8f-b5c9-4a3134f15ac8)![IMG_8304](https://github.com/user-attachments/assets/15c9e41e-99bd-4752-8188-2c20343eb634)
