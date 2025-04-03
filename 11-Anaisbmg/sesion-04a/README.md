@@ -4,7 +4,7 @@ utilizar kicad -> nos ayudara en las entregas
 nota n1
 bitacora, encargos, proyecto 01, proyecto 02
 
-**_ encontrar algo roto _**, para ver anatomia, ej: ¿por qué tiene placas distintas? ¿cuales son sus colores de cable? 
+*encontrar algo roto*, para ver anatomia, ej: ¿por qué tiene placas distintas? ¿cuales son sus colores de cable? 
 ver su carcasa, secciones, funcionalidad, fuente energia, input, output etc.
 
 circuito atari punk console (apc)
