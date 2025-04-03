@@ -14,6 +14,7 @@
 ## encargo
 ### pueblo nuevo y resistencias
 - álbum "el poder corrompe" por daniel jeffs
+- la presencia del tempo
 - ¿cómo identificar el valor de las resitencias a través de la tabla de códigos de colores?
 
 ![foto13](https://github.com/user-attachments/assets/54921d43-b93e-4795-8951-345cb8bcc7eb)
