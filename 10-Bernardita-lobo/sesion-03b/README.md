@@ -2,8 +2,9 @@
 
 ## trabajo en clase
 ### circuito electrónico aplicado
-- circuito con sensor de luz
-- circuito con bocina
+- circuito electrónico con sensor de luz
+- circuito electrónico con bocina
+- orquesta de circuitos electrónicos con sensor de luz y bocina
 
 ![foto17](https://github.com/user-attachments/assets/a229eff2-9730-4c44-90d8-b20370cc8680)
 ![foto18](https://github.com/user-attachments/assets/251fa9e9-4619-494f-a632-ad9c42afed2a)
