@@ -3,7 +3,8 @@
 ![1](https://github.com/user-attachments/assets/7844ba0d-79c6-4ab7-9109-d2be8b9f40c2)
 ![2](https://github.com/user-attachments/assets/da8567a0-0a2b-4c7e-9f11-2f5241f3f1da)
 
-realmente me gusta mucho el área de exploración y aprender sobre cosas que no conozco. esta clase, en la que pudimos observar y escuchar el sonido y el periodo del led, me impresionó mucho. además, me parece personalmente muy interesante. 
+realmente me gusta mucho el área de exploración y aprender sobre cosas que no conozco. esta clase, en la que pudimos observar y escuchar el sonido y el periodo del led, me impresionó mucho. además. 
+
 el circuito se realizó primero con un ldr y luego con un potenciómetro
 
 
