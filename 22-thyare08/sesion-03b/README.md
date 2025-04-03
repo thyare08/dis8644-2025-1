@@ -12,7 +12,7 @@
 ![20250328_115654](https://github.com/user-attachments/assets/863461e2-bcda-431f-a791-833df1298787)
 ![20250328_115659](https://github.com/user-attachments/assets/248918fe-3553-4413-aff4-e93cb39d9917)
 ![20250328_120249](https://github.com/user-attachments/assets/94f53c40-2fd8-4589-a0fd-198eba19a6b8)
-##### imagen 2 a 7: museo estéreo, me intrigó bastante, la construcción de todos los objectos y los diversos silencios que se escuchaba de cada uno
+##### imagen 2 a 7: museo estéreo, me intrigó bastante, la construcción de todos los objetos, lo que los conformaba y los diversos silencios que se escuchaba de cada uno
 ![20250328_120859](https://github.com/user-attachments/assets/db49949c-1a22-4c89-addc-db47264bc894)
 ###### imagen 8: fotografía y manipulación digital, me pareció interesante los efectos y colores que se veían en las imágenes
 ![20250328_121520](https://github.com/user-attachments/assets/18f1b198-04de-4afd-870a-a9e415cbf2b5)
@@ -28,3 +28,4 @@
 ![20250328_123358](https://github.com/user-attachments/assets/e4126f71-fdc3-4a39-a878-6509578f6dee)
 ![20250328_123408](https://github.com/user-attachments/assets/44628a77-0b1d-40f4-b4f3-ab8641ddffb2)
 ########## imagen 13 a 17: un mundo bajo los párpados, me gustó mucho esta sala por su luz amarilla y sus esculturas siento que dicen mucho sobre las personas
+########### encargo sobre el disco Gonzalo Martinez y sus congas pensantes fue realizado por el cantautor chileno Jorge Gonzáles, hizo este disco debido a sus recuerdos de la infancia cuanso la cumbia unía a toda la gente en el baile, además de que en los clubes de New York notó que el hi hat del house y el platillo de la cumbia eran iguales, lo que le dió la idea de cruzar la cumbia y la electrónica. Este fue un disco que sorprendió, rompió molds y expectativas, también fue uno de los mejores de su carrera y pot último influyó en la música Chilena al introducir la electrocumbia
