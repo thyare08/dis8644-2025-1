@@ -14,4 +14,5 @@
 - inputs: LDR, potenciómetro, orgánico, cuerpo
 
 ## encargo
-### álbum "1-bit symphony"
+### 1-bit symphony
+álbum "1-bit synphony" por tristan perich
