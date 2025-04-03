@@ -28,5 +28,6 @@
 ### gonzalo martínez y sus congas pensantes
 - por jorge gonzález y dandy jack
 - cumbia electrónica
+- entrevista jorge gonzáles
 
 ![foto23](https://github.com/user-attachments/assets/12a8a261-94ed-46ee-937b-19d2443d4a4f)
