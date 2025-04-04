@@ -27,7 +27,7 @@
 - circuito electrónico programado para general sonido en tiempo real
 -  sonidos generados por encendidos y apagados como los videojuegos
 
-### los primeros sonidos en los videojuegos
+### primeros sonidos en los videojuegos
 - video "música y videojuegos: 40 años de arte sonoro"
 - el primer videojuego con sonido fue "pong" de atari, este sonido se incorporó porque su creador al jugar se imaginaba un ruido cada vez que la pelota chocaba con las paredes del juego, por lo que sintió que debía agregarlo, o el juego estaría incompleto.
 - aunque esto lo impulsó a integrar los sonidos a los videojuegos, fue bastante difícil ya que la máquina no estaba hecha para reproducir sonidos, en este caso la música no se compone, sino que se programa.
