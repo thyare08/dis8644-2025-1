@@ -23,7 +23,7 @@
 - sonidos con su propia identidad
 - convive con los elementos simbólicos de cada móvil, reinterpretándolos
 ### ¿cómo comenzó el arte electónico?
-- videos documentales sobre los inicios del arte electrónico
+- video documental sobre los inicios del arte electrónico
 - por los años 1940 surgen nuevos paradigmas tecnológicos como la programación, sistemas generativos, software libre, código abierto y la composición basada en el azar.
 - a esto le llamamos arte de los nuevos medios, es cual puede ser arte digital, electrónico, multimedia y arte interactivo
 - el arte digital en la decada de 1960-1970, surge después de la guerra, principalmente se basaba en algoritmos, imágenes hechas por computadoras e imágenes aleatorias.
