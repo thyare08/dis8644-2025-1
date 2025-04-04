@@ -25,7 +25,7 @@
 ### ¿cómo comenzó el arte electónico?
 - video documental sobre los inicios del arte electrónico
 - por los años 1940 surgen nuevos paradigmas tecnológicos como la programación, sistemas generativos, software libre, código abierto y la composición basada en el azar.
-- a esto le llamamos arte de los nuevos medios, es cual puede ser arte digital, electrónico, multimedia y arte interactivo
+- a esto le llamamos arte de los nuevos medios, el cual puede ser arte digital, electrónico, multimedia y arte interactivo
 - el arte digital en la decada de 1960-1970, surge después de la guerra, principalmente se basaba en algoritmos, imágenes hechas por computadoras e imágenes aleatorias.
 - en 1980 se instauro la cultura de los computadores, junto con la llegada del internet en 1990, se utilizaron técnicas como el pixel art, el diseño vectorial, diseño 3d, ilustración 3d, la animación y el videoarte.
 - luego en los 2000, se expandió la tecnología táctil y la realidad virtual, lo que permitió un enfoque en experiencias visuales interactivas, mediante el uso de sensores o pantallas táctiles. se comenzaron a crear plataformas en línea y sitios web como obras de arte, además los avances en los videojuegos impulsaron la búsqueda de gráficos más realistas.
