@@ -35,7 +35,10 @@
 
 ### gonzalo martínez y sus congas pensantes
 - por jorge gonzález y dandy jack
+- video "jorge gonzáles habla del disco gonzalo martines"
+- video "gonzalo martínes y sus congas pensantes"
 - cumbia electrónica para acercar la musica electrónico a sudamérica
-- entrevista jorge gonzáles
+- jorge gonzáles aprendió a utilizar el sintetizador con la pollera amarilla
+- en un principio no tuvo tanto éxito porque el público esperaba música más del estilo de los prisioneros
 
 ![foto23](https://github.com/user-attachments/assets/12a8a261-94ed-46ee-937b-19d2443d4a4f)
