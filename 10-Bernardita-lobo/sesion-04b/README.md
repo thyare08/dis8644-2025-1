@@ -24,4 +24,12 @@ insertar foto*
 
 ## encargo
 ### proj 1: bajando opaciodad a la caja negra
-- escoger aparato electrónico que no funcione, abrirlo y explorar su interfaz
+- escoger aparato electrónico que no funcione, diseccionar y explorar su interfaz
+- ¿de dónde obtiene energía y qué interacción ofrece?
+- ¿hay botones o perillas y qué grado de movimiento ofrecen?
+- ¿hay PCB principal? ¿cuántos hay?
+- ¿cómo se interconectan números, textos o dibujos?
+- ¿qué placas requieren alimentación y de dónde llegan las interacciones?
+- realiza un diagrama de flujo y un bill of materials, ¿qué y cuántas partes tiene?
+
+insetar foto*
