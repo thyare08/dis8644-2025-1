@@ -15,7 +15,7 @@
 > <br/>
 > <br/>
 > <br/>
-> <img align="left" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-03b/circuitoV2.jpg" width=420> <br/>
+> <img align="left" src="./files/circuitoV2.jpg" width=420> <br/>
 > <br/>
 > <br/>
 > <br/>
@@ -26,7 +26,7 @@
 > <br/>
 > <br/>
 > <br/>
-> <img align="left" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-03b/circuitoV2a.jpg" width=420> <br/>
+> <img align="left" src="./files/circuitoV2a.jpg" width=420> <br/>
 > <br/>
 > <br/>
 > <br/>
@@ -64,7 +64,7 @@
 >> #### [falstad.com](https://www.falstad.com/circuit/)
 >> Simulador del flujo de corriente en circuitos + osciloscopio simulado <br/>
 >> <br/>
->> <img align="left" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-03b/falstad%20simulation.gif" width=420> <br/>
+>> <img align="left" src="./files/falstad%20simulation.gif" width=420> <br/>
 >> <br/>
 >> <br/>
 >> <br/>
