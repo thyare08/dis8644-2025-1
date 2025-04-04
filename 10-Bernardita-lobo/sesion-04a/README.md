@@ -29,18 +29,21 @@
 
 ### los primeros sonidos en los videojuegos
 - video "música y videojuegos: 40 años de arte sonoro"
-- el primer videojuego con sonido fue el "pong" de atari, esto fue incorporado porque su creador cuando jugaba se imaginaba ese sonido cada vez que la pelota chocaba con las paredes y creía que el juego estaba incompleto sin este sonido
-- aunque esto lo impulsó a integrar los sonidos a los videojuegos, fue bastante difícil ya que la máquina no estaba hecha para reproducir sonidos, en este caso la música no se compone, sino que se programa
-- fue todo un éxito pong, es por esto que atari decidió trabajar en computar la primera melodía en un videojuego llamado "gun fight", esto para la época fue muy innovador
-- luego de un tiempo fue "space invaders" de taito el juego que realmente cambió el paradigma en el mundo de los videojuegos y el sonido, ya que la música acompaña al juego, reproduciéndose cada vez más rápido a medida que avanza, transformándose en una forma de transmitir información y haciendo más completa la experiencia
-- en la música convencional se comienzan a utilizar elementos de los sonidos de los videojuegos, además salió el éxito global "pac-man" que incluso vendió discos con sus temas
-- nintendo llevó el lenguaje de 8 bits a otro nivel, componiendo música de mario bros y zelda, dejando en la cumbre de la música de 8 bits a "super mario bros 3"
-- finalmente, a mediados de los 80, salieron los primeros microchips, esto permitió mejorar la capacidad de procesamiento y la calidad del sonido en los videojuegos, lo que hizo posible composiciones más complejas, marcando un antes y un después en la evolución de la música en los videojuegos
+- el primer videojuego con sonido fue "pong" de atari, este sonido se incorporó porque su creador al jugar se imaginaba un ruido cada vez que la pelota chocaba con las paredes del juego, por lo que sintió que debía agregarlo, o el juego estaría incompleto.
+- aunque esto lo impulsó a integrar los sonidos a los videojuegos, fue bastante difícil ya que la máquina no estaba hecha para reproducir sonidos, en este caso la música no se compone, sino que se programa.
+- fue todo un éxito pong, es por esto que atari decidió trabajar en computar la primera melodía en un videojuego llamado "gun fight", esto para la época fue muy innovador.
+- luego de un tiempo fue "space invaders" de taito el juego que realmente cambió el paradigma en el mundo de los videojuegos y el sonido, ya que la música acompaña al juego y cumple una funsión, reproduciéndose cada vez más rápido a medida que avanza, transformándose en una forma de transmitir información y haciendo más completa la experiencia.
+- en la música convencional se comienzan a utilizar elementos de los sonidos de los videojuegos, además salió el éxito global "pac-man" que incluso vendió discos con sus temas.
+- nintendo llevó el lenguaje de 8 bits a otro nivel al componer la música de títulos icónicos como "mario bros" y "zelda", sin embargo fue "super mario bros 3" el que alcanzó la cúspide de la música en 8 bits, destacándose por su alta complejidad ya que cada elemento del juego contaba con su propio sonido.
+- finalmente, a mediados de los 80, salieron los primeros microchips, esto permitió mejorar la capacidad de procesamiento y la calidad del sonido en los videojuegos, lo que hizo posible composiciones más complejas, marcando un antes y un después en la evolución de la música en los videojuegos.
 
 insertar foto*
 
 ### ¿que es un bit?
-- es la unidad básica de la computación
+- video "¿qué es un sintema binario y como funciona?"
+- video "todo lo que un qubit puede enseñarte sobre física cuántica"
+- unidad básica de la computación
+- cantidad más pequeña que una computadora puede procesar
 - los bit se trabajan con el sistema binario
 - un byte está compuesto por 8 bits
 
