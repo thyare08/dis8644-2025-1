@@ -30,7 +30,7 @@
 > <br/>
 > <br/>
 > <br/>
-> Después cambiamos  ${\color{#ffe4a8}R2}$ por una  <strong> ${\color{#ffe4a8}fotoresistencia}$ </strong>, lo que tuvo el efecto de alterar la frecuencia del sonido emitido dependiendo de cuanta luz permitieramos que reciviera el LDR (tapandolo con la mano [+ grave] o alumbrandolo con el celular [+ agudo])
+> Después cambiamos  ${\color{#ffe4a8}R2}$ por una  <strong> ${\color{#ffe4a8}fotoresistencia}$ </strong>, lo que tuvo el efecto de alterar la frecuencia del sonido emitido dependiendo de cuanta luz permitieramos que recibiera el LDR (tapandolo con la mano [+ grave] o alumbrandolo con el celular [+ agudo])
 > <br/>
 > <br/>
 > <br/>
@@ -40,7 +40,7 @@
 >> <img image-rotate="90" align="right" src="https://www.pcboard.ca/image/cache/catalog/products/resistors/gl5528-ldr-02-800x800.jpg" width=200> <br/>
 >> <br/>
 >> [Fotoresistencia/Light Dependent Resistor (LDR)](https://youtu.be/DYcLFHgVCn0?si=fQL99084OkrClTet&t=1293)  
->>  Son resistencias cuyo valor cambia dependiendo de la intensidad de la luz que recivan <br/> (**+luz** = **-resistencia**)
+>>  Son resistencias cuyo valor cambia dependiendo de la intensidad de la luz que reciban <br/> (**+luz** = **-resistencia**)
 >> <br/>
 >> <br/>
 >> <br/>
