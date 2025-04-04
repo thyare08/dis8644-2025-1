@@ -40,9 +40,15 @@ los tipos de imputs que usamos la semana pasada fueron los potenciometros, los s
 
 Modulación: Cambio de un valor
 
-2 555 vinculados, con el primero en modo astable y el segundo en modo ...
+2 chips 555 vinculados, con el primero en modo astable y el segundo en modo ...
 
 incorporar kicad
 
 555 timer circuits
 revisar common mistakes
+
+Durante la clase probamos el circuito compuesto por 2 chips 555 con distintas iteraciones, implementando, ldr, potenciometro y distintos capacitores que nos ayudaran a jugar con la frecuencia que transmitiría el output.
+
+
+
+### Encargo 10: escuchar disco 1-Bit Symphony
