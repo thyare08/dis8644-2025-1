@@ -28,7 +28,9 @@
  # elementos nuevos
 
 ## cirtuito LM 555
-" todo esto funciona con magia, cuando sale el humito, se va el humo mágico y no funciona "
+
+" todo esto funciona con magia, cuando sale el humito, se va el humo mágico y no funciona, no se puede volver a meter"
+
 - proporciona retardos de tiempo, como un circuitto integrado flipflop (almacena y cambia el estado de señal digital)
 -  *[datasheet - manual](https://www.ti.com/lit/ds/symlink/ne555.pdf)*
 -  
