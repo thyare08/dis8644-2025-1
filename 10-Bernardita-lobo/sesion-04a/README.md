@@ -26,6 +26,7 @@
 - composición electrónica experimentral de cinco momentos
 - circuito electrónico programado para general sonido en tiempo real
 -  sonidos generados por encendidos y apagados como los videojuegos
+
 ### los primeros sonidos en los videojuegos
 - video "música y videojuegos: 40 años de arte sonoro"
 - el primer videojuego con sonido fue el "pong" de atari, esto fue incorporado porque su creador cuando jugaba se imaginaba ese sonido cada vez que la pelota chocaba con las paredes y creía que el juego estaba incompleto sin este sonido
@@ -40,4 +41,12 @@ insertar foto*
 
 ### ¿que es un bit?
 - es la unidad básica de la computación
+- los bit se trabajan con el sistema binario
+- un byte esta compuesto por 8 bits
+
+### álgebra booleana 
+- base para la informatica
+- tiene dos valores posibles, verdadero 1 y falso 0
+- compuesta por tres operaciones logisticas: and, or y not
+- sistema binario y decimales
 - 
