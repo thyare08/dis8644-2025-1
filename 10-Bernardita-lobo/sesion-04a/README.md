@@ -42,11 +42,12 @@ insertar foto*
 ### ¿que es un bit?
 - es la unidad básica de la computación
 - los bit se trabajan con el sistema binario
-- un byte esta compuesto por 8 bits
+- un byte está compuesto por 8 bits
 
 ### álgebra booleana 
-- base para la informatica
+- es la base para la informática
 - tiene dos valores posibles, verdadero 1 y falso 0
-- compuesta por tres operaciones logisticas: and, or y not
-- sistema binario y decimales
-- 
+- compuesta por tres operaciones lógisticas: and, or y not
+- sistema binario y sus decimales
+
+  insertar foto*
