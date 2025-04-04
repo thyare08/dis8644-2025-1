@@ -39,18 +39,16 @@ todos los chip se configuran
 
 # atari punk console
 "dos 555 conectados"
+
 NO PONER RESISTENCIA MENOR A 1k EN EL PIN 7
-
-![atariPunk_v1](https://github.com/felix-rg416/dis8644-2025-1/blob/main/19-felix-rg416/sesion-04a/archivos/atariPunk_v1.png)
-
-![circuito.APC.02](19-felix-rg416/sesion-04a/archivos/circuito.APC.02.jpg) 
-
-![circuito.APC.01](19-felix-rg416/sesion-04a/archivos/circuito.APC.01.jpg)
-
 
 - [límites y ejemplos del 555](https://www.555-timer-circuits.com/)
 - [errores típicos](https://www.555-timer-circuits.com/common-mistakes.html)
 
+![atariPunk_v1](https://github.com/felix-rg416/dis8644-2025-1/blob/main/19-felix-rg416/sesion-04a/archivos/atariPunk_v1.png)
+
+![circuito.APC.02](https://github.com/felix-rg416/dis8644-2025-1/blob/main/19-felix-rg416/sesion-04a/archivos/circuito.APC.01.jpg)
+![circuito.APC.01](https://github.com/felix-rg416/dis8644-2025-1/blob/main/19-felix-rg416/sesion-04a/archivos/circuito.APC.02.jpg)
 
 ## encargo 1 - bit symphony
 
@@ -63,4 +61,4 @@ me causó más impresión e interés el aparato en sí que la música.
 
 es, literalmente, un circuito en  la caja de un cd, el cual tiene una batería, un interruptor, un microochip, una perilla para el volumen y un botón para cambiar de pista.
 
-tristan perich lo creó programando un microchip para generar pulsos eléctricos de encindido y apagado. me ipresiona que no sea un audio previamente grabado, produce la música en vivo cuando se enciende. es increible la relación que se genera entre **código, datos y sonido**
+tristan perich lo creó programando un microchip para generar pulsos eléctricos de encindido y apagado. me ipresiona que no sea un audio previamente grabado, produce la música en vivo cuando se enciende. es increible la relación que se genera entre **código, datos y sonido**.
