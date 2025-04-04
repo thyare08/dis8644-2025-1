@@ -67,5 +67,12 @@ Los componentes que estan presentes en este disco son:
 
 Este elemento artístico tiene un aspecto bastante minimalista y ordenado, presentando sus elementos como una composicion armonica y muy agradable a la vista.
 
-Cuenta con 5 canciones nombradas *Movements* 
+Cuenta con 5 canciones nombradas *Movements*, en ellas podemos oir distintas frecuencias, en algunos casos bastante agudas.
+
+Cuenta con una buena amplificación y sonido pulido, considerando las dificultades que se pueden presentar para conseguir esos resultados, debío ser un proceso exploratorio.
+
+*Movement 1* me recuerda mucho a las películas de fantasía ochenteras, da una vibra muy eterea que luego se combina con la efusividad del beat .
+
+*Movement 4* me recuerda cuando jugaba tetris, me hace sentir en un nivel de un juego difícil.
+
 
