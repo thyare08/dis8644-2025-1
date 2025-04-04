@@ -21,3 +21,12 @@ Por qué hay 3 cables para 2 botones?
 Es importante volver accesible lo que diseñamos.
 
 Uv Exposure Box. 
+
+Diagrama en bloque es una representación de como estan conectadas las cosas dentro.
+
+Usar osciloscopio para observar el comportamiento de ls o das de un circuito
+
+Bom: bill of materials
+
+Moog una de las primeras empresas que empeso a producir sintetizadores.
+
