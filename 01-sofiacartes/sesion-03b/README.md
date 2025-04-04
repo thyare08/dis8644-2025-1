@@ -1,8 +1,8 @@
 # sesion-03b
 ## Apuntes clase 28/03
 
-![IMG_0573](https://github.com/user-attachments/assets/2dfb493a-f49f-4c2d-89c1-04919f848ed8)
 ![IMG_0571](https://github.com/user-attachments/assets/76490d7e-0417-4d8a-a12a-4ffcbe04bf74)
+![IMG_0573](https://github.com/user-attachments/assets/2dfb493a-f49f-4c2d-89c1-04919f848ed8)
 
 ## Circuitos hechos con Chip 555
 
