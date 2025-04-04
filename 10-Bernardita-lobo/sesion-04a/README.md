@@ -30,7 +30,7 @@
 ### los primeros sonidos en los videojuegos
 - video "música y videojuegos: 40 años de arte sonoro"
 - el primer videojuego con sonido fue el "pong" de atari, esto fue incorporado porque su creador cuando jugaba se imaginaba ese sonido cada vez que la pelota chocaba con las paredes y creía que el juego estaba incompleto sin este sonido
-- aunque esto lo impulsó a integrar los sonidos a los videojuegos, fue realmente difícil ya que la máquina no estaba hecha para reproducir sonidos, la música no se compone, se programa
+- aunque esto lo impulsó a integrar los sonidos a los videojuegos, fue realmente difícil ya que la máquina no estaba hecha para reproducir sonidos, en este caso la música no se compone, sino que se programa
 - luego de este éxito, atari computó la primera melodía en un videojuego llamado "gun fight" esto para la época fue realmente llamativo
 - fue "space invaders" de taito el juego que cambió el paradigma en el mundo de los videojuegos y el sonido, ya que la música acompaña al juego, reproduciéndose cada vez más rápido a medida que avanza, transformándose en una forma de transmitir información y haciendo más completa la experiencia
 - en la música convencional se comienzan a utilizar elementos de los sonidos de los videojuegos, además salió el éxito global "pac-man" que incluso vendió discos con sus temas
