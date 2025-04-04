@@ -10,8 +10,8 @@
 
  ### hacer:
  - [ ] subir imágenes como imagenes, no como link (crear carpeta de archivos)
- - [ ] objeto para desarmar
- - [ ] escuhar **1 bit symphony**
+ - [ ] objeto para desarmar - martes 08
+ - [x] escuhar **1 bit symphony**
  - [ ] usar imágenes propias, si son de otros lugares, referenciarlos/citarlos
        
 
@@ -47,3 +47,13 @@ NO PONER RESISTENCIA MENOR A 1k EN EL PIN 7
 - [errores típicos](https://www.555-timer-circuits.com/common-mistakes.html)
 
 
+## encargo 1 - bit symphony
+
+me causó más impresión e interés el aparato en sí que la música.
+
+es, literalmente, un circuito en  la caja de un cd, el cual tiene una batería, un interruptor, un microochip, una perilla para el volumen y un botón para cambiar de pista.
+
+tristan perich lo creó programando un microchip para generar pulsos eléctricos de encindido y apagado. me ipresiona que no sea un audio previamente grabado, produce la música en vivo cuando se enciende. es increible la relación que se genera entre **código, datos y sonido**
+
+
+[fuente](https://cantaloupemusic.com/albums/1-bit-symphony)
