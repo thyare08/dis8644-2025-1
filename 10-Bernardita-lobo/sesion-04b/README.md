@@ -20,7 +20,7 @@ insertar foto*
 - un instrumento musical pasa de gesto a sonido
 - video: wendy carlos demonstrates her moog synthesizer
 
-insertar foto*
+![foto29](https://github.com/user-attachments/assets/00a91f8b-9c35-44c2-8040-9c94c409347e)
 
 ## encargo
 ### proj 1: bajando opacidad a la caja negra
