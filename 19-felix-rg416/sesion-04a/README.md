@@ -41,7 +41,7 @@ todos los chip se configuran
 "dos 555 conectados"
 NO PONER RESISTENCIA MENOR A 1k EN EL PIN 7
 
-![atariPunk_v1](https://github.com/user-attachments/assets/44928768-fb17-4ed3-83cd-4789b066ff88)
+![atariPunk_v1](https://github.com/felix-rg416/dis8644-2025-1/blob/main/00-docentes/sesion-04a/archivos/atariPunk_v1.png)
 
 - [límites y ejemplos del 555](https://www.555-timer-circuits.com/)
 - [errores típicos](https://www.555-timer-circuits.com/common-mistakes.html)
