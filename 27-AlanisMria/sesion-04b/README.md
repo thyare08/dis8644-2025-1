@@ -28,5 +28,10 @@ Usar osciloscopio para observar el comportamiento de ls o das de un circuito
 
 Bom: bill of materials
 
-Moog una de las primeras empresas que empeso a producir sintetizadores.
+Moog: Una de las primeras empresas que empeso a producir sintetizadores.
 
+Swiched on bach 
+
+Circuito mono estable: esta estable de una manera (Off), si hay una perturbación se va a encender y mantenerse encendido por un tiempo definido.
+
+Encargo 11: hacer un botón experimental
