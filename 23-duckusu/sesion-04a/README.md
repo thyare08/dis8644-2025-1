@@ -31,5 +31,5 @@ Video en uso: https://youtu.be/gY8Kqpr4eVg?si=PkxLRkxYx78bUsh2
 
 
 ## Encargo
-- Buscar un objeto para la proxima clase, ya sea chatarra o de uso (preferiblemente chatarra) y analizar en clases, también organizar grupos (actualmente soy dupla con en Carlo)
+- Buscar un objeto para la proxima clase, ya sea chatarra o de uso (preferiblemente chatarra) y analizar en clases, también organizar grupos (Ahora soy grupo con Carlo y BAtian)
 - 1-bit symphony -------- escuchar
