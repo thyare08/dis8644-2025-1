@@ -37,7 +37,7 @@
 > <br/>
 > <br/>
 > <br/>
->> <img image-rotate="90" align="right" src="https://www.pcboard.ca/image/cache/catalog/products/resistors/gl5528-ldr-02-800x800.jpg" width=200> <br/>
+>> <img image-rotate="90" align="right" src="./files/LDR.jpeg" width=200> <br/>
 >> <br/>
 >> [Fotoresistencia/Light Dependent Resistor (LDR)](https://youtu.be/DYcLFHgVCn0?si=fQL99084OkrClTet&t=1293)  
 >>  Son resistencias cuyo valor cambia dependiendo de la intensidad de la luz que reciban <br/> (**+luz** = **-resistencia**)
@@ -45,7 +45,7 @@
 >> <br/>
 >> <br/>
 > <br/>
-> <img align="left" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-03b/circuitoV2c.jpg" width=420> <br/>
+> <img align="left" src="./files/circuitoV2c.jpg" width=420> <br/>
 > <br/>
 > <br/>
 > <br/>
@@ -84,8 +84,11 @@
 ## Encargo 08
 ### Gonzalo Martínez y sus Congas Pensantes
 >
-> quién hizo ese disco, por qué, cómo le fue, qué influencias tuvo en Chile.
-> <!-- deleate -->
+> En comparación con las otras bandas de música electrónica, escuchar esto fue sorpresivo, me esperaba algo que fuese 100% musica electronica (o algo experimental), no algo más "normal" o "tradicional" que tuviese elementos de música electrónica acompañando y casi como bailando con los elementos de música más tradicional, intercambiando entre sí *"the spotlight of the song"* a lo largo del disco.
+>
+> El disco fue compuesto por **Jorge González** (ex-vocalista de "Los pricioneros"), según un articulo de la tercera, tiene su origen en los recuerdos de la niñez de González, donde el cuenta recordar como la cumbia atrapaba a la gente en baile, y se le ocurrió mezclarla con música electrónica.
+>
+> Como suele ocurrir con obras adelantadas a su época, parece que este disco fue ignorado por el público, mas no por otros artistas, que comenzaron a surgir otras obras que mezclaban elementos de la música electrónica con la música latinoamericana.
 >
 -----------------------------------------------------------------------------------------------------------
 ## Encargo 09
