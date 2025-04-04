@@ -14,3 +14,7 @@ En este periodo de tiempo González buscaba algo nuevo, un cambio de aires, es p
 
 La verdad el disco me sorprendió muchísimo porque nunca había escuchado algo como esto, es algo muy distinto. Me divirtió mucho el ritmo de la música y el cómo algunas canciones estaban modificadas de tal forma que no se parecían mucho a las originales. Es interesante pensar que en Chile el disco no tuvo un buen recibimiento y en Europa sí, es curioso que las modas,gustos,estilos musicales se tarden años en llegar al país y en Europa se instauran 10 años antes. Creo que la sociedad chilena de ese entonces lamentablemente no estaba preparada para lo que este disco representaba, estoy agradecido de haber podido escuchar algo así gracias al encargo.
 
+## Portada del álbum
+![ab67616d0000b2734c985f3bc639792e464eb5bb](https://github.com/user-attachments/assets/fb0f8859-8fef-4fb9-8388-9385d0f9976a)
+
+
