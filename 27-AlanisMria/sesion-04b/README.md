@@ -12,4 +12,12 @@ Haremos proto pantallas.
 Lo simétrico puede ser bello pero lo asimétrico muchas veces es justo.
 
 Interfaz, lo que esta entre el objeto y el usuario, da feedback y retroalimentación sobre su estado.
+Nos conecta a la función del producto.
 
+Analizar las decisiones que se tomaronnpara llegar al resultado.
+
+Por qué hay 3 cables para 2 botones? 
+
+Es importante volver accesible lo que diseñamos.
+
+Uv Exposure Box. 
