@@ -51,4 +51,21 @@ Durante la clase probamos el circuito compuesto por 2 chips 555 con distintas it
 
 
 
-### Encargo 10: escuchar disco 1-Bit Symphony
+### Encargo 10: Escuchar disco 1-Bit Symphony
+
+Este disco fue desarrollado por el Newyorkino Tristan Perich en 2009.
+Se trata de un disco electronico reproducido por un circuito electronico que cuenta con un chip que reproduce musica gracias a su programación, este disco esta inspirado en las matemáticas, en la codificación y la física
+
+Este disco se presentó en formato fisíco mediante un paquete de cd que contiene los componentes en su interior, ya que lo interesante de este es que la música no se encuentra grabada, sino que se crea en el momento mediante la programación.
+Los componentes que estan presentes en este disco son:
+
+- Batería
+- Interruptor on-off
+- Microchip generador de código binario
+- Potenciador 
+- Adaptador para auriculares
+
+Este elemento artístico tiene un aspecto bastante minimalista y ordenado, presentando sus elementos como una composicion armonica y muy agradable a la vista.
+
+Cuenta con 5 canciones nombradas *Movements* 
+
