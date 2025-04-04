@@ -23,7 +23,7 @@ insertar foto*
 insertar foto*
 
 ## encargo
-### proj 1: bajando opaciodad a la caja negra
+### proj 1: bajando opacidad a la caja negra
 - escoger aparato electrónico que no funcione, diseccionar y explorar su interfaz
 - ¿de dónde obtiene energía y qué interacción ofrece?
 - ¿hay botones o perillas y qué grado de movimiento ofrecen?
