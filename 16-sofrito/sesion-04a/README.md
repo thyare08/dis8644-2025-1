@@ -9,5 +9,7 @@ también hicimos la construcción de un apc, el cual contaba con dos 555, un ldr
 
 ![video de la funcionalidad del circuito y su tonalidad]
 https://github.com/user-attachments/assets/e80fce87-3fb8-4e13-9abb-7f450e91a8b9
+
 observaciones:
+
 con un 103 la tonalidad es muy aguda y un poco molesta, sin emabargo con un 474 la tonalidad es más agradable, suena casi como de videojuego.
