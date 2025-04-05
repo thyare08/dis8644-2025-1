@@ -22,7 +22,6 @@ El disco que escuche fue **Dinámica estructural** de Pablo Gomez Bate lanzado e
 
 ## Encargo 05: Serie en paralelo
 
-
 ![WhatsApp Image 2025-04-05 at 1 53 08 PM](https://github.com/user-attachments/assets/543e0a3a-bb78-472a-ac01-ebf45ed0c269)
 
 
