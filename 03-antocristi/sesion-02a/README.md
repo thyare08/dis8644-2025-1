@@ -11,11 +11,11 @@
 * sin resistencia puede hacer cortocircuito
 * anodo = positivo
 * catodo= negativo
-* led se prenden con 10ma
+* LED se prenden con 10ma
 
 revisar codigo de color de las resistencias
 
-las azules tienen 5 rallitas
+las azules tienen 5 rayitas
 
 ## circuito electrico
 
