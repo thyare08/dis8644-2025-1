@@ -4,7 +4,7 @@ Clase 7: Martes 01 de abril del 2025
 
 **Parte 1:** Apuntes en clases y ejercicios realizado en clases
 
-FotoS de bitácora
+Fotos de bitácora
 
 ![IMG_0022](https://github.com/user-attachments/assets/0e71e65d-7aba-496f-bf89-402186629188)
 
