@@ -10,6 +10,10 @@ Fotos de bitácora
 
 ![IMG_0023](https://github.com/user-attachments/assets/df5d65ef-1dfd-4b6d-bd78-90e26da2ebbd)
 
+Circuito esquematico a realizar.
+
+![atariPunk_v1](https://github.com/user-attachments/assets/2f6ac8c6-3eab-4bdf-8430-903407358d7c)
+
 Foto de ejercicio 
 
 ![PHOTO-2025-04-05-17-27-36](https://github.com/user-attachments/assets/3fda60bc-0e19-46e6-8896-d90f75f1e7bb)
