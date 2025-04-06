@@ -10,7 +10,7 @@ Subir foto de ejercicio
 
 **Parte 2:** Encargo
 
-Encargo ?? escuchar **1 bit Symphony de Tristan Perich**
+Encargo 10: escuchar **1 bit Symphony de Tristan Perich**
 
 **Contexto: ¿Qué es un bit?**
   - **bit** son las siglas de "binary digital" o en español digito binario
