@@ -36,6 +36,7 @@ todos los elementos son de fácil acceso con una sola mano, ofreciendo un grado 
 _______________________
 ## componentes internos
 
+
 **placa PCB principal:** tiene una única placa PCB, donde se encuentran todos los componentes electrónicos. la placa une la alimentación, el procesamiento de datos y la interfaz física con el usuario.
 
 **interruptores:**
