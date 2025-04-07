@@ -36,6 +36,7 @@ todos los elementos son de fácil acceso con una sola mano, ofreciendo un grado 
 _______________________
 ## componentes internos
 
+![collage](https://github.com/felix-rg416/dis8644-2025-1/blob/main/19-felix-rg416/sesion-04b/archivos/collage.01.png)
 
 **placa PCB principal:** tiene una única placa PCB, donde se encuentran todos los componentes electrónicos. la placa une la alimentación, el procesamiento de datos y la interfaz física con el usuario.
 
