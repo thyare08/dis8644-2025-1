@@ -16,3 +16,7 @@
 ![IMG_0507](https://github.com/user-attachments/assets/05eb08b2-298f-490d-9694-d5d3cd37f3c1)
 <https://github.com/user-attachments/assets/30f2e4d9-b139-4212-96ce-7592ddefbb3d>
 <https://github.com/user-attachments/assets/3546dd8c-b325-4bb9-908e-e2e76810ac02>
+
+## 1-bit-symphony
+
+<img width="601" alt="1-bit music" src="https://github.com/user-attachments/assets/1dbb2e91-6e3d-4df7-8f22-1aca70c0d3a8" />
