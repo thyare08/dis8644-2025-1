@@ -7,13 +7,14 @@
 - analizamos el funcionamiento y sistema electrónico de una botonera
 - interfaz, intención y ergonomía
 
-insertar foto*
+![foto28](https://github.com/user-attachments/assets/7d0c4353-8013-4b4c-a0a5-73f847f5d0ad)
 
 ### circuito electrónico monoestable
-- emite un único pulso de corriente durante un tiempo determinado
 - primer circuito con un botón
+- se mantiene estable hasta que es perturbado
+- emite un único pulso de corriente durante un tiempo determinado
 
-insertar foto*
+![foto30](https://github.com/user-attachments/assets/a5044861-b7b7-4999-9bf1-ad8a6f363bf4)
 
 ### grandmother
 - sintetizadores análogos moog
