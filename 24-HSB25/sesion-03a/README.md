@@ -1,6 +1,6 @@
 # sesion-03a
 
-# ENCARGO 06: ¿Quien es Suzanne Cianni?
+## ENCARGO 06: ¿Quien es Suzanne Cianni?
 
 ![SuzanneCiani](https://proyectoidis.org/wp-content/uploads/2023/03/ciani-main.jpg)
 
@@ -9,6 +9,7 @@ Suzanne Ciani es una compositora, pianista y pionera de la música electrónica 
 Es una de las primeras mujeres en hacerse un nombre en el mundo de la música New Age. Fue la inventora del sonido Coca-Cola, patentado por esta empresa. Entre los reconocimientos a su obra destacan cinco nominaciones a los premios Grammy y un Globo de Oro.
 
 Álbumes Clásicos y Canciones Destacadas
+
 **1. Seven Waves (1982) – Su álbum debut con un sonido ambiental y sintético muy característico.**
 
 - The First Wave: Birth of Venus
@@ -50,19 +51,19 @@ Ciani también es famosa por sus trabajos de diseño de sonido, incluyendo sonid
 
 ![Xenon2](https://i.ytimg.com/vi/v9nD9DQwd80/maxresdefault.jpg)
 
-**Link del Audio Coca Cola:** 
+**Link del Audio Coca Cola:**
 [Coca Cola Pop & Pour](https://www.youtube.com/shorts/f32oy2is0EY)
 
-**Link de Musica del Videojuego Xenon 2:** 
+**Link de Musica del Videojuego Xenon 2:**
 [Suzanne Ciani - Xenon - Long Effects](https://www.youtube.com/watch?v=Vz1P7L8wgzk&ab_channel=FindersKeepersRecords)
 
-# Descripciones Materiales Recibidos
+## Descripciones Materiales Recibidos
 
-# **Resistencia 220Ω**
+### Resistencia 220Ω
 
 El condensador electrolítico de 100µF es un componente electrónico diseñado para almacenar y liberar energía en circuitos eléctricos. Su alta capacitancia lo hace ideal para aplicaciones de filtrado, estabilización y almacenamiento de carga.
 
-Características principales: 
+Características principales:
 
 1. Capacitancia: 100µF (microfaradios)
 
@@ -74,7 +75,7 @@ Características principales:
 
 ![Resistencia220](https://aelectronics.com.mx/2754-large_default/resistencia-th-1-4-watt-300-ohm.jpg)
 
-# **Resistencia de 1K**
+### Resistencia de 1K
 
 La resistencia de 1KΩ (1,000 ohmios) es un componente electrónico pasivo ampliamente utilizado para limitar corriente, ajustar voltajes y estabilizar circuitos. Se representa con la notación "1K", donde "K" indica kiloohmios (1,000 ohmios).
 
@@ -133,6 +134,7 @@ Características principales:
 Pequeña resistencia de película de carbón con un valor de 470K ohm y una tolerancia de ±5%, capaz de disipar potencias de hasta 0,25w (1/4w) y soportar tensiones de trabajo de hasta 300v.
 
 Características de la resistencia de 470KΩ:
+
 1. Valor: 470KΩ (470,000 ohmios)
 
 2. Tolerancia: Puede variar según el tipo (±1%, ±5%, ±10%)
@@ -148,7 +150,7 @@ Características de la resistencia de 470KΩ:
 - Circuitos electrónicos para limitar corriente.
 - División de voltaje.
 - Filtros y amplificadores en electrónica analógica.
--  Aplicaciones en fuentes de alimentación y sensores.
+- Aplicaciones en fuentes de alimentación y sensores.
 
 ![Resistencia470k](https://www.electrocomponentes.es/9182-large_default/resistencia-470k-ohm-025w.jpg)
 
@@ -340,14 +342,3 @@ En exposición a la luz (especialmente luz visible o infrarroja), la resistencia
 5. Material: Fabricado generalmente con materiales fotoconductores como sulfuro de cadmio o selenio.
 
 ![LDR](https://www.victronics.cl/wp-content/uploads/2019/02/81-60000.jpg)
-
-
-
-
-
-
-
-
-
-
-
