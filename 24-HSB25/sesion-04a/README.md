@@ -28,4 +28,15 @@ Bocina o salida de audio
 - Barata
 - Muy divertida para experimentar con sonidos
 
+[APCWORK](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/APC_with_2_555_%28pin_out%29_and_bridge_added.png/400px-APC_with_2_555_%28pin_out%29_and_bridge_added.png)
+
+# Explicación técnica simplificada
+
+- El primer temporizador 555 genera una señal continua (oscilador astable).
+- Esa señal se manda al segundo 555, que la convierte en pulsos más cortos o largos (oscilador monoestable).
+- El resultado es un sonido que cambia según cómo ajustes los potenciómetros.
+- Esa señal se puede enviar a un parlante o amplificador para que se escuche.
+
+
+
 
