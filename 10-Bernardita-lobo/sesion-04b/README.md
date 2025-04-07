@@ -24,6 +24,7 @@
 ![foto29](https://github.com/user-attachments/assets/00a91f8b-9c35-44c2-8040-9c94c409347e)
 
 ## encargo
+### switched on bach (wendy carlos)
 ### proj 1: bajando opacidad a la caja negra
 - escoger aparato electrónico que no funcione, diseccionar y explorar su interfaz
 - ¿de dónde obtiene energía y qué interacción ofrece?
