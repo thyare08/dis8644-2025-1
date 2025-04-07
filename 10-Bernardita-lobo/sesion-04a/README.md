@@ -45,12 +45,12 @@
 - cantidad más pequeña que una computadora puede procesar
 - los bit se trabajan con el sistema binario
 - un byte está compuesto por 8 bits
-- sistema binario y sus decimales
 
 ### álgebra booleana 
 - es la base para la informática
 - tiene dos valores posibles, verdadero 1 y falso 0
 - compuesta por tres operaciones lógisticas: and, or y not
+- - sistema binario y sus decimales
 
  ### bit cuantico o qubit
 - video "todo lo que un qubit puede enseñarte sobre física cuántica"
