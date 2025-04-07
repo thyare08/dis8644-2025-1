@@ -1,6 +1,6 @@
 # sesion-04b
 
-Clase 08: Vieres 4 de Abril del 205.
+Clase 08: Viernes 4 de Abril del 2025.
 
 **Parte 1:** Apuntes en clases.
 
