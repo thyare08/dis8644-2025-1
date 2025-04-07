@@ -9,4 +9,4 @@
 ## Realizado en clases 555 monoestable
 <https://github.com/user-attachments/assets/20a44042-d3b9-4d95-8e0c-9d8c8d35f86b>
 
-## 1-bit music
+##
