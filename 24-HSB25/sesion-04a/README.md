@@ -37,7 +37,7 @@ Bocina o salida de audio
 - El resultado es un sonido que cambia según cómo ajustes los potenciómetros.
 - Esa señal se puede enviar a un parlante o amplificador para que se escuche.
 
-# Opinion acerca 1-Bit Symphony
+# Opinión acerca 1-Bit Symphony
 
 La música del álbum "1-Bit Symphony" me resulto fascinante por su uso de sonidos sintéticos que recuerdan muchísimo a los videojuegos de 8 bits o estilo METROID. Cada pista transmite una energía cruda y digital que, a pesar de su simplicidad técnica, logra crear atmósferas intensas y envolventes. Lo más llamativo es cómo estos sonidos, muy similares a los que puede generar una Atari Punk Console, pueden llegar a ser tan expresivos.
 
