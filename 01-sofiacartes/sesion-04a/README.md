@@ -20,3 +20,10 @@
 ## 1-bit-symphony
 
 <img width="601" alt="1-bit music" src="https://github.com/user-attachments/assets/1dbb2e91-6e3d-4df7-8f22-1aca70c0d3a8" />
+
+Creada por **Tristan Perich**, un compositor y artista electrónico.Es un artista estadounidense nacido en 1982. Estudió música y matemáticas, sus obras suele explorar los límites entre lo digital y lo analógico. 
+
+El disco fue lanzado en 2010 por el sello discográfico Cantaloupe Music
+"1-Bit Symphony" no es tradicional por su formato  es una pieza de música electrónica generada  por hardware. La sinfonía viene dentro de un estuche de CD que tiene un pequeño circuito electrónico. Cuando enciendes el dispositivo con unos audífonos conectados, genera la música utilizando sonidos 1-bit.
+
+no lo puede escuchar completo porque a pesar de que lo tenía en bajo volumen me incomodaba :(
