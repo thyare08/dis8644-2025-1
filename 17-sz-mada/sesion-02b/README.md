@@ -25,7 +25,7 @@ Como las 3 resistencias son iguales, el brillo de los LED es el mismo. Si modifi
 - Con el **BOM** se documentan los componentes o materiales que se van a usar al fabricar algo
 
 |Type|Qty|Name|Value|
-|--|--|--|--|
+|--|:--:|--|--|
 |Resistencia|3|R1, R2, R3|1k Ω|
 |LED|4|D1, D2, D3, D4|Variable|
 |Batería|1|BAT|9V|
@@ -35,7 +35,7 @@ Como las 3 resistencias son iguales, el brillo de los LED es el mismo. Si modifi
 - Con la **Tabla de verdad** podemos saber el “valor de verdad” de una combinación propuesta y todas sus variaciones
 
 ||D1|D2|D3|D4|
-|--|--|--|--|--|
+|--|:--:|:--:|:--:|:--:|
 |R1|O|I|I|I|
 |R2|I|O|I|I|
 |R3|I|I|O|O|
@@ -53,7 +53,7 @@ Esquema de circuito 1
 - BOM
 
 |Type|Qty|Name|Value|
-|--|--|--|--|
+|--|:--:|--|--|
 |Resistencia|4|R1, R2, R3, R5|220 Ω|
 |Resistencia|1|R4|1k Ω|
 |LED|4|D1, D2, D3, D4|Variable|
@@ -64,7 +64,7 @@ Esquema de circuito 1
 - Tabla de verdad
 
 ||D1|D2|D3|D4|
-|--|--|--|--|--|
+|--|:--:|:--:|:--:|:--:|
 |R1|O|O|O|O|
 |R2|I|O|O|I|
 |R3|I|I|I|O|
@@ -82,7 +82,7 @@ Esquema de circuito 2
 - BOM
 
 |Type|Qty|Name|Value|
-|--|--|--|--|
+|--|:--:|--|--|
 |Resistencia|6|R1, R2, R3, R4, R5, R6|220 Ω|
 |LED|4|D1, D2, D3, D4|Variable|
 |Batería|1|BAT|9V|
@@ -92,7 +92,7 @@ Esquema de circuito 2
 - Tabla de verdad
 
 ||D1|D2|D3|D4|
-|--|--|--|--|--|
+|--|:--:|:--:|:--:|:--:|
 |R1|I|I|I|I|
 |R2|I|I|I|I|
 |R3|O|O|O|O|
@@ -113,7 +113,7 @@ Esquema de circuito 3
 - BOM
 
 |Type|Qty|Name|Value|
-|--|--|--|--|
+|--|:--:|--|--|
 |Resistencia|5|R1, R2, R3, R4, R8|220 Ω|
 |Resistencia|3|R5, R6, R7|1k Ω|
 |LED|3|D1, D2, D3|Variable|
@@ -123,8 +123,8 @@ Esquema de circuito 3
 
 - Tabla de verdad
 
-||D~1~|D~2~|D~3~|
-|--|--|--|--|
+||D1|D2|D3|
+|--|:--:|:--:|:--:|
 |R1|I|O|I|
 |R2|I|O|I|
 |R3|I|O|I|
