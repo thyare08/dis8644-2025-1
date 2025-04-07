@@ -36,7 +36,15 @@ Bocina o salida de audio
 - Esa señal se manda al segundo 555, que la convierte en pulsos más cortos o largos (oscilador monoestable).
 - El resultado es un sonido que cambia según cómo ajustes los potenciómetros.
 - Esa señal se puede enviar a un parlante o amplificador para que se escuche.
-- 
+
+# Opinion acerca 1-Bit Symphony
+
+La música del álbum "1-Bit Symphony" me resulto fascinante por su uso de sonidos sintéticos que recuerdan muchísimo a los videojuegos de 8 bits o estilo METROID. Cada pista transmite una energía cruda y digital que, a pesar de su simplicidad técnica, logra crear atmósferas intensas y envolventes. Lo más llamativo es cómo estos sonidos, muy similares a los que puede generar una Atari Punk Console, pueden llegar a ser tan expresivos.
+
+El álbum tiene un aire inquietante, como si uno estuviera atrapado en un entorno tenso o misterioso, pero al mismo tiempo hay un ritmo constante y vibrante que lo mantiene en movimiento. Esa combinación de tensión y dinamismo lo hace único y muy atractivo para quienes 
+disfrutan de la estética RETRO sobre todo de videojuegos.
+
+![1bitsymphony](https://f4.bcbits.com/img/a3075350746_10.jpg)
 
 
 
