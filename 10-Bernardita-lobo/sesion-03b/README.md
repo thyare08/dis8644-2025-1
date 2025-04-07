@@ -23,6 +23,7 @@
 - sonidos con su propia identidad
 - convive con los elementos simbólicos de cada móvil, reinterpretándolos
 ### ¿cómo comenzó el arte electónico?
+- video "historia del arte digital, curso de dibujo digital"
 - video "arte vs nuevas tecnologías. el origen documental"
 - por los años 1940 surgen nuevos paradigmas tecnológicos como la programación, sistemas generativos, software libre, código abierto y la composición basada en el azar.
 - a esto le llamamos arte de los nuevos medios, el cual puede ser arte digital, electrónico, multimedia y arte interactivo
