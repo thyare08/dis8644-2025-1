@@ -1,5 +1,5 @@
 # sesion-04a
-+
+
 # Apuntes Clases
 
 # Atari Punk Console (APC)
@@ -36,6 +36,7 @@ Bocina o salida de audio
 - Esa señal se manda al segundo 555, que la convierte en pulsos más cortos o largos (oscilador monoestable).
 - El resultado es un sonido que cambia según cómo ajustes los potenciómetros.
 - Esa señal se puede enviar a un parlante o amplificador para que se escuche.
+- 
 
 
 
