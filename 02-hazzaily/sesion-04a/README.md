@@ -31,6 +31,10 @@ Foto del circuito realizado. Parte 2.
 
 Video del sonido.
 
+https://github.com/user-attachments/assets/d696cedd-04a0-4f29-a07d-df0cc13e28a9
 
+ - **Encargo 10:** Escuchar el álbum **"1 bit Symphony"** de Tristan Perich.
+
+Foto de mi croquera.
 
 
