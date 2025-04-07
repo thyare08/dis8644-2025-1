@@ -28,7 +28,7 @@ Bocina o salida de audio
 - Barata
 - Muy divertida para experimentar con sonidos
 
-[APCWORK](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/APC_with_2_555_%28pin_out%29_and_bridge_added.png/400px-APC_with_2_555_%28pin_out%29_and_bridge_added.png)
+![APCWORK](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/APC_with_2_555_%28pin_out%29_and_bridge_added.png/400px-APC_with_2_555_%28pin_out%29_and_bridge_added.png)
 
 # Explicación técnica simplificada
 
