@@ -9,11 +9,11 @@
 
 ### encargo
  
-Hi, How Are You -  Daniel Johnston
+01 escuchar switched on bach (wendy carlos)
 
 Botón experimental
 
-# encargo: mouse rosado
+# encargo02: mouse rosado
 
 ![mouse rosado](https://github.com/felix-rg416/dis8644-2025-1/blob/main/19-felix-rg416/sesion-04b/archivos/mouse.01.jpg) ![mouse.02](https://github.com/felix-rg416/dis8644-2025-1/blob/main/19-felix-rg416/sesion-04b/archivos/mouse.02.jpg)
 
