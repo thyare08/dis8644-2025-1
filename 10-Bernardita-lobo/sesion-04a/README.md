@@ -35,7 +35,7 @@
 - luego de un tiempo fue "space invaders" de taito el juego que realmente cambió el paradigma en el mundo de los videojuegos y el sonido, ya que la música acompaña al juego y cumple una funsión, reproduciéndose cada vez más rápido a medida que avanza, transformándose en una forma de transmitir información y haciendo más completa la experiencia.
 - en la música convencional se comienzan a utilizar elementos de los sonidos de los videojuegos, además salió el éxito global "pac-man" que incluso vendió discos con sus temas.
 - nintendo llevó el lenguaje de 8 bits a otro nivel al componer la música de títulos icónicos como "mario bros" y "zelda", sin embargo fue "super mario bros 3" el que alcanzó la cúspide de la música en 8 bits, destacándose por su alta complejidad ya que cada elemento del juego contaba con su propio sonido.
-- finalmente, a mediados de los 80, salieron los primeros microchips, esto permitió mejorar la capacidad de procesamiento y la calidad del sonido en los videojuegos, lo que hizo posible composiciones más complejas, marcando un antes y un después en la evolución de la música en los videojuegos.
+- finalmente, a mediados de los 80 salieron los primeros microchips, esto permitió mejorar la capacidad de procesamiento y la calidad del sonido en los videojuegos, lo que hizo posible composiciones más complejas, marcando un antes y un después en la evolución de la música en los videojuegos.
 
 ![foto26](https://github.com/user-attachments/assets/420c7ada-1c46-4ecf-8dbd-f16f10a9654d)
 
