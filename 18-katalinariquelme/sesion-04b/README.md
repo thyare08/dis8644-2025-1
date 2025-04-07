@@ -34,3 +34,30 @@ Además, la palabra interfaz, de acuerdo con la propuesta teórica de Carlos Alb
 Carlos Alberto Scolari
 
 ![Carlos_Alberto_Scolari_en_Wikimania_2015_07](https://github.com/user-attachments/assets/f95e90a3-2dcd-46c4-8dc3-772736fc7885)
+
+**Parte 2:** Ejercicio realizado en clases.
+
+![PHOTO-2025-04-05-17-27-35](https://github.com/user-attachments/assets/2c21161e-c1e3-419f-985c-a15545f88b0e)
+
+**Parte 3:** Encargo 11
+- Escuchar Switched on bach de Wendy Carlos.
+
+**Contexto**
+
+Walter Carlos, mejor conocida como Wendy Carlos nació el 14 de noviembre de 1939 Pawtucket (Rhode Island, Estados Unidos) es una compositora e intérprete estadounidense de música electrónica.​ Wendy fue una de las primeras intérpretes famosas de música electrónica que usaron sintetizadores, consiguiendo popularizar el género hacia una audiencia más amplia y heterogénea.​
+
+Considerada una artista innovadora entre sus obras más célebres figuran Switched-On Bach (1968), ganardonada con tres Premios Grammy,en la que reinterpretaba electrónicamente composiciones de Johann Sebastian Bach,​ o las bandas sonoras para las películas The Clockwork Orange (1971)​ y The Shining (1980), dirigidas por Stanley Kubrick, y Tron (1982),​ dirigida por Steven Lisberger.
+
+**Disco: Switched on Bach**
+- Switched-On Bach, en español Conectado a Bach lanzado en 1968, fue tal vez el primer disco en intentar el empleo de sintetizadores como una alternativa a la orquesta.
+- El disco es una reintrepretación innovadora de obras de Johann Sebastian Bach mezclado con sintetizadores Moog.
+- Switched-On Bach alcanzó el número 10 en la lista Billboard 200 de Estados Unidos y encabezó la lista Billboard Classical Albums de 1969 a 1972. Para junio de 1974, había vendido más de un millón de copias, y en 1986 se convirtió en el segundo álbum clásico en obtener un disco de platino . En 1970, ganó los premios Grammy al Mejor Álbum Clásico , a la Mejor Interpretación Clásica - Solista Instrumental (Con o Sin Orquesta) y a la Mejor Ingeniería de Grabación Clásica .
+Sintetizadores Moog
+
+![Moog_Music_products_in_2007](https://github.com/user-attachments/assets/f8c41ab0-2e89-4749-8264-310d586730b1)
+
+Disco Switched-On Bach
+
+![Switched-On Bach](https://github.com/user-attachments/assets/3bf2f602-2ba8-47bf-8801-c692647de0cf)
+
+Opinión del disco: La verdad me sorprendio de manera positiva este disco, debido a que las melodías clasicas me gustan y esa mezcla con sintetizadores Moog para la creación de sonidos electrónicos, de mi punto de vista se volvio uno de mis discos favoritos. Apesar de ser como una mezcla innovadora, conserva la esencia de la melodía de Bach, es decir, de la música clásica y eso fue lo que mas me llamo la atención.
