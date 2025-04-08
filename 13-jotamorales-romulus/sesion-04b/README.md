@@ -11,15 +11,21 @@ poner apuntes clase viernes 4 abril
 
 
 ## encargo 1 - switched on bach (wendy carlos)
+Tuve una semana media complicada, pero me hice tiempo para escuchar diversos temas. Fui escuchando en tandas, al escucharlo asi no logre obtener una cancion para dejar como favorita. Al escuchar el album genera una atmósfera singular, futurista mezclada con algo antiguo, fusionando de una manera que hay armonia entre las dos. Me hace pensar en una banda sonora de un juego pixel art medieval caricaturesco con sintetizador. Tambien me recuerda a un juego llamado narita boy, en el cual se hace una mezcla de los 80s con el futuro.
+
+En este album se reinterpretó obras de Bach. La compositora, trabajó en bandas sonoras de películas como A Clockwork Orange y Tron. como una de las primeras figuras trans públicas en el Wendy Carlos es una figura clave en la evolución de la música electrónica.
+
+![image](https://github.com/user-attachments/assets/7f9c2fa7-798e-4b70-aa2e-df973d7fd77c)
 
 
+ 
 
 
 ## encargo 2 - bajando opacidad a la caja negra
 
 ### Reproductor mp3 - Dynatech
 
-Este reproductor me ha acompañado durante mucho tiempo. Cada cierto tiempo cambiaba las canciones por tandas, para no aburrirme de escuchar lo mismo. Lo usaba mientras dibujaba o iba en el metro. Con el tiempo quedó medio obsoleto por diversas razones, como la llegada de un teléfono a mis manos, el cual ya contaba con un reproductor de música. Hoy en día es casi un milagro ver a alguien utilizando uno de estos. Me gustaba lo compacto que era, y de más está decir que su diseño tipo británico le daba un toque único.
+Este reproductor me ha acompañado durante mucho tiempo. Cada cierto tiempo cambiaba las canciones por tandas, para no aburrirme de escuchar lo mismo. Lo usaba mientras dibujaba o iba en el metro. Con el tiempo quedó medio obsoleto por diversas razones, como la llegada de un teléfono a mis manos, el cual ya contaba con un reproductor de música. Hoy en día es casi un milagro ver a alguien utilizando uno de estos. Me gustaba lo compacto que era, y de más está decir que su diseño tipo británico le daba un toque único. 
 
 
 ![Captura de pantalla 2025-04-08 020016](https://github.com/user-attachments/assets/a205a71a-6b5a-4965-8cc1-980ed474e62f)
