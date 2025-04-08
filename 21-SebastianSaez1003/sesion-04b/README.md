@@ -53,14 +53,30 @@ PCN es una printed circuit board.
 
 # 01 escuchar switched on bach (wendy carlos)
 
-# 02 proj-01 bajando opacidad a la caja negra
-DOCUMENTAR EN FOTOGRAFÍAS
-
+# 02 proj-01 bajando opacidad a la caja negra  
 -¿Cómo se utiliza al aparato? ¿Cómo me indica esa manera de uso? Gestos, contexto (Función indicativa y simbólica)  
 
+![20250407_211350](https://github.com/user-attachments/assets/19b4b71a-1838-4217-9988-a543954d2f23)
+![20250407_211404](https://github.com/user-attachments/assets/2af1c376-c7a4-4eed-86eb-e034233c33f8)
+
+El aparato que diccionó fue un MP3 de la marca PHILIPS, que tenía como función principal el reproducir música, esta música podía ser escuchada directamente saliendo del dispositivo o al insertar audífonos al "jack" en la parte superior del dispositivo.
+
+A simple vista, no se espera poder escuchar la música sin la necesidad de audífonos, debido a que la salida del parlante está casi completamente tapada por un sticker que mostraba las características del modelo.
+
+Esto, junto al grabado "EAR" que tiene la carcasa, podía indicar que, para escuchar algo, la oreja debería estar directamente en esta posición.
+
+
 -¿Quién es el usuario esperado? Condiciones de accesibilidad  
+El usuario esperado es una persona que quiera o necesite reproducir archivos de audio dentro de un dispositivo de pequeño tamaño. Esta persona debe de saber cómo leer, para identificar los grabados de cada botón y entradas del dispositivo, visión relativamente buena, para poder observar el display y reaccionar de acuerdo al objetivo que se quiera escuchar, que tenga manos, o algo similar que le permita interactuar con la interfaz que está presentada a forma de botones y, por supuesto, oídos mínimamente sanos, para poder escuchar los archivos de audio en manera sonora y no como tan solo la vibración que el sonido genere.
+
 
 -¿Qué interacción ofrece desde fuera? ¿Hay botones, perillas? ¿Cuántos? ¿Qué grados de control entrega? EXHAUSTIVIDAD  
+![20250407_221318](https://github.com/user-attachments/assets/73701a46-0f8b-43c5-83ae-7f61baa90e01)
+![20250408_000240](https://github.com/user-attachments/assets/7a26b9c3-d7fb-464f-be09-cca540c00591)
+
+
+La principal interacción que el usuario puede tener con el objetivo se encuentra en forma de 9 botones, que sirven para pausar/reproducir, subir/bajar volumen, volver/avanzar canción, menú e índex.
+También en la parte lateral izquierda hay un interruptor que dice "HOLD", de la cual no tengo idea que hace.
 
 -¿De donde obtiene energía este aparato? ¿Hay una PCB principal? ¿No hay? ¿hay varias? ¿Cómo se interconectan? ¿Hay números, textos, dibujos? ¿versiones, números de serie?  
 
