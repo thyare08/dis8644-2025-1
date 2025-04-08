@@ -46,8 +46,12 @@
 -----------------------------------------------------------------------------------------------------------
 ## Encargo 11
 ### TITULO
+> suena como los sonidos electrónicos (sintetizador) que tienen los teclados (instrumento) eléctricos que nos hacian tocar en el colegio y similar al soundtrack de los juegos de la gameboy advanced, en lugar de emitir los sonidos más "duros" de otros instrumentos y artistas que hemos escuchado en los encargos pasados. se nota la influencia de la música clásica, al ser una melodía calmada.
+>
+> Escuchando entrevistas, encontré curioso que seleccionara la música de Bach por ser simple (no tocaba multiples notas al mismo tiempo), lo cual eliminaba una de las limitaciones del sintetizador moog, que solo podía tocar una nota a la vez.
+>
 > 
-> <!--escuchar switched on bach (wendy carlos)-->
+<!--escuchar switched on bach (wendy carlos)-->
 -----------------------------------------------------------------------------------------------------------
 ## Encargo 12
 ### TITULO
