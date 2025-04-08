@@ -1,5 +1,5 @@
 # sesion-04b
-poner apuntes
+poner apuntes clase viernes 4 abril
 
 
 
@@ -35,6 +35,8 @@ El mp3 se puede conectar directamente a un puerto USB para cargar música y/o ba
 
 Su forma de uso se indica a través de símbolos en el botón circular que señalan funciones como reproducir/pausar, cambiar de canción y acceder al menú. Cuenta con una pantalla pequeña la cual cuenta con iluminación que muestra una interfaz bien básica la verdad, pero funcional. Me gustaría poder mostrar esta interfaz pero la pantalla por algún fallo (al ser tan pequeño en alguna lavada de pantalón este quedo dentro y tuvo su primera ducha, funciona a medias) solo enciende conectado a un usb (funciona a dia de hoy solo como pendrive, esta cuenta con música que escuchaba en 2016). Con los años olvide los menús que tenía, pero deberían ser, carpetas, álbumes, opciones, etc. Su diseño compacto y ergonómico permite manipular los botones fácilmente con el pulgar, lo que refuerza su carácter portátil. En la carcasa hay diversos grabados que indican funciones como donde se conecta los audífonos o encendido / apagado.
 
+![image](https://github.com/user-attachments/assets/6fb79057-2f50-4dc0-b895-b12da567411b)
+
 Gestos, contexto (Función indicativa y simbólica)
 
 Cada botón genera una respuesta directa al tacto, lo que permite que el que lo usa asocie fácilmente una acción con su resultado, como avanzar canciones o pausar la reproducción. La disposición de los botones alrededor del control circular tiene un sistema de navegación en direcciones, con este uno navegaba el menú. Además, el conector USB permite conectar a un computador sin necesidad de un cable (como un pendrive).
@@ -66,8 +68,28 @@ Sí. Una única PCB (placa de circuito impreso) todos los componentes necesarios
 Los componentes van soldados al PCB. Las interconexiones van a través de las pistas de cobre del circuito. Tiene 2 cables rojo y negro que conectan la batería a la placa (alimentación) y una cinta plana conectando la pantalla al PCB. Estas cintas las había visto una vez cuando desarme un control de ps4, esto conectaba el panel táctil de mando. 
 
 
-¿Hay números, textos, dibujos.
-¿versiones, números de serie? Realizar diagrama de flujo: ¿Qué placas requieren alimentación? ¿Dónde llegan las interacciones? Usar lenguaje simbólico propio Bill of materials. ¿Qué y cuantas partes tiene? de manera general
+¿Hay números, textos, dibujos?
+
+De lo que logré observar solamente encontré 3 cosas. 
+- Dos chips que dicen: SKhynix- H27UCG8T2TR- 432BL y ATJ 3150- ZG82 38A
+- Bateria 3,7V y 120 mAh  
+
+# Bill of Materials (BoM) – Reproductor MP3
+
+| Componente                 | Cantidad | Descripción                                                 |
+|----------------------------|----------|-------------------------------------------------------------|
+| PCB                        | 1        | Soporta todos los componentes electrónicos del dispositivo. |
+| controlador                | 1        | Controlador principal, este maneja la reproducción y funciones. |
+| Memoria Flash (SK hynix H27UCG8T2ETR) | 1 | Almacena la música, firmware y archivos del sistema.    |
+| Pantalla                   | 1        | interfaz grafica                                            |
+| Botones físicos (táctiles) | 6        | Control de volumen, navegación de menú, encendido, etc.     |
+| Batería  3.7V 120mAh       | 1        | Fuente de energía recargable, conectada por cables.         |
+| Puerto USB tipo A          | 1        | Carga de batería y transferencia de archivos.               |
+| Jacks de audio 3.5mm       | 2        | Salida de audio                                             |
+| Condensadores              | Varios  | Filtrado de voltaje, desacoplamiento.                        |
+| Resistencias               | Varios   | Limita la corriente y establece el voltaje.                 |
+| Cinta flex (pantalla)      | 1        | Conexión de la pantalla al PCB principal.                   |
+
 
 
 
