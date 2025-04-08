@@ -41,11 +41,7 @@ Este dúo reimaginó cumbias clásicas como “*La pollera colorá*”, incorpor
 
 ![circuito 3 y parlante](./archivos/3b_5_1.png)
 
-![sonido del parlante](./archivos/3b_5_2.mp4)
-
 ![circuito 4](./archivos/3b_6.png)
-
-![circuito y sonido](./archivos/3b_7.mp4)
 
 ![colección de caminatas](./archivos/3b_8.png)
 
@@ -54,10 +50,6 @@ Este dúo reimaginó cumbias clásicas como “*La pollera colorá*”, incorpor
 ![maquinaria](./archivos/3b_9.png)
 
 > una pantalla con una cámara encima, aparentemente era/tenía un sensor que hacía se imprimiera un papel con texto. el texto era el mismo en todos los papeles que vi
-
-![caleidoscopio](./archivos/3b_10_1.png)
-
-![video caleidoscopio](./archivos/3b_10_2.mp4)
 
 ![parlante en techo](./archivos/3b_11.png)
 
