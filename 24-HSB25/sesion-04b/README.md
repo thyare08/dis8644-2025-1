@@ -1,8 +1,6 @@
 # sesion-04b
 
-# PROJ1: Bajando Opacidad a la Caja Negra
-
-# MI OBJETO: Control Luces LED RGB
+# PROJ1: Bajando Opacidad a la Caja Negra - MI OBJETO: Control Luces LED RGB
 
 ![control](https://mercotecnia.cl/wp-content/uploads/2021/06/Controlador-Cinta-Led-con-Control-Remoto-44-botones.jpeg)
 
@@ -82,17 +80,7 @@ Identificadores:
 
 # **6. Diagrama de flujo
 
-
-
-
-
-
-
-
-
-
-
-
+![DIAGRAMACONTROL](DIAGRAMA CONTROL RGB.png)
 
 
 # **7. Bill of Materials (BOM) – Partes generales**
