@@ -54,7 +54,7 @@
 ## Encargo 12
 ### Análisis objeto electrónico
 > * Objeto: <br/> Logitech M585 Wireless Mouse. <br/>
->  <img align="left" src="./files/mouse.jpg" width=300> 
+>    <img align="left" src="./files/mouse.jpg" width=300> 
 > <br/>
 > <br/>
 > <br/>
