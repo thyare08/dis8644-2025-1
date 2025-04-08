@@ -10,50 +10,91 @@
 
 *Función indicativa y simbólica (gestos, contexto)*
 
-Uso: El usuario apunta el control hacia el receptor IR de las luces LED y presiona botones con funciones específicas.
+- Uso: El usuario apunta el control hacia el receptor IR de las luces LED y presiona botones con funciones específicas.
 
-Indicadores: Botones con íconos y colores (por ejemplo, rojo, verde, azul, blanco) indican qué color se seleccionará.
+- Indicadores: Botones con íconos y colores (por ejemplo, rojo, verde, azul, blanco) indican qué color se seleccionará.
 
-Botones como "ON", "OFF", "FLASH", "FADE" tienen texto impreso que cumple una función simbólica (indican la acción directamente).
+- Botones como "ON", "OFF", "FLASH", "FADE" tienen texto impreso que cumple una función simbólica (indican la acción directamente).
 
-El gesto principal es presionar un botón.
+- El gesto principal es presionar un botón.
 
 + **¿Quién es el usuario esperado?**
 
 *Condiciones de accesibilidad*
 
-Usuarios generales: Personas de todas las edades (niños, adultos mayores) pueden usarlo si tienen visión funcional.
+- Usuarios generales: Personas de todas las edades (niños, adultos mayores) pueden usarlo si tienen visión funcional.
 
-Accesibilidad limitada para personas con:
+- Accesibilidad limitada para personas con:
 
-Problemas de visión (los botones suelen ser pequeños y diferenciados por color, pero sin relieve ni braille).
+- Problemas de visión (los botones suelen ser pequeños y diferenciados por color, pero sin relieve ni braille).
 
-Dificultades motrices finas (por el tamaño pequeño de los botones).
+- Dificultades motrices finas (por el tamaño pequeño de los botones).
 
-No tiene retroalimentación táctil ni sonora, lo que lo limita para usuarios con discapacidades.
+- No tiene retroalimentación táctil ni sonora, lo que lo limita para usuarios con discapacidades.
 
 + **¿Qué interacción ofrece desde fuera?**
 
-Botones físicos: entre 20 y 44, dependiendo del modelo.
+- Botones físicos: entre 20 y 44, dependiendo del modelo.
 
-Tipos de botones:
+*Tipos de botones:*
 
-Encendido/Apagado ("ON/OFF").
+- Encendido/Apagado ("ON/OFF").
 
-Selección de color: RGB + tonos derivados.
+- Selección de color: RGB + tonos derivados.
 
-Brillo: "+" y "−".
+- Brillo: "+" y "−".
 
-Modos: FLASH, STROBE, FADE, SMOOTH.
+- Modos: FLASH, STROBE, FADE, SMOOTH.
 
-Grado de control: Medio. No permite personalización avanzada ni programación, pero permite seleccionar colores, intensidades y efectos.
+- Grado de control: Medio. No permite personalización avanzada ni programación, pero permite seleccionar colores, intensidades y efectos.
 
 + **¿De dónde obtiene energía este aparato?**
-De una pila tipo botón (CR2025 o CR2032).
 
-Tensión típica: 3V.
+*De una pila tipo botón (CR2025 o CR2032)*
 
-Se inserta en una bandeja extraíble (tipo reloj o similar a controles pequeños).
+- Tensión típica: 3V.
+
+- Se inserta en una bandeja extraíble (tipo reloj o similar a controles pequeños).
+
++ **¿Hay una PCB principal? ¿Cómo se interconecta?**
+
+Sí, hay una sola PCB principal.
+
+En ella se encuentran:
+
+- El microcontrolador (IC básico).
+
+- El emisor IR.
+
+- El conjunto de botones de membrana (en la parte frontal).
+
+Interconexiones:
+
+- Pistas de cobre en la PCB.
+
+- Teclado de membrana impreso conectado directamente al circuito.
+
+Identificadores:
+
+- Algunas PCBs tienen serigrafía con: número de versión, código de fabricación, a veces fecha.
+
+- Letras como “IR-24KEY-V1.0” indican el modelo de control.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
++ **Bill of Materials (BOM) – Partes generales**
 
 
 
