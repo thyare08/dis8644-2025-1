@@ -82,20 +82,20 @@ Identificadores:
 
 ![Diagrama del control RGB](https://github.com/HSB25/dis8644-2025-1/blob/main/24-HSB25/sesion-04b/DIAGRAMA%20CONTROL%20RGB.png?raw=true)
 
-1. **PILA 3V**
+**1. PILA 3V**
 - Entrada de energía.
 
 - Es una pila de botón (CR2025 o CR2032) que entrega 3 voltios.
 
 - Su energía alimenta toda la electrónica del control.
 
-2. **PCB PRINCIPAL**
+**2. PCB PRINCIPAL**
 
 - La placa base donde están montados todos los componentes.
 
 - Tiene pistas de cobre que conectan eléctricamente cada parte del sistema.
 
-3. **IC Microcontrolador**
+**3. IC Microcontrolador**
 
 - Es el cerebro del dispositivo.
 
@@ -103,7 +103,7 @@ Identificadores:
 
 - Por ejemplo, si aprietas el botón azul, este chip genera la señal necesaria para que el LED infrarrojo envíe ese comando.
 
-4. **Botones de Membrana**
+**4. Botones de Membrana**
 
 - Cada botón está conectado a la PCB y activa una entrada eléctrica en el microcontrolador.
 
@@ -111,13 +111,15 @@ Identificadores:
 
 - No hay retroalimentación electrónica (ni sonido, ni luz).
 
-5. **LED IR EMISOR**
+**5. LED IR EMISOR**
 
 - El diodo emisor infrarrojo se activa cuando el microcontrolador lo indica.
 
 - Emite una señal en el espectro IR (invisible al ojo humano) que lleva la instrucción a las tiras LED.
 
 - Estas señales son codificadas (por ejemplo, usando protocolos como NEC o RC5).
+
+![Diagrama del control RGB](https://github.com/HSB25/dis8644-2025-1/blob/main/24-HSB25/sesion-04b/DIAGRAMA%20CONTROL%20RGB.png?raw=true)
 
 # **7. Bill of Materials (BOM) – Partes generales**
 
