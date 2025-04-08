@@ -74,11 +74,25 @@ El usuario esperado es una persona que quiera o necesite reproducir archivos de 
 ![20250407_221318](https://github.com/user-attachments/assets/73701a46-0f8b-43c5-83ae-7f61baa90e01)
 ![20250408_000240](https://github.com/user-attachments/assets/7a26b9c3-d7fb-464f-be09-cca540c00591)
 
-
 La principal interacción que el usuario puede tener con el objetivo se encuentra en forma de 9 botones, que sirven para pausar/reproducir, subir/bajar volumen, volver/avanzar canción, menú e índex.
 También en la parte lateral izquierda hay un interruptor que dice "HOLD", de la cual no tengo idea que hace.
 
 -¿De donde obtiene energía este aparato? ¿Hay una PCB principal? ¿No hay? ¿hay varias? ¿Cómo se interconectan? ¿Hay números, textos, dibujos? ¿versiones, números de serie?  
+![20250407_211340](https://github.com/user-attachments/assets/18bcdb40-4d46-4c99-a8fa-4b7951f969de)
+![20250408_024732](https://github.com/user-attachments/assets/8cf5f327-1347-44e7-b371-868f8bc0d731)
+Este mp3 se alimenta a partir de una batería AAA, la cual no puede ser recargada directamente dentro del reproductor.  
+
+![20250407_221310](https://github.com/user-attachments/assets/ca6841fd-47b2-4dc9-9414-b434466f987e)
+![20250407_221310](https://github.com/user-attachments/assets/0933def9-6744-4a10-9485-f65ad79b4380)
+![20250408_000506](https://github.com/user-attachments/assets/a36f21b7-e2a1-4579-bf2a-0a0c6daace3f)
+![20250408_000442](https://github.com/user-attachments/assets/fea736ad-c2a9-41db-9a18-42e6a796529e)
+
+Entre los componentes que más destacan, se pueden observar un chip SAMSUNG 101 K9GAG08U0D PCB0, que es el de mayor tamaño entre todo el circuito, los botones antes mencionados para la interacción del usuario con el dispositivo, un parlante HYUNDAI, otros chips de menor tamaño y, por último, las entradas para el cable USB A y las entradas para un jack de audio y un jack de micrófono.
+
+En la misma placa en sí se pueden observar distintas inscripciones, la mayoría siendo distintos números y letras, que asumo que será para poder comprender dónde debería ir cada soldadura, conexión y muchas otras cosas más complicadas. En la parte superior de la placa en específico, se puede observar un bello detalle, que parece ser la fecha de fabricación de esta placa, la cual sería 2010/08/02, con su número de serie justo encima.
+
+
+
 
 -Realizar diagrama de flujo: ¿Qué placas requieren alimentación? ¿Dónde llegan las interacciones? Usar lenguaje simbólico propio  
 
