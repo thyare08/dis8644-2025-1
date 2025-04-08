@@ -31,11 +31,11 @@ Su forma de uso se indica a través de símbolos en el botón circular que seña
 
 ![image](https://github.com/user-attachments/assets/6fb79057-2f50-4dc0-b895-b12da567411b)
 
-![WhatsApp Image 2025-04-08 at 03 46 35](https://github.com/user-attachments/assets/43981332-4134-43a5-85a4-16daa34528bd)
-
 Gestos, contexto (Función indicativa y simbólica)
 
 Cada botón genera una respuesta directa al tacto, lo que permite que el que lo usa asocie fácilmente una acción con su resultado, como avanzar canciones o pausar la reproducción. La disposición de los botones alrededor del control circular tiene un sistema de navegación en direcciones, con este uno navegaba el menú. Además, el conector USB permite conectar a un computador sin necesidad de un cable (como un pendrive).
+
+![WhatsApp Image 2025-04-08 at 03 46 35](https://github.com/user-attachments/assets/43981332-4134-43a5-85a4-16daa34528bd)
 
 El usuario sería una persona interesada en escuchar música de manera portátil, algo que con el tiempo fue reemplazado por los teléfonos (era pre-smartphone). Me da un poco de pena cómo la moda de los MP3 evolucionó hacia eso; a día de hoy resulta difícil ver a alguien con uno. Uno se metía a internet, buscaba la música que quería y la descargaba para llevarla en el día a día. Ando con ganas de volver a llevar un MP3 en el bolsillo, quisiera tener alguno bueno tipo Sony. Ahora se venden en formato walkman con una pantalla, pero los precios no son muy accesibles y sería un lujo tener uno. Antes estos se vendían por montones: ibas al kiosco, supermercado, papelería, y podías conseguir uno. No creo que una persona con discapacidad visual pueda ocuparlo, ya que se debe usar la pantalla para ver los menús; debería usar uno sin pantalla incluida y con relieves en los botones.
 
