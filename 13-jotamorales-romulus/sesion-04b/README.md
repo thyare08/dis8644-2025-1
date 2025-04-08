@@ -27,6 +27,8 @@ DOCUMENTAR EN FOTOGRAFÍAS
 
 ### Reproductor mp3 - Dynatech
 
+Este reproductor me ha acompañado durante mucho tiempo. Cada cierto tiempo cambiaba las canciones por tandas, para no aburrirme de escuchar lo mismo. Lo usaba mientras dibujaba o iba en el metro. Con el tiempo quedó medio obsoleto por diversas razones, como la llegada de un teléfono a mis manos, el cual ya contaba con un reproductor de música. Hoy en día es casi un milagro ver a alguien utilizando uno de estos. Me gustaba lo compacto que era, y de más está decir que su diseño tipo británico le daba un toque único.
+
 ![Captura de pantalla 2025-04-08 020016](https://github.com/user-attachments/assets/a205a71a-6b5a-4965-8cc1-980ed474e62f)
 
 El mp3 se puede conectar directamente a un puerto USB para cargar música y/o batería. Al conectar el usb bloquea su uso, los botones no funcionan durante la conexión. La navegación se hace mediante un botón circular multifunción (M, ▶||, ←, →, etc.). Reproduce música por audífonos con salida jack de 3.5 mm y permite conectar un cable auxiliar para conectarse a un parlante. En su costado cuenta con una entrada micro sd para cargar musica y en el otro botón de encendido / apagado. 
