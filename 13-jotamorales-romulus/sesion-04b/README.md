@@ -17,14 +17,6 @@ poner apuntes clase viernes 4 abril
 
 ## encargo 2 - bajando opacidad a la caja negra
 
-Escoger un aparato electrónico, que no funcione (o este dispuestx a destruir), y abrirlo para explorar su interfaz. Diseccionar. Analizar. OBVIAMENTE APARATO DEBE ESTAR DESCONECTADO Y APAGADO ❗ NI TRABAJAR A PATA PELÁ 🦶
-
-DOCUMENTAR EN FOTOGRAFÍAS
-
-
-
-
-
 ### Reproductor mp3 - Dynatech
 
 Este reproductor me ha acompañado durante mucho tiempo. Cada cierto tiempo cambiaba las canciones por tandas, para no aburrirme de escuchar lo mismo. Lo usaba mientras dibujaba o iba en el metro. Con el tiempo quedó medio obsoleto por diversas razones, como la llegada de un teléfono a mis manos, el cual ya contaba con un reproductor de música. Hoy en día es casi un milagro ver a alguien utilizando uno de estos. Me gustaba lo compacto que era, y de más está decir que su diseño tipo británico le daba un toque único.
