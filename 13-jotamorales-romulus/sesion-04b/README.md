@@ -58,9 +58,12 @@ Desde el exterior, el dispositivo ofrece varias formas de interacción directa. 
 ¿De donde obtiene energía este aparato?
 
 Tiene una bateria de 3,7V y 120 mAh, que duraba a los mas 5 horas, menos si le subias el brillo a su pantallita. Se recarga conectando el usb a un cargado o compu.
+
 ![image](https://github.com/user-attachments/assets/08db536d-6c58-4501-802a-cf32a0175f6c) 
 
 ¿Hay una PCB principal?
+
+![image](https://github.com/user-attachments/assets/76947516-c6d1-47e6-b830-eacfa1de9b20)
 
 Sí. Una única PCB (placa de circuito impreso) todos los componentes necesarios para el funcionamiento del MP3 estan en esta. La carcasa cierra por ambos lados protegiendola.
 
