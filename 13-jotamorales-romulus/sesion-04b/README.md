@@ -39,7 +39,7 @@ Gestos, contexto (Función indicativa y simbólica)
 
 Cada botón genera una respuesta directa al tacto, lo que permite que el que lo usa asocie fácilmente una acción con su resultado, como avanzar canciones o pausar la reproducción. La disposición de los botones alrededor del control circular tiene un sistema de navegación en direcciones, con este uno navegaba el menú. Además, el conector USB permite conectar a un computador sin necesidad de un cable (como un pendrive).
 
-El usuario sería una persona interesada en escuchar música de manera portátil, algo que con el tiempo fue reemplazado por los teléfonos (era pre-smartphone). Me da un poco de pena cómo la moda de los MP3 evolucionó hacia eso; a día de hoy resulta difícil ver a alguien con uno. Uno se metía a internet, buscaba la música que quería y la descargaba para llevarla en el día a día. Ando con ganas de volver a llevar un MP3 en el bolsillo, quisiera tener alguno bueno tipo Sony, pero los precios no son muy accesibles y sería un lujo tener uno. Antes estos se vendían por montones: ibas al kiosco, supermercado, papelería, y podías conseguir uno. No creo que una persona con discapacidad visual pueda ocuparlo, ya que se debe usar la pantalla para ver los menús; debería usar uno sin pantalla incluida.
+El usuario sería una persona interesada en escuchar música de manera portátil, algo que con el tiempo fue reemplazado por los teléfonos (era pre-smartphone). Me da un poco de pena cómo la moda de los MP3 evolucionó hacia eso; a día de hoy resulta difícil ver a alguien con uno. Uno se metía a internet, buscaba la música que quería y la descargaba para llevarla en el día a día. Ando con ganas de volver a llevar un MP3 en el bolsillo, quisiera tener alguno bueno tipo Sony. Ahora se venden en formato walkman con una pantalla, pero los precios no son muy accesibles y sería un lujo tener uno. Antes estos se vendían por montones: ibas al kiosco, supermercado, papelería, y podías conseguir uno. No creo que una persona con discapacidad visual pueda ocuparlo, ya que se debe usar la pantalla para ver los menús; debería usar uno sin pantalla incluida y con relieves en los botones.
 
 ¿Qué interacción ofrece desde fuera? 
 
@@ -49,9 +49,16 @@ El usuario sería una persona interesada en escuchar música de manera portátil
 - Puerto USB , salida de audio 3.5 mm y entrada micro sd.
 - No cuenta con perillas
 
-¿Qué grados de control entrega? EXHAUSTIVIDAD
+¿Qué grados de control entrega?
+
+Desde el exterior, el dispositivo ofrece varias formas de interacción directa. El control circular permite acceder a cinco funciones principales, como reproducción, pausa, navegación entre pistas y acceso al menú. A un costado, un interruptor deslizante permite encender o apagar el aparato. La pantalla, aunque pequeña, actúa como una interfaz visual que guía al usuario a través de menús y funciones. Se conecta con un puerto USB incorporado para la transferencia de archivos y carga, una salida de audio de 3.5 mm para conectar audífonos, y una entrada para tarjeta micro SD que amplía su capacidad de almacenamiento. En grados de control, es limitado, pero suficiente para su propósito: reproducir y organizar música de forma simple. No permite modificar el ecualizador (que recuerde, solo se podía ver el volumen y brillo de la pantalla), gestionar carpetas complejas desde el propio aparato, solo podías borrar y mover canciones entre carpetas y ver por artista, años, etc.
+
 ¿De donde obtiene energía este aparato?
-¿Hay una PCB principal? 
+Tiene una bateria de 3,7V y 120 mAh, que duraba a los mas 5 horas, menos si le subias el brillo a su pantallita. Se recarga conectando el usb a un cargado o compu.
+![image](https://github.com/user-attachments/assets/08db536d-6c58-4501-802a-cf32a0175f6c) 
+
+¿Hay una PCB principal?
+
 ¿No hay? ¿hay varias
 ? ¿Cómo se interconectan? 
 ¿Hay números, textos, dibujos?
