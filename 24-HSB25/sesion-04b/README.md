@@ -80,7 +80,7 @@ Identificadores:
 
 # **6. Diagrama de flujo**
 
-![Diagrama del control RGB](DIAGRAMACONTROLRGB.png)
+![Diagrama del control RGB](DIAGRAMA CONTROL RGB.png)
 
 
 # **7. Bill of Materials (BOM) – Partes generales**
