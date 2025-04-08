@@ -45,15 +45,77 @@
 > <br/>
 -----------------------------------------------------------------------------------------------------------
 ## Encargo 11
-### TITULO
+### Switched on bach
 > suena como los sonidos electrónicos (sintetizador) que tienen los teclados (instrumento) eléctricos que nos hacian tocar en el colegio y similar al soundtrack de los juegos de la gameboy advanced, en lugar de emitir los sonidos más "duros" de otros instrumentos y artistas que hemos escuchado en los encargos pasados. se nota la influencia de la música clásica, al ser una melodía calmada.
 >
 > Escuchando entrevistas, encontré curioso que seleccionara la música de Bach por ser simple (no tocaba multiples notas al mismo tiempo), lo cual eliminaba una de las limitaciones del sintetizador moog, que solo podía tocar una nota a la vez.
 >
-> 
-<!--escuchar switched on bach (wendy carlos)-->
 -----------------------------------------------------------------------------------------------------------
 ## Encargo 12
-### TITULO
+### Análisis objeto electrónico
+> * Objeto: <br/> Logitech M585 Wireless Mouse. <br/>
+>    <img align="left" src="./files/mouse.jpg" width=300> 
+> <br/>
+> <br/>
+> <br/>
+> <br/>
+> <br/>
+> <br/>
+> <br/>
+> <br/>
+> <br/>
+> <br/>
+> <br/>
+> <br/>
 >
+> * ### Uso: <br/>
+>   Se conecta a un dispositivo enchufando el recividor USB o mediante bluetooth. <br/>
+>   Se desplaza por una superficie plana para desplazar el cursor en el dispositivo conectado <br/>
+>   Se presionan los botones para producir imputs en el dispositivo conectado <br/>
+>   Si se está conectado por bluetooth a un dispositivo y el recividor conectado a otro, apretando el botón detrás de la rueda, se cambia cual dispositivo está siendo controlado <br/>
 > 
+> * ### Indicación uso: <br/>
+>   El switch de encendido y apagado cambia de color (verde [encendido]/rojo [apagado])
+>   Se enciende una de las 2 LEDs para indicar a que dispositivo está conectado
+>   Las funciones de los botones M1, M2, rueda y botones laterales se pueden deducir al apretarlos y ver que pasa
+>   La función de los botones laterales de la rueda me es desconocida, nunca logré que hicieran algo
+>
+> * ### Usuario: <br/>
+>   Alguien que usa más de un dispositivo al mismo tiempo
+>   
+> * ### Interacción: <br/>
+>   El mouse cuenta con 8 botones y una rueda, los botones son táctiles, pero la rueda no es muy precisa ni tiene buen feedback, el feedback de los botones laterales de la rueda se confunde con el botón de la rueda
+>   
+> * ### Grados de control: <br/>
+>   Permite hacer scroll, rehacer, deshacer, mover cursor en plano 2D, cambiar dispositivo activo, botones laterales a la rueda no sé
+>   El mouse NO permite controlar desplazamiento en espacio 3D, rotar o angular el mouse, no se puede usar con cable, no registra imput si se mueve muy rápido y no es ambidiestro
+>   
+> * ### Energía: <br/>
+>   Utiliza una pila AA, cuando se le acaba la bateria hay que cambiar la pila o no se puede usar
+>   
+> * ### PCBs: <br/>
+>   El mouse consiste de 2 PCBs, una placa principal donde está el microprocesador (n51802), sensor óptico, switches, LEDs, resistencias, etc. Y una Placa secundaria donde están los switches de los botones laterales, que está conectada a la placa principal mediante un cable conectado a conectores JST <br/> <br/>
+>   En las placas hay numeros, letras y nombres que indican donde van los componentes, Textos indicando lugar y fecha de manufactura, terminal Vcc y GND y logos <br/> <br/>
+> <img align="left" src="./files/desarme.jpg" width=450> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/>
+>   <img align="left" src="./files/pcb1.jpg" width=450> <img align="right" src="./files/pcb2.jpg" width=450>
+> <br/>
+> <br/>
+> <br/>
+> <br/>
+> <br/>
+> <br/>
+> <br/>
+> <br/>
+> <br/>
+> <br/>
+> <br/>
+> <br/>
+> <br/>
+> <br/>
+> <br/>
+> <br/>
+> <br/>
+> <br/>
+> 
+> * ### Diagrama de flujo: <br/>
+>   <img align="left" src="./files/diagrama.jpg" width=600> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/>
