@@ -57,11 +57,52 @@ Nosotras elegimos el Mando de la Xbox 360
 * **Métodos de entrada**: 2 palancas analógicas clicables (Left analog stick press - Right analog stick press) 2 gatillos analógicos (Left shoulder trigger - Right shoulder trigger) 2 botones de hombro (Left Bumper - Right Bumper) 4 botones de acción (A B X Y) 3 botones inalámbricos (Back - Start)
 * **Batería**: Batería de hidruro de níquel-metal; 2 × AA; Host USB alimentado
 
-¿Cómo se utiliza al aparato? 
+* **¿Cómo se utiliza al aparato**: Se conecta por bluetooth o USB hacia la consola. Se utiliza con ambas manos (pulgar e índice)
+* **¿Cómo me indica esa manera de uso?***: Por su contexto, ya que se usa en videojuegos y tiene una forma intuitiva
+* **¿Quién es el usuario esperado? Condiciones de accesibilidad**: Personas que juegan videojuegos, sus condiciones serían que las personas tengan manos y dedos
+* **¿Qué interacción ofrece desde fuera? ¿Hay botones, perillas? ¿Cuántos? ¿Qué grados de control entrega? EXHAUSTIVIDAD**: Hay botones, gatillos, d-pad digital, joysticks
+* **¿De donde obtiene energía este aparato?**: Mediante pilas AA o batería recargable
+* **Hay una PCB principal? ¿No hay? ¿hay varias? ¿Cómo se interconectan?  ¿Hay números, textos, dibujos? ¿versiones, números de serie?**: Hay una PCB principal, en ella hay números, componentes, letras, números de serie.
+* **Realizar diagrama de flujo: ¿Qué placas requieren alimentación? ¿Dónde llegan las interacciones? Usar lenguaje simbólico propio**
+![IMG_0183](https://github.com/user-attachments/assets/5c024cbd-562f-41df-be4e-841a3cfa9e66) 
+
+**Bill of materials. ¿Qué y cuantas partes tiene? de manera general**
+
+| Tipo | Qty |
+|-----------------|--------|
+| Batería | 1 o 2 |
+| PCB | 1 |
+| R: Resistencia | 60 |
+| TP: Transformador de potencia | 407 |
+| J: Join: conectores | 9|
+| C: Condensadores | 93 | 
+| L: Inductores | 7 | 
+| SW: Interruptor | 15 |
+| D: Diodo | 4 |
+| U: Circuitos integrados | 5 |
+| Q: Triodos | 2 |
+| Y: Cristal/ Cuarzo | 1 |
+| Motor de vibración | 2 |
+| Chip H1219 | 1 |
+| Chip H1231 | 1 |
+| Chip SPB2 | 1 | 
+| Botones | 17 | 
+
+![IMG_0182](https://github.com/user-attachments/assets/9482a2a1-1d72-4963-b2b8-ddca9542ecda)
+
+![IMG_0181](https://github.com/user-attachments/assets/7a722fbb-e49d-4013-9950-73e1bb3e83ce)
+
+
+https://github.com/user-attachments/assets/aa920108-868f-4ebe-b115-0cbe1f928fe8
+
+
+https://github.com/user-attachments/assets/30be88b7-f298-4074-9fc3-eb6d8147ac95
+
 
 <img width="837" alt="Captura de pantalla 2025-04-07 a la(s) 10 55 23 p m" src="https://github.com/user-attachments/assets/d56ae16d-f2eb-4dc8-9cc6-e32a10aedc9e" />
 
 ![joystick1](https://github.com/user-attachments/assets/ae09650b-9134-46c1-8dbe-4ffe13be6003)
+
 ![joystick2](https://github.com/user-attachments/assets/bd7f9dd8-f0ea-4d1a-84e2-0c7753020e22)
 
 
