@@ -85,7 +85,7 @@ De lo que logré observar solamente encontré 3 cosas.
 |----------------------------|----------|-------------------------------------------------------------|
 | PCB                        | 1        | Soporta todos los componentes electrónicos del dispositivo. |
 | controlador                | 1        | Controlador principal, este maneja la reproducción y funciones. |
-| Memoria Flash (SK hynix H27UCG8T2ETR) | 1 | Almacena la música, firmware y archivos del sistema.    |
+| Memoria Flash              | 1 | Almacena la música, firmware y archivos del sistema.    |
 | Pantalla                   | 1        | interfaz grafica                                            |
 | Botones físicos (táctiles) | 6        | Control de volumen, navegación de menú, encendido, etc.     |
 | Batería  3.7V 120mAh       | 1        | Fuente de energía recargable, conectada por cables.         |
