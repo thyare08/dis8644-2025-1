@@ -30,18 +30,22 @@ Buchla, muy nerd, influyente en la gente que hizo sintetizadores.
 
 Con un osciloscopio se pueden ver cómo se comportan las ondas de un circuito, que es lo que vimos al principio de la clase.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Módulo después de break
+
+Vamos a armar un circuito monoestable, no de un primate, sino que tiene un estado de estabilidad, que al ser interferido va a sostener esa perturbación.
+
+Se va a mantener prendido por un tiempo predeterminado.
+
+Por ahora vamos a usar como perturbación un botón.
+
+El botón que nos entregaron tiene 4 patas, mientras que el esquemático tiene ¿? patas?
+
+Oh, oh, hay un problema.
+
+N.O. open
+
+Esa región controla el timing.Un botón cuando está presionado es básicamente un cable, o sea, 0 resistencia.
+
+Vcc: voltaje de corriente continuagrupo 4Este encargo se va a llamar Bailando la opacidad a la caja negra.
+
+PCN es una printed circuit board.
