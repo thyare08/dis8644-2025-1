@@ -1,6 +1,9 @@
 # sesion-03a
+
 ## Revisión de circuitos (especificamente circuito 3)
-### Anotaciones: 
+
+### Anotaciones
+
 - Se puede conectar una resistencia a la fuente de poder en el lado positivo
 - 2 resistencias se pueden conectar mediante puente
 
@@ -20,6 +23,7 @@
 </div>
 
 ## Investigación circuito 555 ( mientras espero que se cargue mi batería)
+
 <img align="left" height="100" src="https://media.discordapp.net/attachments/1248658110625742862/1354073864098811904/2pz-circuito-integrado-555-timer-temporizador-reloj-dip8-D_NQ_NP_743911-MLM20659332071_042016-F.png?ex=67e3f70e&is=67e2a58e&hm=5c7baa539979fdff448cfd898502f3237b1f28c4c231808570788dc3549ae69a&=&format=webp&quality=lossless&width=1104&height=1104"  />
 
 ###
@@ -27,7 +31,7 @@
 <img align="left" height="100" src="https://media.discordapp.net/attachments/1248658110625742862/1354073864476557312/art0123_0001.png?ex=67e3f70e&is=67e2a58e&hm=0a311c9e45280cf3883306cae95e6e915331d20f321159635237da7355f9074a&=&format=webp&quality=lossless&width=849&height=395"  />
 
 - El chip 555, también conocido como temporizador 555 o Timer 555, es uno de los circuitos integrados más populares y versátiles en la historia de la electrónica. Fue desarrollado en 1972 por Hans R
-- Posee una marca asimetrica por el lado para identificar cada uno de los puntos
+- Posee una marca asimétrica por el lado para identificar cada uno de los puntos
 
 ## Entrega de materiales y aplicación
 
@@ -36,7 +40,8 @@
 </div>
 
 ### Anotación
-- Entre los materiales se encuentran los chips 555, potenciometros, fotoceldas (LDR) y condensadores (electroilitico o céramico)
+
+- Entre los materiales se encuentran los chips 555, potenciometros, fotoceldas (LDR) y condensadores (electrolítico o céramico)
 
 ## Circuito electrico de la clase
 
@@ -45,13 +50,14 @@
 </div>
 
 ## Ejercicio en clases
+
 <div align="center">
   <img height="100%" src="https://media.discordapp.net/attachments/1248658110625742862/1354109391292596314/image.png?ex=67e41825&is=67e2c6a5&hm=7bfc68cb94853c01ea65d0a784223ac6cadce7a29810042656c1347df424de71&=&format=webp&quality=lossless&width=1542&height=1034"  />
 </div>
 
 <div align="left">
   <img height="800" src="https://media.discordapp.net/attachments/1248658110625742862/1354110561180450846/Screenshot_20250325_121135_Gallery.jpg?ex=67e4193b&is=67e2c7bb&hm=4eef7bf7c24f9e08acfce56e1179c3ec5600daeb57cb02d205ad6b948e8fa9b2&=&format=webp&width=1776&height=1104"  />
-</div> 
+</div>
 
 <div align="center">
   <img height="800" src="https://media.discordapp.net/attachments/1248658110625742862/1354110562111328377/20250325_120940.jpg?ex=67e4193c&is=67e2c7bc&hm=2361d2682e12d5906a0afb57fb645bffdd08eeb22c5e7a9f50fa1ded86bd3494&=&format=webp&width=1472&height=1104"  />
@@ -61,4 +67,4 @@
   <img height="100%" src="https://media.discordapp.net/attachments/1248658110625742862/1354115610564497572/image.png?ex=67e41def&is=67e2cc6f&hm=0c1eba083889d2faf91d6db05bca5acb07d76295421f33a2c64a4b8ec5a79f43&=&format=webp&quality=lossless&width=1988&height=807"  />
 </div>
 
-### Y eso es todo.
+### Y eso es todo

@@ -1,6 +1,15 @@
 # sesion-03b
 ## Apuntes clase 28/03
 
+![IMG_0571](https://github.com/user-attachments/assets/76490d7e-0417-4d8a-a12a-4ffcbe04bf74)
+![IMG_0573](https://github.com/user-attachments/assets/2dfb493a-f49f-4c2d-89c1-04919f848ed8)
+
+## Circuitos hechos con Chip 555
+
+<https://github.com/user-attachments/assets/ff84d097-e210-41f6-b0ca-8468c3d1c9c3>
+<https://github.com/user-attachments/assets/809a9446-50d6-4979-ae02-3f92eae5171b>
+<https://github.com/user-attachments/assets/1e7c33b1-495c-4e19-aafe-e4da9c91ab37>
+
 ### Encargo08: cultura musical nacional
 
 Martín Schopf y Jorge González, dos chilenos conocidos en la música electrónica y en el rock, en 1997  formaron el grupo. Gonzalo Martínez; siendo uno de los integrantes Jorge Gonzales, de la banda de los prisioneros y Martín Schopf conocido en la música electrónica como Dandy Jack.
@@ -19,6 +28,21 @@ información sacada de: <https://www.musicapopular.cl/grupo/gonzalo-martinez/#:~
 
 
 ### Encargo09: apuntes sobre visita al museo de arte contemporáneo
+
+**"Museo en estéreo"**
+
+el sonido como medio en caminatas, la obra era interactiva con el visitante mediante los sonidos, los cuales eran un intercambio auditivo. Se logra entender como la percepción del espacio a través de herramientas digitales y experimentación auditiva.
+
+**"Ecosistemas y paisajes mediados"**
+
+Alude a los videos performaticos y registros sobre la exploración entre la relación del entorno y la tecnología. ¿cómo los paisajes y ecosistemas pueden ser reinterpretados a través de medios electrónicos?
+
+mediante sensores, proyecciones y paisajes sonoros digitales.
+
+**"Bordes Fluidos"**
+
+Combinaron tecnología y medios digitales con enfoque a la memoria, identidad y territorio, utilizando videos y audios. Percepción sensorial y emocional dentro de la electrónica.
+
 
 ![FullSizeRender 7](https://github.com/user-attachments/assets/c83adab2-17b7-491e-b6fd-e5dec622d537)
 ![FullSizeRender 6](https://github.com/user-attachments/assets/289775c2-e1b6-4cd8-be02-f7a9614664e5)

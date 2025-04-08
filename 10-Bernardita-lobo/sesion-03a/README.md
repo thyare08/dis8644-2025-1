@@ -9,7 +9,9 @@
 ![foto13](https://github.com/user-attachments/assets/683b5ac3-cfc1-47f6-85f5-2ec2db66e596)
 
 ### primer circuito astable
-- circuito eléctrico con circuito integrado 555
+- unidades de potencia
+- datasheet manual
+- circuito electrónico con circuito integrado 555
 - luz oscilante con potenciómetro
 
 ![foto14](https://github.com/user-attachments/assets/059aec7a-4a6e-46d0-bd3a-9eaa948c61f8)
@@ -17,6 +19,7 @@
 ## encargo
 ### circuito integrado 555 y einstÜrzende neubauten
 - ¿cómo funciona un circuito integrado 555 en mis palabras?
-- álbum "perpetuum mobile"
+- funciones de patillas del circuito integrado 555
+- álbum "perpetuum mobile" por einstürzende neubauten
 
 ![foto21](https://github.com/user-attachments/assets/dd6ac920-43b9-4f2b-a817-6fa0d4cd05b1)
