@@ -1,4 +1,21 @@
 # sesion-01a
+11 de marzo 2025
+
+Vimos varios referentes sobre música, el uso de sintetizadores
+- Oficina de sonido
+- Bleep lab
+- Corazón de robota
+
+  
+Además de introducir ciertos elementos visuales
+
+https://github.com/user-attachments/assets/07646c0d-11a3-46eb-a508-fbda17916314
+
+![WhatsApp Image 2025-04-07 at 6 01 35 PM](https://github.com/user-attachments/assets/6212122b-305e-4732-be9f-a80e4db18f3c)
+
+
+
+
 ## Encargo 00
 - La película Barrio Universitario me pareció confusa, si bien entendí la idea de hacer una parodia a los estereotipos universitarios y a su sistema educativo, pensé que al ser casi todos humoristas en la realidad, no me pareció graciosa, y eso bajo mis expectativas de la película. Pero dentro de todo me impresionó la buena calidad de la cinta, como el uso de luces y contexto escénico.
 ### KRAFTWERK
