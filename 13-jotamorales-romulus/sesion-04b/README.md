@@ -31,6 +31,8 @@ Su forma de uso se indica a través de símbolos en el botón circular que seña
 
 ![image](https://github.com/user-attachments/assets/6fb79057-2f50-4dc0-b895-b12da567411b)
 
+![WhatsApp Image 2025-04-08 at 03 46 35](https://github.com/user-attachments/assets/43981332-4134-43a5-85a4-16daa34528bd)
+
 Gestos, contexto (Función indicativa y simbólica)
 
 Cada botón genera una respuesta directa al tacto, lo que permite que el que lo usa asocie fácilmente una acción con su resultado, como avanzar canciones o pausar la reproducción. La disposición de los botones alrededor del control circular tiene un sistema de navegación en direcciones, con este uno navegaba el menú. Además, el conector USB permite conectar a un computador sin necesidad de un cable (como un pendrive).
