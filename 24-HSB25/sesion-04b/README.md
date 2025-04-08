@@ -6,7 +6,7 @@
 
 ![control](https://mercotecnia.cl/wp-content/uploads/2021/06/Controlador-Cinta-Led-con-Control-Remoto-44-botones.jpeg)
 
-+ **¿Cómo se utiliza el aparato?**
+1. **¿Cómo se utiliza el aparato?**
 
 *Función indicativa y simbólica (gestos, contexto)*
 
@@ -18,7 +18,7 @@
 
 - El gesto principal es presionar un botón.
 
-+ **¿Quién es el usuario esperado?**
+2. **¿Quién es el usuario esperado?**
 
 *Condiciones de accesibilidad*
 
@@ -32,7 +32,7 @@
 
 - No tiene retroalimentación táctil ni sonora, lo que lo limita para usuarios con discapacidades.
 
-+ **¿Qué interacción ofrece desde fuera?**
+3. **¿Qué interacción ofrece desde fuera?**
 
 - Botones físicos: entre 20 y 44, dependiendo del modelo.
 
@@ -48,7 +48,7 @@
 
 - Grado de control: Medio. No permite personalización avanzada ni programación, pero permite seleccionar colores, intensidades y efectos.
 
-+ **¿De dónde obtiene energía este aparato?**
+4. **¿De dónde obtiene energía este aparato?**
 
 *De una pila tipo botón (CR2025 o CR2032)*
 
@@ -56,7 +56,7 @@
 
 - Se inserta en una bandeja extraíble (tipo reloj o similar a controles pequeños).
 
-+ **¿Hay una PCB principal? ¿Cómo se interconecta?**
+5. **¿Hay una PCB principal? ¿Cómo se interconecta?**
 
 Sí, hay una sola PCB principal.
 
@@ -94,7 +94,7 @@ Identificadores:
 
 
 
-+ **Bill of Materials (BOM) – Partes generales**
+7. **Bill of Materials (BOM) – Partes generales**
 
 
 
