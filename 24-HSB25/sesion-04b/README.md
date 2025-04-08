@@ -80,7 +80,7 @@ Identificadores:
 
 # **6. Diagrama de flujo**
 
-![Diagrama del control RGB](DIAGRAMA_CONTROL_RGB.png)
+![Diagrama del control RGB](https://github.com/HSB25/dis8644-2025-1/blob/main/24-HSB25/sesion-04b/DIAGRAMA%20CONTROL%20RGB.png?raw=true)
 
 
 # **7. Bill of Materials (BOM) – Partes generales**
