@@ -4,7 +4,7 @@ Clase 3: Martes 18 de marzo de 2025.
 
 - Parte 1: Apuntes clase.
 - Parte 2: ¿Qué es la ley de Ohm?
-- Parte 3: Ejercicio practicó realizado en clases.
+- Parte 3: Ejercicio practico realizado en clases.
 - Parte 4: Encargo 04.
 - Parte 5: Encargo 05. 
 
@@ -48,7 +48,7 @@ V representa el voltaje, I es la corriente y R es la resistencia. Es una herrami
 
 **Parte 04:** Encargo 04, escuchar un disco de “Pueblo Nuevo”.
 
-subir foto bitácora
+![IMG_8498](https://github.com/user-attachments/assets/04547f6a-0d3f-4849-91cd-a6486b7a3040)
 
 **Parte 5:** Encargo 05, investigar colores de resistencias: 220, 440, 460, 680 y 1000.
 
@@ -74,4 +74,4 @@ subir foto bitácora
 
 **Fuentes donde saqué la información del código de colores de las resistencias :)**
 
-Página digikey: https://www.digikey.com/es/resources/conversion-calculators/conversion-calculator-resistor-color-code
+https://www.digikey.com/es/resources/conversion-calculators/conversion-calculator-resistor-color-code
