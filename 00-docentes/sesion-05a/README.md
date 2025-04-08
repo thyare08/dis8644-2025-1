@@ -19,3 +19,36 @@ También colocar interruptores entre las Resistencias experimentales y los pin 7
 [sumadora o restadora de condensadores](https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-series-and-parallel-capacitor)
 
 
+## apuntes sobre usar git en consola
+
+### stage
+
+para hacer stage de todo
+
+```sh
+git add .
+```
+
+### commit
+
+o para hacer stage de la carpeta 00-docentes
+
+```sh
+git commit -m "mensaje de bitacora"
+```
+
+### push
+
+para subir a la nube, toma el commit local y lo manda a github.com
+
+```
+git push
+```
+
+### pull
+
+si sincronizo en la nube, y ahora mi repo local en mi máquina está behind, hago pull
+
+```sh
+git pull
+```
