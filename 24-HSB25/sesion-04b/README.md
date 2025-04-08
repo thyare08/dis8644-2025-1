@@ -78,9 +78,9 @@ Identificadores:
 
 - Letras como “IR-24KEY-V1.0” indican el modelo de control.
 
-# **6. Diagrama de flujo
+# **6. Diagrama de flujo**
 
-![DIAGRAMACONTROL](DIAGRAMA CONTROL RGB.png)
+![Diagrama del control RGB](diagrama_control_rgb.png)
 
 
 # **7. Bill of Materials (BOM) – Partes generales**
