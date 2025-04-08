@@ -16,9 +16,9 @@ Al comienzo de la clase se trató de poder analizar y revisar los primeros objet
 ### Escaneo de bitácora y apuntes escritos del día
 
 <br>
-<img src="./image/001-04.04.jpg">
+<img src="./image/001-08.04.jpg">
 <br>
-<img src="./image/002-04.04.jpg">
+<img src="./image/002-08.04.jpg">
 <br>
 
 ***
@@ -33,13 +33,25 @@ Dada la complejidad del uso de pantallas para un proyecto, puesto que son "input
 
 <br>
 
-<img src="./image/003-04.04.jpeg">
+<img src="./image/003-08.04.jpeg">
 
 _▼ Empaque y producto por delante_
 
 <br>
 
-<img src="./image/004-04.04.jpeg">
+<img src="./image/004-08.04.jpeg">
+
+_▼ Empaque y producto por el lado_
+
+<br>
+
+<img src="./image/005-08.04.jpeg">
+
+_▼ Empaque y producto por el otro lado_
+
+<br>
+
+<img src="./image/006-08.04.jpeg">
 
 _▼ Empaque y producto por detrás_
 
@@ -53,31 +65,35 @@ Al costado del paquete se muestran las versiones de dicho juguete mediante imág
 
 <br>
 
-<img src="./image/005-04.04.jpeg">
+<img src="./image/007-08.04.jpeg">
 
 <br>
 
-<img src="./image/006-04.04.jpeg">
+<img src="./image/008-08.04.jpeg">
 
 <br>
 
-<img src="./image/007-04.04.jpeg">
+<img src="./image/009-08.04.jpeg">
 
 <br>
 
-<img src="./image/008-04.04.jpeg">
+<img src="./image/010-08.04.jpeg">
 
 <br>
 
-<img src="./image/009-04.04.jpeg">
+<img src="./image/011-08.04.jpeg">
 
 <br>
 
-<img src="./image/010-04.04.jpeg">
+<img src="./image/012-08.04.jpeg">
 
 <br>
 
-<img src="./image/011-04.04.jpeg">
+<img src="./image/013-08.04.jpeg">
+
+<br>
+
+<img src="./image/014-08.04.jpeg">
 
 <br>
 
