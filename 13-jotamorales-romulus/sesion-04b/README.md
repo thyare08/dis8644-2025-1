@@ -37,11 +37,16 @@ Su forma de uso se indica a través de símbolos en el botón circular que seña
 Gestos, contexto (Función indicativa y simbólica) 
 Cada botón genera una respuesta directa al tacto, lo que permite que el que lo usa asocie fácilmente una acción con su resultado, como avanzar canciones o pausar la reproducción. La disposición de los botones alrededor del control circular tiene un sistema de navegación en direcciones, con este uno navegaba el menú. Además, el conector USB permite conectar a un computador sin necesidad de un cable (como un pendrive).
 
-El usuario seria personas interesadas en escuchar música de manera portátil, algo que con el tiempo fue remplazado por los telefonos (ra pre-smartphone)(me da un poco de pena como la moda de los mp3 evoluciono a eso; a día de hoy resulta dificil ver a alguien con uno). Uno se metia a internet, buscaba la musica que queria y la descargaba para llevarla en tu día a día. Ando con ganas de volver a llevar un mp3 en mi bolsillo, quisiera tener alguno bueno tipo sony, pero los precios son poco accesibles y seria un lujo tener uno. Antes estos se vendian por montones, ibas al kiosko, supermercado, papeleria y podias conseguir uno. Su uso 
+El usuario sería una persona interesada en escuchar música de manera portátil, algo que con el tiempo fue reemplazado por los teléfonos (era pre-smartphone). Me da un poco de pena cómo la moda de los MP3 evolucionó hacia eso; a día de hoy resulta difícil ver a alguien con uno. Uno se metía a internet, buscaba la música que quería y la descargaba para llevarla en el día a día. Ando con ganas de volver a llevar un MP3 en el bolsillo, quisiera tener alguno bueno tipo Sony, pero los precios no son muy accesibles y sería un lujo tener uno. Antes estos se vendían por montones: ibas al kiosco, supermercado, papelería, y podías conseguir uno. No creo que una persona con discapacidad visual pueda ocuparlo, ya que se debe usar la pantalla para ver los menús; debería usar uno sin pantalla incluida.
 
 ¿Qué interacción ofrece desde fuera? 
-¿Hay botones, perillas?
-¿Cuántos? 
+Botones físicos: 5 funciones en el control circular.
+
+-Interruptor lateral encendido/apagado.
+-Pantalla: interfaz visual.
+-Puerto USB , salida de audio 3.5 mm y entrada micro sd.
+-No cuenta con perillas
+
 ¿Qué grados de control entrega? EXHAUSTIVIDAD
 ¿De donde obtiene energía este aparato?
 ¿Hay una PCB principal? 
