@@ -46,7 +46,36 @@ https://github.com/user-attachments/assets/2ba20703-38f8-4d13-a8b8-e2ef3d45e572
 
 Observación: Al cambiar el condensador electrolítico de 100u por uno de 10u logramos observar un cambio en cuanto a la duración del enecendido del LED, este se enciende y se apaga apenas uno presiona el botón y lo suelta, además de que es capaz de mantenerse encendido durante todo el tiempo en que este presionado el botón. En cambio, con el condensador de 100u no tenemos este resultado.
 
- - **Encargo 11:** Escuchar "Swuitched on Batch de Wendy Carlos.
+ - **Encargo 11:** Escuchar "Switched on Batch de Wendy Carlos.
 
 Foto de mi croquera.
+
+ - **PROJ1:** Bajando opacidad a la caja negra.
+
+![1](https://github.com/user-attachments/assets/4d81ab85-1edf-4a90-b10b-14d062425187)
+
+![2](https://github.com/user-attachments/assets/d27bf3ee-ed29-4b18-9e2c-6e1ce893f26c)
+
+![3](https://github.com/user-attachments/assets/f9255b11-da19-4ae3-97b7-4456e6ba93a6)
+
+![4](https://github.com/user-attachments/assets/e88e6553-4a44-4ac1-a1a3-002a1ca34cd2)
+
+![5](https://github.com/user-attachments/assets/4d929ece-26f6-4a5b-a545-78d55b1b8cf7)
+
+![6](https://github.com/user-attachments/assets/48e051ae-cf1c-4149-8042-574c9058dff3)
+
+**Bill of Materials**
+
+| TIPO            | VALOR | CANTIDAD |
+|-----------------|-------|----------|
+| PCB             |       | 1        |
+| ALTAVOZ         |       | 1        |
+| JUMPERS         |       | 7        |
+| DIP             |       | 1        |
+| PULSADOR        |       | 1        |
+| RESISTENCIA     |       | 4        |
+| BOTÓN DE CAUCHO |       | 4        |
+| PORTAPILA       | 4.5V  | 1        |
+| PILA AA         | 1.5V  | 3        |
+
 
