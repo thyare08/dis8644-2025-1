@@ -32,6 +32,7 @@ https://github.com/user-attachments/assets/16538851-90e3-417a-aaba-9ed909ea8316
 https://github.com/user-attachments/assets/34b6f844-d047-4f35-a205-1685bb1765e7
 
 ***Condensador de 1 µF***
+
 https://github.com/user-attachments/assets/c249e57d-856b-43fb-a75c-7cca7f56046b
 
 ***Condensador de 470 µF***
