@@ -47,7 +47,7 @@ El usuario sería una persona interesada en escuchar música de manera portátil
 
 ¿Qué grados de control entrega?
 
-Desde el exterior, el dispositivo ofrece varias formas de interacción directa. El control circular permite acceder a cinco funciones principales, como reproducción, pausa, navegación entre pistas y acceso al menú. A un costado, un interruptor deslizante permite encender o apagar el aparato. La pantalla, aunque pequeña, actúa como una interfaz visual que guía al usuario a través de menús y funciones. Se conecta con un puerto USB incorporado para la transferencia de archivos y carga, una salida de audio de 3.5 mm para conectar audífonos, y una entrada para tarjeta micro SD que amplía su capacidad de almacenamiento. En grados de control, es limitado, pero suficiente para su propósito: reproducir y organizar música de forma simple. No permite modificar el ecualizador (que recuerde, solo se podía ver el volumen y brillo de la pantalla), gestionar carpetas complejas desde el propio aparato, solo podías borrar y mover canciones entre carpetas y ver por artista, años, etc.
+Por fuera, el dispositivo te deja interactuar de varias formas simples. El control circular permite acceder a cinco funciones principales, como reproducción, pausa, navegación entre pistas y acceso al menú. A un costado, un interruptor deslizante permite encender o apagar el aparato. La pantalla, aunque pequeña, actúa como una interfaz visual que guía al usuario a través de menús y funciones. Se conecta con un puerto USB incorporado para la transferencia de archivos y carga, una salida de audio de 3.5 mm para conectar audífonos, y una entrada para tarjeta micro SD que amplía su capacidad de almacenamiento. En grados de control, es limitado, pero suficiente para su propósito: reproducir y organizar música de forma simple. No permite modificar el ecualizador (que recuerde, solo se podía ver el volumen y brillo de la pantalla), gestionar carpetas complejas desde el propio aparato, solo podías borrar y mover canciones entre carpetas y ver por artista, años, etc.
 
 ¿De donde obtiene energía este aparato?
 
@@ -80,10 +80,10 @@ De lo que logré observar solamente encontré 3 cosas.
 | Memoria Flash              | 1 | Almacena la música, firmware y archivos del sistema.    |
 | Pantalla                   | 1        | interfaz grafica                                            |
 | Botones físicos (táctiles) | 6        | Control de volumen, navegación de menú, encendido, etc.     |
-| Batería  3.7V 120mAh       | 1        | Fuente de energía recargable, conectada por cables.         |
+| Batería  3.7V 120mAh       | 1        | Batería recargable                                          |
 | Puerto USB tipo A          | 1        | Carga de batería y transferencia de archivos.               |
 | Jacks de audio 3.5mm       | 2        | Salida de audio                                             |
-| Condensadores              | Varios  | Filtrado de voltaje, desacoplamiento.                        |
+| Condensadores              | Varios  | Ayudan a que la corriente sea estable                |
 | Resistencias               | Varios   | Limita la corriente y establece el voltaje.                 |
 | Cinta flex (pantalla)      | 1        | Conexión de la pantalla al PCB principal.                   |
 
