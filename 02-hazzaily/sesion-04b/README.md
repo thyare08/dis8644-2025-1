@@ -78,4 +78,3 @@ Foto de mi croquera.
 | PORTAPILA       | 4.5V  | 1        |
 | PILA AA         | 1.5V  | 3        |
 
-
