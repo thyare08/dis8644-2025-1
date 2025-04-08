@@ -27,3 +27,10 @@
 </div>
 - Existen 2 PCB estructuralmente iguales que funcionan con los mismo botones que vimos en la sesión 4b
 - La PCB central es la que contiene el LED parpadeante, la razón por la que parapadea es por el chip 556 (temporizador doble) que se encuentra en su interior
+
+### Anotaciones de materiales
+<div align="center">
+  <img height="100%" src="https://media.discordapp.net/attachments/1248658110625742862/1359027420870742126/5.jpg?ex=67f5fc6a&is=67f4aaea&hm=00b6173e75fcf7521e94c9fa435e35e92a640d00fc07367353cd21f08bc38271&=&format=webp&width=1964&height=1104"  />
+</div>
+
+###
