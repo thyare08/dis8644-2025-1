@@ -54,14 +54,19 @@ El usuario sería una persona interesada en escuchar música de manera portátil
 Desde el exterior, el dispositivo ofrece varias formas de interacción directa. El control circular permite acceder a cinco funciones principales, como reproducción, pausa, navegación entre pistas y acceso al menú. A un costado, un interruptor deslizante permite encender o apagar el aparato. La pantalla, aunque pequeña, actúa como una interfaz visual que guía al usuario a través de menús y funciones. Se conecta con un puerto USB incorporado para la transferencia de archivos y carga, una salida de audio de 3.5 mm para conectar audífonos, y una entrada para tarjeta micro SD que amplía su capacidad de almacenamiento. En grados de control, es limitado, pero suficiente para su propósito: reproducir y organizar música de forma simple. No permite modificar el ecualizador (que recuerde, solo se podía ver el volumen y brillo de la pantalla), gestionar carpetas complejas desde el propio aparato, solo podías borrar y mover canciones entre carpetas y ver por artista, años, etc.
 
 ¿De donde obtiene energía este aparato?
+
 Tiene una bateria de 3,7V y 120 mAh, que duraba a los mas 5 horas, menos si le subias el brillo a su pantallita. Se recarga conectando el usb a un cargado o compu.
 ![image](https://github.com/user-attachments/assets/08db536d-6c58-4501-802a-cf32a0175f6c) 
 
 ¿Hay una PCB principal?
 
-¿No hay? ¿hay varias
-? ¿Cómo se interconectan? 
-¿Hay números, textos, dibujos?
+Sí. Una única PCB (placa de circuito impreso) todos los componentes necesarios para el funcionamiento del MP3 estan en esta. La carcasa cierra por ambos lados protegiendola.
+
+¿Cómo se interconectan? 
+Los componentes van soldados al PCB. Las interconexiones van a través de las pistas de cobre del circuito. Tiene 2 cables rojo y negro que conectan la batería a la placa (alimentación) y una cinta plana conectando la pantalla al PCB. Estas cintas las había visto una vez cuando desarme un control de ps4, esto conectaba el panel táctil de mando. 
+
+
+¿Hay números, textos, dibujos.
 ¿versiones, números de serie? Realizar diagrama de flujo: ¿Qué placas requieren alimentación? ¿Dónde llegan las interacciones? Usar lenguaje simbólico propio Bill of materials. ¿Qué y cuantas partes tiene? de manera general
 
 
