@@ -87,3 +87,26 @@ Pruebas:
 ![alt text](nivel4-foto.jpg)
 
 ![alt text](nivel4-foto2.jpg)
+
+
+## Encargo 05: RESISTORES
+
+fuente: <https://eepower.com/resistor-guide/resistor-fundamentals/what-is-a-resistor/#>
+
+Los resistor o resistencia, son componentes pasivos los cuales generan una resistencia al flujo de la corriente. Se mide en Ohm.
+
+Existen 2 tipos de resistor, los variables y fijos.
+
+Fijos: Son los que conocemos como un centro cerámico con 2 pines. Estos cuentan con sistema de color para identificar su valor. Tienen entre 4 y 5 lineas de color, donde cada una significa algo. 
+
+<https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-resistor-color-code>
+
+Variables: son resistores, en los cuales, la resistencia que ejercen a la corriente puede variar, resistiendo más o menos segun factores externos. Ejemplos son el potenciómetro, LDR, etc.
+
+En un circuito los componentes se pueden utilizar en serie o paralelo, esto afectará a la forma en que comportan los componentes.
+
+Serie: Cuando 2 o más resistencias están conectadas en paralelo, las resistencia de cada una de suma y el total será la resistencia total ejercida en esa parte del circuito.
+
+Paralelo: Cuando 2 o más resistencias están conectadas en paralelo, es más complejo el cálculo, se puede hacer con esta fórmula: (R1*R2)/R1+R2
+
+De acá podemos extraer que, si en algún momento quiero ocupar una resistencia que no tengo, puedo juntar otras para llegar a valores distintos, si las pongo en serie consigo valores mayores a los originales, y en paralelo, valores menores a los originales.
