@@ -80,6 +80,7 @@ Identificadores:
 
 - Letras como “IR-24KEY-V1.0” indican el modelo de control.
 
+# **6. Diagrama de flujo
 
 
 
@@ -94,7 +95,7 @@ Identificadores:
 
 
 
-# **8. Bill of Materials (BOM) – Partes generales**
+# **7. Bill of Materials (BOM) – Partes generales**
 
 | Ítem | Componente                 | Descripción                                  | Cantidad |
 |------|----------------------------|----------------------------------------------|----------|
