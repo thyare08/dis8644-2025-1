@@ -119,7 +119,7 @@ Identificadores:
 
 - Estas señales son codificadas (por ejemplo, usando protocolos como NEC o RC5).
 
-![Ilustracion control RGB]([https://github.com/HSB25/dis8644-2025-1/blob/main/24-HSB25/sesion-04b/DIAGRAMA%20CONTROL%20RGB.png?raw=true](https://github.com/HSB25/dis8644-2025-1/blob/main/24-HSB25/sesion-04b/ILUSTRACION%20CONTROL%20RGB.png?raw=true))
+![ILUSTRACION CONTROL RGB](https://github.com/HSB25/dis8644-2025-1/blob/main/24-HSB25/sesion-04b/ILUSTRACION%20CONTROL%20RGB.png?raw=true)
 
 # **7. Bill of Materials (BOM) – Partes generales**
 
