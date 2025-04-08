@@ -4,7 +4,7 @@
 
  - Parte 01:
 
-  - ¿Qué es un **transistor**?
+   - ¿Qué es un **transistor**?
  
  Un Transistor es un dispositivo eletrónico utilizado para amplificar o cambiar señales y potencias electrónicas. El término transistor proviene de: Transfer Resistor.
 
@@ -12,7 +12,7 @@ Foto de un transistor.
 
 ![Transistor](https://github.com/user-attachments/assets/9bb251ea-658f-499b-bd19-e2f43f4c4aa9)
 
-  - ¿Qué es una **CPU**?
+   - ¿Qué es una **CPU**?
 
 Una CPU (Unidad Central de Procesamiento) es, como su nombre lo indica, una central de procesamiento o preocesador. Es un componente utilizado dentro de teléfonos celulares, computadores, entre otros.
 
