@@ -38,13 +38,15 @@ Estos botones pueden poseer una función de retorno momentáneo (vuelve a su pos
 [Enlace a musicfromouterspace.com](https://musicfromouterspace.com/analogsynth_new/WSG2010/OLD_WEIRDSOUNDGENERATORREBORN.html)
 ## Encargos
 ### 01 escuchar _Switched On Bach_ - Wendy Carlos.
-(falta reseña).
+Johann Sebastian Bach ciertamente de los exponentes musicales más importantes de la historia es representado a través de ritmos electrónicos, pareciera ser algún sampleo o alguna edición de los instrumentos para que suenen más "mecánicos", sin embargo, en _Switched On Bach_ producido por Wendy Carlos y Rachel Elkind y realizado por Carlos y Benjamin Folkman (1968) se puede apreciar la atención y el detalle de crear este álbum en un sintetizador modular _Moog_. Con la intención de representar una música más "convencional" en vez de música electrónica experimental, Wendy fue capaz de lograr algo totalmente innovador y que redescubrió la música en un sentido electrónico, puesto que, al momento del lanzamiento de dicho álbum se pensaba que esto era algo negativo de parte de los usuales oyentes de música clásica, sin embargo, el tiempo le dió la razón a esta obra por ser una interpretación impecable de música electrónica asimilándose a sonidos que podrían ser interpretados por instrumentos acústicos convencionales.
+
+En lo personal me parece un buen álbum, algo con lo que poder experimentar de manera más fresca a Bach y una idea capaz de generar un movimiento artístico de asimilación de ritmos acústicos con ritmos electrónicos, yo considero que totalmente merece ser reconocido por el mérito que significa llegar a esos acordes con un sintetizador. Buena recomendación.
 ___
 ### 02 proj-01 bajando opacidad a la caja negra
 Escoger un aparato electrónico, que no funcione (o este dispuestx a destruir), y abrirlo para explorar su interfaz. Diseccionar. Analizar.
 **Documentar en fotografías**.
 ___
-##  Reloj electromecánico dextrógiro
+##  Reloj electromecánico dextrógiro (reloj de cuarzo)
 
 ![foto_1](https://github.com/user-attachments/assets/61d9b9f9-7d59-46cb-adb1-ae367d239549)
 ![foto_2](https://github.com/user-attachments/assets/7c251152-54db-4289-9ec9-ec6d40c4fd43)
@@ -72,17 +74,17 @@ Existe un PCB principal, aunque diminuto está conectado a un engranaje y posee 
 
 ### Diagrama
 
-Fuente de energía  | → Pila AA (1.5V)
+Fuente de energía  | → Pila AA (1.5V) →
 
-Conexiones físicas | → Ranuras en PCB + soldaduras
+Conexiones físicas | → Ranuras en PCB + soldaduras →
 
-Circuito impreso   |  - Condensador  | → Filtra/estabiliza voltaje
+Circuito impreso   |  - Condensador  | → Filtra/estabiliza voltaje →
 
-Resonador de cuarzo| → 32.768 Hz (genera pulsos/sec)
+Resonador de cuarzo| → 32.768 Hz (genera pulsos/sec) →
 
-Bobina (inductor)  | → Electroimán pulsante
+Bobina (inductor)  | → Electroimán pulsante →
 
-Alambre de cobre   | → Campo magnético controlado
+Alambre de cobre   | → Campo magnético controlado →
 
 Mecanismo de accion  |  - Engranaje + imán   | → Rotor que gira con cada pulso|  - Tren de engranajes | → Transmisión a manecillas
 
@@ -90,6 +92,6 @@ Mecanismo de accion  |  - Engranaje + imán   | → Rotor que gira con cada puls
   * Segundero (60 pasos)
   * Minutero (1 paso)   
   * Horario (12 pasos)  
-
+→
 Ajuste manual       | → Corona para cambiar hora
 ___
