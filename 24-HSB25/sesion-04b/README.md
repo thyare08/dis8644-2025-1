@@ -4,6 +4,21 @@
 
 ![control](https://mercotecnia.cl/wp-content/uploads/2021/06/Controlador-Cinta-Led-con-Control-Remoto-44-botones.jpeg)
 
+![control01](https://github.com/HSB25/dis8644-2025-1/blob/main/24-HSB25/sesion-04b/control01.jpeg?raw=true)
+![control02](https://github.com/HSB25/dis8644-2025-1/blob/main/24-HSB25/sesion-04b/control02.jpeg?raw=true)
+![control03](https://github.com/HSB25/dis8644-2025-1/blob/main/24-HSB25/sesion-04b/control03.jpeg?raw=true)
+![control04](https://github.com/HSB25/dis8644-2025-1/blob/main/24-HSB25/sesion-04b/control04.jpeg?raw=true)
+![control05](https://github.com/HSB25/dis8644-2025-1/blob/main/24-HSB25/sesion-04b/control05.jpeg?raw=true)
+![control06](https://github.com/HSB25/dis8644-2025-1/blob/main/24-HSB25/sesion-04b/control06.jpeg?raw=true)
+![control07](https://github.com/HSB25/dis8644-2025-1/blob/main/24-HSB25/sesion-04b/control07.jpeg?raw=true)
+
+
+
+
+
+
+
+
 # **1.¿Cómo se utiliza el aparato?**
 
 *Función indicativa y simbólica (gestos, contexto)*
