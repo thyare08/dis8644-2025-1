@@ -6,7 +6,7 @@
 
 ![control](https://mercotecnia.cl/wp-content/uploads/2021/06/Controlador-Cinta-Led-con-Control-Remoto-44-botones.jpeg)
 
-1. **¿Cómo se utiliza el aparato?**
+# **1.¿Cómo se utiliza el aparato?**
 
 *Función indicativa y simbólica (gestos, contexto)*
 
@@ -18,7 +18,7 @@
 
 - El gesto principal es presionar un botón.
 
-2. **¿Quién es el usuario esperado?**
+# **2. ¿Quién es el usuario esperado?**
 
 *Condiciones de accesibilidad*
 
@@ -32,7 +32,7 @@
 
 - No tiene retroalimentación táctil ni sonora, lo que lo limita para usuarios con discapacidades.
 
-3. **¿Qué interacción ofrece desde fuera?**
+# **3. ¿Qué interacción ofrece desde fuera?**
 
 - Botones físicos: entre 20 y 44, dependiendo del modelo.
 
@@ -48,7 +48,7 @@
 
 - Grado de control: Medio. No permite personalización avanzada ni programación, pero permite seleccionar colores, intensidades y efectos.
 
-4. **¿De dónde obtiene energía este aparato?**
+# **4. ¿De dónde obtiene energía este aparato?**
 
 *De una pila tipo botón (CR2025 o CR2032)*
 
@@ -56,7 +56,7 @@
 
 - Se inserta en una bandeja extraíble (tipo reloj o similar a controles pequeños).
 
-5. **¿Hay una PCB principal? ¿Cómo se interconecta?**
+# **5. ¿Hay una PCB principal? ¿Cómo se interconecta?**
 
 Sí, hay una sola PCB principal.
 
@@ -94,7 +94,22 @@ Identificadores:
 
 
 
-7. **Bill of Materials (BOM) – Partes generales**
+# **8. Bill of Materials (BOM) – Partes generales**
+
+| Ítem | Componente                 | Descripción                                  | Cantidad |
+|------|----------------------------|----------------------------------------------|----------|
+| 1    | Carcasa plástica frontal  | Plástico inyectado, con orificios para IR y botones | 1        |
+| 2    | Carcasa plástica trasera  | Plástico con bandeja deslizante para pila    | 1        |
+| 3    | PCB principal              | Placa de circuito impreso, 1 capa            | 1        |
+| 4    | Botonera de membrana       | Teclado flexible tipo domo, impreso          | 1        |
+| 5    | Emisor infrarrojo (IR LED)| LED que transmite señal infrarroja           | 1        |
+| 6    | Microcontrolador (IC)     | IC básico de control IR (p. ej. SC6122)      | 1        |
+| 7    | Pila tipo CR2032          | Pila de litio 3V                             | 1        |
+| 8    | Portapila                 | Soporte para pila de botón                   | 1        |
+| 9    | Resistencias              | Para limitar corriente al IR y otros usos    | 2–4      |
+| 10   | Capacitores               | Para estabilización de energía               | 1–2      |
+| 11   | Serigrafía frontal        | Lámina plástica con íconos y colores         | 1        |
+
 
 
 
