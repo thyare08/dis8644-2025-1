@@ -1,4 +1,16 @@
 # sesion-01b
+14 de Marzo 2025
+
+
+
+Tuvimos la introduccion a los componentes eléctricos, como las resistencias, protoboard, y cables (investigar para encargo)
+y hicimos la primera conexión para encender un LED, pensaba no iba a poder, pero si se pudo!!!!
+
+![WhatsApp Image 2025-04-07 at 6 13 17 PM](https://github.com/user-attachments/assets/71e667ee-fd74-4455-a8b9-6eb33ad592e3)
+
+
+
+
 ## Encargo 02
 **Aphex Twin**, es un músico productor y dj irlandes llamado Richard D. James, conocido por su trabajo en la **música electrónica**. Abarca géneros como el techno ambient, acid y jungle. Para su proceso creativo le gusta componer en la madrugada, antes se inspiraba en sueños lucidos y sinestesias, pero ha creado un programa para generar automáticamente ritmos y melodías. 
 
@@ -25,6 +37,32 @@ A pesar de formar parte de varias ideas en conjunto, siempre mantuvo la idea, de
 
 Personalmente siento que este documental es un llamado de alerta, y cuestionamiento en una sociedad que al día de hoy, pensamos que tenemos total libertad de conocimiento ¿Pero y si aquello que nos da una respuesta instantánea, que consideramos eficaz, nos está privando del cuestionamiento como comunidad? Es algo bastante inquietante, en un mundo que está en constante **evolución tecnológica**. Y que debemos de educarnos para utilizar de forma consciente, sin olvidar nuestras habilidades de conocimiento propio.
 
+
+### Componentes eléctricos
+
+**Protoboard:** es una placa de pruebas, en la que se pueden insertar **elementos electrónicos,** y cables para **armar circuitos**, sin necesidad de soldar. La corriente que puede operar una protoboard varía entre 3 y 5A, y suele operar a baja frecuencia.
+
+![protoboard](https://github.com/user-attachments/assets/93923ee2-78d9-41dc-97d0-53db0c161f5d)
+
+
+**Conector de batería:** Pasa la energía de la batería 9v, hacia la placa. Cable **rojo positivo, negro negativo (tierra)**
+
+![conector](https://github.com/user-attachments/assets/af277736-a92f-4fa3-8a91-28b520674c7d)
+
+
+**Resistencias**: Es un componente que **reduce o limita el voltaje en el circuito**, que se mide en ohmios. Se pueden dividir en dos tipos: fijas y variables. Las resistencias fijas tienen un valor determinado al ser fabricadas y en las variables, el valor se puede modificar con una perilla. Además de que cada color de las resistencias **representa un código**, donde los primeros dos colores representan la cifra, la tercera el multiplicador y la última la tolerancia 
+
+![resistencia](https://github.com/user-attachments/assets/4a4f8fd3-866e-4b64-b9a3-9038883834de)
+**Tabla de cifras**
+
+
+![Captura de pantalla 2025-04-06 140728](https://github.com/user-attachments/assets/b14fda99-4065-4890-9427-234845501587)
+
+
+**LED**: LED es una prevención  que hace referencia a **Diodo Emisor de Luz**, el cual es un **semiconductor**, que al recibir corriente eléctrica emite una luz, donde para emitir una luz blanca es necesario combinar un LED rojo azul y verde.
+
+
+![leds](https://github.com/user-attachments/assets/848133e5-5e4b-48d1-98b4-188305f4e98a)
 
 
 
