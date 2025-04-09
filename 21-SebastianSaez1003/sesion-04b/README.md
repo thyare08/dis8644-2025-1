@@ -53,6 +53,22 @@ PCN es una printed circuit board.
 
 # 01 escuchar switched on bach (wendy carlos)
 
+"Switched-On Bach, la interpretación electrónica de Wendy Carlos de obras compuestas originalmente por Johann Sebastian Bach, vio la luz en octubre de 1968. Hasta entonces, los sintetizadores se habían utilizado casi exclusivamente en la música experimental. Los 13 temas del álbum se compusieron íntegramente con el sistema modular Moog personalizado de Carlos, dando nueva vida a conocidas obras clásicas e introduciendo el sintetizador en la corriente dominante de una forma que resultaba familiar.
+
+Tras su publicación, Switched-On Bach se ganó rápidamente la atención y el respeto de oyentes de todo el mundo. «De hecho, todo el disco es uno de los logros más sorprendentes de la industria discográfica en esta generación», comentó el pianista canadiense Glenn Gould en Analog Days: The Invention and Impact of the Moog Synthesizer. 
+
+El álbum encabezó la lista Billboard Classical Albums de 1969 a 1972 e inspiró un panteón de álbumes de sintetizadores, como Switched-On Rock de Moog Machine, Switched-On Country de Rick Powell, Switched-On Santa de Sy Mann y Music to Moog By de Gershon Kingsley. En sólo seis años, el álbum había vendido más de un millón de copias. Más tarde se convirtió en el segundo álbum clásico en obtener el certificado de Platino y le valió a Carlos tres premios Grammy. "
+
+
+El álbum Switched on back me gustó bastante, ya que igual me agrada una buena cantidad la música clásica. Este álbum me dio la sensación de que perfectamente podría estar dentro de un videojuego, ya sea de exploración marítima o de investigación detectivesca.
+
+El hecho de que se pudiesen reinventar los sonidos que escuché desde una misma partitura de la música clásica original me agradó harto, ya que esta es una muestra directa de cómo se puede adaptar el mundo artístico a el de las maquinas electricas. 
+
+
+Referencias:  
+-https://www.moogmusic.com/media/switched-bach-how-world-met-moog
+
+
 # 02 proj-01 bajando opacidad a la caja negra  
 -¿Cómo se utiliza al aparato? ¿Cómo me indica esa manera de uso? Gestos, contexto (Función indicativa y simbólica)  
 
