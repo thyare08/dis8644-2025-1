@@ -14,3 +14,5 @@
 ![investigación en figma parte 3](tme-04a-sinusoide.png)
 
 ![bibliografía de la investigación en figma](tme-04a-biblio.png)
+
+![investigación microbrute](tme-04a-microbrute.png)
