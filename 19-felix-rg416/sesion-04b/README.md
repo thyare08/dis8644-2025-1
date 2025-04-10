@@ -1,5 +1,9 @@
 # sesion-04b
 
+[Insoladora UV pt.1 (battlecoder)](https://bitofmystery.com/uv-exposure-box-project-part-1/)
+
+[Insoladora UV pt.2 (battlecoder)](https://bitofmystery.com/uv-exposure-box-project-part-2/)
+
 ## circuito monoestable
 
 - [calculadora de circuito 555](https://ohmslawcalculator.com/555-monostable-calculator)
