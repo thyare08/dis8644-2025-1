@@ -26,6 +26,8 @@ Abrir algo que podamos romper
 
 Tema: construcción de prototipo electronico a partir de un circuito electronico APC
 
+![image](https://github.com/user-attachments/assets/fce17ab9-5755-4d92-b46d-a4e735779caa)
+
 Vamos a soldar
 
 La clase pasada aprendimos la configuracion astable
