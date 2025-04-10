@@ -52,7 +52,7 @@ X853210-001
 7. bill of materials. ¿qué y cuantas partes tiene? de manera general
 |  .  |  nombre  |  cantidad  |
 | --- | --- | --- |
-|  | Batería | 1 o 2 |
+| . | Batería | 1 o 2 |
 | PCB | Printed Circuit Boards | 1 |
 | R | Resistencia | 60 |
 | TP | Transformador de potencia | 407 |
@@ -64,11 +64,11 @@ X853210-001
 | U | circuitos integrados | 5 |
 | Q | triodos | 2 |
 | Y | cristal  -> cuarzo | 1 |
-|  | Motor de vibración | 2 |
-|  | Chip H1219 | 1 |
-|  | Chip H1231 | 1 |
-|  | Chip SPB2 | 1 | 
-|  | Botones | 17 | 
+| . | Motor de vibración | 2 |
+| . | Chip H1219 | 1 |
+| . | Chip H1231 | 1 |
+| . | Chip SPB2 | 1 | 
+| . | Botones | 17 | 
 
 ![b4 1](https://github.com/user-attachments/assets/d8938295-3a01-4693-ae6e-ba2b0b229bec)
 ![b4 2](https://github.com/user-attachments/assets/126a086e-f363-4bc1-a857-84bbac935259)
