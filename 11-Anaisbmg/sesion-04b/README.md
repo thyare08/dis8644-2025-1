@@ -50,7 +50,7 @@ X853210-001
 ![7](https://github.com/user-attachments/assets/35ce419e-e090-4e9b-9351-fdb7db78ace7)
 
 7. bill of materials. ¿qué y cuantas partes tiene? de manera general
-|  | nombre | cantidad |
+| . | nombre | cantidad |
 | --- | --- | --- |
 |  | Batería | 1 o 2 |
 | PCB | Printed Circuit Boards | 1 |
