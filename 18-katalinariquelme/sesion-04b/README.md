@@ -61,3 +61,18 @@ Disco Switched-On Bach
 ![Switched-On Bach](https://github.com/user-attachments/assets/3bf2f602-2ba8-47bf-8801-c692647de0cf)
 
 Opinión del disco: La verdad me sorprendio de manera positiva este disco, debido a que las melodías clasicas me gustan y esa mezcla con sintetizadores Moog para la creación de sonidos electrónicos, de mi punto de vista se volvio uno de mis discos favoritos. Apesar de ser como una mezcla innovadora, conserva la esencia de la melodía de Bach, es decir, de la música clásica y eso fue lo que mas me llamo la atención.
+
+**Parte 3:**
+
+![1](https://github.com/user-attachments/assets/7f6cb159-e8e6-45c8-87f0-528d5f5238e4)
+
+![2](https://github.com/user-attachments/assets/8439b190-3d80-4111-84b3-425569e8791f)
+
+![3](https://github.com/user-attachments/assets/c506c6ec-3f85-4240-b7d8-8c7db709ec5d)
+
+![4](https://github.com/user-attachments/assets/8c1a46dd-5cf9-40fe-8094-77ac0af9db55)
+
+![5](https://github.com/user-attachments/assets/d14cd502-1cbe-49c2-b808-861b1a1f6bdd)
+
+![6](https://github.com/user-attachments/assets/450a8ee9-d2fb-459b-aa66-272af19805c3)
+
