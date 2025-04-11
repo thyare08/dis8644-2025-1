@@ -1,9 +1,8 @@
 # sesion-05b
 ## trabajo en clase
-### aaa
--
--
-
+### ideas de modificaciones para el atrari punk console
+- 
+- 
 ## encargo
 ### aaa
 -
