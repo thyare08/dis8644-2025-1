@@ -21,6 +21,11 @@
 
 ### 1. R1 cambiamos por un botón, además cambiamos C1 de 474 por una de 223 y el resultado del sonido fue grave y bajito. 
 
+| Componente | Componente cambiado | 
+|----|---| 
+|R1| Botón |
+| C1 : 470 µF | C1: 223 µF |
+
 ![IMG_3772](https://github.com/user-attachments/assets/88163ec1-9de1-4069-977e-621f47c0f233)
 
 https://github.com/user-attachments/assets/0409db3f-5d4c-46a0-8262-34c1e49b64de
