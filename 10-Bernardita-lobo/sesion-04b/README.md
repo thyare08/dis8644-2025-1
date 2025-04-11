@@ -25,8 +25,10 @@
 
 ## encargo
 ### switched on bach (wendy carlos)
--
--
+- musica tradicional en la electrónica
+- revolución tecnologica
+- efectos de sonido y jingles
+
 ### la historia de los sintetizadores moog
 - 
 -
