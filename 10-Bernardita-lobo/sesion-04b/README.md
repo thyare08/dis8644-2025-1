@@ -27,7 +27,7 @@
 ### switched on bach (wendy carlos)
 -
 -
-### la historia de los sintetizadores
+### la historia de los sintetizadores moog
 -
 -
 
