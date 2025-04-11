@@ -31,11 +31,14 @@ https://github.com/user-attachments/assets/916fa235-2f58-4bab-b592-31f0b883e0ec
 
 https://github.com/user-attachments/assets/dcd7b72e-55f0-42f8-b9bb-f3d4dbd10d0f
 
+![1](https://github.com/user-attachments/assets/04802a1d-b83f-457e-8fec-f40ba1709f99)
+
 # 2. 
 r1 se cambia por un LDR y luego sale un condensador de 10 uF y luego un botón 
 
 https://github.com/user-attachments/assets/08641d47-ad1e-43a2-9e03-e626a7e95bf7
 
+![2](https://github.com/user-attachments/assets/7edea937-f826-48e5-b393-34bf16d24e2e)
 
 # 3. 
 r1 se agrego un potenciometro y se agregaron en _*serie*_ dos condensadores de 10 uF y luego cada uno con un botón  
@@ -44,7 +47,16 @@ https://github.com/user-attachments/assets/f55b19d4-1ce4-49d2-9cd0-25feef36ee88
 
 https://github.com/user-attachments/assets/619a9101-1ce0-408f-b105-ea43dc627cd6
 
+![3](https://github.com/user-attachments/assets/c00889b3-e51a-4887-9040-66210a2a0b12)
+
 # 4. 
 r1 se agrego un LDR y se agregaron en _*serie*_ dos condensadores de 10 uF y luego cada uno con un botón 
 
 https://github.com/user-attachments/assets/dcfd4107-a98b-4d9d-b192-b1413122b14e
+
+![4](https://github.com/user-attachments/assets/f5c4eef6-b3e9-4e22-a711-bfb188d54e93)
+
+# propuestafinal
+en base a la propuesta n3, decidimos que queriamos agregar un led para poder *ver el sonido que estamos creando* en base al chip de la derecha en su patita n3, en serie con un condensador de 10 uF y un led, luego ambos estan conectados al parlante
+
+![5 final](https://github.com/user-attachments/assets/a3c46e70-6bbd-45ee-aebf-f6f676ae8359)
