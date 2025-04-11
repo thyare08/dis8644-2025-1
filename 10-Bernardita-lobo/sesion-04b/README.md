@@ -1,4 +1,4 @@
-#sesion-04b
+# sesion-04b
 ## trabajo en clase
 ### sistemas electrónicos
 - funcionamiento de 1-bit
