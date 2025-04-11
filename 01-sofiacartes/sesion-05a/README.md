@@ -11,11 +11,31 @@
 
 imágen de: <https://k1.spdns.de/Develop/Hardware/Circuits/555%20Timer%20Circuits/>
 
-## trabajo en clases 
+## Cambios realizados al circuito Atari punk console
+
+# 1.
+
+r1 se cambia por un botón, además cambiamos la c1 de 474 por una 223 y el resultado del sonido fue mas grave y bajito.
+
+<https://github.com/user-attachments/assets/83e76e33-7fec-4e5a-add9-349a74a39ae6>
+
+### si dejamosel condensador c1 474 4l resultado del sonido es mas agudo y fuerte.
+
+<https://github.com/user-attachments/assets/b07da373-cc86-47a9-9a8f-59548a552cac>
+
+# 2. 
+
+r1 se cambia por un LDR y luego sale un condensador de 100 uF y luego un botón.
+
+<https://github.com/user-attachments/assets/e85eabfa-6852-43cb-b427-02d1503128cc>
+
+# 3.
+
+r1 se le agregó un potenciómetro y se agrega en serie dos condensadores de 100 uF y luego cada uno con un botón.
+
+<https://github.com/user-attachments/assets/636514b2-b8ac-44b2-a618-e37cebafe728>
+
+
 
 ![IMG_0641](https://github.com/user-attachments/assets/d52f8be5-30b7-4f9a-9057-fa85c017360c)
 ![IMG_0640](https://github.com/user-attachments/assets/34a34327-8c14-44a3-be96-7e91ccbdc400)
-<https://github.com/user-attachments/assets/e0b2152e-9b9b-408b-b233-e5d9c0e82ceb>
-<https://github.com/user-attachments/assets/b1a26168-40c7-4729-8e4a-eb46b9f6e652>
-<https://github.com/user-attachments/assets/1c35bce9-37ce-4e8a-99a0-a2329650e589>
-<https://github.com/user-attachments/assets/911755f7-4744-4bf0-b637-8bb190bf6b8f>
