@@ -32,18 +32,19 @@ https://github.com/user-attachments/assets/916fa235-2f58-4bab-b592-31f0b883e0ec
 https://github.com/user-attachments/assets/dcd7b72e-55f0-42f8-b9bb-f3d4dbd10d0f
 
 # 2. 
-r1 se cambia por un LDR y luego sale un condensador de 100 uF y luego un botón 
+r1 se cambia por un LDR y luego sale un condensador de 10 uF y luego un botón 
 
 https://github.com/user-attachments/assets/08641d47-ad1e-43a2-9e03-e626a7e95bf7
 
 
 # 3. 
-r1 se agrego un potenciometro y se agregaron en _*serie*_ dos condensadores de 100 uF y luego cada uno con un botón  
+r1 se agrego un potenciometro y se agregaron en _*serie*_ dos condensadores de 10 uF y luego cada uno con un botón  
 
 https://github.com/user-attachments/assets/f55b19d4-1ce4-49d2-9cd0-25feef36ee88
 
 https://github.com/user-attachments/assets/619a9101-1ce0-408f-b105-ea43dc627cd6
 
+# 4. 
+r1 se agrego un LDR y se agregaron en _*serie*_ dos condensadores de 10 uF y luego cada uno con un botón 
 
-
-
+https://github.com/user-attachments/assets/dcfd4107-a98b-4d9d-b192-b1413122b14e
