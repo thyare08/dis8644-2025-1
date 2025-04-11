@@ -44,6 +44,7 @@ https://github.com/user-attachments/assets/f55b19d4-1ce4-49d2-9cd0-25feef36ee88
 
 https://github.com/user-attachments/assets/619a9101-1ce0-408f-b105-ea43dc627cd6
 
+# 4. 
+r1 se agrego un LDR y se agregaron en _*serie*_ dos condensadores de 10 uF y luego cada uno con un botón 
 
-
-
+https://github.com/user-attachments/assets/dcfd4107-a98b-4d9d-b192-b1413122b14e
