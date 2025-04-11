@@ -11,6 +11,10 @@
 
 imágen de: <https://k1.spdns.de/Develop/Hardware/Circuits/555%20Timer%20Circuits/>
 
+### Atari punk console 
+
+<img width="1012" alt="atari punk console" src="https://github.com/user-attachments/assets/8e8dd426-678a-445d-9cce-56e1c561e692" />
+
 ## Cambios realizados al circuito Atari punk console
 
 # 1.
