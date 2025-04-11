@@ -1,4 +1,4 @@
-![foto31](https://github.com/user-attachments/assets/8a583e48-0203-4d7c-a5ac-f4bfcfbafee4)# sesion-04b
+
 ## trabajo en clase
 ### sistemas electrónicos
 - funcionamiento de 1-bit
