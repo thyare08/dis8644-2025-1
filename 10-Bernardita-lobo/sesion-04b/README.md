@@ -25,6 +25,17 @@
 
 ## encargo
 ### switched on bach (wendy carlos)
+- musica tradicional en la electrónica
+- revolución tecnologica
+- efectos de sonido y jingles
+
+### la historia de los sintetizadores moog
+- 
+-
+
+![foto32](https://github.com/user-attachments/assets/ed6b3444-2466-4a1d-8ae5-9e4c4eac13ca)
+![foto31](https://github.com/user-attachments/assets/f696c017-8e36-4065-a300-ad4a669ed5bd)
+
 ### proj 1: bajando opacidad a la caja negra
 - escoger aparato electrónico que no funcione, diseccionar y explorar su interfaz
 - ¿de dónde obtiene energía y qué interacción ofrece?
@@ -34,4 +45,4 @@
 - ¿qué placas requieren alimentación y de dónde llegan las interacciones?
 - realiza un diagrama de flujo y un bill of materials, ¿qué y cuántas partes tiene?
 
-insetar foto*
+![foto33](https://github.com/user-attachments/assets/8b99d5cb-d595-4b4a-b780-348cb29b763e)
