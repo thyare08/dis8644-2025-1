@@ -21,11 +21,16 @@ Con Sofía Cartes, Anais Marschhausen y Valentina Ruz
 
 
 # 1. 
-r1 se cambia por un botón, ademas cambiamos la c1 de 474 por una de 223 y el resultado del sonido fue más grabe y bajito
+r1 se cambia por un botón, ademas cambiamos el condensador c1 de 474 por un condensador de 223 y el resultado del sonido fue más grabe y bajito
+
+*condensador 474*
 
 https://github.com/user-attachments/assets/916fa235-2f58-4bab-b592-31f0b883e0ec
 
-   
+*condensador 223*
+
+https://github.com/user-attachments/assets/dcd7b72e-55f0-42f8-b9bb-f3d4dbd10d0f
+
 # 2. 
 r1 se cambia por un LDR y luego sale un condensador de 100 uF y luego un botón 
 
