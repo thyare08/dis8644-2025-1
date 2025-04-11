@@ -28,7 +28,7 @@
 -
 -
 ### la historia de los sintetizadores moog
--
+- 
 -
 
 ![foto32](https://github.com/user-attachments/assets/ed6b3444-2466-4a1d-8ae5-9e4c4eac13ca)
