@@ -6,3 +6,9 @@ forrest mims
 2 formas de categorizar 
 
 Para pcb y tipo panel (se conecta a traves de cables)
+
+lado top (componentes)
+
+lado bottom (soldadura)
+
+Pad y patita
