@@ -1,18 +1,21 @@
 # sesion-05a
 
-componentes tht
-APC conecta sin capacitor
-AC energia domiciliaria 
-DC baterias
+componentes through-Hole Technology (tht)
+componentes electrónicos que se insertan en agujeros en la placa (PCB) y se sueldan del otro lado.
 
-el sonido es el cambio, no la mantención
-(gasto energetico)
+APC conecta sin capacitor
+corriente alterna (AC) energia domiciliaria, ej. 220v, 110v, etc
+corriente continua (DC) baterias, fuentes de poder, etc
+
+el sonido es el cambio, no la mantención (gasto energetico)
+basicamente el sonido se produce al cambiar de estado, no al mantenerse funcionando.
 
 voltaje: es la fuerza que empuja a los electrones por un cable (presión del agua en una manguera).
 corriente: es la cantidad de electrones que se están moviendo (flujo de agua que pasa por la manguera).
 
 # modificar-APC
-2-3modificaciones
+2 a 3 modificaciones
+Con Sofía Cartes, Anais Marschhausen y Valentina Ruz
 
 ![Modificando un atari punk console](https://github.com/user-attachments/assets/945178b5-bfa1-4ed9-978c-c8d6a4079d31)
 
