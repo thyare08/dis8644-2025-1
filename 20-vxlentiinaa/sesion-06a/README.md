@@ -2,7 +2,7 @@
 
 15-04-2025
 
-## Solemne 1 - Grupo 1
+## Proyecto 1 - Grupo 1
 
 <img width="1015" alt="Captura de pantalla 2025-04-07 a la(s) 9 01 31 p m" src="https://github.com/user-attachments/assets/c1102537-5164-4e0c-b0e8-cc6fcda596a4" />
 
