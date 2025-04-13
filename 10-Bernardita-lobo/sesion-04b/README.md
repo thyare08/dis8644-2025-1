@@ -42,19 +42,17 @@
 - los instrumentos sintetizadores "digitales" generan el sonido digitalmente. para eso deben tener microprocesadores de gran capacidad, como los de los computadores y memoria que contenga sonidos en forma de números. o sea que tocas una tecla y los números se transforman en ondas sonoras.
 - lo que hace tan bello a este instrumento es que es un sintetizador "analógico", lo que quiere decir que genera las vibraciones eléctricas a partir de una serie de componentes electrónicos. o sea que el origen de los sonidos no son números, sino vibraciones eléctricas que hacen el papel de las cuerdas, el metal y la madera. el sonido proviene de la placa analógica, que para Robert Moog es donde ocurre la magia, ya que él se imagina cómo los componentes actúan, cómo las resistencias alteran la corriente, se visualizan los voltajes, al igual que los cambios de sonido. para él esto es como una conexión espiritual, que conecta diferentes realidades que existen en el universo desde otros sentidos.
 - para él la creación del sintetizador fue una sucesión de simples casualidades.
-- después del minuto 42:40 del documental, robert moog junto a unos artistas, hace una serie de comentarios machistas y misóginos, así que deje de verlo.
+- después del minuto 42:40 del documental, robert moog junto a unos artistas, hace una serie de comentarios machistas y cosificadores, así que deje de verlo.
 
 ![foto32](https://github.com/user-attachments/assets/ed6b3444-2466-4a1d-8ae5-9e4c4eac13ca)
 ![foto31](https://github.com/user-attachments/assets/f696c017-8e36-4065-a300-ad4a669ed5bd)
 
 ### proj 1: bajando opacidad a la caja negra
-- escoger aparato electrónico que no funcione, diseccionar y explorar su interfaz
-- ¿de dónde obtiene energía y qué interacción ofrece?
-- ¿hay botones o perillas y qué grado de movimiento ofrecen?
-- ¿hay PCB principal? ¿cuántos hay?
-- ¿cómo se interconectan números, textos o dibujos?
-- ¿qué placas requieren alimentación y de dónde llegan las interacciones?
-- realiza un diagrama de flujo y un bill of materials, ¿qué y cuántas partes tiene?
+- elegimos junto a mi compañero 08-clifford1one un walkie talkie y trabajamos juntos en su figma.
+- está diseñado para hablar y sus interacciones son: mantener presionado para hablar, regular el volumen con la perilla y presionar el botón de frecuencia o señal.
+- tiene dos botones y una perilla, uno de los botones simula ser una perilla, pero solo funciona como pulsador, creemos que está diseñado para mantenerse en una señal, tal vez como un objeto de trabajo.
+- este obtiene su energía de un batería de 9v.
+- tiene una placa PCB, una bocina y una antena que es flexible pero no extensible.
+- tiene textos para el volumen, señal, indica el + y -, también los voltios y la marca.
 
 ![foto33](https://github.com/user-attachments/assets/8b99d5cb-d595-4b4a-b780-348cb29b763e)
-
