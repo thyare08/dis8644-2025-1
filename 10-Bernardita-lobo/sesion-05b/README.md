@@ -9,8 +9,8 @@
 ### mi primera soldadura
 - aprendimos a soldar placas perforadas
 - primero se conecta el cautín y se deja calentar unos cinco minutos.
-- se limpia la punta con una bola de alambre o una esponja resistente al calor.
-- se insertan las patas del componente a través de los agujeros de la placa perforada.
+- limpia la punta con una bola de alambre o una esponja resistente al calor.
+- inserta las patas del componente a través de los agujeros de la placa perforada.
 - coloca la punta del cautín tocando al mismo tiempo la pata del componente y el agujero por tres segundos.
 - acerca el estaño hasta que se derrita, retira el estaño y luego el cautín.
 
