@@ -1,6 +1,6 @@
 # sesion-06a
 
-## atari punk console
+## proyecto 01 - grupo 04
 
 tomamos el esqueleto base del _"atari punk console"_ el cual modificamos principalmente para aletrar la frecuencia del parlante, mediante botones e interruptores
 
