@@ -27,7 +27,10 @@ Se pueden modificar fácilmente con osciladores, interruptores y LEDs (estaria i
 
 Durante el tiempo que me dieron para trabajar con el circuito, estuve súper complicado armándolo, aun pidiendo ayuda al Misaa y al Andrés. Solo pude llegar hasta la primera parte. Algo que me recomendaron fue ir despacio y fijándome bien en las conexiones.
 
+![WhatsApp Image 2025-04-13 at 19 41 10 (1)](https://github.com/user-attachments/assets/ef2ce9f9-6779-45e7-b9e5-5a6f1e86231c)
 
+
+https://github.com/user-attachments/assets/df63cbcd-4708-4ee0-ac05-162a71984e20
 
 ## 1-BIT SYMPHONY - Tristan Perich
 
