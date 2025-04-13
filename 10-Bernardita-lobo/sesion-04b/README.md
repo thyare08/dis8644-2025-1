@@ -27,7 +27,7 @@
 ### switched on bach 
 - por wendy carlos
 - música clásica con su síntesis traspasada a la electrónica
-- popularizó los sintetizadores moog y revolucionó tecnologica
+- popularizó los sintetizadores moog y revolucionó la tecnología.
 - efectos de sonido y jingles
 - disruptivo para los puristas de la música
 
