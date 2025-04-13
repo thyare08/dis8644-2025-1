@@ -3,9 +3,13 @@
 <https://www.markdownguide.org/cheat-sheet/>
 
 [Mi lindo figma les invito a mirarlo](https://www.figma.com/board/2tv4jx75qGZa6Gua2UCVer/taller.maq.electr?node-id=129-560&t=cVq1IzUTy8WWUreN-1)
-![Foto de mis apuntes en figma](tme-03a-apunte.png)
 
 
+![Foto 1 de mis apuntes en figma](tme-03a-inicio.png)
+
+![Foto 2 de mis apuntes en figma](tme-03a-astable.png)
+
+![Foto 3 de mis apuntes en figma](tme-03a-investigacion.png)
 
 ## EXPERIMENTACION
 
