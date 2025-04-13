@@ -24,14 +24,25 @@
 ![foto29](https://github.com/user-attachments/assets/00a91f8b-9c35-44c2-8040-9c94c409347e)
 
 ## encargo
-### switched on bach (wendy carlos)
-- musica tradicional en la electrónica
-- revolución tecnologica
+### switched on bach por wendy carlos
+- música clásica con su síntesis traspasada a la electrónica
+- popularizó los sintetizadores moog y revolucionó tecnologica
 - efectos de sonido y jingles
+- disruptivo para los puristas de la música
 
 ### la historia de los sintetizadores moog
-- 
--
+- video documental "moog - la historia del sintetizador moog - BBC londres"
+- Robert Moog fue el creador de estos sintetizadores. estudió un bachillerato en la escuela de ciencias del bronx, física en el queens college, después ingeniería eléctrica en la universidad de columbia y un doctorado en ingeniería física en la universidad de cornell. es por esto que tenía una facilidad para sentir qué era lo que ocurría dentro de los transistores y las resistencias.
+- la primera reacción a este invento fue de profundo disgusto, ya que pensaban que no era natural, en algunas entrevistas que dio robert moog, le preguntaban si no se sentía culpable por lo que había creado, ya que creían que estaba destrozando la cultura de la música.
+- si no era un instrumento de madera, metal o de cuerda, lo consideraban sospechoso.
+- antes del disco Switched-on bach, la música que se tocaba con instrumentos electrónicos se escuchaba en anuncios con ruidos extraños o era muy experimental y a la gente le parecía algo raro.
+- este disco demostró que se podía hacer música de verdad con instrumentos electrónicos para un público muy amplio.
+- mientras más artistas utilizaban este sintetizador, gradualmente se iba viendo como una actividad humana y no algo amenazante. él compara este miedo a lo desconocido con cómo las tribus solían pensar que al sacarles una fotografía les robaban el alma.
+- el mercado de los moog se fue expandiendo y ya se había utilizado en diversas grabaciones de todos los estilos musicales.
+- los instrumentos sintetizadores "digitales" generan el sonido digitalmente. para eso deben tener microprocesadores de gran capacidad, como los de los computadores y memoria que contenga sonidos en forma de números. o sea que tocas una tecla y los números se transforman en ondas sonoras.
+- lo que hace tan bello a este instrumento es que es un sintetizador "analógico", lo que quiere decir que genera las vibraciones eléctricas a partir de una serie de componentes electrónicos. o sea que el origen de los sonidos no son números, sino vibraciones eléctricas que hacen el papel de las cuerdas, el metal y la madera. el sonido proviene de la placa analógica, que para Robert Moog es donde ocurre la magia, ya que él se imagina cómo los componentes actúan, cómo las resistencias alteran la corriente, se visualizan los voltajes, al igual que los cambios de sonido. para él esto es como una conexión espiritual, que conecta diferentes realidades que existen en el universo desde otros sentidos.
+- para él la creación del sintetizador fue una sucesión de simples casualidades.
+- después del minuto 42:40 del documental, robert moog junto a unos artistas, hace una serie de comentarios machistas y misóginos, así que deje de verlo.
 
 ![foto32](https://github.com/user-attachments/assets/ed6b3444-2466-4a1d-8ae5-9e4c4eac13ca)
 ![foto31](https://github.com/user-attachments/assets/f696c017-8e36-4065-a300-ad4a669ed5bd)
@@ -46,3 +57,4 @@
 - realiza un diagrama de flujo y un bill of materials, ¿qué y cuántas partes tiene?
 
 ![foto33](https://github.com/user-attachments/assets/8b99d5cb-d595-4b4a-b780-348cb29b763e)
+
