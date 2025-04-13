@@ -22,10 +22,12 @@ https://github.com/user-attachments/assets/c925b018-7fd8-4000-ae01-b360d9f27ea8
 
 ## 02 - integracion de boton
 
-integramos el boton como un "puente" entre la energia y el parlante, la diferencia entre ell boton y el interruptor en este caso es que la comunicacion parlante-fuente de poder es en que el estado cambia cuando se mantiene presionado el boton, una vez se presione cambia la frecuencia del parlante
+integramos el boton como un "puente" entre la energia y el parlante, la diferencia entre ell boton y el interruptor en este caso es que la comunicacion parlante-fuente de poder es en que el estado cambia cuando se mantiene presionado el boton, una vez se presione cambia la frecuencia del parlante, usamos los leds como feedback de el paso de energia en el circuito
 
 https://github.com/user-attachments/assets/9e36eba8-5350-4d1f-8f8d-8dc676832207
 
 ## 03 - botones en paralelo ("piano")
 
+ya con el primer boton integrado, logramos crear una secuencia de botones en paralelo que provocan distintos cambios en la frecuena del sonido del parlante, lo cual denominamos como _"piano"_
 
+https://github.com/user-attachments/assets/81ee4759-0f37-4b5d-94a1-204632bcf14a
