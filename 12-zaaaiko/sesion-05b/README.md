@@ -4,7 +4,7 @@
 - Martín Silva Reyes
 - Carlo Martinez Arzola
 - Bastián
-### tipo de trabajo
+### Tipo de trabajo
 ## Caja sonora interactiva
 <div align="left">
   <img height="200" src="https://media.discordapp.net/attachments/1248658110625742862/1360276763208319029/20250411_113246.jpg?ex=67fa87f5&is=67f93675&hm=b3d280bda998e787806649f061694b165fc3ffa862c5812751be0b11f5e3c6c4&=&format=webp&width=2394&height=1104"  />
