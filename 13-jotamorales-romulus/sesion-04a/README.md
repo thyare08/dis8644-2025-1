@@ -29,28 +29,11 @@ Durante el tiempo que me dieron para trabajar con el circuito, estuve súper com
 
 
 
-## 1BIT SYMPHONY - Tristan Perich
+## 1-BIT SYMPHONY - Tristan Perich
 
 Logré darme el tiempo de escuchar  1-Bit Symphony y me doy el gusto de agradecer lo conciso pero sustancioso del álbum. De entrada me gusta su forma de presentación, solo parece una carcasa de CD con un chip, pero lo que genera es potente, tiene un impacto mucho mayor del que uno podría esperar. Deja de lado el tener que poner un CD en un reproductor y ahora la carcasa es la misma. Un objeto tan básico logra esconder algo mucho más complejo. No es solo un archivo de audio; no es solo una pista. Es el chip componiendo en tiempo real, y eso lo hace aún más interesante.
 
 De las cinco canciones del álbum, Movement 2 fue la que más me atrapó. Desde los primeros segundos sentí una conexión especial, y no pude evitar pensar en Derezzed de Daft Punk. No estoy seguro de si realmente son tan parecidas en estructura o melodía, pero había algo en el ritmo, la energía y los patrones repetitivos que me hizo imaginar una versión retro. Esa asociación me emocionó, porque parecía como si estuviera redescubriendo una canción conocida desde otro ángulo, con una estética completamente diferente, más minimalista y digital.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## 1-Bit Symphony
-
-
 
 revisar
 https://www.555-timer-circuits.com
