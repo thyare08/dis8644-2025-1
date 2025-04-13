@@ -10,7 +10,7 @@
 
  ### hacer:
  - [ ] subir imágenes como imagenes, no como link (crear carpeta de archivos)
- - [ ] objeto para desarmar - martes 08
+ - [x] objeto para desarmar - martes 08
  - [x] escuhar **1 bit symphony**
  - [ ] usar imágenes propias, si son de otros lugares, referenciarlos/citarlos
        
@@ -46,6 +46,7 @@ NO PONER RESISTENCIA MENOR A 1k EN EL PIN 7
 - [errores típicos](https://www.555-timer-circuits.com/common-mistakes.html)
 
 ![atariPunk_v1](https://github.com/felix-rg416/dis8644-2025-1/blob/main/19-felix-rg416/sesion-04a/archivos/atariPunk_v1.png)
+fuente: [https://www.build-electronic-circuits.com/atari-punk-console/](https://www.build-electronic-circuits.com/atari-punk-console/)
 
 ![circuito.APC.02](https://github.com/felix-rg416/dis8644-2025-1/blob/main/19-felix-rg416/sesion-04a/archivos/circuito.APC.01.jpg)
 ![circuito.APC.01](https://github.com/felix-rg416/dis8644-2025-1/blob/main/19-felix-rg416/sesion-04a/archivos/circuito.APC.02.jpg)
