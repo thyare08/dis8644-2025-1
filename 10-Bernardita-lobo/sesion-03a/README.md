@@ -23,8 +23,8 @@
 
 ### EinstÜrzende neubauten
 - álbum "perpetuum mobile" por einstürzende neubauten
-- estilo industriial electrónico
-- ellos fabricaban sus instrumentos
+- estilo industrial electrónico
+- ellos fabricaban sus propios instrumentos.
 - ¿qué es el movimiento dadaísta?
 - ¿qué es un perpetuum mobile?
 
