@@ -12,5 +12,6 @@ links relevantes:
 
 <https://www.tinkercad.com/things/hx7eR7eovWJ-ldalightdependantawelita/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard>
 
-https://github.com/clifford1one/dis8644-2025-1/blob/main/08-clifford1one/sesion-05b/tme-05b-lda-v1.mp4
+[](https://github.com/clifford1one/dis8644-2025-1/blob/main/08-clifford1one/sesion-05b/tme-05b-lda-v1.mp4)
+
 
