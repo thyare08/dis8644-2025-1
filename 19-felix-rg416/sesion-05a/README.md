@@ -9,17 +9,17 @@
 - **[EL CUARZO ES BACÁN](https://elcronometro.com/reloj-de-cuarzo-todo-lo-que-necesitas-saber/)**
 - 
 
-
+DC = corriente continua. sin oscilación. tensión no cambia
+AC = corriente alterna. oscilación curva. la tensión va cambiando
 
 capacitador C5 elimina DC - sólo deja pasar las oscilaciones - es un filtro - le importa la onda
-
-
 
 R1 y R4 ---> experimental
 
 R2, R3, C2 y C4 ---> protección
 
 C5 ---> elimina DC - output DC coupling
+
 C1 ---> modifica la frecuencia (PITCH)
 
 > ### cálculo de resistencia
@@ -32,7 +32,7 @@ C1 ---> modifica la frecuencia (PITCH)
 
 ## MODDING
 
-### cmabios
+### camabios
 antes del C1 poner un interruptor con otro condensador  
 
 
