@@ -24,7 +24,8 @@
 ![foto29](https://github.com/user-attachments/assets/00a91f8b-9c35-44c2-8040-9c94c409347e)
 
 ## encargo
-### switched on bach por wendy carlos
+### switched on bach 
+- por wendy carlos
 - música clásica con su síntesis traspasada a la electrónica
 - popularizó los sintetizadores moog y revolucionó tecnologica
 - efectos de sonido y jingles
