@@ -62,7 +62,25 @@ Este aparato obtiene su energía por medio de una **batería**, la cual se puede
 ![WhatsApp Image 2025-04-12 at 8 14 21 PM](https://github.com/user-attachments/assets/f1a78092-cd4f-4a5a-bdf1-fa44c60bb3cf)
 
 
+## Bill of Materials
 
 
 
-se que me falta el diagrama de flujo y el Bills of Materials, lo subiré sin falta cuando termine mi turno de trabajo!!!
+| Tipo          | Cantidad      | 
+| ------------- |:-------------:| 
+| LEDS          |   3           |
+| Batería       |   1           |   
+| Motor         |   1           |    
+| Engranaje     |   1           | 
+| Interruptor   |   1           |  
+|  cables       |   4           |  
+| Sensor de prox|   1           |
+| Entrada de carga| 1           |  
+
+
+- En general nos costo mucho encontrar tanto los valores, como los nombres de los componentes, ya que fueron borrados por los fabricantes:( 
+
+
+
+
+se que me falta el diagrama de flujo, lo subiré sin falta cuando termine mi turno de trabajo!!!
