@@ -6,7 +6,7 @@
 ![WhatsApp Image 2025-04-06 at 1 03 52 PM](https://github.com/user-attachments/assets/71ed7887-e23c-40e2-812b-c59a6f4099c0)
 
 
-  ### Sintetizadores
+  ## Sintetizadores
 
  Mi favorito fue el **sintetizador Moog**, ya que había investigado sobre ello en el encargo de **Stereolab**, y ver uno en físico fue muy emocionante, casi me sentí como en una **escuela de rock!!!**
 
@@ -27,7 +27,7 @@
 ![WhatsApp Image 2025-04-12 at 4 03 48 PM](https://github.com/user-attachments/assets/76f667cd-a4b5-476a-82a8-bb706b92b750)
 
 
-### Avance de Proyecto 1:
+## Avance de Proyecto 1:
 
 Comenzamos buscando un aparato electrónico como grupo, y nos decimos por un **Dron de juguete con sensor de proximidad**
 Este aparato  es una pelota voladora de plástico, la cual **se estabiliza al detectar la palma de la mano** debajo de este debido al **sensor infrarrojo led** que posee.
@@ -55,15 +55,14 @@ Este aparato obtiene su energía por medio de una **batería**, la cual se puede
 
 ![WhatsApp Image 2025-04-06 at 5 00 26 PM (1)](https://github.com/user-attachments/assets/5707865e-3fa9-4ca3-9473-552cb234da5f)
 
+![partes ](https://github.com/user-attachments/assets/dc176d4b-efe8-47c8-8181-034aebba41ec)
+
  ## Partes 
-
  
-
-![WhatsApp Image 2025-04-06 at 9 58 18 PM](https://github.com/user-attachments/assets/f0e56c63-d034-4784-9e2b-331618095a68)
-
+![WhatsApp Image 2025-04-12 at 8 14 21 PM](https://github.com/user-attachments/assets/f1a78092-cd4f-4a5a-bdf1-fa44c60bb3cf)
 
 
-![WhatsApp Image 2025-04-06 at 10 02 42 PM](https://github.com/user-attachments/assets/7968fb24-3520-4f2d-9179-f700ab37f5c1)
+
 
 
 se que me falta el diagrama de flujo y el Bills of Materials, lo subiré sin falta cuando termine mi turno de trabajo!!!
