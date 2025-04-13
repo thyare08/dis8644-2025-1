@@ -20,3 +20,12 @@ ___proceso con interruptor___
 
 https://github.com/user-attachments/assets/c925b018-7fd8-4000-ae01-b360d9f27ea8
 
+## 02 - integracion de boton
+
+integramos el boton como un "puente" entre la energia y el parlante, la diferencia entre ell boton y el interruptor en este caso es que la comunicacion parlante-fuente de poder es en que el estado cambia cuando se mantiene presionado el boton, una vez se presione cambia la frecuencia del parlante
+
+https://github.com/user-attachments/assets/9e36eba8-5350-4d1f-8f8d-8dc676832207
+
+## 03 - botones en paralelo ("piano")
+
+
