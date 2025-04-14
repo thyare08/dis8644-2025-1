@@ -4,6 +4,10 @@
 
 tomamos el esqueleto base del _"atari punk console"_ el cual modificamos principalmente para aletrar la frecuencia del parlante, mediante botones e interruptores
 
+___circuito atari punk console___
+
+![WhatsApp Image 2025-04-13 at 19 34 12](https://github.com/user-attachments/assets/267c2a69-acd2-4915-a2d4-307851fd5c5f)
+
 ___esquematico incial___
 
 ![esquematico inicial](https://github.com/user-attachments/assets/29d8da02-e3d8-45dc-826c-3487da9dcc38)
@@ -31,3 +35,17 @@ https://github.com/user-attachments/assets/9e36eba8-5350-4d1f-8f8d-8dc676832207
 ya con el primer boton integrado, logramos crear una secuencia de botones en paralelo que provocan distintos cambios en la frecuena del sonido del parlante, lo cual denominamos como _"piano"_
 
 https://github.com/user-attachments/assets/81ee4759-0f37-4b5d-94a1-204632bcf14a
+
+## componentes
+
+| componentes |  cantidad (utilizados) | especificaciones |
+|----------|----------|----------|
+| condensadores    |  5  | 153x1, 474x3, 10ufx1   |
+| bateria   | 1   | 9v   |
+| botones    | 3   |    |
+| interruptor    | 1   |    |
+| parlante    | 1   |    |
+| protoboard    | 2   |   |
+| chip 555   | 2   |    |
+| resistencias    | 7   | 1kx3, 10kx2, 100kx1, 470kx1   |
+| caimanes   | 4   |    |
