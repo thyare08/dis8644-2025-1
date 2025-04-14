@@ -68,7 +68,7 @@
 
 ### 4. R1 cambiamos por un LDR, más el circuito en serie de los 2 botones
 
-![IMG_0815](https://github.com/user-attachments/assets/30687408-2d4b-4cee-b00f-d73697f36745)
+![IMG_0815 2](https://github.com/user-attachments/assets/bd5a91c9-3918-44ca-bc94-db6f5e8d43ed)
 
 | Componente | Componente cambiado | 
 |----|---| 
@@ -82,7 +82,7 @@
 
 ## Circuito Final 
 
-<![IMG_0817](https://github.com/user-attachments/assets/6c13e793-f46b-471e-a621-cb1816d00726)>
+![IMG_0817](https://github.com/user-attachments/assets/6c13e793-f46b-471e-a621-cb1816d00726)
 
 
 ![IMG_3942](https://github.com/user-attachments/assets/f615b6fb-2ddd-4202-bdeb-8cebbfebf0cb)
