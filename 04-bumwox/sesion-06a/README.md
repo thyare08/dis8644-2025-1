@@ -10,9 +10,13 @@ ___circuito atari punk console___
 
 ___esquemático inicial___
 
-poner la correccion
+![Circuito inicial](https://github.com/user-attachments/assets/299b65f3-caee-4260-b04d-5827f931aba6)
 
 https://github.com/user-attachments/assets/c9842fb0-37ba-478e-acf6-78a376ede468
+
+___variación con LDR___
+
+![Variacion LDR](https://github.com/user-attachments/assets/223f479e-05f7-4252-82e8-043f0429c138)
 
 ## 01 - integración del interruptor
 
