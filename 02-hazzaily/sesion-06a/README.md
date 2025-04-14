@@ -34,7 +34,7 @@ Foto 2.
 
 ![Foto_1](https://github.com/user-attachments/assets/27a43fc3-e569-41dc-8a6c-d6ad02228f10)
 
-  4. **Video de :**
+  4. **Videos de potoboard con APC modificado:**
 
 APC original.
 
