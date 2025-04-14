@@ -19,11 +19,11 @@
 
 **Parte 2:** Componentes electrónicos vistos en clases.
 
-1. **Protoboard**
+## 1. Protoboard
 
 - ¿Quién fue el creador?
 
-Según el blog: _"Especialista en informática"_ El creador del protoboard o breadboard conocido en inglés, fue **Jack Kilby** (ingeniero de las empresas Texas Instrument) en 1958.
+Según el blog: _"Especialista en informática"_ El creador del protoboard o breadboard conocido en inglés, fue **Jack Kilby** (ingeniero de las empresas Texas Instruments) en 1958.
 
 ![Jack_Kilby](https://github.com/user-attachments/assets/72735a21-e244-47c3-97f8-97d723135e56)
 
@@ -35,22 +35,21 @@ Ejemplo de ejercicio realizado en clases:
 
 ![IMG_8475](https://github.com/user-attachments/assets/ec98aea2-70bd-4906-8ba6-db97cdabd031)
 
-
 Foto Protoboard
 
 [![Protoboard.jpg](https://i.postimg.cc/TPtyWHHM/Protoboard.jpg)](https://postimg.cc/DWbf95TB)
 
-2. **Conector de batería**
- 
+## 2. Conector de batería
+
 - ¿Qué es un conector de batería y para que sirve?
 
-Segun mi investigación no aparece quien fue el que invento este artefacto. Por otra parte, un conector de batería es un dispositivo que se utiliza para conectar una batería a un aparato electrónico. Sirve para que la energía de la batería llegue al dispositivo que se desea hacer funcionar. 
+Segun mi investigación no aparece quien fue el que invento este artefacto. Por otra parte, un conector de batería es un dispositivo que se utiliza para conectar una batería a un aparato electrónico. Sirve para que la energía de la batería llegue al dispositivo que se desea hacer funcionar.
 
 Foto conector de batería
 
 [![Conector-de-bater-a.webp](https://i.postimg.cc/RqxqBrqf/Conector-de-bater-a.webp)](https://postimg.cc/GTzbF5Fh)
 
-3. **Cables de conexión**
+## 3. Cables de conexión
 
 - ¿Qué son los cables de conexión y para que sirven?
 
@@ -60,7 +59,8 @@ Foto cables
 
 [![cables-electricos.jpg](https://i.postimg.cc/SRMj3QQk/cables-electricos.jpg)](https://postimg.cc/0K98JsJB)
 
-4. **LEDS**
+## 4. LEDS
+
 ¿Quién fue el creador?
 
 La historia del LED es ardua, debido a que no solo una persona fue responsable de su creación. Un resumen en la siguiente imagen:
@@ -75,7 +75,7 @@ Foto LEDS
 
 [![LEDS.jpg](https://i.postimg.cc/XNpHHrFd/LEDS.jpg)](https://postimg.cc/ThvJhYt3)
 
-5. **Resistencias**
+## 5. Resistencias
 
 - ¿Quién fue el creador?
 
@@ -97,12 +97,11 @@ Foto de código de colores
 
 ![Codigo de colores resistencias](https://github.com/user-attachments/assets/0cf65ca0-638d-4f43-877b-4d4f369fb7c6)
 
-
 Foto resistencias
 
 [![resistencias.jpg](https://i.postimg.cc/vBD47Lp1/resistencias.jpg)](https://postimg.cc/G8w3dY3r)
 
-6. **Batería 9V**
+## 6. Batería 9V
 
 - ¿Quién fue el creador?
 
@@ -118,14 +117,13 @@ Foto batería 9V
 
 [![bateria-9v.jpg](https://i.postimg.cc/k4ZBTRmT/bateria-9v.jpg)](https://postimg.cc/zbCzBB3h)
 
-7. **Interruptor**
+## 7. Interruptor
 
 - ¿Quién fue el creador?
 
 El interruptor moderno que utilizamos en la actualidad lo inventó el ingeniero eléctrico **John Henry Holmes** en 1884, en Newcastle, Inglaterra.
 
 ![john henry homes](https://github.com/user-attachments/assets/b874ff3b-c854-47ac-a53e-7d2a202a5336)
-
 
 - ¿Qué es un interruptor y para que sirve?
 
@@ -135,7 +133,7 @@ Foto interruptor
 
 ![interruptor-rojo-unipolar-30x11](https://github.com/user-attachments/assets/f04afd97-3eb2-413a-a052-e86d03ee6469)
 
-8. **Condensador electrolítico**
+## 8. Condensador electrolítico
 
 - ¿Quién fue el creador?
 
@@ -151,11 +149,11 @@ Foto condensador electrolítico
 
 ![condensador electrolitico](https://github.com/user-attachments/assets/ca0cd311-9cc5-423c-9311-71a0a8dc3073)
 
-9. **Condensador cerámicos o de lenteja**
+## 9. Condensador cerámicos o de lenteja
 
 - ¿Quién fue el creador?
 
-**Pieter van Musschenbroek** un científico holandés, quien creó el primer condensador, también conocido 
+**Pieter van Musschenbroek** un científico holandés, quien creó el primer condensador, también conocido
 como botella de Leyden, en 1745. El invento de Musschenbroek fue el resultado de su experimento con la electricidad estática.
 
 ![Pieter van Musschenbroek](https://github.com/user-attachments/assets/a0eb73d4-2118-44bb-94d7-541d274a8e16)
@@ -170,7 +168,7 @@ Foto de condensador cerámico o de lenteja
 
 ![condensador ceramico](https://github.com/user-attachments/assets/1c6abe08-fc13-4200-9db8-463847d07c4f)
 
-10. **Potenciómetro**
+## 10. Potenciómetro
 
 - ¿Quién fue el creador?
 
@@ -188,7 +186,7 @@ Foto de potenciómetro
 
 ![Potenciometro](https://github.com/user-attachments/assets/f36fb15e-5903-40af-a6fc-c5ae80b8cb43)
 
-11. **Micro servomotor**
+## 11. Micro servomotor
 
 - ¿Quién fue el creador?
 
@@ -211,7 +209,7 @@ Foto micro servomotor
 
 ![servo-motor](https://github.com/user-attachments/assets/daf08e2d-e550-435b-9925-708ddb5e8604)
 
-12. **Conector de voltaje hembra**
+## 12. Conector de voltaje hembra
 
 - ¿Qué es un conector de voltaje hembra y para que sirve?
 
@@ -221,11 +219,11 @@ Foto de conector de voltaje hembra
 
 ![conector-dc-hembra](https://github.com/user-attachments/assets/a6321c57-56e1-49fc-8d93-6179d88f7a95)
 
-13. **Zumbador**
+## 13. Zumbador
 
 - ¿Quién fue el creador?
 
-**Joseph Henry** fue el creador del zumbador eléctrico inventado en 1831. 
+**Joseph Henry** fue el creador del zumbador eléctrico inventado en 1831.
 
 ![Joseph Henry](https://github.com/user-attachments/assets/7b2fcf03-199e-43e4-b460-13e530cc54e6)
 
@@ -261,10 +259,10 @@ Foto de zumbador
 
 Fuentes que me fueron interesantes :)
 
-- HechosReales, & HechosReales. (2018, 10 abril). La ley de ohm: historia y aplicaciones de la electricidad. Basado En Hechos Reales. https://basadoenhechosreales.com.ar/real-historia-de-ohm/
+- HechosReales, & HechosReales. (2018, 10 abril). La ley de ohm: historia y aplicaciones de la electricidad. Basado En Hechos Reales. <https://basadoenhechosreales.com.ar/real-historia-de-ohm/>
 
-- Rodríguez, J. (2022, 27 junio). ¿Sabías que el primer interruptor se inventó en 1884? iElektro | Medio Digital Especializado En Transporte y Logística. https://ielektro.es/2022/06/28/primer-interruptor-invento-1884/#:~:text=En%20concreto%2C%20fue%20en%201884,sistema%20estaba%20abierto%20como%20cerrado.
+- Rodríguez, J. (2022, 27 junio). ¿Sabías que el primer interruptor se inventó en 1884? iElektro | Medio Digital Especializado En Transporte y Logística. <https://ielektro.es/2022/06/28/primer-interruptor-invento-1884/#:~:text=En%20concreto%2C%20fue%20en%201884,sistema%20estaba%20abierto%20como%20cerrado>.
 
-- What is an Electrolytic Capacitor? | TTI Europe. (s. f.). https://www.ttieurope.com/content/ttieurope/en/resources/tti-europe-blog/what-is-an-electrolytic-capacitor-blog.html#:~:text=Charlese%20Pollak%2C%20a%20German%20rechargeable,stability%20of%20an%20oxide%20layer.
+- What is an Electrolytic Capacitor? | TTI Europe. (s. f.). <https://www.ttieurope.com/content/ttieurope/en/resources/tti-europe-blog/what-is-an-electrolytic-capacitor-blog.html#:~:text=Charlese%20Pollak%2C%20a%20German%20rechargeable,stability%20of%20an%20oxide%20layer>.
 
-- Gian, A. (s. f.). Universitario Conversa 3: PLACA DE PRUEBAS, PROTOBOARD O BREADBOARD. . .¿Y eso qué es? Universitario Conversa 3. https://especialidadeninformaticaenconversa.blogspot.com/p/placa-de-pruebas-protoboard-o.html#:~:text=Las%20%22PROTOBOARDS%22%20fueron%20inventadas%20por,memoria%20de%20almacenamiento%20de%20datos.
+- Gian, A. (s. f.). Universitario Conversa 3: PLACA DE PRUEBAS, PROTOBOARD O BREADBOARD. . .¿Y eso qué es? Universitario Conversa 3. <https://especialidadeninformaticaenconversa.blogspot.com/p/placa-de-pruebas-protoboard-o.html#:~:text=Las%20%22PROTOBOARDS%22%20fueron%20inventadas%20por,memoria%20de%20almacenamiento%20de%20datos>.

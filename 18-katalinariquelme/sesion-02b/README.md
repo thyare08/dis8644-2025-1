@@ -6,7 +6,7 @@ Clase 4: Viernes 21 de Marzo del 2025.
 - **Parte 2:** Conceptos.
 - **Parte 3:** Circuitos.
 
-**Apuntes**
+## Apuntes
 
 Foto de mi bitácora
 

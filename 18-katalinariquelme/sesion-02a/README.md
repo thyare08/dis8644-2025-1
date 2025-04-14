@@ -6,10 +6,9 @@ Clase 3: Martes 18 de marzo de 2025.
 - Parte 2: ¿Qué es la ley de Ohm?
 - Parte 3: Ejercicio practico realizado en clases.
 - Parte 4: Encargo 04.
-- Parte 5: Encargo 05. 
+- Parte 5: Encargo 05.
 
-
-**Parte 1:** Apuntes.
+## Parte 1: Apuntes
 
 Foto de mi bitácora
 
@@ -23,22 +22,21 @@ Foto de mi bitácora
 
 ![IMG_8492](https://github.com/user-attachments/assets/f1298cc3-dbd3-44c5-89e1-b71a13eab12d)
 
-**Parte 2**
+## Parte 2
 
 **¿Qué es la Ley de Ohm?**
 
-La ley de Ohm es una regla fundamental en electricidad que describe cómo se relacionan el voltaje, la corriente y la resistencia en un circuito. 
+La ley de Ohm es una regla fundamental en electricidad que describe cómo se relacionan el voltaje, la corriente y la resistencia en un circuito.
 
-Ejemplo: 
+Ejemplo:
 
-En un río, el voltaje sería la fuerza del agua, la corriente sería la cantidad de agua que fluye, y la resistencia serían las rocas que dificultan el paso del agua. Según la **ley de Ohm** dice que la corriente que fluye por un circuito es directamente proporcional al voltaje e inversamente proporcional a la resistencia. En otras palabras,  si aumentas el voltaje, la corriente también aumenta, pero si aumentas la resistencia, la corriente disminuye. 
+En un río, el voltaje sería la fuerza del agua, la corriente sería la cantidad de agua que fluye, y la resistencia serían las rocas que dificultan el paso del agua. Según la **ley de Ohm** dice que la corriente que fluye por un circuito es directamente proporcional al voltaje e inversamente proporcional a la resistencia. En otras palabras,  si aumentas el voltaje, la corriente también aumenta, pero si aumentas la resistencia, la corriente disminuye.
 
 La fórmula es la siguiente:
 
 ![download](https://github.com/user-attachments/assets/46446825-601c-4002-aee9-3102ca9aed23)
 
 V representa el voltaje, I es la corriente y R es la resistencia. Es una herramienta esencial para entender y trabajar con circuitos eléctricos, permitiendo calcular cualquiera de estas tres magnitudes si se conocen las otras dos.
-
 
 **Parte 3:** Trabajo practico en clases.
 
@@ -72,6 +70,6 @@ V representa el voltaje, I es la corriente y R es la resistencia. Es una herrami
 
 ![Captura de pantalla 2025-03-19 204752](https://github.com/user-attachments/assets/0f208463-5f51-456f-bf81-bde5a205168b)
 
-**Fuentes donde saqué la información del código de colores de las resistencias :)**
+Fuentes donde saqué la información del código de colores de las resistencias :)
 
-https://www.digikey.com/es/resources/conversion-calculators/conversion-calculator-resistor-color-code
+<https://www.digikey.com/es/resources/conversion-calculators/conversion-calculator-resistor-color-code>
