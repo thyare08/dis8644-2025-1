@@ -1,16 +1,12 @@
 # sesion-03b
 
-
 ![apuntes en figma parte 1](tme-03b-intro.png)
 
 ![apuntes en figma parte 2](tme-03b-apunte.png)
 
 ![apuntes en figma parte 3](tme-03b-relevante.png)
 
-
 ## Visita al MAC
-
-
 
 Exposición sonora:
 
@@ -22,9 +18,7 @@ Posteriormente, fue declarado como Monumento Nacional, y entre 2004 y 2005, fue 
 
 Este año se celebran 20 años desde que comenzó a ser una sede del Museo de Arte Contemporáneo. Dada esta instancia, el museo le pidió a Matías Serrano y María Ignacia Valdebenito que generaran una obra que conectara con el contexto de la celebración.
 
-
-
-La exposición constaba de una serie de obras colgadas desde el techo. Cada una de esas ellas, colgadas a aprox 150 cm del suelo, compuestas de múltiples objetos que parecían ser basura, unidos. Cada uno de ellos tenía un microcontrolador con un parlante, el cual emitía sonidos ambientales. 
+La exposición constaba de una serie de obras colgadas desde el techo. Cada una de esas ellas, colgadas a aprox 150 cm del suelo, compuestas de múltiples objetos que parecían ser basura, unidos. Cada uno de ellos tenía un microcontrolador con un parlante, el cual emitía sonidos ambientales.
 
 Primero, miré la exposición sin leer el contexto. Buscaba entender la obra y sus justificación antes de leerla. Me esforcé en analizarlas con el objetivo de encontrar la motivación y el elemento unificante de todas las obras. No lo encontré.
 
