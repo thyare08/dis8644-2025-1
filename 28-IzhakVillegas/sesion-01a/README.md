@@ -26,7 +26,7 @@ Tema: Presentación de Equipo, Explicación de Encargo 1
 * Licencia __copyright/copyleft__: Conceptos de derechos de propiedad intelectual que se diferencian: el __copyright__ restringe y protege al autor, el __copyleft__ permite la modificación y distribución.
 * Open source: Modelo de desarrollo de software que permite que el código fuente de un programa sea accesible para quien lo use, modifique y que permite que lo comparta con cualquier persona.
 
-## Encargo 1: Mi caja negra y yo
+## encargo-01: Mi caja negra y yo
 
 Elegir un objeto con el que se tenga relación.
 

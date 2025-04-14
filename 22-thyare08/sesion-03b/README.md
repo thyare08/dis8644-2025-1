@@ -1,10 +1,16 @@
 # sesion-03b
+
 ## conectar circuito a parlante sonido generar sonido
+
 ![20250328_103631](https://github.com/user-attachments/assets/67824e78-0fa7-4255-bae8-8d0a3a654fc3)
 ![20250328_103106](https://github.com/user-attachments/assets/eeef162e-a21f-48d8-b2a5-218cf39ba59e)
+
 ### salida al mac
+
 ![20250328_113356](https://github.com/user-attachments/assets/74a5627a-28de-4dad-a964-e2256bee0bc8)
+
 #### imagen 1: me pareció una buena pregunta que invita a reflexionar
+
 ![20250328_115025](https://github.com/user-attachments/assets/2ab1ab83-f6cd-46e7-b4e9-4083ddd01291)
 ![20250328_115306](https://github.com/user-attachments/assets/5b31b9ec-b12e-4b9c-8b32-bda7e3d58931)
 ![20250328_115326](https://github.com/user-attachments/assets/c4674dac-6e2d-4c75-8ae0-bb64792c3bb3)
@@ -12,9 +18,13 @@
 ![20250328_115654](https://github.com/user-attachments/assets/863461e2-bcda-431f-a791-833df1298787)
 ![20250328_115659](https://github.com/user-attachments/assets/248918fe-3553-4413-aff4-e93cb39d9917)
 ![20250328_120249](https://github.com/user-attachments/assets/94f53c40-2fd8-4589-a0fd-198eba19a6b8)
+
 ##### imagen 2 a 7: museo estéreo, me intrigó bastante, la construcción de todos los objetos, lo que los conformaba y los diversos silencios que se escuchaba de cada uno
+
 ![20250328_120859](https://github.com/user-attachments/assets/db49949c-1a22-4c89-addc-db47264bc894)
+
 ###### imagen 8: fotografía y manipulación digital, me pareció interesante los efectos y colores que se veían en las imágenes
+
 ![20250328_121520](https://github.com/user-attachments/assets/18f1b198-04de-4afd-870a-a9e415cbf2b5)
 ####### imagen 9: un caleidoscopio es mi corazón, fue una experiencia llena se intriga, por entender cómo funciona
 ![20250328_122214](https://github.com/user-attachments/assets/92bad2bd-2485-45cf-b55f-2eefeffe6dbd)
