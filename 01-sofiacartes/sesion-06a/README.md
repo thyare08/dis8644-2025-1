@@ -82,6 +82,7 @@
 
 ## Circuito Final 
 
+<![IMG_0817](https://github.com/user-attachments/assets/6c13e793-f46b-471e-a621-cb1816d00726)>
 
 
 ![IMG_3942](https://github.com/user-attachments/assets/f615b6fb-2ddd-4202-bdeb-8cebbfebf0cb)
