@@ -68,6 +68,7 @@
 
 ### 4. R1 cambiamos por un LDR, más el circuito en serie de los 2 botones
 
+![IMG_0815](https://github.com/user-attachments/assets/30687408-2d4b-4cee-b00f-d73697f36745)
 
 | Componente | Componente cambiado | 
 |----|---| 
@@ -77,4 +78,15 @@
 |---|---|---|---|
 | LDR | Condensador 1 µF | Condensador 10 µF| 2 Botones | 
 
-https://github.com/user-attachments/assets/d25d03ef-f6e0-44a3-a0f7-907dea5a24c0
+<https://github.com/user-attachments/assets/d25d03ef-f6e0-44a3-a0f7-907dea5a24c0>
+
+## Circuito Final 
+
+
+
+![IMG_3942](https://github.com/user-attachments/assets/f615b6fb-2ddd-4202-bdeb-8cebbfebf0cb)
+
+<https://github.com/user-attachments/assets/476f0dd1-4b2c-4b47-8ee2-b2e84eb0b15f>
+
+https://github.com/user-attachments/assets/0be9c8a3-4105-4911-8076-4f51efa54e32
+
