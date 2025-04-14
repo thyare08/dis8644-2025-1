@@ -3,8 +3,9 @@
 [28 de marzo del 2025]
 
 > Charla pre-clase
+>
 > - Hablaron sobre lounge music, la música de ascensor se llama “muzak”
-> - Aaron usa?? el tiempo “unix”. semi-related pero en la descripción del disco *MCMLXX* de Gozne dice “creado bajo el concepto del tiempo unix”
+> - Aarón usa?? el tiempo “unix”. semi-related pero en la descripción del disco *MCMLXX* de Gozne dice “creado bajo el concepto del tiempo unix”
 > - *La sociedad del espectáculo* de Guy Debord
 > - Fritzing, KitCad, Tinkercad
 > - [@cumasystem](https://cumasystem.xyz/)

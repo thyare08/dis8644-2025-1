@@ -5,7 +5,8 @@
 ## Apuntes
 
 > Charla pre-clase
-> - Alguien escuchó *El poder corrompe* (2009) de Daniel Jeffs y dijo que sonaba como una copia de Kraftwerk, “todo es una copia de Kraftwerk” según Aaron
+>
+> - Alguien escuchó *El poder corrompe* (2009) de Daniel Jeffs y dijo que sonaba como una copia de Kraftwerk, “todo es una copia de Kraftwerk” según Aarón
 > - ¿Qué es la composición? (en diseño y música)
 > - Phoenix (banda francesa). Daft Punk se separaron de ellos
 > - Escuchamos un poco de *Dance* (2017) de Música Inmobiliaria, específicamente el track #3 “givitumi”
