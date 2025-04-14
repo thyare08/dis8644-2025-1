@@ -10,7 +10,7 @@ ___circuito atari punk console___
 
 ___esquematico incial___
 
-![esquematico inicial](https://github.com/user-attachments/assets/29d8da02-e3d8-45dc-826c-3487da9dcc38)
+poner la correccion
 
 https://github.com/user-attachments/assets/c9842fb0-37ba-478e-acf6-78a376ede468
 
