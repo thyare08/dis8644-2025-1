@@ -1,4 +1,5 @@
 # sesion-03b
+
 ## Apuntes clase 28/03
 
 ![IMG_0571](https://github.com/user-attachments/assets/76490d7e-0417-4d8a-a12a-4ffcbe04bf74)
@@ -26,7 +27,6 @@ _"Para septiembre del mismo año el grupo se oía en las radios chilenas con la 
 
 información sacada de: <https://www.musicapopular.cl/grupo/gonzalo-martinez/#:~:text=Los%20nombres%20de%20sus%20dos,tarde%20se%20volver%C3%ADa%20tendencia%20mundial.>
 
-
 ### Encargo09: apuntes sobre visita al museo de arte contemporáneo
 
 **"Museo en estéreo"**
@@ -42,7 +42,6 @@ mediante sensores, proyecciones y paisajes sonoros digitales.
 **"Bordes Fluidos"**
 
 Combinaron tecnología y medios digitales con enfoque a la memoria, identidad y territorio, utilizando videos y audios. Percepción sensorial y emocional dentro de la electrónica.
-
 
 ![FullSizeRender 7](https://github.com/user-attachments/assets/c83adab2-17b7-491e-b6fd-e5dec622d537)
 ![FullSizeRender 6](https://github.com/user-attachments/assets/289775c2-e1b6-4cd8-be02-f7a9614664e5)

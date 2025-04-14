@@ -1,4 +1,5 @@
 # sesion-02b
+
 ### Apuntes 21/03
 
 * Tutupá/Matias Serrano Acevedo. *es una drum machine que controla baquetas físicas, creada con la intención de generar ritmos programados con los objetos del entorno.*
@@ -35,16 +36,15 @@ Consiste en resistencias y transistores integrados en un chip
 
 La relación simple de entrada/salida del amplificador operacional es la razón para usar el amplificador operacional en el diseño de circuitos integrados analógicos.
 
-
 <img width="461" alt="amplificador operacional" src="https://github.com/user-attachments/assets/6f09d651-08db-4af4-aa5a-08f44e4fd9de" />
 
-### Apuntes cuaderno:
+### Apuntes cuaderno
 
 ![IMG_8118 2](https://github.com/user-attachments/assets/f11d81ab-8924-4f17-96a8-39105c77c3ab)
 ![IMG_8115 2](https://github.com/user-attachments/assets/a357f20b-267c-4c21-8da1-b801e18ddfe4)
 ![IMG_8114 2](https://github.com/user-attachments/assets/f9e388a9-5904-45e8-a650-9be5638408a8)
 
-### Ejercicios en clases:
+### Ejercicios en clases
 
 n°1
 
@@ -60,7 +60,6 @@ n°3
 
 ![IMG_8130](https://github.com/user-attachments/assets/94619f5c-c115-4dfc-8d80-270c84eb9398)
 
-
 ### Suzanne Ciani
 
 <img width="527" alt="suzzane" src="https://github.com/user-attachments/assets/2006b48a-ed1f-497e-afbf-2cab4fe5cda0" />
@@ -69,4 +68,3 @@ nacionalidad norteamericana; pianista y pionera de la música electrónica, es c
 
 The Velocity of Love - disco
 me gustó bastante, sentí que es acogedor. la utilización de elementos de la naturaleza me llama mucho la atención, ya que los pone como elemento principal.
-

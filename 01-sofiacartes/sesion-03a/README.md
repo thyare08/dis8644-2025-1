@@ -9,18 +9,19 @@
 
 ## pimer ejercicio con chip 555
   
-https://github.com/user-attachments/assets/e8b1fb89-99ea-487a-9c4e-436ec240107e
+<https://github.com/user-attachments/assets/e8b1fb89-99ea-487a-9c4e-436ec240107e>
 
 (clip realizado con: <https://clideo.com/es/video-editor>)
 
 ## segundo ejercicio con chip 555 y potenciómetro
   
-https://github.com/user-attachments/assets/86fd31f1-458d-47c8-82b2-a4cf3d90757d
+<https://github.com/user-attachments/assets/86fd31f1-458d-47c8-82b2-a4cf3d90757d>
 
 (clip realizado con: <https://clideo.com/es/video-editor>)
 
 ## ¿Qué es el chip 555?
-es un circuito integrado simple que permite crear diversos circuitos electrónicos. 
+
+es un circuito integrado simple que permite crear diversos circuitos electrónicos.
 
 este cuenta con 8 terminales los cuales son:
 
@@ -42,23 +43,23 @@ Descarga **DIS o DISCH:** Permite descargar el condensador externo al circuito i
 <img width="583" alt="555" src="https://github.com/user-attachments/assets/daf5e63a-0e60-4b88-ab44-a66e6b7b7af4" />
 <img width="911" alt="555" src="https://github.com/user-attachments/assets/eccb546e-9486-431a-8194-4feecb09710e" />
 
- _información de: <https://www.areatecnologia.com/electronica/circuito-integrado-555.html> <https://www.330ohms.com/blogs/blog/que-es-el-circuito-integrado-555?srsltid=AfmBOopvba65AJOLFOc9oJPC7cs7yi6Nfiz5dXYf4YRss-Ne0m_mtXn9>_ 
+ _información de: <https://www.areatecnologia.com/electronica/circuito-integrado-555.html> <https://www.330ohms.com/blogs/blog/que-es-el-circuito-integrado-555?srsltid=AfmBOopvba65AJOLFOc9oJPC7cs7yi6Nfiz5dXYf4YRss-Ne0m_mtXn9>_
 
 ## Einstürzende Neubauten - disco: Grundstueck
 
 <img width="604" alt="bbb" src="https://github.com/user-attachments/assets/5474eaeb-8925-46b1-9fbd-19545c46edde" />
 
-Grupo musical alemán ha sido pionero en el movimiento de la música industrial y experimental en los años 80. 
+Grupo musical alemán ha sido pionero en el movimiento de la música industrial y experimental en los años 80.
 
 Su nombre es traducido como Edificios en ruinas, se formó en Berlín en 1980. El grupo está compuesto por Blixa Bargeld, N.U. Unruh, Alexander Hacke, Jochen Arbeit y Rudolf Moser. La banda comenzó como un proyecto artístico.
 
-<img width="699" alt="aa" src="https://github.com/user-attachments/assets/6eb2cf64-b40e-4df1-ae1b-58f337b243d0" /> 
+<img width="699" alt="aa" src="https://github.com/user-attachments/assets/6eb2cf64-b40e-4df1-ae1b-58f337b243d0" />
 
 _imágen de: <https://www.soundonsound.com/techniques/einsturzende-neubauten>_
 
-El estilo musical de la banda es industrial, post-industrial, experimental, avant-garde y noise, ***utilizan martillos, clavos y objetos metálicos para crear sonidos***
+El estilo musical de la banda es industrial, post-industrial, experimental, avant-garde y noise, _**utilizan martillos, clavos y objetos metálicos para crear sonidos**_
 
-en el siguiente video,de la canción #Grundstueck: GS 1, 2" están en un show en vivo y se pueden apreciar sus instrumentos 
+en el siguiente video,de la canción #Grundstueck: GS 1, 2" están en un show en vivo y se pueden apreciar sus instrumentos
 
 <https://youtu.be/LhRDzQiEZ7g?si=W_gCwbqubFi8mutV>
 
