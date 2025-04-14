@@ -1,7 +1,9 @@
 # sesion-03b
 
 ## trabajo en clase
+
 ### circuito electrónico aplicado
+
 - oscilador astable
 - circuito electrónico con sensor de luz
 - circuito electrónico con bocina
@@ -11,18 +13,23 @@
 ![foto18](https://github.com/user-attachments/assets/251fa9e9-4619-494f-a632-ad9c42afed2a)
 
 ### visita al museo de arte contemporáneo
+
 - museo de arte contemporáneo en quinta normal
 
 ![foto19](https://github.com/user-attachments/assets/31c52a92-ea47-4b32-ba07-a9b23b5ed794)
 ![foto20](https://github.com/user-attachments/assets/e1725458-b276-4181-9756-b477db835a50)
 
 ## encargo
+
 ### apuntes visita al museo de arte contemporáneo
+
 - ¿cómo se relaciona la electrónica con el arte?
 - exposición museo en estéreo
 - sonidos con su propia identidad
 - convive con los elementos simbólicos de cada móvil, reinterpretándolos
+
 ### ¿cómo comenzó el arte electónico?
+
 - video "historia del arte digital, curso de dibujo digital"
 - video "arte vs nuevas tecnologías. el origen documental"
 - por los años 1940 surgen nuevos paradigmas tecnológicos como la programación, sistemas generativos, software libre, código abierto y la composición basada en el azar.
@@ -35,11 +42,12 @@
 ![foto22](https://github.com/user-attachments/assets/7d167358-36c5-438d-985c-3fe520a0b53a)
 
 ### gonzalo martínez y sus congas pensantes
+
 - por jorge gonzález y dandy jack
-- video "jorge gonzáles habla del disco gonzalo martines"
-- video "gonzalo martínes y sus congas pensantes"
+- video "jorge gonzález habla del disco gonzalo martínez"
+- video "gonzalo martínez y sus congas pensantes"
 - cumbia electrónica para acercar la musica electrónico a sudamérica
-- jorge gonzáles aprendió a utilizar el sintetizador con la pollera amarilla
+- jorge gonzález aprendió a utilizar el sintetizador con la pollera amarilla
 - en un principio no tuvo tanto éxito porque el público esperaba música más del estilo de los prisioneros
 
 ![foto23](https://github.com/user-attachments/assets/12a8a261-94ed-46ee-937b-19d2443d4a4f)

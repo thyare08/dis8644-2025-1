@@ -1,7 +1,9 @@
 # sesion-02a
 
 ## trabajo en clase
+
 ### circuitos eléctricos
+
 - repaso github
 - explicación dibujos esquemáticos
 - voltaje y resistencia
@@ -12,13 +14,17 @@
 ![foto11](https://github.com/user-attachments/assets/e4d63ab9-22e4-407c-9c6e-4f9ed1c03330)
 
 ## encargo
+
 ### pueblo nuevo y resistencias
+
 - álbum "el poder corrompe" por daniel jeffs
 - la presencia del tempo
 - ¿cómo identificar el valor de las resitencias a través de la tabla de códigos de colores?
 
 ![foto13](https://github.com/user-attachments/assets/54921d43-b93e-4795-8951-345cb8bcc7eb)
+
 ### componentes y circuitos
+
 - componentes repasados: resistencia, capacitor, diodo, potenciómetro y protoboard
 - simbología de los esquemas electrónicos
 - funcionamiento protoboard

@@ -1,7 +1,9 @@
 # sesion-01b
 
 ## trabajo en clase
+
 ### componentes eléctricos y introducción a github
+
 - estudiamos los componentes que se encuentra en nuestras cajitas
 - repaso de voltajes
 - primer circuito eléctrico básico
@@ -11,13 +13,16 @@
 ![foto5](https://github.com/user-attachments/assets/4fc794e2-8415-4af5-a2db-6e27aa7027b9)
 
 ## encargo
+
 ### aplex twin y aaron swartz
+
 - álbum "selected ambient works volume II expanded edicion" y "syro"
 - documental "the story of aaron swartz"
 
 ![foto2](https://github.com/user-attachments/assets/68e9150f-f196-421d-8f64-ea3c7ee603a4)
 
 ### componentes e inventario
+
 - reconocimiento de los componentes existentes
 - inventario y organización de los componentes que se encuentran en mi cajita
 - estudio del significado de los colores de los cables
