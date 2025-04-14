@@ -1,6 +1,6 @@
 # sesion-03b
-![IMG_2716](https://github.com/user-attachments/assets/33da6e58-545f-453f-973d-f31422588378)
 
+![IMG_2716](https://github.com/user-attachments/assets/33da6e58-545f-453f-973d-f31422588378)
 
 ![IMG_4371](https://github.com/user-attachments/assets/299f7861-2099-4884-b2b4-ad48d83bf12f)
 ![IMG_4370](https://github.com/user-attachments/assets/f5624563-5a28-4810-8ccd-ad5b936fc2ba)
