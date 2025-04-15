@@ -20,7 +20,7 @@ hay 9 grupos, el 1 ya presentó.
 * 10:00am - 10:30am - comentarios grupales
 * 10:30am - 11:00am - receso y montaje otros 4 grupos
 * 11:00am - 12:00pm - grupos 06, 07, 08, 09
-* 12:00pm - 12:30pm - sokio
+* 12:00pm - 12:30pm - comentarios grupales
 
 ## pauta
 
@@ -71,3 +71,11 @@ cada criterio es evaluado según:
 * paulina sofía vargas fredes 3
 * alanis carolina vásquez jara 4
 * izhak ramses isauro villegas rojas 6
+
+## encargo-12: instalar kicad
+
+instalar software Kicad en su computador personal, incluir información sobre la instalación, la versión que están usando, el sistema operativo que usan, los idiomas que están usando, las carpetas en donde instalas la app y cualquier otra biblioteca o archivos relacionados, además de cualquier otro dato relevante.
+
+## encargo-13: aprender kicad
+
+aprender a usar Kicad, usando de base los tutoriales oficiales en inglés, o un video en español como el de misaa disponible en <https://www.youtube.com/watch?v=hn_pk0nWDns>. ojo que existen muchas versiones de kicad a través de los años, documentar cualquier inconveniente, cambio de léxico, u otro detalle importante para poder navegar las versiones distintas y lograr trabajar con Kicad en el 2025.
