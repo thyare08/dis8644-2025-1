@@ -30,6 +30,10 @@ A continuación, se muestra una imagen de nuestro circuito APC, donde es posible
 
 ![proy16](proy16.jpeg)
 
+En esta imagen se puede apreciar cómo las barritas impresas en 3D actúan como una barrera. Al ser presionadas, se elevan y permiten que el LED proyecte su luz directamente sobre el LDR.
+
+![proy18](proy18.jpeg)
+
 En esta imagen se muestra el mismo circuito, esta vez encendido, con el LED azul en funcionamiento.
 
 ![proy17](proy17.jpeg)
