@@ -6,17 +6,16 @@ tomamos el esqueleto base del _"atari punk console"_ el cual modificamos princip
 
 ___circuito atari punk console___
 
-![WhatsApp Image 2025-04-13 at 19 34 12](https://github.com/user-attachments/assets/267c2a69-acd2-4915-a2d4-307851fd5c5f)
-
-___esquemático inicial___
-
-![Circuito inicial](https://github.com/user-attachments/assets/299b65f3-caee-4260-b04d-5827f931aba6)
+![Circuito inicial (1)](https://github.com/user-attachments/assets/7c2c735d-090f-40ac-bf55-433cc590ef26)
 
 https://github.com/user-attachments/assets/c9842fb0-37ba-478e-acf6-78a376ede468
 
 ___variación con LDR___
+![Variación LDR e interruptor](https://github.com/user-attachments/assets/e1cba1e0-da43-4620-9937-608314c05b12)
 
-![Variacion LDR](https://github.com/user-attachments/assets/223f479e-05f7-4252-82e8-043f0429c138)
+![Variacion LDR e interruptor (1)](https://github.com/user-attachments/assets/fbdf0739-2229-4918-aae8-4a5d2cfdaeac)
+
+de acá empezamos con las primeras variaciones!
 
 ## 01 - integración del interruptor
 
@@ -36,17 +35,36 @@ usando la base anterior del interruptor, nos aventuramos a usar un componente ex
 
 https://github.com/user-attachments/assets/6b9b32cf-27b5-4d45-b3d7-dab10e0680be
 
+![Variación pulsador, interruptor y caja (2)](https://github.com/user-attachments/assets/f4fabfc1-c263-4797-915b-7a25bd5d4147)
+
+![Variación interruptor, pulsador y caja metálica (1)](https://github.com/user-attachments/assets/2a731b85-cb8a-43ff-a9c3-63ef86621b08)
+
 ## 02 - integración de botón
 
 integramos el botón como un "puente" entre la energía y el parlante, la diferencia entre el botón y el interruptor en este caso es que la comunicación parlante-fuente de poder es en que el estado cambia cuando se mantiene presionado el botón, una vez se presione cambia la frecuencia del parlante, usamos los leds como feedback del paso de energía en el circuito
 
 https://github.com/user-attachments/assets/9e36eba8-5350-4d1f-8f8d-8dc676832207
 
+![Vriacion potenciometro, pulsador e interruptor (2)](https://github.com/user-attachments/assets/f85c423f-ba7f-45ab-8f46-4b055fdb25a4)
+
+![Variacion potenciometro, pulsador e interruptor (4)](https://github.com/user-attachments/assets/8808812d-61ed-449d-ae51-0612a74db720)
+
+
 ## 03 - botones en paralelo ("piano")
 
 ya con el primer botón integrado, logramos crear una secuencia de botones en paralelo que provocan distintos cambios en la frecuencia del sonido del parlante, lo cual denominamos como _"piano"_
 
 https://github.com/user-attachments/assets/81ee4759-0f37-4b5d-94a1-204632bcf14a
+
+## 03.1 - piano y LDR
+
+a la variación de piano le agregamos un LDR como la R1 para ver la reacción del sensor y el botón con el parlante
+
+https://github.com/user-attachments/assets/b1021b9f-e474-430e-954b-7aea467dbd21
+
+![Variación pulsadores, LDR e interruptor (1)](https://github.com/user-attachments/assets/60ba4e28-c733-40fd-92b3-24a30b753222)
+
+![Variacion pulsadores, LDR e interruptor (1)](https://github.com/user-attachments/assets/88af819e-a85e-414b-8d78-eff851963ecb)
 
 ## componentes
 
