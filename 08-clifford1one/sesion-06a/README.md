@@ -16,7 +16,7 @@
 
 <https://www.555-timer-circuits.com>
 
-![Foto de los ejemplos que más nos gustaron(las4 en una misma foto)](tme-p1-circuitos.png)
+![Foto de los ejemplos que más nos gustaron(las4 en una misma foto)](tme-p1-esquemas.png)
 
 Miramos los distintos ejemplos en esta página, y destacamos los que más nos llamaron la atención.
 
