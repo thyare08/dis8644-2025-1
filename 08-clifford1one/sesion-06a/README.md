@@ -85,7 +85,12 @@ La intensidad de la luz se mide en lúmenes(lx), se mide con un instrumento llam
 
 Para trabajar / leer se recomiendan entre 300-500lx
 
-![foto de la tabla q esta en el fimga](tme-p1-ejemplosLux.png)
+| Ejemplo de valores lux         |            |
+|--------------------------------|------------|
+| Luz solar                      | 40.00 lx   |
+| Lugar de trabajo en la oficina | 300-500 lx |
+| Sala de estar                  | 50-200 lx  |
+| Noche de luna                  | 0,3 lx     |
   
 ## Investigación 2: ¿Cómo lograr que suceda?
 
