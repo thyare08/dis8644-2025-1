@@ -205,19 +205,19 @@ Impresión 3D
 
 <555-timer-circuits.com>
 
-<https://www.digikey.com/es/resources/conversion-calculators/conversion-calculator-resistor-color-code>
+- <https://www.digikey.com/es/resources/conversion-calculators/conversion-calculator-resistor-color-code>
 
-<https://www.digikey.com/es/resources/conversion-calculators/conversion-calculator-series-and-parallel-capacitor>
+- <https://www.digikey.com/es/resources/conversion-calculators/conversion-calculator-series-and-parallel-capacitor>
 
-<https://www.tinkercad.com>
+- <https://www.tinkercad.com>
 
-<https://circuitdigest.com/calculators/capacitor-value-code-calculator>
+- <https://circuitdigest.com/calculators/capacitor-value-code-calculator>
 
-<https://www.youtube.com/watch?v=WeC7cR6n48M>
+- <https://www.youtube.com/watch?v=WeC7cR6n48M>
 
-<https://www.simonelectric.com/blog/niveles-de-iluminacion-recomendados-segun-cada-zona-y-actividad>
+- <https://www.simonelectric.com/blog/niveles-de-iluminacion-recomendados-segun-cada-zona-y-actividad>
 
-<https://bricoprofesional.com/blog/como-nos-afecta-la-iluminacion-en-nuestra-salud/#:~:text=Baño%3A%20no%20hace%20falta%20demasiada,iluminación%20general%20de%20100%20lx.>
+- <https://bricoprofesional.com/blog/como-nos-afecta-la-iluminacion-en-nuestra-salud/#:~:text=Baño%3A%20no%20hace%20falta%20demasiada,iluminación%20general%20de%20100%20lx.>
 
 Para más información y más proceso, porfavor consultar nuestro figma con acceso público:
 
