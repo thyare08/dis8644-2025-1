@@ -29,5 +29,9 @@ Circuito Inicial del APC (Atari Punk Console)
 
 # Estructura hecha con Corte Láser
 
+![proy04](proy04.jpeg)
+![proy05](proy05.jpeg)
+![proy06](proy06.jpeg)
+
 
 
