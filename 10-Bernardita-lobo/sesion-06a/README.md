@@ -1,9 +1,26 @@
 # sesion-06a
-# LDA: Light Dependant Awelita
-## Proyecto-01
-| Ejemplo de valores lux         |            |
-|--------------------------------|------------|
-| Luz solar                      | 40.00 lx   |
-| Lugar de trabajo en la oficina | 300-500 lx |
-| Sala de estar                  | 50-200 lx  |
-| Noche de luna                  | 0,3 lx     |
+## Proyecto-01 LDA: Light Dependant Awelita
+### LDA: Light Dependant Awelita
+
+## Presentaciones
+### Grupo-2
+- modificar el sonido
+- tres pulsadores
+- interruptor de dos tiempor que frena la energia
+- objeto interactivo sonoro
+- tres modificaciones
+
+### Grupo-3
+- incorponaron un motor y un ldr
+- suena muy armonico
+- metafora con la sociedad
+
+### Grupo-4
+- experimentacion basada en las clases
+- los ldr cambia la frecuencia de su bocina
+- variacion de interruptor
+- interacion de pulsador
+- pulsadores en paralelo
+
+### Grupo-5
+- 
