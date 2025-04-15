@@ -1,6 +1,6 @@
 # sesion-06a
 
-martes 15 abril 2025
+martes 15 de abril 2025
 
 ## cronograma
 

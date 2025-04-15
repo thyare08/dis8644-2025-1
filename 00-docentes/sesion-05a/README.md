@@ -1,6 +1,6 @@
 # sesion-05a
 
-este es un test msj
+martes 08 de abril 2025
 
 ### Modificando un atari punk console
 
@@ -17,7 +17,6 @@ También colocar interruptores entre las Resistencias experimentales y los pin 7
 [cómo reconozco el valor de un condensador, qué significa 103, 222, 333, etc.](https://circuitdigest.com/calculators/capacitor-value-code-calculator)
 
 [sumadora o restadora de condensadores](https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-series-and-parallel-capacitor)
-
 
 ## apuntes sobre usar git en consola
 
