@@ -24,7 +24,8 @@ Es por esto que nuestra decisión fue modificar el APC  para generar notas music
 
 
 “Cada nota musical tiene una frecuencia principal, que indica cuántas veces por segundo vibra el elemento que la produce. La frecuencia producida por un temporizador 555 en modo astable depende de los valores del condensador (C) y dos resistencias (R A  y R B )”
-Instructables. (2024, 6 marzo). Simple Electronic piano. Instructables. https://www.instructables.com/Simple-Electronic-Piano/ 
+Instructables. (2024, 6 marzo). 
+Simple Electronic piano. Instructables. https://www.instructables.com/Simple-Electronic-Piano/ 
 
 
 Esta relación es:
