@@ -15,9 +15,14 @@ Circuito Inicial del APC (Atari Punk Console)
 
 ![APC](https://upload.wikimedia.org/wikipedia/commons/f/fa/APC_with_2_555_%28pin_out%29_and_bridge_added.png)
 
-Nuestro objetivo con el uso del Atari Punk Console (APC) es mantener su funcionamiento original, donde al bloquear la luz que llega al LDR, se produce un cambio en la frecuencia del sonido emitido por la bocina. Sin embargo, buscamos llevar esta idea más allá creando una caja sonora interactiva que integre tres circuitos APC conectados entre sí y alimentados por una única batería de 9V, permitiendo que funcionen en conjunto.
+# CIRCUITO APC - CAJA SONORA INTERACTIVA - Projecto 01 
 
-Cada APC estará instalado dentro de una caja de madera, la cual tendrá tres ranuras, una por cada circuito. En estas ranuras se ubicarán barritas o patitas impresas en 3D, que funcionarán como barreras móviles entre un LED y un LDR. Estas barritas están diseñadas para levantarse al ejercer presión sobre ellas, permitiendo que el LED ilumine directamente al LDR.
+![proy12](proy12.jpeg)
+
+
+Nuestro proyecto consiste en una caja de sonido que contiene en su interior tres protoboards, todas con un diseño similar, pero diferenciadas por el color del LED que utiliza cada una. ¿Por qué LEDs de distinto color? Porque al encenderse, cada LED activa un LDR (sensor de luz), el cual responde a la intensidad lumínica y genera una señal que se traduce en sonido a través de un parlante.
+
+La interacción del usuario se da mediante una pieza impresa en 3D, ubicada en la parte superior de la caja. Esta pieza puede moverse para bloquear o permitir el paso de luz desde el LED hacia el LDR. De esta forma, se regula la cantidad de luz recibida y, en consecuencia, se modifica la frecuencia del sonido emitido, haciendo de la caja un sistema sonoro dinámico e interactivo.na por cada circuito. En estas ranuras se ubicarán barritas o patitas impresas en 3D, que funcionarán como barreras móviles entre un LED y un LDR. Estas barritas están diseñadas para levantarse al ejercer presión sobre ellas, permitiendo que el LED ilumine directamente al LDR.
 
 Como el LDR responde a los cambios de luz, su exposición directa al LED modificará la resistencia del circuito, lo cual alterará la frecuencia del sonido emitido por la bocina. De este modo, cada barrita presionada genera una variación sonora, logrando una interacción física y directa con el usuario, convirtiendo la caja en una verdadera experiencia sonora interactiva.
 
