@@ -18,10 +18,10 @@
 
 ![Foto de los ejemplos que más nos gustaron(las4 en una misma foto)](tme-p1-circuitos.png)
 
-Miramos los distintos ejemplos en esta página, y destacamos los que más nos llamaron la atensión.
+Miramos los distintos ejemplos en esta página, y destacamos los que más nos llamaron la atención.
 
 
-![Foto esquemático original del pryecto dark detector](tme-p1-esquemaDark.png)
+![Foto esquemático original del pryecto dark detector](tme-p1-esquemaDark1.png)
 
 <https://www.555-timer-circuits.com/dark-detector.html>
 
@@ -104,7 +104,7 @@ Para cada uno de los objetivos que tenemos ya tenemos un circuito conocido.
 
 Con el circuito  Dark Detector podemos hacer que el cirtuito emita una alarma cuando haya poca luz.
 
-![Foto esquemático original del proyecto dark detector](tme-p1-esquemaDark.png)
+![Foto esquemático original del proyecto dark detector](tme-p1-esquemaDark1.png)
 
 Con el circuito monoestable podemos lograr que cuando se recibe un estímulo, este quede corriendo durante un tiempo y después apagarse.
 
