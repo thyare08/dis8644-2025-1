@@ -131,11 +131,11 @@ Tras múltiples intentos no logramos
 
 Tras no lograr llevar a cabo la idea original, decidimos optar por quedarnos con la parte que teníamos funcionando.
 
-![Foto esquemático del circuito que tenemos realmente](tme-p1-esquemaLdaReal.png)
+![Foto esquemático del circuito que tenemos realmente](tme-p1-esquemaDarkDetector1.png)
 
 ![Foto del flujo real](tme-p1-flujoReal.png)
 
-![Foto esquemático del circuito que queríamos tener](tme-p1-esquemaLdaIdeal.png)
+![Foto esquemático dibujo fusión](tme-p1-esquemaFusion.jpeg)
 
 ![Foto del flujo que queriamos que fuera](tme-p1-flujoIdeal.png)
 
