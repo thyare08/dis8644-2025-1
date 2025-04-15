@@ -25,6 +25,20 @@ La interacción del usuario se da mediante una pieza impresa en 3D, ubicada en l
 
 Como el LDR responde a los cambios de luz, su exposición directa al LED modificará la resistencia del circuito, lo cual alterará la frecuencia del sonido emitido por la bocina. De este modo, cada barrita presionada genera una variación sonora, logrando una interacción física y directa con el usuario, convirtiendo la caja en una verdadera experiencia sonora interactiva.
 
+
+A continuación, se muestra una imagen de nuestro circuito APC, donde es posible observar cómo están conectados todos los componentes entre sí.
+
+![proy16](proy16.jpeg)
+
+En esta imagen se muestra el mismo circuito, esta vez encendido, con el LED azul en funcionamiento.
+
+![proy17](proy17.jpeg)
+
+
+
+
+
+
 # Puntos Clave del Proyecto:
 
 - Uso de 3 circuitos APC conectados y alimentados por 3 batería de 9V.
@@ -47,11 +61,13 @@ Como se puede observar en la imagen a continuación, las barritas (representadas
 
 Dado que el LED está muy cerca del LDR, cualquier cambio en la cantidad de luz es fácilmente detectado por el sensor. Esto permite que la bocina emita distintas frecuencias de sonido según la posición de las barritas. De esta forma, nuestro proyecto funciona como una caja sonora interactiva.
 
+En esta imagen se puede apreciar cómo las barritas impresas en 3D actúan como una barrera. Al ser presionadas, se elevan y permiten que el LED proyecte su luz directamente sobre el LDR.
 
-
-![proy15](proy15.jpeg)
+![proy18](proy18.jpeg)
 
 Utilizaremos LEDs de distintos colores —uno azul, uno blanco y uno verde— con el objetivo de observar cómo reacciona el LDR al ser expuesto a diferentes longitudes de onda de luz. Esto nos permitirá analizar si el color del LED influye en la sensibilidad del sensor y, por lo tanto, en la variación del sonido emitido por el parlante.
+
+![proy15](proy15.jpeg)
 
 # Estructura hecha con Corte Láser
 
@@ -91,18 +107,18 @@ Aca se aprecia más de cerca el funcionamiento de nuestro APC, con el LED azul e
 
 # Bills of Materials - Circuito APC x3 
 
-| Materiales               | Cantidad | Precio Aproximado | Especificaciones                                 |
+| Materiales               | Cantidad | Precio Aproximado  | Especificaciones                                 |
 |--------------------------|----------|--------------------|--------------------------------------------------|
 | NE555 o NE556            | 3        | $3.000 CLP         | Temporizador IC, DIP-8 o DIP-14 (uno por APC)    |
-| Resistencias             | 6        | $600 CLP           | 10 kΩ (2 por APC, pueden variar)                 |
+| Resistencias             | 9        | $600 CLP           | 6 de 1k y 3 de 2k                                |
 | Potenciómetros           | 6        | $4.800 CLP         | 10 kΩ o 100 kΩ lineales (2 por APC)              |
-| Condensadores            | 3        | $300 CLP           | 0.01 µF – 1 µF (1 por APC, típicamente 0.1 µF)   |
+| Condensadores            | 9        | $300 CLP           | 3 de 153 y 6 de 473                              |
 | Bocinas (speakers)       | 3        | $3.000 CLP         | 8 ohm / 0.5W                                     |
 | LDR (fotorresistencias)  | 3        | $1.500 CLP         | Una por cada sistema interactivo                 |
 | LED                      | 3        | $600 CLP           | 5mm, alto brillo                                 |
 | Protoboards (o mini-PCB) | 3        | $4.500 CLP         | Una por cada APC                                 |
 | Cables jumper            | Varios   | $500 CLP           | Macho-macho y macho-hembra según necesidad       |
-| Batería 9V               | 1        | $9.000 CLP         | Bateria Recargable                               |
+| Batería 9V               | 3        | $27.000 CLP        | Bateria Recargable una por protoboard            |
 | Clip para batería 9V     | 1        | $500 CLP           | Conector estándar                                |
 
 
