@@ -19,7 +19,6 @@ Circuito Inicial del APC (Atari Punk Console)
 
 ![proy12](proy12.jpeg)
 
-
 Nuestro proyecto consiste en una caja de sonido que contiene en su interior tres protoboards, todas con un diseño similar, pero diferenciadas por el color del LED que utiliza cada una. ¿Por qué LEDs de distinto color? Porque al encenderse, cada LED activa un LDR (sensor de luz), el cual responde a la intensidad lumínica y genera una señal que se traduce en sonido a través de un parlante.
 
 La interacción del usuario se da mediante una pieza impresa en 3D, ubicada en la parte superior de la caja. Esta pieza puede moverse para bloquear o permitir el paso de luz desde el LED hacia el LDR. De esta forma, se regula la cantidad de luz recibida y, en consecuencia, se modifica la frecuencia del sonido emitido, haciendo de la caja un sistema sonoro dinámico e interactivo.na por cada circuito. En estas ranuras se ubicarán barritas o patitas impresas en 3D, que funcionarán como barreras móviles entre un LED y un LDR. Estas barritas están diseñadas para levantarse al ejercer presión sobre ellas, permitiendo que el LED ilumine directamente al LDR.
@@ -28,27 +27,27 @@ Como el LDR responde a los cambios de luz, su exposición directa al LED modific
 
 # Puntos Clave del Proyecto:
 
-- Uso de 3 circuitos APC conectados y alimentados con una sola batería de 9V.
+- Uso de 3 circuitos APC conectados y alimentados por 3 batería de 9V.
 
 - Caja de madera diseñada con tres ranuras para insertar los mecanismos interactivos y tambien otros 3 agujeros por donde saldran las bocinas.
 
 - Barritas impresas en 3D que funcionan como barreras móviles entre LED y LDR.
 
-- Interacción física al presionar una barrita, se modifica el sonido emitido por la bocina.
+- Interacción física al levantar una barrita, se modifica el sonido emitido por la bocina.
 
 # MODELO 3D del Proyecto
 
 La idea de nuestro proyecto es crear una caja sonora interactiva, que cuente con tres barritas impresas en 3D. Al presionarlas, estas se elevan y actúan como una barrera entre un LED y un LDR. De este modo, cada vez que una barrita sube, se modifica la cantidad de luz que llega al sensor, lo que permite ajustar el sonido según la presión ejercida.
 
-![proy01](proy01.jpeg)
+![proy13](proy13.jpeg)
 
 Como se puede observar en la imagen a continuación, las barritas (representadas en rojo en el esquema) están ubicadas entre el LED y el LDR. Al levantarlas, actúan como una barrera que regula la cantidad de luz que llega al sensor. Esto provoca que el LDR reciba más o menos luz, lo que a su vez modifica el sonido emitido por las bocinas.
 
-![proy02](proy02.jpeg)
+![proy14](proy14.jpeg)
 
 Dado que el LED está muy cerca del LDR, cualquier cambio en la cantidad de luz es fácilmente detectado por el sensor. Esto permite que la bocina emita distintas frecuencias de sonido según la posición de las barritas. De esta forma, nuestro proyecto funciona como una caja sonora interactiva.
 
-![proy03](proy03.jpeg)
+![proy15](proy15.jpeg)
 
 
 # Estructura hecha con Corte Láser
