@@ -29,6 +29,9 @@ La idea de nuestro proyecto es crear una caja sonora interactiva, que cuente con
 Como se puede observar en la imagen a continuación, las barritas (representadas en rojo en el esquema) están ubicadas entre el LED y el LDR. Al levantarlas, actúan como una barrera que regula la cantidad de luz que llega al sensor. Esto provoca que el LDR reciba más o menos luz, lo que a su vez modifica el sonido emitido por las bocinas.
 
 ![proy02](proy02.jpeg)
+
+Dado que el LED está muy cerca del LDR, cualquier cambio en la cantidad de luz es fácilmente detectado por el sensor. Esto permite que la bocina emita distintas frecuencias de sonido según la posición de las barritas. De esta forma, nuestro proyecto funciona como una caja sonora interactiva.
+
 ![proy03](proy03.jpeg)
 
 
