@@ -13,5 +13,6 @@ Antes que nada, tomamos como base el circuito del 'Atari Punk Console', es decir
 
 Circuito Inicial del APC (Atari Punk Console)
 
-![APC](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/APC_with_2_555_%28pin_out%29_and_bridge_added.png/400px-APC_with_2_555_%28pin_out%29_and_bridge_added.png)
+![APC](https://upload.wikimedia.org/wikipedia/commons/f/fa/APC_with_2_555_%28pin_out%29_and_bridge_added.png)
+
 
