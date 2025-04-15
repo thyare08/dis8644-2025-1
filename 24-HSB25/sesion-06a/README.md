@@ -30,10 +30,6 @@ A continuación, se muestra una imagen de nuestro circuito APC, donde es posible
 
 ![proy16](proy16.jpeg)
 
-En esta imagen se puede apreciar cómo las barritas impresas en 3D actúan como una barrera. Al ser presionadas, se elevan y permiten que el LED proyecte su luz directamente sobre el LDR.
-
-![proy18](proy18.jpeg)
-
 En esta imagen se muestra el mismo circuito, esta vez encendido, con el LED azul en funcionamiento.
 
 ![proy17](proy17.jpeg)
@@ -65,9 +61,13 @@ Como se puede observar en la imagen a continuación, las barritas (representadas
 
 Dado que el LED está muy cerca del LDR, cualquier cambio en la cantidad de luz es fácilmente detectado por el sensor. Esto permite que la bocina emita distintas frecuencias de sonido según la posición de las barritas. De esta forma, nuestro proyecto funciona como una caja sonora interactiva.
 
-![proy15](proy15.jpeg)
+En esta imagen se puede apreciar cómo las barritas impresas en 3D actúan como una barrera. Al ser presionadas, se elevan y permiten que el LED proyecte su luz directamente sobre el LDR.
+
+![proy18](proy18.jpeg)
 
 Utilizaremos LEDs de distintos colores —uno azul, uno blanco y uno verde— con el objetivo de observar cómo reacciona el LDR al ser expuesto a diferentes longitudes de onda de luz. Esto nos permitirá analizar si el color del LED influye en la sensibilidad del sensor y, por lo tanto, en la variación del sonido emitido por el parlante.
+
+![proy15](proy15.jpeg)
 
 # Estructura hecha con Corte Láser
 
