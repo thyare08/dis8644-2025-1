@@ -2,7 +2,7 @@
 Conectar circuito a parlante sonido generar sonido
 ![20250328_103631](https://github.com/user-attachments/assets/67824e78-0fa7-4255-bae8-8d0a3a654fc3)
 ![20250328_103106](https://github.com/user-attachments/assets/eeef162e-a21f-48d8-b2a5-218cf39ba59e)
-Salida al mac
+Salida al MAC
 ![20250328_113356](https://github.com/user-attachments/assets/74a5627a-28de-4dad-a964-e2256bee0bc8)
 Imagen 1: me pareció una buena pregunta que invita a reflexionar
 ![20250328_115025](https://github.com/user-attachments/assets/2ab1ab83-f6cd-46e7-b4e9-4083ddd01291)
