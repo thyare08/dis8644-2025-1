@@ -16,3 +16,12 @@ Circuito Inicial del APC (Atari Punk Console)
 ![APC](https://upload.wikimedia.org/wikipedia/commons/f/fa/APC_with_2_555_%28pin_out%29_and_bridge_added.png)
 
 
+
+
+
+
+# Imagenes del Proyecto:
+
+![proj01](blob:https://web.whatsapp.com/1b29e1dc-c781-4788-8bbc-fde085a014c4)
+
+
