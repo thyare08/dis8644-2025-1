@@ -9,6 +9,10 @@ La interfaz se utiliza para nombrar la conexión func. entre dos sistemas o comp
 
 Bob moog + Herb deutsch + Wendy carlos = **minimoog**
 
+### Trabajo en clases:
+![image](https://github.com/user-attachments/assets/f7672a0b-d813-4af5-b7ca-83d501c2de5c)
+
+
 ## Proj 1 
 
 **Camara deportiva microlab 4k**
