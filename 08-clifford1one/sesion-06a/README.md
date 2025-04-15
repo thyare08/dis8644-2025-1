@@ -20,9 +20,9 @@
 
 Miramos los distintos ejemplos en esta página, y destacamos los que más nos llamaron la atención.
 
-![foto bitácora](tme-p1-bitacoraEsquema.png)
+![foto bitácora](tme-p1-bitacoraEsquema.jpeg)
 
-![foto del cirucuito APC](tme-p1-circuitoAtari.png)
+![foto del cirucuito APC](tme-p1-circuitoAtari.jpeg)
 
 ![Foto esquemático original del pryecto dark detector](tme-p1-esquemaDarkDetector1.png)
 
