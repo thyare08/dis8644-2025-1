@@ -25,6 +25,9 @@ Circuito Inicial del APC (Atari Punk Console)
 La idea de nuestro proyecto es crear una caja sonora interactiva, que cuente con tres barritas impresas en 3D. Al presionarlas, estas se elevan y actúan como una barrera entre un LED y un LDR. De este modo, cada vez que una barrita sube, se modifica la cantidad de luz que llega al sensor, lo que permite ajustar el sonido según la presión ejercida.
 
 ![proy01](proy01.jpeg)
+
+Como se puede observar en la imagen a continuación, las barritas (representadas en rojo en el esquema) están ubicadas entre el LED y el LDR. Al levantarlas, actúan como una barrera que regula la cantidad de luz que llega al sensor. Esto provoca que el LDR reciba más o menos luz, lo que a su vez modifica el sonido emitido por las bocinas.
+
 ![proy02](proy02.jpeg)
 ![proy03](proy03.jpeg)
 
