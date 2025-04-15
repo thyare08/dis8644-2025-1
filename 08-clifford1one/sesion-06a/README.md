@@ -2,7 +2,7 @@
 
 ## Entrega Proyecto 01: 
 
-#LDA: Light Dependent Awelita
+# LDA: Light Dependent Awelita
 
 # Premisa:
 
@@ -153,9 +153,9 @@ Hicimos un modelo 3D mediante Rhinoceros 3D
 
 ![Foto donde aparezcan varias fotos de proceso del modelado 3d](tme-p1-modelado0.png)
 
-![Foto del modelado 1](tme-p1-modelado1.png)
+![Foto del modelado 1](tme-p1-modelado01.png)
 
-![Foto del modelado 1](tme-p1-modelado2.png)
+![Foto del modelado 1](tme-p1-modelado02.png)
 
 ![Foto del render](tme-p1-render.png)
 
