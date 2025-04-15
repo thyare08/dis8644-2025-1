@@ -29,7 +29,7 @@ Miramos los distintos ejemplos en esta página, y destacamos los que más nos ll
 
 ## Definir Usuario:
 
-![Foto user persona](tme-p1-userPersona.png)
+![Foto user persona](tme-p1-user.png)
 
 USER PERSONA
 
@@ -73,7 +73,7 @@ Un objeto que cuando se oscurezca emita una alarma para alertar al usuario, y qu
 
 ## Investigación 1: Iluminación
 
-![foto de algo con luz ahaha.pdf](tme-p1-luz.png)
+![foto de algo con luz ahaha.pdf](tme-p1-fotoLuz.png)
 
 <https://pin.it/83V7VnPhr>
 
