@@ -39,9 +39,9 @@ https://github.com/user-attachments/assets/6b9b32cf-27b5-4d45-b3d7-dab10e0680be
 
 ![Variación interruptor, pulsador y caja metálica (1)](https://github.com/user-attachments/assets/2a731b85-cb8a-43ff-a9c3-63ef86621b08)
 
-## 02 - integración de botón
+## 02 - integración de pulsador
 
-integramos el botón como un "puente" entre la energía y el parlante, la diferencia entre el botón y el interruptor en este caso es que la comunicación parlante-fuente de poder es en que el estado cambia cuando se mantiene presionado el botón, una vez se presione cambia la frecuencia del parlante, usamos los leds como feedback del paso de energía en el circuito
+integramos el pulsador como un "puente" entre la energía y el parlante, la diferencia entre el pulsador y el interruptor en este caso es que la comunicación parlante-fuente de poder es en que el estado cambia cuando se mantiene presionado el pulsador, una vez se presione cambia la frecuencia del parlante, usamos los leds como feedback del paso de energía en el circuito
 
 https://github.com/user-attachments/assets/9e36eba8-5350-4d1f-8f8d-8dc676832207
 
@@ -49,15 +49,15 @@ https://github.com/user-attachments/assets/9e36eba8-5350-4d1f-8f8d-8dc676832207
 
 ![Variacion potenciometro, pulsador e interruptor (4)](https://github.com/user-attachments/assets/8808812d-61ed-449d-ae51-0612a74db720)
 
-## 03 - botones en paralelo ("piano")
+## 03 - pulsadores en paralelo ("piano")
 
-ya con el primer botón integrado, logramos crear una secuencia de botones en paralelo que provocan distintos cambios en la frecuencia del sonido del parlante, lo cual denominamos como _"piano"_
+ya con el primer pulsador integrado, logramos crear una secuencia de pulsadores en paralelo que provocan distintos cambios en la frecuencia del sonido del parlante, lo cual denominamos como _"piano"_
 
 https://github.com/user-attachments/assets/81ee4759-0f37-4b5d-94a1-204632bcf14a
 
 ## 03.1 - piano y LDR
 
-a la variación de piano le agregamos un LDR como la R1 para ver la reacción del sensor y el botón con el parlante
+a la variación de piano le agregamos un LDR como la R1 para ver la reacción del sensor y el pulsador con el parlante
 
 https://github.com/user-attachments/assets/b1021b9f-e474-430e-954b-7aea467dbd21
 
@@ -72,7 +72,7 @@ https://github.com/user-attachments/assets/b1021b9f-e474-430e-954b-7aea467dbd21
 | condensadores cerámicos   |  4  | 153x1, 474x3   |
 | condensadores electrolíticos | 1  | 100ufx1  |
 | bateria   | 1   | 9v   |
-| botones    | 3   |    |
+| pulsadores    | 3   |    |
 | interruptor    | 1   |    |
 | parlante    | 1   |    |
 | protoboard    | 2   |   |
