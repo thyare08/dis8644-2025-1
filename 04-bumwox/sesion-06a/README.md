@@ -35,9 +35,9 @@ usando la base anterior del interruptor, nos aventuramos a usar un componente ex
 
 https://github.com/user-attachments/assets/6b9b32cf-27b5-4d45-b3d7-dab10e0680be
 
-![Variación pulsador, interruptor y caja](https://github.com/user-attachments/assets/ae7817ff-45d7-4247-b003-7f83755227d3)
+![Variación pulsador, interruptor y caja (2)](https://github.com/user-attachments/assets/f4fabfc1-c263-4797-915b-7a25bd5d4147)
 
-![Variación interruptor, pulsador y caja metálica](https://github.com/user-attachments/assets/0b5f8a28-8946-4610-a0a7-f48cdbf57ce3)
+![Variación interruptor, pulsador y caja metálica (1)](https://github.com/user-attachments/assets/2a731b85-cb8a-43ff-a9c3-63ef86621b08)
 
 ## 02 - integración de botón
 
@@ -45,9 +45,10 @@ integramos el botón como un "puente" entre la energía y el parlante, la difere
 
 https://github.com/user-attachments/assets/9e36eba8-5350-4d1f-8f8d-8dc676832207
 
-![image](https://github.com/user-attachments/assets/f514babf-ab69-4763-80a5-6c2e6193bbb4)
+![Vriacion potenciometro, pulsador e interruptor (2)](https://github.com/user-attachments/assets/f85c423f-ba7f-45ab-8f46-4b055fdb25a4)
 
-![image](https://github.com/user-attachments/assets/70343a13-2945-4440-8f2c-47be0a60ac18)
+![Variacion potenciometro, pulsador e interruptor (4)](https://github.com/user-attachments/assets/8808812d-61ed-449d-ae51-0612a74db720)
+
 
 ## 03 - botones en paralelo ("piano")
 
@@ -55,15 +56,15 @@ ya con el primer botón integrado, logramos crear una secuencia de botones en pa
 
 https://github.com/user-attachments/assets/81ee4759-0f37-4b5d-94a1-204632bcf14a
 
-![Variación pulsador, interruptor y caja (2)](https://github.com/user-attachments/assets/b3d05058-405f-48dd-8104-278f74d57d14)
-
-![Variacion potenciometro, pulsador e interruptor (2)](https://github.com/user-attachments/assets/7f50f8c9-d82f-4298-afb4-6b2c9c01c2e8)
-
 ## 03.1 - piano y LDR
 
 a la variación de piano le agregamos un LDR como la R1 para ver la reacción del sensor y el botón con el parlante
 
 https://github.com/user-attachments/assets/b1021b9f-e474-430e-954b-7aea467dbd21
+
+![Variación pulsadores, LDR e interruptor (1)](https://github.com/user-attachments/assets/60ba4e28-c733-40fd-92b3-24a30b753222)
+
+![Variacion pulsadores, LDR e interruptor (1)](https://github.com/user-attachments/assets/88af819e-a85e-414b-8d78-eff851963ecb)
 
 ## componentes
 
