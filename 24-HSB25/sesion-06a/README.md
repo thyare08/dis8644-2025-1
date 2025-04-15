@@ -39,9 +39,11 @@ Circuito Inicial del APC (Atari Punk Console)
 
 La idea principal de nuestra caja es que sea interactiva, por lo que cuenta con tres agujeros por donde saldrán las bocinas que emiten el sonido. Por esta razón, el corte láser fue diseñado de esta forma, permitiendo que el sonido se proyecte adecuadamente hacia el exterior.
 
+
 ![proy08](proy08.jpeg)
 
 Aquí se puede apreciar cómo la bocina queda posicionada en el agujero, permitiendo que el sonido se proyecte hacia el exterior.
+
 
 ![proy09](proy09.jpeg)
 
