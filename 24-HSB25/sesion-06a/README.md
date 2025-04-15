@@ -47,7 +47,18 @@ Aquí se puede apreciar cómo la bocina queda posicionada en el agujero, permiti
 
 ![proy09](proy09.jpeg)
 
-Aquí se muestra una vista superior del interior de nuestra caja, la cual contiene un circuito APC. La idea final es incorporar tres protoboards para implementar el sistema de bocinas en los 3 agujeros.
+Se muestra una vista superior del interior de nuestra caja, la cual contiene un circuito APC. La idea final es incorporar tres protoboards para implementar el sistema de bocinas en los 3 agujeros.
+
+![proy10](proy10.jpeg)
+
+Nuestra caja incorpora bisagras que permiten abrirla fácilmente, lo cual facilita el acceso al interior para insertar la batería de 9V necesaria para el funcionamiento del proyecto.
+
+![proy11](proy11.jpeg)
+
+Aca se aprecia más de cerca el funcionamiento de nuestro APC, con el LED azul encendido como parte de una prueba para verificar que todo funcionara correctamente.
+
+
+
 
 
 
