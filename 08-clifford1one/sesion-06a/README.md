@@ -100,12 +100,20 @@ Con el circuito  Dark Detector podemos hacer que el cirtuito emita una alarma cu
 
 Con el circuito monoestable podemos lograr que cuando se recibe un estímulo, este quede corriendo durante un tiempo y después apagarse.
 
-![Foto esquemático original del proyecto dark detector](tme-p1-esquemaMonoestable.png)
+![Foto esquemático original del circuito monoestable](tme-p1-esquemaMonoestable.png)
 
 La idea es "fusionar" ambos circuitos para lograr que la parte del Dark Detector(A) "controle" a la parte monoestble (B)
 
-![Foto esquemático original del proyecto dark detector](tme-p1-esquemaFusion.png)
+![Foto esquemático dibujo parte A](tme-p1-esquemaFusionA.png)
+
+![Foto esquemático dibujo parte B](tme-p1-esquemaFusionB.png)
+
+![Foto esquemático dibujo fusión](tme-p1-esquemaFusion.png)
 
 ## Redefinición
 
+Tras múltiples intentos no logramos
 
+![Foto esquemático intento fallido tinker](tme-p1-tinkerTry1.png)
+
+![Foto esquemático otro intento fallido tinker](tme-p1-tinkerTry2.png)
