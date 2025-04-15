@@ -143,7 +143,7 @@ Tras no lograr llevar a cabo la idea original, decidimos optar por quedarnos con
 
 ## Cables:
 
-![Foto avances](tme-p1-bitacoraBoceto.jpg)
+![Foto avances](tme-p1-bitacoraBoceto.jpeg)
 
 En esta etapa tomamos medidas de los componentes, y los tuvimos en cuenta para el diseño de la carcasa
 
