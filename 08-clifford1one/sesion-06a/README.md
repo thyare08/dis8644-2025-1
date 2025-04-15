@@ -73,7 +73,7 @@ Un objeto que cuando se oscurezca emita una alarma para alertar al usuario, y qu
 
 ## Investigación 1: Iluminación
 
-![foto de algo con luz ahaha.pdf](tme-p1-fotoLuz.png)
+![foto de algo con luz ahaha](tme-p1-fotoLuz.jpeg)
 
 <https://pin.it/83V7VnPhr>
 
