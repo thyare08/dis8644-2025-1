@@ -29,6 +29,8 @@ Como el LDR responde a los cambios de luz, su exposición directa al LED modific
 
 - Barritas impresas en 3D que funcionan como barreras móviles entre LED y LDR.
 
+- Interacción física al presionar una barrita, se modifica el sonido emitido por la bocina.
+
 # MODELO 3D del Proyecto
 
 La idea de nuestro proyecto es crear una caja sonora interactiva, que cuente con tres barritas impresas en 3D. Al presionarlas, estas se elevan y actúan como una barrera entre un LED y un LDR. De este modo, cada vez que una barrita sube, se modifica la cantidad de luz que llega al sensor, lo que permite ajustar el sonido según la presión ejercida.
