@@ -1,6 +1,6 @@
 # sesion-05b
 
-# ApunteS CLases
+# Apuntes CLases
 
 # Engineer’s Mini-Notebooks de Forrest M. Mims III
 
