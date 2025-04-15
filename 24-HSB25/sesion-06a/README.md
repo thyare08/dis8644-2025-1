@@ -95,7 +95,7 @@ Aca se aprecia más de cerca el funcionamiento de nuestro APC, con el LED azul e
 | LED                      | 3        | $600 CLP           | 5mm, alto brillo                                 |
 | Protoboards (o mini-PCB) | 3        | $4.500 CLP         | Una por cada APC                                 |
 | Cables jumper            | Varios   | $500 CLP           | Macho-macho y macho-hembra según necesidad       |
-| Batería 9V               | 1        | $1.500 CLP         | Bateria Recargable                               |
+| Batería 9V               | 1        | $9.000 CLP         | Bateria Recargable                               |
 | Clip para batería 9V     | 1        | $500 CLP           | Conector estándar                                |
 
 
