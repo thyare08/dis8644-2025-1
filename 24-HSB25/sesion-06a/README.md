@@ -1,6 +1,6 @@
 # sesion-06a
 
-# PROJECTO 01 - Grupo 09 
+# PROYECTO 01 - Grupo 09 
 
 **Integrantes:**
 - Bastián Solís Cavieres
