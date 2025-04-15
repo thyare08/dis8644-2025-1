@@ -74,9 +74,11 @@
 > * ${\color{white}Monostable}$: We can make it output 0 or 1, but it will return to it's set default state (auto-reset) <br/>
 > * ${\color{white}Astable}$: It will oscillate between 0 and 1 <br/>
 >
-> ### Pinout and datasheet <br/>
+> ### Pinout and datasheet
 >
-> <img align="left" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-03a/555Pinout.jpg" width=440> [NE555 datasheet](https://github.com/disenoUDP/dis8644-2025-1/blob/main/00-docentes/sesion-03a/archivos/lm555-datasheet.pdf): Una *datasheet* es como un manual, en ella está (o debería estar) toda la información relevante  en cuanto al uso y operaciones de un componente o módulo electrónico, como lo son: <br/>
+> <img align="left" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-03a/555Pinout.jpg" width=440>
+
+[NE555 datasheet](https://github.com/disenoUDP/dis8644-2025-1/blob/main/00-docentes/sesion-03a/archivos/lm555-datasheet.pdf): Una *datasheet* es como un manual, en ella está (o debería estar) toda la información relevante  en cuanto al uso y operaciones de un componente o módulo electrónico, como lo son: <br/>
 >
 > * Operational Voltaje range
 > * Current rating
@@ -104,13 +106,21 @@
 >
 -----------------------------------------------------------------------------------------------------------
 
-## Encargo 06
+## encargo-06
 
 ### Einstürzende Neubauten
->
-> Escuché el album ${\color{lightGray}"Five \space on \space the \space open-Ended \space Richter \space Scale"}$ , me sorprendió lo caoticos que eran los sonidos de las canciones, a diferencia del 90% de la música que tienen partes definidas que suelen repetirse o mantrenerse constantes. <br/> Al escucharlos me daba una sensación... como si no tuviesen una estructura, como si estuviesen jugando con los sonidos, haciendo ruido para ver como suena, sin un orden o ritmo definido. <br/> También están los sonidos que se escuchan a demás de algún que otro instrumento tradicional. Sonidos metálicos, motores, algo que sonaba como un pistón hidraulico... me da la sensación como si estuviesen en un taller mecanico o en una obra en construcción haciendo sonidos golpeando cosas con una llave inglesa o tirando un barril bajo las escaleras.
->
-> Tras investigar un poco y ver algunas entrevistas a Blixa, puedo decir que no me esperaba que de verdad tocasen golpeando, raspando, doblando y haciendo quien sabe qué con basura o chatarra que sacaron de un deshuesadero, a pesar que al inicio ello era por necesidad, al no poder costear instumentos.<br/> Aunque supongo que tras ver la filosofia creativa de Blixa tiene sentido, ya que la imprevisibilidad de la vida les dio esos instrumentos, que según menciona Blixa, no podían llevar con sigo en sus giras, por lo que se veian forzados a ir a basurales en busca de nuevos instrumentos para cada performance.<br/> Lo cual también explica el aparente caos y falta de orden en sus canciones, al preferir los patrones aleatorios y/o accidentales que se producen al no tener tanto control del proceso creativo.
+
+Escuché el album ${\color{lightGray}"Five \space on \space the \space open-Ended \space Richter \space Scale"}$ , me sorprendió lo caoticos que eran los sonidos de las canciones, a diferencia del 90% de la música que tienen partes definidas que suelen repetirse o mantrenerse constantes.
+
+ Al escucharlos me daba una sensación... como si no tuviesen una estructura, como si estuviesen jugando con los sonidos, haciendo ruido para ver como suena, sin un orden o ritmo definido.
+
+También están los sonidos que se escuchan además de algún que otro instrumento tradicional. Sonidos metálicos, motores, algo que sonaba como un pistón hidraulico... me da la sensación como si estuviesen en un taller mecanico o en una obra en construcción haciendo sonidos golpeando cosas con una llave inglesa o tirando un barril bajo las escaleras.
+
+Tras investigar un poco y ver algunas entrevistas a Blixa, puedo decir que no me esperaba que de verdad tocasen golpeando, raspando, doblando y haciendo quien sabe qué con basura o chatarra que sacaron de un deshuesadero, a pesar que al inicio ello era por necesidad, al no poder costear instumentos.
+
+Aunque supongo que tras ver la filosofia creativa de Blixa tiene sentido, ya que la imprevisibilidad de la vida les dio esos instrumentos, que según menciona Blixa, no podían llevar con sigo en sus giras, por lo que se veian forzados a ir a basurales en busca de nuevos instrumentos para cada performance.
+
+ Lo cual también explica el aparente caos y falta de orden en sus canciones, al preferir los patrones aleatorios y/o accidentales que se producen al no tener tanto control del proceso creativo.
 >
 -----------------------------------------------------------------------------------------------------------
 
@@ -143,7 +153,7 @@
 > <img align="left" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-03a/Test2.png" width=600> En este segundo intento, intentando hacer que al presionar y soltar un botón, un pin pase de estar conectado a ${\color{white}tierra \space (GND)}$ a ${\color{red}Vcc}$ y viendo lo **errático** que era el circuito al tener el pin2 **flotando** (tras haber conectado el pin4 a tierra y haberlo desconectado), me llevó a descubrir el concepto de ***"pull down"*** y ***"pull up resistors"***, lo cual puede que me equivoque, pero parece que hacen justo lo que intentaba hacer.
 > <br/>
 > <br/>
-> <br/> *Also, all of the 555 imputs exept pin5 don´t have internal pull ups (aka, don´t leave them floating)*
+> <br/> *Also, all of the 555 imputs except pin5 doesn't have internal pull ups (aka, don´t leave them floating)*
 > <br/>
 > <br/>
 > <br/>
@@ -174,7 +184,7 @@
 > <img align="right" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-03a/Test3a.png" width=600> Al presionar el botón, Pin2 es conectado a ${\color{white}GND}$, **Comp2** = ${\color{white}1}$. <br/>
 > ${\color{white}R \space == \space 0}$ y ${\color{white}S \space == \space 1}$ = LED encendida, Pin7 desconectado de ${\color{white}GND}$ y ${\color{#6462fe}capacitor}$ se carga y Pin6 recive ${\color{red}Voltaje}$. <br/>
 > <br/>
-> Al soltar el botón, Pin2 es recive a ${\color{red}Voltaje}$ y **Comp2** = ${\color{white}0}$. <br/>
+> Al soltar el botón, Pin2 es receive a ${\color{red}Voltaje}$ y **Comp2** = ${\color{white}0}$. <br/>
 > ${\color{white}R \space == \space 1}$ y ${\color{white}S \space == \space 0}$ = ${\color{#6462fe}capacitor}$ se descarga, LED apagado (circuito regresa al estado predeterminado).
 > <br/>
 > <br/>
