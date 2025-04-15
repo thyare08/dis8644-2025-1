@@ -158,6 +158,23 @@ Tras no lograr llevar a cabo la idea original, decidimos optar por quedarnos con
 
 En esta etapa tomamos medidas de los componentes, y los tuvimos en cuenta para el diseño de la carcasa
 
+Bill of Materials
+
+| Componente              | Valor | Unidades |
+|-------------------------|-------|----------|
+| Resistencia             | 10k   | 1        |
+| Resistencia             | 22k   | 1        |
+| Resistencia             | 100k  | 1        |
+| Resistencia             | 1M    | 1        |
+| Capacitor Cerámico      | 10nF  | 1        |
+| Capacitor Cerámico      | 100nF | 1        |
+| Capacitor Electrolítico | 10uF  | 1        |
+| LDR                     |       | 1        |
+| Bocina                  |       | 1        |
+| 555                     |       | 1        |
+| protoboard              |       | 1        |
+| Cables Dupont           |       | 1        |
+
 ## Carcasa: 
 
 Hicimos un modelo 3D mediante Rhinoceros 3D
