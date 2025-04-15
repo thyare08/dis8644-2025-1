@@ -55,47 +55,40 @@ La carcasa contiene el circuito soldado a la placa perfboard con todos los compo
 
 ### DIAGRAMA
 
-A continuación se presenta el esquemático realizado para la construción del circuito e ilustraciones del planteamiento de cómo sería esta esquematización 
+A continuación se presenta el esquemático realizado para la construción del circuito e ilustraciones del planteamiento de cómo sería esta esquematización.
 
-![proceso esquematico]
-(https://github.com/user-attachments/assets/efa2b254-972b-4659-a288-a0179d86cc8a)
+![proceso esquematico](https://github.com/user-attachments/assets/efa2b254-972b-4659-a288-a0179d86cc8a)
 
-![proceso esquemático 2]
-(https://github.com/user-attachments/assets/0f6e6ea2-a143-4246-bc55-a771e96a44b0)
+![proceso esquemático 2](https://github.com/user-attachments/assets/0f6e6ea2-a143-4246-bc55-a771e96a44b0)
 
-### BITÁCORAS Y PROCESOS
+![esquema PCB v01](https://github.com/user-attachments/assets/7bd40cd4-ea5f-4d39-ab66-42cd65187ce7)
+
+![atariPunk_tinkercad](https://github.com/user-attachments/assets/b9c7a5fb-ebcf-4578-bf73-661e21ace227)
+
+
+### BITÁCORAS
 
 ![bitácora sofe]
 
-(https://github.com/user-attachments/assets/308d73b3-f04f-4ee4-b46c-71aef1f205b1)
+![bitácora( 1)](https://github.com/user-attachments/assets/308d73b3-f04f-4ee4-b46c-71aef1f205b1)
 
-(https://github.com/user-attachments/assets/a54c759f-bac9-443e-8253-7e9f78df3693)
+![bitácora (2)](https://github.com/user-attachments/assets/a54c759f-bac9-443e-8253-7e9f78df3693)
 
-(https://github.com/user-attachments/assets/b6a5a372-3fe6-46d3-9e5a-aba47dcb8586)
+![bitácora (3)](https://github.com/user-attachments/assets/b6a5a372-3fe6-46d3-9e5a-aba47dcb8586)
 
-(https://github.com/user-attachments/assets/5beb6233-d07a-400c-8922-deabe9f41276)
+![bitácora (4)](https://github.com/user-attachments/assets/5beb6233-d07a-400c-8922-deabe9f41276)
 
 ![bitácora anto]
 
-![proceso esquematico]
+![proceso esquematico](https://github.com/user-attachments/assets/9ec37cbc-8700-440d-84ee-4a30ac33551b)
 
-(https://github.com/user-attachments/assets/9ec37cbc-8700-440d-84ee-4a30ac33551b)
+![ilustraciones+pauta](https://github.com/user-attachments/assets/d9cf7cdb-72ed-40ac-83de-da013afd2faf)
 
-![ilustraciones+pauta]
+![experimentaciones](https://github.com/user-attachments/assets/a57aadb4-f099-4764-8776-6155a9fbd3c1)
 
-(https://github.com/user-attachments/assets/d9cf7cdb-72ed-40ac-83de-da013afd2faf)
+![esquemático+resistencias](https://github.com/user-attachments/assets/8d21b44e-217e-4f1e-8ace-e8740c008f11)
 
-![experimentaciones]
-
-(https://github.com/user-attachments/assets/a57aadb4-f099-4764-8776-6155a9fbd3c1)
-
-![esquemático+resistencias]
-
-(https://github.com/user-attachments/assets/8d21b44e-217e-4f1e-8ace-e8740c008f11)
-
-![diagrama_de_flujo]
-
-(https://github.com/user-attachments/assets/0a261737-c85c-4d27-971f-a1185fb84180)
+![diagrama_de_flujo](https://github.com/user-attachments/assets/0a261737-c85c-4d27-971f-a1185fb84180)
 
 ![bitácora izhak]
 
@@ -115,6 +108,26 @@ A continuación se presenta el esquemático realizado para la construción del c
 
 ![bitacoraa(8)](https://github.com/user-attachments/assets/eca564ee-980d-4eb8-9bf2-099fae8443c9)
 
+![bitácora y proceso félix]
+
+![pcb-b 01](https://github.com/user-attachments/assets/9e0722f8-1cba-4608-b3e8-b46a80050a03)
+
+![pcb-b 02](https://github.com/user-attachments/assets/08aa160f-f32e-4c70-8910-ef2a5756bd00)
+
+![pcb-b 03](https://github.com/user-attachments/assets/3692d526-e061-493c-bda7-4fcf1c285bd3)
+
+![pcb-b 04](https://github.com/user-attachments/assets/2d4d658b-507f-4b8d-8191-4c719357a0cf)
+
+![pcb-f 01](https://github.com/user-attachments/assets/a9feff96-f1c3-4061-96da-79095294b415)
+
+![pcb-f 03](https://github.com/user-attachments/assets/0c6f8559-4a3a-4312-9c8b-f48caa01b51e)
+
+![pcb-f 04](https://github.com/user-attachments/assets/be324029-0bbd-4957-a359-221dfb8833fd)
+
+### PROCESOS
+
+![collage](https://github.com/user-attachments/assets/fdcaa42d-2d9e-4889-bf8a-62206cc4c7d6)
+
 ![videos de muestra del proceso en proto]
 
 https://github.com/user-attachments/assets/790efdef-d78c-4d19-b25d-af472468af7d
@@ -124,8 +137,7 @@ https://github.com/user-attachments/assets/fc261a51-aa6d-4029-83d4-fa57e76a6de4
 
 ### ESQUEMÁTICO ELÉCTRICO, BILL OF MATERIALS, CITAS Y REFERENCIAS
 
-![esquemático final]
-(https://github.com/user-attachments/assets/2b33f657-323f-4d00-a9f6-1db51bee0faa)
+![esquemático final](https://github.com/user-attachments/assets/2b33f657-323f-4d00-a9f6-1db51bee0faa)
 
 ### BILL OF MATERIALS (B.O.M)
 
@@ -150,7 +162,7 @@ para nuestro proceso nos referenciamos en el piano electrónico creado por Joshu
 
 https://www.instructables.com/Simple-Electronic-Piano/ 
 
-### CONCLUSION 
+### CONCLUSIÓN 
 
 Finalmente a la hora de probar por primera vez nuestro circuito nos dimos cuenta que no funciona
 ¿qué errores hay?, ¿son solucionables?, ¿se puede llegar al resultado deseado?
