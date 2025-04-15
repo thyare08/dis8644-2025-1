@@ -82,7 +82,7 @@ Aca se aprecia más de cerca el funcionamiento de nuestro APC, con el LED azul e
 | Corte placa MDF 5.5mm 30x30 cm | 1     | $3.303   | Placa MDF de 5.5 mm cortada a láser, 30x30 cm |
 | Bisagra Lin 38 2½"           | 2        | $1.990   | Bisagras metálicas pequeñas para caja    |
 
-#Bills of Materials - Circuito APC x3 
+# Bills of Materials - Circuito APC x3 
 
 | Materiales               | Cantidad | Precio Aproximado | Especificaciones                                 |
 |--------------------------|----------|--------------------|--------------------------------------------------|
