@@ -2,6 +2,9 @@
 ##### _Martes 15/04/2024_ 
 Grupo 08 - Isabella Gutierrez, Camila Parada
 
+<!---Recordar para programar "md" (markdown): 
+- Estoy frustrada, no se porque otra vez fui yo la que arrancó con el proyecto, ojalá se pudiera trabajar sola porque sino no sentiría que tengo que rehacer las cosas. Pregunto, armo circuitos, dibujo diagramas, hago las tablas, investigo, subo las fotos del proceso y del contenido. Siento que etsoy regalando la nota a gente que no se esfuerza por aprender. Soy paciente, pero ya no tengo energías, me duele el estómago y me siento mareada. --->
+
 ***
 
 ### Introducción
