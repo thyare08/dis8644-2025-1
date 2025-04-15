@@ -55,7 +55,7 @@ Se muestra una vista superior del interior de nuestra caja, la cual contiene un 
 
 ![proy09](proy09.jpeg)
 
-Nuestra caja incorpora bisagras que permiten abrirla fácilmente, lo cual facilita el acceso al interior para insertar la batería de 9V necesaria para el funcionamiento del proyecto.
+Nuestra caja incorpora bisagras que permiten abrirla fácilmente, lo cual facilita el acceso al interior para insertar la batería de 9V necesaria para el funcionamiento del proyecto. 
 
 ![proy10](proy10.jpeg)
 
