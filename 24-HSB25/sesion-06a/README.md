@@ -58,6 +58,15 @@ Nuestra caja incorpora bisagras que permiten abrirla fácilmente, lo cual facili
 Aca se aprecia más de cerca el funcionamiento de nuestro APC, con el LED azul encendido como parte de una prueba para verificar que todo funcionara correctamente.
 
 
+# Bills of Materials - CAJA MADERA
+
+| Materiales                   | Cantidad | Precio   | Especificaciones                         |
+|-----------------------------|----------|----------|------------------------------------------|
+| MB Pack Sujeta Cuadros      | 1        | $11.490  | Kit para montaje y sujeción de estructuras |
+| Corte placa MDF 5.5mm 30x30 cm | 1     | $3.303   | Placa MDF de 5.5 mm cortada a láser, 30x30 cm |
+| Bisagra Lin 38 2½"           | 2        | $1.990   | Bisagras metálicas pequeñas para caja    |
+
+
 
 
 
