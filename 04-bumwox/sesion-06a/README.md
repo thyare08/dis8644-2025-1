@@ -1,4 +1,4 @@
-# sesion-06a
+8# sesion-06a
 
 ## proyecto 01 - grupo 04
 
@@ -69,7 +69,8 @@ https://github.com/user-attachments/assets/b1021b9f-e474-430e-954b-7aea467dbd21
 
 | componentes |  cantidad (utilizados) | especificaciones |
 |----------|----------|----------|
-| condensadores    |  5  | 153x1, 474x3, 100ufx1   |
+| condensadores cerámicos   |  4  | 153x1, 474x3   |
+| condensadores electrolíticos | 1  | 100ufx1  |
 | bateria   | 1   | 9v   |
 | botones    | 3   |    |
 | interruptor    | 1   |    |
