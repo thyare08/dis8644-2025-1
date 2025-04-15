@@ -49,7 +49,6 @@ https://github.com/user-attachments/assets/9e36eba8-5350-4d1f-8f8d-8dc676832207
 
 ![Variacion potenciometro, pulsador e interruptor (4)](https://github.com/user-attachments/assets/8808812d-61ed-449d-ae51-0612a74db720)
 
-
 ## 03 - botones en paralelo ("piano")
 
 ya con el primer botón integrado, logramos crear una secuencia de botones en paralelo que provocan distintos cambios en la frecuencia del sonido del parlante, lo cual denominamos como _"piano"_
@@ -66,7 +65,7 @@ https://github.com/user-attachments/assets/b1021b9f-e474-430e-954b-7aea467dbd21
 
 ![Variacion pulsadores, LDR e interruptor (1)](https://github.com/user-attachments/assets/88af819e-a85e-414b-8d78-eff851963ecb)
 
-## componentes
+## bill of materials
 
 | componentes |  cantidad (utilizados) | especificaciones |
 |----------|----------|----------|
@@ -77,5 +76,5 @@ https://github.com/user-attachments/assets/b1021b9f-e474-430e-954b-7aea467dbd21
 | parlante    | 1   |    |
 | protoboard    | 2   |   |
 | chip 555   | 2   |    |
-| resistencias    | 7   | 1kx3, 10kx2, 100kx1, 470kx1   |
+| resistencias    | 8   | 1kx3, 10kx3, 100kx1, 470kx1   |
 | caimanes   | 4   |    |
