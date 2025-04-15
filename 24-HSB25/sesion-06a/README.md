@@ -93,9 +93,9 @@ Aca se aprecia más de cerca el funcionamiento de nuestro APC, con el LED azul e
 | Bocinas (speakers)       | 3        | $3.000 CLP         | 8 ohm / 0.5W                                     |
 | LDR (fotorresistencias)  | 3        | $1.500 CLP         | Una por cada sistema interactivo                 |
 | LED                      | 3        | $600 CLP           | 5mm, alto brillo                                 |
-| Protoboards (o mini-PCB) | 3        | $4.500 CLP         | Una por cada APC                                |
+| Protoboards (o mini-PCB) | 3        | $4.500 CLP         | Una por cada APC                                 |
 | Cables jumper            | Varios   | $500 CLP           | Macho-macho y macho-hembra según necesidad       |
-| Batería 9V               | 1        | $1.500 CLP         | Alcalina                                         |
+| Batería 9V               | 1        | $1.500 CLP         | Bateria Recargable                               |
 | Clip para batería 9V     | 1        | $500 CLP           | Conector estándar                                |
 
 
