@@ -1,8 +1,8 @@
 # sesion-06a
 ## proyecto-01
-### DLA
-- grupo 07
-- Santiago Gaete y Bernardita lobo
+### LDA: Light Dependant Awelita
+- Grupo 07
+- Santiago Gaete y Bernardita Lobo
 
-### propuestras de modificaciones
+### Propuestras de modificaciones
 ### 
