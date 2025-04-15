@@ -23,5 +23,7 @@ Circuito Inicial del APC (Atari Punk Console)
 # Imagenes del Proyecto:
 
 ![proy01](proy01.jpeg)
+![proy02](proy02.jpeg)
+![proy03](proy03.jpeg)
 
 
