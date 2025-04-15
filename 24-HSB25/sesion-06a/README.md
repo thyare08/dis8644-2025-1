@@ -82,6 +82,21 @@ Aca se aprecia más de cerca el funcionamiento de nuestro APC, con el LED azul e
 | Corte placa MDF 5.5mm 30x30 cm | 1     | $3.303   | Placa MDF de 5.5 mm cortada a láser, 30x30 cm |
 | Bisagra Lin 38 2½"           | 2        | $1.990   | Bisagras metálicas pequeñas para caja    |
 
+#Bills of Materials - Circuito APC x3 
+
+| Materiales               | Cantidad | Precio Aproximado | Especificaciones                                 |
+|--------------------------|----------|--------------------|--------------------------------------------------|
+| NE555 o NE556            | 3        | $3.000 CLP         | Temporizador IC, DIP-8 o DIP-14 (uno por APC)    |
+| Resistencias             | 6        | $600 CLP           | 10 kΩ (2 por APC, pueden variar)                 |
+| Potenciómetros           | 6        | $4.800 CLP         | 10 kΩ o 100 kΩ lineales (2 por APC)              |
+| Condensadores            | 3        | $300 CLP           | 0.01 µF – 1 µF (1 por APC, típicamente 0.1 µF)   |
+| Bocinas (speakers)       | 3        | $3.000 CLP         | 8 ohm / 0.5W                                     |
+| LDR (fotorresistencias)  | 3        | $1.500 CLP         | Una por cada sistema interactivo                 |
+| LED                      | 3        | $600 CLP           | 5mm, alto brillo                                 |
+| Protoboards (o mini-PCB) | 3        | $4.500 CLP         | Una por cada APC                                |
+| Cables jumper            | Varios   | $500 CLP           | Macho-macho y macho-hembra según necesidad       |
+| Batería 9V               | 1        | $1.500 CLP         | Alcalina                                         |
+| Clip para batería 9V     | 1        | $500 CLP           | Conector estándar                                |
 
 
 
