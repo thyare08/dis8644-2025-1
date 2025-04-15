@@ -55,8 +55,57 @@ Identificamos una problemática en aquella situación cuando una persona, en est
 
 Esto ocurre porque la disminución de la luz es paulatina, y sucede a una velocidad que permite que nuestro ojo se vaya acostumbrando a ella automáticamente. Por eso a veces pareciera que oscureció de golpe en la noche 
 
-![Figura 1.13 del la tesis subida a la carpeta como pdf](tme-p1-tesisF1.13.png)
+![Figura 1.13 del archivo retinaAdaptTesis.pdf](tme-p1-tesisF1.13.png)
 
 <https://uvadoc.uva.es/handle/10324/22376>
 
-Si bien, no hay estudios que comprueben que hacer atividades a oscuras dañe la vista, hacer actividades a oscuras requiere un mayor esfuerzo, por lo tanto te cnsa más y dificulta hacerlo por períodos prolongados.
+Si bien, no hay estudios que comprueben que hacer atividades a oscuras dañe la vista, hacer actividades a oscuras requiere un mayor esfuerzo, por lo tanto te cansa más y dificulta hacerlo por períodos prolongados.
+
+Definición Función: 
+
+![Figura 1.13 del archivo retinaAdaptTesis.pdf](tme-p1-alarmaNoche.png)
+Imagen generada por Ia mediante chatGPT
+
+Un objeto que cuando se oscurezca emita una alarma para alertar al usuario, y que este recuerde encender una luz para que no suene. Esta alarma sonará durante 300s y después el istema se suspenderá hasta que vuelva a detectar luz.
+
+# Diseño: 
+
+## Investigación 1: Iluminación
+
+![foto de algo con luz ahaha.pdf](tme-p1-luz.png)
+
+La luz es un fenónemo que scede como efecto secundario de la radiación electromagnética. Esta es percibida por el ojo humano dentro de un espectro visible con longitudes de onda entre 380 y 750mm.
+
+<https://es.wikipedia.org/wiki/Luz>
+
+La intensidad de la luz se mide en lúmenes(lx), se mide con un instrumento llamado luxómetro.
+
+Para trabajar / leer se recomiendan entre 300-500lx
+
+![foto de la tabla q esta en el fimga](tme-p1-ejemplosLux.png)
+  
+## Investigación 2: ¿Cómo lograr que suceda?
+
+Podemos seprar en 2 nuestros objetivos del funcionamiento electrónico del objeto:
+
+- Emitir sonido cuando sense
+
+- Que el sonido no sea permanente
+
+Para cada uno de los objetivos que tenemos ya tenemos un circuito conocido.
+
+Con el circuito  Dark Detector podemos hacer que el cirtuito emita una alarma cuando haya poca luz.
+
+![Foto esquemático original del proyecto dark detector](tme-p1-esquemaDark.png)
+
+Con el circuito monoestable podemos lograr que cuando se recibe un estímulo, este quede corriendo durante un tiempo y después apagarse.
+
+![Foto esquemático original del proyecto dark detector](tme-p1-esquemaMonoestable.png)
+
+La idea es "fusionar" ambos circuitos para lograr que la parte del Dark Detector(A) "controle" a la parte monoestble (B)
+
+![Foto esquemático original del proyecto dark detector](tme-p1-esquemaFusion.png)
+
+## Redefinición
+
+
