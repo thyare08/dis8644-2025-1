@@ -21,13 +21,13 @@ Cambiar el condensador nos puede servir para cambiar la octava (agudez) del soni
 
 ## Encargo08: cultura musical nacional
 
-Gonzalo martinez y sus congas pensantes es un disco de 1997, de electrocumbia, desarrollado por el dúo Gonzalo Martines, compuesto por Jorge Gonzalez y Dandy Jack (Martín Schopf).
+Gonzalo martínez y sus congas pensantes es un disco de 1997, de electrocumbia, desarrollado por el dúo Gonzalo Martínez, compuesto por Jorge González y Dandy Jack (Martín Schopf).
 
 Este dúo se conoció en una de las primeras raves realizadas en nuestro país, el rave del eclipse, realizado en el 94, este rave fue el inicio del reconocimiento del país en cuanto al desarrollo de la música electrónica.
 
 ![Captura de pantalla 2025-03-31 225033](https://github.com/user-attachments/assets/72ba45de-8677-4b6f-99cd-471bb56279c0)
 
-Jorge Gonzales declara  "Mi amigo Martín (Schopf) tuvo la visión de que la única manera de que la música tecno entrara a Sudamérica era que Sudamérica entrará en ella" en este disco se recopilan clásicos de las cumbias más escuchadas en chile durante la época, enfatizando en la importancia que estas tienen en la idiosincrasia de nuestro país.
+Jorge González declara  "Mi amigo Martín (Schopf) tuvo la visión de que la única manera de que la música tecno entrara a Sudamérica era que Sudamérica entrará en ella" en este disco se recopilan clásicos de las cumbias más escuchadas en chile durante la época, enfatizando en la importancia que estas tienen en la idiosincrasia de nuestro país.
 
 Jorge reflexiona respecto a algunos elementos de la cumbia, como los platillos también presentes en el house que escuchaba en nueva york, sosteniendo que esta similitud se debe a que ambos géneros son producto de la cultura afro, siendo esta una de sus inspiraciones para crear el disco
 
@@ -43,9 +43,9 @@ Fuentes:
 - <https://www.musicapopular.cl/grupo/gonzalo-martinez/>
 - <https://www.vice.com/es/article/dj-zikuta-habla-sobre-los-inicios-de-la-electronica-en-chile/>
 
-### Encargo09: apuntes sobre visita al museo de arte contemporáneo
+### encargo-09: apuntes sobre visita al museo de arte contemporáneo
 
-Durante la visita al Museo de arte contemporaneo logramos presenciar diversas obras, teniendo cada una su forma de expresion, tecnica, tematica y manera de comunicar al espectador, a continuacion se realizara una reflexion y anailis respecto a algunas de las que me resultaron interesantes.
+Durante la visita al Museo de arte contemporáneo logramos presenciar diversas obras, teniendo cada una su forma de expresion, técnica, temática y manera de comunicar al espectador, a continuacion se realizara una reflexion y análisis respecto a algunas de las que me resultaron interesantes.
 
 #### *Museo en estéreo*
 
