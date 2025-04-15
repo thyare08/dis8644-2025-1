@@ -1,13 +1,9 @@
 # sesion-06a
 # LDA: Light Dependant Awelita
 ## Proyecto-01
-- Grupo 07
-- Santiago Gaete y Bernardita Lobo
-
-## Propuestras de modificaciones
-## User persona
-
-## Potencial y devilidades del diseño 
-
-![image](https://github.com/user-attachments/assets/52fdcfc2-3d10-4124-bc24-b52c78113fe5)
-
+| Ejemplo de valores lux         |            |
+|--------------------------------|------------|
+| Luz solar                      | 40.00 lx   |
+| Lugar de trabajo en la oficina | 300-500 lx |
+| Sala de estar                  | 50-200 lx  |
+| Noche de luna                  | 0,3 lx     |
