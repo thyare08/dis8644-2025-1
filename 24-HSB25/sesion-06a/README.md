@@ -15,10 +15,19 @@ Circuito Inicial del APC (Atari Punk Console)
 
 ![APC](https://upload.wikimedia.org/wikipedia/commons/f/fa/APC_with_2_555_%28pin_out%29_and_bridge_added.png)
 
+Nuestro objetivo con el uso del Atari Punk Console (APC) es mantener su funcionamiento original, donde al bloquear la luz que llega al LDR, se produce un cambio en la frecuencia del sonido emitido por la bocina. Sin embargo, buscamos llevar esta idea más allá creando una caja sonora interactiva que integre tres circuitos APC conectados entre sí y alimentados por una única batería de 9V, permitiendo que funcionen en conjunto.
 
+Cada APC estará instalado dentro de una caja de madera, la cual tendrá tres ranuras, una por cada circuito. En estas ranuras se ubicarán barritas o patitas impresas en 3D, que funcionarán como barreras móviles entre un LED y un LDR. Estas barritas están diseñadas para levantarse al ejercer presión sobre ellas, permitiendo que el LED ilumine directamente al LDR.
 
+Como el LDR responde a los cambios de luz, su exposición directa al LED modificará la resistencia del circuito, lo cual alterará la frecuencia del sonido emitido por la bocina. De este modo, cada barrita presionada genera una variación sonora, logrando una interacción física y directa con el usuario, convirtiendo la caja en una verdadera experiencia sonora interactiva.
 
+# Puntos Clave del Proyecto:
 
+- Uso de 3 circuitos APC conectados y alimentados con una sola batería de 9V.
+
+- Caja de madera diseñada con tres ranuras para insertar los mecanismos interactivos y tambien otros 3 agujeros por donde saldran las bocinas.
+
+- Barritas impresas en 3D que funcionan como barreras móviles entre LED y LDR.
 
 # MODELO 3D del Proyecto
 
