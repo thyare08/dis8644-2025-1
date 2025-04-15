@@ -75,6 +75,8 @@ Un objeto que cuando se oscurezca emita una alarma para alertar al usuario, y qu
 
 ![foto de algo con luz ahaha.pdf](tme-p1-luz.png)
 
+<https://pin.it/83V7VnPhr>
+
 La luz es un fenónemo que scede como efecto secundario de la radiación electromagnética. Esta es percibida por el ojo humano dentro de un espectro visible con longitudes de onda entre 380 y 750mm.
 
 <https://es.wikipedia.org/wiki/Luz>
@@ -105,11 +107,11 @@ Con el circuito monoestable podemos lograr que cuando se recibe un estímulo, es
 
 La idea es "fusionar" ambos circuitos para lograr que la parte del Dark Detector(A) "controle" a la parte monoestble (B)
 
-![Foto esquemático dibujo parte A](tme-p1-esquemaFusionA.png)
+![Foto esquemático dibujo parte A](tme-p1-esquemaFusionA.jpeg)
 
-![Foto esquemático dibujo parte B](tme-p1-esquemaFusionB.png)
+![Foto esquemático dibujo parte B](tme-p1-esquemaFusionB.jpeg)
 
-![Foto esquemático dibujo fusión](tme-p1-esquemaFusion.png)
+![Foto esquemático dibujo fusión](tme-p1-esquemaFusion.jpeg)
 
 ## Redefinición
 
