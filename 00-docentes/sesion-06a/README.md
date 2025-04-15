@@ -90,3 +90,4 @@ también disponible en prime
 
 Subtítulos disponible en [.srt](Sisters.with.Transistors.2020.WEB-DL.1080p.DVO.srt)
 
+Escoger artista favorita del documental y escuchar algún concierto o disco de ella
