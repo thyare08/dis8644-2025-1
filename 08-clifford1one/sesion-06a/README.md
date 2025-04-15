@@ -1,7 +1,8 @@
 ### sesion-06a
 
-# Entrega Proyecto 01
+## Entrega Proyecto 01: 
 
+#LDA: Light Dependent Awelita
 
 # Premisa:
 
@@ -117,3 +118,30 @@ Tras múltiples intentos no logramos
 ![Foto esquemático intento fallido tinker](tme-p1-tinkerTry1.png)
 
 ![Foto esquemático otro intento fallido tinker](tme-p1-tinkerTry2.png)
+
+Tras no lograr llevar a cabo la idea original, decidimos optar por quedarnos con la parte que teníamos funcionando.
+
+![Foto esquemático del circuito que tenemos realmente](tme-p1-esquemaLdaReal.png)
+
+![Foto del flujo real](tme-p1-flujoReal.png)
+
+![Foto esquemático del circuito que queríamos tener](tme-p1-esquemaLdaIdeal.png)
+
+![Foto del flujo que queriamos que fuera](tme-p1-flujoIdeal.png)
+
+# FABRICACIÓN: 
+
+## Cables:
+
+En esta etapa tomamos medidas de los componentes, y los tuvimos en cuenta para el diseño de la carcasa
+
+## Fabricación: 
+
+Hicimos un modelo 3D mediante Rhinoceros 3D
+
+![Foto donde aparezcan varias fotos de proceso del modelado 3d](tme-p1-modeladoProceso.png)
+
+![Foto del modelado 1](tme-p1-modelado.png)
+
+![Foto del render](tme-p1-render.png)
+
