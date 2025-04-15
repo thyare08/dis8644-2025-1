@@ -23,4 +23,7 @@
 - pulsadores en paralelo
 
 ### Grupo-5
+- sintetizador pocket de uso recreativo
+- un sonido mas variable de escala descendiente
+- recrear un sonido que hizo Wendy Carlos
 - 
