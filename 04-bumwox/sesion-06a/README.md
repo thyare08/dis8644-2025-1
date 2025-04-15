@@ -48,6 +48,12 @@ ya con el primer botón integrado, logramos crear una secuencia de botones en pa
 
 https://github.com/user-attachments/assets/81ee4759-0f37-4b5d-94a1-204632bcf14a
 
+## 03.1 - piano y LDR
+
+a la variación de piano le agregamos un LDR como la R1 para ver la reacción del sensor y el botón con el parlante
+
+https://github.com/user-attachments/assets/b1021b9f-e474-430e-954b-7aea467dbd21
+
 ## componentes
 
 | componentes |  cantidad (utilizados) | especificaciones |
