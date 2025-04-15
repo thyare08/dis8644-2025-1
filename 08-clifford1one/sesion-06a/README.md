@@ -142,7 +142,7 @@ Tras no lograr llevar a cabo la idea original, decidimos optar por quedarnos con
 
 En esta etapa tomamos medidas de los componentes, y los tuvimos en cuenta para el diseño de la carcasa
 
-## Fabricación: 
+## Carcasa: 
 
 Hicimos un modelo 3D mediante Rhinoceros 3D
 
@@ -152,3 +152,15 @@ Hicimos un modelo 3D mediante Rhinoceros 3D
 
 ![Foto del render](tme-p1-render.png)
 
+Impresión 3D
+
+![Foto de la impresión comenzando](tme-p1-imp1.png)
+
+
+![foto de la impresión al 40%](tme-p1-imp2.png)
+
+![foto de la impresión fallando](tme-p1-imp3.png)
+
+![Foto de la impresión lista](tme-p1-imp4.png)
+
+![Foto de la los soportes sacados](tme-p1-imp5.png)
