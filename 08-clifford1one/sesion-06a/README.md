@@ -141,6 +141,10 @@ Tras no lograr llevar a cabo la idea original, decidimos optar por quedarnos con
 
 # FABRICACIÓN: 
 
+- Cables
+
+- Carcasa
+
 ## Cables:
 
 ![Foto avances](tme-p1-bitacoraBoceto.jpeg)
