@@ -27,6 +27,8 @@
 
 . Un condensador: almacena voltaje, hace que la caida del voltaje sea mas lenta.
 
+## encargo07: apuntes sobre digerir, reflexión y expansión del chip 555
+
 . Chip 555: Es una caja negra que tiene 8 pins (datasheet manual), es un timer, lo usaremos para prender y apagar.
 
  Circuito planchado con cable de alambre
@@ -43,7 +45,7 @@ Calculadora de modo astable, que nos indica que el tiempo de encendido y apagado
 
 ![Imagen de WhatsApp 2025-03-25 a las 15 45 36_6c78399d](https://github.com/user-attachments/assets/dcc6be51-914a-4d16-abe3-dcef4e2d7509)
 
- que es un potenciometro? una resistencia variable o un sensor de angulo
+ que es un potenciómetro? una resistencia variable o un sensor de angulo
 
  usaremos el pin de en medio y uno mas
 
@@ -70,18 +72,18 @@ Al implementar el potenciómetro en reemplazo de la resistencia que conectaba al
 ### Stereolab
 
 - Stereolab es una banda anglo-francesa fundada en 1990 por Laetitia Sadier y Tim Gane.
-- Mediante melodías y letras, en ingles y frances, mezclan ritmos como el rock, krautrock (corriente músical alemana y una de sus principales influencias), lounge, electronica, etc.
+- Mediante melodías y letras, en inglés y francés, mezclan ritmos como el rock, krautrock (corriente músical alemana y una de sus principales influencias), lounge, electronica, etc.
 - Entre sus instrumentos se encuentran guitarras, teclados eléctricos, sintetizadores analógicos y cajas de ritmo vintage.
 
-El disco que escuché fue *Refried ectoplasm [Switched On Volume 2]* de 1995, lo elegí porque la primera canción que escuche de la banda fue *French disko*, la cual se fue a mi playlist, este disco es de caracter recopilarorio, lo que explica el sonido y estilo variado.
+El disco que escuché fue *Refried ectoplasm [Switched On Volume 2]* de 1995, lo elegí porque la primera canción que escuche de la banda fue *French disko*, la cual se fue a mi playlist, este disco es de caracter recopilatorio, lo que explica el sonido y estilo variado.
 
-A mi parecer durante todas sus canciones logran adentrarnos en un ambiente tranquilo, de letras y canciones cortas, bastante repetitivas en contenido vocal, pero no asi en composiciones, ya que estas se mantienen en su loop, pero sorprenden los distintos arreglos electrónicos o climax en instrumentos como la guitarra, lo que destaca la mayoria de las veces al final de la canción, cuando la voz ya se ha desvanecido.
+A mi parecer durante todas sus canciones logran adentrarnos en un ambiente tranquilo, de letras y canciones cortas, bastante repetitivas en contenido vocal, pero no así en composiciones, ya que estas se mantienen en su loop, pero sorprenden los distintos arreglos electrónicos o climax en instrumentos como la guitarra, lo que destaca la mayoría de las veces al final de la canción, cuando la voz ya se ha desvanecido.
 
 Otra de mis canciones favoritas de este albúm fue *Revox* me encanta la manera en que la voz acompaña a los instrumentos en la primera parte y como la letra son simples palabras sueltas que para mi representan el flujo de una vida.
 
 Me parece interesante como en ocasiones la melodía se superpone a la voz, sobre todo cuando la letra es repetitiva.
 
-De alguna forma este albúm o la banda me recordó a *The breeders*?, no pregunten por qué, no lo se xd.
+De alguna forma este albúm o la banda me recordó a *The breeders*?, no pregunten por qué, no lo sé xd.
 
 Parte del final de *Hexploding Head Movie* me recordó al fina de *Space oddity* de David Bowie, como si hubieran tomado ese sonido y lo hicieran menos chirreante y mucho más de fondo.
 
@@ -104,7 +106,7 @@ Fuente: <https://soundsmarket.com/blog/diferencias-entre-un-sintetizador-digital
 - Tienen 61 teclas
 - Son una evolución del piano eléctrico, (mucho mas pesados)
 
-En este caso la banda utilizaba un Farfisa compact duo, siendo este un tipo de organo popular en los 60s. Estos trataban de emular los sonidos de los organos Hammond, mediante sonidos generados por transistores que regulan el flujo de energia eléctrica.
+En este caso la banda utilizaba un Farfisa compact duo, siendo este un tipo de organo popular en los 60s. Estos trataban de emular los sonidos de los órganos Hammond, mediante sonidos generados por transistores que regulan el flujo de energia eléctrica.
 
 También utilizaban el Moog Opus III live
 
