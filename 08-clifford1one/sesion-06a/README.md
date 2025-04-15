@@ -20,6 +20,9 @@
 
 Miramos los distintos ejemplos en esta página, y destacamos los que más nos llamaron la atención.
 
+![foto bitácora](tme-p1-bitacoraEsquema.png)
+
+![foto del cirucuito APC](tme-p1-circuitoAtari.png)
 
 ![Foto esquemático original del pryecto dark detector](tme-p1-esquemaDarkDetector1.png)
 
@@ -140,22 +143,25 @@ Tras no lograr llevar a cabo la idea original, decidimos optar por quedarnos con
 
 ## Cables:
 
+![Foto avances](tme-p1-bitacoraBoceto.png)
+
 En esta etapa tomamos medidas de los componentes, y los tuvimos en cuenta para el diseño de la carcasa
 
 ## Carcasa: 
 
 Hicimos un modelo 3D mediante Rhinoceros 3D
 
-![Foto donde aparezcan varias fotos de proceso del modelado 3d](tme-p1-modeladoProceso.png)
+![Foto donde aparezcan varias fotos de proceso del modelado 3d](tme-p1-modelado0.png)
 
-![Foto del modelado 1](tme-p1-modelado.png)
+![Foto del modelado 1](tme-p1-modelado1.png)
+
+![Foto del modelado 1](tme-p1-modelado2.png)
 
 ![Foto del render](tme-p1-render.png)
 
 Impresión 3D
 
 ![Foto de la impresión comenzando](tme-p1-imp1.png)
-
 
 ![foto de la impresión al 40%](tme-p1-imp2.png)
 
