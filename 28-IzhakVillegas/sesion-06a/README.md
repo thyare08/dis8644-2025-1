@@ -45,7 +45,7 @@ Esta relación es:
 Cuenta con una carcasa, con 5 orificios (sin contar el parlante), por donde salen cables que se conectan a caimanes y a su vez, a objetos metálicos y orgánicos, también un botón, cables y un potenciómetro, que al accionar cada uno de estos, genera una frecuencia distinta, la cuales son capaces de oírse a través de una bocina o parlante.
 La carcasa contiene el circuito soldado a la placa perfboard con todos los componentes utilizados (BOM) 
 
-[imagenes del teclado musical y sus partes]
+[Imágenes del teclado musical y sus partes]
 
 ![objeto_impreso](https://github.com/user-attachments/assets/6cefe40c-f04d-4942-ad06-59c471b750db)
 
@@ -69,7 +69,7 @@ A continuación se presenta el esquemático realizado para la construción del c
 
 ### BITÁCORAS
 
-[bitácora sofe]
+[Bitácora Sofía]
 
 ![bitácora( 1)](https://github.com/user-attachments/assets/308d73b3-f04f-4ee4-b46c-71aef1f205b1)
 
@@ -79,7 +79,7 @@ A continuación se presenta el esquemático realizado para la construción del c
 
 ![bitácora (4)](https://github.com/user-attachments/assets/5beb6233-d07a-400c-8922-deabe9f41276)
 
-[bitácora anto]
+[Bitácora Anto]
 
 ![proceso esquematico](https://github.com/user-attachments/assets/9ec37cbc-8700-440d-84ee-4a30ac33551b)
 
@@ -91,7 +91,7 @@ A continuación se presenta el esquemático realizado para la construción del c
 
 ![diagrama_de_flujo](https://github.com/user-attachments/assets/0a261737-c85c-4d27-971f-a1185fb84180)
 
-[bitácora izhak]
+[Bitácora Izhak]
 
 ![bitacoraa(1)](https://github.com/user-attachments/assets/06cbf094-a9fa-44b5-87fa-650e759eabd5)
 
@@ -109,7 +109,7 @@ A continuación se presenta el esquemático realizado para la construción del c
 
 ![bitacoraa(8)](https://github.com/user-attachments/assets/eca564ee-980d-4eb8-9bf2-099fae8443c9)
 
-[bitácora y proceso félix]
+[Bitácora y proceso Félix]
 
 ![pcb-b 01](https://github.com/user-attachments/assets/9e0722f8-1cba-4608-b3e8-b46a80050a03)
 
@@ -129,7 +129,7 @@ A continuación se presenta el esquemático realizado para la construción del c
 
 ![collage](https://github.com/user-attachments/assets/fdcaa42d-2d9e-4889-bf8a-62206cc4c7d6)
 
-[videos de muestra del proceso en proto]
+[Videos de muestra del proceso en _Proto_]
 
 https://github.com/user-attachments/assets/790efdef-d78c-4d19-b25d-af472468af7d
 
