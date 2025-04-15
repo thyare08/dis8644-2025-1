@@ -56,7 +56,7 @@ Identificamos una problemática en aquella situación cuando una persona, en est
 
 Esto ocurre porque la disminución de la luz es paulatina, y sucede a una velocidad que permite que nuestro ojo se vaya acostumbrando a ella automáticamente. Por eso a veces pareciera que oscureció de golpe en la noche 
 
-![Figura 1.13 del archivo retinaAdaptTesis.pdf](tme-p1-tesisF1.13.png)
+![Figura 1.13 del archivo retinaAdaptTesis.pdf](tme-p1-grafico.png)
 
 <https://uvadoc.uva.es/handle/10324/22376>
 
@@ -64,7 +64,7 @@ Si bien, no hay estudios que comprueben que hacer atividades a oscuras dañe la 
 
 Definición Función: 
 
-![Foto luz alarma](tme-p1-alarmaNoche.png)
+![Foto luz alarma](tme-p1-alarmaNoche.jpeg)
 Imagen generada por Ia mediante chatGPT
 
 Un objeto que cuando se oscurezca emita una alarma para alertar al usuario, y que este recuerde encender una luz para que no suene. Esta alarma sonará durante 300s y después el istema se suspenderá hasta que vuelva a detectar luz.
