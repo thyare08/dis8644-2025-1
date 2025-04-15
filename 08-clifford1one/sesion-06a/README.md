@@ -28,6 +28,9 @@ Miramos los distintos ejemplos en esta página, y destacamos los que más nos ll
 
 ![Foto trabajo poor discord](tme-p1-trabajoOnline.jpeg)
 
+![Foto circuito armadod](tme-p1-circuitoDark.jpeg)
+
+
 <https://www.555-timer-circuits.com/dark-detector.html>
 
  Este proyecto consiste en un circuito que sensa la luz a través de un LDR. Una alarma se activa cuando el nivel de luz detectado es menor a cierta cantidad determinada por la configuración del sistema.
