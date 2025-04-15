@@ -22,6 +22,6 @@ Circuito Inicial del APC (Atari Punk Console)
 
 # Imagenes del Proyecto:
 
-![proj01](blob:https://web.whatsapp.com/1b29e1dc-c781-4788-8bbc-fde085a014c4)
+![proj01](https://web.whatsapp.com/1b29e1dc-c781-4788-8bbc-fde085a014c4)
 
 
