@@ -8,11 +8,14 @@ ___circuito atari punk console___
 
 ![Circuito inicial (1)](https://github.com/user-attachments/assets/7c2c735d-090f-40ac-bf55-433cc590ef26)
 
-___esquemático inicial___
-
-![8](https://github.com/user-attachments/assets/ae5d5bd5-2b3c-453f-b7b8-5736a613c7cc)
-
 https://github.com/user-attachments/assets/c9842fb0-37ba-478e-acf6-78a376ede468
+
+___variación con LDR___
+![Variación LDR e interruptor](https://github.com/user-attachments/assets/e1cba1e0-da43-4620-9937-608314c05b12)
+
+![Variacion LDR e interruptor (1)](https://github.com/user-attachments/assets/fbdf0739-2229-4918-aae8-4a5d2cfdaeac)
+
+de acá empezamos con las primeras variaciones!
 
 ## 01 - integración del interruptor
 
@@ -52,9 +55,9 @@ ya con el primer botón integrado, logramos crear una secuencia de botones en pa
 
 https://github.com/user-attachments/assets/81ee4759-0f37-4b5d-94a1-204632bcf14a
 
-![Variación pulsadores, LDR e interruptor](https://github.com/user-attachments/assets/78f6d7cf-3101-4b0d-a2c6-dd3cf3b7af5c)
+![Variación pulsador, interruptor y caja (2)](https://github.com/user-attachments/assets/b3d05058-405f-48dd-8104-278f74d57d14)
 
-![Variacion pulsadores, LDR e interruptor](https://github.com/user-attachments/assets/9432e544-c3ce-41df-9091-686b7fbee21a)
+![Variacion potenciometro, pulsador e interruptor (2)](https://github.com/user-attachments/assets/7f50f8c9-d82f-4298-afb4-6b2c9c01c2e8)
 
 ## 03.1 - piano y LDR
 
