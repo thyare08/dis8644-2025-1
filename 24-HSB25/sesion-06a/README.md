@@ -25,6 +25,20 @@ La interacción del usuario se da mediante una pieza impresa en 3D, ubicada en l
 
 Como el LDR responde a los cambios de luz, su exposición directa al LED modificará la resistencia del circuito, lo cual alterará la frecuencia del sonido emitido por la bocina. De este modo, cada barrita presionada genera una variación sonora, logrando una interacción física y directa con el usuario, convirtiendo la caja en una verdadera experiencia sonora interactiva.
 
+
+A continuación, se muestra una imagen de nuestro circuito APC, donde es posible observar cómo están conectados todos los componentes entre sí.
+
+![proy16](proy16.jpeg)
+
+En esta imagen se muestra el mismo circuito, esta vez encendido, con el LED azul en funcionamiento.
+
+![proy17](proy17.jpeg)
+
+
+
+
+
+
 # Puntos Clave del Proyecto:
 
 - Uso de 3 circuitos APC conectados y alimentados por 3 batería de 9V.
@@ -46,8 +60,6 @@ Como se puede observar en la imagen a continuación, las barritas (representadas
 ![proy14](proy14.jpeg)
 
 Dado que el LED está muy cerca del LDR, cualquier cambio en la cantidad de luz es fácilmente detectado por el sensor. Esto permite que la bocina emita distintas frecuencias de sonido según la posición de las barritas. De esta forma, nuestro proyecto funciona como una caja sonora interactiva.
-
-
 
 ![proy15](proy15.jpeg)
 
