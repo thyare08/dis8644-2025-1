@@ -30,9 +30,7 @@ Simple Electronic piano. Instructables. https://www.instructables.com/Simple-Ele
 
 Esta relación es:
 
-![formula frecuencia]
-
-(https://github.com/user-attachments/assets/a927dec7-da5b-4a46-ba7b-c661a13953b0)
+![formula frecuencia](https://github.com/user-attachments/assets/a927dec7-da5b-4a46-ba7b-c661a13953b0)
 
 
 ### ANATOMÍA FÍSICA, DIAGRAMAS, ILUSTRACIONES, TEXTO.
@@ -145,16 +143,16 @@ https://github.com/user-attachments/assets/fc261a51-aa6d-4029-83d4-fa57e76a6de4
 |-----------------------|----------|-------------------------|------------|
 | Perforated board      | 1        | PB                      |            |
 | Batería               | 1        | BAT.                    | 9 V        |
-| Resistencias          | 8        | R1, R2, R3, R5, R6, R7, R8 | 1k      |
+| Resistencias          | 8        | R1, R2, R3, R5, R6, R7, R8 | 1k         |
 |                       |          | R4                      | 10k        |
 | Condensador cerámico  | 3        | C1, C2, C4              | 100nF      |
-| Condensador 
-  electrolítico         | 1        | C5                      | 100uF      |
+| Condensador electrolítico | 1    | C5                      | 100uF      |
 | Condensador           | 1        | C3                      | 470nF (474)|
 | Jumpers               | 12-17    |                         |            |
 | Bocina                | 1        | Speaker                 | 0.5W/8Ω    |
 | Caimanes              | 5        |                         |            |
 | Circuito integrado    | 2        | Chip 1, Chip 2          | 555        |
+
 
 para nuestro proceso nos referenciamos en el piano electrónico creado por Joshua Brooks
 
