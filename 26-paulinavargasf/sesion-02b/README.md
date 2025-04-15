@@ -1,6 +1,6 @@
 # sesion-02b
 
-## encargo circuitos 2, 3 y 4
+## encargo-05: circuitos 2, 3 y 4
 
 ![Captura de pantalla 2025-03-24 164618](https://github.com/user-attachments/assets/40eec16a-7511-4def-b083-e5909b986c0f)
 ![Captura de pantalla 2025-03-24 164637](https://github.com/user-attachments/assets/6f1a0d53-40cb-4d9c-82c3-fb88acc21a56)
