@@ -1,5 +1,6 @@
 # sesion-04a
 
+martes 01 de abril 2025
 
 web con info para conocer límites del 555 y ejemplos [https://www.555-timer-circuits.com/](https://www.555-timer-circuits.com/)
 

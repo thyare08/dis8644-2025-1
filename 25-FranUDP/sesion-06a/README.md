@@ -7,9 +7,36 @@ el proyecto parte con la idea de un sintetizador pocket de uso recreativo para e
 
 
 criterio-02: anatomía física, diagramas, ilustraciones, texto
-
+| setr  | trd |  hd |
+|--------|-------|------|
+|sdrtfugy|sdt|
 
 
 criterio-04: esquemático eléctrico, bill of materials, citas y referencias
+
+Bill of materials
+
+|  materiales | cantidad |
+|:------:|:-----:|
+| Chip 555 |2|
+|Batería 9v|1|
+| Resistencias 1k  |1|
+| Resistencias 10k   | 1 |
+| Botón  | 1|
+| Ldr   | 1 |
+| Contector bateria | 1 |
+| Potenciometro 10k  | 3 |
+| Capacitores 474  | 2 |
+|  Capacitores 154   | 2 |
+|  Capacitores electrolitico 100 uf| 2 |
+|  Capacitores electrolitico 10 uf| 1 |
+|  Parlante 8 ohm | 1 |
+|  Carcasa| 1|
+
+
+
+
+Wendy Carlos 
+https://www.youtube.com/watch?v=4SBDH5uhs4Q la referencia inicial del proyecto parte por intentar recrear un sonido parecido al que logra Wendy Carlos en este video
 
 
