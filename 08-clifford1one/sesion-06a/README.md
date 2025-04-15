@@ -181,3 +181,8 @@ Impresión 3D
 ![Foto de la impresión lista](tme-p1-imp4.jpg)
 
 ![Foto de la los soportes sacados](tme-p1-imp5.jpg)
+
+
+Para más información y más proceso, porfavor consultar nuestro figma con acceso público:
+
+<https://www.figma.com/board/2tv4jx75qGZa6Gua2UCVer/taller.maq.electr?node-id=0-1&t=aBNh63yuq9MDT4AI-1>
