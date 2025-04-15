@@ -28,16 +28,24 @@ Además tuvo mucho éxito en Europa y esto ayudó a posicionar a Chile mundialme
 ## “Un mundo bajo los párpados” de Marco Godoy
 
 Me pareció interesante esta obra pero tuve que buscar sobre qué trata para poder terminar de entenderla, esta exposición de esculturas y luz , explora temas como el poder, la jerarquía y los afectos en tiempos de estallido social (2019), por ésta razón es que hay distintos tamaños en las esculturas y la manera en que están posicionadas estas mismas (jerarquía), por ejemplo, hay una escultura donde hay dos personas conversando aplastando a una persona, yo entiendo que representa a las personas que manejaban el país para el estallido, y la persona aplastada representaría a los manifestantes, y por otro lado, representa el afecto, él hace una crítica a lo violento que fue el estallido y busca hacer política en base al afecto y la conexión humana, yo entiendo su punto de vista y me encantaría decir que se puede lograr eso, pero la historia dice otra cosa, creo que el afecto no lleva a la toma de decisiones, creo que para hacer cambios se tiene que notar la molestia social y lamentablemente para hacerse notar hay que hacer ruido e incomodar.
+
 ![20250328_122609](https://github.com/user-attachments/assets/55e8e246-9088-4510-8686-ef534e6d3a39)
+
 ![20250328_122634](https://github.com/user-attachments/assets/4e8e1066-a6ec-49c5-994b-9585f2f66783)
+
 ![20250328_122645](https://github.com/user-attachments/assets/bea60519-8a90-4126-8fec-d413a30c7419)
 
 ## “Museo en estéreo” de Matías Serrano y M. Ignacia Valdebenito
 
 Encontré muy interesante esta obra por la manera en que representan los sonidos que te encaminan al MAC y el encuentro de ambos el de quinta normal y el del forestal.
 Que notaran cosas tan cotidianas, por ejemplo, la tarjeta bip, las ramas, la loto, cosas que te puedes encontrar fácilmente en un recorrido, y me gustó el hecho de que no solo investigaron e hicieron el recorrido, sino que lo hicieron con un grupo de personas que aportaron distintos puntos de vista, sonidos y anotaciones distintas.
+
 ![20250328_115525](https://github.com/user-attachments/assets/0b78dfdb-1780-47d3-a7f0-018bed12d269)
+
 ![20250328_120328](https://github.com/user-attachments/assets/5df479e8-1dd9-4cd0-acf1-836adbbd3467)
+
 ![20250328_115355](https://github.com/user-attachments/assets/d0b3e592-4c8f-40ea-a1e1-4ef55a694c40)
+
 ![20250328_115304](https://github.com/user-attachments/assets/fdd822b7-b6ea-49c5-9fb5-bbd420d1c81f)
+
 ![20250328_115043](https://github.com/user-attachments/assets/2a063f5f-59b0-4d68-b1c5-d293a1003ae7)

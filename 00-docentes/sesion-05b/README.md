@@ -1,6 +1,8 @@
 # sesion-05b
 
-### Dos tipos de componentes: para PCB y para Panel
+viernes 11 de abril 2025
+
+## Dos tipos de componentes: para PCB y para Panel
 
 Los componentes para pcb están pensados para conectarse directamente en las placas (pcb o perfboard)
 
@@ -67,4 +69,3 @@ Puedes visitar el [manual para soldar](./archivos/nasa_soldar.pdf) con recomenda
 ## Video tutoral para soldar placa perforada (en inglés)
 
 [<img src="./archivos/soldar_yt.png">](https://youtu.be/3N3ApzmyjzE?t=228)
-

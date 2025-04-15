@@ -89,9 +89,9 @@
 
 ### Gonzalo Martínez y sus Congas Pensantes <br/>
 >
-> En comparación con las otras bandas de música electrónica, escuchar esto fue sorpresivo, me esperaba algo que fuese 100% musica electronica (o algo experimental), no algo más "normal" o "tradicional" que tuviese elementos de música electrónica acompañando y casi como bailando con los elementos de música más tradicional, intercambiando entre sí *"the spotlight of the song"* a lo largo del disco. <br/>
+> En comparación con las otras bandas de música electrónica, escuchar esto fue sorpresivo, me esperaba algo que fuese 100% musica electrónica (o algo experimental), no algo más "normal" o "tradicional" que tuviese elementos de música electrónica acompañando y casi como bailando con los elementos de música más tradicional, intercambiando entre sí *"the spotlight of the song"* a lo largo del disco. <br/>
 > <br/>
-> El disco fue compuesto por **Jorge González** (ex-vocalista de "Los pricioneros"), según un articulo de la tercera, tiene su origen en los recuerdos de la niñez de González, donde el cuenta recordar como la cumbia atrapaba a la gente en baile, y se le ocurrió mezclarla con música electrónica. <br/>
+> El disco fue compuesto por **Jorge González** (ex-vocalista de "Los prisioneros"), según un articulo de la Tercera, tiene su origen en los recuerdos de la niñez de González, donde el cuenta recordar como la cumbia atrapaba a la gente en baile, y se le ocurrió mezclarla con música electrónica. <br/>
 > <br/>
 > Como suele ocurrir con obras adelantadas a su época, parece que este disco fue ignorado por el público, mas no por otros artistas, que comenzaron a surgir otras obras que mezclaban elementos de la música electrónica con la música latinoamericana. <br/>
 -----------------------------------------------------------------------------------------------------------

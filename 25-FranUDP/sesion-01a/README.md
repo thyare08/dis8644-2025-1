@@ -1,6 +1,6 @@
 # sesion-01a
 
-## Encargo 00
+## encargo-00
 
 ### Barrio Universitario
 
@@ -22,6 +22,6 @@ A menudo he escuchado que la creatividad tiene límite, que la creatividad human
 
 -----
 
-## Encargo 01
+## encargo-01
 
->![captura de pantalla de black box](./archivos/capturaPantallaBlackBox.jpg)
+![captura de pantalla de black box](./archivos/capturaPantallaBlackBox.jpg)

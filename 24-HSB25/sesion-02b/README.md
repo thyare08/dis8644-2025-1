@@ -35,6 +35,7 @@ CLIP (BATERIA 9V)
 Al poner las resistencias del mismo VALOR, la luminicencia del LED son iguales, en este primer caso el valor de la resistencias es de 1K entonces todos tienen el brillo igual, mientras que si cambiamos una resistencia a una de 2K, este led tendra menos brillo que el de 1K debido a que:
 Si aumentas la resistencia, la corriente disminuye y el LED brillará menos.
 Si reduces la resistencia, la corriente aumenta y el LED brillará más (pero cuidado, demasiada corriente puede quemarlo).
+
 Pero nosotros con mi compañero Martin probamos con una resitencia de 47K, para poder apreciar mucho mas el hecho de que baje la intensidad del Led (ocupamos todos leds de color blanco para poder apreciar las diferencias de cada led)
 
 # Ver Resistencias (6.8k)
@@ -48,7 +49,7 @@ Pero nosotros con mi compañero Martin probamos con una resitencia de 47K, para 
 6,800= 6,8K
 K=1.000
 
-#
+## encargo-05: serie y paralelo
 
 | LOQUITO POR TI LOCO LOCO     | D1 D2 | D3 D4|
 |:-----------------------------|:-----:|-----:|
@@ -56,7 +57,7 @@ K=1.000
 | R2 |  1 0  | 1 1 |
 | R3 |  1 1  | 0 0 |
 
-# Tabla Exp. Clase
+## Tabla Exp. Clase
 
 | LOQUITO POR TI LOCO LOCO     | D1 D2 | D3 D4|
 |:-----------------------------|:-----:|-----:|
