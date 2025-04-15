@@ -59,4 +59,4 @@ Esto ocurre porque la disminución de la luz es paulatina, y sucede a una veloci
 
 <https://uvadoc.uva.es/handle/10324/22376>
 
-Si bien, no hay estudios que comprueben que hacer atividades a oscuras dañe la vista, hacerlo 
+Si bien, no hay estudios que comprueben que hacer atividades a oscuras dañe la vista, hacer actividades a oscuras requiere un mayor esfuerzo, por lo tanto te cnsa más y dificulta hacerlo por períodos prolongados.
