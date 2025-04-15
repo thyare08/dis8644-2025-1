@@ -161,12 +161,12 @@ Hicimos un modelo 3D mediante Rhinoceros 3D
 
 Impresión 3D
 
-![Foto de la impresión comenzando](tme-p1-imp1.png)
+![Foto de la impresión comenzando](tme-p1-imp1.jpg)
 
-![foto de la impresión al 40%](tme-p1-imp2.png)
+![foto de la impresión al 40%](tme-p1-imp2.jpg)
 
-![foto de la impresión fallando](tme-p1-imp3.png)
+![foto de la impresión fallando](tme-p1-imp3.jpg)
 
-![Foto de la impresión lista](tme-p1-imp4.png)
+![Foto de la impresión lista](tme-p1-imp4.jpg)
 
-![Foto de la los soportes sacados](tme-p1-imp5.png)
+![Foto de la los soportes sacados](tme-p1-imp5.jpg)
