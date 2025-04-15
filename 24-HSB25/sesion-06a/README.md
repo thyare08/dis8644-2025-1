@@ -47,8 +47,11 @@ Como se puede observar en la imagen a continuación, las barritas (representadas
 
 Dado que el LED está muy cerca del LDR, cualquier cambio en la cantidad de luz es fácilmente detectado por el sensor. Esto permite que la bocina emita distintas frecuencias de sonido según la posición de las barritas. De esta forma, nuestro proyecto funciona como una caja sonora interactiva.
 
+
+
 ![proy15](proy15.jpeg)
 
+Utilizaremos LEDs de distintos colores —uno azul, uno blanco y uno verde— con el objetivo de observar cómo reacciona el LDR al ser expuesto a diferentes longitudes de onda de luz. Esto nos permitirá analizar si el color del LED influye en la sensibilidad del sensor y, por lo tanto, en la variación del sonido emitido por el parlante.
 
 # Estructura hecha con Corte Láser
 
