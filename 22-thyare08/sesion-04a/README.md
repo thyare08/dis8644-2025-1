@@ -8,7 +8,7 @@ En esta imagen se pueden apreciar todas las conexiones
 Imagen que muestra las conexiones más detalladamente
 
 Encargo: Escuchar 1-bit symphony
-Nombre del video que vi: Exploring: Tristan Perich's 1-bit Symphony
+El video que vi se llama Exploring: Tristan Perich's 1-bit Symphony
 Lo que se usa para generar sonido consta de un microchip y un circuito eléctrico. Por otra parte el sonido que tiene es muy robótico y repetitivo.
 Me generó mucha intriga todos los sonidos que puede hacer, siendo un circuito así de pequeño
 
