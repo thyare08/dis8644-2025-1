@@ -9,13 +9,13 @@
 > <br/> <br/> <br/> <br/> <br/> 
 > ### Soldering
 > 
->
+> ### Tipos de componentes
 >> ### Through-hole
->> 
->> 
+>> <img align="left" src="./files/Through-Hole-Assembly.png" width=300> Son componentes con alambres como patas/terminales (los mismos que se usan en la breadboard), estas patas se meten a través de agujeros en una PCB o Perfboard y se soldan
+>> <br/> <br/> <br/> <br/>
 >> ### SMD (Surface Mount Devices)
->> 
->> 
+>> <img align="left" src="./files/smd.jpeg" width=300> Se diferencian de los anteriores por su tamaño más compacto y que en lugar de atravezar la placa, van adheridos en la superficie de esta, lo que permite poner componentes en ambos lados de la PCB, contribuyendo a un circuito más compacto.
+>> <br/> <br/> <br/> <br/>
 >
 > ### Other things
 >
