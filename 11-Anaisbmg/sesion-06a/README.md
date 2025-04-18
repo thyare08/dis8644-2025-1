@@ -59,3 +59,11 @@ en base a la propuesta n3, decidimos agregar un led para poder __*ver el sonido 
 ![final](https://github.com/user-attachments/assets/15620f72-b59d-47e6-9d22-1a452d744a66)
 
 https://github.com/user-attachments/assets/a6d7315b-8230-47e8-aa7d-5486c567794b
+
+## encargo-12: instalar kicad
+
+instalar software Kicad en su computador personal, incluir información sobre la instalación, la versión que están usando, el sistema operativo que usan, los idiomas que están usando, las carpetas en donde instalas la app y cualquier otra biblioteca o archivos relacionados, además de cualquier otro dato relevante.
+
+## encargo-13
+
+ver el documental Sisters with transistors, escoger artista favorita del documental y escuchar algún concierto o disco de ella
