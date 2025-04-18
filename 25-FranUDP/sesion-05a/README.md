@@ -12,25 +12,25 @@
 >> ### [Pin 5](https://youtu.be/0zV9W_TUAz4?si=N-xVU88uQmXDHj9_&t=367)
 >> <img align="left" src="./files/555HowWorks.jpg" width=600> <br/> <br/> <br/> <br/> Se suele utilizar para estabilizar la señal que emite el 555, sin embargo también nos permite hacer un override al 2/3 Vcc con el cual es comparado el voltaje del pin2, lo cual tiene el efecto de ampliar o acortar la longitud de onda en el 555 astable. <br/> <br/> <br/> <br/> <br/> <br/> 
 > 
-> ### Other things
->> ### [0ohm](https://0ohm.cl/)
->> [JLCPCB](https://jlcpcb.com/) / [PCBWAY](https://www.pcbway.com/) (chinese PCB [Printed Circuit Board] manufacturers) chileno, pero que trabaja para industrias y no minoristas.
+> ### Other things <br/>
+>> ### [0ohm](https://0ohm.cl/) <br/>
+>> [JLCPCB](https://jlcpcb.com/) / [PCBWAY](https://www.pcbway.com/) (chinese PCB [Printed Circuit Board] manufacturers) chileno, pero que trabaja para industrias y no minoristas. <br/>
 >> 
->> ### [Chrystal oscilator](https://youtu.be/_2By2ane2I4?si=mo4OQt6n-ufwWhaF)
->> Componente electrónico empleado para determinar precisamente el paso del tiempo
+>> ### [Chrystal oscilaltor](https://youtu.be/_2By2ane2I4?si=mo4OQt6n-ufwWhaF) (quartz) <br/>
+>> Componente electrónico empleado para determinar precisamente el paso del tiempo <br/>
 >> 
->> ### Menu diving
->> Navegación de un menú con muchas opciones e información distribuidas en multiples sub-menus por limitaciones de tamaño usualmente o mal diseño (similar a navegar en carpetas de archivos de programa buscando algo en especifico)
+>> ### Menu diving <br/>
+>> Navegación de un menú con muchas opciones e información distribuidas en multiples sub-menus por limitaciones de tamaño usualmente o mal diseño (similar a navegar en carpetas de archivos de programa buscando algo en especifico) <br/>
 >> 
->> ### Eliminador de pila
->> Power Supply Unit (PSU) que alimenta a un objeto en lugar de una batería
+>> ### Eliminador de pila <br/>
+>> Power Supply Unit (PSU) que alimenta a un objeto en lugar de una batería <br/>
 >> 
->> ### AC/DC coupling
->> confused screaming
+>> ### [AC/DC coupling](https://youtu.be/3h6tH592BEs?si=Qv0bSygBj8Hetm6) <br/>
+>> Se muestran los componentes AC (Alternating Current) y DC (Direct Current) de una misma señal al mismo tiempo <br/>
 >> 
 >> ### Calculos
 >>> ### Resistencias en paralelo
->>> 
+>>> R<sub>Total</sub> = (R1*R2)/(R1+R2)
 >>> 
 >>> ### Capacitores en serie
 >>> 
