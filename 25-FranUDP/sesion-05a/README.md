@@ -39,4 +39,5 @@
 >>> 
 >>> ### ${\color{#6462fe}Capacitores}$ en serie
 >>> $$\textcolor{#6462fe}{C_{\text{Total}}} = \frac{\textcolor{#6462fe}{C_1} \cdot \textcolor{#6462fe}{C_2}}{\textcolor{#6462fe}{C_1} + \textcolor{#6462fe}{C_2}}$$ <br/>
->>
+>> <br/>
+> <br/>
