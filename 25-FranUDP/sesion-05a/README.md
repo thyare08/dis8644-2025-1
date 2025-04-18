@@ -13,21 +13,26 @@
 >> <img align="left" src="./files/555HowWorks.jpg" width=600> Se suele utilizar para estabilizar la señal que emite el 555, sin embargo también nos permite hacer un override al 2/3 Vcc con el cual es comparado el voltaje del pin2, lo cual tiene el efecto de ampliar o acortar la longitud de onda en el 555 astable. <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/>
 > 
 > ### Other things
->> ### 0 ohm
->> ### Chrystal oscilator
+>> ### [0ohm](https://0ohm.cl/)
+>> [JLCPCB](https://jlcpcb.com/) / [PCBWAY](https://www.pcbway.com/) (chinese PCB [Printed Circuit Board] manufacturers) chileno, pero que trabaja para industrias y no minoristas.
+>> 
+>> ### [Chrystal oscilator](https://youtu.be/_2By2ane2I4?si=mo4OQt6n-ufwWhaF)
+>> Componente electrónico empleado para determinar precisamente el paso del tiempo
+>> 
 >> ### Menu diving
+>> Navegación de un menú con muchas opciones e información distribuidas en multiples sub-menus por limitaciones de tamaño usualmente o mal diseño (similar a navegar en carpetas de archivos de programa buscando algo en especifico)
+>> 
 >> ### Eliminador de pila
+>> Power Supply Unit (PSU) que alimenta a un objeto en lugar de una batería
+>> 
 >> ### AC/DC coupling
+>> 
+>> 
 >> ### Calculos
 >>> ### Resistencias en paralelo
->>> ### Capacitores en serie 
------------------------------------------------------------------------------------------------------------
-## Encargo XX
-### TITULO
->
->
------------------------------------------------------------------------------------------------------------
-## Encargo YY
-### TITULO
->
->
+>>> 
+>>> 
+>>> ### Capacitores en serie
+>>> 
+>>> 
+
