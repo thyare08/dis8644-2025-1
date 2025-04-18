@@ -1,5 +1,7 @@
 # sesion-05a
 
+## Apuntes
+>
 > ### Atary punk modding
 > <img align="left" src="https://github.com/disenoUDP/dis8644-2025-1/blob/main/00-docentes/sesion-04a/archivos/atariPunk_v1.png" width=850> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/>  <img align="left" src="./files/capacitorC5.jpg" width=400> <br/> ${\color{#6462fe}Capacitor \ C5}$ protege al parlante del flujo constante de corriente y convierte la onda de un abrupto on/off a una transcición más gradual de estado, lo que permite escuchar más del sonido, al hacer que "hayan más pasos" entre on y off <br/> <br/>
 >> ### Componenetes variables
@@ -9,9 +11,16 @@
 >> sin embargo, al testear mi hipotesis en falstad, veo que mi suposición no es del todo correcta, pues el segundo capacitor (izquierda) se carga a un voltaje máximo que varía dependiendo del valor del potenciómetro, mas sin importar el tiempo transcurrido, este no continuará cargandose hasta alcanzar el voltaje de la bateria, sino el voltaje resultante tras reducirlo con el potenciómetro.
 >> ### [Pin 5](https://youtu.be/0zV9W_TUAz4?si=N-xVU88uQmXDHj9_&t=367)
 >> <img align="left" src="./files/555HowWorks.jpg" width=600> Se suele utilizar para estabilizar la señal que emite el 555, sin embargo también nos permite hacer un override al 2/3 Vcc con el cual es comparado el voltaje del pin2, lo cual tiene el efecto de ampliar o acortar la longitud de onda en el 555 astable. <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/>
-> ### Other things
 > 
->> #### SUB_SUBTITULO
+> ### Other things
+>> ### 0 ohm
+>> ### Chrystal oscilator
+>> ### Menu diving
+>> ### Eliminador de pila
+>> ### AC/DC coupling
+>> ### Calculos
+>>> ### Resistencias en paralelo
+>>> ### Capacitores en serie 
 -----------------------------------------------------------------------------------------------------------
 ## Encargo XX
 ### TITULO
