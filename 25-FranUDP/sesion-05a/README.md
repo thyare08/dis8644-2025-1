@@ -38,6 +38,7 @@
 >>> $$\textcolor{#ffe4a8}{R_{\text{Total}}} = \frac{\textcolor{#ffe4a8}{R_1} \cdot \textcolor{#ffe4a8}{R_2}}{\textcolor{#ffe4a8}{R_1} + \textcolor{#ffe4a8}{R_2}}$$ <br/>
 >>> 
 >>> ### ${\color{#6462fe}Capacitores}$ en serie
->>> $$\textcolor{#6462fe}{C_{\text{Total}}} = \frac{\textcolor{#6462fe}{C_1} \cdot \textcolor{#6462fe}{C_2}}{\textcolor{#6462fe}{C_1} + \textcolor{#6462fe}{C_2}}$$ <br/>
+>>> $$\textcolor{#6462fe}{C_{\text{Total}}} = \frac{\textcolor{#6462fe}{C_1} \cdot \textcolor{#6462fe}{C_2}}{\textcolor{#6462fe}{C_1} + \textcolor{#6462fe}{C_2}}$$ <br/> <br/>
+>>> <br/>
 >> <br/>
 > <br/>
