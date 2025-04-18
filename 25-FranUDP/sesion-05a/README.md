@@ -10,7 +10,7 @@
 >> Parece que tuve exito, pues al variar el valor del potenciometro, el sonido proveniente del atari punk varía. <br/> <br/> 
 >> sin embargo, al testear mi hipotesis en falstad, veo que mi suposición no es del todo correcta, pues el segundo capacitor (izquierda) se carga a un voltaje máximo que varía dependiendo del valor del potenciómetro, mas sin importar el tiempo transcurrido, este no continuará cargandose hasta alcanzar el voltaje de la bateria, sino el voltaje resultante tras reducirlo con el potenciómetro.
 >> ### [Pin 5](https://youtu.be/0zV9W_TUAz4?si=N-xVU88uQmXDHj9_&t=367)
->> <img align="left" src="./files/555HowWorks.jpg" width=600> Se suele utilizar para estabilizar la señal que emite el 555, sin embargo también nos permite hacer un override al 2/3 Vcc con el cual es comparado el voltaje del pin2, lo cual tiene el efecto de ampliar o acortar la longitud de onda en el 555 astable. <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/>
+>> <img align="left" src="./files/555HowWorks.jpg" width=600> <br/> <br/> <br/> <br/> Se suele utilizar para estabilizar la señal que emite el 555, sin embargo también nos permite hacer un override al 2/3 Vcc con el cual es comparado el voltaje del pin2, lo cual tiene el efecto de ampliar o acortar la longitud de onda en el 555 astable. <br/> <br/> <br/> <br/> <br/> <br/> 
 > 
 > ### Other things
 >> ### [0ohm](https://0ohm.cl/)
@@ -26,7 +26,7 @@
 >> Power Supply Unit (PSU) que alimenta a un objeto en lugar de una batería
 >> 
 >> ### AC/DC coupling
->> 
+>> confused screaming
 >> 
 >> ### Calculos
 >>> ### Resistencias en paralelo
