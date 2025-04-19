@@ -8,7 +8,8 @@
  y puede resultar más práctica en su aplicación.
 
 ![tme-foto40](https://github.com/user-attachments/assets/4bc56ebf-00a5-4fc8-8d59-58c476996f01)
-Ideas de modicicaciones recuperadas de: https://www.555-timer-circuits.com
+Ideas de modificaciones recuperadas de: https://www.555-timer-circuits.com
+
 ### Mi primera soldadura
 - aprendimos a soldar placas perforadas
 - primero se conecta el cautín y se deja calentar unos cinco minutos.
