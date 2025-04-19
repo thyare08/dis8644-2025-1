@@ -14,7 +14,8 @@
 - tabla BOM en markdown
 
 ![foto36](https://github.com/user-attachments/assets/5995f2d9-560e-48dd-a5af-a8405a121ccd)
-insertar foto*
+![tme-foto37](https://github.com/user-attachments/assets/e240235a-298f-4bc4-835e-a55d1a5fce8e)
+
 | Nombre | Cantidad | Componente                    |
 |--------|----------|-------------------------------|
 | 555    | 2        | temporizador                  |
