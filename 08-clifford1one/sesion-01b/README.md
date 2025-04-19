@@ -44,7 +44,7 @@ Lo puedo comparar con el disco “The Man Machine” de Kraftwerk, en el sentido
 
 Nota: 9/10
 
-actulización 19/04
+**actualización 19/04**
 
 dentro de los instrumentos más icónicos de aphex twin se encuentran
 
@@ -60,7 +60,10 @@ dentro de los instrumentos más icónicos de aphex twin se encuentran
 
 - acordeón <https://es.wikipedia.org/wiki/Acordeón>
 
-mientras investugaba descubrí esta página que me parece muy interesante y con alto valor histórico <www.vintagesynth.com>
+fuente: [el subreddit de aphex twin](https://www.reddit.com/r/aphextwin/)
+
+mientras investigaba descubrí esta página que me parece muy interesante y con alto valor histórico <www.vintagesynth.com>
+
 
 # CULTURA ELECTRÓNICA: Internets Own Boy
 
