@@ -49,11 +49,13 @@
 ![foto31](https://github.com/user-attachments/assets/f696c017-8e36-4065-a300-ad4a669ed5bd)
 
 ### proj 1: bajando opacidad a la caja negra
-- elegimos junto a mi compañero 08-clifford1one un walkie talkie y trabajamos juntos en su figma.
+- elegimos junto a mi compañero 08-clifford1one un walkie talkie y nuestro proceso está en su hithub y en el figma.
 - está diseñado para hablar y sus interacciones son: mantener presionado para hablar, regular el volumen con la perilla y presionar el botón de frecuencia o señal.
 - tiene dos botones y una perilla, uno de los botones simula ser una perilla, pero solo funciona como pulsador, creemos que está diseñado para mantenerse en una señal, tal vez como un objeto de trabajo.
 - este obtiene su energía de un batería de 9v.
 - tiene una placa PCB, una bocina y una antena que es flexible pero no extensible.
 - tiene textos para el volumen, señal, indica el + y -, también los voltios y la marca.
 
-![foto33](https://github.com/user-attachments/assets/8b99d5cb-d595-4b4a-b780-348cb29b763e)
+![tme-foto33](https://github.com/user-attachments/assets/5a67f6ec-fc83-4216-8d53-45cd09ef97da)
+![tme-foto34](https://github.com/user-attachments/assets/4a438290-b390-4b60-93bd-6c692163bfdc)
+![tme-foto35](https://github.com/user-attachments/assets/ece66632-f6c2-4d93-887e-dad3a75a3c64)
