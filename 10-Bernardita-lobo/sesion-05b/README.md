@@ -2,7 +2,7 @@
 ## Trabajo en clase
 ### Ideas de modificaciones para el atrari punk console
 - presentamos tres ideas con mi compañero 08-clifford1one
-- la primera era un circuito que emitía una alarma cuando el otro estaba apagado, mostrando tal vez una idea más poética y con potencial conceptual.
+- la primera era un circuito que emitía una alarma cuando el otro estaba apagado, mostrando tal vez una idea con potencial conceptual.
 - la segunda propuesta era una especie de ruleta un poco compleja de realizar.
 - la tercera propuesta que fue finalmente la elegida, consiste en un circuito que emite una alarma cuando el LDR no detecta luz. esta idea tiene una carga más sensible
  y puede resultar más práctica en su aplicación.
