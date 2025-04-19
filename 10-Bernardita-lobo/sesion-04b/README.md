@@ -54,8 +54,9 @@
 - tiene dos botones y una perilla, uno de los botones simula ser una perilla, pero solo funciona como pulsador, creemos que está diseñado para mantenerse en una señal, tal vez como un objeto de trabajo.
 - este obtiene su energía de un batería de 9v.
 - tiene una placa PCB, una bocina y una antena que es flexible pero no extensible.
-- tiene textos para el volumen, señal, indica el + y -, también los voltios y la marca.
+- tiene textos para el volumen, señal, indica el + y -, también los voltios y la marca
 
-![tme-foto33](https://github.com/user-attachments/assets/5a67f6ec-fc83-4216-8d53-45cd09ef97da)
+insertar foto*
+![tme-foto33](https://github.com/user-attachments/assets/4985511b-4776-49e3-aa69-df5cab51904d)
 ![tme-foto34](https://github.com/user-attachments/assets/4a438290-b390-4b60-93bd-6c692163bfdc)
 ![tme-foto35](https://github.com/user-attachments/assets/ece66632-f6c2-4d93-887e-dad3a75a3c64)
