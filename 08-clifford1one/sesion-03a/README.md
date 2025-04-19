@@ -54,3 +54,23 @@ La voz de Mary, en mi opinión tiene semejanzas con lo clérigo, lo ritualista, 
 Por lo mismo, me parece un gran logro que stereolab sea capaz de producir instrumentales que por un lado se sienten pegajosas, y cercanos a lo "mainstream", y por otro lado tan complejas en cuanto a la cantidad de sonidos y mezclas de estos que utiliza, y a su vez, que estan mismas instrumentales acompañen de una manera hermosa la voz de Mary Hensen.
 
 nota final: 7.8/10
+
+#### instrumentos utilizados por stereolab:
+
+- moog opus 3 <https://www.vintagesynth.com/moog/opus-3>
+
+- farfisa compact dúo <https://reverb.com/es/p/farfisa-compact-duo-49-key-dual-keyboard-organ>
+
+- doepfer modular <https://doepfer.de/home_e.htm>
+
+- korg ms20 <https://www.korg.com/cl/products/synthesizers/ms_20mini/>
+
+  fuente: <https://www.reddit.com/r/stereolab/>
+
+#### influencias:
+
+stereolab se vio altamente influenciado por un movimiento/corriente de rock experimental surgido a finales de los 60 en la república federal alemana. El movimiento llamado krautrock se  caracterizaba por su alto contenido de instrumentos electrónicos, y su nombre surge porque a los alemanes se les llamaba de manera despectiva "kraut", que significa repollo, debido al alto contenido de repollo en sus comidas.
+
+Como se puede notar en el disco "dots and loops" setereolab experimenta con muchos sonidos de distintos orígenes, por lo que sun influencias son muy variadas. Desde baladas brasileñas, asta pop francés.
+
+fuente: <https://faroutmagazine.co.uk/playlist-music-shaped-stereolab/>
