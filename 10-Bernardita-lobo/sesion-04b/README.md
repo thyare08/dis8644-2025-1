@@ -1,6 +1,6 @@
 # sesion-04b
-## trabajo en clase
-### sistemas electrónicos
+## Trabajo en clase
+### Sistemas electrónicos
 - funcionamiento de 1-bit
 - CPU es unidad central de procesamiento, es un componente del hardware
 - hardware son los componentes físicos y tangibles de un sistema informático
@@ -9,29 +9,29 @@
 
 ![foto28](https://github.com/user-attachments/assets/7d0c4353-8013-4b4c-a0a5-73f847f5d0ad)
 
-### circuito electrónico monoestable
+### Circuito electrónico monoestable
 - primer circuito con un botón
 - se mantiene estable hasta que es perturbado
 - emite un único pulso de corriente durante un tiempo determinado
 
 ![foto30](https://github.com/user-attachments/assets/a5044861-b7b7-4999-9bf1-ad8a6f363bf4)
 
-### grandmother
+### Grandmother
 - sintetizadores análogos moog
 - un instrumento musical pasa de gesto a sonido
 - video: wendy carlos demonstrates her moog synthesizer
 
 ![foto29](https://github.com/user-attachments/assets/00a91f8b-9c35-44c2-8040-9c94c409347e)
 
-## encargo
-### switched on bach 
+## Encargo
+### Switched on bach 
 - por wendy carlos
 - música clásica con su síntesis traspasada a la electrónica
 - popularizó los sintetizadores moog y revolucionó la tecnología.
 - efectos de sonido y jingles
 - disruptivo para los puristas de la música
 
-### la historia de los sintetizadores moog
+### La historia de los sintetizadores moog
 - video documental "moog - la historia del sintetizador moog - BBC londres"
 - Robert Moog fue el creador de estos sintetizadores. estudió un bachillerato en la escuela de ciencias del bronx, física en el queens college, después ingeniería eléctrica en la universidad de columbia y un doctorado en ingeniería física en la universidad de cornell. es por esto que tenía una facilidad para sentir qué era lo que ocurría dentro de los transistores y las resistencias.
 - la primera reacción a este invento fue de profundo disgusto, ya que pensaban que no era natural, en algunas entrevistas que dio robert moog, le preguntaban si no se sentía culpable por lo que había creado, ya que creían que estaba destrozando la cultura de la música.
@@ -48,7 +48,7 @@
 ![foto32](https://github.com/user-attachments/assets/ed6b3444-2466-4a1d-8ae5-9e4c4eac13ca)
 ![foto31](https://github.com/user-attachments/assets/f696c017-8e36-4065-a300-ad4a669ed5bd)
 
-### proj 1: bajando opacidad a la caja negra
+### Proj 1: bajando opacidad a la caja negra
 - elegimos junto a mi compañero 08-clifford1one un walkie talkie y nuestro proceso está en su hithub y en el figma.
 - está diseñado para hablar y sus interacciones son: mantener presionado para hablar, regular el volumen con la perilla y presionar el botón de frecuencia o señal.
 - tiene dos botones y una perilla, uno de los botones simula ser una perilla, pero solo funciona como pulsador, creemos que está diseñado para mantenerse en una señal, tal vez como un objeto de trabajo.
