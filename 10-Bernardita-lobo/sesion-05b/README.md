@@ -23,4 +23,5 @@ Ideas de modificaciones recuperadas de: https://www.555-timer-circuits.com
 ## Encargo
 ### Álbum "Kind of blue"por Miles Davis
 - recomendación de Misa
+- insertar foto
 ### Modificaciones APC
