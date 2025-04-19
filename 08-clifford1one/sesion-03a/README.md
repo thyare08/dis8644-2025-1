@@ -11,6 +11,19 @@
 
 ![Foto 3 de mis apuntes en figma](tme-03a-investigacion.png)
 
+![Foto 3 de mis apuntes en figma](tme-03a-dibujo.jpg)
+
+pines:
+
+1. GND: tierra
+2. TRIGGER: da la señal de "activación"
+3. OUT: por donde sale la señal resultante
+4. RST: tiene la funcion de reiniciar el temporizador
+5. CTRL: controla el umbral(THRS)
+6. THRS: es el umbral que determina con cuanto voltaje da la señal
+7. DISCH: lleva a tierra
+8. VCC: alimentación 
+
 ## EXPERIMENTACION
 
 
