@@ -1,6 +1,8 @@
 # sesion-06a
 ## Proyecto-01
 ### LDA: Light Dependant Awelita
+todo nuestro proceso esta en la sesion 06 de clifford1one
+
 
 ## Presentaciones
 ### Grupo-02
