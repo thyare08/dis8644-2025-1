@@ -36,13 +36,15 @@ De esa experiencia rescato la importancia de entender el contexto y antecedentes
 
 ## encargo musical
 
- ### gonzalo martínez y sus cumbias pasantes
+ ### Gonzalo Martínez y sus cumbias pensantes
 
  <https://www.youtube.com/watch?v=MGBKucEQzwk>
 
  <https://www.youtube.com/watch?v=owdi6iuhx9k>
 
  <https://www.musicapopular.cl/artista/dandy-jack/>
+
+ <https://es.wikipedia.org/wiki/Gonzalo_Martínez_y_sus_congas_pensantes>
 
  Disco lanzado en el año 1997(aunque en el empaque dice 1998). El conjunto musical estaba compuesto por Jorge González y Dandy Jack (Martín Schopf).
 
@@ -52,4 +54,6 @@ De esa experiencia rescato la importancia de entender el contexto y antecedentes
 
  La forma de abordar este disco para Dandy fue, "la única forma de acercar al público chileno a la mpusica electrónica, es acercar la música electrónica al pueblo chileno". Por lo que su proyecto se componía de *covers* de cumbias chilenas, acercándose hacia lo electrónico y el sonido digital.
 
- Cuando se publicó este proyecto, estranándose en formato CD y cassette, no tuvo éxito. Vendió menos de 3mil copias. En 2014 se reeditó este disco simultaneamente en 3 paíse, Chile, Colombia y Estados Unidos. La reedición tuvo un cambio de portada, y se redujeron la cantidad de tracks de 10 a 8
+ Cuando se publicó este proyecto, estranándose en formato CD y cassette, no tuvo éxito. Vendió menos de 3mil copias. En 2014 se reeditó este disco simultaneamente en 3 paíse, Chile, Colombia y Estados Unidos. La reedición tuvo un cambio de portada, y se redujeron la cantidad de tracks de 10 a 8.
+
+ 
