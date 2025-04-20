@@ -29,14 +29,20 @@
 > ### [Mantenimiento](https://youtu.be/Pn6ZESPgxpQ?si=k4FLOCinJwCzV0uI)
 > Para garantizar una buena soldadura, hay que tener el cautín (soldering iron) en buen estado. Aquí hay algunos tips: <br/>
 >
-> 1.-Es importante prevenir la oxidación de las puntas del cautín, pues si se oxidan el estaño no se adherirá a estas. <br/> &nbsp;&nbsp;&nbsp;&nbsp;Para prevenir la oxidación hay que dejar estaño en la punta tras dejar de usar el cautín, ya que este evitará que haya contacto entre la <br/> &nbsp;&nbsp;&nbsp;&nbsp;punta y el oxigeno mientras no la usamos. <br/>
+> 1.- Es importante prevenir la oxidación de las puntas del cautín, pues si se oxidan el estaño no se adherirá a estas. <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para prevenir la oxidación hay que dejar estaño en la punta tras dejar de usar el cautín, ya que este evitará que haya contacto entre la <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;punta y el oxigeno mientras no la usamos. <br/>
 >
 > 2.- Si se va a limpiar la punta usar una esponja húmeda o la virutilla de latón (brass) <br/> <p align="center"> :warning: <strong>Nunca usar virutilla de acero o papel lija para quitar la oxidación, ya que se dañará la punta</strong> :warning: </p>
 >
-> 3.- 
+> 3.- Cada 2 o 3 soldaduras limpiar la punta (paso 2), ya que el estaño al permanecer caliente mucho tiempo pierde sus propiedades y se <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hace más dificil de utilizar <br/>
+>
+> 4.- Nunca mantener el cautín caliente por más tiempo del necesario, ya que al estar caliente se oxida más rápido <br/>
+>
+> 5.- En caso que la punta presente oxidación, usar *"tip tinner/tip activator"* para quitar la oxidación y hacer el paso 2 más facil <br/>
+>
+> 6.- Tras usar *"Flux"*, limpiar componentes electrónicos con alcohol isopropílico para prevenir corrosión <br/>
 >
 > ### Other things
 >
 >> ### Switches
 >>
->> Base dip (IC Socket)
+>> ### Base dip (IC Socket)
