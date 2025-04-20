@@ -22,7 +22,7 @@
 ### 06-Cultura electrónica europea de los 1980s y 1990s
 - álbum "perpetuum mobile" por Einstürzende Neubauten
 - estilo industrial electrónico
-- ellos fabricaban sus propios instrumentos.
+- ellos fabricaban sus propios instrumentos
 - ¿qué es el movimiento dadaísta?
 - ¿qué es un perpetuum mobile?
 
