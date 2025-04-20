@@ -26,13 +26,14 @@
 ## Encargo
 ### 10-Wendy Carlos
 - Switched on bach por wendy carlos
+- video "wendy carlos" https://youtu.be/_zjvv7n3mGQ?si=qLXQ_js-CSqN9ypS
 - música clásica con su síntesis traspasada a la electrónica
 - popularizó los sintetizadores moog y revolucionó la tecnología.
 - efectos de sonido y jingles
 - disruptivo para los puristas de la música
 
 ### La historia de los sintetizadores moog
-- video documental "moog - la historia del sintetizador moog - BBC londres"
+- video documental "moog - la historia del sintetizador moog - BBC londres" https://youtu.be/1vRtgWH2d9Q?si=DEMKQfVymHAIr2w_
 - Robert Moog fue el creador de estos sintetizadores. estudió un bachillerato en la escuela de ciencias del bronx, física en el queens college, después ingeniería eléctrica en la universidad de columbia y un doctorado en ingeniería física en la universidad de cornell. es por esto que tenía una facilidad para sentir qué era lo que ocurría dentro de los transistores y las resistencias.
 - la primera reacción a este invento fue de profundo disgusto, ya que pensaban que no era natural, en algunas entrevistas que dio robert moog, le preguntaban si no se sentía culpable por lo que había creado, ya que creían que estaba destrozando la cultura de la música.
 - si no era un instrumento de madera, metal o de cuerda, lo consideraban sospechoso.
