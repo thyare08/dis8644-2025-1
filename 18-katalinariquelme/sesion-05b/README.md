@@ -23,6 +23,18 @@ Base DIP
 
 ![Base DIP](https://github.com/user-attachments/assets/d2c8acf8-3b6b-4f27-a9d4-b4cee569287c)
 
-- **Parte 2:** Aprender a soldar con cautin en clases.
+- **Parte 2:** Aprender a soldar con cautín en clases.
 
-Video 
+Elementos necesarios para soldar:
+
+   - cautín
+estaño (comn plomo o sin plomo)
+superficie para apoyar el cautín cuando no se este utilizando.
+esponja humedecida o una especie de virutilla que eno es virutilla ( no recuerdo el nombre jaja) para limpiar la punta del cautín.
+
+
+También hay que tener en consideración los 3 pasos más importantes para lograr una buena soldadura:
+
+Calentar tanto la perfboard como la patita del componente a soldar por 3 segundos.
+Sin retirar cautín aplicar estaño.
+Retirar estaño y mantener cautín por 3 segundos.
