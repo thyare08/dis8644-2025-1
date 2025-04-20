@@ -24,7 +24,7 @@
 >> <img align="left" src="./files/Through-Hole-Soldering.jpg" width=300> <br/> <br/> the iron heats up both surfaces we want to join for a second or two, then we add the solder wire, after it melts we remove it and wait a couple seconds before removeing the iron <br/> <br/> <br/> <br/>
 >> 
 >> ### [SMD](https://youtu.be/fYInlAmPnGo?si=X_h2LHiLMA25unwe) <br/>
->> <img align="left" src="./files/Soldar_SMD.jpg" width=300> <br/> <br/> There's various methods for soldering this type of components, from the humble soldering iron (variable temperature model), a hot air gun (fine tip and variable temperature) to a more fancy [solder reflow](https://youtu.be/DYrucIWig24?si=Y5CHW0jy0_b62-el) oven/plate <br/> <br/> <br/> <br/>
+>> <img align="left" src="./files/Soldar_SMD.jpg" width=300> <br/> <br/> There's various methods for soldering this type of components, from the humble soldering iron (variable temperature model), a hot air gun (fine tip and variable temperature) to a more fancy [solder reflow](https://youtu.be/DYrucIWig24?si=Y5CHW0jy0_b62-el) oven/plate (or a [DIY reflow "iron"](https://youtu.be/C7blZigaaaA?si=EtifpZyFZAmeQf4f)) <br/> <br/> <br/> <br/>
 >> 
 > ### [Mantenimiento](https://youtu.be/Pn6ZESPgxpQ?si=k4FLOCinJwCzV0uI)
 > Para garantizar una buena soldadura, hay que tener el cautín (soldering iron) en buen estado. Aquí hay algunos tips: <br/>
