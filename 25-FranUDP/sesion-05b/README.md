@@ -8,12 +8,12 @@
 > Reconocido por su serie de libros electrónicos hechos a mano, como el [*"Engineers Notebook"*](https://github.com/alaricmoore/MiniEngineeringNotebooks/blob/main/The%20Forrest%20Mims%20Engineers%20Notebook.pdf)
 > <br/> <br/> <br/> <br/> <br/> 
 > ### ¿Para que soldar?
-> <img align="right" src="./files/solderless2.jpg" width=200> <img align="right" src="./files/solderless.jpg" width=200> <img align="right" src="./files/JST.jpg" width=200> Soldar nos permite conectar los componenetes que conforman un circuito sin tener que emplear conexiones mecánicas complejas y de gran tamaño (JST, Pernos, etc) <br/> <br/> <br/> <br/> <br/>
+> <img align="right" src="./files/solderless2.jpg" width=200> <img align="right" src="./files/solderless.jpg" width=200> <img align="right" src="./files/JST.jpg" width=200> Soldar nos permite conectar los componentes que conforman un circuito sin tener que emplear conexiones mecánicas complejas y de gran tamaño (JST, Pernos, etc) <br/> <br/> <br/> <br/> <br/>
 >
 >
 > ### Tipos de componentes
 >> ### Through-hole
->> <img align="left" src="./files/Through-Hole-Assembly.png" width=300> <br/> Son componentes con alambres como patas/terminales (los mismos que se usan en la breadboard), estas patas se meten a través de agujeros en una PCB o Perfboard y se soldan
+>> <img align="left" src="./files/Through-Hole-Assembly.png" width=300> <br/> Son componentes con alambres como patas/terminales (los mismos que se usan en la breadboard), estas patas se meten a través de agujeros en una PCB o Perfboard y se sueldan
 >> <br/> <br/> <br/> <br/>
 >> ### SMD (Surface Mount Devices)
 >> <img align="left" src="./files/smd.jpeg" width=300> <br/> <br/> Se diferencian de los anteriores por su tamaño más compacto y que en lugar de atravesar la placa, van adheridos en la superficie de esta, lo que permite poner componentes en ambos lados de la PCB, contribuyendo a un circuito más compacto.
@@ -38,7 +38,7 @@
 >
 > 4.- Nunca mantener el cautín caliente por más tiempo del necesario, ya que al estar caliente se oxida más rápido <br/> <br/>
 >
-> 5.- <img align="right" src="./files/tipTinner.jpg" width=200> En caso que la punta presente oxidación, usar *"tip tinner/tip activator"* para quitar la oxidación y hacer el <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;paso 2 más facil <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/>
+> 5.- <img align="right" src="./files/tipTinner.jpg" width=200> En caso que la punta presente oxidación, usar *"tip tinner/tip activator"* para quitar la oxidación y hacer el <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;paso 2 más fácil <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/>
 >
 > 6.- <img align="right" src="./files/flux.jpg" width=300> Tras usar *"Flux"*, limpiar componentes electrónicos con alcohol isopropílico para prevenir <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;corrosión <br/> <br/> <br/> <br/> <br/> <br/>
 >
