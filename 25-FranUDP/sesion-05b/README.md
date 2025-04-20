@@ -29,17 +29,18 @@
 > ### [Mantenimiento](https://youtu.be/Pn6ZESPgxpQ?si=k4FLOCinJwCzV0uI)
 > Para garantizar una buena soldadura, hay que tener el cautín (soldering iron) en buen estado. Aquí hay algunos tips: <br/>
 >
-> 1.- Es importante prevenir la oxidación de las puntas del cautín, pues si se oxidan el estaño no se adherirá a estas. <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para prevenir la oxidación hay que dejar estaño en la punta tras dejar de usar el cautín, ya que este evitará que haya contacto entre la <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;punta y el oxigeno mientras no la usamos. <br/>
+> 1.- <img align="right" src="./files/oxidizedTip.jpg" width=300> Es importante prevenir la oxidación de las puntas del cautín, pues si se oxidan el estaño <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;no se adherirá a estas. <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para prevenir la oxidación hay que dejar estaño en la punta tras dejar de usar el cautín, ya <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;que este evitará que haya contacto entre la punta y el oxigeno mientras no la usamos. <br/> <br/> <br/>
 >
-> 2.- Si se va a limpiar la punta usar una esponja húmeda o la virutilla de latón (brass) <br/> <p align="center"> :warning: <strong>Nunca usar virutilla de acero o papel lija para quitar la oxidación, ya que se dañará la punta</strong> :warning: </p>
+> 2.- Si se va a limpiar la punta usar una esponja húmeda o la virutilla de latón (brass) <img align="right" src="./files/brassSponge.jpg" width=100> <br/> <p align="left"> &nbsp;&nbsp;&nbsp; :warning: <strong>Nunca usar virutilla de acero o papel lija para quitar la oxidación, ya que se dañará la punta</strong> :warning: </p> <br/> <br/>
+> 
 >
-> 3.- Cada 2 o 3 soldaduras limpiar la punta (paso 2), ya que el estaño al permanecer caliente mucho tiempo pierde sus propiedades y se <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hace más dificil de utilizar <br/>
+> 3.- Cada 2 o 3 soldaduras limpiar la punta (paso 2), ya que el estaño al permanecer caliente mucho tiempo pierde sus propiedades y se <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hace más dificil de utilizar <br/> <br/>
 >
-> 4.- Nunca mantener el cautín caliente por más tiempo del necesario, ya que al estar caliente se oxida más rápido <br/>
+> 4.- Nunca mantener el cautín caliente por más tiempo del necesario, ya que al estar caliente se oxida más rápido <br/> <br/>
 >
-> 5.- En caso que la punta presente oxidación, usar *"tip tinner/tip activator"* para quitar la oxidación y hacer el paso 2 más facil <br/>
+> 5.- <img align="right" src="./files/tipTinner.jpg" width=200> En caso que la punta presente oxidación, usar *"tip tinner/tip activator"* para quitar la oxidación y hacer el <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;paso 2 más facil <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/>
 >
-> 6.- Tras usar *"Flux"*, limpiar componentes electrónicos con alcohol isopropílico para prevenir corrosión <br/>
+> 6.- <img align="right" src="./files/flux.jpg" width=300> Tras usar *"Flux"*, limpiar componentes electrónicos con alcohol isopropílico para prevenir <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;corrosión <br/> <br/> <br/> <br/> <br/> <br/>
 >
 > ### Other things
 >
