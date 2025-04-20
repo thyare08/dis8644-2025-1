@@ -27,7 +27,13 @@
 >> <img align="left" src="./files/Soldar_SMD.jpg" width=300> <br/> <br/> There's various methods for soldering this type of components, from the humble soldering iron (variable temperature model), a hot air gun (fine tip and variable temperature) to a more fancy [solder reflow](https://youtu.be/DYrucIWig24?si=Y5CHW0jy0_b62-el) oven/plate <br/> <br/> <br/> <br/>
 >> 
 > ### [Mantenimiento](https://youtu.be/Pn6ZESPgxpQ?si=k4FLOCinJwCzV0uI)
+> Para garantizar una buena soldadura, hay que tener el cautín (soldering iron) en buen estado. Aquí hay algunos tips: <br/>
 >
+> 1.-Es importante prevenir la oxidación de las puntas del cautín, pues si se oxidan el estaño no se adherirá a estas. <br/> &nbsp;&nbsp;&nbsp;&nbsp;Para prevenir la oxidación hay que dejar estaño en la punta tras dejar de usar el cautín, ya que este evitará que haya contacto entre la <br/> &nbsp;&nbsp;&nbsp;&nbsp;punta y el oxigeno mientras no la usamos. <br/>
+>
+> 2.- Si se va a limpiar la punta usar una esponja húmeda o la virutilla de latón (brass) <br/> <p align="center"> :warning: <strong>Nunca usar virutilla de acero o papel lija para quitar la oxidación, ya que se dañará la punta</strong> :warning: </p>
+>
+> 3.- 
 >
 > ### Other things
 >
