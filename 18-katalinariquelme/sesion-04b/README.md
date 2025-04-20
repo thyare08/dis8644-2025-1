@@ -9,6 +9,10 @@ Clase 08: Viernes 4 de Abril del 2025.
   - es uno de los bloques básicos de la electronica moderna.
   - el termino "transistor" proviene del acrónimo transfer resistor.
  
+Foto de mi bitácora
+
+![clase08](https://github.com/user-attachments/assets/ec3cff0d-2128-4833-a5fd-fa32e80817e8)
+
 Transistor
 
 ![transistor](https://github.com/user-attachments/assets/bc50d10f-0818-4c01-91a9-be102af37636)
