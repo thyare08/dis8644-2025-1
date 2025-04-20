@@ -4,7 +4,13 @@ Clase 9: Martes 8 de Abril del 2025.
 
 **Parte 1:** Apuntes en clases
 
-Foto de mi bitacora
+Foto de mi bitácora
+
+![clase09](https://github.com/user-attachments/assets/1d12a90e-c9ec-410a-a428-5f971c775dec)
+
+Foto de mi bitácora
+
+![clase09_2](https://github.com/user-attachments/assets/be9bc982-2fce-4933-95f7-e02d4a52d5b1)
 
 **Parte 2:** Ejercicio realizado en clases.
 
