@@ -1,8 +1,10 @@
 # sesion-06a
 ## Proyecto-01
-### LDA: Light Dependant Awelita
-todo nuestro proceso esta en la sesion 06 de clifford1one
+### Presentación de mi Grupo-07 
+- LDA: Light Dependant Awelita
+- todo nuestro proceso esta en la sesion 06a de clifford1one y en el figma 
 
+insertar foto*
 
 ## Presentaciones
 ### Grupo-02
@@ -48,3 +50,11 @@ todo nuestro proceso esta en la sesion 06 de clifford1one
 - circuito soldado no funcionó, pero es muy valorable que lo hayan intentado
 
 ![tme-foto45](https://github.com/user-attachments/assets/2cf126a6-c943-44a7-a4c5-a10a516cea15)
+
+## Encago
+### 12-Instalar kicad
+-
+-
+### 13-Documental Sisters with transistors
+-
+-
