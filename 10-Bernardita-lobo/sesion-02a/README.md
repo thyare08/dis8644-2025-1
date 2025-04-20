@@ -1,9 +1,7 @@
 # sesion-02a
 
 ## Trabajo en clase
-
 ### Circuitos eléctricos
-
 - repaso github
 - explicación dibujos esquemáticos
 - voltaje y resistencia
@@ -14,7 +12,6 @@
 ![foto11](https://github.com/user-attachments/assets/e4d63ab9-22e4-407c-9c6e-4f9ed1c03330)
 
 ## Encargo
-
 ### 04-Cultura electrónica chilena y latinoamericana
 - escuchar un álbum de Pueblo nuevo
 - álbum "el poder corrompe" por daniel jeffs
