@@ -24,8 +24,8 @@
 ![foto29](https://github.com/user-attachments/assets/00a91f8b-9c35-44c2-8040-9c94c409347e)
 
 ## Encargo
-### Switched on bach 
-- por wendy carlos
+### 10-Wendy Carlos
+- Switched on bach por wendy carlos
 - música clásica con su síntesis traspasada a la electrónica
 - popularizó los sintetizadores moog y revolucionó la tecnología.
 - efectos de sonido y jingles
@@ -48,15 +48,18 @@
 ![foto32](https://github.com/user-attachments/assets/ed6b3444-2466-4a1d-8ae5-9e4c4eac13ca)
 ![foto31](https://github.com/user-attachments/assets/f696c017-8e36-4065-a300-ad4a669ed5bd)
 
-### Proj 1: bajando opacidad a la caja negra
-- elegimos junto a mi compañero 08-clifford1one un walkie talkie y nuestro proceso está en su hithub y en el figma.
+### 11-Bajando opacidad a la caja negra
+- elegimos junto a mi compañero 08-clifford1one un walkie talkie y nuestro proceso está en el figma.
 - está diseñado para hablar y sus interacciones son: mantener presionado para hablar, regular el volumen con la perilla y presionar el botón de frecuencia o señal.
 - tiene dos botones y una perilla, uno de los botones simula ser una perilla, pero solo funciona como pulsador, creemos que está diseñado para mantenerse en una señal, tal vez como un objeto de trabajo.
 - este obtiene su energía de un batería de 9v.
 - tiene una placa PCB, una bocina y una antena que es flexible pero no extensible.
 - tiene textos para el volumen, señal, indica el + y -, también los voltios y la marca
 
-insertar foto*
+### El comienzo de los walkie talkie
+-
+-
+falta transcribir y insertar foto*
 ![tme-foto33](https://github.com/user-attachments/assets/4985511b-4776-49e3-aa69-df5cab51904d)
 ![tme-foto34](https://github.com/user-attachments/assets/4a438290-b390-4b60-93bd-6c692163bfdc)
 ![tme-foto35](https://github.com/user-attachments/assets/ece66632-f6c2-4d93-887e-dad3a75a3c64)
