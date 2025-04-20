@@ -23,10 +23,10 @@
 >> ### [Through hole](https://youtu.be/3jAw41LRBxU?si=_cKxKc2zExNf6gPp) <br/>
 >> <img align="left" src="./files/Through-Hole-Soldering.jpg" width=300> <br/> <br/> The iron heats up both surfaces we want to join for a second or two, then we add the solder wire, after it melts we remove it and wait a couple seconds before removeing the iron <br/> <br/> <br/> <br/>
 >> 
->> ### [SMD](https://youtu.be/fYInlAmPnGo?si=X_h2LHiLMA25unwe) <br/>
+>> ### [SMD](https://youtu.be/fYInlAmPnGo?si=X_h2LHiLMA25unwe) <br/> <!-- no se mencionó en clase, pero lo añado igual -->
 >> <img align="left" src="./files/Soldar_SMD.jpg" width=300> <br/> <br/> There's various methods for soldering this type of components, from the humble soldering iron (variable temperature model), a hot air gun (fine tip and variable temperature) to a more fancy [solder reflow](https://youtu.be/DYrucIWig24?si=Y5CHW0jy0_b62-el) oven/plate (or a [DIY reflow "iron"](https://youtu.be/C7blZigaaaA?si=EtifpZyFZAmeQf4f)) <br/> <br/> <br/> <br/>
 >> 
-> ### [Mantenimiento](https://youtu.be/Pn6ZESPgxpQ?si=k4FLOCinJwCzV0uI)
+> ### [Mantenimiento](https://youtu.be/Pn6ZESPgxpQ?si=k4FLOCinJwCzV0uI) <!-- no se mencionó en clase, pero lo añado igual -->
 > Para garantizar una buena soldadura, hay que tener el cautín (soldering iron) en buen estado. Aquí hay algunos tips: <br/>
 >
 > 1.- <img align="right" src="./files/oxidizedTip.jpg" width=300> Es importante prevenir la oxidación de las puntas del cautín, pues si se oxidan el estaño <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;no se adherirá a estas. <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para prevenir la oxidación hay que dejar estaño en la punta tras dejar de usar el cautín, ya <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;que este evitará que haya contacto entre la punta y el oxigeno mientras no la usamos. <br/> <br/> <br/>
@@ -56,7 +56,7 @@
 >> ### Estaño 60/40
 >> <img align="left" src="./files/60-40.jpg" width=260> <br/><br/> Es un alambre de estaño compuesto por 60% estaño (*"tin"*) y 40% plomo (*"lead"*), se suele derretir a 370°C. <br/><br/> Mientras más alto el contenido de plomo a menor temperatura se derretirá, por lo que es importante considerar que tipos de componentes y cuan sensibles son al calor (y la salud propia también) al decidir cual estaño se va a utilizar <br/><br/><br/><br/>
 >>
->> ### [Distintas puntas del cautín](https://youtu.be/_HmSQiVhQag?si=x4oVYdoZ7U9L0nP-)
+>> ### [Distintas puntas del cautín](https://youtu.be/_HmSQiVhQag?si=x4oVYdoZ7U9L0nP-) <!-- no se mencionó en clase, pero lo añado igual -->
 >> <img align="left" src="./files/tips.jpg" width=500> Cónicas: De propósito general y para detalles precisos (dependiendo del tamaño) <br/><br/> Cuchillo: Se usa para esparcir y quitar estaño <br/><br/> cincel: Permite calentar un área más grande que la cónica <br/><br/> Angulada (plana): Permite calentar una gran área y esparcir más estaño <br/><br/> Angulada (receso): Igual que la anterior, pero puede acumular más estaño <br/><br/>
 >> 
 > <br/> 
