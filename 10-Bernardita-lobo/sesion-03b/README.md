@@ -20,8 +20,8 @@
 ### 08-Cultura musical nacional
 - gonzalo martínez y sus congas pensantes
 - por jorge gonzález y dandy jack
-- video "jorge gonzález habla del disco gonzalo martínez"
-- video "gonzalo martínez y sus congas pensantes"
+- video "jorge gonzález habla del disco gonzalo martínez" https://youtu.be/MGBKucEQzwk?si=bGuyuFHy3gRyJhxA
+- video "gonzalo martínez y sus congas pensantes" https://youtu.be/owdi6iuhx9k?si=iSjnu-mXeoPZjEeD
 - cumbia electrónica para acercar la musica electrónico a sudamérica
 - jorge gonzález aprendió a utilizar el sintetizador con la pollera amarilla
 - en un principio no tuvo tanto éxito porque el público esperaba música más del estilo de los prisioneros
@@ -35,8 +35,8 @@
 - convive con los elementos simbólicos de cada móvil, reinterpretándolos
 
 ### ¿Cómo comenzó el arte electónico?
-- video "historia del arte digital, curso de dibujo digital"
-- video "arte vs nuevas tecnologías. el origen documental"
+- video "historia del arte digital, curso de dibujo digital" https://youtu.be/Yix028HJAyc?si=uyMaQ6E4KkcW0_8h
+- video "arte vs nuevas tecnologías. el origen documental" https://youtu.be/AC0_wE5L4xc?si=ClOmJyXgqM0RGPVv
 - por los años 1940 surgen nuevos paradigmas tecnológicos como la programación, sistemas generativos, software libre, código abierto y la composición basada en el azar.
 - a esto le llamamos arte de los nuevos medios, el cual puede ser arte digital, electrónico, multimedia y arte interactivo
 - el arte digital en la decada de 1960-1970, surge después de la guerra, principalmente se basaba en algoritmos, imágenes hechas por computadoras e imágenes aleatorias.
