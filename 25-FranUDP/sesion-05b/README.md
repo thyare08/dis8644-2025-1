@@ -21,7 +21,7 @@
 >
 > ### Cómo soldar
 >> ### [Through hole](https://youtu.be/3jAw41LRBxU?si=_cKxKc2zExNf6gPp) <br/>
->> <img align="left" src="./files/Through-Hole-Soldering.jpg" width=300> <br/> <br/> the iron heats up both surfaces we want to join for a second or two, then we add the solder wire, after it melts we remove it and wait a couple seconds before removeing the iron <br/> <br/> <br/> <br/>
+>> <img align="left" src="./files/Through-Hole-Soldering.jpg" width=300> <br/> <br/> The iron heats up both surfaces we want to join for a second or two, then we add the solder wire, after it melts we remove it and wait a couple seconds before removeing the iron <br/> <br/> <br/> <br/>
 >> 
 >> ### [SMD](https://youtu.be/fYInlAmPnGo?si=X_h2LHiLMA25unwe) <br/>
 >> <img align="left" src="./files/Soldar_SMD.jpg" width=300> <br/> <br/> There's various methods for soldering this type of components, from the humble soldering iron (variable temperature model), a hot air gun (fine tip and variable temperature) to a more fancy [solder reflow](https://youtu.be/DYrucIWig24?si=Y5CHW0jy0_b62-el) oven/plate (or a [DIY reflow "iron"](https://youtu.be/C7blZigaaaA?si=EtifpZyFZAmeQf4f)) <br/> <br/> <br/> <br/>
@@ -55,4 +55,8 @@
 >>
 >> ### Estaño 60/40
 >> <img align="left" src="./files/60-40.jpg" width=260> <br/><br/> Es un alambre de estaño compuesto por 60% estaño (*"tin"*) y 40% plomo (*"lead"*), se suele derretir a 370°C. <br/><br/> Mientras más alto el contenido de plomo a menor temperatura se derretirá, por lo que es importante considerar que tipos de componentes y cuan sensibles son al calor (y la salud propia también) al decidir cual estaño se va a utilizar <br/><br/><br/><br/>
+>>
+>> ### [Distintas puntas del cautín](https://youtu.be/_HmSQiVhQag?si=x4oVYdoZ7U9L0nP-)
+>> <img align="left" src="./files/tips.jpg" width=500> Cónicas: De propósito general y para detalles precisos (dependiendo del tamaño) <br/><br/> Cuchillo: Se usa para esparcir y quitar estaño <br/><br/> cincel: Permite calentar un área más grande que la cónica <br/><br/> Angulada (plana): Permite calentar una gran área y esparcir más estaño <br/><br/> Angulada (receso): Igual que la anterior, pero puede acumular más estaño <br/><br/>
+>> 
 > <br/> 
