@@ -1,4 +1,5 @@
 # sesion-04b
+
 interfaz: carcasa, boton, perilla, etc 
 
 la carcasa de los aparatos electronicos, espacio donde converhgen dos sistemas
@@ -19,9 +20,12 @@ botones
 https://github.com/user-attachments/assets/ca3323b2-94a3-4b99-a97b-b266446fd123
 
 
-# encargo01
+## encargo01
+
 escuchar switched on bach (wendy carlos)
-# encargo02
+
+## encargo02
+
 bajando opacidad a la caja negra
 
 Con Sofía Cartes, Anais Marschhausen y Valentina Ruz
