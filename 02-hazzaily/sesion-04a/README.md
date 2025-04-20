@@ -4,18 +4,18 @@
 
 Parte 01:
 
- - Proyecto-01
- - Atari Punk Console (APC).
+- Proyecto-01
+- Atari Punk Console (APC).
 
 Foto de mi croquera.
 
 ![APC](https://github.com/user-attachments/assets/29628262-fc70-4f9f-9d20-b8dae98977a3)
 
-El PC es un oscilador de onda cuadrada que utiliza 2 chip 555, y su circuito original apareció por primera vez en la revista: "Engineer's Notebook: Integradted Circuit Applications" en 1980. Fue nombrada de esta forma debido a que sus sonidos "lo-fi" se asemejan a sonidos clásicos de los juegos de los juegos Atari de los años 80.
+El APC es un oscilador de onda cuadrada que utiliza 2 chip 555, y su circuito original apareció por primera vez en la revista: "Engineer's Notebook: Integradted Circuit Applications" en 1980. Fue nombrada de esta forma debido a que sus sonidos "lo-fi" se asemejan a sonidos clásicos de los juegos de los juegos Atari de los años 80.
 
 Parte 02:
 
- - Realización del circuito APC.
+- Realización del circuito APC.
 
 Foto circuito esquemático.
 
@@ -31,10 +31,8 @@ Foto del circuito realizado. Parte 2.
 
 Video del sonido.
 
-https://github.com/user-attachments/assets/d696cedd-04a0-4f29-a07d-df0cc13e28a9
+<https://github.com/user-attachments/assets/d696cedd-04a0-4f29-a07d-df0cc13e28a9>
 
- - **Encargo 10:** Escuchar el álbum **"1 bit Symphony"** de Tristan Perich.
+- **Encargo 10:** Escuchar el álbum **"1 bit Symphony"** de Tristan Perich.
 
 Foto de mi croquera.
-
-
