@@ -45,5 +45,14 @@
 > ### Other things
 >
 >> ### Switches
+>> 
 >>
 >> ### Base dip (IC Socket)
+>> 
+>>
+>> ### [Cable AWG-26 (American Wire Gauge 26)](https://www.tarluz.com/es/copper-network/which-utp-cable-wire-gauge-should-i-choose-awg24-awg26-or-awg28/)
+>> <img align="left" src="./files/AWG26.png" width=260> <br/><br/><br/><br/> Es un cable barato y de diámetro pequeño, ideal para circuitos con poca corriente <br/><br/><br/><br/><br/><br/><br/>
+>>
+>> ### Estaño 60/40
+>> <img align="left" src="./files/60-40.jpg" width=260> <br/><br/> Es un alambre de estaño compuesto por 60% estaño (*"tin"*) y 40% plomo (*"lead"*), se suele derretir a 370°C. <br/><br/> Mientras más alto el contenido de plomo a menor temperatura se derretirá, por lo que es importante considerar que tipos de componentes y cuan sensibles son al calor (y la salud propia también) al decidir cual estaño se va a utilizar <br/><br/><br/><br/>
+>> 
