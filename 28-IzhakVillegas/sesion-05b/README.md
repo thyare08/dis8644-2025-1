@@ -1,6 +1,6 @@
 # sesion-05b
 
-##  Soldadura de PCBs y diferencia con Panel
+## Soldadura de PCBs y diferencia con Panel
 
 _Protoboard_, _perfboard_ y PCB.
 
@@ -22,35 +22,35 @@ Para instalar ICs como el 555 no se recomienda directamente soldar dicho chip a 
 
 ### _Perfboard_ PY-Z*9CM
 
-###  Botón pulsador tipo DIP de 4 pines
+### Botón pulsador tipo DIP de 4 pines
 
 <p align= center><img src="./archivos/boton_pulsador_dip.webp"></p>
 
 Es un micro-interruptor que se utiliza para configurar dispositivos electrónicos. Permite el flujo de corriente mientras es accionado, suele utilizarse en dispositivos de audio, oficina, comunicación, medición, televisores, grabadoras de video, equipos automotrices.
 
-###  Potenciómentro para PCB
+### Potenciómentro para PCB
 
 <p align= center><img src="./archivos/potenciometro_pcb.jpg" width= 500></p>
 
 Se suelen utilizar en circuitos de poca corriente. Controla motores, sensores y sistemas de medición. Calibra equipos, ajusta señales, mejora precisión de procesos automatizados y realiza ajustes de circuito en todo tipo de equipos electrónicos.
 
-###  Potenciómetro para panel
+### Potenciómetro para panel
 
 <p align= center><img src="./archivos/potenciometro_cable.jpg" width= 500></p>
 
 Similar al potenciómetro para PCB este componente suele estar conectado a cables y no directamente a la placa.
 
-###  Cables AWG26
+### Cables AWG26
 
 <p align= center><img src="./archivos/cables_awg.jpg" width=500></p>
 
 Cable eléctrico de calibre 26, AWG significa _American Wire Gauge_ (Calibre de Alambre Estadounidense), un estándar para medir diámetros de cable. El valor delante del AWG indica el número de orificios por los que pasa el cable antes de formar su diámetro final. A mayor valor de AWG, mayor diámetro del cable. No son costosos ni complejos de instalar, son de uso residencial. Los utilizamos, en este caso, para soldar un circuito.
 
-###  Cables AWG24
+### Cables AWG24
 
 Son más gruesos que los AWG26 y son resistentes, transporta más corriente que calibres más delgados, suele ser utilizado para electrodomésticos, proyectos electrónicos, cables Ethernet y conexiones USB.
 
-##  ¿Cómo soldar circuitos?
+## ¿Cómo soldar circuitos?
 
 <p align= center><img src="./archivos/soldadura_placa.jpg" width=500></p>
 
@@ -66,21 +66,20 @@ Incluye un hilo para colocar una **tuerca**, y debe llevarse con cables.
 
 ## **A considerar sobre Solemne 1.**
 
-*  Intro, premisa.
-*  Anatomía física.
-*  Bitácora multimedia.
-*  Esquema eléctrico.
-*  _Bill of materials_.
-*  Referencias en foros.
-*  Presentación oral en base a _Github_.
-*  Funcionamiento y robustez electromecánica.
-
+* Intro, premisa.
+* Anatomía física.
+* Bitácora multimedia.
+* Esquema eléctrico.
+* _Bill of materials_.
+* Referencias en foros.
+* Presentación oral en base a _Github_.
+* Funcionamiento y robustez electromecánica.
 
 ## **solemne_01** Circuito _Atari Punk Console_
 
 **Grupo:**
   
-*  Antonia Fuentealba
-*  Sofía Pérez
-*  Félix Rodriguez
-*  Izhak Villegas
+* Antonia Fuentealba
+* Sofía Pérez
+* Félix Rodriguez
+* Izhak Villegas
