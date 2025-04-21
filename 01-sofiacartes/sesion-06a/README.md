@@ -118,7 +118,7 @@ imágen de: <https://mujeresconciencia.com/2020/11/12/daphne-oram-la-ingeniera-d
 
 Compositora de música electrónica de nacionalidad británica, fue una de las fundadoras de la BBC Radiophonic Workshop, estudio de producción y experimentación de música electrónica, sonidos para radio y televisión.
 
-Creó técnicas de síntesis de sonido en sus composiciones. Desarrollo del **Oramics Machine**, un dispositivo que permitía generar sonidos electrónicos mediante el uso de ondas de luz y dibujos en una tira de película. 
+Creó técnicas de síntesis de sonido en sus composiciones. Desarrolló del **Oramics Machine**, un dispositivo que permitía generar sonidos electrónicos mediante el uso de ondas de luz y dibujos en una tira de película. 
 
 <img width="659" alt="oramic machine" src="https://github.com/user-attachments/assets/420f011a-a73b-48c4-9ec8-9f189610b435" />
 
