@@ -5,9 +5,9 @@
 ### Presentación de mi Grupo-07 
 
 - LDA: Light Dependant Awelita
-- todo nuestro proceso esta en la sesion 06a de clifford1one y en el figma 
+- todo nuestro proceso esta en la sesion 06a de clifford1one y en el figma https://www.figma.com/board/2tv4jx75qGZa6Gua2UCVer/taller.maq.electr?node-id=0-1&t=aBNh63yuq9MDT4AI-1
 
-insertar foto*
+![tme-sesion06a-foto01](https://github.com/user-attachments/assets/c2cc97c2-12ce-4752-a620-c4cc16a9a289)
 
 ## Presentaciones
 
@@ -63,8 +63,12 @@ insertar foto*
 ## Encago
 
 ### 12-Instalar kicad
--
--
+- kicad me lo instalé aquí: https://www.kicad.org/download/
+- decidí instalarme el de Norteamérica porque pensé que iba a estar en inglés, pero no fue así.
+- aquí adjunto unas fotos de todo el proceso de instalación.
+
+![tme-sesion06a-foto07](https://github.com/user-attachments/assets/c2d28119-9a9f-4e70-950b-042ca5d9e95c)
+
 ### 13-Documental Sisters with transistors
 
 - este dumental trata de..
