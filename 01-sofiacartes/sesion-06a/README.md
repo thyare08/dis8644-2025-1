@@ -126,7 +126,7 @@ imágen de: <https://120years.net/oramicsdaphne-oramuk1959-2/>
 
 _Por ota parte, me pareció interesante esta página web: <https://www.daphneoram.org/oramicsmachine/>_
 
-## disco Oramics (2007) - Daphne Oram
+## Disco Oramics (2007) - Daphne Oram
 
 Género: electrónica.
 
