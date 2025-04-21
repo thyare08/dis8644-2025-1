@@ -26,4 +26,3 @@ Cada cuadernillo incluye:​
 Hacker News
 
 - El estilo visual es muy característico: páginas con fondo cuadriculado, escritura manuscrita y dibujos simples pero precisos.
-
