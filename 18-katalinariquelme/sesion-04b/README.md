@@ -8,7 +8,7 @@ Clase 08: Viernes 4 de Abril del 2025.
   - es un dispositivo electrónico utilizado para amplificador o cambiar señales y potencias electronicas.
   - es uno de los bloques básicos de la electronica moderna.
   - el termino "transistor" proviene del acrónimo transfer resistor.
- 
+
 Foto de mi bitácora
 
 ![clase08](https://github.com/user-attachments/assets/ec3cff0d-2128-4833-a5fd-fa32e80817e8)
@@ -17,11 +17,10 @@ Transistor
 
 ![transistor](https://github.com/user-attachments/assets/bc50d10f-0818-4c01-91a9-be102af37636)
 
-
 - ¿Qué es un CPU?
   - es una unidad central de procedimiento o procesador.
   - es un componente de hardware dentro de un ordenador, telefonos inteligentes, y otros dispositivos programados.
- 
+
   CPU
 
   ![CPU](https://github.com/user-attachments/assets/eca8b7c2-1cd8-4373-8f73-37e8d084827a)
@@ -31,9 +30,9 @@ Transistor
 
 Además, la palabra interfaz, de acuerdo con la propuesta teórica de Carlos Alberto Scolari, se puede utilizar en distintos contextos:
 
-  - **Interfaz como instrumento:** desde esta perspectiva, la interfaz es una «prótesis» o «extensión» (McLuhan) de nuestra computadora. El ratón es un instrumento que extiende las funciones de nuestra mano y las lleva a la pantalla bajo forma del cursor. Así, por ejemplo, la pantalla de una computadora es una interfaz entre el usuario y el disco duro de la misma.
-  - **Interfaz como superficie:** algunos consideran que la interfaz nos trasmite instrucciones («affordances») que nos informan sobre su uso. La superficie de un objeto (real o virtual), nos habla por medio de sus formas, texturas, colores, etc. Y esto es especialmente cierto cuando nos referimos a un rostro humano.
-  - **Interfaz como espacio:** desde esta perspectiva, la interfaz es el lugar de la interacción, el espacio donde se desarrollan los intercambios y sus manualidades.
+- **Interfaz como instrumento:** desde esta perspectiva, la interfaz es una «prótesis» o «extensión» (McLuhan) de nuestra computadora. El ratón es un instrumento que extiende las funciones de nuestra mano y las lleva a la pantalla bajo forma del cursor. Así, por ejemplo, la pantalla de una computadora es una interfaz entre el usuario y el disco duro de la misma.
+- **Interfaz como superficie:** algunos consideran que la interfaz nos trasmite instrucciones («affordances») que nos informan sobre su uso. La superficie de un objeto (real o virtual), nos habla por medio de sus formas, texturas, colores, etc. Y esto es especialmente cierto cuando nos referimos a un rostro humano.
+- **Interfaz como espacio:** desde esta perspectiva, la interfaz es el lugar de la interacción, el espacio donde se desarrollan los intercambios y sus manualidades.
 
 Carlos Alberto Scolari
 
@@ -44,6 +43,7 @@ Carlos Alberto Scolari
 ![PHOTO-2025-04-05-17-27-35](https://github.com/user-attachments/assets/2c21161e-c1e3-419f-985c-a15545f88b0e)
 
 **Parte 3:** Encargo 11
+
 - Escuchar Switched on bach de Wendy Carlos.
 
 **Contexto**
@@ -53,6 +53,7 @@ Walter Carlos, mejor conocida como Wendy Carlos nació el 14 de noviembre de 193
 Considerada una artista innovadora entre sus obras más célebres figuran Switched-On Bach (1968), ganardonada con tres Premios Grammy,en la que reinterpretaba electrónicamente composiciones de Johann Sebastian Bach,​ o las bandas sonoras para las películas The Clockwork Orange (1971)​ y The Shining (1980), dirigidas por Stanley Kubrick, y Tron (1982),​ dirigida por Steven Lisberger.
 
 **Disco: Switched on Bach**
+
 - Switched-On Bach, en español Conectado a Bach lanzado en 1968, fue tal vez el primer disco en intentar el empleo de sintetizadores como una alternativa a la orquesta.
 - El disco es una reintrepretación innovadora de obras de Johann Sebastian Bach mezclado con sintetizadores Moog.
 - Switched-On Bach alcanzó el número 10 en la lista Billboard 200 de Estados Unidos y encabezó la lista Billboard Classical Albums de 1969 a 1972. Para junio de 1974, había vendido más de un millón de copias, y en 1986 se convirtió en el segundo álbum clásico en obtener un disco de platino . En 1970, ganó los premios Grammy al Mejor Álbum Clásico , a la Mejor Interpretación Clásica - Solista Instrumental (Con o Sin Orquesta) y a la Mejor Ingeniería de Grabación Clásica .
@@ -79,4 +80,3 @@ Opinión del disco: La verdad me sorprendio de manera positiva este disco, debid
 ![5](https://github.com/user-attachments/assets/d14cd502-1cbe-49c2-b808-861b1a1f6bdd)
 
 ![6](https://github.com/user-attachments/assets/450a8ee9-d2fb-459b-aa66-272af19805c3)
-

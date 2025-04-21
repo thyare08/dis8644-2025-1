@@ -18,7 +18,6 @@ Fotos de componentes vistos en clases:
 
 ![image](https://github.com/user-attachments/assets/fe6cb4ec-adfd-43f6-83e8-8491e26a06cb)
 
-
 - Base DIP
 
 ![Base DIP](https://github.com/user-attachments/assets/d2c8acf8-3b6b-4f27-a9d4-b4cee569287c)
@@ -32,7 +31,7 @@ Elementos necesarios para soldar:
 - superficie para apoyar el cautín cuando no se este utilizando.
 - esponja humedecida o una especie de virutilla que es no es virutilla ( no recuerdo el nombre jaja) para limpiar la punta del cautín.
 
-También aprendimos en clases que hay que tener en consideración 3 pasos para lograr una buena soldadura: 
+También aprendimos en clases que hay que tener en consideración 3 pasos para lograr una buena soldadura:
 
 Paso 1: calentar tanto la placa como la patita del componente a soldar por 3 segundos.
 
@@ -42,4 +41,4 @@ Paso 3: luego retirar el estaño y mantener cautín por 3 segundos mas.
 
 **Video de primera soldadura:**
 
-https://github.com/user-attachments/assets/717e989d-bc7a-43f8-81a1-a1a874906538
+<https://github.com/user-attachments/assets/717e989d-bc7a-43f8-81a1-a1a874906538>
