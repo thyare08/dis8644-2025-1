@@ -13,6 +13,12 @@
 
 Ideas de modificaciones recuperadas de: <https://www.555-timer-circuits.com>
 
+### Componentes para PCB y para panel
+
+- componentes para PCB: son aquellos que se sueldan directamente en la placa electrónica y tienen terminales diseñadas para encajar en la PCB, como los pines.
+- en los componentes para pcb tenemos dos tipos: tht (through hole technology), que es cuando los pines de los componentes atraviesan la placa a través de un agujero; y smd (surface mount technology), que es cuando los componentes se adhieren directamente a la superficie sin necesidad de perforaciones, esto permite fabricar placas más pequeñas.
+- componentes para panel: van en la carcasa del producto, no en la PCB, se fijan con tornillos o tuercas y se conectan a la placa mediante cables.
+
 ### Mi primera soldadura
 
 - aprendimos a soldar placas perforadas.
