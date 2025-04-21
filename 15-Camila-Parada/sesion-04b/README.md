@@ -1,8 +1,9 @@
 # ⋆₊˚⊹♡ Clase 04b - Segundos avances ♡⊹˚₊⋆
-##### _Viernes 4/04/2024_
+
+## _Viernes 4/04/2024_
 
 ***
- 
+
 ### Observaciones
 
 <!---Recordar para programar "md" (markdown): 
@@ -12,7 +13,7 @@
 Al comienzo de la clase se trató de poder analizar y revisar los primeros objetos traídos por algunos alumnos para poder hablar de estos y comprender la estructura de su carcasa y el circuito, además de poder teorizar sobre su posible funcionalidad (en el caso de un control de juguete). Pudimos hablar y revisar distintos sintetizadores, revisando cómo era cada producto junto con sus características. De todos los que vimos, sólo 1 fue puesto a prueba: El sintetizador Grandmother de la compañía Moog. Tras poder experimentar con este durante el recreo comenzó la etapa para rearmar circuítos, volviendo a revisar y rehacer el circuito del Atari Punk Console.
 
 ***
- 
+
 ### Escaneo de bitácora y apuntes escritos del día
 
 <br>
@@ -97,9 +98,9 @@ Al costado del paquete se muestran las versiones de dicho juguete mediante imág
 
 <br>
 
-Página original de la tienda en la que compré el producto. 
+Página original de la tienda en la que compré el producto.
 
-- Link: https://bix.cl/products/pelota-voladora-con-luz-y-usb?variant=48257994064152
+- Link: <https://bix.cl/products/pelota-voladora-con-luz-y-usb?variant=48257994064152>
 
 <br>
 
@@ -109,13 +110,13 @@ Página original de la tienda en la que compré el producto.
 
 Como primera búsqueda y consultando directamente con el nombre de "dron con luz" pude indagar y ver que este producto lleva cerca de 8 u más años en el mercado, encontrando páginas web como Temu que también venden el artículo y poseen más información complementaria sobre el objeto.
 
-- Link: https://share.temu.com/6X3VJrisvnA
+- Link: <https://share.temu.com/6X3VJrisvnA>
 
 <br>
 
 Además, pude encontrar un video en Youtube por la mano de unos creadores de contenido muy conocidos "Experimentos caseros", el cuál habla sobre el producto y lo ponen a prueba.
 
-- Link: https://youtu.be/QwVMbZH8AtY?si=SIBjLOZ4M9sh5gxf
+- Link: <https://youtu.be/QwVMbZH8AtY?si=SIBjLOZ4M9sh5gxf>
 
 <br>
 
@@ -127,4 +128,4 @@ Estoy cansada...me cuesta descansar ૮◞ ﻌ ◟ა
 
 ***
 
- ##### *°˖✧◝(⁰▿⁰)◜✧˖°*
+##### _°˖✧◝(⁰▿⁰)◜✧˖°_
