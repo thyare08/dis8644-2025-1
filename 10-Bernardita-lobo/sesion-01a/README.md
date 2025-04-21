@@ -1,6 +1,7 @@
 # sesión-01a
 
 ## trabajo en clase
+
 ### conociendo el taller máquinas electrónicas
 
 - ¿que experiencias hemos tenido con la electrónica?
@@ -14,13 +15,16 @@
 ![foto7](https://github.com/user-attachments/assets/2f946879-bd3c-496a-9e08-25af20795c02)
 
 ## Encargo
+
 ### 00-Barrio universitario
+
 - barrio universitario es una película chilena de comedia, se estrenó el 25 de julio del 2013.
 - esta historia se desarrolla en un contexto universitario, los protagonistas se inscriben en una competencia de robótica con el objetivo de conquistar a una chica de una universidad más prestigiosa. cuando reciben el primer fondo para comenzar a trabajar, se lo gastan en puras tonteras, lo que los obliga a improvisar. de alguna manera su proyecto casi hecho de basura es seleccionado por considerarse una propuesta sustentable, a lo largo de la película pasan por un largo proceso y logran crear un proyecto final de forma ingeniosa. además de esto, también enfrentan tensiones, malentendidos y conflictos dentro de su grupo de amistades.
 - dentro de esta película podemos ver una clara crítica social y cómo se perpetúan estereotipos. siento que lograron abordar bien lo que querían comunicar a través del humor y la sátira. aunque no tenía muchas expectativas, me gustó la película, aunque en algún momento me pareció un poco lenta y predecible, no la volvería a ver, pero también estoy feliz de haberla visto.
 - les dejo este video de 42 razones para ver Barrio universitario https://youtu.be/2eGPD23Sn10?si=gyEDcZvTY5J39IQv
 
 ### 00-Kraftwerk
+
 - albúm "man machine" y "tour de france"
 - tecnología de vanguardia
 - arte socialista constructivista
