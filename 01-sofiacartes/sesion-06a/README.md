@@ -91,7 +91,7 @@
 
 <https://github.com/user-attachments/assets/0be9c8a3-4105-4911-8076-4f51efa54e32>
 
-## Bitácora en clases
+## Bitácora en clases 15/04
 
 ![IMG_0969](https://github.com/user-attachments/assets/9336d784-5ffc-4e4b-bbd3-edd370f6dbc2)
 ![IMG_0970](https://github.com/user-attachments/assets/a63dba0b-3693-4900-bae3-888fb07f788b)
