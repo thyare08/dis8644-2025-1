@@ -1,7 +1,9 @@
 # sesion-03b
 
 ## Trabajo en clase
+
 ### Circuito electrónico aplicado
+
 - oscilador astable
 - circuito electrónico con sensor de luz
 - circuito electrónico con bocina
@@ -11,13 +13,16 @@
 ![foto18](https://github.com/user-attachments/assets/251fa9e9-4619-494f-a632-ad9c42afed2a)
 
 ### Visita al museo de arte contemporáneo
+
 - museo de arte contemporáneo en quinta normal
 
 ![foto19](https://github.com/user-attachments/assets/31c52a92-ea47-4b32-ba07-a9b23b5ed794)
 ![foto20](https://github.com/user-attachments/assets/e1725458-b276-4181-9756-b477db835a50)
 
 ## Encargo
+
 ### 08-Cultura musical nacional
+
 - gonzalo martínez y sus congas pensantes
 - por jorge gonzález y dandy jack
 - video "jorge gonzález habla del disco gonzalo martínez" https://youtu.be/MGBKucEQzwk?si=bGuyuFHy3gRyJhxA
@@ -29,12 +34,14 @@
 ![foto23](https://github.com/user-attachments/assets/12a8a261-94ed-46ee-937b-19d2443d4a4f)
 
 ### 09-Apuntes sobre visita al museo de arte contemporáneo
+
 - ¿cómo se relaciona la electrónica con el arte?
 - exposición museo en estéreo
 - sonidos con su propia identidad
 - convive con los elementos simbólicos de cada móvil, reinterpretándolos
 
 ### ¿Cómo comenzó el arte electónico?
+
 - video "historia del arte digital, curso de dibujo digital" https://youtu.be/Yix028HJAyc?si=uyMaQ6E4KkcW0_8h
 - video "arte vs nuevas tecnologías. el origen documental" https://youtu.be/AC0_wE5L4xc?si=ClOmJyXgqM0RGPVv
 - por los años 1940 surgen nuevos paradigmas tecnológicos como la programación, sistemas generativos, software libre, código abierto y la composición basada en el azar.
