@@ -2,8 +2,8 @@
 
 ## Documental Sisters with transistors 
 
-Se estrenó en marzo de 2020; **Sisters with transistors** es el primer largometraje documental de Lisa Rovner.
-La cual da a conocer las historias de las pioneras de la música electrónica, compositoras que adquirieron las máquinas y nuevas tecnologías.
+Se estrenó en marzo de 2020; **Sisters with transistors** es el primer documental largometraje de Lisa Rovner.
+La cual, da a conocer las historias de las pioneras de la música electrónica, compositoras que adquirieron las máquinas y nuevas tecnologías.
 
 Me gustó bastante el documental ya que, hace ver que las mujeres en la música electrónica son increíbles, ya que hablan de sus inicios y cuales fueron sus primeros acercamientos en el atre y la tecnología. También encuentro muy acertivo que tenga archivos visuales, entrevistas y la música de estas artistas porque, hace mas interesante sus procesos de creación musical, utilizando herramientas que no estaban usualmete conocidas en la época.
 
