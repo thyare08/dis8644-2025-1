@@ -1,15 +1,19 @@
 # sesion-05a
+
 ## Trabajo en clase
+
 ### Feedback aprendido del desarme electrónico
+
 - existen componentes para soldarlos sobre la placa y otros componentes integrados.
-- SMD (surface-mount device) y SMT (surface-mount technology) 
+- SMD (surface-mount device) y SMT (surface-mount technology)
 - led smd (surface-mount device)
 - la velocidad del sonido depende de la temperatura y de la humedad.
 - pitch es como humanamente percibimos las frecuencias.
 
 ### Atari punk console
-- primera vez que logre hacer el circuito atari punk console
-- moddin APC y esquema APC
+
+- primera vez que logré hacer el circuito Atari Punk Console.
+- modding APC y esquema APC
 - lista de componentes
 - tabla BOM en markdown
 
@@ -29,11 +33,13 @@
 | Pienzo | 1        | pienzo                        |
 
 ## Encargo
+
 ### Trabajo en casa
+
 - trabajo en grupo con 08-clifford1one para reintentar hacer el atari punk console.
 - por primera vez siento que entiendo y logro traspasar un esquema a la proboard
 - aprendí a hacer circuitos en tinkercad.
-- conversamos ideas para las modificaciones al APC
+- conversamos ideas para las modificaciones al APC.
 
 ![foto35](https://github.com/user-attachments/assets/26a1ac10-08c3-42ce-b5e6-2549679b955f)
 ![foto39](https://github.com/user-attachments/assets/8be02243-0789-46c4-baa5-d28f26ae1c56)

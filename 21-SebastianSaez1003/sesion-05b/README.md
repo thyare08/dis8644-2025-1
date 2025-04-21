@@ -1,12 +1,12 @@
 # sesion-05b
-### Módulo de la mañana
+
+## Módulo de la mañana
 
 Grupos voluntarios presentaron sus distintos proyectos.
 
 Mientras que yo y mi grupo nos pusimos a experimentar en la modificación del Atari Punk Console.
 
-
-### Módulo después del break
+## Módulo después del break
 
 Nos pasaron una placa perforada que, por desgracia, no nos podemos comer.
 
@@ -18,8 +18,6 @@ Hay 2 conceptos importantes al momento de soldar, el pad, que se refiere a toda 
 
 Limpio el cautín, después precaliento por 3 segundos la placa y la patita, meto soldadura, 1, 2, 3 y saco.
 
-El ROHS es una certificación de soldadura, la cual tiene una pequeña cantidad de plomo.
+El ROHS es una certificación, implica que la soldadura no tiene plomo.
 
-Si se nos unen 2 patitas, tenemos que usar el cautín como cortar cartón para poder separarlos.
-
-
+Si se nos unen 2 patitas con soldadura, tenemos que usar el cautín como cortar cartón para poder separarlos.

@@ -1,36 +1,24 @@
 # sesion-04b
+
 poner apuntes clase viernes 4 abril
 
-
-
-
-
-
-
-
-
-
 ## encargo 1 - switched on bach (wendy carlos)
-Tuve una semana media complicada, pero me hice tiempo para escuchar diversos temas. Fui escuchando en tandas, al escucharlo asi no logre obtener una cancion para dejar como favorita. Al escuchar el album genera una atmósfera singular, futurista mezclada con algo antiguo, fusionando de una manera que hay armonia entre las dos. Me hace pensar en una banda sonora de un juego pixel art medieval caricaturesco con sintetizador. Tambien me recuerda a un juego llamado narita boy, en el cual se hace una mezcla de los 80s con el futuro.
 
-En este album se reinterpretó obras de Bach. La compositora, trabajó en bandas sonoras de películas como A Clockwork Orange y Tron. como una de las primeras figuras trans públicas en el Wendy Carlos es una figura clave en la evolución de la música electrónica.
+Tuve una semana media complicada, pero me hice tiempo para escuchar diversos temas. Fui escuchando en tandas, al escucharlo así no logré obtener una cancion para dejar como favorita. Al escuchar el album genera una atmósfera singular, futurista mezclada con algo antiguo, fusionando de una manera que hay armonia entre las dos. Me hace pensar en una banda sonora de un juego pixel art medieval caricaturesco con sintetizador. Tambien me recuerda a un juego llamado narita boy, en el cual se hace una mezcla de los 80s con el futuro.
+
+En este álbum se reinterpretó obras de Bach. La compositora, trabajó en bandas sonoras de películas como A Clockwork Orange y Tron. como una de las primeras figuras trans públicas en el Wendy Carlos es una figura clave en la evolución de la música electrónica.
 
 ![image](https://github.com/user-attachments/assets/7f9c2fa7-798e-4b70-aa2e-df973d7fd77c)
-
-
- 
-
 
 ## encargo 2 - bajando opacidad a la caja negra
 
 ### Reproductor mp3 - Dynatech
 
-Este reproductor me ha acompañado durante mucho tiempo. Cada cierto tiempo cambiaba las canciones por tandas, para no aburrirme de escuchar lo mismo. Lo usaba mientras dibujaba o iba en el metro. Con el tiempo quedó medio obsoleto por diversas razones, como la llegada de un teléfono a mis manos, el cual ya contaba con un reproductor de música. Hoy en día es casi un milagro ver a alguien utilizando uno de estos. Me gustaba lo compacto que era, y de más está decir que su diseño tipo británico le daba un toque único. 
-
+Este reproductor me ha acompañado durante mucho tiempo. Cada cierto tiempo cambiaba las canciones por tandas, para no aburrirme de escuchar lo mismo. Lo usaba mientras dibujaba o iba en el metro. Con el tiempo quedó medio obsoleto por diversas razones, como la llegada de un teléfono a mis manos, el cual ya contaba con un reproductor de música. Hoy en día es casi un milagro ver a alguien utilizando uno de estos. Me gustaba lo compacto que era, y de más está decir que su diseño tipo británico le daba un toque único.
 
 ![Captura de pantalla 2025-04-08 020016](https://github.com/user-attachments/assets/a205a71a-6b5a-4965-8cc1-980ed474e62f)
 
-El mp3 se puede conectar directamente a un puerto USB para cargar música y/o batería. Al conectar el usb bloquea su uso, los botones no funcionan durante la conexión. La navegación se hace mediante un botón circular multifunción (M, ▶||, ←, →, etc.). Reproduce música por audífonos con salida jack de 3.5 mm y permite conectar un cable auxiliar para conectarse a un parlante. En su costado cuenta con una entrada micro sd para cargar musica y en el otro botón de encendido / apagado. 
+El mp3 se puede conectar directamente a un puerto USB para cargar música y/o batería. Al conectar el usb bloquea su uso, los botones no funcionan durante la conexión. La navegación se hace mediante un botón circular multifunción (M, ▶||, ←, →, etc.). Reproduce música por audífonos con salida jack de 3.5 mm y permite conectar un cable auxiliar para conectarse a un parlante. En su costado cuenta con una entrada micro sd para cargar musica y en el otro botón de encendido / apagado.
 
 ¿Cómo me indica esa manera de uso?
 
@@ -46,7 +34,7 @@ Cada botón genera una respuesta directa al tacto, lo que permite que el que lo 
 
 El usuario sería una persona interesada en escuchar música de manera portátil, algo que con el tiempo fue reemplazado por los teléfonos (era pre-smartphone). Me da un poco de pena cómo la moda de los MP3 evolucionó hacia eso; a día de hoy resulta difícil ver a alguien con uno. Uno se metía a internet, buscaba la música que quería y la descargaba para llevarla en el día a día. Ando con ganas de volver a llevar un MP3 en el bolsillo, quisiera tener alguno bueno tipo Sony. Ahora se venden en formato walkman con una pantalla, pero los precios no son muy accesibles y sería un lujo tener uno. Antes estos se vendían por montones: ibas al kiosco, supermercado, papelería, y podías conseguir uno. No creo que una persona con discapacidad visual pueda ocuparlo, ya que se debe usar la pantalla para ver los menús; debería usar uno sin pantalla incluida y con relieves en los botones.
 
-¿Qué interacción ofrece desde fuera? 
+¿Qué interacción ofrece desde fuera?
 
 - Botones físicos: 5 funciones en el control circular.
 - Interruptor lateral encendido/apagado.
@@ -62,7 +50,7 @@ Por fuera, el dispositivo te deja interactuar de varias formas simples. El contr
 
 Tiene una bateria de 3,7V y 120 mAh, que duraba a los mas 5 horas, menos si le subias el brillo a su pantallita. Se recarga conectando el usb a un cargado o compu.
 
-![image](https://github.com/user-attachments/assets/08db536d-6c58-4501-802a-cf32a0175f6c) 
+![image](https://github.com/user-attachments/assets/08db536d-6c58-4501-802a-cf32a0175f6c)
 
 ¿Hay una PCB principal?
 
@@ -70,17 +58,17 @@ Tiene una bateria de 3,7V y 120 mAh, que duraba a los mas 5 horas, menos si le s
 
 Sí. Una única PCB (placa de circuito impreso) todos los componentes necesarios para el funcionamiento del MP3 estan en esta. La carcasa cierra por ambos lados protegiendola.
 
-¿Cómo se interconectan? 
-Los componentes van soldados al PCB. Las interconexiones van a través de las pistas de cobre del circuito. Tiene 2 cables rojo y negro que conectan la batería a la placa (alimentación) y una cinta plana conectando la pantalla al PCB. Estas cintas las había visto una vez cuando desarme un control de ps4, esto conectaba el panel táctil de mando. 
-
+¿Cómo se interconectan?
+Los componentes van soldados al PCB. Las interconexiones van a través de las pistas de cobre del circuito. Tiene 2 cables rojo y negro que conectan la batería a la placa (alimentación) y una cinta plana conectando la pantalla al PCB. Estas cintas las había visto una vez cuando desarme un control de ps4, esto conectaba el panel táctil de mando.
 
 ¿Hay números, textos, dibujos?
 
-De lo que logré observar solamente encontré 3 cosas. 
+De lo que logré observar solamente encontré 3 cosas.
+
 - Dos chips que dicen: SKhynix- H27UCG8T2TR- 432BL y ATJ 3150- ZG82 38A
 - Bateria 3,7V y 120 mAh  
 
-# Bill of Materials (BoM) – Reproductor MP3
+## Bill of Materials (BoM) – Reproductor MP3
 
 | Componente                 | Cantidad | Descripción                                                 |
 |----------------------------|----------|-------------------------------------------------------------|
@@ -95,7 +83,3 @@ De lo que logré observar solamente encontré 3 cosas.
 | Condensadores              | Varios  | Ayudan a que la corriente sea estable                |
 | Resistencias               | Varios   | Limita la corriente y establece el voltaje.                 |
 | Cinta flex (pantalla)      | 1        | Conexión de la pantalla al PCB principal.                   |
-
-
-
-
