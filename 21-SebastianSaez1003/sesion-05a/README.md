@@ -1,5 +1,6 @@
 # sesion-05a
-### Módulo de la mañana
+
+## Módulo de la mañana
 
 THT (Through Hole Technology), que normalmente se ocupa para cosas artesanales, para cosas más complejas se ocupa SMD.
 
@@ -15,7 +16,6 @@ La miniaturización destruye la legibilidad.
 
 Revisar tables generator
 
-
 ### Módulo después del break
 
 Casi todos los proyectos iniciales de electrónica empiezan por sonido.
@@ -27,8 +27,5 @@ El capacitor electrolítico 5 en la Atari Punk Console elimina el DC, quedando A
 En un parlante, lo que estamos escuchando es el cambio de energía, no la constancia.
 
 El comportamiento de las resistencias y los condensadores tiene las fórmulas opuestas, en serie y en paralelo.
-
-
-
 
 Las resistencias de protección, ojalá que no las cambiemos.
