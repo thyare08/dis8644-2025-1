@@ -7,7 +7,7 @@
 - [0ohm](https://0ohm.cl/)
 - pick and place
 - **[EL CUARZO ES BACÁN](https://elcronometro.com/reloj-de-cuarzo-todo-lo-que-necesitas-saber/)**
-- 
+-
 
 DC = corriente continua. sin oscilación. tensión no cambia
 AC = corriente alterna. oscilación curva. la tensión va cambiando
@@ -23,17 +23,17 @@ C5 ---> elimina DC - output DC coupling
 C1 ---> modifica la frecuencia (PITCH)
 
 > ### cálculo de resistencia
+>
 > Serie: R1 + R2 = Req (Resistencia equivalente)
 > Paralelo: Req = R1*R2/R1+R2
 
 > ### cálculo de resistencia
+>
 > Paralelo: Ceq = C1 + C2
 > Serie: Ceq = C1*C2/C1+C2
 
 ## MODDING
 
-### camabios
-antes del C1 poner un interruptor con otro condensador  
+### cambios
 
-
-
+antes del C1 poner un interruptor con otro condensador.
