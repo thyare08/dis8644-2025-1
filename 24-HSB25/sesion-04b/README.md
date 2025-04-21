@@ -4,20 +4,19 @@
 
 ![control](https://mercotecnia.cl/wp-content/uploads/2021/06/Controlador-Cinta-Led-con-Control-Remoto-44-botones.jpeg)
 
-![control01](https://github.com/HSB25/dis8644-2025-1/blob/main/24-HSB25/sesion-04b/control01.png?raw=true)
-![control02](https://github.com/HSB25/dis8644-2025-1/blob/main/24-HSB25/sesion-04b/control02.png?raw=true)
-![control03](https://github.com/HSB25/dis8644-2025-1/blob/main/24-HSB25/sesion-04b/control03.jpeg?raw=true)
-![control04](https://github.com/HSB25/dis8644-2025-1/blob/main/24-HSB25/sesion-04b/control04.jpeg?raw=true)
-![control05](https://github.com/HSB25/dis8644-2025-1/blob/main/24-HSB25/sesion-04b/control05.jpeg?raw=true)
-![control06](https://github.com/HSB25/dis8644-2025-1/blob/main/24-HSB25/sesion-04b/control06.jpeg?raw=true)
-![control07](https://github.com/HSB25/dis8644-2025-1/blob/main/24-HSB25/sesion-04b/control07.jpeg?raw=true)
+![control01](./archivos/control01.jpeg)
 
+![control02](./archivos/control02.jpeg)
 
+![control03](./archivos/control03.jpeg)
 
+![control04](./archivos/control04.jpeg)
 
+![control05](./archivos/control05.jpeg)
 
+![control06](./archivos/control06.jpeg)
 
-
+![control07](./archivos/control07.jpeg)
 
 # **1.¿Cómo se utiliza el aparato?**
 
@@ -95,9 +94,10 @@ Identificadores:
 
 # **6. Diagrama de flujo**
 
-![Diagrama del control RGB](https://github.com/HSB25/dis8644-2025-1/blob/main/24-HSB25/sesion-04b/DIAGRAMA%20CONTROL%20RGB.png?raw=true)
+![diagrama RGB](./archivos/diagrama-control-rgb.png)
 
 **1. PILA 3V**
+
 - Entrada de energía.
 
 - Es una pila de botón (CR2025 o CR2032) que entrega 3 voltios.
@@ -134,7 +134,7 @@ Identificadores:
 
 - Estas señales son codificadas (por ejemplo, usando protocolos como NEC o RC5).
 
-![ILUSTRACION CONTROL RGB](https://github.com/HSB25/dis8644-2025-1/blob/main/24-HSB25/sesion-04b/ILUSTRACION%20CONTROL%20RGB.png?raw=true)
+![ilustración control RGB](./archivos/ilustracion-control-rgb.png)
 
 # **7. Bill of Materials (BOM) – Partes generales**
 
@@ -151,7 +151,3 @@ Identificadores:
 | 9    | Resistencias              | Para limitar corriente al IR y otros usos    | 2–4      |
 | 10   | Capacitores               | Para estabilización de energía               | 1–2      |
 | 11   | Serigrafía frontal        | Lámina plástica con íconos y colores         | 1        |
-
-
-
-
