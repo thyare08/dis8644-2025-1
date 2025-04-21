@@ -63,7 +63,7 @@
 ## Encago
 
 ### 12-Instalar KiCad
-- KiCad 0.9 me lo instalé aquí: https://www.kicad.org/download/
+- KiCad 9.0 me lo instalé aquí: https://www.kicad.org/download/
 - decidí instalarme el de Norteamérica porque pensé que iba a estar en inglés, pero no fue así.
 - aquí adjunto unas fotos de todo el proceso de instalación.
 
