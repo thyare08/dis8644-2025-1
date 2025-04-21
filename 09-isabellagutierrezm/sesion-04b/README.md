@@ -36,7 +36,8 @@ Mi favorito fue el **sintetizador Moog**, ya que había investigado sobre ello e
 
 ![WhatsApp Image 2025-04-12 at 4 03 48 PM](https://github.com/user-attachments/assets/76f667cd-a4b5-476a-82a8-bb706b92b750)
 
-## Avance de Proyecto 1
+
+## Encargo 11: Bajando opacidad a la caja negra
 
 Comenzamos buscando un aparato electrónico como grupo, y nos decimos por un **Dron de juguete con sensor de proximidad**
 Este aparato  es una pelota voladora de plástico, la cual **se estabiliza al detectar la palma de la mano** debajo de este debido al **sensor infrarrojo led** que posee.
