@@ -126,3 +126,10 @@ imágen de: <https://120years.net/oramicsdaphne-oramuk1959-2/>
 
 _Por ota parte, me pareció interesante esta página web: <https://www.daphneoram.org/oramicsmachine/>_
 
+## disco Oramics (2007) - Daphne Oram
+
+Género: electrónica.
+
+Estilo: Abstract, Musique Concrète, Experimental.
+
+Recopilación de casi toda la obra de Oram desde su salida de la BBC hasta 1977. Tiene piezas compuestas para cine, teatro, publicidad, instalaciones y experimentos de estudio. Muchas de estas obras fueron creadas utilizando su sistema Oramics.
