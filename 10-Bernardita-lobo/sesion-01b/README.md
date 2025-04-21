@@ -1,7 +1,9 @@
 # sesion-01b
 
 ## Trabajo en clase
+
 ### Componentes eléctricos y introducción a github
+
 - estudiamos los componentes que se encuentra en nuestras cajitas
 - repaso de voltajes
 - primer circuito eléctrico básico
@@ -11,13 +13,16 @@
 ![foto5](https://github.com/user-attachments/assets/4fc794e2-8415-4af5-a2db-6e27aa7027b9)
 
 ## Encargo
+
 ### 02-Aplex twin
+
 - álbum "selected ambient works volume II expanded edicion" y "syro"
 - variedad de géneros como el techno, acid techno, jungle, ambient, glitch, experimental, entre otros.
 - sesiones de música completa, música ambiental.
 - transmiten ideas y sucesos, las canciones eran largas y te transportaban por diversos niveles.
 
 ### 02-Aaron swartz
+
 - video documental "the story of aaron swartz" https://youtu.be/9vz06QO3UkQ?si=af0mqpFzA42sv1d8
 - información adicional recuperada de: https://www.infobae.com/historias/2025/01/11/un-hacker-convertido-en-martir-el-suicidio-del-prodigio-que-libero-el-conocimiento-restringido-de-la-web-y-fue-perseguido-por-el-fbi/?outputType=amp-type
 - él era un niño muy inteligente y apasionado por la programación, a los 13 o 14 años comenzó a desarrollar una web para resumir las páginas.
@@ -32,6 +37,7 @@
 ![foto2](https://github.com/user-attachments/assets/68e9150f-f196-421d-8f64-ea3c7ee603a4)
 
 ### 03-Estudiar la caja de materiales inicial
+
 - reconocimiento de los componentes existentes
 - inventario y organización de los componentes que se encuentran en mi cajita
 - estudio del significado de los colores de los cables
