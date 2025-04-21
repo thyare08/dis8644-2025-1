@@ -1,6 +1,9 @@
 # sesion-04b
+
 ## Trabajo en clase
+
 ### Sistemas electrónicos
+
 - funcionamiento de 1-bit
 - CPU es unidad central de procesamiento, es un componente del hardware
 - hardware son los componentes físicos y tangibles de un sistema informático
@@ -10,6 +13,7 @@
 ![foto28](https://github.com/user-attachments/assets/7d0c4353-8013-4b4c-a0a5-73f847f5d0ad)
 
 ### Circuito electrónico monoestable
+
 - primer circuito con un botón
 - se mantiene estable hasta que es perturbado
 - emite un único pulso de corriente durante un tiempo determinado
@@ -17,6 +21,7 @@
 ![foto30](https://github.com/user-attachments/assets/a5044861-b7b7-4999-9bf1-ad8a6f363bf4)
 
 ### Grandmother
+
 - sintetizadores análogos moog
 - un instrumento musical pasa de gesto a sonido
 - video: wendy carlos demonstrates her moog synthesizer
@@ -24,16 +29,19 @@
 ![foto29](https://github.com/user-attachments/assets/00a91f8b-9c35-44c2-8040-9c94c409347e)
 
 ## Encargo
+
 ### 10-Wendy Carlos
+
 - Switched on bach por wendy carlos
-- video "wendy carlos" https://youtu.be/_zjvv7n3mGQ?si=qLXQ_js-CSqN9ypS
+- video "wendy carlos" <https://youtu.be/_zjvv7n3mGQ?si=qLXQ_js-CSqN9ypS>
 - música clásica con su síntesis traspasada a la electrónica
 - popularizó los sintetizadores moog y revolucionó la tecnología.
 - efectos de sonido y jingles
 - disruptivo para los puristas de la música
 
 ### La historia de los sintetizadores moog
-- video documental "moog - la historia del sintetizador moog - BBC londres" https://youtu.be/1vRtgWH2d9Q?si=DEMKQfVymHAIr2w_
+
+- video documental "moog - la historia del sintetizador moog - BBC londres" <https://youtu.be/1vRtgWH2d9Q?si=DEMKQfVymHAIr2w>_
 - Robert Moog fue el creador de estos sintetizadores. estudió un bachillerato en la escuela de ciencias del bronx, física en el queens college, después ingeniería eléctrica en la universidad de columbia y un doctorado en ingeniería física en la universidad de cornell. es por esto que tenía una facilidad para sentir qué era lo que ocurría dentro de los transistores y las resistencias.
 - la primera reacción a este invento fue de profundo disgusto, ya que pensaban que no era natural, en algunas entrevistas que dio robert moog, le preguntaban si no se sentía culpable por lo que había creado, ya que creían que estaba destrozando la cultura de la música.
 - si no era un instrumento de madera, metal o de cuerda, lo consideraban sospechoso.
@@ -50,6 +58,7 @@
 ![foto31](https://github.com/user-attachments/assets/f696c017-8e36-4065-a300-ad4a669ed5bd)
 
 ### 11-Bajando opacidad a la caja negra
+
 - elegimos junto a mi compañero 08-clifford1one un walkie talkie y nuestro proceso está en el figma.
 - está diseñado para hablar y sus interacciones son: mantener presionado para hablar, regular el volumen con la perilla y presionar el botón de frecuencia o señal.
 - tiene dos botones y una perilla, uno de los botones simula ser una perilla, pero solo funciona como pulsador, creemos que está diseñado para mantenerse en una señal, tal vez como un objeto de trabajo.
@@ -58,8 +67,7 @@
 - tiene textos para el volumen, señal, indica el + y -, también los voltios y la marca
 
 ### El comienzo de los walkie talkie
--
--
+
 falta transcribir y insertar foto*
 ![tme-foto33](https://github.com/user-attachments/assets/4985511b-4776-49e3-aa69-df5cab51904d)
 ![tme-foto34](https://github.com/user-attachments/assets/4a438290-b390-4b60-93bd-6c692163bfdc)
