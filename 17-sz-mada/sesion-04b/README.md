@@ -1,6 +1,6 @@
 # sesion-04b
 
-[4 de abril del 2025]
+4 de abril del 2025
 
 - 1-bit / código binario
 
@@ -18,15 +18,15 @@
 
 ***
 
-Aaron mostró una tarjeta japonesa que tiene, la tarjeta tiene un lado distinto para distinguir por donde se inserta la tarjeta
+Aaron mostró una tarjeta japonesa que tiene, la tarjeta tiene un lado distinto para distinguir por donde se inserta la tarjeta.
 
 ![tarjeta](./archivos/4b_0.png)
 
-También llevó un sintetizador Moog Grandmother
+También llevó un sintetizador Moog Grandmother.
 
 ![moog grandmother](./archivos/4b_6.png)
 
-y unos pedalboards para que revisemos como clase
+y unos pedalboards para que revisemos como clase.
 
 ![pedal 1](./archivos/4b_2.png)
 
@@ -38,7 +38,7 @@ y unos pedalboards para que revisemos como clase
 
 ***
 
-En clase hicimos un circuito monostable con un botón push
+En clase hicimos un circuito monostable con un botón push.
 
 ![esquema circuito](/00-docentes/sesion-04b/archivos/mono_sch.png)
 
