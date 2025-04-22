@@ -50,8 +50,9 @@
 -
 
 ![tme-sesion06b-suzanne ciani](https://github.com/user-attachments/assets/5bbb844f-9ad3-4ce1-b2d0-e7d03d2cab6c)
-fuente: https: <//www.google.com/url?sa=i&url=https%3A%2F%2Fes.rollingstone.com%2Fsisters-with-transistors%2F&psig=AOvVaw12VytAd5j3UvGb-LRWCegw&ust=1745412056604000&source=images&cd=vfe&opi=89978449&ved=0CAMQjB1qFwoTCODA1ODU64wDFQAAAAAdAAAAABAE>
-fuente: https: <//www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wfyi.org%2Fprograms%2Fcultural-manifesto%2Fradio%2Fhoosier-sisters-with-transistors&psig=AOvVaw12VytAd5j3UvGb-LRWCegw&ust=1745412056604000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCODA1ODU64wDFQAAAAAdAAAAABAe>
+fuente: https: <www.google.com/url?sa=i&url=https%3A%2F%2Fes.rollingstone.com%2Fsisters-with-transistors%2F&psig=AOvVaw12VytAd5j3UvGb-LRWCegw&ust=1745412056604000&source=images&cd=vfe&opi=89978449&ved=0CAMQjB1qFwoTCODA1ODU64wDFQAAAAAdAAAAABAE>
+fuente: https: <www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wfyi.org%2Fprograms%2Fcultural-manifesto%2Fradio%2Fhoosier-sisters-with-transistors&psig=AOvVaw12VytAd5j3UvGb-LRWCegw&ust=1745412056604000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCODA1ODU64wDFQAAAAAdAAAAABAe>
+
 ### Wendy Carlos
 
 -
