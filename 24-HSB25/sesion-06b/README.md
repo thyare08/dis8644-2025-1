@@ -79,13 +79,13 @@ Puedes buscarlo en YouTube o Spotify
 
 Escuche especialmente, ya que me llamo bastante la atención el sonido en todos esos temas, ya que pareciera que fuera todo como alienigenas tocando música jajaja.
 
-- Ziwzih Ziwzih OO-OO-OO [ZIWZIH](https://www.youtube.com/watch?v=jetzY-W78gg&ab_channel=ziggybollus)
+- Ziwzih Ziwzih OO-OO-OO [ZIWZIH ZIWZIH](https://www.youtube.com/watch?v=jetzY-W78gg&ab_channel=ziggybollus)
 
-- The Delian Mode [DELIAN MODE](https://www.youtube.com/watch?v=yaDx_yrsAB0&ab_channel=BBCRadiophonicWorkshop-Topic)
+- The Delian Mode [THE DELIAN MODE](https://www.youtube.com/watch?v=yaDx_yrsAB0&ab_channel=BBCRadiophonicWorkshop-Topic)
 
-- Blue Veils and Golden Sands (una atmósfera sónica que te transporta) [BLUEVEILS](https://www.youtube.com/watch?v=3JehxCCO26U&ab_channel=BBCRadiophonicWorkshop-Topic)
+- Blue Veils and Golden Sands (una atmósfera sónica que te transporta) [BLUE VEILS](https://www.youtube.com/watch?v=3JehxCCO26U&ab_channel=BBCRadiophonicWorkshop-Topic)
 
-Todos estos temas me hicieron recordar demasiado a los sonidos ambientales del MINECRAFT cuando estas en las cuevas [CUEVAS DE MINECRAFT](https://www.youtube.com/watch?v=djbSsuv40Ng&ab_channel=DXNRP) cuales son del artista "C418".
+Todos estos temas me hicieron recordar demasiado a los sonidos ambientales del MINECRAFT cuando estas en las [CUEVAS DE MINECRAFT](https://www.youtube.com/watch?v=djbSsuv40Ng&ab_channel=DXNRP) cuales son del artista "C418".
 
 
 
