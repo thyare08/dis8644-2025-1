@@ -35,3 +35,20 @@ Haremos un 555 con variaciones "Mi primer KiCad 555"
 - ERC para encontrar errores
 - Ahora agregar huella
 - Usar lupa para ver cómo serán físicamente los componentes
+- Cambiar a editior de placas
+- Tenemos 7 capas:
+  
+  edge cuts: placa
+  
+  arriba capa de cobre: Cu
+  
+  abajo:B Cu (enrutar pistas)
+  
+  B silk
+  
+  E silk
+  
+  F mask
+  
+  B mask
+  
