@@ -81,3 +81,5 @@ Pitch = [P] = distancia entre patitas
     - B.Silkscreen (capa inferior de grabado)
     - F.Mask (placa superior protectora - color)
     - F.Mask (placa inferior protectora - color)
+- Visor 3D [Alt + 3]
+- Seleccionar TODO [Alt + A]
