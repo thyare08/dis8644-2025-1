@@ -1,7 +1,5 @@
 # sesion-07a
 
-# sesion-07a
-
 ## kicad
 
 __características de los componentes__
