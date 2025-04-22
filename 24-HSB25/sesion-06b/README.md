@@ -57,7 +57,11 @@ Esto me hace suponer que posiblemente creado con el Editor de esquemas, o que po
 
 # Encargo 13: Sisters with transistors
 
-Sisters with Transistors es un documental que narra la historia de las mujeres pioneras en la música electrónica, quienes revolucionaron el sonido en el siglo XX, a pesar de haber sido ignoradas o subestimadas por la historia oficial. Estas artistas no solo exploraron nuevas tecnologías como cintas magnéticas, osciladores, sintetizadores y computadoras, sino que también cambiaron la forma en que escuchamos música hoy. En una época en la que el mundo de la tecnología y la música estaba dominado por hombres, estas mujeres abrieron camino en estudios experimentales, radios públicas y laboratorios sonoros. Narrado por la legendaria Laurie Anderson, el documental combina grabaciones de archivo, entrevistas y sonidos innovadores para mostrar cómo estas creadoras no solo moldearon la música electrónica, sino que también desafiaron las normas culturales, de género y de arte.
+Sisters with Transistors es un documental que narra la historia de las mujeres pioneras en la música electrónica, quienes revolucionaron el sonido en el siglo XX, a pesar de haber sido ignoradas o subestimadas por la historia oficial.
+
+Estas artistas no solo exploraron nuevas tecnologías como cintas magnéticas, osciladores, sintetizadores y computadoras, sino que también cambiaron la forma en que escuchamos música hoy. En una época en la que el mundo de la tecnología y la música estaba dominado por hombres, estas mujeres abrieron camino en estudios experimentales, radios públicas y laboratorios sonoros. 
+
+Narrado por la legendaria Laurie Anderson, el documental combina grabaciones de archivo, entrevistas y sonidos innovadores para mostrar cómo estas creadoras no solo moldearon la música electrónica, sino que también desafiaron las normas culturales, de género y de arte.
 
 # Artista favorita: **Delia Derbyshire**
 
@@ -81,7 +85,7 @@ Escuche especialmente, ya que me llamo bastante la atención el sonido en todos 
 
 - Blue Veils and Golden Sands (una atmósfera sónica que te transporta) [BLUEVEILS](https://www.youtube.com/watch?v=3JehxCCO26U&ab_channel=BBCRadiophonicWorkshop-Topic)
 
-Todos estos temas me hicieron recordar demasiado a los sonidos ambientales del MINECRAFT cuando estas en las cuevas [CUEVASMINECRAFT](https://www.youtube.com/watch?v=djbSsuv40Ng&ab_channel=DXNRP) cuales son del artista "C418".
+Todos estos temas me hicieron recordar demasiado a los sonidos ambientales del MINECRAFT cuando estas en las cuevas [CUEVAS DE MINECRAFT](https://www.youtube.com/watch?v=djbSsuv40Ng&ab_channel=DXNRP) cuales son del artista "C418".
 
 
 
