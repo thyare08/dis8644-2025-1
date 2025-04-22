@@ -1,1 +1,2 @@
 # sesion-06a
+NO HUBO CLASES X SEMANA SANTA
