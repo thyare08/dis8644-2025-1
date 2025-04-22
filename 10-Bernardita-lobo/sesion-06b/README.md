@@ -17,6 +17,8 @@
 - Este documental nos cuenta la historia de varias mujeres pioneras en la música electrónica. muestra cómo decidieron crear sonidos, las máquinas que utilizaban y de qué manera la tecnología se convirtió en una herramienta liberadora.
 - En este documental mencionan que "la historia de las mujeres ha sido una historia de silencio", retratando la disparidad y lo difícil que era para ellas ser tomadas en serio en el mundo de la música electrónica.
 
+![tme-sesion06b-foto01](https://github.com/user-attachments/assets/283e7aa8-be72-4b35-8cc3-35a0fc6c811f)
+
 ### Clara Rockmore
 
 - Clara Rockmore era una concertista de violín. junto a su hermana realizó varios conciertos por Rusia y Europa, hasta llegar a estados unidos, donde conoció al profesor Theremin, creador de un instrumento llamado Eterófono. este podía ser controlado sin contacto físico, ella quedó fascinada con el instrumento, con su estética y su sonido.
@@ -46,6 +48,9 @@
 ### Suzanne Ciani
 
 -
+
+![tme-sesion06b-suzanne ciani](https://github.com/user-attachments/assets/5bbb844f-9ad3-4ce1-b2d0-e7d03d2cab6c)
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.rollingstone.com%2Fsisters-with-transistors%2F&psig=AOvVaw12VytAd5j3UvGb-LRWCegw&ust=1745412056604000&source=images&cd=vfe&opi=89978449&ved=0CAMQjB1qFwoTCODA1ODU64wDFQAAAAAdAAAAABAE
 ### Wendy Carlos
 
 -
