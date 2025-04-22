@@ -67,7 +67,7 @@ Narrado por la legendaria Laurie Anderson, el documental combina grabaciones de 
 
 **¿Por qué Delia?**
 
-- Famosa por la versión original del tema de Doctor Who (1963) [DOCTROWHOTHEME](https://www.youtube.com/watch?v=9YwTjX9RQM0)
+- Famosa por la versión original del tema de Doctor Who (1963) [DOCTOR WHO THEME (1963)](https://www.youtube.com/watch?v=9YwTjX9RQM0)
 
 - Creaba sonidos únicos manipulando cintas, loops y generadores de tono, todo antes de que existieran los sintetizadores modernos, los cuales para mi suenan muy similares a algo que ella lo hacia propio.
 
