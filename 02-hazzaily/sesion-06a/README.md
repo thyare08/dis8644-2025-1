@@ -60,19 +60,19 @@ https://github.com/user-attachments/assets/1dfc053f-26e3-40d8-8d1e-b993af6207fa
 
 | Componentes               | Nombre                     | Valor | Cantidad |
 |---------------------------|----------------------------|-------|----------|
-| Resistencias              | R2, R3                     | 1kΩ   | 2        |
-| Resistencia               | R4                         | 33OΩ  |          |
+| Resistencias              | R2, R3                     | 1kΩ   | 2        | 
+| Resistencia               | R4                         | 33OΩ  | 1        |
 | Condensador Cerámico      | C1, C2, C3, C4, C6, C7, C8 | 474n  | 7        |
 | Condensador Cerámico      | C5                         | 163n  | 1        |
-| Condensador Electrolítico | C9                         | 100uf |          |
+| Condensador Electrolítico | C9                         | 100uf | 1        |
 | LDR                       | R1                         |       | 1        |
-| Chip 555                  | Chip1, Chip2               |       | 2        |
+| Chip 555                  | U1, U2                     |       | 2        |
 | Jumpers                   |                            |       | 25       |
 | Pulsadores                | P1, P2, P3                 |       | 3        |
 | Caimanes                  |                            |       | 2        |
 | Interuptor                | Int1                       | 250V  | 1        |
 | Batería                   | Batería                    | 9V    | 1        |
-
-
 | Altavoz                   | LS1 Speaker                | 8Ω    | 1        |
 | Protoboard                |                            |       | 2        |
+
+
