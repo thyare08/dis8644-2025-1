@@ -6,7 +6,9 @@ Clase 11: Viernes 18 de Abril del 2025
 
 ## Encargo 12 ##
 
-Ver documental "Sisters with transistors" y escuchar un disco de alguna de las mujeres que te llamo la atención.
+- Ver documental "Sisters with transistors" y escuchar un disco de alguna de las mujeres que te llamo la atención.
+
+**Sisters with transistors**
 
 Para entrar en contexto este documental se estrenó en 2020, en el cual la cineasta Lisa Rovner sigue la historia de las pioneras de la música electrónica (cuales muchas son desconocidas), compositoras que adoptaron las máquinas y sus tecnologías liberadoras para transformar la forma en la que se produce y escucha música en la actualidad.
 
