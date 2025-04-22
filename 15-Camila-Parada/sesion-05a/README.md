@@ -106,7 +106,20 @@ _▼ Diagrama del circuito modificado_
 
 <br>
 
-Por el momento me falta hacer el BOM del total de piezas usadas.
+#### Bill of materials (BOM)
+
+| Componente       | Qty | Nombre(s) | Valor/tipo |
+|-----------------------|---------|------------|----------------|
+| Chip 555              | 2       | U1, U2     |                |
+| Batería               | 1       | Sin nombre |       9V       |
+| Resistencias          | 5       | R1, R2, R3, R4, R5     | 1k, 10K  |
+| Condensadores         | 6       | C1,C2,C3, C4, C5, C6   | 1n, 100n, 470n |
+| Parlante              | 1       |  LS1       |      2w        |
+| LDR                   | 1       |  LDR1      |   1k ~ 10k     |
+| Leds                  | 2       |  L1, L2    |   3,3V    |
+| Interruptor           | 1       |  Sin nombre    |    30mΩ    |
+| Potenciometro         | 1       |    P1      |    500K    |
+
 
 <br>
 
