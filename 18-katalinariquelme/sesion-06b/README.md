@@ -24,6 +24,7 @@ Daphne Oram
 
 **Albúm escuchado:** Oramics.
 
-Este disco fue lanzado en el año 2007 pero fue compuesto y grabado en la década de 1960.
+Este disco fue lanzado en el año 2007 pero fue compuesto y grabado en la década de 1960. Lo que me llamo la atención de es que los sonidos eran una mezcla de técnicas analógicas y digitales, lo que pude investigar es que este álbum es una experimentación tecnológica la cual ofrece unas melodias unicas y evocadoras. Si bien, pude notar que tiene una inclusión esporádica de algunos instrumentos acústicos como el piano y la flauta lo cual añade una dimensión interesante. En pocas palabras se podria decir que este album es un hito en la historia de la musica electronica, ya que esta influenciado por la sonora clásica mezclado con la música moderna.
 
-Lo que me gusto de este disco fue el el sonido, 
+![daphne](https://github.com/user-attachments/assets/6c7f3103-e0ae-43dd-b101-d4a2bcaa0247)
+
