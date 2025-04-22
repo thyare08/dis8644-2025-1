@@ -14,8 +14,8 @@
 
 ### 13-Documental Sisters with transistors
 
-- este dumental trata de..
-- y de...
+- Este es un documental nos cuenta la historia de mujeres pioneras en la música electrónica. nos muestra la manera en que decidieron crear sonidos, las máquinas que utilizaban y cómo la tecnología se convierte en una herramienta liberadora.
+- En este documental mencionan que "la historia de las mujeres ha sido una historia de silencio", retratando la disparidad y lo difícil que era para ellas ser tomadas en serio en el mundo de la música electrónica.
 
 ### Clara Rockmore
 
