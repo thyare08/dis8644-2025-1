@@ -18,6 +18,7 @@
       - [mousser](https://www.mouser.cl/)
   - CSV - archivo de tablas (se puede usar con excel - probar con GitHub)
   - La caverna de Platón
+  - [clacktronics](https://clacktronics.co.uk/)
 
 La belleza de la protoboard "Me gusta que las cosas puedan fallar" Aarón
 
@@ -83,3 +84,7 @@ Pitch = [P] = distancia entre patitas
     - F.Mask (placa inferior protectora - color)
 - Visor 3D [Alt + 3]
 - Seleccionar TODO [Alt + A]
+- Modificar la pista [G]
+- Seleccionar toda la pista [U]
+- Rellena todo [B] (area de relleno)
+- 
