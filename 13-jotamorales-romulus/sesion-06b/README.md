@@ -34,7 +34,7 @@ Me impresiona mucho cómo, con equipos limitados, Derbyshire logra crear atmósf
 
 ![image](https://github.com/user-attachments/assets/fd903299-921f-4beb-9beb-8913bd41fdc9)
 
-Me recuerda muchísimo a este álbum.
+Me recuerda muchísimo a este álbum, compuesto por AKIRA YAMAOKA (A esto me refiero: no se me viene a la cabeza ningún referente femenino que conozca)
 
 
 
