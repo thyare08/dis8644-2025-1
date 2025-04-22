@@ -20,6 +20,7 @@ Intérprete del Theremín. Desarolló una técnica para tocar este instrumento, 
 "Quedé fascinada por la estética, la belleza y la idea de tocar un instrumento sin tocar absolutamente nada"
 
 ![Clara Rockmore]
+
 (https://github.com/user-attachments/assets/d4db56c0-3f1b-4ec6-828b-301b5a25fbb5)
 
 ## Delia Derbyshire
