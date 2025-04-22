@@ -69,37 +69,3 @@
 
 ![tme-sesion06a-foto07](https://github.com/user-attachments/assets/c2d28119-9a9f-4e70-950b-042ca5d9e95c)
 
-### 13-Documental Sisters with transistors
-
-- este dumental trata de..
-- y de...
-### Clara Rockmore
-
--
-### Daphne Oram
-
--
-### Delia Derbyshire
-
--
-### Bebe Barron
-
--
-### Pauline Oliveros
-
--
-### Maryanne Amacher
-
--
-### Eliane Radigue
-
--
-### Laurie Spiegel
-
--
-### Suzanne Ciani
-
--
-### Wendy Carlos
-
--
