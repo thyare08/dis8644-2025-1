@@ -29,6 +29,9 @@ _Por ota parte, me pareció interesante esta página web: <https://www.daphneora
 
 ## Disco Oramics (2007) - Daphne Oram
 
+<img width="349" alt="oramics" src="https://github.com/user-attachments/assets/89a77f99-682b-46f0-b308-dc1fa7b58b76" />
+
+_imágen de: <https://daphneoram.bandcamp.com/album/oramics>_
 Género: electrónica.
 
 Estilo: Abstract, Musique Concrète, Experimental.
