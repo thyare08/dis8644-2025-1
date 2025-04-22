@@ -13,6 +13,11 @@
 - [open frameworks](https://openframeworks.cc/) - programación nivel dios, cuando la programación no alcance tus sueños 
 - [future sketches](https://www.media.mit.edu/groups/future-sketches/overview/)
 - [Simulador de cirguitos](https://www.falstad.com/circuit/circuitjs.html)
+- Googlear componentes:
+      - [victronics](https://www.victronics.cl/)
+      - [mousser](https://www.mouser.cl/)
+  - CSV - archivo de tablas (se puede usar con excel - probar con GitHub)
+  - La caverna de Platón
 
 La belleza de la protoboard "Me gusta que las cosas puedan fallar" Aarón
 
@@ -26,7 +31,9 @@ tiene 3 características: - **Valor** / - **Símbolo** / - **rating** (cuanto ag
 - Resistencia que usamos = 6.3mm
 - Condensador axial no tenemos
 - Condensador de disco los nuestros
-
+- [Diodo](https://www.mouser.cl/ProductDetail/onsemi-Fairchild/1N4148?qs=i4Fj9T%2FoRm8RMUhj5DeFQg%3D%3D)
+- Potenciómetro RK163
+  
 ### esquema
 
 qué componentes hay, cómo se ocupan, cómo se interconectan, qué valores tienen
@@ -64,5 +71,13 @@ Pitch = [P] = distancia entre patitas
 - Biblioteca del centro = Mis componentes
 - Seleccionar mi componente a cambiar ---> en la sección derecha sseleccionar las medidas
 
-
 ### ruteo
+
+7 capas = 
+    - F.Cu (capa superior de cobre)
+    - Edges.Cut
+    - B.Cu (capa inferior de cobre)
+    - F.Silkscreen (capa superior de grabado)
+    - B.Silkscreen (capa inferior de grabado)
+    - F.Mask (placa superior protectora - color)
+    - F.Mask (placa inferior protectora - color)
