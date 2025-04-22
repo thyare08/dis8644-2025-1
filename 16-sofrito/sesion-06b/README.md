@@ -53,7 +53,7 @@ Sus piezas, como Vice-Versa (1970), exploraron microtonalidades y drones, antici
 
 "Busco una música que se desarrolle lentamente, como un organismo vivo"
 
-![Éliane Rdigue]
+![Éliane Radigue]
 
 (https://github.com/user-attachments/assets/526e4896-3fe9-4f71-ad97-2d6ee27182df)
 
