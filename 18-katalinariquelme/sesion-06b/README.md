@@ -4,7 +4,7 @@ Clase 11: Viernes 18 de Abril del 2025
 
 - Feriado por semana santa.
 
-## Encargo ##
+## Encargo 12 ##
 
 Ver documental "Sisters with transistors" y escuchar un disco de alguna de las mujeres que te llamo la atención.
 
