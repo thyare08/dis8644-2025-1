@@ -1,7 +1,8 @@
 ### sesion-06a
 
-# Entrega Proyecto 01
+## Entrega Proyecto 01: 
 
+# LDA: Light Dependent Awelita
 
 # Premisa:
 
@@ -15,12 +16,20 @@
 
 <https://www.555-timer-circuits.com>
 
-![Foto de los ejemplos que más nos gustaron(las4 en una misma foto)](tme-p1-esquemaIdea.png)
+![Foto de los ejemplos que más nos gustaron(las4 en una misma foto)](tme-p1-esquemas.png)
 
-Miramos los distintos ejemplos en esta página, y destacamos los que más nos llamaron la atensión.
+Miramos los distintos ejemplos en esta página, y destacamos los que más nos llamaron la atención.
 
+![foto bitácora](tme-p1-bitacoraEsquema.jpeg)
 
-![Foto esquemático original del pryecto dark detector](tme-p1-esquemaDark.png)
+![foto del cirucuito APC](tme-p1-circuitoAtari.jpeg)
+
+![Foto esquemático original del pryecto dark detector](tme-p1-esquemaDarkDetector1.png)
+
+![Foto trabajo poor discord](tme-p1-trabajoOnline.jpeg)
+
+![Foto circuito armadod](tme-p1-circuitoDark.jpeg)
+
 
 <https://www.555-timer-circuits.com/dark-detector.html>
 
@@ -28,7 +37,7 @@ Miramos los distintos ejemplos en esta página, y destacamos los que más nos ll
 
 ## Definir Usuario:
 
-![Foto user persona](tme-p1-userPersona.png)
+![Foto user persona](tme-p1-user.png)
 
 USER PERSONA
 
@@ -55,7 +64,7 @@ Identificamos una problemática en aquella situación cuando una persona, en est
 
 Esto ocurre porque la disminución de la luz es paulatina, y sucede a una velocidad que permite que nuestro ojo se vaya acostumbrando a ella automáticamente. Por eso a veces pareciera que oscureció de golpe en la noche 
 
-![Figura 1.13 del archivo retinaAdaptTesis.pdf](tme-p1-tesisF1.13.png)
+![Figura 1.13 del archivo retinaAdaptTesis.pdf](tme-p1-grafico.png)
 
 <https://uvadoc.uva.es/handle/10324/22376>
 
@@ -63,7 +72,7 @@ Si bien, no hay estudios que comprueben que hacer atividades a oscuras dañe la 
 
 Definición Función: 
 
-![Figura 1.13 del archivo retinaAdaptTesis.pdf](tme-p1-alarmaNoche.png)
+![Foto luz alarma](tme-p1-alarmaNoche.jpeg)
 Imagen generada por Ia mediante chatGPT
 
 Un objeto que cuando se oscurezca emita una alarma para alertar al usuario, y que este recuerde encender una luz para que no suene. Esta alarma sonará durante 300s y después el istema se suspenderá hasta que vuelva a detectar luz.
@@ -72,7 +81,9 @@ Un objeto que cuando se oscurezca emita una alarma para alertar al usuario, y qu
 
 ## Investigación 1: Iluminación
 
-![foto de algo con luz ahaha.pdf](tme-p1-luz.png)
+![foto de algo con luz ahaha](tme-1p-fotoLuz.jpeg)
+
+<https://pin.it/83V7VnPhr>
 
 La luz es un fenónemo que scede como efecto secundario de la radiación electromagnética. Esta es percibida por el ojo humano dentro de un espectro visible con longitudes de onda entre 380 y 750mm.
 
@@ -82,7 +93,12 @@ La intensidad de la luz se mide en lúmenes(lx), se mide con un instrumento llam
 
 Para trabajar / leer se recomiendan entre 300-500lx
 
-![foto de la tabla q esta en el fimga](tme-p1-ejemplosLux.png)
+| Ejemplo de valores lux         |            |
+|--------------------------------|------------|
+| Luz solar                      | 40.00 lx   |
+| Lugar de trabajo en la oficina | 300-500 lx |
+| Sala de estar                  | 50-200 lx  |
+| Noche de luna                  | 0,3 lx     |
   
 ## Investigación 2: ¿Cómo lograr que suceda?
 
@@ -96,7 +112,7 @@ Para cada uno de los objetivos que tenemos ya tenemos un circuito conocido.
 
 Con el circuito  Dark Detector podemos hacer que el cirtuito emita una alarma cuando haya poca luz.
 
-![Foto esquemático original del proyecto dark detector](tme-p1-esquemaDark.png)
+![Foto esquemático original del proyecto dark detector](tme-p1-esquemaDarkDetector1.png)
 
 Con el circuito monoestable podemos lograr que cuando se recibe un estímulo, este quede corriendo durante un tiempo y después apagarse.
 
@@ -104,11 +120,11 @@ Con el circuito monoestable podemos lograr que cuando se recibe un estímulo, es
 
 La idea es "fusionar" ambos circuitos para lograr que la parte del Dark Detector(A) "controle" a la parte monoestble (B)
 
-![Foto esquemático dibujo parte A](tme-p1-esquemaFusionA.png)
+![Foto esquemático dibujo parte A](tme-p1-esquemaFusionA.jpeg)
 
-![Foto esquemático dibujo parte B](tme-p1-esquemaFusionB.png)
+![Foto esquemático dibujo parte B](tme-p1-esquemaFusionB.jpeg)
 
-![Foto esquemático dibujo fusión](tme-p1-esquemaFusion.png)
+![Foto esquemático dibujo fusión](tme-p1-esquemaFusion.jpeg)
 
 ## Redefinición
 
@@ -117,3 +133,92 @@ Tras múltiples intentos no logramos
 ![Foto esquemático intento fallido tinker](tme-p1-tinkerTry1.png)
 
 ![Foto esquemático otro intento fallido tinker](tme-p1-tinkerTry2.png)
+
+Tras no lograr llevar a cabo la idea original, decidimos optar por quedarnos con la parte que teníamos funcionando.
+
+![Foto esquemático del circuito que tenemos realmente](tme-p1-esquemaDarkDetector1.png)
+
+![Foto edel cableado funcionante](tme-p1-esquemaDark.png)
+
+![Foto del flujo real](tme-p1-flujoReal.png)
+
+![Foto esquemático dibujo fusión](tme-p1-esquemaFusion.jpeg)
+
+![Foto del flujo que queriamos que fuera](tme-p1-flujoIdeal.png)
+
+# FABRICACIÓN: 
+
+- Cables
+
+- Carcasa
+
+## Cables:
+
+![Foto avances](tme-p1-bitacoraBoceto.jpeg)
+
+En esta etapa tomamos medidas de los componentes, y los tuvimos en cuenta para el diseño de la carcasa
+
+Bill of Materials
+
+| Componente              | Valor | Unidades |
+|-------------------------|-------|----------|
+| Resistencia             | 10k   | 1        |
+| Resistencia             | 22k   | 1        |
+| Resistencia             | 100k  | 1        |
+| Resistencia             | 1M    | 1        |
+| Capacitor Cerámico      | 10nF  | 1        |
+| Capacitor Cerámico      | 100nF | 1        |
+| Capacitor Electrolítico | 10uF  | 1        |
+| LDR                     |       | 1        |
+| Bocina                  |       | 1        |
+| 555                     |       | 1        |
+| protoboard              |       | 1        |
+| Cables Dupont           |       | 1        |
+| Batería                 |  9V   | 1        |
+
+## Carcasa: 
+
+Hicimos un modelo 3D mediante Rhinoceros 3D
+
+![Foto donde aparezcan varias fotos de proceso del modelado 3d](tme-p1-modelado0.png)
+
+![Foto del modelado 1](tme-p1-modelado01.png)
+
+![Foto del modelado 1](tme-p1-modelado02.png)
+
+![Foto del render](tme-p1-render.png)
+
+Impresión 3D
+
+![Foto de la impresión comenzando](tme-p1-imp1.jpg)
+
+![foto de la impresión al 40%](tme-p1-imp2.jpg)
+
+![foto de la impresión fallando](tme-p1-imp3.jpg)
+
+![Foto de la impresión lista](tme-p1-imp4.jpg)
+
+![Foto de la los soportes sacados](tme-p1-imp5.jpg)
+
+
+### Referencias: 
+
+<555-timer-circuits.com>
+
+- <https://www.digikey.com/es/resources/conversion-calculators/conversion-calculator-resistor-color-code>
+
+- <https://www.digikey.com/es/resources/conversion-calculators/conversion-calculator-series-and-parallel-capacitor>
+
+- <https://www.tinkercad.com>
+
+- <https://circuitdigest.com/calculators/capacitor-value-code-calculator>
+
+- <https://www.youtube.com/watch?v=WeC7cR6n48M>
+
+- <https://www.simonelectric.com/blog/niveles-de-iluminacion-recomendados-segun-cada-zona-y-actividad>
+
+- <https://bricoprofesional.com/blog/como-nos-afecta-la-iluminacion-en-nuestra-salud/#:~:text=Baño%3A%20no%20hace%20falta%20demasiada,iluminación%20general%20de%20100%20lx.>
+
+Para más información y más proceso, porfavor consultar nuestro figma con acceso público:
+
+<https://www.figma.com/board/2tv4jx75qGZa6Gua2UCVer/taller.maq.electr?node-id=0-1&t=aBNh63yuq9MDT4AI-1>

@@ -6,21 +6,23 @@
 - es importante explicar lo que pensaste
 - resistencias pullup pulldown
 - modulación = camnio de un valor (volumen, sonido, etc.)
-- 
+-
 
- ### hacer:
- - [ ] subir imágenes como imagenes, no como link (crear carpeta de archivos)
- - [x] objeto para desarmar - martes 08
- - [x] escuhar **1 bit symphony**
- - [ ] usar imágenes propias, si son de otros lugares, referenciarlos/citarlos
-       
+## hacer
+
+- [ ] subir imágenes como imagenes, no como link (crear carpeta de archivos)
+- [x] objeto para desarmar - martes 08
+- [x] escuchar **1 bit symphony**
+- [ ] usar imágenes propias, si son de otros lugares, referenciarlos/citarlos
 
 ### ideas
+
 - caja de madera, una cara con acrílico para ver los componentes, bellísimo
 - materiales orgánicos (humita?)
-- 
+-
 
-# proyeco 01
+## proyecto 01
+
 ## contrución de prototipo electrónico a partir de circuito APC (Atari Punk Console)
 
 1. premisa del proyecto, motivaciones, declaración inicial del proyecto, proceso
@@ -30,14 +32,17 @@
 5. presentación oral, con soporte en Markdown en GitHub
 6. funcionamiento sí o no, estable o no, frágil o robusto
 
-#### importante
+### importante
+
 - identidad
 - input y output
+
 ____________________________________
 
 todos los chip se configuran
 
-# atari punk console
+## atari punk console
+
 "dos 555 conectados"
 
 NO PONER RESISTENCIA MENOR A 1k EN EL PIN 7
@@ -54,7 +59,6 @@ fuente: [https://www.build-electronic-circuits.com/atari-punk-console/](https://
 ## encargo 1 - bit symphony
 
 ![1-bit symphony](https://github.com/felix-rg416/dis8644-2025-1/blob/main/19-felix-rg416/sesion-04a/archivos/1_bit_symphony.jpg)
-
 
 [fuente](https://cantaloupemusic.com/albums/1-bit-symphony)
 

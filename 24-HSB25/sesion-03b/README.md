@@ -1,6 +1,6 @@
 # sesion-03b
 
-# Encargo 08: Cultura Musical Nacional - *Gonzalo Martínez y sus Congas Pensantes*
+## encargo-08: Cultura Musical Nacional - *Gonzalo Martínez y sus Congas Pensantes*
 
 El disco "**Gonzalo Martínez y sus Congas Pensantes**" es un proyecto de 1997 hecho por Jorge González (el vocalista de Los Prisioneros) y Martín Schopf, un músico chileno que vivía en Alemania y usaba el nombre Dandy Jack conocido por su música electrónica, especialmente en los géneros minimal techno y microhouse. El nombre del disco "Gonzalo Martínez" viene de combinar sus nombres: "Gonzalo" por González y "Martínez" por Martín.
 
@@ -14,12 +14,14 @@ La propuesta del disco Gonzalo Martínez influyó en la escena musical chilena a
 
 ![GONZALOMARTINEZ](https://scontent.fscl38-1.fna.fbcdn.net/v/t39.30808-6/475486496_1162041572593517_7420405655827928993_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=4Zr2g-s50CcQ7kNvgE8xCEQ&_nc_oc=AdmG_-XA_sahQkN0XnfYlG5JbWFEsmbA6e5ZH1eRwjfVeGtiUideZra246LBCsorqmU&_nc_zt=23&_nc_ht=scontent.fscl38-1.fna&_nc_gid=HUTpRUVy8DjsL4-4t6RlOw&oh=00_AYEmSmvZcCaF9POvoCOi0relk4qYQnzDsS9ckYsGpbC2yw&oe=67F0DB3E)
 
-# Encargo 09: Visita al Museo de Arte Contemporáneo
+# encargo-09: Visita al Museo de Arte Contemporáneo
 
 ![museo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Museo_de_Arte_Contempor%C3%A1neo%2C_Santiago_20230305_01.jpg/960px-Museo_de_Arte_Contempor%C3%A1neo%2C_Santiago_20230305_01.jpg)
 
 El **viernes 28 de marzo** realizamos una salida a terreno al **Museo de Arte Contemporáneo (MAC)**, donde pudimos apreciar y observar diversas exposiciones de distintos estilos y temáticas. A continuación, presento las exhibiciones que más llamaron mi atención como grupo:
 
-![imzgen01](imagen01.png)   ![imagen02](imagen03.png)
+![imzgen01](imagen01.png)
+
+![imagen02](imagen03.png)
 
 ![imagen03](imagen02.png)

@@ -8,7 +8,7 @@ links relevantes:
 
 ### Avancesito
 
-![circuito hecho en tinkercad](tme-05b-tinker.png) 
+![circuito hecho en tinkercad](./archivos/tme-05b-tinker.png)
 
 <https://www.tinkercad.com/things/hx7eR7eovWJ-ldalightdependantawelita/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard>
 

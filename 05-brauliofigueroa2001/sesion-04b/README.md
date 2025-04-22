@@ -1,12 +1,14 @@
 # sesion-04b
-## clase viernes 4 de abril
-### apuntes
-llegué tarde otra vez, nunca más voy a llegar tarde.
 
+## clase viernes 4 de abril
+
+### apuntes
+
+llegué tarde otra vez, nunca más voy a llegar tarde.
 
 ### apuntes sueltos
 
-- interfaz, ¿qué está comunicándome a mí la electrónica que está dentro?}
+- interfaz, ¿qué está comunicándome a mí la electrónica que está dentro?
 - ¿se refiere a todo lo del objeto que interactúa conmigo de alguna forma?
 - HCI: Human Computer Interface
 - en un objeto electrónico, el que mostraron en clases que era una especie de juguete, preguntarse: ¿por qué un botón hace algo y el otro otra cosa?¿por qué los dós no actúan al mismo tiempo?, las respuestas a estas preguntas son decisiones de diseño que se tomaron al momento de crear la electrónica del objeto.
@@ -29,14 +31,11 @@ llegué tarde otra vez, nunca más voy a llegar tarde.
 
 ### circuito del día
 
-![IMG_20250408_014645](https://github.com/user-attachments/assets/71e68bd3-6d92-405b-af8b-ff3b2250432f
+![IMG_20250408_014645](<https://github.com/user-attachments/assets/71e68bd3-6d92-405b-af8b-ff3b2250432f>
 
 diagramamos de forma que entendemos que la entrada es por la izquierda, salida a la derecha, voltaje positivo arriba y voltaje negativo abajo.
 
-
-
-
-https://github.com/user-attachments/assets/d7729c86-7298-476a-a743-4879be39f2cc
+<https://github.com/user-attachments/assets/d7729c86-7298-476a-a743-4879be39f2cc>
 
 - hacer un botón experimental el findesemana
 - usar info para mandarla a otra cosa
@@ -53,22 +52,23 @@ https://github.com/user-attachments/assets/d7729c86-7298-476a-a743-4879be39f2cc
 
 ## desarrollo de encargo
 
-
 ![minime](https://github.com/user-attachments/assets/0f7f5a01-8f04-4125-91b0-57689ec4e58b)
 
 El objeto utilizado fue una cámara instax mini 8, la cámara ya estaba mala por lo cual fue fácil acceder a abrirla, en verdad la rompí porque no podía abrirla.
 
 - **¿De dónde obtiene energía este aparato?**
--    la cámara obtiene energía mediante el uso de 2 pilas doble AA que van puestas en el compartimiento de pilas, lo cual va conectado a la pcb principal
+
+- la cámara obtiene energía mediante el uso de 2 pilas doble AA que van puestas en el compartimiento de pilas, lo cual va conectado a la pcb principal
 
 - **¿Qué interacción obtiene desde afuera?**
--  las interacciones que ofrece el objeto desde afuera a simple vista son 5.
+
+- las interacciones que ofrece el objeto desde afuera a simple vista son 5.
 - La primera interacción es para encender la cámara y es con un botón que se ubica en el costado inferior izquierdo al lado del obturador, este botón tiene una forma curvilinea, al apretarlo la cámara despliega el lente hacia afuera y abre el obturador.
--  La segunda interacción que nos ofrece es el botón para sacar fotos, está ubicado en el costado superior derecho y es redondo, este se presiona hacia adentro y se saca la foto
--  La tercera interacción que ofrece la cámara es una especie de manilla alrededor del lente que se gira, este sirve para cambiar los modos de la cámara, a diferencia de las otras 2 interacciones, esta manilla posee luces que se prenden  por encima las cuáles nos indican en cuál modo de filtro fotográfico estamos. La cámara por sí sola prende luces de color rojo para indicarnos cuál filtro o modo de foto es mejor para el contexto en el cuál estamos realizando la fotografía. Además de esto, para saber en cuál modo/filtro estamos, la cámara posee 5 dibujos distintos los cuáles describen específicamente el modo.
--  Además de todo esto la cámara también posee un flash, pero a diferencia de otras cámaras fotográficas, este se activa por sí solo al momento de sacar la foto.
--  La última interacción que nos ofrece desde afuera se realiza mediante la parte posterior de la cámara en la cuál se encuentra una pequeña ranura que nos permite abrir la cámara, tiene forma cuadrada. Cuando abrimos esta ranura encontraremos la película o el rollo fotográfico el cuál es una caja negra rectangular, esta caja una vez dentro, no permite abrir la ranura otra vez hasta que saquemos las 10 fotografías pertinentes que nos ofrece en primer lugar. Al momento de sacar la primera foto saldrá impresa por la parte superior de la cámara una foto en negro que sirve para calibrar la cámara, después de esta primera foto podremos comenzar a sacar fotos con normalidad.
--  Por último ofrece en la parte superior derecha por el costado de la cámara, una pequeña ranura que sobresale la cuál posee una cuerda puesta sobre si misma, esto sirve para amarrarse la cámara en la muñeca y evitar caídas del objeto mientras tomamos fotos, es una medida de seguridad y comodidad para el usuario.
+- La segunda interacción que nos ofrece es el botón para sacar fotos, está ubicado en el costado superior derecho y es redondo, este se presiona hacia adentro y se saca la foto.
+- La tercera interacción que ofrece la cámara es una especie de manilla alrededor del lente que se gira, este sirve para cambiar los modos de la cámara, a diferencia de las otras 2 interacciones, esta manilla posee luces que se prenden  por encima las cuáles nos indican en cuál modo de filtro fotográfico estamos. La cámara por sí sola prende luces de color rojo para indicarnos cuál filtro o modo de foto es mejor para el contexto en el cuál estamos realizando la fotografía. Además de esto, para saber en cuál modo/filtro estamos, la cámara posee 5 dibujos distintos los cuáles describen específicamente el modo.
+- Además de todo esto la cámara también posee un flash, pero a diferencia de otras cámaras fotográficas, este se activa por sí solo al momento de sacar la foto.
+- La última interacción que nos ofrece desde afuera se realiza mediante la parte posterior de la cámara en la cuál se encuentra una pequeña ranura que nos permite abrir la cámara, tiene forma cuadrada. Cuando abrimos esta ranura encontraremos la película o el rollo fotográfico el cuál es una caja negra rectangular, esta caja una vez dentro, no permite abrir la ranura otra vez hasta que saquemos las 10 fotografías pertinentes que nos ofrece en primer lugar. Al momento de sacar la primera foto saldrá impresa por la parte superior de la cámara una foto en negro que sirve para calibrar la cámara, después de esta primera foto podremos comenzar a sacar fotos con normalidad.
+- Por último ofrece en la parte superior derecha por el costado de la cámara, una pequeña ranura que sobresale la cuál posee una cuerda puesta sobre si misma, esto sirve para amarrarse la cámara en la muñeca y evitar caídas del objeto mientras tomamos fotos, es una medida de seguridad y comodidad para el usuario.
 
 ## el interior de la cámara
 
@@ -82,7 +82,7 @@ El objeto utilizado fue una cámara instax mini 8, la cámara ya estaba mala por
 
 ![IMG_20250411_005919](https://github.com/user-attachments/assets/2706ac8d-3caa-4497-8de7-382dc9ea59ea)
 
-![IMG_20250411_010035](https://github.com/user-attachments/assets/323749f8-2b44-48ec-a8b4-71e783ed0bde
+![IMG_20250411_010035](<https://github.com/user-attachments/assets/323749f8-2b44-48ec-a8b4-71e783ed0bde>
 
 ### funcionamiento del interior
 
@@ -108,12 +108,12 @@ El objeto utilizado fue una cámara instax mini 8, la cámara ya estaba mala por
 - TPVB12
 - Algunos de estas siglas (SCAMG,TM,SSY,SSYG,SM,SMG,SP,SCAM) van conectados a través de cables de distintos colores (amarillos,naranjas,blancos,rojos,morados,azules,verdes) hacia la parte de abajo de la PCB a la cuál no tengo acceso para poder ver hacia qué se conectan en ese lugar.
 
-
 ## encargo Switched On Bach
 
 Switched On Bach fue creado por Wendy Carlos en octubre del año 1968 y fue lanzado en ese mismo año por Columbia Records. Éste álbum es una recopilación de piezas de Johann Sebastian Bach pero traspasadas al mundo de los sintetizadores. Carlos estudió y se graduó en Física y Música en Brown University, en su nativa Rhode Island, antes de mudarse a Nueva York en 1962 para estudiar Composición en Columbia University, donde estudió y trabajó con varios técnicos y músicos electrónicos en el Electronic Music Center de Princeton.
 
 **un poco del contexto de cómo partió todo**
+
 - Wendy Carlos había conocido al ingeniero Robert Moog en un evento de la Sociedad de Ingenieros de Audio en 1964, iniciándose una interesantísima asociación en la que Carlos contribuyó con consejos, peticiones y asistencia técnica en el desarrollo del famoso Sintetizador Moog. Carlos convenció a Moog de agregar un teclado sensitivo al toque para mejorar la dinámica de la interpretación, entre otras cosas que se fueron sumando a los sucesivos modelos. Moog reconoció siempre los aportes de Carlos y le dio su respectivo crédito. En 1966, Carlos ya era propietario de un pequeño Moog, el cual utilizó para grabar efectos de sonido y jingles para comerciales de televisión, que le proporcionaron algún dinero.
 
 - Uno de los momentos clave de su historia fue cuando conoce a Rachel Elkind, que era una ex cantante que trabajaba también en los estudios Gotham y tenía un pasado en el jazz. Formaron una amistad y comenzaron a compartir hogar, estudio e ideas.
@@ -125,16 +125,12 @@ Switched On Bach fue creado por Wendy Carlos en octubre del año 1968 y fue lanz
 - Contó con colaboración de su amigo Benjamin Folkman y Rachel Elkind, que fueron piezas fundamentales en el álbum
 - En 1969 entró sorpresivamente en la lista Billboard 200 y alcanzó el puesto 10, permaneció 59 semanas en cartelera
 - Entre 1969 y 1972 permaneció como #1 en la lista de Billboard Classical Albums
-- En 1970 obtuvo tres grammy: mejor álbum clásico, mejor performance clásico para solista instrumental y mejor ingenieria de grabación de disco.
+- En 1970 obtuvo tres Grammy: mejor álbum clásico, mejor performance clásico para solista instrumental y mejor ingenieria de grabación de disco.
 
 ### opinión personal
 
-el álbum me pareció muy original, creo que hay que ser un genio para poder reinterpretar una obra tan conocida de la música clásica y hacerlo de forma increíble. musicalmente hablando me pareció muy atractivo, creo que me gusta más que la obra original, no soy fan de la música clásica pero el cómo interpreta Wendy carlos las canciones hacen que sea mucho más interesante de escuchar. Los sonidos de los sintetizadores hacen que se genere un ambiente inmersivo cuando lo escuchas, esta obra es como si alguien que toca música clásica hubiera viajado al futuro a hacer su obra otra vez, para mí, es completamente adelantada a su época y me alegra mucho que haya tenido el reconocimiento que merecía. 
+el álbum me pareció muy original, creo que hay que ser un genio para poder reinterpretar una obra tan conocida de la música clásica y hacerlo de forma increíble. musicalmente hablando me pareció muy atractivo, creo que me gusta más que la obra original, no soy fan de la música clásica pero el cómo interpreta Wendy carlos las canciones hacen que sea mucho más interesante de escuchar. Los sonidos de los sintetizadores hacen que se genere un ambiente inmersivo cuando lo escuchas, esta obra es como si alguien que toca música clásica hubiera viajado al futuro a hacer su obra otra vez, para mí, es completamente adelantada a su época y me alegra mucho que haya tenido el reconocimiento que merecía.
 
 ![image](https://github.com/user-attachments/assets/c98699ee-e892-49f4-a041-ddcc22051345)
 
 foto de la portada del álbum
-
-
-
-

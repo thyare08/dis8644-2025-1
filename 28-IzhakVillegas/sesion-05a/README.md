@@ -1,7 +1,11 @@
 # sesion-05a
-### AC
+
+## AC
+
 Oscilación ondulada. Energía domiciliaria
-### DC
+
+## DC
+
 Oscilación cuadrada. Recta.
 Baterías
 
@@ -11,7 +15,6 @@ Pila AA: 1.5V
 
 ### Circuito _Atari Punk Console_
 
-
 Condensador, el sonido es cambio.
 Cono de parlante se va hacia afuera, presión atmosférica. El sonido mecánicamente comprime localmente la materia, aumento temporal en la presión atmosférica, después esa oscilación se propaga y acaba por ser ruido que nosotros podemos percibir.
 
@@ -20,7 +23,7 @@ Capacitores y bobinas C y L, son resistencias pero no lineales, dependen de la f
 
 Corriente continua tiene frecuencia 0. Un capacitor tiene un voltaje, solo deja pasar las oscilaciones, deja de ser la parte constante. El capacitor elimina DC. Elimina las variaciones porque eso es lo que importa en el sonido. Resistor es plano, atenúa siempre igual. El capacitor le importa la frecuencia de la onda, depende de la frecuencia y el voltaje.
 
-Lo que le interesa al sonido para escuchar es la diferencia. El parlante a 9V está al límite pero si lo filtramos es seguro. Capacitor sirve para hacer filtros **ECUALIZADOR** un C. Logra hacer barreras al sonido.
+Lo que le interesa al sonido para escuchar es la diferencia. El parlante a 9V está al límite pero si los filtramos es seguro. Capacitor sirve para hacer filtros **ECUALIZADOR** un C. Logra hacer barreras al sonido.
 
 ### _Modding_ para el _Atari Punk Console_
 
@@ -29,11 +32,13 @@ Resistencia > protección. Condensador > protección. 1K es una resistencia mín
 Capacitor de desacoplamiento. De desacople _DC COUPLING_
 
 ¿Cómo se sumaban las resistencias en serie y en paralelo?
+
 * R1 + R2 -> equivalente(en serie)
 * Req= R1*R2/R1+R2 = R equivalente (en paralelo)
 
 Los condensadores son inversos a la resistencia en el cálculo de suma
 Con condensadores
+
 * Suma de condensadores en paralelo > se suman directamente Ceq= C1+C2
 * Suma de condensadores en serie Ceq= C1*C2/C1+C2
 
@@ -50,7 +55,8 @@ Carril SPDT. Switch que decide si las ranuras están conectadas, no es un ON/OFF
 La resistencia experimental se puede "romper" a dos posibles interruptores y dos resistencias experimentales distintas.
 Experimentación manual.
 
-### Siguiente encargo. Rehacer el _Atari Punk Console_ y experimentar, registrar. Para el viernes encontraremos los materiales que nos hace falta.
+### Siguiente encargo. Rehacer el _Atari Punk Console_ y experimentar, registrar. Para el viernes encontraremos los materiales que nos hace falta
+
 Crear un esquemático APC propio.
 
 Revisar _555 Timer Circuits_.

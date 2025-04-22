@@ -89,5 +89,16 @@
 
 <https://github.com/user-attachments/assets/476f0dd1-4b2c-4b47-8ee2-b2e84eb0b15f>
 
-https://github.com/user-attachments/assets/0be9c8a3-4105-4911-8076-4f51efa54e32
+<https://github.com/user-attachments/assets/0be9c8a3-4105-4911-8076-4f51efa54e32>
 
+## Bitácora en clases 15/04
+
+![IMG_0969](https://github.com/user-attachments/assets/9336d784-5ffc-4e4b-bbd3-edd370f6dbc2)
+![IMG_0970](https://github.com/user-attachments/assets/a63dba0b-3693-4900-bae3-888fb07f788b)
+
+## Registro grupo 9
+
+![IMG_0830](https://github.com/user-attachments/assets/7b315d8b-feeb-405d-968c-59c0afe82177)
+![IMG_0840](https://github.com/user-attachments/assets/87af667c-01d0-4e15-8241-314afb8dc0da)
+![IMG_0845](https://github.com/user-attachments/assets/161dd797-b908-4427-a1ab-21727daa0dbf)
+<https://github.com/user-attachments/assets/8d5d6d13-4425-4eba-b9bf-12994d434260>

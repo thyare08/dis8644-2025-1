@@ -7,8 +7,11 @@
 ![IMG_0554 (1)](https://github.com/user-attachments/assets/50d5d1c6-3d57-4ac8-bd0c-4930f754e0c7)
 
 ## trabajo en clases 555 monoestable
+
 <https://github.com/user-attachments/assets/20a44042-d3b9-4d95-8e0c-9d8c8d35f86b>
+
 <https://github.com/user-attachments/assets/59f18783-94b3-4725-8466-367c408c20fc>
+
 <https://github.com/user-attachments/assets/9564e6b6-f195-4000-aee1-0e2584f9381e>
 
 ## Switched on Bach - Wendy Carlos
@@ -31,7 +34,7 @@ Es un modular inventado por el ingeniero estadounidense Robert Moog en 1964. Se 
 
 información de: <https://120years.net/moog-synthesisersrobert-moogusa1963-2/>
 
-## encargo: bajando la opcacidad a la caja negra
+## encargo: bajando la opacidad a la caja negra
 
 Valentina ruz, Anais Marschhausen y Sofía Cartes
 
@@ -46,4 +49,3 @@ Valentina ruz, Anais Marschhausen y Sofía Cartes
 ![IMG_0605](https://github.com/user-attachments/assets/a2c9a214-b0ad-4cbd-b28f-69421cdc12bb)
 ![IMG_0612](https://github.com/user-attachments/assets/3cb44238-44ad-4ce5-bb65-72fecffa1015)
 ![IMG_0611 2](https://github.com/user-attachments/assets/4cd5bd01-23e6-4695-a2c4-caac9537871d)
-

@@ -76,6 +76,18 @@ cada criterio es evaluado según:
 
 instalar software Kicad en su computador personal, incluir información sobre la instalación, la versión que están usando, el sistema operativo que usan, los idiomas que están usando, las carpetas en donde instalas la app y cualquier otra biblioteca o archivos relacionados, además de cualquier otro dato relevante.
 
-## encargo-13: aprender kicad
+Documentarse con [Manual de supervivencia de KiCAD](https://misaa.notion.site/Manual-de-supervivencia-para-KiCAD-8cc756e79ced4271ad575874aaa3497e?pvs=4)
 
-aprender a usar Kicad, usando de base los tutoriales oficiales en inglés, o un video en español como el de misaa disponible en <https://www.youtube.com/watch?v=hn_pk0nWDns>. ojo que existen muchas versiones de kicad a través de los años, documentar cualquier inconveniente, cambio de léxico, u otro detalle importante para poder navegar las versiones distintas y lograr trabajar con Kicad en el 2025.
+## encargo-13
+
+ver el documental Sisters with transistors (solo online sin subs)
+https://archive.org/details/sisters_with_transistors
+
+puede arrendarse por US$4.99 y comprarse por US$12.99.
+https://vimeo.com/ondemand/sisterswithtransistors/534859824
+
+también disponible en prime
+
+Subtítulos disponible en [.srt](Sisters.with.Transistors.2020.WEB-DL.1080p.DVO.srt)
+
+Escoger artista favorita del documental y escuchar algún concierto o disco de ella

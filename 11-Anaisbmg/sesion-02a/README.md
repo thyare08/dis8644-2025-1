@@ -1,5 +1,5 @@
 # sesion-02a
-# 18-marzo
+## 18-marzo
 github: 
 - Branch: cambios aislados
 - todo en minúscula
@@ -22,7 +22,21 @@ recomendación:
 
 -calculadora de resistencia: https://www.digikey.com/es/resources/conversion-calculators/conversion-calculator-resistor-color-code
 
-# circuito eléctrico
+## encargo-04
+**dinámica estructural**
+
+1 de agosto 2024, chile
+
+por pablo gómez bate
+
+estilos: Ambient, IDM, Trip-Hop
+
+Personalmente, me gustó este disco. Lo escuché mientras realizaba tareas y sentí que me ayudó a concentrarme mucho más. Creo que sus melodías envolventes influyeron en esto. Considero que tiene un buen contraste entre el ritmo y la experimentación, algo que se aprecia a lo largo del álbum. Aunque sigue una idea central, el disco tiene un desarrollo claro a medida que avanzan las canciones, lo que genera un contraste interesante entre la primera y la última canción.
+
+## encargo-05
+
+## circuito eléctrico
+
 esquemático: No muestra la disposición real de los elementos, muestra cómo están conectados eléctricamente. Se usa para diseñar y entender el funcionamiento del circuito.
 físico: representación real
 circuito eléctrico: trayectoria cerrada que recorre una corriente eléctrica. Este recorrido se inicia una terminal de la pila, pasa a través de un conducto eléctrico, llega a una resistencia, que consume parte de la energía eléctrica; continúa después por el conducto, llega a un led y regresa a la otra terminal de la pila. 
@@ -30,7 +44,8 @@ circuito eléctrico: trayectoria cerrada que recorre una corriente eléctrica. E
 ![2a Clase F1](https://github.com/user-attachments/assets/82c388ba-d7d6-40b4-b871-60f5c3ece5a8)
 
 
-# circuito en serie
+## circuito en serie
+
 "Dependiendo de la manera en que se conectan los componentes de un circuito, estos pueden estar conectados en serie, en paralelo o de manera mixta, que es una combinación de estos dos últimos.
 
 - Los componentes están conectados de modo que las cargas eléctricas circulan por un solo trayecto
@@ -41,7 +56,7 @@ circuito eléctrico: trayectoria cerrada que recorre una corriente eléctrica. E
 ![2a Clase F2](https://github.com/user-attachments/assets/4dcad165-10ef-4c45-ae77-e4653a023151)
 
 
-# circuito en paralelo
+## circuito en paralelo
 
 - "Los componentes están conectados de modo que se presenta más de un camino para el paso de las cargas eléctricas.
 - Cada ampolleta está conectada directamente a la pila, de modo que todas tienen el mismo voltaje.
@@ -69,15 +84,8 @@ v=i:r
 
 *si no estoy segura de la polaridad, se busca.
 
-# encargo-04
-**dinámica estructural**
-1 de agosto 2024, chile
-por pablo gómez bate
-estilos: Ambient, IDM, Trip-Hop
-Personalmente, me gustó este disco. Lo escuché mientras realizaba tareas y sentí que me ayudó a concentrarme mucho más. Creo que sus melodías envolventes influyeron en esto. Considero que tiene un buen contraste entre el ritmo y la experimentación, algo que se aprecia a lo largo del álbum. Aunque sigue una idea central, el disco tiene un desarrollo claro a medida que avanzan las canciones, lo que genera un contraste interesante entre la primera y la última canción.
+### resistencia 
 
-# encargo-05
-# resistencia 
 - 100K café-negro-amarillo
 - 10K café-negro-naranjo
 - 1k café-negro-rojo
@@ -85,12 +93,14 @@ Personalmente, me gustó este disco. Lo escuché mientras realizaba tareas y sen
 - 100Ω café-negro-café
 
 ¿Qué significa cada banda?
-1. indica el primer dígito del valor.
-2. indica el primer dígito del valor.
-3. es el multiplicador 
-4. tolerancia que puede variar
 
-***experimentación*** 
+1. indica el primer dígito del valor.
+3. indica el primer dígito del valor.
+4. es el multiplicador 
+5. tolerancia que puede variar
+
+**experimentación**
+
 ![Experimentación1](https://github.com/user-attachments/assets/490cf8a6-edcc-448c-8b55-d53baca8ecf2)
 ![Experimentación2](https://github.com/user-attachments/assets/a34c265d-2b4a-4712-a9ec-dc9fd79edb29)
 ![Experimentación3](https://github.com/user-attachments/assets/99d0919c-ab92-4ecc-9494-d3500a11ad92)
