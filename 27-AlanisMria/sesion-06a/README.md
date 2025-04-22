@@ -1,7 +1,7 @@
 # sesion-06a
 *22 de abril de 2025*
 
-### KiCad
+## KiCad
 
 1. Evaluaremos los componentes en nuestro poder 
 
