@@ -14,11 +14,11 @@
 - [future sketches](https://www.media.mit.edu/groups/future-sketches/overview/)
 - [Simulador de cirguitos](https://www.falstad.com/circuit/circuitjs.html)
 - Googlear componentes:
-      - [victronics](https://www.victronics.cl/)
-      - [mousser](https://www.mouser.cl/)
-  - CSV - archivo de tablas (se puede usar con excel - probar con GitHub)
-  - La caverna de Platón
-  - [clacktronics](https://clacktronics.co.uk/)
+  - [victronics](https://www.victronics.cl/)
+  - [mousser](https://www.mouser.cl/)
+- CSV - archivo de tablas (se puede usar con excel - probar con GitHub)
+- La caverna de Platón
+- [clacktronics](https://clacktronics.co.uk/)
 
 La belleza de la protoboard "Me gusta que las cosas puedan fallar" Aarón
 
