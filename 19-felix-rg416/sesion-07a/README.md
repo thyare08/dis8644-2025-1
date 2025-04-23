@@ -14,12 +14,16 @@
 - [open frameworks](https://openframeworks.cc/) - programación nivel dios, cuando la programación no alcance tus sueños 
 - [future sketches](https://www.media.mit.edu/groups/future-sketches/overview/)
 - [Simulador de cirguitos](https://www.falstad.com/circuit/circuitjs.html)
+
 - Googlear componentes:
   - [victronics](https://www.victronics.cl/)
   - [mousser](https://www.mouser.cl/)
+
 - CSV - archivo de tablas (se puede usar con excel - probar con GitHub)
 - La caverna de Platón
-- [clacktronics](https://clacktronics.co.uk/)
+- [clacktronics](https://clacktronics.co.uk/) TODO MUY LOCO - ME ENCANTA
+- [una placa al mes si eres miembro](https://boldport.com/club) 
+- [mandar a hacer las placas](https://jlcpcb.com/)
 
 La belleza de la protoboard "Me gusta que las cosas puedan fallar" Aarón
 
