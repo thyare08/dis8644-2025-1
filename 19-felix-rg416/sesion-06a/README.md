@@ -87,4 +87,3 @@ Pitch = [P] = distancia entre patitas
 - Modificar la pista [G]
 - Seleccionar toda la pista [U]
 - Rellena todo [B] (area de relleno)
-- 
