@@ -79,14 +79,15 @@ Pitch = [P] = distancia entre patitas
 
 ### ruteo
 
-7 capas = 
-    - F.Cu (capa superior de cobre)
-    - Edges.Cut
-    - B.Cu (capa inferior de cobre)
-    - F.Silkscreen (capa superior de grabado)
-    - B.Silkscreen (capa inferior de grabado)
-    - F.Mask (placa superior protectora - color)
-    - F.Mask (placa inferior protectora - color)
+##### 7 capas
+
+- F.Cu (capa superior de cobre)
+- Edges.Cut
+- B.Cu (capa inferior de cobre)
+- F.Silkscreen (capa superior de grabado)
+- B .Silkscreen (capa inferior de grabado)
+- F.Mask (placa superior protectora - color)
+- B.Mask (placa inferior protectora - color)
 - Visor 3D [Alt + 3]
 - Seleccionar TODO [Alt + A]
 - Modificar la pista [G]
