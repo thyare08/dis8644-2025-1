@@ -29,15 +29,18 @@ E: información mucho más completa del componente
 
 do-35 forma de diodos
 
+*Esquema 
+
+*Dibujo esquemático: sch
+
+*Asignar huellas
+
+*Ruteo
+
 ![Captura de pantalla 2025-04-22 114215](https://github.com/user-attachments/assets/996fbde3-415e-4dab-9985-3a436386ae01)
 
 
 
 
 
-
-esquema 
-dibujo esquemático: sch
-asignar huellas
-ruteo
 
