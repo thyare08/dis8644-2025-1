@@ -25,7 +25,7 @@
 - [una placa al mes si eres miembro](https://boldport.com/club) 
 - [mandar a hacer las placas](https://jlcpcb.com/)
 
-La belleza de la protoboard "Me gusta que las cosas puedan fallar" Aarón
+La belleza de la protoboard "Me gusta que las cosas puedan fallar" - Aarón
 
 ## kicad 
 
@@ -53,7 +53,7 @@ qué componentes hay, cómo se ocupan, cómo se interconectan, qué valores tien
 - Dublicar [comand + D]
 - Wire (cable) [W]
 - Marca de no conectado [Q]
-- **Ctrl + S** GUARDAR "yo no confío en nadie, sólo en mi ctrl + S 5 veces cada 5 segundos" Misa
+- **Ctrl + S** GUARDAR "yo no confío en nadie, sólo en mi ctrl + S 5 veces cada 5 segundos" - Misa
 - Información completa del componente [E]
 - Reflejo en eje X [X]
 - Reflejo en eje y [Y]
