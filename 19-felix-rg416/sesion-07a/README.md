@@ -14,14 +14,18 @@
 - [open frameworks](https://openframeworks.cc/) - programación nivel dios, cuando la programación no alcance tus sueños 
 - [future sketches](https://www.media.mit.edu/groups/future-sketches/overview/)
 - [Simulador de cirguitos](https://www.falstad.com/circuit/circuitjs.html)
+
 - Googlear componentes:
   - [victronics](https://www.victronics.cl/)
   - [mousser](https://www.mouser.cl/)
+
 - CSV - archivo de tablas (se puede usar con excel - probar con GitHub)
 - La caverna de Platón
-- [clacktronics](https://clacktronics.co.uk/)
+- [clacktronics](https://clacktronics.co.uk/) TODO MUY LOCO - ME ENCANTA
+- [una placa al mes si eres miembro](https://boldport.com/club) 
+- [mandar a hacer las placas](https://jlcpcb.com/)
 
-La belleza de la protoboard "Me gusta que las cosas puedan fallar" Aarón
+La belleza de la protoboard "Me gusta que las cosas puedan fallar" - Aarón
 
 ## kicad 
 
@@ -49,7 +53,7 @@ qué componentes hay, cómo se ocupan, cómo se interconectan, qué valores tien
 - Dublicar [comand + D]
 - Wire (cable) [W]
 - Marca de no conectado [Q]
-- **Ctrl + S** GUARDAR "yo no confío en nadie, sólo en mi ctrl + S 5 veces cada 5 segundos" Misa
+- **Ctrl + S** GUARDAR "yo no confío en nadie, sólo en mi ctrl + S 5 veces cada 5 segundos" - Misa
 - Información completa del componente [E]
 - Reflejo en eje X [X]
 - Reflejo en eje y [Y]
@@ -75,14 +79,15 @@ Pitch = [P] = distancia entre patitas
 
 ### ruteo
 
-7 capas = 
-    - F.Cu (capa superior de cobre)
-    - Edges.Cut
-    - B.Cu (capa inferior de cobre)
-    - F.Silkscreen (capa superior de grabado)
-    - B.Silkscreen (capa inferior de grabado)
-    - F.Mask (placa superior protectora - color)
-    - F.Mask (placa inferior protectora - color)
+##### 7 capas
+
+- F.Cu (capa superior de cobre)
+- Edges.Cut
+- B.Cu (capa inferior de cobre)
+- F.Silkscreen (capa superior de grabado)
+- B .Silkscreen (capa inferior de grabado)
+- F.Mask (placa superior protectora - color)
+- B.Mask (placa inferior protectora - color)
 - Visor 3D [Alt + 3]
 - Seleccionar TODO [Alt + A]
 - Modificar la pista [G]
