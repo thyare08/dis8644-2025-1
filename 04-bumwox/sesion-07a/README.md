@@ -49,3 +49,8 @@ __7 capas importantes__
 
 - coordenadas de el puntero en el mapa del editor de placas
   
+## 14. atari punk console + variacion en kicad
+
+## 15. dudas + aprendizajes
+
+## 15.1 noise toy "manatees
