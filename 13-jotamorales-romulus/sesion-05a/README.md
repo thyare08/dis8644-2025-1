@@ -20,6 +20,6 @@ CONTROL XBOX
 La mayoría de los proyectos de electrónica, como la Atari Punk Console (APC), empiezan con el sonido. Esto se debe a que el sonido nos ayuda a verificar si el circuito está funcionando bien. Así sabemos si algo está bien o mal conectado.
 
 - AC/DC, que son dos tipos de corriente eléctrica, alterna (AC) y continua (DC), esenciales para dispositivos electrónicos. El nombre de la banda AC/DC toma estos términos para reflejar energía y potencia. Al igual que en la música de la banda, que tiene un ritmo constante y potente, estas dos formas de energía, aunque opuestas, se complementan para crear algo poderoso.
-- ![image](https://github.com/user-attachments/assets/78635d95-1723-49d7-aad7-42b72e68671f)
+![image](https://github.com/user-attachments/assets/78635d95-1723-49d7-aad7-42b72e68671f)
 
 Ya casi al término de la clase nos dijeron que jugáramos con el Atari Punk Console, pero aquí empezó un caos. Resulta que desde la clase anterior estaba atrasado y desarmé el APC para armarlo bien, pero seguía atascado en la primera parte. Varios grupos ya estaban trabajando en conjunto, pero el mío, con Braulio y Fran de la UDP, estábamos bastante desconectados, éramos dos lados opuestos. Fran ya tenía su circuito listo, mientras Braulio y yo estábamos intentando recién lograr armar el Atari, así que no pudimos experimentar. Me frustré bastante al escuchar los sonidos que hacían los otros grupos. Pregunté varias veces cómo iba el proceso y qué estaba mal, pero cuando se acabó la hora no pude seguir. 
