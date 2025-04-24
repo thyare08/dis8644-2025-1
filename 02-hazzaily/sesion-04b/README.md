@@ -46,11 +46,12 @@ Vídeo Experimentación con circuito Monoestable
 
 Observación: Al cambiar el condensador electrolítico de 100u por uno de 10u logramos observar un cambio en cuanto a la duración del enecendido del LED, este se enciende y se apaga apenas uno presiona el botón y lo suelta, además de que es capaz de mantenerse encendido durante todo el tiempo en que este presionado el botón. En cambio, con el condensador de 100u no tenemos este resultado.
 
-- **Encargo 11:** Escuchar "Switched on Batch de Wendy Carlos.
+## Encargo 10: Escuchar "Switched on Batch de Wendy Carlos
 
 Foto de mi croquera.
 
-- **PROJ1:** Bajando opacidad a la caja negra.
+
+## Encargo 11: Bajando opacidad a la caja negra
 
 ![1](https://github.com/user-attachments/assets/4d81ab85-1edf-4a90-b10b-14d062425187)
 

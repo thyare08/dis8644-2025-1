@@ -67,9 +67,11 @@ _▼ Dron abierto y diagramado_
 
 - **Condensadores:** El Condensador Cerámico es un componente electrónico pasivo que es capaz de almacenar una carga eléctrica, se comporta como un filtro que bloquea la corriente directa y permite que la corriente alterna fluya sin ningún problema.
 
+<br>
+
 ***
 
-### Registro visual: avances, procesos, errores
+### Desarrollo: avances, procesos, videos e imágenes
 
 <br>
 
@@ -77,41 +79,23 @@ _▼ Dron abierto y diagramado_
 
 _▼ Fotografía del circuito - Primera parte_
 
+<br>
+
+https://github.com/user-attachments/assets/ce2a415f-f977-404f-ae49-371a6b5f4876
+
+_▼ Video del circuito funcionando_
+
+<br>
+
 ![WhatsApp Image 2025-04-14 at 9 16 33 PM](https://github.com/user-attachments/assets/3dd10f62-5c41-4f81-95bd-aff92467df84)
 
 _▼ Diagrama - Primera parte_
 
-![WhatsApp Image 2025-04-14 at 10 10 57 PM](https://github.com/user-attachments/assets/03d5d335-aec2-4837-8cb9-53150997acca)
+<br>
 
-<https://github.com/user-attachments/assets/01c84a79-8003-42ce-b24c-b0f0ae260781>
+#### Bill of materials diagrama 1
 
-En esta ocasión probamos conectando un LDR al caimán, donde el sonido queda estático  
-
-<https://github.com/user-attachments/assets/6e3b1046-6087-439d-90f5-5783a0b47423>
-
- Pero nos dimos cuenta de que faltaba un componente!!!
-
- ![WhatsApp Image 2025-04-15 at 12 00 28 AM](https://github.com/user-attachments/assets/979a5d7e-6f49-4dcd-9412-947ec612061e)
-
-## Arreglo de errores
-
- ![WhatsApp Image 2025-04-15 at 12 06 05 AM](https://github.com/user-attachments/assets/041c3b2a-5799-4a44-9650-d4b17ef6e887)
-
-<https://github.com/user-attachments/assets/547e6b82-f461-43aa-b481-85769ec32518>
-
-## Experimentación
-
-Cambiamos el **LDR** que estaba en los cables amarillos, por un **pedazo de membrillo**, y funciona!!!
-
-![WhatsApp Image 2025-04-15 at 12 16 26 AM](https://github.com/user-attachments/assets/f76a36e3-8174-494a-9bb7-d52c60df6218)
-
-<https://github.com/user-attachments/assets/fafc23d4-49af-4e43-bb54-dee9a7d308ee>
-
-## Primera parte del esquema corregido
-
-![WhatsApp Image 2025-04-15 at 3 10 30 AM](https://github.com/user-attachments/assets/47625dfd-8b80-44e5-ad6f-5b12937dec05)
-
-## Bill of materials esquema 1
+<br>
 
 | Componente       | Qty | Nombre(s) | Valor/tipo |
 |-----------------------|---------|------------|----------------|
@@ -120,11 +104,77 @@ Cambiamos el **LDR** que estaba en los cables amarillos, por un **pedazo de memb
 | Condensadores         | 3       | C1,C2,C3   | 100n, 100u     |
 | Parlante              | 1       |  LS1       |      2w        |
 
-## Esquema completo
+<br>
+
+***
+
+<br>
+
+El siguiente avance consistió en armar la seguna parte del circuito Atari, conectardo otro chip 555 pero con la modificación de que se le agrega un interruptor al final del camino, este conectando a 2 condensadores cerámicos polarizados de distintos valores en cada camino. Puesto que este circuito como tal funcionaba de forma estática al conectar una fruta a los cables tipo caimán, probamos a cambiarlo por un un LDR. El resultado para ambos circuitos fue el mismo: un sonido que se mantiene independiente de el uso del interruptor, solo varía segun lo que se conecte a los caimanes.
+
+<br>
+
+<https://github.com/user-attachments/assets/c9100e24-443c-45cd-bf76-fc65ae19f9fb>
+
+_▼ Video de la primera versión del segundo citcuito_
+
+<br>
+
+<https://github.com/user-attachments/assets/6e3b1046-6087-439d-90f5-5783a0b47423>
+
+_▼ Video de la segunda versión del segundo citcuito (con LDR conectado a caimán)_
+
+<br>
+
+Tras ver las fallas que se presentaban, realicé el circuito tal cual cómo se había mostrado en clases todo este tiempo (usando como resistencias experimentales sensores LDR).
+Al analizar el circuito y sus partes se llegó a la conclusión de ver una parte faltante.
+
+<br>
+
+<https://github.com/user-attachments/assets/73094c17-99c1-47d2-8942-8a9a091a37b1>
+
+_▼ Circuito original del Atari Punk Console con sensores LDR_
+
+<br>
+
+![WhatsApp Image 2025-04-15 at 12 00 28 AM](https://github.com/user-attachments/assets/979a5d7e-6f49-4dcd-9412-947ec612061e)
+
+_▼ Detalle de la parte faltante del circuito_
+
+<br>
+
+Una vez agregada esta parte al circuito solo quedó volver a colocar el interruptor, donde un camino presenta un potenciometro mientras que el otro solo tiene una resistencia y un condensador cerámico polarizado, demostrando un resultado exitoso.
+
+<br>
+
+![WhatsApp Image 2025-04-14 at 10 10 57 PM](https://github.com/user-attachments/assets/03d5d335-aec2-4837-8cb9-53150997acca)
+
+_▼ Fotografía del circuito - Segunda parte_
+
+<br>
+
+<https://github.com/user-attachments/assets/01c84a79-8003-42ce-b24c-b0f0ae260781>
+
+_▼ Video del circuito usando el camino del condensador_
+
+<br>
+
+<https://github.com/user-attachments/assets/5c55a574-e296-4451-891d-6de0009927bc>
+
+_▼ Video del circuito usando el camino del potenciometro_
+
+
+<br>
 
 ![WhatsApp Image 2025-04-15 at 3 31 32 AM (1)](https://github.com/user-attachments/assets/132ddb01-a23e-4f2c-a78a-8fe81fba02f0)
 
-## Bill of material final
+_▼ Diagrama del circuito fnal_
+
+<br>
+
+#### Bill of materials diagrama final
+
+<br>
 
 | Componente       | Qty | Nombre(s) | Valor/tipo |
 |-----------------------|---------|------------|----------------|
@@ -135,3 +185,49 @@ Cambiamos el **LDR** que estaba en los cables amarillos, por un **pedazo de memb
 | Potenciómetro                  | 1       |  P1         |      B500K          |
 | Led                  | 1       |  L1         |      3,3w          |
 | Interruptor                  | 1       |  IN1         |               |
+
+<br>
+
+***
+
+### Un poco de información extra
+
+<br>
+
+#### ¿Cómo crear un sensor de presencia?
+
+Ya realizados los avances de las otras partes del circuito, se procede a averiguar de que forma se puede activar el dispositivo mediante la detección de movimiento para que se pueda encender. 
+
+Al momento de investigar pude dar con un video que expone el circuito de una alarma que se enciende al acercarse a distancia que es regulada por un potenciometro y que debe ser apagada de forma manual.  La creación del sensor de presencia mediante el uso de LDR’s, un amplificador operacional y algunas otras partes serán replicadas y puestas a prueba.
+
+<br>
+
+[https://youtu.be/QwVMbZH8AtY?si=JZScxDciYkhHqdmQ](https://youtu.be/FX98xrTd4os?si=KW8wmtMbXif0Z4fG)
+
+
+_▼ Video de referencia para armar un circuito con un sensor de proximidad. Obtenido de Youtube - Ivan Espinoza._
+
+<br>
+
+![IMG_0158](https://github.com/user-attachments/assets/e71b5c89-c527-4101-84bf-a8682fe4f187)
+_▼ Captura del circuito armado en protoboard. Obtenido de Youtube - Ivan Espinoza._
+
+<br>
+
+![IMG_0155](https://github.com/user-attachments/assets/9359a88a-f24b-418d-8f60-b3266ea0687e)
+_▼ Captura del circuito final (en placa PCB). Obtenido de Youtube - Ivan Espinoza._
+
+<br>
+
+![IMG_0156](https://github.com/user-attachments/assets/2004040a-e53d-4f18-9b48-7dd1cf90485f)
+_▼ Diagrama del circuito. Obtenido de Youtube - Ivan Espinoza._
+
+<br>
+
+#### Piezas clave de este circuito
+
+- **LDR:** es un sensor analógico compuesto por una resistencia que cambia su valor dependiendo de la cantidad de luz que reciba, por lo que se le confieran sensores pasivos al requerir de un estimulo que es variable. Si existe más cantidad de luz detectada la resistencia disminuye y, por ende, deja pasar más corriente al aumentar su conductibilidad. Los materiales que poseen son semiconductores, como sulfuro de cadmio (CdS). Son utiles para proyectos de control de iluminación, seguidores solares, interruptores crepusculares. Hay que tener presente que estos tienen baja precisión.
+
+- **Am. Op. Lm741:**  Un amplificador operacional es un tipo de circuito integrado compuesto por multiples transistores que permiten controlar las corrientes y tensiones. Este modelo (741) es uno de los más usados para amplificar las señales analógicas, siendo de los más comunes y versátiles. Poseen dos entradas y una salida, además de una alimentación positiva y otra negativa. La configuración de estas partes define el comportamiento del chip. Entre sus características se encuentran su alta ganancia (aumento significativo de la amplitud o potencia de la señal por el puerto de salida en comparación con el la potencia de la entrada), su amplio rango de de voltaje de operación, bajo costo y alta presencia en el mercado. 
+
+- **Potenciometro de precisión:** también llamado potenciometro multi vueltas, es una resistencia continuamente ajustable con la cualidad de permitir ajustes más precisos del valor de la resistencia al girar la pieza ubicada en la parte superior, por lo que su presencia suele encontrarse en circuitos que se requiere de un control fino y repetible de la señal. Como ejemplo de sus aplicaciones en máquinas se pueden encontrar son sistemas de maquinarias o cadenas de ensamblaje automatizadas. Otras de sus ventajas es su pequeño tamaño. En nuestro caso usaremos un potenciometro 3296W (1k, 10k, 100k) que rinde 25 vueltas aproximadamente.
