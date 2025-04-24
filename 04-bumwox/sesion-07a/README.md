@@ -68,8 +68,8 @@ __dudas__
 
 __aprendizajes__
 
-- creo que aprendi una gran herramienta, quizas le tenia un poco de miedo ya que sea veia complicada pero en el proceso lo he encontrado bastante entretenido, ya que siento que estoy armando un puzle, y lo mejor de todo es que lo entiendo lo que veo y hago asi que es bastante satisfactorio poder hacerlo con mis propias manos 👌
+- creo que aprendi una gran herramienta, quizas le tenia un poco de miedo ya que sea veia complicada pero en el proceso lo he encontrado bastante entretenido, ya que siento que estoy armando un puzle, y lo mejor de todo es que lo entiendo lo que veo y hago, asi que es realmente satisfactorio poder hacerlo con mis propias manos 👌
 
-## 15.1 [noise toy](https://loudobjects.bandcamp.com/album/noise-toys) ___"manatees"___
+## 15.1 [noise toy](https://loudobjects.bandcamp.com/album/noise-toys) -  ___"manatees"___
 
 
