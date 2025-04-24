@@ -25,28 +25,27 @@
 - Este instrumento estaba asociado a melodías cortas, así que clara interpretó una sonata de césar franck, y logró hacerlo sonar como nadie más. una joven artista le dijo que sonaba como el canto de un alma, algo que a clara le pareció bellísimo. ella creía que debía convencer al público de que se trataba de un medio artístico, interpretado por una verdadera artista.
 
 
-fuente: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.insomniac.com%2Fmagazine%2Fclara-rockmore-theremin-witch%2F&psig=AOvVaw2wWu5loE9P-5X2DI95zv5m&ust=1745445398388000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCNCf_frQ7IwDFQAAAAAdAAAAABBC
-fuente: https://www.google.com/url?sa=i&url=https%3A%2F%2Ftheremin.today%2F%3Fp%3D10343%26lang%3Den&psig=AOvVaw2wWu5loE9P-5X2DI95zv5m&ust=1745445398388000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCNCf_frQ7IwDFQAAAAAdAAAAABBe
-
+fuente: https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2018/03/13000706/Clara-Rockmore-by-Toppo-c.-1930.Cropped-15M.jpg
+fuente: https://theremintimes.ru/wp-content/uploads/2021/03/%D1%80%D0%BE%D0%BA%D0%BC%D0%BE%D1%80-%D0%B8-%D1%81%D1%82%D0%BE%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9.jpg
 ### Daphne Oram
 
 -
 
-fuente: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bbc.com%2Fmundo%2Fvert-cul-40225071&psig=AOvVaw0yKQ1i9s4VG1RWN0zQzdAU&ust=1745445723621000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCLjM5JfS7IwDFQAAAAAdAAAAABAS
-fuente: https://www.google.com/url?sa=i&url=https%3A%2F%2Fasociacionmim.com%2Fdaphne-oram-una-mujer-que-desafio-los-limites-de-la-musica-y-la-tecnologia%2F&psig=AOvVaw0yKQ1i9s4VG1RWN0zQzdAU&ust=1745445723621000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCLjM5JfS7IwDFQAAAAAdAAAAABAY 
+fuente: https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/8F53/production/_96419663_mediaitem96419662.jpg.webp
+fuente: https://asociacionmim.com/wp-content/uploads/2023/11/Daphne-Oram-1.jpg
 
 ### Delia Derbyshire
 
 -
 
-fuente: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.effectrode.com%2Fknowledge-base%2Fdelia-derbyshire-recording-the-future%2F&psig=AOvVaw2qdJYv2dXjL02fCaIje2bd&ust=1745445917279000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCIiU0PnS7IwDFQAAAAAdAAAAABAJ
-fuente: https://www.google.com/url?sa=i&url=https%3A%2F%2Fproyectoidis.org%2Fdelia-derbyshire%2F&psig=AOvVaw2zYGLZ9wEPqqfTpFQyV57P&ust=1745446080397000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCKiQ3b7T7IwDFQAAAAAdAAAAABAg
+fuente: https://www.effectrode.com/wp-content/uploads/2018/08/delia_derbyshire_radiophonic_workshop_1965.jpg
+fuente: https://proyectoidis.org/wp-content/uploads/1963/04/444103d0b8a147920668e527c686d7fc.jpg
 
 ### Bebe Barron
 
 -
-fuente:
-fuente:
+fuente: https://themoviescores.com/wp-content/uploads/2020/09/Women-In-Electronic-Music-4-1024x683-1.png
+fuente: https://themoviescores.com/wp-content/uploads/2020/09/barronBebeLouis1.jpg
 
 ### Pauline Oliveros
 
