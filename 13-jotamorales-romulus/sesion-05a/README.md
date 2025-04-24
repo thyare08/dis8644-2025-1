@@ -1,5 +1,4 @@
 # sesion-05a
-## apuntes clase
 ## Bitácora – Clase 5A | 08 de abril
 
 En el primer módulo, varios compañeros mostraron objetos electrónicos que desarmaron y analizaron. A mi parecer, faltó tiempo porque no todos alcanzaron a presentar. También me pasó que me cuesta presentarme, y como había llegado medio atrasado, me tomó unos minutos animarme a hacerlo. Pero últimamente me he dado cuenta de que no pasa nada si uno se equivoca o está nervioso; simplemente hay que hacerlo.
