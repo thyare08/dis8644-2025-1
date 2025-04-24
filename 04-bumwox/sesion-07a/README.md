@@ -102,3 +102,4 @@ __funcionamiento__
 
 https://github.com/user-attachments/assets/3825f748-96d2-4492-93df-75817617861c
 
+tambien encontre una [guia](https://makezine.com/article/maker-news/how-to-build-the-noise-to/) que nos ayuda a crear un ___"noise toys"___ con detalle de compopnentes, y pasos a seguir para construirlo, que tambien incluye un cast con __"kick pearson"__ el creador de __"make electronic music"___
