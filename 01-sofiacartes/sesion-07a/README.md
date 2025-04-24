@@ -18,3 +18,5 @@
 ![IMG_0975](https://github.com/user-attachments/assets/4d7d2d6a-fedf-49a4-8813-a9b7e35ea218)
 
 ## Encargo 14 - modificación atari punk console
+
+![Untitled_page-0001](https://github.com/user-attachments/assets/99bbfaeb-c38b-41cb-aedf-d3f09c15d3bb)
