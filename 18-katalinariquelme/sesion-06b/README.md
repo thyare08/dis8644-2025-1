@@ -18,9 +18,11 @@ Imagen de documental "Sisters with transistors"
 
 ![sisters with transistors](https://github.com/user-attachments/assets/1fabb84e-480f-4987-bf6d-67cabeb248a9)
 
-Daphne Oram
+La imagen fue rescada de: https://www.primevideo.com/-/es/detail/Sisters-With-Transistors/0IMHX36779MP4D68KC97C39Z7T
 
-![dapne oram](https://github.com/user-attachments/assets/167bd1fc-cb35-4b88-8172-ec3a930f955a)
+![Daphne-Oram-1](https://github.com/user-attachments/assets/6688f86f-3ee0-4cf0-8dc3-f5702aceda15)
+
+Fuente: Admin. (2023b, noviembre 2). Daphne Oram, una mujer que desafió los límites de la música y la tecnología. Asociación MIM. https://asociacionmim.com/daphne-oram-una-mujer-que-desafio-los-limites-de-la-musica-y-la-tecnologia/.
 
 **Contexto:** Daphne Oram fue una pionera británica de la música electrónica nacida en 1925, fue una de las primeras compositoras británicas en producir sonido electrónico y fue una pionera de la música concreta en el Reino Unido, aunque su trabajo no es muy conocido. 
 
@@ -30,3 +32,4 @@ Este disco fue lanzado en el año 2007 pero fue compuesto y grabado en la décad
 
 ![daphne](https://github.com/user-attachments/assets/6c7f3103-e0ae-43dd-b101-d4a2bcaa0247)
 
+FUente: ¿Un sintetizador con dibujos? (s. f.). HolaWave. https://holawave.store/blogs/noticias/un-sintetizador-con-dibujos.
