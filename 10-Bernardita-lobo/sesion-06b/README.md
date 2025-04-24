@@ -34,7 +34,9 @@ fuente: https://theremintimes.ru/wp-content/uploads/2021/03/%D1%80%D0%BE%D0%BA%D
 
 ### Daphne Oram
 
--
+- Daphne Oram era una pianista; tenía un puesto asegurado en la Real Academia de Música, pero un día leyó un libro que predecía que los compositores en el futuro, podrían componer directamente con sonidos en vez de usar instrumentos de orquesta. Ella decidió rechazar su puesto como pianista por su interés en la tecnología.
+- Fue contratada por los estudios de la BBC. Le pidieron música incidental para una obra de televisión, entonces reunió todas las grabadoras del estudio para comenzar a experimentar con los sonidos. Más adelante le solicitaron que iniciara un taller radiofónico. Buscaban sonidos más surrealistas, influenciados por la guerra; eran sonidos diferentes usados como un medio de expresión artística que en ese momento, no se atrevían a llamar música.
+- Ella fue armando su propio estudio para seguir incursionando en estos sonidos. Esto era algo realmente valiente para la época, ya que no era común que una mujer tuviera su propio estudio. Allí utilizaba un pequeño generador electrónico para producir sonidos nuevos. También hablaba de una idea que tenía para un nuevo equipo electrónico, ya que tenía que trazar símbolos directamente en el equipo para que luego se generara el sonido. Sin embargo, ella propuso una idea llamada Oramics, en la que utilizaba una representación gráfica del sonido para crear un sistema de notas para la música electrónica, que luego podía ser reproducida.
 
 ![tme-sesion06b-daphne](https://github.com/user-attachments/assets/9cb4bf93-9d7e-412f-8fbe-c277b9c8566a)
 
