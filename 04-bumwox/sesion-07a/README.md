@@ -23,7 +23,7 @@ __atajos__
 
 - __r__: rotar
 - __m__: mover
-- _-a__: añadir
+- __a__: añadir
 - __shift + rueda panel táctil/mouse__: arriba/abajo
 - __ctrl + rueda panel táctil/mouse__: izquierda/derecha
 - __v__: valor del componente
