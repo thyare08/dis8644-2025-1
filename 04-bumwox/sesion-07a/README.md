@@ -80,7 +80,7 @@ ___"noise toys"___ son versiones portátiles de los chips musicales que ___"loud
 
 el ___"noise toys"___ que me traje es la version ___"manatees"___ que fisicamente es igual a las demas versiones, haciendo la distintcion en el codigo para que pueda funcionar, los componentes que se pueden observar son un interruptor de encendido basculante de estilo antiguo, dos botones que modulan el sonido y una toma de salida de audio, no puse sacar otras especificaiones de los componentes, como valores por ejemplo, yaque la pagina la estan actualizando por lo que no pude acceder a caracteristicas mas detalladas
 
-## acercamiento del ___"noise toys"___ + prueba hecha popr mi
+## acercamiento del ___"noise toys"___ + prueba hecha por mi
 
 __componentes generales__
   
