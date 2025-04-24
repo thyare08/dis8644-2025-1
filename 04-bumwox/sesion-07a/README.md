@@ -53,4 +53,4 @@ __7 capas importantes__
 
 ## 15. dudas + aprendizajes
 
-## 15.1 noise toy "manatees
+## 15.1 [noise toy](https://loudobjects.bandcamp.com/album/noise-toys) ___"manatees"___
