@@ -25,21 +25,21 @@
 - Este instrumento estaba asociado a melodías cortas, así que clara interpretó una sonata de césar franck, y logró hacerlo sonar como nadie más. una joven artista le dijo que sonaba como el canto de un alma, algo que a clara le pareció bellísimo. ella creía que debía convencer al público de que se trataba de un medio artístico, interpretado por una verdadera artista.
 
 
-fuente: https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2018/03/13000706/Clara-Rockmore-by-Toppo-c.-1930.Cropped-15M.jpg
-fuente: https://theremintimes.ru/wp-content/uploads/2021/03/%D1%80%D0%BE%D0%BA%D0%BC%D0%BE%D1%80-%D0%B8-%D1%81%D1%82%D0%BE%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9.jpg
+- fuente: https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2018/03/13000706/Clara-Rockmore-by-Toppo-c.-1930.Cropped-15M.jpg
+- fuente: https://theremintimes.ru/wp-content/uploads/2021/03/%D1%80%D0%BE%D0%BA%D0%BC%D0%BE%D1%80-%D0%B8-%D1%81%D1%82%D0%BE%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9.jpg
 ### Daphne Oram
 
 -
 
-fuente: https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/8F53/production/_96419663_mediaitem96419662.jpg.webp
-fuente: https://asociacionmim.com/wp-content/uploads/2023/11/Daphne-Oram-1.jpg
+- fuente: https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/8F53/production/_96419663_mediaitem96419662.jpg.webp
+- fuente: https://asociacionmim.com/wp-content/uploads/2023/11/Daphne-Oram-1.jpg
 
 ### Delia Derbyshire
 
 -
 
-fuente: https://www.effectrode.com/wp-content/uploads/2018/08/delia_derbyshire_radiophonic_workshop_1965.jpg
-fuente: https://proyectoidis.org/wp-content/uploads/1963/04/444103d0b8a147920668e527c686d7fc.jpg
+- fuente: https://www.effectrode.com/wp-content/uploads/2018/08/delia_derbyshire_radiophonic_workshop_1965.jpg
+- fuente: https://proyectoidis.org/wp-content/uploads/1963/04/444103d0b8a147920668e527c686d7fc.jpg
 
 ### Bebe Barron
 
