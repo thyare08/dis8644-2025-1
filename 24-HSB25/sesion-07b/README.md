@@ -6,15 +6,6 @@ Diseñar esquemático en Kicad (solamente esquemático, no asignar huellas) de A
 
 ![ATARI PUNK CONSOLE](https://raw.githubusercontent.com/HSB25/dis8644-2025-1/refs/heads/main/24-HSB25/sesion-07b/ATARI%20PUNK%20CONSOLE.png)
 
-
-
-
-
-
-
-
-
-
 # ENCARGO 15: Plantear 2 Dudas o aprendizajes importantes
 
 - **Aprendizaje 1:** Importancia de las huellas (footprints) en el diseño de PCBs
