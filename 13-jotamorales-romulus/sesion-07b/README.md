@@ -1,5 +1,7 @@
-![image](https://github.com/user-attachments/assets/31bc81f1-1db2-435c-9f6a-61a57ea67b9e)# sesion-07b
+# sesion-07b
+
 continuamos con kicad
+
 me mande una embarrada y instale el kicad 7 en vez de la version mas reciente kicad 9
 
 Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal
