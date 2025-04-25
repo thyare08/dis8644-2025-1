@@ -56,5 +56,7 @@ Foto Atari Punk Console original.
 
 ## Encargo 15: Plantear 2 dudas y/o aprendizajes sobre el manual de supervivencia de KiCAD
 
+ 1. ¿Existe alguna manera de exportar el circuito esquemático como jpg?
+ 2. ¿Cuál es la mejor forma de trabajar las pistas de la PCB? En el sentido de ordenar componentes y obtener un resultado estéticamente agradable.
 
 Fotos de mi autoría.
