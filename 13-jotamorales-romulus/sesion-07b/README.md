@@ -2,7 +2,7 @@
 
 continuamos con kicad
 
-me mande una embarrada y instale el kicad 7 en vez de la version mas reciente kicad 9
+Me mande una embarrada y instale el kicad 7 en vez de la version mas reciente kicad 9
 
 Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal
 
