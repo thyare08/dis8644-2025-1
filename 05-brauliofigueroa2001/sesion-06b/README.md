@@ -1,5 +1,20 @@
 # sesion-06b
 ### encargo 12 kicad
+### instalación de kicad
+
+adjunto mediante fotos mi proceso de instalación del software de kicad, el cuál fue realizado el día lunes 21 de abril, dejo aquí el paso a paso en fotos. También agregar que la versión que descargué es la 7.0.11 porque es la que estaba usando misa en el video del manual de supervivencia, no sé si debería instalar la mas reciente o no, preguntar en clases.
+
+![descargakicad](https://github.com/user-attachments/assets/72f47611-3d61-4967-ae58-18a975e3aaf8)
+
+![versiondekicad](https://github.com/user-attachments/assets/ee1e8b47-750b-49ff-9f40-139d258a8471)
+
+![instalacionparte2](https://github.com/user-attachments/assets/0114b297-4bfe-4472-8719-193d757c68fc)
+
+![instalacionparte3](https://github.com/user-attachments/assets/c32bc6b7-47c5-4a2e-93ff-d72af31c26a0)
+
+![instalacionparte4](https://github.com/user-attachments/assets/74dd620e-8941-459a-b832-7457c6563a05)
+
+![instalacionparte5](https://github.com/user-attachments/assets/13f54461-9e92-45f4-be45-ca69cb56db68)
 
 
 

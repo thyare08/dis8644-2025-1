@@ -1,4 +1,3 @@
-# sesion-06a
 # Proyecto 01 
 
 ### Grupo 6 
@@ -73,7 +72,7 @@ A continuación se presenta el esquemático realizado para la construción del c
 
 **Bitácora Anto**
 
-![proceso esquematico](https://github.com/user-attachments/assets/9ec37cbc-8700-440d-84ee-4a30ac33551b)
+![proceso esquematico](http://github.com/felix-rg416/dis8644-2025-1/blob/main/19-felix-rg416/sesion-06a/archivos/bit%C3%A1coras/anto.feuntealba/bitacora.anto.01.jpeg)
 
 ![ilustraciones+pauta](https://github.com/user-attachments/assets/d9cf7cdb-72ed-40ac-83de-da013afd2faf)
 
