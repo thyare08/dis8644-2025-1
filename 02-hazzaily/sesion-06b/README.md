@@ -21,3 +21,5 @@ Además de ver el documental, elegir artista favorita del documental y escuchar 
  - **Artista favorita:** Suzanne Ciani y Clara Rockmore.
   
  - **Álbum:** Flowers by Evil de Suzanne Ciani.
+
+Fotos de mi autoría.
