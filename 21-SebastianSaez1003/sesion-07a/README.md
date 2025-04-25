@@ -18,7 +18,7 @@ Asignó huellas, luego ruteo; para rutear necesitas saber cómo se ven las patas
 
 El esquema se hace en el archivo SCH, el ruteo se hace en PCB.
 
-![1ra screenshot](21-SebastianSaez1003/sesion-07a/7a_Screenshot_1.png)
+![1ra screenshot](sesion-07a/7a_Screenshot_1.png)
 
 Al presionar (1.ª screenshot) o la letra “a” de add, podremos seleccionar los componentes.
 
