@@ -75,7 +75,7 @@ https://github.com/user-attachments/assets/1dfc053f-26e3-40d8-8d1e-b993af6207fa
 | Altavoz                   | LS1 Speaker                | 8Ω    | 1        |
 | Protoboard                |                            |       | 2        |
 
-# Encargo 12 - Instalar Kicad
+## Encargo 12 - Instalar Kicad
 
 Instalar software **Kicad** en computador personal, inclyuendo específicaciones de versión, nuestro sistema operativo, las carpetas en donde se encuentra la app, además de cualquier dato relevante.
 
@@ -87,7 +87,7 @@ Foto de la página inicial de KiCAD.
 
 ![Inicio_KiCAD](https://github.com/user-attachments/assets/37734017-1f07-4ca3-8722-1a0fb4b1b078)
 
-# Encargo 13 - Ver documental Sisters with Transistors
+## Encargo 13 - Ver documental Sisters with Transistors
 
 Además de ver el documental, elegir artista favorita del documental y escuchar un álbum o concierto de ella.
 
