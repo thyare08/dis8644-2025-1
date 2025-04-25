@@ -114,6 +114,20 @@ El archivo final se encuentra en la carpeta "diagram", puesto que al intentar su
 
 <br>
 
+#### 1.2 Preguntas sobre "Manual de supervivencia para KiCAD"
+
+<br>
+
+1-. ¿Cómo poder ordenar las patitas del chip N555 u otros componentes?}
+
+<br>
+
+2-. ¿KiCad StepUp? Ayuda a poder descargar 
+
+https://github.com/easyw/kicadStepUpMod/
+
+<br>
+
 ***
 
 ### Posdata
