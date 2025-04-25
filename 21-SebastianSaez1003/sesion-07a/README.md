@@ -45,13 +45,12 @@ En (screenshot 3) y (screenshot 4) con “q” le ponemos una x para decir que n
 
 Con “e” sale como el “portafolio” del componente seleccionado. 
 
+![5ta screenshot](7a_Screenshot_5.png)  
+(screenshot 5)  
+
 Con “x” el texto se refleja en el eje x.
 
 Con “y”, el texto se refleja en el eje y.
-
-![5ta screenshot](7a_Screenshot_5.png)  
-(screenshot 5)
-
 r_pot es el potenciómetro bonito.
 
 Luego conectamos los diodos al potenciómetro.
@@ -69,14 +68,7 @@ En la región de la derecha están todas las huellas posibles.
 La región de la derecha recibía todas las huellas que recomendaban para mi circuito.
 
 
-
-
-
 Pitch es distancia entre las patitas.
-
-
-
-
 
 
 después de break
