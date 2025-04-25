@@ -8,7 +8,7 @@
 
 ### KiCad
 
-- 
+- adjuntar foto
 
 ## Encargo
 
@@ -19,4 +19,7 @@
 
 ![tme-sesion07a-kicadAPC](https://github.com/user-attachments/assets/12224442-3d23-4db1-9208-e460d6566663)
 
-### 15-
+### 15-Manual de supervivencia de KiCAD
+
+- plantear dos dudas respecto a KiCad o aprendizajes
+  
