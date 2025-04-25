@@ -114,3 +114,4 @@ fuente https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6paVJJVflkmc_Ye2jC
 - Ella tenía un gran interés por el misticismo, lo que la llevó a desarrollar sus propias teorías sobre las conexiones entre las ondas sonoras y el alma.
 - álbum "Beauty and The Beast"
 - Me gustó bastante el álbum; siento que me transporta a imágenes surrealistas. Me encanta que comience con sonidos que le dan profundidad a sus canciones, y que, de repente, se sumen sonidos más agudos por encima. Mis favoritas fueron la primera canción, "Beauty and the Beast, Pt. 1" y "Rotolock".
+- fuente: https://www.bbc.com/mundo/vert-cul-40225071.amp
