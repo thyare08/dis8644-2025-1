@@ -18,7 +18,7 @@ Asignó huellas, luego ruteo; para rutear necesitas saber cómo se ven las patas
 
 El esquema se hace en el archivo SCH, el ruteo se hace en PCB.
 
-![1ra screenshot](21-SebastianSaez1003/sesion-07a/7a_Screenshot_1.png)
+![1ra screenshot](7a_Screenshot_1.png)
 
 Al presionar (1.ª screenshot) o la letra “a” de add, podremos seleccionar los componentes.
 
@@ -28,6 +28,7 @@ Por hoy da lo mismo que 555 elijamos, pero agregaremos el NE555P.
 
 Agregamos un VCC (alimentación), GND (tierra) y seleccionamos y con Ctrl+D duplicamos resistencias.
 
+![2da screenshot](7a_Screenshot_2.png)  
 (screenshot 2)
 
 
@@ -36,40 +37,28 @@ Con “w” salen los cables; un círculo significa que no está conectado el co
 
 Con la letra “g” de grab se agarra el componente con la conexión.
 
-Los esquemáticos son mejores cuando hay menos líneas.
+Los esquemáticos son mejores cuando hay menos líneas.  
+
+![3ra screenshot](7a_Screenshot_3.png)  ![4ta screenshot](7a_Screenshot_4.png)  
 
 En (screenshot 3) y (screenshot 4) con “q” le ponemos una x para decir que no será usada esa pata.
 
-
-
-
 Con “e” sale como el “portafolio” del componente seleccionado. 
-
-
-
 
 Con “x” el texto se refleja en el eje x.
 
 Con “y”, el texto se refleja en el eje y.
 
+![5ta screenshot](7a_Screenshot_5.png)  
 (screenshot 5)
 
-
-
-
 r_pot es el potenciómetro bonito.
-
-
-
 
 Luego conectamos los diodos al potenciómetro.
 
 Con ese primero símbolo en la parte de arriba de la barra de herramientas es para que pueda ordenar el nombre de los componentes de manera ordenada.
 
 El de derecho de ese, dice que errores están presentes en el circuito.
-
-
-
 
 Dos más a la derecha dejan asignar huellas.
 
