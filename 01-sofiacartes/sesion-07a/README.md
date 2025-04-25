@@ -20,3 +20,15 @@
 ## Encargo 14 - modificación atari punk console
 
 ![Untitled_page-0001](https://github.com/user-attachments/assets/99bbfaeb-c38b-41cb-aedf-d3f09c15d3bb)
+
+## Encargo 15 - dudas Kicad
+
+1. ¿se puede modificar de el modelado 3d o solo de el esquemático?
+
+2. ¿en qué formatos se puede descargar?
+   
+archivo -> exportar -> VRML
+
+**CAD assistant** caja de herramientas para ver la vista tridimensional (para imprimir 3d)
+
+4. ¿cómo modificar el chip, para tener mayor orden?
