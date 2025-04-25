@@ -38,7 +38,9 @@ PLACA
 ![image](https://github.com/user-attachments/assets/f92873ac-413a-46df-83a2-98aa4c62a0f9)
 
 MODELO 3D
+
 ![image](https://github.com/user-attachments/assets/b4751a0b-9cd6-4b67-a4fa-5b847af23c35)
+
 ![image](https://github.com/user-attachments/assets/3bdcb5ed-2454-4360-aaab-c3c2e3c3c54f)
 
 Me gusta que el programa tenga la posibilidad de visualizar la placa PCB en 3D, ya que permite ver cómo quedaría físicamente antes de fabricarla.
