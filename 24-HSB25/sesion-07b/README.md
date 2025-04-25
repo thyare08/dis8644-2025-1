@@ -112,5 +112,16 @@ Proyecto de Game Boy DIY: https://hackaday.io/project/18896-game-boy-zero
 PCB para consola portátil con ESP32: https://github.com/biaslab/esp32-game-console
 
 
+# APUNTES CLASES 25 ABRIL
+
+En esta clase continuamos trabajando con KICAD, donde aprendimos a agregar huellas o bibliotecas personalizadas, algo así como los "mods" en Minecraft, ¡jajaja!
+
+Pudimos insertar un modelo del Chip 555, lo que permitió organizar mejor los diagramas y hacerlos más ordenados. Después, MISA, nuestro profesor, empezó a crear un diagrama y nosotros lo replicamos junto a él para asegurarnos de no perdernos en el proceso. 
+
+También nos enseñaron cómo cambiar los valores y nombres predeterminados, lo que nos ahorra tiempo al no tener que ingresar un nombre cada vez. Ahora tenemos un receso hasta las 11:00 y esto es lo que hemos avanzado hasta el momento.
+
+
+
+
 
 
