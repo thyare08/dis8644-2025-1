@@ -8,6 +8,6 @@
 - diseño social, ¿cómo tienen que ser los edificios accesibles?
 - el diseño como medio de solución a conflictos, compartir conocimiento, vivir en sociedad.
 
-### dudas con KiCad
+### repaso KiCad
 
--
+- 
