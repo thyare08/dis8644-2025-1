@@ -37,4 +37,10 @@ Foto de mi bitácora
 
 ## Encargo 13: Recrear Atari Punk Console
 
+![Captura de pantalla 2025-04-25 084252](https://github.com/user-attachments/assets/de415c95-b6ba-4e79-bd7c-2c036ccc5114)
+
+## Modicicación Atari Punk Console
+
+Subir foto
+
 Subir foto
