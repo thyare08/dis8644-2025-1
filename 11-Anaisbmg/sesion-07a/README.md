@@ -19,17 +19,29 @@ Kiad 7 placas: Bottom cu, front cu, silk esta en b y f silk grabado, f.mask, b.m
 
 comandos 
 M → mover
+
 A → añadir
+
 R → rotar 
+
 V → valor
+
 G → moverá todo y seguirá conectado 
+
 Q → para agregar una x
+
 ctrl + s → para guardar
+
 ctrl + d → para duplicar
-E (sobre componente) → propiedades del símbolo 
+
+E (sobre componente) → propiedades del símbolo
+
 ctrl + x → para borrar
+
 x → mover texto en eje x
+
 y → mover texto en eje y
+
 u → seleccionar todo el recorrido
 
 ## encargo-14
