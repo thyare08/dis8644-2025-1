@@ -17,6 +17,8 @@ La segunda parte de la clase se centró en orientar los materiales dentro de una
 
 <br>
 
+***
+
 ### Bitácora digital
 
 <br>
@@ -109,6 +111,8 @@ Después se comenzó a nombrar y escribir los valores de los componentes, ademá
 ![image](https://github.com/user-attachments/assets/6b1b1042-9870-4f36-b1d3-ab4c6138513c)
 
 <br>
+
+***
 
 
 
