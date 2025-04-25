@@ -10,9 +10,14 @@ Instalar software **Kicad** en computador personal, inclyuendo específicaciones
  - Sistema operativo: Windows 11, 64 bits.
  - Ubicación de la aplicación: Carpeta de archivos (documentos), aplicación (escritorio).
 
+Foto de la página inicial de KiCAD.
+
+![Inicio_KiCAD](https://github.com/user-attachments/assets/37734017-1f07-4ca3-8722-1a0fb4b1b078)
+
 # Encargo 13 - Ver documental Sisters with Transistors
 
 Además de ver el documental, elegir artista favorita del documental y escuchar un álbum o concierto de ella.
 
- - **Artista favorita:**
- - **Álbum:**
+ - **Artista favorita:** Suzanne Ciani y Clara Rockmore.
+  
+ - **Álbum:** Flowers by Evil de Suzanne Ciani.
