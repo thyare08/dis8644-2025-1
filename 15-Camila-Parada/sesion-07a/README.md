@@ -96,5 +96,30 @@ https://misaa.notion.site/Manual-de-supervivencia-para-KiCAD-8cc756e79ced4271ad5
 
 ### Encargo clase 7a
  
-#### 1.1 Esquemático en KiCad
- 
+#### 1.1 Esquemático "Atari Punk Console" en KiCad
+
+<br>
+
+Dado que ya tenía hecho el esquemático del circuito dibujado en Ilustrator, solo tuve que buscar los componentes e ir montando de nuevo la estructura. Con las piezas que no conocía su nombre u código decidí buscarlas en google. Tras ello sólo quedó acomodar las partes y asignar los valores.
+
+<br>
+
+![image](https://github.com/user-attachments/assets/a4d9139a-9d36-4ed3-a2d9-b81be012ac17)
+
+_▼ Imagen del diagrama final en Kicad_
+
+<br>
+
+El archivo final se encuentra en la carpeta "diagram", puesto que al intentar subirlo a este documento github me lanzó el error "We don't support that file type", escribiendo muchas líneas de códigos (más de 300).
+
+<br>
+
+***
+
+### Posdata
+
+Aquí aguantando contra viento y marea (っ- ‸ - ς)
+
+***
+
+##### _°˖✧◝(⁰▿⁰)◜✧˖°_
