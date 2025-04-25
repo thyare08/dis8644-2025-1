@@ -1,7 +1,7 @@
 # sesion-07a
 Para nuestra placa tendremos que tener en cuenta que nuestros componentes eléctricos tienen lo siguiente:
 
--Rating  (¿Cuánto aguanta un componente?) Ej: ¼ watt)
+-Rating (¿Cuánto aguanta un componente?) Ej: ¼ watt)
 
 - Valor (10k)
 
@@ -17,6 +17,8 @@ Esquema: Dibujo esquemático: qué componentes hay, qué símbolo ocupan, qué v
 Asignó huellas, luego ruteo; para rutear necesitas saber cómo se ven las patas de los componentes para poder conectar el circuito.
 
 El esquema se hace en el archivo SCH, el ruteo se hace en PCB.
+
+![1ra screenshot](dis8644-2025-1/21-SebastianSaez1003/sesion-07a/)
 
 Al presionar (1.ª screenshot) o la letra “a” de add, podremos seleccionar los componentes.
 
