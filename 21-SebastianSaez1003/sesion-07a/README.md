@@ -136,3 +136,15 @@ PCB art en Wikipedia, por ejemplo.
 Kelly Keaton, que hace circuitos funcionales con pinturas y los PCB.
 
 Clacktornics es un libro que se convierte en un sintetizador modular.
+
+
+## encargo-14
+
+Aquí está el esquemático de la modificación de la ATARI PUNK CONSOLE.  
+Primero, añadí todos los componentes que estaban presentes en nuestro BOM.
+
+
+Luego empecé a conectar los puntos según el esquemático especificado del primer proyecto, tratando de que fuese lo más ordenado posible, aumentando el tamaño de las conexiones y usando distintos colores para que se pudiesen diferenciar entre los interconectados de mejor manera, siguiendo las indicaciones de todo lo que va a positivo, que sería conectado con cables rojos, y todo lo que va a negativo, que iría con cables azules.
+
+## encargo-15
+
