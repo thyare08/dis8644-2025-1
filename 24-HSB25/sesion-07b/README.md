@@ -122,6 +122,10 @@ También nos enseñaron cómo cambiar los valores y nombres predeterminados, lo 
 
 ![avanceclases](https://raw.githubusercontent.com/HSB25/dis8644-2025-1/refs/heads/main/24-HSB25/sesion-07b/avanceclases.png)
 
+Despues pudimos avanzar en el modelado 3D de la placa para poder darle diseño o una vista mas real
+
+![3dplaca](
+
 
 
 
