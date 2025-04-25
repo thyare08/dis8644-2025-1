@@ -2,7 +2,7 @@
 
 25/04/2025
 
-## kicad
+## KiCAD
 
 
 ## encargo-16
