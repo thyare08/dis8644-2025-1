@@ -18,6 +18,8 @@ Kiad 7 placas: Bottom cu, front cu, silk esta en b y f silk grabado, f.mask, b.m
 (agregar foto capas)
 
 comandos 
+
+(agregar toda esta info en una carpeta)
 M → mover
 
 A → añadir
