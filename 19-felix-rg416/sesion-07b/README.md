@@ -43,7 +43,14 @@ TEXTO:
 - udpudu
 - pudú
 
+en la página - cambiar envío, cambiar grosor
 
+EXPORTAR:
+
+- exportar gerber .gbr
+- 7 capas importantes
+- no sé qué cosa de taladrear
+- 
 
 cómo saber si mi circuito funciona o no: poner un led **imagena**
 
