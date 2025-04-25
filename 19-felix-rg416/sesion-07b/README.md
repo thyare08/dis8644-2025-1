@@ -26,6 +26,25 @@ cambiar huellas: [F]
 - caimanes: modules_teee2025:caiman
 - switch: modules_teee2025:SPDT_PCB_small_P2.5mm
 
+en el visor de huellas:
+
+tamaño tarjeta de presentación: 85 x 55
+
+mitad: 92.5 77.5
+
+- asignar huellas [A]
+- cambiar a lado superior para pasar sobre otras vías [V]
+
+TEXTO:
+
+- fecha
+- código taller
+- nombre taller
+- udpudu
+- pudú
+
+
+
 cómo saber si mi circuito funciona o no: poner un led **imagena**
 
 Nombre - Valor - Encapsulado
