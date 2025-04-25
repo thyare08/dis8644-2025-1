@@ -2,9 +2,13 @@
 
 ## Trabajo en clase
 
+### Introducción al diseño de PCB
+
+- algunos referentes varios, Diego Lorenzini
+
 ### KiCad
 
-- Diego Lorenzini
+- 
 
 ## Encargo
 
@@ -14,3 +18,5 @@
 - me fui guiando por el esquemático que realizó Misa del Atari Punk Console
 
 ![tme-sesion07a-kicadAPC](https://github.com/user-attachments/assets/12224442-3d23-4db1-9208-e460d6566663)
+
+### 15-
