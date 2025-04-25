@@ -29,3 +29,17 @@ agregaremos un led para ver si el circuito finciona
 hay una tecnica que sirve para que conectar una batería al reves no sea peligroso, con un diodo.
 
 Luego de terminar esquematico, asignamos valores a los componentes para no tener que sobreescribir
+
+ir apreferencias, presionar biblioteca de huella y luego a bibliotecas especificas del proyecto y agregar las carpetas puestas en module
+
+Actualizar placa desde el esquema
+
+podemos pasar un archo dxf para definir la forma de nuestra pcb
+
+Grilla bruta de 5mm
+
+Hay una forma de hacer dibujos saltandose en el esquematico, añadiendo huella en pcb, se usa para añadir logos, tee logos. Los logos se importan en ...
+
+KiCad tiene una herramienta que convierte imagenes en huellas de KiCad
+
+Para organizar huellas es bueno achicar la grilla a 1mm
