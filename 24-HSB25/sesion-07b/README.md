@@ -4,6 +4,8 @@
 
 Diseñar esquemático en Kicad (solamente esquemático, no asignar huellas) de Atari Punk Console con modificaciones que ustedes realizaron en KiCAD, o en su versión base si sus modificaciones no funcionaron al 100%.
 
+![Esquema Atari Punk Console](ATARI PUNK CONSOLE.png)
+
 
 
 
