@@ -35,6 +35,7 @@ DIAGRAMA
 ![image](https://github.com/user-attachments/assets/e31810d7-6d62-449d-ab54-df83c623f56a)
 
 PLACA
+
 ![image](https://github.com/user-attachments/assets/f92873ac-413a-46df-83a2-98aa4c62a0f9)
 
 MODELO 3D
