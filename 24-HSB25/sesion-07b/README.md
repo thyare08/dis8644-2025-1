@@ -4,7 +4,7 @@
 
 Diseñar esquemático en Kicad (solamente esquemático, no asignar huellas) de Atari Punk Console con modificaciones que ustedes realizaron en KiCAD, o en su versión base si sus modificaciones no funcionaron al 100%.
 
-![ATARI PUNK CONSOLE](ATARI_PUNK_CONSOLE.png)
+![ATARI PUNK CONSOLE](https://raw.githubusercontent.com/HSB25/dis8644-2025-1/refs/heads/main/24-HSB25/sesion-07b/ATARI%20PUNK%20CONSOLE.png)
 
 
 
