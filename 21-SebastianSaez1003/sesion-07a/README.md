@@ -1,4 +1,5 @@
 # sesion-07a
+## Módulo de la mañana
 Para nuestra placa tendremos que tener en cuenta que nuestros componentes eléctricos tienen lo siguiente:
 
 -Rating (¿Cuánto aguanta un componente?) Ej: ¼ watt)
@@ -71,7 +72,7 @@ La región de la derecha recibía todas las huellas que recomendaban para mi ci
 Pitch es distancia entre las patitas.
 
 
-después de break
+## Módulo después del break
 
 Package, que podemos buscarlo en internet, que es la forma del componente, son el nombre que tiene cada forma.
 
