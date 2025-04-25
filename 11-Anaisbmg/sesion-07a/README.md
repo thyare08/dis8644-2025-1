@@ -19,7 +19,7 @@ Kiad 7 placas: Bottom cu, front cu, silk esta en b y f silk grabado, f.mask, b.m
 
 comandos 
 
-(agregar toda esta info en una carpeta)
+(agregar toda esta info en una tabla)
 M → mover
 
 A → añadir
