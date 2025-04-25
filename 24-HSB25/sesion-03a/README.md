@@ -1,6 +1,6 @@
 # sesion-03a
 
-## ENCARGO 06: ¿Quien es Suzanne Cianni?
+## encargo-06: ¿Quien es Suzanne Cianni?
 
 ![SuzanneCiani](https://proyectoidis.org/wp-content/uploads/2023/03/ciani-main.jpg)
 
@@ -52,9 +52,11 @@ Ciani también es famosa por sus trabajos de diseño de sonido, incluyendo sonid
 ![Xenon2](https://i.ytimg.com/vi/v9nD9DQwd80/maxresdefault.jpg)
 
 **Link del Audio Coca Cola:**
+
 [Coca Cola Pop & Pour](https://www.youtube.com/shorts/f32oy2is0EY)
 
 **Link de Musica del Videojuego Xenon 2:**
+
 [Suzanne Ciani - Xenon - Long Effects](https://www.youtube.com/watch?v=Vz1P7L8wgzk&ab_channel=FindersKeepersRecords)
 
 ## Descripciones Materiales Recibidos
@@ -267,6 +269,8 @@ Características principales:
 7. Tolerancia: Típicamente de ±10% a ±20%
 
 ![PotenciometroCarbon](https://www.victronics.cl/wp-content/uploads/2019/02/81-182102.jpg)
+
+## encargo-07: chip 555
 
 # **Chipset 555 Bipolar Timer**
 

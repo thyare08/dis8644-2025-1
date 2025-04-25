@@ -1,12 +1,12 @@
 # sesion-02a
 
-## aphex twin-richard d. james album
+## aphex twin - richard d. james album
 
-senti que era una música muy estimulante pero no de una manera abrumante, sino que al principio no difieres bien lo que estas escuchando y tienes que poner atencion para encontrar los detalles. me gusto mucho.
+sentí que era una música muy estimulante pero no de una manera abrumante, sino que al principio no difieres bien lo que estas escuchando y tienes que poner atencion para encontrar los detalles. me gusto mucho.
 
 ## documental
 
-me conmovio mucho el documental, no conocia a aaron swartz antes pero se veia como una persona que hubiera podido contribuir mucho mas y que lo hacia sin buscar beneficios personales.
+me conmovió mucho el documental, no conocia a aaron swartz antes pero se veia como una persona que hubiera podido contribuir mucho mas y que lo hacia sin buscar beneficios personales.
 
 ![WhatsApp Image 2025-03-20 at 8 32 23 PM](https://github.com/user-attachments/assets/dc851630-c60b-466d-afbf-a09510b7209b)
 ![WhatsApp Image 2025-03-20 at 8 32 24 PM](https://github.com/user-attachments/assets/de9fe98f-8da1-4176-b822-2c31f61b5de8)

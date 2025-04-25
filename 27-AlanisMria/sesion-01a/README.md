@@ -22,6 +22,6 @@ Durante la clase conocimos distintas maneras de hacer sonidos mediante elementos
 
 * Critter and Guitari <https://www.critterandguitari.com/>
 
-### Desarrollo encargo caja negra
+### encargo-01: caja negra
 
 ![encargo caja negra sobre mis audífonos](./archivos/mis-audifonos.jpg)

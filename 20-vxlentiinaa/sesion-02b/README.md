@@ -1,10 +1,11 @@
 # sesion-02b
+
 21-03-2025
 
 ## Apuntes
 
-* _Hit Hat_: mini disco, como de batería
-* Tutupá / Matias serrano Acevedo
+* _Hi Hat_: mini disco, como de batería
+* Tutupá / Matias Serrano Acevedo
 * _yml_: forma de programar, "te indica que esto hace esto"
 * _Tales de mileto_: descubrió las leyes de ámbar
 * _Top-down_: Diseña las cosas desde lejos
@@ -16,7 +17,6 @@
 |Resistencia|3|R1 R2 R3|1k|
 |Leds|4|D1 D2 D3 D4|surtido|
 |Batería|1|bat|9v|
-
 
 ### Fotos de la Clase
 
@@ -32,7 +32,6 @@
 
 ![Img c7](https://github.com/user-attachments/assets/bf402686-21c9-4b62-91cd-f2640453df90)
 
-
 ## Ejercicios
 
 ### Ejercicio 1
@@ -41,7 +40,7 @@
 
 ![Img c4](https://github.com/user-attachments/assets/8cd82363-6df8-4879-b362-e8f67a016510)
 
-### Ejercicio 2 
+### Ejercicio 2
 
 <img width="901" alt="Ejercicio 2" src="https://github.com/user-attachments/assets/1b97342e-6d6d-4b52-8aca-18a84db79111" />
 
@@ -51,9 +50,10 @@
 
 <img width="848" alt="Ejercicio 3 " src="https://github.com/user-attachments/assets/59d27a30-d9d5-406b-be94-f33a7722d34e" />
 
-![ej 3 ](https://github.com/user-attachments/assets/1fad9e12-4489-401e-9045-e2eadad37bae
+![ej 3 ](<https://github.com/user-attachments/assets/1fad9e12-4489-401e-9045-e2eadad37bae>
 
 ## Encargo 6
+
 Escuchar un disco de Suzanne Ciani
 
 * Compositora, pianista y productora musical estadounidense.
@@ -64,5 +64,7 @@ Escuchar un disco de Suzanne Ciani
 ![suzanne ciani](https://github.com/user-attachments/assets/c3a55096-f9e4-4043-bc3b-bcbc845734fd)
 
 Fue lanzado el 1 de enero de 2005 por Suzanne Ciani, sacó el albúm después de 6 años desde 1999. El albúm es una combinación de música clásica con electrónica.
-_List_: For Lise, Wine Dark Sea, Stromboli, Capri, Eclipse, Open Seas, Dentecane, Snow Crystals, Sargasso Sea, Silver Ship. 
-* Me gustó bastante este álbum, sobre todo la composición entre música clásica y un poco de música electrónica como en Capri. Me gustan las combinaciones de la flauta, piano, sonidos interesantes (como Snow Crystals) y también guitarras. Hay composiciones alegres, de misterio, clásicas y de carácter sinfónico, como en Eclipse.
+
+_List_: For Lise, Wine Dark Sea, Stromboli, Capri, Eclipse, Open Seas, Dentecane, Snow Crystals, Sargasso Sea, Silver Ship.
+
+Me gustó bastante este álbum, sobre todo la composición entre música clásica y un poco de música electrónica como en Capri. Me gustan las combinaciones de la flauta, piano, sonidos interesantes (como Snow Crystals) y también guitarras. Hay composiciones alegres, de misterio, clásicas y de carácter sinfónico, como en Eclipse.

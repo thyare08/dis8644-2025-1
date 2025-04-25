@@ -1,13 +1,15 @@
 # sesion-03a
+
 ## apuntes de la clase
+
 ### taller martes 25 de marzo de 2025
 
 Prox clase, escuchar a Suzanne Ciani
 
 Aparecen las Synth Moog en NY, uno de los álbumes conocidos con synth moog es switched on bach.
-Por otra parte en los ángeles aparece la Buchla, que suena a textura.
+Por otra parte en Los Angeles aparece la Buchla, que suena a textura.
 
-ver documental sisters with transistors (2020) 
+ver documental sisters with transistors (2020)
 
 ### fotos de los apuntes del día
 
@@ -17,7 +19,6 @@ ver documental sisters with transistors (2020)
 ![appuntes4](https://github.com/user-attachments/assets/7c9c4b00-55ef-4909-9d43-f1d3919c78e8)
 ![appuntes5](https://github.com/user-attachments/assets/36b892e2-a542-4499-b780-a313fc510b13)
 ![appuntes6](https://github.com/user-attachments/assets/9f336ae8-cd49-4f6d-85c8-e3b14ced71b8)
-
 
 ### encargo 06: escuchar álbum de Einsturzende Neubauten o Spacelab
 
@@ -33,10 +34,11 @@ En algunas composiciones se utiliza el violín y el contrabajo pero de forma no 
 
 <img width="159" alt="ww2w" src="https://github.com/user-attachments/assets/a9ec0742-9dd7-42f8-b7f0-dbc114d43b0d" />
 
+### análisis y percepción personal del disco
 
-###  análisis y percepción personal del disco
+El disco me pareció rarísimo, lo escuché antes de investigar sobre él y pude adivinar algunos sonidos que se escuchaban, lo que más me llamó la atención fueron las percusiones o ruidos metálicos que se presentan en casi todas las canciones, es algo poco común o que por lo menos yo no conocía mucho. Se pueden percibir distintos tipos de ruidos, los cuáles generan una atmósfera o por así decirlo una textura de fondo, algunos de los que percibí son objetos siendo arrastrados, puertas que se abren, metales que chocan entre sí, objetos que son lanzados con violencia y chocan, metales que son golpeados con objetos más grandes porque suenan mucho, sonidos de agua, etc.
 
-El disco me pareció rarísimo, lo escuché antes de investigar sobre él y pude adivinar algunos sonidos que se escuchaban, lo que más me llamó la atención fueron las percusiones o ruidos metálicos que se presentan en casi todas las canciones, es algo poco común o que por lo menos yo no conocía mucho. Se pueden percibir distintos tipos de ruidos, los cuáles generan una atmósfera o por así decirlo una textura de fondo, algunos de los que percibí son objetos siendo arrastrados, puertas que se abren, metales que chocan entre sí, objetos que son lanzados con violencia y chocan, metales que son golpeados con objetos más grandes porque suenan mucho, sonidos de agua, etc. Otra cosa que me llamó la atención es en la canción Robert Fuzzo en la cuál se escuchan sonidos robóticos, como de máquinas que caminan, también hay sonidos de pistolas láser que me recordaron a los blasters de star wars. En términos generales me costó digerirlo, ya que, las canciones no poseían una estructura convencional por lo cuál se me hizo bastante denso y pesado terminar el disco. Me llamó la atención el cómo los sonidos de objetos que uno ve/escucha en el día a día pueden generar ruidos muy interesantes, sobre todo los metálicos, creo que es un trabajo enorme dedicarse a descubrir el cómo suenan de distintas formas los objetos si los muevo, arrastro, expongo a equis situaciones como se muestra en este disco, muy entretenida esa parte de la experimentación a mi parecer. Por último, puedo decir con certeza que el álbum no me gustó pero me abrió bastante la cabeza, me sacó de mi zona de confort musical.
+Otra cosa que me llamó la atención es en la canción Robert Fuzzo en la cuál se escuchan sonidos robóticos, como de máquinas que caminan, también hay sonidos de pistolas láser que me recordaron a los blasters de star wars. En términos generales me costó digerirlo, ya que, las canciones no poseían una estructura convencional por lo cuál se me hizo bastante denso y pesado terminar el disco. Me llamó la atención el cómo los sonidos de objetos que uno ve/escucha en el día a día pueden generar ruidos muy interesantes, sobre todo los metálicos, creo que es un trabajo enorme dedicarse a descubrir el cómo suenan de distintas formas los objetos si los muevo, arrastro, expongo a equis situaciones como se muestra en este disco, muy entretenida esa parte de la experimentación a mi parecer. Por último, puedo decir con certeza que el álbum no me gustó pero me abrió bastante la cabeza, me sacó de mi zona de confort musical.
 
 ## encargo 07, experimentación en clases con chip 555
 
@@ -68,13 +70,4 @@ Descarga (normalmente la 7): Utilizado para descargar con efectividad el condens
 
 Voltaje de alimentación (VCC) (normalmente la 8): es el terminal donde se conecta el voltaje de alimentación que va de 4.5 V hasta 16 V.
 
-Fuente de info: https://es.wikipedia.org/wiki/Circuito_integrado_555#:~:text=El%20temporizador%20IC%20555%20es,un%20circuito%20integrado%20flip%20flop.
-
-
-
-
-
-
-
-
-
+Fuente de info: <https://es.wikipedia.org/wiki/Circuito_integrado_555#:~:text=El%20temporizador%20IC%20555%20es,un%20circuito%20integrado%20flip%20flop>.

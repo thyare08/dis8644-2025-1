@@ -7,7 +7,7 @@ Clase 5: Martes 25 de Marzo del 2025.
 - **Parte 3:** Encargo 06.
 - **Parte 4:** Encargo 07.
 
-**Apuntes**
+## Apuntes
 
 Foto de mi bitácora
 
@@ -19,37 +19,37 @@ Foto de mi bitácora
 
 **Parte 2** Investigar la historia del chip 555:
 
-**Chip 555**
+## Chip 555
 
 ![Chip555](https://github.com/user-attachments/assets/aa78c873-98b3-45bb-bdac-65a4320570ae)
 
-   - Fue diseñado por Hans R. Camenzind en 1971.
+- Fue diseñado por Hans R. Camenzind en 1971.
 
 ![Hans_R_Camenzind (creador de chip555)](https://github.com/user-attachments/assets/2b0ad239-cb89-49f2-aa53-a9292f318a43)
 
-   - **¿Para que sirve?**
-      - Su principal función es la producción de pulsos de temporización con una gran precisión.
-      - Puede generar pulsos de microsegundos hasta horas.
-      - Funciona como un circuito flip-flop y tiene tres modos operativos: **monostable, biestable y astable**.
-    
+- **¿Para que sirve?**
+  - Su principal función es la producción de pulsos de temporización con una gran precisión.
+  - Puede generar pulsos de microsegundos hasta horas.
+  - Funciona como un circuito flip-flop y tiene tres modos operativos: **monostable, biestable y astable**.
+
 ![02_555_monoestable-simple-1](https://github.com/user-attachments/assets/296e5dc7-9649-4469-a6b9-b145af49e825)
 
 ![04_555_biestable](https://github.com/user-attachments/assets/d38bf966-b2f7-4ce4-98c8-f2530ae9caf1)
 
 ![05_555_astable-1](https://github.com/user-attachments/assets/e4683aa2-957a-484e-97dd-4186eb433275)
 
-   - **¿Qué es?**
-      - El temporizador toma su nombre del hecho de que el modelo original incluía tres resistencias de 5 kΩ cada una.
-      - Es un componente esencial en la electrónica, es versátil y eficiente.
-      - Es un circuito integrado (CI) que funciona como temporizador y oscilador.
-      - Contiene 25 transistores, 15 resistores y 2 diodos.
-   - **Características**
-      -  **Tensión de alimentación:** Funciona entre 4.5V y 15V, lo que permite su uso en una amplia gama de aplicaciones.
-      -  **Corriente de salida:** Puede manejar hasta 200mA, suficiente para activar la mayoría de los dispositivos periféricos.
-      -  **Estabilidad de temperatura:** El temporizador 555 es altamente estable, con fluctuaciones mínimas en sus tiempos de operación, incluso ante cambios de temperatura.
-      -  **Versatilidad**: Debido a sus múltiples modos de operación, se puede utilizar en una variedad de aplicaciones.
+- **¿Qué es?**
+  - El temporizador toma su nombre del hecho de que el modelo original incluía tres resistencias de 5 kΩ cada una.
+  - Es un componente esencial en la electrónica, es versátil y eficiente.
+  - Es un circuito integrado (CI) que funciona como temporizador y oscilador.
+  - Contiene 25 transistores, 15 resistores y 2 diodos.
+- **Características**
+  - **Tensión de alimentación:** Funciona entre 4.5V y 15V, lo que permite su uso en una amplia gama de aplicaciones.
+  - **Corriente de salida:** Puede manejar hasta 200mA, suficiente para activar la mayoría de los dispositivos periféricos.
+  - **Estabilidad de temperatura:** El temporizador 555 es altamente estable, con fluctuaciones mínimas en sus tiempos de operación, incluso ante cambios de temperatura.
+  - **Versatilidad**: Debido a sus múltiples modos de operación, se puede utilizar en una variedad de aplicaciones.
 
-**Aplicaciones**
+## Aplicaciones
 
 ![chip 555](https://github.com/user-attachments/assets/f9ec60a6-ff7f-467d-b34f-04e71dfa56e2)
 
@@ -65,12 +65,14 @@ Los pines del 555 tienen las funciones siguientes:
 - Pin 8: +V. Tensión de alimentación, según la hoja de características, entre 4,5V y 16V.
 
 **Parte 3:** Encargo 06.
+
 - escuchar disco de banda alemana **Einstürzende Neubauten** e investigar intrumentos utilizados en sus canciones.
 
-**Einstürzende Neubauten**
+Einstürzende Neubauten
 
-   - **¿Quienes son?**
-     Einstürzende Neubauten es una banda alemana de música experimental e industrial, formada en Berlín Occidental en 1980. Son conocidos por su uso innovador de instrumentos no convencionales, como herramientas de construcción y objetos metálicos, para crear paisajes sonoros únicos y a menudo estridentes.
+- **¿Quienes son?**
+
+Einstürzende Neubauten es una banda alemana de música experimental e industrial, formada en Berlín Occidental en 1980. Son conocidos por su uso innovador de instrumentos no convencionales, como herramientas de construcción y objetos metálicos, para crear paisajes sonoros únicos y a menudo estridentes.
 
 ![images](https://github.com/user-attachments/assets/5204ddfb-87fa-4e21-bbba-3db4f5e825aa)
 
@@ -78,15 +80,16 @@ Disco escuchado: **Halber Mensch**
 
 ![HalberMenschAlbumCover](https://github.com/user-attachments/assets/17e003aa-51d9-4cf2-90ca-30e02780bde4)
 
-  - Este álbum es considerado uno de los trabajos más influyentes y radicales de la banda, y es ampliamente reconocido como un clásico de la música industrial y experimental. Tiene sonidos intensos y ruidosos creados con objetos como tuberías, metales y madera. Voz que dice vocales gritados y emotivos del líder (Blixa Bargeld).
+- Este álbum es considerado uno de los trabajos más influyentes y radicales de la banda, y es ampliamente reconocido como un clásico de la música industrial y experimental. Tiene sonidos intensos y ruidosos creados con objetos como tuberías, metales y madera. Voz que dice vocales gritados y emotivos del líder (Blixa Bargeld).
 
-   - Las letras de las canciones abordan temas como la alienación, la deshumanización y la crítica social, reflejando la atmósfera de tensión y cambio político en Alemania en la época.
-   - "Halber Mensch" es un álbum desafiante y provocador que sigue siendo influyente en la música experimental y underground hasta hoy en día.
-   
+- Las letras de las canciones abordan temas como la alienación, la deshumanización y la crítica social, reflejando la atmósfera de tensión y cambio político en Alemania en la época.
+- "Halber Mensch" es un álbum desafiante y provocador que sigue siendo influyente en la música experimental y underground hasta hoy en día.
+
 **Parte 4:** Encargo 07.
+
 - Ejercicio con chip 555 en clases.
 
-**Circuito esquematico a realizar**
+Circuito esquematico a realizar
 
 ![esquematico-astable](https://github.com/user-attachments/assets/f962d256-14e8-4536-8015-732d4ed8edd1)
 
@@ -102,7 +105,7 @@ Es un circuito esquematico astable, esto quiere decir, que es un circuito electr
 
 **Video**
 
-https://github.com/user-attachments/assets/84a7cd49-4066-4ddd-b7a8-5679c94bc09d
+<https://github.com/user-attachments/assets/84a7cd49-4066-4ddd-b7a8-5679c94bc09d>
 
 **Observación:** Cuando se activa un circuito con un chip 555, este produce pulsos de temporización o oscilaciones eléctricas, es decir, que el diodo LED enciende y se apaga en una misma frecuencia.
 
@@ -116,6 +119,6 @@ https://github.com/user-attachments/assets/84a7cd49-4066-4ddd-b7a8-5679c94bc09d
 
 **Video**
 
-https://github.com/user-attachments/assets/74888089-93e1-4065-8e4d-90378e56a652
+<https://github.com/user-attachments/assets/74888089-93e1-4065-8e4d-90378e56a652>
 
-**Observación:** Lo que sucede cuando se le agrega un potenciómetro a un circuito con chip 555, es que puede variar la resistencia del circuito y, por lo tanto, la cantidad de corriente que fluye, es decir, uno puede controlar la velocidad de encendido y apago del LED de forma alternada. 
+**Observación:** Lo que sucede cuando se le agrega un potenciómetro a un circuito con chip 555, es que puede variar la resistencia del circuito y, por lo tanto, la cantidad de corriente que fluye, es decir, uno puede controlar la velocidad de encendido y apago del LED de forma alternada.

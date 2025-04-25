@@ -1,6 +1,6 @@
 # sesion-01b
 
-## ENCARGO 02
+## encargo-02
 
 ### Opinión sobre *Aphex Twin*
 
@@ -18,9 +18,9 @@ The Internet's Own Boy, también tiene un lado muy triste, ya que todo su esfuer
 
 A través de su vida y trabajo, me hizo reflexionar sobre el poder que la tecnología tiene para cambiar el mundo y cómo personas como él pueden tener un impacto duradero, aunque no siempre sean reconocidos como deberían. Me hace pensar que no importa cuán joven seas, puedes hacer una gran diferencia si te enfrentas a lo que crees que está mal, incluso si las fuerzas en contra son enormes.
 
-Es como el mero ejemplo de Vincent Van Gogh, a pesar de su manera de ser artista, sus pinturas fueron valoradas cuando él ya no estaba para ver el impacto que generaron. Lo mismo que le paso a Aaron Swartz.
+Es como el mero ejemplo de Vincent Van Gogh, a pesar de su manera de ser artista, sus pinturas fueron valoradas cuando él ya no estaba para ver el impacto que generaron. Lo mismo que le pasó a Aaron Swartz.
 
-## ENCARGO 03
+## encargo-03: estudiar materiales
 
 1. **Condensadores cerámicos**: Utilizados en circuitos electrónicos desde la década de 1950, son conocidos por su pequeño tamaño y estabilidad. Se fabrican con materiales cerámicos como dieléctrico y se usan para filtrar o almacenar energía en circuitos.
 

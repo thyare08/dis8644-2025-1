@@ -8,7 +8,7 @@
 
 La Raspberry Pi es una computadora de bajo costo y tamaño reducido, desarrollada por la fundación Raspberry Pi en el Reino Unido. Fue creada originalmente con fines educativos, para enseñar programación y electrónica básica, pero se ha vuelto muy popular también entre aficionados, estudiantes, ingenieros y desarrolladores para todo tipo de proyectos.
 
-# Características principales:
+# Características principales
 
 - Tamaño compacto (similar a una tarjeta de crédito).
 
@@ -49,15 +49,15 @@ Una "Pick and Place machine" (máquina de recogida y colocación) es una máquin
 Un eliminador de pilas o adaptador de corriente es un dispositivo que convierte electricidad AC (de la red eléctrica) a DC (para alimentar aparatos que usan baterías).
 
 # AC (Corriente Alterna)
+
 → Viene del enchufe de la pared, normalmente 110V o 220V (depende del país).
 → No es segura ni adecuada para dispositivos pequeños.
 
 # DC (Corriente Continua)
+
 → Es la forma de energía que usan aparatos como radios, juguetes, routers, cámaras, etc.
 → El eliminador convierte la AC en DC, generalmente en 5V, 9V, 12V, etc., según lo que necesite el equipo.
 
 # Dato Curioso
 
 Los hermanos Angus y Malcolm Young, fundadores de la banda, vieron las letras “AC/DC” en la parte trasera de una máquina de coser que tenía su hermana. Les gustó cómo sonaba: corto, potente y lleno de energía, y pensaron que representaba perfectamente el estilo de su música: eléctrica, intensa y con mucha fuerza.
-
-

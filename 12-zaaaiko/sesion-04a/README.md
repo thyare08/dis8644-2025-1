@@ -1,11 +1,14 @@
 # sesion-04a
 
-# Clase 01/04
+## Clase 01/04
 
 - **Primera parte:**
+
 1. Explicación evaluaciones y cronograma del semestre (Revisar en el GitHub y Discord)
-2. Visitar pagina “555 Timer Circuits” para poder reforzar la lectura, interpretación y aplicación de circuitos 
+2. Visitar pagina “555 Timer Circuits” para poder reforzar la lectura, interpretación y aplicación de circuitos
+
 - **Segunda parte:**
+
 1. Armar nuevo circuito ejemplificado en el proyector (Atari Punk Console)
 
 ![atariPunk_v1](https://github.com/user-attachments/assets/e080379d-c733-46b0-a198-8844766976d0)
