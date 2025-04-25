@@ -61,6 +61,7 @@ Me gusta que el programa tenga la posibilidad de visualizar la placa PCB en 3D, 
 ## encargo-14
 
 diseñar esquemático en Kicad (solamente esquemático, no asignar huellas) de Atari Punk Console con modificaciones que ustedes realizaron en KiCAD, o en su versión base si sus modificaciones no funcionaron al 100%.
+TRASPASAR
 
 ## encargo-15
 
