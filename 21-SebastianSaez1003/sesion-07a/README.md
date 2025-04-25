@@ -151,3 +151,13 @@ Luego empecé a conectar los puntos según el esquemático especificado del prim
 
 ## encargo-15
 
+Dudas:  
+
+- ¿De qué manera realmente se miden las distancias de las patas de algunos componentes eléctricos, ya que bastantes huellas parecen ser medidas por ese medio?  
+
+- ¿Cuál es el tipo de acabado que necesita tener para mandarlo a los chinos? ¿Y se refería a que lo suelden los chinos directamente?  
+
+
+Recomendaciones:
+
+- Si van a mover algo que ya está conectado por cables, asegúrense de seleccionar todo el conjunto de conexiones; de esta manera no se desconectará y causará problemas más tarde.
