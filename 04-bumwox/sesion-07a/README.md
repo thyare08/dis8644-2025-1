@@ -72,4 +72,34 @@ __aprendizajes__
 
 ## 15.1 [noise toy](https://loudobjects.bandcamp.com/album/noise-toys) -  ___"manatees"___
 
+  es una serie de sintetizadores listos para usar creados por el trío ___"loud objects"___, conocido por construir y programar su propio hardware de audio
 
+___"noise toys"___ son versiones portátiles de los chips musicales que ___"loud objects"___ utiliza en sus actuaciones en directo, y están disponibles en cinco sabores sonoros diferentes, cada ___"noise toys"___ está programado con su propio patrón de sonido generativo de 1 bit, provisto de un interruptor de encendido basculante de estilo antiguo, dos botones que modulan el sonido y una toma de salida de audio
+
+[___ejemplo de como funcionan en conjunto los "noise toys"___](https://www.physicaleditions.com/product/noise_toys)
+
+el ___"noise toys"___ que me traje es la version ___"manatees"___ que fisicamente es igual a las demas versiones, haciendo la distintcion en el codigo para que pueda funcionar, los componentes que se pueden observar son un interruptor de encendido basculante de estilo antiguo, dos botones que modulan el sonido y una toma de salida de audio, no puse sacar otras especificaiones de los componentes, como valores por ejemplo, yaque la pagina la estan actualizando por lo que no pude acceder a caracteristicas mas detalladas
+
+## acercamiento del ___"noise toys"___ + prueba hecha por mi
+
+__componentes generales__
+  
+![acercamiento_01](https://github.com/user-attachments/assets/28879c5e-9d3f-4533-8e5f-52c364fff6d6)
+
+__rueda para controlar volumen__
+
+![acercamiento_02](https://github.com/user-attachments/assets/3f011f08-3708-4c9b-af82-4a08088163f8)
+
+__placa por abajo__
+
+![acercamiento_03](https://github.com/user-attachments/assets/fe3d780d-e441-4a1b-b97a-d59996cff720)
+
+__componentes generales__
+
+![acercamiento_04](https://github.com/user-attachments/assets/7d2e5e31-e00d-4f8a-8866-4f0f745f0517)
+
+__funcionamiento__
+
+https://github.com/user-attachments/assets/3825f748-96d2-4492-93df-75817617861c
+
+tambien encontre una [guia](https://makezine.com/article/maker-news/how-to-build-the-noise-to/) que nos ayuda a crear un ___"noise toys"___ con detalle de compopnentes, y pasos a seguir para construirlo, que tambien incluye un cast con __"kick pearson"__ el creador de __"make electronic music"___
