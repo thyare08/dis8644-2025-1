@@ -17,3 +17,4 @@ para tener mejor nocion de los elementos de kicad revisar el repo  de [00-libsKi
 - se popne un led aparte para poder probar si la placa esta recibiendo energia
 - hay dos categortias de switch, diractos a la placa y otros que son para montar en carcasa}
 - una orma de proteger la placa es agregar un diodo, para que no muera tambn el 555, solo hace que no pase nada
+  
