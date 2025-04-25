@@ -10,4 +10,5 @@
 
 ### repaso KiCad
 
-- 
+- no es necesario colocar la huella designada para cierto componente, se pueden utilizar otras, todo depende de lo que se necesite.
+- <https://cdm.link/> habla sobre la diversidad en la música electrónica y la necesidad de destruir metáforas gringas que describen la electrónica de forma violenta.
