@@ -11,4 +11,12 @@
 <img width="1470" alt="foto2kicad" src="https://github.com/user-attachments/assets/3dd52471-0773-4fc4-a6d6-7caf3ee5320d" />
 <img width="1470" alt="foto3kicad" src="https://github.com/user-attachments/assets/d01e6132-c254-47e3-b57d-a21559f7f0d6" />
 
-## loud object 
+## Loud object 
+
+![IMG_0979](https://github.com/user-attachments/assets/64a214a0-5248-458a-8c86-f12292473b3b)
+![IMG_0976](https://github.com/user-attachments/assets/a2c4f157-93ec-42ab-add9-adc84a9baad4)
+![IMG_0975](https://github.com/user-attachments/assets/4d7d2d6a-fedf-49a4-8813-a9b7e35ea218)
+
+## Encargo 14 - modificación atari punk console
+
+![Untitled_page-0001](https://github.com/user-attachments/assets/99bbfaeb-c38b-41cb-aedf-d3f09c15d3bb)
