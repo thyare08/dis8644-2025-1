@@ -14,7 +14,12 @@
 
 ### Primera parte de KiCad
 
-- adjuntar foto de bitácora
+- componentes básicos de la electrónica: resistencias, capacitores, diodos y transistores.
+- datos de los componentes: nombre, símbolo, valor, rating y footprint.
+- Se utilizan 7 capas: Edge.Cuts (contorno de 1 mm), F.Cu (capa frontal de cobre), B.Cu (capa posterior de cobre), F.Silkscreen (grabado frontal), B.Silkscreen (grabado posterior), F.Mask (máscara de color en la parte frontal) y B.Mask (máscara de color en la parte posterior).
+- todo en este programa se puede editar: los textos, tamaños, ubicación, los símbolos, las huellas e incluso las tipografías.
+
+*adjuntar foto de bitácora
 
 ![tme-sesion07a-esquema](https://github.com/user-attachments/assets/1960c49b-5884-44d2-8eac-357141de8341)
 
@@ -37,4 +42,5 @@
 
 - plantear dos dudas respecto a KiCad o aprendizajes
 - ¿cómo se puede modificar las patillas del componente 555 en KiCad?
+- ¿se pueden mandar a hacer PCBs con otras formas?
   
