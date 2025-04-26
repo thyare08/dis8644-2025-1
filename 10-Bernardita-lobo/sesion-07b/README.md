@@ -2,7 +2,7 @@
 
 ## Trabajo en clase
 
-### Cosas que conenversamos en la mañana
+### Cosas que conversamos en la mañana
 
 - ver el torniquete de República 180, tiene una silla justo adelante del torniquete.
 - diseño social, ¿cómo tienen que ser los edificios accesibles?
