@@ -12,7 +12,7 @@
 
 ![tme-sesion07b-foto01](https://github.com/user-attachments/assets/2524c9ca-cd48-4218-988d-4b865f8fbbcd)
 
-### KiCad
+### Primera parte de KiCad
 
 - adjuntar foto de bitácora
 
