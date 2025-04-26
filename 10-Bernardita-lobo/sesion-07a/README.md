@@ -16,7 +16,7 @@
 
 - componentes básicos de la electrónica: resistencias, capacitores, diodos y transistores.
 - datos de los componentes: nombre, símbolo, valor, rating y footprint.
-- Se utilizan 7 capas: Edge.Cuts (contorno de 1 mm), F.Cu (capa frontal de cobre), B.Cu (capa posterior de cobre), F.Silkscreen (grabado frontal), B.Silkscreen (grabado posterior), F.Mask (máscara de color en la parte frontal) y B.Mask (máscara de color en la parte posterior).
+- se utilizan 7 capas: Edge.Cuts (contorno de 1 mm), F.Cu (capa frontal de cobre), B.Cu (capa posterior de cobre), F.Silkscreen (grabado frontal), B.Silkscreen (grabado posterior), F.Mask (máscara de color en la parte frontal) y B.Mask (máscara de color en la parte posterior).
 - todo en este programa se puede editar: los textos, tamaños, ubicación, los símbolos, las huellas e incluso las tipografías.
 
 *adjuntar foto de bitácora
