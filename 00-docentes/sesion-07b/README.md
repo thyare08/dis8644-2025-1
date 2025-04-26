@@ -6,7 +6,7 @@ Cada componente físico tiene:
 
 - Nombre
 
-Nomina el tipo de componente: por ejemplo 
+Nomina el tipo de componente: por ejemplo
 
     Resistencia
     
@@ -16,9 +16,9 @@ Nomina el tipo de componente: por ejemplo
     
     Transistor
 
-- Valor 
+- Valor
 
-"Apellido" del componente, que alude a su cantidad numérica o su funcionalidad: por ejemplo 
+"Apellido" del componente, que alude a su cantidad numérica o su funcionalidad: por ejemplo
 
     100k ohm (de una resistencia)
     
@@ -40,8 +40,10 @@ Forma física del componente, que depende de otras características, como de esp
 
     TO-92 (Para transitor de valor 2n2222A)
 
+## encargo-16: cotizar udpudu en JLCPCB de forma productiva
 
+hacerse una cuenta en JLCPCB y cotizar udpudu, para 30 personas, documentar cada parámetro y elección.
 
-## encargo-16
+## encargo-17: cotizar udpudu en JLCPCB de forma experimental
 
-## encargo-17
+probar opciones que no entiendan, documentar otros parámetros que no conozcan aún.
