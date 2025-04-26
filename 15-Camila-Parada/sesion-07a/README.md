@@ -122,9 +122,17 @@ El archivo final se encuentra en la carpeta "diagram", puesto que al intentar su
 
 <br>
 
-2-. ¿KiCad StepUp? Ayuda a poder descargar 
+2-. ¿KiCad StepUp? Ayuda a poder descargar archivos en 3D
 
 https://github.com/easyw/kicadStepUpMod/
+
+<br>
+
+#### 1.3 Película "Una mente brillante (2001)"
+
+<br>
+
+No es una tarea como tal, pero el profesor me dijo que sería un buen ejercicio verla.
 
 <br>
 
