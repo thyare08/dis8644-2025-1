@@ -96,9 +96,9 @@ fuente <https://muac.unam.mx/assets/images/exposiciones%202023/ees_l_spiegel_web
 
 ![tme-sesion06b-suzanne](https://github.com/user-attachments/assets/57ac745b-a538-42c9-b93a-c365577a472a)
 
-fuente <https: https://i0.wp.com/es.rollingstone.com/wp-content/uploads/2022/06/Sisters-with-transistors-portada.jpg?w=1280&ssl=1>
+fuente <https://i0.wp.com/es.rollingstone.com/wp-content/uploads/2022/06/Sisters-with-transistors-portada.jpg?w=1280&ssl=1>
 
-fuente <https: https://www.wfyi.org/files/wfyi/programs_radio/current/cman-21-12-16.jpg>
+fuente <https://www.wfyi.org/files/wfyi/programs_radio/current/cman-21-12-16.jpg>
 
 ### Wendy Carlos
 
