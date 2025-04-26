@@ -28,9 +28,9 @@ fuente https://images.squarespace-cdn.com/content/v1/5ffde3b67374686520d5765f/27
 
 ![tme-sesion06b-clara](https://github.com/user-attachments/assets/8a3c83e5-8008-429c-9fd9-a4ece13742ad)
 
-fuente: https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2018/03/13000706/Clara-Rockmore-by-Toppo-c.-1930.Cropped-15M.jpg
+fuente <https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2018/03/13000706/Clara-Rockmore-by-Toppo-c.-1930.Cropped-15M.jpg>
 
-fuente: https://theremintimes.ru/wp-content/uploads/2021/03/%D1%80%D0%BE%D0%BA%D0%BC%D0%BE%D1%80-%D0%B8-%D1%81%D1%82%D0%BE%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9.jpg
+fuente <https://theremintimes.ru/wp-content/uploads/2021/03/%D1%80%D0%BE%D0%BA%D0%BC%D0%BE%D1%80-%D0%B8-%D1%81%D1%82%D0%BE%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9.jpg>
 
 ### Daphne Oram
 
