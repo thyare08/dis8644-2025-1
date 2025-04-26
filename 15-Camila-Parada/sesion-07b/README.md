@@ -33,6 +33,8 @@ Además, el profesor trajo un libro que se centra en la construcción de un mód
 
 Encontré un link que me lleva al producto: https://www.thonk.co.uk/shop/byom/
 
+Y esta es la web de los desarrolladores: https://clacktronics.co.uk/
+
 <br>
 
 - Garrapatas = DIP (Dual in-line package o empaquetado/paquete de doble hilera).
