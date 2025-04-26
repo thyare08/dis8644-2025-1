@@ -33,14 +33,18 @@
 
 ### 14-Diseñar esquemático en Kicad de Atari Punk Console
 
-- crear el esquemático en KiCad sin huellas
+- crear el esquemático en KiCad del Atari Punk Console con modificaciones, a menos que estas no funcionen del todo bien, como ocurrió en mi circuito.
+- no fue necesario para esta ocasión agregar huellas, ya que era un poco difícil recordar las que utilizamos en clase.
 - me fui guiando por el esquemático que realizó Misa del Atari Punk Console
+- lo más difícil fue recordar los nombres exactos de los componentes que escogimos y reorganizar el esquemático, ya que el 555 tenía otro orden.
 
 ![tme-sesion07a-kicadAPC](https://github.com/user-attachments/assets/12224442-3d23-4db1-9208-e460d6566663)
 
 ### 15-Manual de supervivencia de KiCAD
 
-- plantear dos dudas respecto a KiCad o aprendizajes
+- plantear dudas respecto a KiCad o aprendizajes
+- repasar en general me ayudó a procesar toda la información vista en clase, y ahora tengo más integrado cómo se llama cada componente que hemos utilizado en KiCad.
+- una de las cosas que aún no termino de entender es cómo se conectan los cables cuando hay muchos componentes que juntar, ya que a veces hay cables que impiden el paso de otros.
 - ¿cómo se puede modificar las patillas del componente 555 en KiCad?
 - ¿se pueden mandar a hacer PCBs con otras formas?
   
