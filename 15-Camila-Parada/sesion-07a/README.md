@@ -114,6 +114,8 @@ El archivo final se encuentra en la carpeta "diagram", puesto que al intentar su
 
 <br>
 
+***
+
 #### 1.2 Preguntas sobre "Manual de supervivencia para KiCAD"
 
 <br>
@@ -128,11 +130,15 @@ https://github.com/easyw/kicadStepUpMod/
 
 <br>
 
+***
+
 #### 1.3 Película "Una mente brillante (2001)"
 
 <br>
 
 No es una tarea como tal, pero el profesor me dijo que sería un buen ejercicio verla.
+
+Encontré la película en este link: https://www.genteclic.com/una-mente-brillante-2001-ver-pelicula-online/
 
 <br>
 
