@@ -15,6 +15,7 @@
 - las PCB se pueden mandar a hacer con cualquier forma que tú traces.
 - puedes escribirles, agregar tipografía, dibujos y siluetas, la terminación de estos depende de en qué capa los coloques.
 - no es necesario colocar la huella designada para cierto componente, se pueden utilizar otras, todo depende de lo que se necesite.
+- ordenamos los componentes de acuerdo a lo que nos convenía, yo no alcancé a llegar hasta esa parte.
 - <https://cdm.link/> habla sobre la diversidad en la música electrónica y la necesidad de destruir metáforas gringas que describen la electrónica de forma violenta.
 
 ![tme-sesion07b-esquema](https://github.com/user-attachments/assets/5e29b38a-ec80-4072-9d94-26aa672813bd)
