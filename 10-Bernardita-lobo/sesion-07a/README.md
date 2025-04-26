@@ -16,6 +16,14 @@
 
 - adjuntar foto de bitácora
 
+![tme-sesion07a-esquema](https://github.com/user-attachments/assets/1960c49b-5884-44d2-8eac-357141de8341)
+
+![tme-sesion07a-campoHuella](https://github.com/user-attachments/assets/2fa66780-26fb-4fd4-9976-931eb74b9189)
+
+![tme-sesion07a-editorDePlaca](https://github.com/user-attachments/assets/3c7e1e70-da75-4313-bca5-0749108e1891)
+
+![tme-sesion07a-visor3D](https://github.com/user-attachments/assets/bf4c09e7-f671-4cce-98b0-09a21dffaeec)
+
 ## Encargo
 
 ### 14-Diseñar esquemático en Kicad de Atari Punk Console
