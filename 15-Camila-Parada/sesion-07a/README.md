@@ -1,6 +1,6 @@
 # ⋆₊˚⊹♡ Clase 07a - Kicad y placas PCB ♡⊹˚₊⋆
 
-##### _Martes 21/04/2024_
+##### _Martes 21/04/2025_
 
 ***
 
@@ -111,6 +111,34 @@ _▼ Imagen del diagrama final en Kicad_
 <br>
 
 El archivo final se encuentra en la carpeta "diagram", puesto que al intentar subirlo a este documento github me lanzó el error "We don't support that file type", escribiendo muchas líneas de códigos (más de 300).
+
+<br>
+
+***
+
+#### 1.2 Preguntas sobre "Manual de supervivencia para KiCAD"
+
+<br>
+
+1-. ¿Cómo poder ordenar las patitas del chip N555 u otros componentes?}
+
+<br>
+
+2-. ¿KiCad StepUp? Ayuda a poder descargar archivos en 3D
+
+https://github.com/easyw/kicadStepUpMod/
+
+<br>
+
+***
+
+#### 1.3 Película "Una mente brillante (2001)"
+
+<br>
+
+No es una tarea como tal, pero el profesor me dijo que sería un buen ejercicio verla.
+
+Encontré la película en este link: https://www.genteclic.com/una-mente-brillante-2001-ver-pelicula-online/
 
 <br>
 
