@@ -62,6 +62,7 @@ qué componentes hay, cómo se ocupan, cómo se interconectan, qué valores tien
 - Anotar esquema (la barra de arriba) "No es necesario leer tanto" Misa
 - Control de reglas eléctricas (barra de arriba) ERC
 - Asignación de huellas (barra superior)
+- visor 3D [Alt + 3]
 
 
 - Círculo en la punta de un componente = el componente está disponible para ser conectado
