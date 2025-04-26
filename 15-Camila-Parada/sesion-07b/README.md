@@ -1,6 +1,6 @@
-# ⋆₊˚⊹♡ Clase 07a - Kicad y placas PCB ♡⊹˚₊⋆
+# ⋆₊˚⊹♡ Clase 07b - Kicad 2 y Atari punk console ♡⊹˚₊⋆
 
-##### _Viernes 24/04/2025_
+##### _Viernes 25/04/2025_
 
 ***
 
@@ -11,9 +11,31 @@
 - https://www.markdownguide.org/basic-syntax/
 - El Domingo 30 de marzo cumplí 25... no se porqué me gustaría sentirme orgullosa de ello, que se me reconociera --->
 
-Esta clase resolvimos dudase de Kicad, por lo que fue primordial el tener un portátil con el cual trabajar.
+La clase resolvimos dudase de Kicad, por lo que fue primordial el tener un portátil con el cual trabajar.
 El primer módulo se centró en aprender a cómo construir el esquemático y colocar las "huellas" (asociar piezas reales al listado de materiales).
 La segunda parte de la clase se centró en orientar los materiales dentro de una placa PCB ficticia y a poder revisarlos en 3D.
+
+Además, el profesor trajo un libro que se centra en la construcción de un módulo.
+
+<br>
+
+![IMG_8853](https://github.com/user-attachments/assets/95d60ce5-8020-46a6-ac4a-8adddf9bd3a3)
+
+![IMG_8855](https://github.com/user-attachments/assets/f28097d2-8e38-4554-877c-9f38468b1b03)
+
+![IMG_8858](https://github.com/user-attachments/assets/e4d83038-b38d-424a-b88f-0c35a6a8a457)
+
+![IMG_8859](https://github.com/user-attachments/assets/62907afd-e714-4bc6-b2b9-f6b6d8abd126)
+
+![IMG_8852](https://github.com/user-attachments/assets/3a528a3d-3697-4988-af53-669b043515c9)
+
+<br>
+
+Encontré un link que me lleva al producto: https://www.thonk.co.uk/shop/byom/
+
+<br>
+
+- Garrapatas = DIP (Dual in-line package o empaquetado/paquete de doble hilera).
 
 <br>
 
@@ -112,8 +134,52 @@ Después se comenzó a nombrar y escribir los valores de los componentes, ademá
 
 <br>
 
+Después del momento del break, hubo que volver a reinstalar una carpeta que mandaron por discord, por lo que se reemplazaron los documentos del anterior.
+Tras eso hubo que gestionar la biblioteca de huellas para agregar unas las carpetas que se encuentran en "modules".
+
+![image](https://github.com/user-attachments/assets/43ce1cbb-e2dc-4397-960f-06eaad50e812)
+
+Una vez listo, volvemos al archivo del diagrama y comenzamos a revisar las huellas faltantes con la opción "Asignar huellas"
+
+![image](https://github.com/user-attachments/assets/eff1281c-17ca-4dd5-88c3-5cf6600e1687)
+
+![image](https://github.com/user-attachments/assets/c5a8263f-bf4c-4934-ab37-f13ae0e0758a)
+
+<br>
+
+Ya teniendo el listado de huellas completo, toca trabajar en el documento pcb. Para ello es necesario reorganizar las piezas, crear las conexiones de cobre, las serigrafías, entre otros.
+
+<br>
+
+![image](https://github.com/user-attachments/assets/23a3f5d0-9870-466d-ba1d-3c5ca4da0bf9)
+
+![image](https://github.com/user-attachments/assets/37a0054b-a266-4820-aad4-0a772f38fe0c)
+
+![image](https://github.com/user-attachments/assets/b17174e6-9ad2-4576-8f0e-3817e0564ef4)
+
+<br>
+
+Al final no pude seguir el ritmo de la edición de la placa, por lo que tendré que estudiar la parte de edición y diseño gráfico de la placa, además de la importación.
+
+Para ello he estado revisando una serie de videos de youtube: https://youtube.com/playlist?list=PL-Hb9zZP9qC7-j4MKZNYg5i8rwu_ejkwW&si=FGzFyaG3pf5dPkZW
+
+<br>
+
+Para finalizar la clase, nos enseñaron a como poder subir el documento a una página que se especializa en la fabricación de placas PCB.
+
+https://cart.jlcpcb.com/quote?orderType=1&stencilLayer=2&stencilWidth=100&stencilLength=100
+
+<br>
+
 ***
 
+### Posdata
+
+Me quedé colgada a la mitad de la clase, así que toca estudiar y practicar ૮◞ ﻌ ◟ა
+
+***
+
+##### _°˖✧◝(⁰▿⁰)◜✧˖°_
 
 
 
