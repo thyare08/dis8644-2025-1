@@ -11,7 +11,7 @@
 
 ![tme-foto40](https://github.com/user-attachments/assets/4bc56ebf-00a5-4fc8-8d59-58c476996f01)
 
-Ideas de modificaciones recuperadas de: <https://www.555-timer-circuits.com>
+fuente: <https://www.555-timer-circuits.com>
 
 ### Componentes para PCB y para panel
 
