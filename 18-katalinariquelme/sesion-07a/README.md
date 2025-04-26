@@ -5,6 +5,12 @@ Clase 12: Martes 22 de Abril del 2025.
 
 Foto de mi bitácora
 
+![IMG_0359](https://github.com/user-attachments/assets/9d9a47cf-69ce-4074-a75f-59515760c920)
+
+Foto de mi bitácora
+
+![IMG_0360](https://github.com/user-attachments/assets/c11bd64e-b42c-49f2-8cc5-048aa7d4819e)
+
 ## Aprender a usar KiCad 
 
 **Registro**
@@ -37,4 +43,9 @@ Foto de mi bitácora
 
 ## Encargo 13: Recrear Atari Punk Console
 
-Subir foto
+![Captura de pantalla 2025-04-25 084252](https://github.com/user-attachments/assets/de415c95-b6ba-4e79-bd7c-2c036ccc5114)
+
+## Modicicación Atari Punk Console
+
+![Captura de pantalla 2025-04-25 092310](https://github.com/user-attachments/assets/605c05a2-bd4e-496e-98c0-d338231a5643)
+
