@@ -1,19 +1,21 @@
 # sesion-07a
-*22 de abril de 2025*
+
+22 de abril de 2025
 
 ## KiCad
 
-1. Evaluaremos los componentes en nuestro poder 
+1. Evaluaremos los componentes en nuestro poder
 
 Cada componente tiene 3 características: Valor, símbolo, rating (cuanto aguanta el componente), footprint (fisicalidad del componente)
 
-la primera etapa será esquema, aqui haremos el esquemático, mediante simbología, no representación de dimensión física 
+la primera etapa será esquema, aqui haremos el esquemático, mediante simbología, no representación de dimensión física
 
 1. Esquema (dibujo SCH)
 2. Asignó huella
 3. Ruteo (diseño de la placa)
 
 Haremos un 555 con variaciones "Mi primer KiCad 555"
+
 - Ir a nuevo proyecto y crear
 - Nos aparecerá automáticamente el esquemático (SCH) y PCB
 - Usar ctrl + , para activar los estándares recomendados y atajos
@@ -28,7 +30,7 @@ Haremos un 555 con variaciones "Mi primer KiCad 555"
 - W para la conexión
 - G para mover componentes junto al conector
 - Ctrl + S para ir guardando
-- Q para indicar que algo no está conectado 
+- Q para indicar que algo no está conectado
 - supr o Ctrl + X para borrar
 - Click en componente + X o Y se refleja el componente, respecto al plano elegido
 - R_POT para agregar potenciómetro
