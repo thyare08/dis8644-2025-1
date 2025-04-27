@@ -67,5 +67,5 @@
 >> Haciendo click en ${\color{#b0e6e6}Board \ Setup}$ <img src="./files/boardSetup.png" width=25> y luego seleccionando la cantidad de capas de cobre
 >> 
 >> ### 2: ¿Qué es "impedance"? <br/>
->>  viendo varios tutoriales, algo que muchos mencionan es "impedance" y que los trazos de cobre tienen que tener un valor de 50Ω, por lo que logro entender parece ser algo para evitar que la señal electromagnética de cada trazo interfiera con la del que tiene al lado, aunque podría ser solo algo específico de diseños RF (RadioFrequency)
+>>  viendo varios tutoriales, algo que muchos mencionan es "impedance" y que los trazos de cobre tienen que tener un valor de ${\color{#ffe4a8}50Ω}$, por lo que logro entender parece ser algo para evitar que la señal electromagnética de cada trazo interfiera con la del que tiene al lado, aunque podría ser solo algo específico de diseños RF (RadioFrequency)
 > <br/>
