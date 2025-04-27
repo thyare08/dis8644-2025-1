@@ -63,7 +63,9 @@
 -----------------------------------------------------------------------------------------------------------
 ## Encargo 15
 ### 2 dudas o aprendizajes
->> 1: ¿cómo podemos hacer una placa con más de 2 capas?
+>> ### 1: ¿cómo podemos hacer una placa con más de 2 capas? [(Tutorial)](https://youtu.be/RlB2mzoIKbo?si=8R2g06NOSoa8hhVs)<br/>
+>> Haciendo click en Board Setup <img src="./files/boardSetup.png" width=25> y luego seleccionando la cantidad de capas de cobre
 >> 
->> 2: ¿Qué es "impedance"? viendo varios tutoriales, algo que muchos mencionan es "impedance" y que los trazos de cobre tienen que tener un valor de 50Ω, por lo que logro entrender parece ser algo para evitar que la señal electromagnética de cada trazo interfiera con la del que tiene al lado, aunque podría ser solo algo específico de diseños RF (RadioFrequency)
->
+>> ### 2: ¿Qué es "impedance"? <br/>
+>>  viendo varios tutoriales, algo que muchos mencionan es "impedance" y que los trazos de cobre tienen que tener un valor de 50Ω, por lo que logro entrender parece ser algo para evitar que la señal electromagnética de cada trazo interfiera con la del que tiene al lado, aunque podría ser solo algo específico de diseños RF (RadioFrequency)
+> <br/>
