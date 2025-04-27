@@ -41,7 +41,7 @@ Foto de mi bitácora
 ![Captura de pantalla 2025-04-22 114504](https://github.com/user-attachments/assets/718d3af3-f490-4421-8cb9-8d18b53bf623)
 
 
-## Encargo 13: Recrear Atari Punk Console
+## Encargo 14: Recrear Atari Punk Console
 
 ![Captura de pantalla 2025-04-25 084252](https://github.com/user-attachments/assets/de415c95-b6ba-4e79-bd7c-2c036ccc5114)
 
