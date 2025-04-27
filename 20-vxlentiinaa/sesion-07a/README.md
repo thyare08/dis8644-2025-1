@@ -46,6 +46,6 @@ Variación de Atari Punk Console
 
 ***Dudas**_
 
-1. ¿Cómo exportar el modelo 3D de la placa completa en otro archivo? Exportar archivo en Vrml, _CAD assistans_ caja de herramientas para ver el modelo tridimensional y poder exportarlo en otros formatos.
+1. ¿Cómo exportar el modelo 3D de la placa completa en otro archivo? Exportar archivo en Vrml, _CAD assistants_ caja de herramientas para ver el modelo tridimensional y poder exportarlo en otros formatos.
 2. ¿Cómo ordenar el Chip 555 de mejor manera?
 3. ¿Existe algún tip de cómo ordenar los componentes, para realizar las líneas de cobre mejor?
