@@ -1,17 +1,18 @@
 # sesion-07b
+
 25 - 04 - 2025
 
-- (https://vertice.udp.cl/)
+- <https://vertice.udp.cl/>
 - [cursos online](https://www.coursera.org/)
 - [KiCAD en 3D](https://www.kicad.org/external-tools/stepup/) - mejor hacerlo en la app directamente
 - ***DIP**
-- (https://cdm.link/) diversidad de musica electrónica - cómo destruir metáforas violentas [maestro - esclavo]
+- (<https://cdm.link/>) diversidad de musica electrónica - cómo destruir metáforas violentas [maestro - esclavo]
 - usar terminal block para conectar componentes externos TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm
 - **diodo de protección** Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal
 - **
 
-"exorsisar "
-agregar la carpeta de discord para las huellas de 
+"exorcizar "
+agregar la carpeta de discord para las huellas de
 
 huellas:
 
@@ -49,8 +50,8 @@ EXPORTAR:
 
 - exportar gerber .gbr
 - 7 capas importantes
-- no sé qué cosa de taladrear
-- 
+- .drl no sé qué cosa de taladrear
+-
 
 cómo saber si mi circuito funciona o no: poner un led **imagena**
 

@@ -1,33 +1,34 @@
 # sesion-07a
-#### martes 22 de abril
+
+martes 22 de abril
 
 - [Bleep Labs](https://bleeplabs.com/)
-    - [ ] incluir imágenes
+  - [ ] incluir imágenes
 - [loud objects](https://loudobjects.bandcamp.com/merch)
-    - [ ] incluir imágenes
-- [bandcamp](https://bandcamp.com/) 
+  - [ ] incluir imágenes
+- [bandcamp](https://bandcamp.com/)
 - [uva robot](https://uvarobot.bandcamp.com/) - mezclaron dos palabras que la gente no mezclaría
 - Diego Lorenzini
 - Los varios artistas
 - [roy macdonald](https://github.com/roymacdonald)
-- rafael lozano hemmer
-- [open frameworks](https://openframeworks.cc/) - programación nivel dios, cuando la programación no alcance tus sueños 
+- rafael lozano-hemmer
+- [open frameworks](https://openframeworks.cc/) - programación nivel dios, cuando la programación no alcance tus sueños
 - [future sketches](https://www.media.mit.edu/groups/future-sketches/overview/)
-- [Simulador de cirguitos](https://www.falstad.com/circuit/circuitjs.html)
+- [Simulador de ciruitos](https://www.falstad.com/circuit/circuitjs.html)
 
 - Googlear componentes:
-  - [victronics](https://www.victronics.cl/)
-  - [mousser](https://www.mouser.cl/)
+  - victronics <https://www.victronics.cl/>
+  - mouser <https://www.mouser.cl/>
 
 - CSV - archivo de tablas (se puede usar con excel - probar con GitHub)
 - La caverna de Platón
-- [clacktronics](https://clacktronics.co.uk/) TODO MUY LOCO - ME ENCANTA
-- [una placa al mes si eres miembro](https://boldport.com/club) 
-- [mandar a hacer las placas](https://jlcpcb.com/)
+- <https://clacktronics.co.uk/> TODO MUY LOCO - ME ENCANTA
+- una placa al mes si eres miembro <https://boldport.com/club>
+- mandar a hacer las placas <https://jlcpcb.com/>
 
 La belleza de la protoboard "Me gusta que las cosas puedan fallar" - Aarón
 
-## kicad 
+## kicad
 
 Palabra importantísima - **COMPONENTE**
 
@@ -43,7 +44,6 @@ tiene 3 características: - **Valor** / - **Símbolo** / - **rating** (cuanto ag
 ### esquema
 
 qué componentes hay, cómo se ocupan, cómo se interconectan, qué valores tienen
-
 
 - Añadir símbolos [A]
 - Rotar [R]
@@ -64,23 +64,22 @@ qué componentes hay, cómo se ocupan, cómo se interconectan, qué valores tien
 - Asignación de huellas (barra superior)
 - visor 3D [Alt + 3]
 
-
 - Círculo en la punta de un componente = el componente está disponible para ser conectado
-- THT = 
+- THT = through hole technology
 
 ### dibujo SCH (esquemático)
 
 ### huellas
 
 Pitch = [P] = distancia entre patitas
- 
+
 - Asignación de huellas (barra superior)
 - Biblioteca del centro = Mis componentes
 - Seleccionar mi componente a cambiar ---> en la sección derecha sseleccionar las medidas
 
 ### ruteo
 
-##### 7 capas
+### 7 capas
 
 - F.Cu (capa superior de cobre)
 - Edges.Cut

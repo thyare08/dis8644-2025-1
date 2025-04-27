@@ -3,6 +3,7 @@
 22-04-2025
 
 ## Apuntes
+
 * _BandCamp_: página web donde se pueden subir álbumes
 * Roy Macdonald
 * _FootPrint_: Huella / fisicalidad del componente
@@ -10,14 +11,16 @@
 * _Mouser.cl_: Tienda específica de componentes
 
 ### Kicad
+
 | Etapas | Kicad |
 |------------|---|
-| 1- Esquema |
+| 1- Esquema | |
 | 2- Dibujo Esquemático | Kicad SCH |
-| 3- Asignar Huellas |
+| 3- Asignar Huellas | |
 | 4- Ruteo | Kicad PCB |
 
 ### Comandos
+
 * A: Abrir ¨Place Symbols¨
 * R: Rotar
 * M: Mover
@@ -40,7 +43,9 @@ Variación de Atari Punk Console
 <img width="1346" alt="APC" src="https://github.com/user-attachments/assets/c0d6fcf5-a430-4ba8-a61a-db72f32f60f8" />
 
 ## Encargo 15
-***Dudas***
-1. ¿Cómo exportar el modelo 3D de la placa completa en otro archivo? Exportar archivo en Vrml, _CAD assistans_ caja de herramientas para ver el modelo tridimensional y poder exportarlo en otros formatos.
+
+***Dudas**_
+
+1. ¿Cómo exportar el modelo 3D de la placa completa en otro archivo? Exportar archivo en Vrml, _CAD assistants_ caja de herramientas para ver el modelo tridimensional y poder exportarlo en otros formatos.
 2. ¿Cómo ordenar el Chip 555 de mejor manera?
 3. ¿Existe algún tip de cómo ordenar los componentes, para realizar las líneas de cobre mejor?
