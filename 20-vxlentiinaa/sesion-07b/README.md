@@ -7,7 +7,7 @@
 * Siempre vamos a partir por el esquemático
 * _Para cargar biblioteca de símbolos local_: Preferencias > Gestionar biblioteca de símbolos > Apretar símbolo "carpeta" para agregar los archivos descargados.
 * _Exportar en Kicad_: Vrml
-* _Cad Assistans_: App para visualizar el modelo 3D <https://www.opencascade.com/products/cad-assistant/>
+* _Cad Assistants_: App para visualizar el modelo 3D <https://www.opencascade.com/products/cad-assistant/>
 * _Dip_: Double in-line package 
 * _Footprint_: Huella
 * _Terminal Block_: Una conexión para la PCB, para externalizar algo
