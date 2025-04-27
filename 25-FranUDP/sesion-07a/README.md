@@ -56,12 +56,14 @@
 >> Dimenciones estandard para componentes ej: DO 35 o 0805 <br/><br/> <img align="left" src="./files/package.jpg" width=400> <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 > <br/>
 -----------------------------------------------------------------------------------------------------------
-## Encargo XX
-### TITULO
->
+## Encargo 14
+### Esquema Atari Punk en Kicad
+> <img align="left" src="./files/atariPunk.png" width=940> <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 >
 -----------------------------------------------------------------------------------------------------------
-## Encargo YY
-### TITULO
->
+## Encargo 15
+### 2 dudas o aprendizajes
+>> 1: ¿cómo podemos hacer una placa con más de 2 capas?
+>> 
+>> 2: ¿Qué es "impedance"? viendo varios tutoriales, algo que muchos mencionan es "impedance" y que los trazos de cobre tienen que tener un valor de 50Ω, por lo que logro entrender parece ser algo para evitar que la señal electromagnética de cada trazo interfiera con la del que tiene al lado, aunque podría ser solo algo específico de diseños RF (RadioFrequency)
 >
