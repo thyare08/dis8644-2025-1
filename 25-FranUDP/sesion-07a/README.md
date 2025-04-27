@@ -32,10 +32,29 @@
 >> Automaticamente exporta nuestro BOM en formato .cvs (editable en excel) <br/>
 >
 > ### PCB Editor <img align="left" src="./files/pcb.png" width=45> <br/><br/>
+> Tras asignar la footprint de cada componente, estos se pueden comenzar a organizar en la placa PCB junto con sus conecciones. <img align="right" src="./files/pcb_sch.png" width=45> <br/> Para actualizar el editor PCB con los componentes y conecciones del editor esquemático apretar el ícono a la derecha <br/><br/>
+> ### Shortcuts: <br/>
+> Algunos de los shortcuts anteriores no funcionan en el editor PCB
+> | A |  Añadir simbolo <img align="right" src="./files/A2.png" width=45> <br/><br/> |
+> |:-:|:----------------|
+> | R | Rotar elemento |
+> | M | Mover elemento |
+> | G | Mover elemento + conexiones |
+> | E | Ver info componente |
+> | V | Rotar entre capa de cobre frontal y posterior y si se tiene seleccionado un cable, poner una via |
+> | X | Trazar cable <img align="right" src="./files/X.png" width=45> <br/><br/>|
+> | W | Rotar entre grosores de trazos de cobre (cable) |
+>
+> Para ver la placa PCB en 3d presionar "Alt + 3" (windows) <br/>
+>> Componentes seleccionados en el editor PCB se verán verdes en el visor 3d <br/>
 >
 > ### Other things
 >
->> #### SUB_SUBTITULO
+>> #### THT (Through Hole Technology) <br/><br/>
+>> 
+>> ### Package
+>> Dimenciones estandard para componentes ej: DO 35 o 0805 <br/><br/> <img align="left" src="./files/package.jpg" width=400> <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+> <br/>
 -----------------------------------------------------------------------------------------------------------
 ## Encargo XX
 ### TITULO
