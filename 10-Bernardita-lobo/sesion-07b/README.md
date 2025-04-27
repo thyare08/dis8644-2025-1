@@ -12,7 +12,8 @@
 
 - profundizamos en las huellas de los componentes, estas huellas son las dimensiones que se utilizan para soldar los componentes posteriormente.
 - descargamos una carpeta que contenía una biblioteca de huellas específicas para nuestros componentes.
-- alas patillas del 555 se les dice DIP, lo que significa Dual In-Line Package.
+- a las patillas del 555 se les dice DIP, lo que significa Dual In-Line Package.
+- nos recomendaron agregar un pequeño circuito con una resistencia y un LED para que nos indique si está pasando energía en la PCB.
 - las PCB se pueden mandar a hacer con cualquier forma que tú traces.
 - puedes escribirles, agregar tipografía, dibujos y siluetas, la terminación de estos depende de en qué capa los coloques.
 - no es necesario colocar la huella designada para cierto componente, se pueden utilizar otras, todo depende de lo que se necesite.
