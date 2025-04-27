@@ -8,7 +8,7 @@
 > * Símbolo: dibujo que representa un componente en el diagrama/esquema ej: <br/><br/> <img align="left" src="./files/resistorSymbols.jpg" width=220> <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 > * *Rating*: Cuanto voltaje y/o corriente soporta antes de quemarse o explotar <br/>
 >
-> Aparte de las características ya mencionadas, otro detalle son las dimenciones físicas que ocupa cada componenete (footprint) <br/><br/>
+> Aparte de las características ya mencionadas, otro detalle son las dimensiones físicas que ocupa cada componente (footprint) <br/><br/>
 > <img align="left" src="./files/footprint.jpg" width=200> <br/> Length <br/><br/> Diameter/Width <br/><br/> Pitch (distancia entre las patas) <br/><br/>
 >
 > ### Kicad <img align="left" src="./files/kicadLogo.png" width=45> <br/><br/>
@@ -32,7 +32,7 @@
 >> Automaticamente exporta nuestro BOM en formato .cvs (editable en excel) <br/>
 >
 > ### PCB Editor <img align="left" src="./files/pcb.png" width=45> <br/><br/>
-> Tras asignar la footprint de cada componente, estos se pueden comenzar a organizar en la placa PCB junto con sus conecciones. <img align="right" src="./files/pcb_sch.png" width=45> <br/> Para actualizar el editor PCB con los componentes y conecciones del editor esquemático apretar el ícono a la derecha <br/><br/>
+> Tras asignar la footprint de cada componente, estos se pueden comenzar a organizar en la placa PCB junto con sus conexiones. <img align="right" src="./files/pcb_sch.png" width=45> <br/> Para actualizar el editor PCB con los componentes y conexiones del editor esquemático apretar el ícono a la derecha <br/><br/>
 > ### Shortcuts: <br/>
 > Algunos de los shortcuts anteriores no funcionan en el editor PCB
 > | A |  Añadir simbolo <img align="right" src="./files/A2.png" width=45> <br/><br/> |
@@ -53,7 +53,7 @@
 >> #### THT (Through Hole Technology) <br/><br/>
 >> 
 >> ### Package
->> Dimenciones estandard para componentes ej: DO 35 o 0805 <br/><br/> <img align="left" src="./files/package.jpg" width=400> <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+>> Dimensiones estándar para componentes ej: DO 35 o 0805 <br/><br/> <img align="left" src="./files/package.jpg" width=400> <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 > <br/>
 -----------------------------------------------------------------------------------------------------------
 ## Encargo 14
@@ -67,5 +67,5 @@
 >> Haciendo click en Board Setup <img src="./files/boardSetup.png" width=25> y luego seleccionando la cantidad de capas de cobre
 >> 
 >> ### 2: ¿Qué es "impedance"? <br/>
->>  viendo varios tutoriales, algo que muchos mencionan es "impedance" y que los trazos de cobre tienen que tener un valor de 50Ω, por lo que logro entrender parece ser algo para evitar que la señal electromagnética de cada trazo interfiera con la del que tiene al lado, aunque podría ser solo algo específico de diseños RF (RadioFrequency)
+>>  viendo varios tutoriales, algo que muchos mencionan es "impedance" y que los trazos de cobre tienen que tener un valor de 50Ω, por lo que logro entender parece ser algo para evitar que la señal electromagnética de cada trazo interfiera con la del que tiene al lado, aunque podría ser solo algo específico de diseños RF (RadioFrequency)
 > <br/>
