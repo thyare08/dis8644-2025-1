@@ -11,7 +11,7 @@
 <img width="1470" alt="foto2kicad" src="https://github.com/user-attachments/assets/3dd52471-0773-4fc4-a6d6-7caf3ee5320d" />
 <img width="1470" alt="foto3kicad" src="https://github.com/user-attachments/assets/d01e6132-c254-47e3-b57d-a21559f7f0d6" />
 
-## Loud object 
+## Loud object
 
 ![IMG_0979](https://github.com/user-attachments/assets/64a214a0-5248-458a-8c86-f12292473b3b)
 ![IMG_0976](https://github.com/user-attachments/assets/a2c4f157-93ec-42ab-add9-adc84a9baad4)
@@ -26,7 +26,7 @@
 1. ¿se puede modificar de el modelado 3d o solo de el esquemático?
 
 2. ¿en qué formatos se puede descargar?
-   
+
 archivo -> exportar -> VRML
 
 **CAD assistant** caja de herramientas para ver la vista tridimensional (para imprimir 3d)

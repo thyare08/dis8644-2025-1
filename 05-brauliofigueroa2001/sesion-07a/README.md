@@ -1,5 +1,7 @@
 # sesion-07a
+
 ## taller martes 21 de abril
+
 ### primera parte, desde las 8:30 a las 9:00 aprox
 
 Llegué temprano este día, creo que le hace bien a uno mismo andar bien con la hora y no andar apurado y corriendo para todos lados, influye muchísimo en el ánimo o al menos a mi personalmente si.
@@ -10,6 +12,7 @@ Llegué temprano este día, creo que le hace bien a uno mismo andar bien con la 
 - rafael lozano-hemmer es un artista que trabaja en un contexto de exhibiciones con obras muy intensas, roy trabaja como programador para lozano hemmer
 - openframeworks ---> arturo castro manejó la página mucho tiempo pero después de que él la dejó la página se vino abajo, agregar que hay muchas instalaciones de museo que estan hechas con openframeworks
 - zach lieberman y future sketches
+
 ### de aquí para abajo ya eran las 9 así que comenzamos a entrar en materia
 
 - componente ---> ¿qué es un componente?
@@ -48,7 +51,9 @@ Llegué temprano este día, creo que le hace bien a uno mismo andar bien con la 
 - a la izquierda, está la biblioteca con todas las huellas, al centro las mías y mis componentes y a la derecha las recomendaciones
 - también podemos aplicar filtros de huella apretando un ícono cuadrado arriba a la izquierda, podemos buscar por # número de pata? no entendí bien aquí
 - el viernes enseñarán formas de asignar huellas de manera más sencilla, la verdad en este punto de la clase me perdí mucho, mi concentración duró hasta el break
+
 ### algunas cosas que también anoté pero no es un paso a paso
+
 - el concepto de package, el encapsulado, el encapsulado alude a la forma del componente
 - a la izq tenemos los componentes THT y SMD, averiguar cuál era la diferencia
 - googlear en mousser ---> en una parte misa googleó un potenciómetro en mousser para encontrar el componente específico que estaba buscando
