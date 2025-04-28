@@ -64,7 +64,7 @@ Cambiando el surface finish a HASL (hot air solder leveling), el precio baja dem
 
 ![Via Covering](./archivos/e04.png)
 
-Al principio no entendí qué es lo que esto hace, solo noté que *plugged* le sube el precio a $49.03 y **epoxy** a $86.86, así que pensé que quizás podría ser solo un cambio estético, pero luego de buscar información, descubrí que es porque la pasta de las soldaduras a veces puede meterse en las vías y hacer cortocircuito, así que dan la opción de poner otros materiales en los agujeros para evitar que esto pase
+Al principio no entendí qué es lo que esto hace, solo noté que *plugged* le sube el precio a $49.03 y *epoxy* a $86.86, así que pensé que quizás podría ser solo un cambio estético, pero luego de buscar información, descubrí que es porque la pasta de las soldaduras a veces puede meterse en las vías y hacer cortocircuito, así que dan la opción de poner otros materiales en los agujeros para evitar que esto pase
 
 ![Edge plating](./archivos/e05.png)
 
