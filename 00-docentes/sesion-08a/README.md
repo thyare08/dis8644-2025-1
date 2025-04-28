@@ -2,6 +2,4 @@
 
 martes 29 de abril 2025
 
-## encargo-18
-
-## encargo-19
+no hay encargos por semana de receso.
