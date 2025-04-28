@@ -85,11 +85,45 @@ La muestra me pareció interesante y curiosa, sobre todo por la fabricación de 
 
 <br>
 
+A continuación se nos dio "chipe libre" para seguir recorriendo las demás salas del museo y los proyectos que ahí se encuentran.
+
+<br>
+
+![WhatsApp Image 2025-04-28 at 9 48 49 AM](https://github.com/user-attachments/assets/21309455-bf8c-4ad0-8dc6-707255dcf40a)
+
+![WhatsApp Image 2025-04-28 at 9 48 49 AM (1)](https://github.com/user-attachments/assets/66407e8b-460d-4a30-82c6-b4a245b1a9f9)
+
+![WhatsApp Image 2025-04-28 at 9 48 49 AM (2)](https://github.com/user-attachments/assets/ec660c9e-e940-4dc4-92c7-c7db8462f66c)
+
+![WhatsApp Image 2025-04-28 at 9 48 51 AM](https://github.com/user-attachments/assets/d90d04dc-c2a8-4287-9b0d-b7db233bad50)
+
+![WhatsApp Image 2025-04-28 at 9 48 49 AM (3)](https://github.com/user-attachments/assets/118ae423-b8ca-4a50-aac4-32620a4bf89e)
+
+<br>
+
+Esta fue la "escultura" que me llamó más la atención. Me gusta como con elementos tan simples se puede transformar en algo memorable e interactivo. Se siente muy extraño y atractivo, como si estuviera siendo vigilada al ser mostrada en la pantalla y al hacer que se imprima un papel con la interacción.
+
+<br>
+
+![WhatsApp Image 2025-04-28 at 9 48 51 AM (4)](https://github.com/user-attachments/assets/915c7554-feb1-42b3-9b14-1a2a18640a6a)
+
+![WhatsApp Image 2025-04-28 at 9 48 51 AM (3)](https://github.com/user-attachments/assets/134a1941-0a90-4fcb-8dea-75f7f9461b05)
+
+![WhatsApp Image 2025-04-28 at 9 48 51 AM (2)](https://github.com/user-attachments/assets/73b5206a-888a-40a8-a5a5-a9dec6569e88)
+
+![WhatsApp Image 2025-04-28 at 9 48 51 AM (1)](https://github.com/user-attachments/assets/e40596f2-100e-4240-aae1-185d63fada5d)
+
+![WhatsApp Image 2025-04-28 at 9 48 51 AM](https://github.com/user-attachments/assets/e7c0b6c1-af55-4a25-8c85-e94535421742)
+
+![WhatsApp Image 2025-04-28 at 9 48 49 AM (4)](https://github.com/user-attachments/assets/26931d89-af86-4611-aff3-7b495e8a38d0)
+
+<br>
+
 ***
 
 ### Posdata
 
-En proceso ૮◞ ﻌ ◟ა
+Pos ando rehaciendo estas tareas, aunque no tenga sentido, porque el dejarlas sin hace me hacen sentir mal ૮◞ ﻌ ◟ა
 
 ***
 
