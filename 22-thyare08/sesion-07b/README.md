@@ -4,6 +4,9 @@
 
 # Aprendimos:
 Más comandos para kicad, también a poner las huellas para después solo duplicarlas
+
 Redondear la placa, moviendo la línea un cuadrado para atrás (5 mm) y una línea curva
+
 Saltar vías, al enrutar pistas podemos apretar V y la línea debe salir de color rojo
+
 Envío a china, en JLCPBC
