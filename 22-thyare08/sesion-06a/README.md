@@ -1,5 +1,4 @@
 # sesion-06a
-# sesion-06a
 
 15 de Abril de 2025.
 
