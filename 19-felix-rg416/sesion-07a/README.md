@@ -42,6 +42,8 @@ martes 22 de abril
 
 La belleza de la protoboard *"Me gusta que las cosas puedan fallar"* - Aarón
 
+-----
+
 # kicad
 
 Palabra importantísima - **COMPONENTE**
@@ -54,10 +56,8 @@ tiene 3 características: - **Valor** / - **Símbolo** / - **rating** (cuanto ag
 - Condensador de disco los nuestros
 - [Diodo](https://www.mouser.cl/ProductDetail/onsemi-Fairchild/1N4148?qs=i4Fj9T%2FoRm8RMUhj5DeFQg%3D%3D)
 - Potenciómetro RK163
-  
-## esquema
 
-qué componentes hay, cómo se ocupan, cómo se interconectan, qué valores tienen
+### comandos
 
 - Añadir símbolos [A]
 - Rotar [R]
@@ -75,24 +75,31 @@ qué componentes hay, cómo se ocupan, cómo se interconectan, qué valores tien
 - **Ctrl + S** GUARDAR *"yo no confío en nadie, sólo en mi ctrl + S 5 veces cada 5 segundos"* - Misa
 - visor 3D [Alt + 3]
 
-- **Anotar esquema (la barra de arriba): rellena indicadores de referencia de los símbolos del esquema**
+## esquema
+
+qué componentes hay, cómo se ocupan, cómo se interconectan, qué valores tienen
+
+- Círculo en la punta de un componente = el componente está disponible para ser conectado
+- THT = through hole technology - método para montar los componentes en una PCB, se meten las patitas de los componentes en los orificios de la placa y soldándolos por el lado contrario
+
+- **Anotar esquema (la barra de arriba) :** rellena indicadores de referencia de los símbolos del esquema
 
 *"No es necesario leer tanto"* - Misa
 
 ![antorar-esquema](https://github.com/felix-rg416/dis8644-2025-1/blob/main/19-felix-rg416/sesion-07a/archivos/anotar-esquema.collage.png)
 
-- Control de reglas eléctricas (barra de arriba) ERC : muestra errores en las conexiones del esquema
+- **Control de reglas eléctricas (barra de arriba) ERC :** muestra errores en las conexiones del esquema
 
-![erc]()
+![erc](https://github.com/felix-rg416/dis8644-2025-1/blob/main/19-felix-rg416/sesion-07a/archivos/ERC.collage.png)
 
-- Asignación de huellas (barra superior)
+- **Asignación de huellas (barra superior) :** herramienta que asigna un objeto real al símbolo
 
-- Círculo en la punta de un componente = el componente está disponible para ser conectado
-- THT = through hole technology - método para montar los componentes en una PCB, se meten las patitas de los componentes en los orificios de la placa y soldándolos por el lado contrario
+![asignar.huellas](https://github.com/felix-rg416/dis8644-2025-1/blob/main/19-felix-rg416/sesion-07a/archivos/asiganr-huellas.collage.png)
 
-- ajustar grilla
+- **ajustar grilla :** distancia de puntos guía
 
 ![girlla](https://github.com/felix-rg416/dis8644-2025-1/blob/main/19-felix-rg416/sesion-07a/archivos/grilla.png)
+
 
 ## dibujo SCH (esquemático)
 
