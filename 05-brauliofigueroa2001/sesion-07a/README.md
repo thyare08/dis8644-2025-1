@@ -81,4 +81,7 @@ adjunto esquemático desarrollado en kicad de la modificación realizada al atar
 ![esquematicomodificado](https://github.com/user-attachments/assets/dd02dd16-74ef-4803-86c8-20e7aa23e26b)
 
 
+### encargo 15
+
+
 
