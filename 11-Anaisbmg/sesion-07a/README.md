@@ -7,7 +7,7 @@
 Componentes R, C, D, T tienen símbolo, valor, rating (capacidad máxima) , footprint (huella tiene que ver con la fiscalidad del componente)
 kicad 
 
-etapa1 esquemático que componentes hay como se conectan, símbolo, valor, conexión 
+etapa 1 esquemático que componentes hay como se conectan, símbolo, valor, conexión 
 
 el nombre de cada componente se ve cuando ya se finaliza todo el esquematico, ya que los nombres se puede ordenar los nombres al final 
 
@@ -19,32 +19,21 @@ Kiad 7 placas: Bottom cu, front cu, silk esta en b y f silk grabado, f.mask, b.m
 
 comandos 
 
-(agregar toda esta info en una tabla)
-M → mover
-
-A → añadir
-
-R → rotar 
-
-V → valor
-
-G → moverá todo y seguirá conectado 
-
-Q → para agregar una x
-
-ctrl + s → para guardar
-
-ctrl + d → para duplicar
-
-E (sobre componente) → propiedades del símbolo
-
-ctrl + x → para borrar
-
-x → mover texto en eje x
-
-y → mover texto en eje y
-
-u → seleccionar todo el recorrido
+| comando | que hace | 
+| --- | --- | 
+| M | mover | 
+| A | añadir | 
+| R | rotar | 
+| V | valor | 
+| G | moverá todo y seguirá conectado | 
+| Q | para agregar una x |
+| ctrl + s | para guardar | 
+| ctrl + d | para duplicar | 
+| E | propiedades del símbolo |
+| ctrl + x | para borrar |
+| X | mover en eje x |
+| Y | mover en eje y |
+| U | seleccionar todo el recorrido |
 
 ## encargo-14
 
