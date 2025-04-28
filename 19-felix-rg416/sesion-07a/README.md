@@ -6,6 +6,11 @@ martes 22 de abril
   - [ ] incluir imágenes
 - [loud objects](https://loudobjects.bandcamp.com/merch)
   - [ ] incluir imágenes
+- tarjeta de presentación misaa
+
+- subaquatic
+
+- gerassic organ
 - [bandcamp](https://bandcamp.com/)
 - [uva robot](https://uvarobot.bandcamp.com/) - mezclaron dos palabras que la gente no mezclaría
 - Diego Lorenzini
