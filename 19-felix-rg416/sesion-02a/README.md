@@ -10,8 +10,8 @@
 - ig @mikamartini
 - **[plantilla perfil de github](https://rahuldkjain.github.io/gh-profile-readme-generator/)**
 - https://archive.org/
-- **[guía para markddown](https://www.markdownguide.org/)**
-- **[guía para markddown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)**
+- **[guía para markdown 1](https://www.markdownguide.org/)**
+- **[guía para markdown 2](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)**
 - **[símbolo de circuitos](https://www.bbc.co.uk/bitesize/articles/zqryn9q#zfx44xs)**
 - **[cálculadora de resistencias](https://www.digikey.com/es/resources/conversion-calculators/conversion-calculator-resistor-color-code)**
 - **[cálculo resistencias para LEDs](https://www.digikey.com/es/resources/conversion-calculators/conversion-calculator-led-series-resistor)**
