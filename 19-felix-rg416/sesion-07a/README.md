@@ -2,15 +2,24 @@
 
 martes 22 de abril
 
-- [Bleep Labs](https://bleeplabs.com/)
-  - [ ] incluir imágenes
-- [loud objects](https://loudobjects.bandcamp.com/merch)
-  - [ ] incluir imágenes
-- tarjeta de presentación misaa
+### - **[Bleep Labs](https://bleeplabs.com/)**
 
-- subaquatic
+![bleepLabs.collage](https://github.com/felix-rg416/dis8644-2025-1/blob/main/19-felix-rg416/sesion-07a/archivos/BleepLabs.collage.png)
 
-- gerassic organ
+### - [loud objects](https://loudobjects.bandcamp.com/merch)
+  - [ ] incluir imágenes
+### - **tarjeta de presentación misaa**
+
+![misaa.collage](https://github.com/felix-rg416/dis8644-2025-1/blob/main/19-felix-rg416/sesion-07a/archivos/misaa.collage.png)
+
+### - **subaquatic**
+
+![subaquatic.collage](https://github.com/felix-rg416/dis8644-2025-1/blob/main/19-felix-rg416/sesion-07a/archivos/SUBAQUATIC.collage.png)
+
+### - **gerassic organ**
+
+![gerassicOrgan.collage](https://github.com/felix-rg416/dis8644-2025-1/blob/main/19-felix-rg416/sesion-07a/archivos/GerassicOrgan.collage.png)
+
 - [bandcamp](https://bandcamp.com/)
 - [uva robot](https://uvarobot.bandcamp.com/) - mezclaron dos palabras que la gente no mezclaría
 - Diego Lorenzini
@@ -31,9 +40,9 @@ martes 22 de abril
 - una placa al mes si eres miembro <https://boldport.com/club>
 - mandar a hacer las placas <https://jlcpcb.com/>
 
-La belleza de la protoboard "Me gusta que las cosas puedan fallar" - Aarón
+La belleza de la protoboard *"Me gusta que las cosas puedan fallar"* - Aarón
 
-## kicad
+# kicad
 
 Palabra importantísima - **COMPONENTE**
 
@@ -46,7 +55,7 @@ tiene 3 características: - **Valor** / - **Símbolo** / - **rating** (cuanto ag
 - [Diodo](https://www.mouser.cl/ProductDetail/onsemi-Fairchild/1N4148?qs=i4Fj9T%2FoRm8RMUhj5DeFQg%3D%3D)
 - Potenciómetro RK163
   
-### esquema
+## esquema
 
 qué componentes hay, cómo se ocupan, cómo se interconectan, qué valores tienen
 
@@ -58,33 +67,49 @@ qué componentes hay, cómo se ocupan, cómo se interconectan, qué valores tien
 - Dublicar [comand + D]
 - Wire (cable) [W]
 - Marca de no conectado [Q]
-- **Ctrl + S** GUARDAR "yo no confío en nadie, sólo en mi ctrl + S 5 veces cada 5 segundos" - Misa
 - Información completa del componente [E]
 - Reflejo en eje X [X]
 - Reflejo en eje y [Y]
 - Tecto [T]
 - Buscar [Ctrl + F]
-- Anotar esquema (la barra de arriba) "No es necesario leer tanto" Misa
-- Control de reglas eléctricas (barra de arriba) ERC
-- Asignación de huellas (barra superior)
+- **Ctrl + S** GUARDAR *"yo no confío en nadie, sólo en mi ctrl + S 5 veces cada 5 segundos"* - Misa
 - visor 3D [Alt + 3]
 
+- **Anotar esquema (la barra de arriba): rellena indicadores de referencia de los símbolos del esquema**
+
+*"No es necesario leer tanto"* - Misa
+
+![antorar-esquema](https://github.com/felix-rg416/dis8644-2025-1/blob/main/19-felix-rg416/sesion-07a/archivos/anotar-esquema.collage.png)
+
+- Control de reglas eléctricas (barra de arriba) ERC : muestra errores en las conexiones del esquema
+
+![erc]()
+
+- Asignación de huellas (barra superior)
+
 - Círculo en la punta de un componente = el componente está disponible para ser conectado
-- THT = through hole technology
+- THT = through hole technology - método para montar los componentes en una PCB, se meten las patitas de los componentes en los orificios de la placa y soldándolos por el lado contrario
 
-### dibujo SCH (esquemático)
+- ajustar grilla
 
-### huellas
+![girlla](https://github.com/felix-rg416/dis8644-2025-1/blob/main/19-felix-rg416/sesion-07a/archivos/grilla.png)
+
+## dibujo SCH (esquemático)
+
+## huellas
 
 Pitch = [P] = distancia entre patitas
 
-- Asignación de huellas (barra superior)
-- Biblioteca del centro = Mis componentes
-- Seleccionar mi componente a cambiar ---> en la sección derecha sseleccionar las medidas
+- Asignación de huellas (barra superior) : herramienta para determinar un componente al símbolo (en la sesion-07b están los componentes que solemos usar)
+  - Biblioteca del centro = Mis componentes
+  - Seleccionar mi componente a cambiar --> en la sección derecha sseleccionar las medidas
 
-### ruteo
+![asignar-huellas](https://github.com/felix-rg416/dis8644-2025-1/blob/main/19-felix-rg416/sesion-07a/archivos/asiganr-huellas.collage.png)
 
-### 7 capas
+
+## ruteo
+
+## 7 capas
 
 - F.Cu (capa superior de cobre)
 - Edges.Cut
