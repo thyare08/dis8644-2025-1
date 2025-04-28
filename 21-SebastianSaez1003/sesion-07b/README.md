@@ -5,7 +5,7 @@ Library son los símbolos para el esquemático; “modules” son las huellas de
 
 Ahora vamos a aprender cómo el KiCad aprende a cargar estas librerías para poder ser usadas en futuros proyectos.
 
-![1ra screenshot](./archivos/7bscreenshot-1.png)
+![1ra screenshot](./archivos/7bScreenshot-1.png)
 
 la esquina inferior derecha de un archivo .sch de KiCad (screenshot 1 de hoy); si hago doble clic, se puede cambiar el formato, la compañía, el título, la fecha de creación.
 
