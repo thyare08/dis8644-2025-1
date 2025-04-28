@@ -74,14 +74,10 @@ Llegué temprano este día, creo que le hace bien a uno mismo andar bien con la 
 
 ### encargo 14
 
-**desarrollar esquemático en kicad de atari punk console modificado realizado en proyecto 1**
+desarrollar esquemático en kicad de atari punk console modificado realizado en proyecto 1
 
 adjunto esquemático desarrollado en kicad de la modificación realizada al atari punk console en el proyecto 1, que fue realizado en colaboración de francisco stephens, jose morales y braulio figueroa
 
 ![esquematicomodificado](https://github.com/user-attachments/assets/dd02dd16-74ef-4803-86c8-20e7aa23e26b)
 
-
 ### encargo 15
-
-
-
