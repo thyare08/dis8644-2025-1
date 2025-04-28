@@ -36,9 +36,9 @@
 
 ![tme-sesion07b-error](https://github.com/user-attachments/assets/57e6ee99-cd4b-4732-8230-94f17930c04c)
 
-![tme-sesion07b-biblioteca](https://github.com/user-attachments/assets/f3493e80-b44f-40fc-a7f9-54632b1ee36c)
-
 ![tme-sesion07b-nuevoEsquema](https://github.com/user-attachments/assets/75c5d537-81c3-48c7-a864-f52713e86ee3)
+
+![tme-sesion07b-biblioteca](https://github.com/user-attachments/assets/f3493e80-b44f-40fc-a7f9-54632b1ee36c)
 
 ![tme-sesion07b-editorPlaca](https://github.com/user-attachments/assets/c9e691c0-d0b4-4be7-854f-336578c876dd)
 
