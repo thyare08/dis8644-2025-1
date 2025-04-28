@@ -44,3 +44,30 @@
   5. B.Silkscreen = Grabado atrás
   6. F.Mask = Carcasa o capa frente (color de la placa)
   7. B.Mask = Carcasa o capa atrás (color de la placa)
+
+# Kicad en práctica
+
+1. Mi primer Kicad: Esquemático hecho en clases
+
+![Captura de pantalla 2025-04-28 181342](https://github.com/user-attachments/assets/a24ebb27-ebb5-46ab-832b-b4f03a9ebd39)
+
+3. Asignación de huellas
+
+![Captura de pantalla 2025-04-28 183623](https://github.com/user-attachments/assets/017b8224-bcad-4818-b7d8-35e954cd3cce)
+
+4. Enrutaciones listas
+
+![Captura de pantalla 2025-04-28 193136](https://github.com/user-attachments/assets/815a686b-e225-424b-804e-a503ff2b6dfd)
+
+6. Relleno para saber qué es de cobre
+
+![Captura de pantalla 2025-04-28 191941](https://github.com/user-attachments/assets/9938a903-3327-4669-87b2-9620283feb89)
+
+8. Visor 3D
+
+![Captura de pantalla 2025-04-28 192143](https://github.com/user-attachments/assets/3a9634c5-07a9-4727-8072-0dbb6bf71e86)
+![Captura de pantalla 2025-04-28 192330](https://github.com/user-attachments/assets/5f609c8e-8c7e-4354-a477-e4d4a012bcca)
+![Captura de pantalla 2025-04-28 192403](https://github.com/user-attachments/assets/1ea0aae9-3d09-4830-b5ee-249ace23702c)
+
+# Encargo: Atari Punk Console en Kicad
+
