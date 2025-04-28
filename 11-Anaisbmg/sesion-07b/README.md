@@ -4,7 +4,6 @@
 
 ## KiCAD
 
-
 ## encargo-16
 
 hacerse una cuenta en JLCPCB y cotizar udpudu, para 30 personas, documentar cada parámetro y elección.
