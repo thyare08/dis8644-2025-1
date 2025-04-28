@@ -21,6 +21,11 @@ ajustes de página
 
 ![Ajustes de página](https://github.com/user-attachments/assets/d673d40c-4682-4d99-9b78-3ab978e72661)
 
+proceso clase
+
+![ProcesoEsquema](https://github.com/user-attachments/assets/1501a09e-be7a-45b2-8e7d-a7b5f9e39222)
+
+![ProcesoPlaca](https://github.com/user-attachments/assets/95ff2961-6f17-4c2f-9122-0dded26ce7bf)
 
 ## encargo-16
 
