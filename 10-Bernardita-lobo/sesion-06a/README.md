@@ -2,7 +2,7 @@
 
 ## Proyecto-01
 
-### Presentación de mi Grupo-07 
+### Presentación de mi Grupo-07
 
 - LDA: Light Dependant Awelita
 - todo nuestro proceso esta en la sesion 06a de clifford1one y en el figma <https://www.figma.com/board/2tv4jx75qGZa6Gua2UCVer/taller.maq.electr?node-id=0-1&t=aBNh63yuq9MDT4AI-1>

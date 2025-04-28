@@ -26,7 +26,7 @@
 
 ![tme-sesion07b-visor3D](https://github.com/user-attachments/assets/b8e7b552-b558-499a-b100-70b5c84808ef)
 
-## Encargo
+## Encargos
 
 ### Hacer una PCB en KiCad
 
