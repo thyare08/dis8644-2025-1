@@ -1,6 +1,9 @@
 # sesion-07a
+
 ## Sesión 22-04
+
 ### Primera parte (clase de Kicad)
+
 Secuencia:
 
 - Abrir Kicad
@@ -25,13 +28,16 @@ Secuencia:
 </div>
 
 ###
+
 ### Segunda parte (materiales)
-Link para comprar materiales: https://www.mouser.cl/; https://www.mouser.cl/c/?q=1n4148 ; https://www.dartel.cl/ 
+
+Link para comprar materiales: <https://www.mouser.cl/>; <https://www.mouser.cl/c/?q=1n4148> ; <https://www.dartel.cl/>
+
 - do-35
 - 1N4148
 - rk163
 
-**Parte de PCB del esquema en Kicad**
+Parte de PCB del esquema en Kicad
 
 **IMPORTANTE: pulsar los siguientes botones ------> alt+3** -------> Visor 3D
 
@@ -43,9 +49,9 @@ Link para comprar materiales: https://www.mouser.cl/; https://www.mouser.cl/c/?q
   <img height="100%" src="https://media.discordapp.net/attachments/1248658110625742862/1364265080002183310/image.png?ex=68090a5d&is=6807b8dd&hm=9ebb95da03b0b3da83979490c15815babce5e748140152c8a38acc44fdbeaa6e&=&format=webp&quality=lossless&width=1970&height=1104"  />
 </div>
 
-Por alguna razón el programa solo registro un solo componente del otro esquema, voy a tener que revisar que paso (lo mas probable que fuera de la parte "asignar huellas").
+Por alguna razón el programa solo registró un solo componente del otro esquema, voy a tener que revisar que pasó (lo mas probable que fuera de la parte "asignar huellas").
 
-Tecnincas:
+Técnicas:
 
 - Seleccionar capa de cobre trasera (B.CU) --> Enrutar pista única (X) ---> seleccionar el componente a unir con el que se desea.
 - Generalmente editar el ancho de pista a 0.5mm

@@ -1,4 +1,5 @@
 # sesion-06b
+
 NO HUBO CLASES X SEMANA SANTA
 
 ## Encargo instalar kicad
@@ -9,7 +10,7 @@ Instalé KiCad versión 7.0.11 en mi computador (está medio viejo, pero espero 
 
 ![image](https://github.com/user-attachments/assets/16b2538b-1275-4ed9-90fd-dc91d97b5c37)
 
-En la página https://www.kicad.org/download/windows/, en la sección de abajo, es posible instalar distintas versiones de KiCad.
+En la página <https://www.kicad.org/download/windows/>, en la sección de abajo, es posible instalar distintas versiones de KiCad.
 
 ![image](https://github.com/user-attachments/assets/2865e8f2-9172-4b4b-91f4-4279bf164470)
 
@@ -19,11 +20,11 @@ La instalación demoró bastante. Puede deberse a dos cosas: la cantidad de comp
 
 ## Encargo documental Sisters with transistors
 
-Visto en https://archive.org/details/sisters_with_transistors, leyendo los subtítulos que subieron a GitHub en caso de no entender algo.
+Visto en <https://archive.org/details/sisters_with_transistors>, leyendo los subtítulos que subieron a GitHub en caso de no entender algo.
 
 Perdón por desviarme un poco de la temática de la música, pero el montaje del documental me llamó mucho la atención. Hace tiempo que no veía un documental en blanco y negro, y la elección de este recurso, junto con el uso del video a color, me pareció profundamente efectiva para diferenciar las épocas que se exploran a lo largo del documental. Los segmentos en blanco y negro no solo me evocan una sensación de nostalgia, sino que también permiten distinguir claramente los distintos momentos históricos que el documental recorre, dando una estructura temporal más clara a la narrativa. Para mí, es común ver documentales con una estética fija, pero lo que realmente me llamó la atención en este caso fue el uso de diferentes recursos grabados en tiempos distintos.
 
-La mujer durante la historia a sido invisibilizada por el dominio masculino. El documental no solo muestra los logros de las mujeres en el campo de la música experimental, sino que también visibiliza la lucha contra las estructuras patriarcales y la falta de reconocimiento de su contribución a esta. Siendo honesto, si no fuera por esta clase, creo que me habría costado mucho conocer a una mujer dentro de este mundo. Al escribir esto, me doy cuenta de que ni siquiera conocía a una mujer en este ámbito, ya que siempre había oído nombres masculinos y nunca había puesto atención a la participación femenina en esas épocas (gran fallo mío). Esto hace que me dé cuenta de lo poco que he visibilizado a las mujeres en la historia de la música electrónica, algo que este documental viene a iluminar. 
+La mujer durante la historia a sido invisibilizada por el dominio masculino. El documental no solo muestra los logros de las mujeres en el campo de la música experimental, sino que también visibiliza la lucha contra las estructuras patriarcales y la falta de reconocimiento de su contribución a esta. Siendo honesto, si no fuera por esta clase, creo que me habría costado mucho conocer a una mujer dentro de este mundo. Al escribir esto, me doy cuenta de que ni siquiera conocía a una mujer en este ámbito, ya que siempre había oído nombres masculinos y nunca había puesto atención a la participación femenina en esas épocas (gran fallo mío). Esto hace que me dé cuenta de lo poco que he visibilizado a las mujeres en la historia de la música electrónica, algo que este documental viene a iluminar.
 
 ![delia](https://github.com/user-attachments/assets/f2261e4d-3b95-4d06-8bc7-ec2b9fd0aa2c)
 
@@ -35,6 +36,3 @@ Me impresiona mucho cómo, con equipos limitados, Derbyshire logra crear atmósf
 ![image](https://github.com/user-attachments/assets/fd903299-921f-4beb-9beb-8913bd41fdc9)
 
 Me recuerda muchísimo a este álbum, compuesto por AKIRA YAMAOKA (A esto me refiero: no se me viene a la cabeza ningún referente femenino que conozca)
-
-
-
