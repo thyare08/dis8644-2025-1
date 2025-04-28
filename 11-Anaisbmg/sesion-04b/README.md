@@ -17,29 +17,34 @@ botones
 
 <https://github.com/user-attachments/assets/ca3323b2-94a3-4b99-a97b-b266446fd123>
 
-## encargo01
+## encargo-10
 
 escuchar switched on bach (wendy carlos)
 
-## encargo02
+## encargo-11
 
 bajando opacidad a la caja negra
 
 Con Sofía Cartes, Anais Marschhausen y Valentina Ruz
 
 1. ¿cómo se utiliza al aparato? ¿cómo me indica esa manera de uso? gestos, contexto (función indicativa y simbólica)
+
 el contexto son los videojuegos
-Se utiliazan ambas manos tanto pulgares como indices, se puede conectar por usb o por bluetooth a la consola, la forma de uso es intuitiva  
+
+Se utilizan ambas manos tanto pulgares como indices, se puede conectar por usb o por bluetooth a la consola, la forma de uso es intuitiva  
 
 2. ¿quién es el usuario esperado? condiciones de accesibilidad
 personas que juegan videojuegos, si tiene condiciones de accesibilidad, sí, que tenga manos y dedos
 
 3. ¿qué interacción ofrece desde fuera? ¿hay botones, perillas? ¿cuántos? ¿qué grados de control entrega?
+
 existen botones de giro (2) de presición y presión (17) para actividades puntuales.
-y leds para prender el boton home
+
+y LEDs para seleccionar el boton home
 
 4. ¿de donde obtiene energía este aparato?
-2 pilas AA o 1 recargable de 1.5v
+
+2 pilas AA o 1 recargable de 1.5 V.
 
 5. ¿hay una pcb principal? ¿no hay? ¿hay varias? ¿cómo se interconectan?  ¿hay números, textos, dibujos? ¿versiones, números de serie?
 
@@ -52,6 +57,7 @@ X853210-001
 ![PCB trasera](https://github.com/user-attachments/assets/05a16562-3888-4a9a-9fc6-9b42ce337a90)
 
 6. realizar diagrama de flujo: ¿qué placas requieren alimentación? ¿dónde llegan las interacciones? usar lenguaje simbólico propio
+
 ![7](https://github.com/user-attachments/assets/35ce419e-e090-4e9b-9351-fdb7db78ace7)
 
 7. bill of materials. ¿qué y cuantas partes tiene? de manera general

@@ -4,18 +4,18 @@
 
 ## KiCAD
 
-comando 
+comando
 
 F arriba del componente → asignar footprint
 
-package dip 
+package dip
 terminal block → para conecetar hacia fuera de la pcb (ej. parlante)
 
 clase grabada:
 
 → Grilla 5 mm y arrastro una esquina (capa de corte) y luego pongo un arco y genero la unión
 
-→ saltar vías: si no hay forma de ordenar, se puede utilizar V para crear una vía por bottom  *tipo tejido, se puede definir el tamaño 
+→ saltar vías: si no hay forma de ordenar, se puede utilizar V para crear una vía por bottom  *tipo tejido, se puede definir el tamaño
 
 ajustes de página
 
