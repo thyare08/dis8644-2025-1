@@ -78,6 +78,7 @@ https://github.com/user-attachments/assets/1dfc053f-26e3-40d8-8d1e-b993af6207fa
 # Encargo: Instalar Kicad
   - Versión: 9.0.1
   - Sistema operativo: Windows 11, 64 bits
-  - Ubicación de la aplicación: Escritorio
+  - Ubicación de la aplicación: Este equipo > Archivos de programación > Kicad
 
 # Encargo 2: Ver documental Sisters with transistors
+  - 
