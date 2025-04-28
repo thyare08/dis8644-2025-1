@@ -26,9 +26,9 @@
 
 ![tme-sesion07b-visor3D](https://github.com/user-attachments/assets/b8e7b552-b558-499a-b100-70b5c84808ef)
 
-## encargo
+## Encargo
 
-### hacer una PCB en KiCad
+### Hacer una PCB en KiCad
 
 - en clases no alcancé a terminar mi PCB y parece que hice mal el archivo, ya que no apreté la opción para crear una nueva carpeta y no se guardó nada, así que la tuve que hacer de nuevo.
 - me fui guiando por el video, aunque tuve algunos problemas con las bibliotecas que había que instalar. las eliminé y las descargué varias veces hasta que funcionó.
