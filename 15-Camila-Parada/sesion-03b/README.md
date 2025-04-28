@@ -34,6 +34,8 @@ https://github.com/user-attachments/assets/e129ae64-4c78-4237-972e-cc0221204420
 
 <br>
 
+***
+
 ### Salida a terreno: Museo en estéreo
 
 <br>
@@ -81,7 +83,13 @@ Por mi lado aproveché de tomar fotografías centradas en lo que me llamó la cu
 
 <br>
 
-La muestra me pareció interesante y curiosa, sobre todo por la fabricación de las esculturas y los sonidos que se pueden escuchar. Ello lo hace bastante estimulante, lo que me mareo un poco, pero fuera de eso pude disfrutar de la muestra.
+**▼ Opinión personal:** La muestra me pareció interesante y curiosa, sobre todo por la fabricación de las esculturas y los sonidos que se pueden escuchar. Ello lo hace bastante estimulante, lo que me mareo un poco, pero fuera de eso pude disfrutar de la muestra.
+
+<br>
+
+***
+
+### Salida a terreno: Otras salas del museo
 
 <br>
 
@@ -101,7 +109,7 @@ A continuación se nos dio "chipe libre" para seguir recorriendo las demás sala
 
 <br>
 
-Esta fue la "escultura" que me llamó más la atención. Me gusta como con elementos tan simples se puede transformar en algo memorable e interactivo. Se siente muy extraño y atractivo, como si estuviera siendo vigilada al ser mostrada en la pantalla y al hacer que se imprima un papel con la interacción.
+▼ Esta fue la "escultura" que me llamó más la atención. Me gusta como con elementos tan simples se puede transformar en algo memorable e interactivo. Se siente muy extraño y atractivo, como si estuviera siendo vigilada al ser mostrada en la pantalla y al hacer que se imprima un papel con la interacción.
 
 <br>
 
