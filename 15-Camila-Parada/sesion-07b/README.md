@@ -175,6 +175,58 @@ https://cart.jlcpcb.com/quote?orderType=1&stencilLayer=2&stencilWidth=100&stenci
 
 ***
 
+### Referentes visuales
+
+<br>
+
+Dado que en la clase se enseñó a como editar las placas PCB en el aspecto más visual, quise inspirarme y revisar circuitos mediante Pinterest buscando "PBC Art". Estos son algunos de los referentes visuales que encontré más atractivos.
+
+<br>
+
+![IMG_8880](https://github.com/user-attachments/assets/a952218d-f417-426b-bdfb-f5993dc9a09f)
+
+_▼ Sitio web asociado 1:_
+
+<br>
+
+![IMG_8876](https://github.com/user-attachments/assets/08ecdb2c-be08-4ffa-a3aa-e31ae20c452d)
+
+_▼ Sitio web asociado 2: "Armored Trooper Votoms - iPhone case" https://animeanime.global/2020/02/21/51644.html_
+
+<br>
+
+![IMG_8886](https://github.com/user-attachments/assets/fabfc9c0-da51-43e1-aacb-92932f2865b3)
+
+_▼ Sitio web asociado 3:_
+
+<br>
+
+![IMG_8887](https://github.com/user-attachments/assets/6c927bd1-0efc-4bc5-84e4-b610de877735)
+
+_▼ Sitio web asociado 4: "Fabriquer un CIRCUIT IMPRIME TRANSPARENT!" https://youtu.be/jvw5OCUHaqc?si=msLq55Niw6DOSVZI_
+
+<br>
+
+![IMG_8878](https://github.com/user-attachments/assets/1e77e496-85de-4462-9408-81a979015d02)
+
+_▼ Sitio web asociado 5:_
+
+<br>
+
+![IMG_8883](https://github.com/user-attachments/assets/b2aceb74-a5dd-4210-a835-597568f688b7)
+
+_▼ Sitio web asociado 6:_
+
+<br>
+
+![IMG_8877](https://github.com/user-attachments/assets/bf21213d-15cc-41a5-9740-c0ca691fc9be)
+
+_▼ Sitio web asociado 7:_
+
+<br>
+
+***
+
 ### Posdata
 
 Me quedé colgada a la mitad de la clase, así que toca estudiar y practicar ૮◞ ﻌ ◟ა
