@@ -53,6 +53,33 @@ EXPORTAR:
 - .drl no sé qué cosa de taladrear
 -
 
-cómo saber si mi circuito funciona o no: poner un led **imagena**
+cómo saber si mi circuito funciona o no: poner un led **imagen**
 
-Nombre - Valor - Encapsulado
+los componentes tienen:
+
+- Nombre
+  - resistencia
+  - condensador
+  - LED
+  - etc.
+- Valor
+  - 100k ohm (de una resistencia)
+  - 10 uF (de un condensador)
+  - NE555P (de un circuito integrado)
+  - etc.
+- Encapsulado: forma física - espacio
+  - axial 1/4 w 6.5mm (resistencia de 100k)
+  - radial D6.3mm P2.5mm (condensador electrolítico de 10uF)
+  - DIP-8 (circuito integrado de 8 pines de tipo THT)
+  - etc
+
+> D : diámetro
+> P : pi
+
+## encargo-16: cotizar udpudu en JLCPCB de forma productiva
+
+hacerse una cuenta en JLCPCB y cotizar udpudu, para 30 personas, documentar cada parámetro y elección.
+
+## encargo-17: cotizar udpudu en JLCPCB de forma experimental
+
+probar opciones que no entiendan, documentar otros parámetros que no conozcan aún.
