@@ -8,18 +8,31 @@
 ## Comandos
 
   1. Control +
+     
      • X = Cortar
+     
      • F = Para buscar componentes
+     
      • Q = Símbolo para marcar como no conectado
+     
      • D = Duplicar
+     
   2. Sólo letras
+     
      • X = Para rotar en eje x
+     
      • Y = Para rotar en eje y
+     
      • T = Agregar texto
+     
      • A = Añadir
+     
      • R = Rotar
+     
      • M = Mover
+     
      • V = Para agregar valor
+     
      • W = Para agregar línea
 
 ## Kicad usa 7 capas
