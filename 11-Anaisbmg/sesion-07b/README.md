@@ -21,7 +21,7 @@ ajustes de página
 
 ![Ajustes de página](https://github.com/user-attachments/assets/d673d40c-4682-4d99-9b78-3ab978e72661)
 
-proceso clase
+### __*proceso clase*__
 
 ![ProcesoEsquema](https://github.com/user-attachments/assets/1501a09e-be7a-45b2-8e7d-a7b5f9e39222)
 
