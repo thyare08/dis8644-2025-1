@@ -72,7 +72,7 @@ Llegué temprano este día, creo que le hace bien a uno mismo andar bien con la 
 - misaa dijo que su pelicula favorita era holly motors, creo que la veré para ver que onda
 - al final de la clase vimos algunos ejemplos de pcbs que eran desarrolladas de forma más artística, habían cosas muy interesantes y bellas
 
-### encargo 14
+### encargo-14
 
 desarrollar esquemático en kicad de atari punk console modificado realizado en proyecto 1
 
