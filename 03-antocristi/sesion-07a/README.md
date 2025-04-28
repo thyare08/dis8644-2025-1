@@ -25,7 +25,7 @@ Q: agregar cruz de no conectado
 
 E: información mucho más completa del componente
 
-**Control de las reglas eléctricas**
+Control de las reglas eléctricas
 
 do-35 forma de diodos
 
