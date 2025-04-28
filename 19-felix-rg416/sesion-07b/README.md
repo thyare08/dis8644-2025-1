@@ -2,19 +2,19 @@
 
 25 - 04 - 2025
 
-- <https://vertice.udp.cl/>
+- <https://vertice.udp.cl/> - **fondo vértice** financiamiento de proyectos UPD
 - [cursos online](https://www.coursera.org/)
 - [KiCAD en 3D](https://www.kicad.org/external-tools/stepup/) - mejor hacerlo en la app directamente
-- ***DIP**
 - (<https://cdm.link/>) diversidad de musica electrónica - cómo destruir metáforas violentas [maestro - esclavo]
-- usar terminal block para conectar componentes externos TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm
+
+- cómo saber si mi circuito funciona o no: poner un led **imagen**
+- usar terminal block para conectar componentes externos (caimanes) TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm
 - **diodo de protección** Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal
-- **
 
 "exorcizar "
-agregar la carpeta de discord para las huellas de
+agregar la carpeta de discord para las huellas del 555 y otros archivos compartidos por misa
 
-huellas:
+# huellas:
 
 cambiar huellas: [F]
 
@@ -27,33 +27,24 @@ cambiar huellas: [F]
 - caimanes: modules_teee2025:caiman
 - switch: modules_teee2025:SPDT_PCB_small_P2.5mm
 
-en el visor de huellas:
+## en el visor de huellas:
 
 tamaño tarjeta de presentación: 85 x 55
-
-mitad: 92.5 77.5
 
 - asignar huellas [A]
 - cambiar a lado superior para pasar sobre otras vías [V]
 
-TEXTO:
+## comprar en JLCPCB :
 
-- fecha
-- código taller
-- nombre taller
-- udpudu
-- pudú
+- cambiar envío
+- cambiar grosor de placa
+- cambair color
 
-en la página - cambiar envío, cambiar grosor
-
-EXPORTAR:
+## EXPORTAR:
 
 - exportar gerber .gbr
 - 7 capas importantes
 - .drl no sé qué cosa de taladrear
--
-
-cómo saber si mi circuito funciona o no: poner un led **imagen**
 
 los componentes tienen:
 
@@ -74,7 +65,14 @@ los componentes tienen:
   - etc
 
 > D : diámetro
-> P : pi
+> 
+> P : Pitch - distancia entre patitas
+>
+> DIP : Dual In Line - package de circuitos integrados
+
+> para saber el encapsulado de los componentes, googlear "Package * componente + valor *" 
+
+---
 
 ## encargo-16: cotizar udpudu en JLCPCB de forma productiva
 
