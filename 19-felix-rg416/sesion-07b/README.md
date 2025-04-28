@@ -6,8 +6,12 @@
 - [cursos online](https://www.coursera.org/)
 - [KiCAD en 3D](https://www.kicad.org/external-tools/stepup/) - mejor hacerlo en la app directamente
 - (<https://cdm.link/>) diversidad de musica electrónica - cómo destruir metáforas violentas [maestro - esclavo]
+- circuito integrado 4017
 
-- cómo saber si mi circuito funciona o no: poner un led **imagen**
+- cómo saber si mi circuito funciona o no: poner un led
+
+![saber_si_funciona](https://github.com/felix-rg416/dis8644-2025-1/blob/main/19-felix-rg416/sesion-07b/archivos/c%C3%B3mo.saber.si.el.circuito.funciona.png)
+
 - usar terminal block para conectar componentes externos (caimanes) TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm
 - **diodo de protección** Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal
 
@@ -16,7 +20,9 @@ agregar la carpeta de discord para las huellas del 555 y otros archivos comparti
 
 # huellas:
 
-cambiar huellas: [F]
+## cambiar huellas: [F]
+
+![asignar_huellas](https://github.com/felix-rg416/dis8644-2025-1/blob/main/19-felix-rg416/sesion-07b/archivos/F-asignar_huella.png)
 
 - resistencia axial
 - capacitor cerámico: Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm
@@ -27,12 +33,27 @@ cambiar huellas: [F]
 - caimanes: modules_teee2025:caiman
 - switch: modules_teee2025:SPDT_PCB_small_P2.5mm
 
+se puede configurar la página para impresión
+
+![configuración_página](https://github.com/felix-rg416/dis8644-2025-1/blob/main/19-felix-rg416/sesion-07b/archivos/Configuraci%C3%B3nPantalla.png)
+
 ## en el visor de huellas:
 
 tamaño tarjeta de presentación: 85 x 55
 
 - asignar huellas [A]
+- editar tamaño de pista
+
+![tamaño_pista](https://github.com/felix-rg416/dis8644-2025-1/blob/main/19-felix-rg416/sesion-07b/archivos/agregar%20tama%C3%B1o%20de%20pista.png)
+
+- si se hacen cambios en el esquema --> actualizar placa de componentes
+
+![actualizar_placa](https://github.com/felix-rg416/dis8644-2025-1/blob/main/19-felix-rg416/sesion-07b/archivos/actualizar_placa_componentes.png)
+
 - cambiar a lado superior para pasar sobre otras vías [V]
+- SIEMPRE INDICAR POLARIDAD - herramienta texto - cambiar capa a "(F o B)silkscreen"
+
+![indicar_polaridad](https://github.com/felix-rg416/dis8644-2025-1/blob/main/19-felix-rg416/sesion-07b/archivos/Configuraci%C3%B3nPantalla.png)
 
 ## comprar en JLCPCB :
 
