@@ -62,8 +62,31 @@ https://github.com/user-attachments/assets/a6d7315b-8230-47e8-aa7d-5486c567794b
 
 ## encargo-12: instalar kicad
 
-instalar software Kicad en su computador personal, incluir información sobre la instalación, la versión que están usando, el sistema operativo que usan, los idiomas que están usando, las carpetas en donde instalas la app y cualquier otra biblioteca o archivos relacionados, además de cualquier otro dato relevante.
+instalar software Kicad.
+
+con respecto a la instalación, no me resultó difícil. mi computador lo tengo dividido en dos unidades y una de ellas la utilizo para almacenar todas las descargas. 
+
+Los proyectos de KiCAD los guardo en una carpeta que tengo específicamente para el taller, con fecha.
+
+![VersionKiCAD](https://github.com/user-attachments/assets/633d4004-aec0-48dd-94ee-5e6873a9853c)
 
 ## encargo-13
 
 ver el documental Sisters with transistors, escoger artista favorita del documental y escuchar algún concierto o disco de ella
+
+__*clara rockmore*__
+
+nacimiento 9 mar 1911 en vilna, lituania 
+falleció 10 may 1998 en nueva york, estados unidos
+
+fue una niña prodigio del violín. su familia huyó de la revolución rusa y decidieron trasladarse a estados unidos. sufrió una enfermedad ósea resultante de una desnutrición que le impidió seguir tocando el violín.
+
+los conocimientos de violín y su oído privilegiado le permitieron ayudar a león theremin a perfeccionar su invento, el theremín. este instrumento se controla sin
+necesidad de contacto físico, utilizando dos antenas para detectar el movimiento de las manos del intérprete.
+
+__*el arte del theremin*__, publicado en 1977
+
+primer y ultimo album de clara 
+
+personalmente, creo que es increíble en la interpretación del theremín y también queda como testimonio del talento y la dedicación de clara rockmore. hasta ahora,
+creo que no había escuchado nada parecido. rescato mucho esa conexión de la música clásica con la electrónica, es sorprendente.
