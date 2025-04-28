@@ -5,7 +5,7 @@
 - <https://vertice.udp.cl/> - **fondo vértice** financiamiento de proyectos UPD
 - [cursos online](https://www.coursera.org/)
 - [KiCAD en 3D](https://www.kicad.org/external-tools/stepup/) - mejor hacerlo en la app directamente
-- (<https://cdm.link/>) diversidad de musica electrónica - cómo destruir metáforas violentas [maestro - esclavo]
+- <https://cdm.link/> diversidad de musica electrónica - cómo destruir metáforas violentas [maestro - esclavo]
 - circuito integrado 4017
 
 - cómo saber si mi circuito funciona o no: poner un led
