@@ -1,4 +1,7 @@
 # sesion-07b
+
+## Módulo de la mañana
+
 Hay una nueva carpeta en el GitHub: 00-libsKicad-teee.
 
 Library son los símbolos para el esquemático; “modules” son las huellas de estos símbolos.
