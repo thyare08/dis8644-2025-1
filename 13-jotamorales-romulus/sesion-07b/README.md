@@ -30,8 +30,44 @@ HUELLAS
 
 completar apuntes!!!!
 
-## encargo-16: cotizar udpudu en JLCPCB de forma productiva
+## Encargo-16: cotizar udpudu en JLCPCB de forma productiva
 hacerse una cuenta en JLCPCB y cotizar udpudu, para 30 personas, documentar cada parámetro y elección.
+
+
+| Parámetro              | Valor elegido              | ¿Por qué?                                                    |
+|------------------------|----------------------------|--------------------------------------------------------------|
+| **Material base**      | FR-4                       | Es el más común y barato, sirve bien para casi todo.         |
+| **Capas**              | 2                          | El diseño solo necesita dos capas, más sería exagerado.      |
+| **Tamaño**             | 85 mm x 55 mm              | Lo detectó JLCPCB automáticamente desde el archivo.          |
+| **Cantidad**           | 30 piezas                  | Con esto alcanza para todo el curso, quedando algunas extras. |
+| **Tipo de producto**   | Electrónica de consumo     | Es lo más general y aplica para nuestro proyecto.            |
+| **Diseños distintos**  | 1                          | Solo estamos haciendo una versión.                           |
+| **Formato de entrega** | PCB suelta                 | No necesitamos que las panelicen.                            |
+| **Espesor**            | 1.0 mm                     | Buen grosor, ni muy frágil ni muy caro. con valores más caros, el precio aumenta)|
+| **Color de la PCB**    | Azul                       | Me gusta el color azul.                                      |
+| **Color de serigrafía**| Blanco                     | Hace buen contraste con el fondo azul.                       |
+| **Acabado superficial**| HASL con plomo             | Es barato y fácil para soldar a mano.                        |
+
+---
+
+###  Precio total
+
+| Concepto               | Costo       |
+|------------------------|-------------|
+| Fabricación PCB        | $10.70 USD  |
+| Tarifa de ingeniería   | $4.00 USD   |
+| **Subtotal**           | **$14.70 USD** |
+| Envío por DHL (3-7 días) | $32.37 USD |
+| **Total con envío**    | **$47.07 USD** |
+
+Envío por DHL: Aunque es caro, los tiempos de entrega son más rápidos. Lo ideal sería usar este método para el examen; tendríamos que tener los proyectos casi listos al menos un mes antes para poder mandar a fabricar las placas a tiempo.
+
+---
+
+### Tiempo de fabricación
+- Seleccioné la opción de 3 días (sin pagar extra), ya que de momento no hay apuro. Aunque también está disponible una opción de fabricación en 24 horas, esta tiene un costo adicional de $7.20 USD.
+
+---
 
 
 
