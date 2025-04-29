@@ -52,6 +52,13 @@ llegué temprano, había poquita gente, en la primera media hora entre 8:30 a 9:
 -  hay cartelitos con valores paramétricos, puedo cambiar valores de estos parámetros
 -  quena, qué es? se refería al instrumento pero está hecha mediante parámetros específicos en openscad
 -  escuchar la cantata santa maría de iquique
+-  aaron está modificando los parámetros de la quena, esto está cambiando su forma
+-  OSKITONE un referente que aaron nombró, realizó un proyecto apc (atari punk console) que está abierto para el público, de esta forma nosotros entremos y veamos como está hecho, de hecho aparece en github. El proyecto del APC está hecho en openscad
+-  existe una forma de clonar los repositorios de github para guardarlos en la nube de nuestro pc
+-  el antecesor de linux y mac es unix, comparten los mismos comandos
+-  homebrew, para instalar apps que funcionen en la terminal. Es un administrador de aplicaciones
+-  githubdesktop, permite administrar las apps sin sufrir
+-  clonar con github desktop el repositorio que tenemos en la nube y así quedará en nuestro computador
 -  
 -  
 -  
