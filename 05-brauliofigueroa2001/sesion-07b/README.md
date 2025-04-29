@@ -82,4 +82,6 @@ de todas formas en base a la clase online subiré mis apuntes
 -  asignamos huella a terminalblock y a parlante, el parlante lo asignamos con la misma huella del terminalblock
 -  intento asignar huella al switch pero no me aparece la específica en modulosteee2025, solo aparece caimán, preguntar en clase
 -  no sé si debo descargar la carpeta que mandó misaaa al discord el 25 de abril aprox a las 11:27 , no sé si esa carpeta tiene algo nuevo que no tenga la que había mandado aaron aprox a las 9, me dió miedo reemplazarla una encima de otra por lo cual no lo hice
+-  ACTUALIZACIÓN: misaaa me respondió en clases y lo que tengo que hacer es descargar la nueva carpeta de libraries (11:27) y sobreescribir la otra, porque esta trae los componentes nuevos y de esta forma me aparecerán más aparte de caiman
+-  
   
