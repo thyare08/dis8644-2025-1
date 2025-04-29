@@ -62,5 +62,18 @@ de todas formas en base a la clase online subiré mis apuntes
 -  luego conecto la pata 1 del screw a GND
 -  queda la pata 1 del switch libre, le ponemos una x indicando que no nos servirá de nada
 -  ahora agregaremos valores con "v" de value a los nuevos componentes que introducimos recientemente
+-  el screw terminal lo designaremos como TBLOCK-2 porque tiene 2 hoyitos, hay otros con 3
+-  el diodo será uno de protección por lo cual lo denominaremos 1n4007
+-  la R4 es de 1k
+-  la R2 es de 1k
+-  el c4 lo asignamos como 1u
+-  a los socket les pondré CAIMAN
+-  c3 será condensador cerámico de 100n
+-  R3 es de 1k
+-  c5 de 47u
+-  speaker pasará a SPK
+-  **acá hubo break y la grabación crasheó por lo cual seguiremos con la transmisión de misaaa fuera de la clase**
+-  ### parte 3
+-  
 -  
   
