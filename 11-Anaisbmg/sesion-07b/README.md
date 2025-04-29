@@ -35,19 +35,35 @@ el color de la PCB en torno al precio no varía; lo que varía es el tiempo de p
 
 __JLCPCB__ tiene una opción visor gerber que permite tener una visión de lo que estás creando; lo puedes ver en 2D, 3D y ver las capas de este.
 
+color de la pcb
+
 ![colorpcb](https://github.com/user-attachments/assets/33598a90-2df4-484a-8b55-d438dcafa2bd)
+
+acabado superficial
 
 ![acabadosuperficial](https://github.com/user-attachments/assets/74c1744e-d4f8-4b05-b40d-5cf1991abdf5)
 
+codigo de barras
+
 ![codigoqr](https://github.com/user-attachments/assets/e5f130d1-150a-4ab9-9c9f-5266f8895738)
+
+tolerancia contorno del tablero
 
 ![toleranciacontornodetablero](https://github.com/user-attachments/assets/61d2e46e-e5b0-4fa1-af23-6f989aab80e3)
 
+nota
+
 ![nota](https://github.com/user-attachments/assets/b93ee9a4-2bf6-4a8f-aaee-d75db19b9ee3)
+
+JLCPCB 2D
 
 ![jlcpcb2d](https://github.com/user-attachments/assets/19228f2f-c66b-45e8-abd0-d5cc2b1729cb)
 
+JLCPCB 3D
+
 ![jlcpcb3d](https://github.com/user-attachments/assets/206a8d58-946b-4387-9feb-d232bcd5ef0a)
+
+JLCPCB capas
 
 ![jlcpcblayers](https://github.com/user-attachments/assets/32cf174b-e94a-40de-b08a-3942c4fbab80)
 
