@@ -21,4 +21,7 @@ llegué temprano, había poquita gente, en la primera media hora entre 8:30 a 9:
 - se habló de la malla nueva, en esta, habrá una práctica en el sexto semestre ojo
 - de bitácoras hay 4 notas, se considerarán 3 y se borrará la peor
 - en encargos pasa lo mismo
+- cómo mandar un reclamo??? ---> puedo proponer una pull request, si quiero que aaron se haga cargo de esto lo debo asignar, esto significa que en mi modificación aaron se debe hacer cargo de esto porque es la persona a cargo
+- aaron pondrá merged en nuestro pull request y de esta forma quedará cerrado
 - 
+  
