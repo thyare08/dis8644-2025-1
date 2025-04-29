@@ -25,12 +25,12 @@
 
 - C1 puede cambiar el pitch del parlante
 
-## Encargo 08 - Cultura Musical Nacional
+## encargo-08 - Cultura Musical Nacional
 
 *Gonzalo Martínez y sus Congas Pensantes* (1997) es un proyecto colaborativo entre Jorge González (de Los Prisioneros) y Martín Schopf, también conocido como Dandy Jack. El disco fue creado entre Nueva York y Santiago con la intención de combinar los ritmos tradicionales de la cumbia con la energía de la música electrónica ,tomando como punto de partida las raíces africanas que ambos estilos comparten.
 Este dúo reimaginó cumbias clásicas como “*La pollera colorá*”, incorporando beats electrónicos y contando con la participación de productores alemanes como Atom Heart. Aunque en su momento pasó desapercibido en Chile, el álbum logró resonar en la escena underground europea y hoy es considerado una obra pionera en la fusión entre electrónica y música latina.
 
-## Encargo 09 - Museo de Arte Contemporáneo
+## encargo-09 - Museo de Arte Contemporáneo
 
 ![esquema](./archivos/3b_1.png)
 
