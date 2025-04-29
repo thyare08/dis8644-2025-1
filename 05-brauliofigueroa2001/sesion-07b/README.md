@@ -35,4 +35,12 @@ de todas formas en base a la clase online subiré mis apuntes
 - ahora pata 8 y pata 4 a VCC
 - conectamos pata 2 y pata 6 entre sí
 - duplico mi resistencia, ahora tengo R2 y la conecto a la pata 7, duplico un vcc y conecto mi resistencia R2 a este vcc
+- interconecto un condensador polarizado entre mi pata 2 y GND
+- ahora debo conectar mi pata 3 a una resistencia, de la resistencia al LED y del LED a GND, ojo con que quede bien orientado LED porque sino se nos puede quemar ojo ojo
+- luego conecto un condensador polarizado directo a mi pata 3 sin pasar por la resistencia y conecto el condensador al parlante
+- el parlante lo conecto a GND
+- ahora agregaremos un caimán, lo buscamos como conn y debe ser 01x01 que es de 1 pin
+- a raiz de una pregunta de felix de cual es la diferencia entre este y el socket, misaa responde que uno es una punta y el otro es un hoyito para colocar una punta, a raiz de esto aaron responde que está lleno de este lenguaje de "que se mete dentro de que, que sigue aqui" y habla sobre un blog que se llama cdm.link que hablan de un esfuerzo para destruir todo este lenguaje violento que se utiliza en este mundo
+- colocamos el pin 01x01 con el circulito hacia la derecha
+- 
   
