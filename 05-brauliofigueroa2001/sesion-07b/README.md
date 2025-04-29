@@ -74,6 +74,12 @@ de todas formas en base a la clase online subiré mis apuntes
 -  speaker pasará a SPK
 -  **acá hubo break y la grabación crasheó por lo cual seguiremos con la transmisión de misaaa fuera de la clase**
 -  ### parte 3
--  
--  
+-  en preferencias en la seccion de bibliotecas puedo ver todas las huellas que he puesto
+-  primero gestiono símbolos y veo que esté puesto mi 555 ordenado
+-  después gestiono huellas y agrego 2 carpetas que misaaa agregó las cuales son modulosteee2025 y teeelogos
+-  ahora asignamos huellas a los elementos que faltó asignar en la clase
+-  asignamos huella a los 2 caimanes, vamos a huellas y modulos teee --->caiman
+-  asignamos huella a terminalblock y a parlante, el parlante lo asignamos con la misma huella del terminalblock
+-  intento asignar huella al switch pero no me aparece la específica en modulosteee2025, solo aparece caimán, preguntar en clase
+-  no sé si debo descargar la carpeta que mandó misaaa al discord el 25 de abril aprox a las 11:27 , no sé si esa carpeta tiene algo nuevo que no tenga la que había mandado aaron aprox a las 9, me dió miedo reemplazarla una encima de otra por lo cual no lo hice
   
