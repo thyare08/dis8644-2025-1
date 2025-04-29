@@ -16,7 +16,7 @@ Existen dos tipos de componentes: PCB y para panel; los que son para PCB están 
 
 Foto placa perforada.
 
-![Perfboard](https://github.com/user-attachments/assets/0d5c191b-bd66-4cb6-bd54-a802dee7d814)
+![Perfboard](./archivos/perfboard.jpg)
 
 ### 2. Base DIP (Double In-Line Package)
 
