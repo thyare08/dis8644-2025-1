@@ -9,4 +9,6 @@ Llegué tarde durante el primer módulo. Misaa enseñó cómo agregar imágenes 
 
 
 ## Kicad
-- mounting hole es para hacer un hoyo para montar algo.
+- Mounting hole es para hacer un hoyo para montar algo.  No tiene conexión eléctrica y su función es completamente mecánica. Se puede agregar desde los footprints y viene en diferentes tamaños según el tipo de tornillo que se quiera usar. En clase aprendimos que es importante considerarlo desde el diseño, especialmente si la placa va a ir dentro de una carcasa o si necesita mayor estabilidad.
+
+- 
