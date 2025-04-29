@@ -14,3 +14,5 @@
 - Explicación de nueva funcionalidad de “Pull request” en el GitHub, para no estar adelante con cambios en el fork
 
   ![image](https://github.com/user-attachments/assets/80ed47ce-96b8-4124-bd6c-58d5c3ac6c7e)
+
+- Usar la sección “Issue” para poder solucionar problemas directamente mediante Github
