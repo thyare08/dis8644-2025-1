@@ -41,7 +41,7 @@
 >> <img align="left" src="./files/wireC.png" width=450> <br/> @21-SebastianSaez1003 me mostró que en el modo esquemático se puede cambiar el color de los cables para que sea más facil diferenciarlos <br/><br/><br/>
 >>
 >> ### JST
->> <img align="left" src="./files/JST-XH.jpg" width=450> <br/><br/><br/><br/><br/> Conector ámpliamente usado en la industria, pequeño y barato, similar a los conectores dupont pero con un mecanismo de retención que además previne que se inserte al revés <br/><br/> [DIY 3d print JST made by mi](link thinggyverse soon to come) <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+>> <img align="left" src="./files/JST-XH.jpg" width=450> <br/><br/><br/><br/><br/> Conector ámpliamente usado en la industria, pequeño y barato, similar a los conectores dupont pero con un mecanismo de retención que además previne que se inserte al revés <br/><br/> [DIY 3d print JST made by me](link thinggyverse soon to come) <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 ><br/>
 -----------------------------------------------------------------------------------------------------------
 ## Encargo 16
