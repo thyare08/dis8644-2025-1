@@ -15,7 +15,6 @@
 - usar terminal block para conectar componentes externos (caimanes) TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm
 - **diodo de protección** Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal
 
-"exorcizar "
 agregar la carpeta de discord para las huellas del 555 y otros archivos compartidos por misa
 
 # huellas:
@@ -69,21 +68,23 @@ tamaño tarjeta de presentación: 85 x 55
 
 los componentes tienen:
 
-- Nombre
+**- Nombre**
   - resistencia
   - condensador
   - LED
   - etc.
-- Valor
+
+**- Valor**
   - 100k ohm (de una resistencia)
   - 10 uF (de un condensador)
   - NE555P (de un circuito integrado)
   - etc.
-- Encapsulado: forma física - espacio
+
+**- Encapsulado :** forma física - espacio
   - axial 1/4 w 6.5mm (resistencia de 100k)
   - radial D6.3mm P2.5mm (condensador electrolítico de 10uF)
   - DIP-8 (circuito integrado de 8 pines de tipo THT)
-  - etc
+  - etc.
 
 > D : diámetro
 > 
@@ -91,7 +92,7 @@ los componentes tienen:
 >
 > DIP : Dual In Line - package de circuitos integrados
 
-> para saber el encapsulado de los componentes, googlear "Package * componente + valor *" 
+> para saber el encapsulado de los componentes, googlear "Package * componente + valor *"
 
 ---
 
