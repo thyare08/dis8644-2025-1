@@ -31,6 +31,26 @@ ajustes de página
 
 hacerse una cuenta en JLCPCB y cotizar udpudu, para 30 personas, documentar cada parámetro y elección.
 
+el color de la PCB en torno al precio no varía; lo que varía es el tiempo de producción. la PCB verde se demora dos días menos que los otros colores. el acabado de superficie con dos capas de plomo de 0.6 mm no se puede realizar. también se puede incorporar un código de barras 2D, que también puede ser un código QR. la tolerancia del contorno del tablero, a mayor precisión, es más cara. además, la página te recomienda hacer cambios, ya que muy pocas personas eligen esas especificaciones, y asumo que la producción de esta es más lenta y cara, ya que tiene mayor nivel de personalización. 
+
+__JLCPCB__ tiene una opción visor gerber que permite tener una visión de lo que estás creando; lo puedes ver en 2D, 3D y ver las capas de este.
+
+![colorpcb](https://github.com/user-attachments/assets/33598a90-2df4-484a-8b55-d438dcafa2bd)
+
+![acabadosuperficial](https://github.com/user-attachments/assets/74c1744e-d4f8-4b05-b40d-5cf1991abdf5)
+
+![codigoqr](https://github.com/user-attachments/assets/e5f130d1-150a-4ab9-9c9f-5266f8895738)
+
+![toleranciacontornodetablero](https://github.com/user-attachments/assets/61d2e46e-e5b0-4fa1-af23-6f989aab80e3)
+
+![nota](https://github.com/user-attachments/assets/b93ee9a4-2bf6-4a8f-aaee-d75db19b9ee3)
+
+![jlcpcb2d](https://github.com/user-attachments/assets/19228f2f-c66b-45e8-abd0-d5cc2b1729cb)
+
+![jlcpcb3d](https://github.com/user-attachments/assets/206a8d58-946b-4387-9feb-d232bcd5ef0a)
+
+![jlcpcblayers](https://github.com/user-attachments/assets/32cf174b-e94a-40de-b08a-3942c4fbab80)
+
 ## encargo-17
 
 probar opciones que no entiendan, documentar otros parámetros que no conozcan aún.
