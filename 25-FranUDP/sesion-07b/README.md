@@ -27,7 +27,7 @@
 >>
 >> * ![color](https://placehold.co/15x15/f2eda1/codigo_color.png) ![color](https://placehold.co/15x15/e8b2a7/codigo_color.png) .Silkscreen: <img align="right" src="./files/silk.png" width=100> Poner el gráfico en esta capa hará que lo impriman sobre la superficie de la pcb con tinta blanca <br/><br/><br/><br/><br/><br/>
 >>
->> * .Mask: <img align="right" src="./files/mask.png" width=100> Ubicar el gráfico en esta capa hace que en esa sección de la placa no esté el recubrimiento superior, lo que hace que el cobre (estaño u oro, dependiendo del acabado) y/o el material de la PCB queden expuestos <br/><br/><br/><br/><br/><br/>
+>> * ![color](https://placehold.co/15x15/d864ff/codigo_color.png) ![color](https://placehold.co/15x15/02ffee/codigo_color.png) .Mask: <img align="right" src="./files/mask.png" width=100> Ubicar el gráfico en esta capa hace que en esa sección de la placa no esté el recubrimiento superior, lo que hace que el cobre (estaño u oro, dependiendo del acabado) y/o el material de la PCB queden expuestos <br/><br/><br/><br/><br/><br/>
 >
 > ### Other things
 >
