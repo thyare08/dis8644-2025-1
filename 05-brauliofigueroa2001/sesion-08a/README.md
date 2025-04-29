@@ -18,5 +18,7 @@ llegué temprano, había poquita gente, en la primera media hora entre 8:30 a 9:
 - al insertarlo, si viene con un tamaño de imágen preestablecido, quedará de esa forma. Si queremos que sea más pequeño necesitamos conseguir una versión más pequeña de la foto
 - **ahora aaron hablará un poco de notas y reclamos**
 - Rafael Benguria, un profe físico de aaron en la universidad, era un capo
-- 
+- se habló de la malla nueva, en esta, habrá una práctica en el sexto semestre ojo
+- de bitácoras hay 4 notas, se considerarán 3 y se borrará la peor
+- en encargos pasa lo mismo
 - 
