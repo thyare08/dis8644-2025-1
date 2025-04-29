@@ -16,3 +16,6 @@
   ![image](https://github.com/user-attachments/assets/80ed47ce-96b8-4124-bd6c-58d5c3ac6c7e)
 
 - Usar la sección “Issue” para poder solucionar problemas directamente mediante Github
+
+  ![image](https://github.com/user-attachments/assets/86aff651-9472-4a8c-b05c-392dc954f76e)
+
