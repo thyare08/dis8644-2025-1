@@ -44,6 +44,13 @@ llegué temprano, había poquita gente, en la primera media hora entre 8:30 a 9:
 -  en la página de jlcpcb podemos ver las opciones de la pcb y especificaciones físicas, para ver cómo quedó y qué cosa quedó en cada lugar/capa/colores
 -  en order details veo todo le proceso de envío
 -  el aduanazo siempre llega, cobran el 6% de arancel aduanero + el 19% del iva, terrible
+-  ### parte 2 post break
+-  comenzaremos con openscad en este módulo, ahora aaron tomó el mando
+-  joseph prusa --- > nació en república checa, prusa3d.com, fue una gran empresa que hizo soluciones de modelos 3d, impresiones 3d
+-  el próximo proyecto aparte de kicad y esquemático, llevará una carcasa que puede ser en 3d
+-  makerworld de bambulab
+-  
+-  
 -  
 -  
   
