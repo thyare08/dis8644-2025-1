@@ -49,6 +49,9 @@ llegué temprano, había poquita gente, en la primera media hora entre 8:30 a 9:
 -  joseph prusa --- > nació en república checa, prusa3d.com, fue una gran empresa que hizo soluciones de modelos 3d, impresiones 3d
 -  el próximo proyecto aparte de kicad y esquemático, llevará una carcasa que puede ser en 3d
 -  makerworld de bambulab
+-  hay cartelitos con valores paramétricos, puedo cambiar valores de estos parámetros
+-  quena, qué es? se refería al instrumento pero está hecha mediante parámetros específicos en openscad
+-  escuchar la cantata santa maría de iquique
 -  
 -  
 -  
