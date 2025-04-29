@@ -6,11 +6,6 @@ Martes 21/04/2025
 
 ## Observaciones
 
-<!---Recordar para programar "md" (markdown): 
-- https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet 
-- https://www.markdownguide.org/basic-syntax/
-- El Domingo 30 de marzo cumplí 25... no se porqué me gustaría sentirme orgullosa de ello, que se me reconociera --->
-
 Esta clase se centró en el aprendizaje de Kicad, por lo que fue primordial el tener un portátil con el cual trabajar.
 
 El primer módulo se centró en aprender a cómo construir el esquemático y colocar las "huellas" (asociar piezas reales al listado de materiales).
@@ -84,7 +79,7 @@ En el siguiente módulo terminé desconcentrandome, por lo que decidí consultar
 
 ***
 
-### Encargo clase 7a
+### encargo-14
 
 #### 1.1 Esquemático "Atari Punk Console" en KiCad
 
@@ -98,7 +93,7 @@ El archivo final se encuentra en la carpeta "diagram", puesto que al intentar su
 
 ***
 
-#### 1.2 Preguntas sobre "Manual de supervivencia para KiCAD"
+## encargo-15 Preguntas sobre "Manual de supervivencia para KiCAD"
 
 1-. ¿Cómo poder ordenar las patitas del chip N555 u otros componentes?}
 

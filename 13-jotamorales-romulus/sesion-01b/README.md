@@ -34,7 +34,7 @@ trabajaremos con pilas de 9v, pero igual hay que aprender a tener cuidado
 
 Un enchufe de hogar es peligroso porque maneja corriente alterna (AC) a un voltaje elevado, generalmente 110V o 220V, dependiendo del país. Este nivel de voltaje puede causar descargas eléctricas severas y otros riesgos como incendios o daños en dispositivos.
   
-encendimos un led en una protoboard.
+encendimos un LED en una protoboard.
 
 ![image](https://github.com/user-attachments/assets/2b3489bf-cfa4-4039-80f3-d77a0d4810e3)
 

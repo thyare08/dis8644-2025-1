@@ -20,6 +20,4 @@
 
 ### Fotografías y videos
 
-https://github.com/user-attachments/assets/a851630b-5809-4e49-98fa-d26b09b296af
-
-
+<https://github.com/user-attachments/assets/a851630b-5809-4e49-98fa-d26b09b296af>
