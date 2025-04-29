@@ -45,8 +45,8 @@
 ><br/>
 -----------------------------------------------------------------------------------------------------------
 ## Encargo 16
-### TITULO (hacerse una cuenta en JLCPCB y cotizar udpudu, para 30 personas, documentar cada parámetro y elección.)
->
+### UDPudu (hacerse una cuenta en JLCPCB y cotizar udpudu, para 30 personas, documentar cada parámetro y elección.)
+> <img align="left" src="./files/udpudu-F.png" width=460><img align="left" src="./files/udpudu-B.png" width=460> <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 >
 -----------------------------------------------------------------------------------------------------------
 ## Encargo 17
