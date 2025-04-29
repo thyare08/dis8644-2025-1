@@ -29,9 +29,9 @@
 
 ![tme-sesion07a-visor3D](https://github.com/user-attachments/assets/bf4c09e7-f671-4cce-98b0-09a21dffaeec)
 
-## Encargo
+## Encargos
 
-### 14-Diseñar esquemático en Kicad de Atari Punk Console
+### encargo-14: Diseñar esquemático en Kicad de Atari Punk Console
 
 - crear el esquemático en KiCad del Atari Punk Console con modificaciones, a menos que estas no funcionen del todo bien, como ocurrió en mi circuito.
 - no fue necesario para esta ocasión agregar huellas, ya que era un poco difícil recordar las que utilizamos en clase.
