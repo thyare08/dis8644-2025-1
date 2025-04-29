@@ -28,4 +28,6 @@ ARC: permite redondar bordes placa
 VIA: es un pequeño orificio perforado en la PCB que permite la conexión eléctrica entre diferentes capas del PCB
 HUELLAS 
 
+completar apuntes!!!!
 
+## Encargo 
