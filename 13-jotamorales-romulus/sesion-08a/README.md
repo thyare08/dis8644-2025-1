@@ -1,10 +1,12 @@
 # sesion-08a
 
 ## Apuntes
-Llegue tarde, durante el primer modulo, misaa enseño como agregar imagenes al pcb; con mis ompañeros me tengo que conseguir el como agregar una iamgen al pcb
+Llegué tarde durante el primer módulo. Misaa enseñó cómo agregar imágenes al PCB; tengo que conseguir con mis compañeros la explicación sobre cómo hacerlo. 
 
 ## Github
-- durante la noche tuve problemas al subir mi trabajo y aaron lo soluiono - agregar fotos de la conversacion y explicar
-- Issue para resolver "atados - Bitacoras - Encargos
+- Llegué tarde durante el primer módulo. Misaa enseñó cómo agregar imágenes al PCB; tengo que conseguir con mis compañeros la explicación sobre cómo hacerlo.
+- Crear un issue para resolver: "Atados - Bitácoras - Encargos".
 
-- mounting hole es para haer un hoyo para montar algo.
+
+## Kicad
+- mounting hole es para hacer un hoyo para montar algo.
