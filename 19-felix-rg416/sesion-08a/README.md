@@ -20,4 +20,7 @@ software de modelado 3D basado en código que permite crear objetos 3D usando un
 2. synk desde la web si estoy behind
 3. FETCH en el desktop
 4. PULL en desktop - descarga todos los archivos nuevos
-5. editar, agregar carpetas, archivos 
+5. editar, agregar carpetas, archivos
+6.commit (+ mensaje)
+7. PUSH en desktop  - envía los archivos a la nube
+8. 
