@@ -43,6 +43,24 @@ de todas formas en base a la clase online subiré mis apuntes
 - a raiz de una pregunta de felix de cual es la diferencia entre este y el socket, misaa responde que uno es una punta y el otro es un hoyito para colocar una punta, a raiz de esto aaron responde que está lleno de este lenguaje de "que se mete dentro de que, que sigue aqui" y habla sobre un blog que se llama cdm.link que hablan de un esfuerzo para destruir todo este lenguaje violento que se utiliza en este mundo
 - colocamos el pin 01x01 con el circulito hacia la derecha
 - socket es lo opuesto a pin
-- pondremos 01x01 socket, utilizaremos 2
-- 
+- pondremos 01x01 socket, utilizaremos 2, el primero lo conectamos entre la pata 7 y la R3
+- el segundo lo conectamos al C4 polarizado y pata 2
+- misaaa da un tip que para saber si nuestro circuito está bien, debemos probar con un led
+-  para esto agrego vcc conectado a  resistencia, que va a led y gnd
+-  ahora agregaremos un switch
+-  tenemos un problema acá porque existen 2 categorías de componentes de interruptor
+-  unos son los que van directamente a la placa y otros son de tipo panel, que son para carcasas
+-  este último está diseñado para ponerse en carcasas, no tiene patitas de anclaje
+-  el que usaremos en KiCad es un switch spdt sw_spdt
+-  cuando la patita 3 del switch tenga energía, va a prender todo
+-  ahora usaremos un screw terminal 01x02 , va orientado hacia la derecha porque recibirá a nuestra batería
+-  ¿qué tipo de batería?
+-  utilizaremos una +9v
+-  para evitar que el circuito muera utilizaremos un método que consiste en agregar un diodo
+-  un diodo de protección que se conecta en serie con el resto del circuito, si lo conectamos al revés, no funciona
+-  conecto pata 2 del screw a la batería, luego el diodo y del diodo al interruptor
+-  luego conecto la pata 1 del screw a GND
+-  queda la pata 1 del switch libre, le ponemos una x indicando que no nos servirá de nada
+-  ahora agregaremos valores con "v" de value a los nuevos componentes que introducimos recientemente
+-  
   
