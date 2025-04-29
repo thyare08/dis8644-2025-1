@@ -18,13 +18,13 @@ un circuito en serie, a diferencia de uno paralelo, comparte la misma energía e
 
 ![apuntes de bitácora](https://github.com/user-attachments/assets/0e5717be-b900-4c2d-9700-e37192d80365)
 
-## encargo 04  
+## encargo-04  
 
-el disco que escuché fue "música para el caos" de René Roco, escogí este disco porque me llamó la atención el nombre de este y su portada, sin embargo al escucharlo no sentí que fuera tan caótico como yo lo esperaba, me gustó la combinación de los sonidos electronicos con el arpa, siento que le entrega un algo que se siente un poco de ensueño, casi como si fuese una musicalización para algún sueño de alguna persona.
+el disco que escuché fue "música para el caos" de René Roco, escogí este disco porque me llamó la atención el nombre de este y su portada, sin embargo al escucharlo no sentí que fuera tan caótico como yo lo esperaba, me gustó la combinación de los sonidos electrónicos con el arpa, siento que le entrega un algo que se siente un poco de ensueño, casi como si fuese una musicalización para algún sueño de alguna persona.
 
-también por alguna razón, senti que la pista 3 "luna llena", me recordaba a la pelicula el viaje de chihiro, con esas vibes de estar en un viaje hacia algo inexplorado. a pesar de ser un e.p de solo 18 minutos, lo pondria en alguna playlist para escucharlo nuevamente. también quiero agregar que escuché otro disco llamado "hikikomori" por Angel Galán de españa y lo recomiendo demasiado, un trabajo hermoso y lleno de dedicación, que me hizo escapar un poco de lo que es ser un hikikomori, pero que me dejó atrapada escuchándolo.
+también por alguna razón, sentí que la pista 3 "luna llena", me recordaba a la pelicula el viaje de chihiro, con esas vibes de estar en un viaje hacia algo inexplorado. a pesar de ser un e.p de solo 18 minutos, lo pondría en alguna playlist para escucharlo nuevamente. también quiero agregar que escuché otro disco llamado "hikikomori" por Angel Galán de españa y lo recomiendo demasiado, un trabajo hermoso y lleno de dedicación, que me hizo escapar un poco de lo que es ser un hikikomori, pero que me dejó atrapada escuchándolo.
 
-## encargo 05
+## encargo-05
 
 ### estudio de resistores y circuitos en serie y paralelo
 

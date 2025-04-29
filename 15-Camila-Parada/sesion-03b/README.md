@@ -1,65 +1,44 @@
 # ⋆₊˚⊹♡ Clase 03b - Atari punk console ♡⊹˚₊⋆
 
-##### _Viernes 28/03/2025_
+Viernes 28/03/2025
 
 ***
 
-### Observaciones
-
-<!---Recordar para programar "md" (markdown): 
-- https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet 
-- https://www.markdownguide.org/basic-syntax/
-- El Domingo 30 de marzo cumplí 25... no se porqué me gustaría sentirme orgullosa de ello, que se me reconociera --->
+## Observaciones
 
 La clase fue más experimental. El primer módulo se enfocó en trabajar con el circuito Atari punk console. Tras ello tomamos una "sesión de fotos" a nuestros circuitos y después del descanso partimos todes a Museo de Arte Contemporáneo en el metro Quinta Normal para ver la exposición del profesor Matías Serrano.
-
-<br>
 
 ***
 
 ### Registro visual de la bitácora y la clase
 
-<br>
-
 ### Resultados de la Clase
 
 ![IMG_8372](https://github.com/user-attachments/assets/a2a70eaf-efc1-4fce-a170-56474fe5931e)
 
+<https://github.com/user-attachments/assets/9102512c-2482-4703-8dcd-dd6b0c6be7ca>
 
-https://github.com/user-attachments/assets/9102512c-2482-4703-8dcd-dd6b0c6be7ca
-
-
-https://github.com/user-attachments/assets/e129ae64-4c78-4237-972e-cc0221204420
-
-
-<br>
+<https://github.com/user-attachments/assets/e129ae64-4c78-4237-972e-cc0221204420>
 
 ***
 
 ### Salida a terreno: Museo en estéreo
 
-<br>
-
 Esta fue una salida a terreno con todo el curso presente. Fuimos de república hasta llegar al MAC en la estación Quinta normal.
+
 Antes de ingresar al lugar, los profesores hablaron un poco, sobre todo el profe Matías, puesto que él trabajó con otros artistas para crear la muestra que íbamos a presenciar. Por su parte nos contó sobre el museo y su historia, en conjunto con su experiencia sobre el construir la exposición y otros datos.
 
 Tras eso ingresamos al lugar, pasando por el vestíbulo en donde nos detuvimos a hablar de las obras que estaban presentes en el espacio.
 
 Ya habiendo hablado caminamos hasta la sala en la que estaba la exposición.
 
-<br>
-
 ![54166627063_084330b260_o](https://github.com/user-attachments/assets/4b879a51-c688-4000-86f8-1fffd9ccc481)
 
 ![54166347141_2bf3df8547_o](https://github.com/user-attachments/assets/aae15e61-85b2-4076-88b5-507b322993fb)
 
-_▼ Imágenes recuperadas de: https://mac.uchile.cl/exposiciones/sala-interaccion-museo-en-estereo/_
-
-<br>
+_▼ Imágenes recuperadas de: <https://mac.uchile.cl/exposiciones/sala-interaccion-museo-en-estereo/>_
 
 Por mi lado aproveché de tomar fotografías centradas en lo que me llamó la curiosidad.
-
-<br>
 
 ![WhatsApp Image 2025-04-28 at 9 11 07 AM](https://github.com/user-attachments/assets/6d3591fc-0c51-4569-8aca-fd485e7d08b6)
 
@@ -81,21 +60,13 @@ Por mi lado aproveché de tomar fotografías centradas en lo que me llamó la cu
 
 ![WhatsApp Image 2025-04-28 at 9 11 07 AM (9)](https://github.com/user-attachments/assets/a161bda5-d858-463d-ada0-22a92a2c96d1)
 
-<br>
-
-**▼ Opinión personal:** La muestra me pareció interesante y curiosa, sobre todo por la fabricación de las esculturas y los sonidos que se pueden escuchar. Ello lo hace bastante estimulante, lo que me mareo un poco, pero fuera de eso pude disfrutar de la muestra.
-
-<br>
+**▼ Opinión personal:** La muestra me pareció interesante y curiosa, sobre todo por la fabricación de las esculturas y los sonidos que se pueden escuchar. Ello lo hace bastante estimulante, lo que me mareoóun poco, pero fuera de eso pude disfrutar de la muestra.
 
 ***
 
 ### Salida a terreno: Otras salas del museo
 
-<br>
-
 A continuación se nos dio "chipe libre" para seguir recorriendo las demás salas del museo y los proyectos que ahí se encuentran.
-
-<br>
 
 ![WhatsApp Image 2025-04-28 at 9 48 49 AM](https://github.com/user-attachments/assets/21309455-bf8c-4ad0-8dc6-707255dcf40a)
 
@@ -107,11 +78,7 @@ A continuación se nos dio "chipe libre" para seguir recorriendo las demás sala
 
 ![WhatsApp Image 2025-04-28 at 9 48 49 AM (3)](https://github.com/user-attachments/assets/118ae423-b8ca-4a50-aac4-32620a4bf89e)
 
-<br>
-
 ▼ Esta fue la "escultura" que me llamó más la atención. Me gusta como con elementos tan simples se puede transformar en algo memorable e interactivo. Se siente muy extraño y atractivo, como si estuviera siendo vigilada al ser mostrada en la pantalla y al hacer que se imprima un papel con la interacción.
-
-<br>
 
 ![WhatsApp Image 2025-04-28 at 9 48 51 AM (4)](https://github.com/user-attachments/assets/915c7554-feb1-42b3-9b14-1a2a18640a6a)
 
@@ -125,8 +92,6 @@ A continuación se nos dio "chipe libre" para seguir recorriendo las demás sala
 
 ![WhatsApp Image 2025-04-28 at 9 48 49 AM (4)](https://github.com/user-attachments/assets/26931d89-af86-4611-aff3-7b495e8a38d0)
 
-<br>
-
 ***
 
 ### Posdata
@@ -135,8 +100,4 @@ Pos ando rehaciendo estas tareas, aunque no tenga sentido, porque el dejarlas si
 
 ***
 
-##### _°˖✧◝(⁰▿⁰)◜✧˖°_
-
-
-
- 
+°˖✧◝(⁰▿⁰)◜✧˖°

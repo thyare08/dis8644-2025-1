@@ -40,7 +40,7 @@ cada una de sus patas tiene una función distinta.
 
 - Los capacitores están diseñados para evitar daños en caso de fallos. Estos se reventarán de manera controlada, con una cruz arriba que hace que explote de manera controlada. (No nos deberia pasar nada con los trabajos que vamos a hacer, ya que las cantidades son muy bajas)
 
-## encargo 06
+## encargo-06
 
 ## Einstürzende Neubauten - Kollaps
 
@@ -48,22 +48,22 @@ cada una de sus patas tiene una función distinta.
 
 Al principio, empecé escuchando “Ende Neu”, pero me costó entrar en la onda de la banda. No entendía bien qué querían transmitir ni cómo debía abordarlos, me sentía medio incómodo escuchándolos. Así que decidí retroceder y escuchar su primer LP, Kollaps. Ahí logré hacer click. Es un álbum agresivo, experimental y lleno de sonidos industriales que parecen sacados de una fábrica en pleno colapso.
 
-El album se siente como un choque sonoro. En "Steh auf Berlin", por ejemplo, los ruidos de taladros y metal golpeado generan un ritmo que es más mecánico que musical, pero que, con el tiempo, se empieza a asimilar como una estructura rítmica propia.El álbum en general transmite una sensación de caos organizado, con momentos donde la repetición de sonidos metálicos y distorsionados crea una especie de trance.
+El álbum se siente como un choque sonoro. En "Steh auf Berlin", por ejemplo, los ruidos de taladros y metal golpeado generan un ritmo que es más mecánico que musical, pero que, con el tiempo, se empieza a asimilar como una estructura rítmica propia. El álbum en general transmite una sensación de caos organizado, con momentos donde la repetición de sonidos metálicos y distorsionados crea una especie de trance.
 
 ![image](https://github.com/user-attachments/assets/68d18162-5932-476d-be10-738383380c31)
 
 La banda hace uso de instrumentos poco convencionales, como taladros, láminas de metal o mejor dicho chatarra metalica; tampoco sé si es imaginacion mia pero en algunos temas logro escuchar un resorte o un alambre tensado.
 Me deja loco lo poco comun que es esta banda, estar acostumbrado a escuchar diversos instrumentos y ver como una banda te hace buscarle el sentido a sonidos que provienen de cosas tan cotidianas, mezclandolo en un caos.
 
-## encargo 07
+## encargo-07
 
 Conecté el chip 555, dos resistencias y un capacitor. El 555 carga y descarga el capacitor, creando pulsos que hacen que el LED se encienda y apague.
 
-Al hacer el ejercicio con el 555 y tener todo listo me pasó que el led no se prendia y apagaba y eso era por que estaba utilizando un condesador de 100 nf y debia ocupar uno de 10nf para que el led se prendiera y apagara.
+Al hacer el ejercicio con el 555 y tener todo listo me pasó que el LED no se prendia y apagaba y eso era por que estaba utilizando un condensador de 100 nf y debia ocupar uno de 10nf para que el LED se prendiera y apagara.
 
 Hicimos uso de un potenciómetro el cual ajusta la resistencia en el circuito. Al aumentar la resistencia, el LED parpadea más lento, y al disminuirla, parpadea más rápido.
 
-Hice uso de un potenciómetro de 500k, con este es muy poco preciso la velocidad del parpadeo del led, tenia que girar la manilla de manera despacio.
+Hice uso de un potenciómetro de 500k, con este es muy poco preciso la velocidad del parpadeo del LED, tenia que girar la manilla de manera despacio.
 
 - Extra: Conseguir cables más cortos, me resultó incómodo hacer el circuito, queda muy desordenado. Se pueden conseguir de un cable de red.
 

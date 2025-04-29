@@ -1,15 +1,11 @@
 # ⋆₊˚⊹♡ Clase 05a - Desarrollo Atari ♡⊹˚₊⋆
 
-##### _Martes 8/04/2024_
+Martes 8/04/2024
 
 ***
 
-### Observaciones
+## Observaciones
 
-<!---Recordar para programar "md" (markdown): 
-- https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet 
-- https://www.markdownguide.org/basic-syntax/
-- El Domingo 30 de marzo cumplí 25... no se porqué me gustaría sentirme orgullosa de ello, que se me reconociera --->
 Esta clase comenzó con una charla sobre salud mental, lo que personalmente me generó más confianza con la clase y el equipo docente, puesto que tengo bastante ansiedad antes de comenzar y me armo de valor para poder levantarme e ir a presentarme a la facultad.
 
 Luego de ello, se invitó a los grupos de alumnos a presentar los objetos escogidos y en profundizar en las investigaciones, a modo de compartir descubrimientos generados al utilizar ingeniería inversa para el estudio de la composición de los componentes y los circuitos de estos productos y poder hacer paralelismos con los conocimientos adquiridos las sesiones pasadas.
@@ -119,7 +115,6 @@ _▼ Diagrama del circuito modificado_
 | Leds                  | 2       |  L1, L2    |   3,3V    |
 | Interruptor           | 1       |  Sin nombre    |    30mΩ    |
 | Potenciometro         | 1       |    P1      |    500K    |
-
 
 <br>
 
