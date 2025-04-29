@@ -37,3 +37,7 @@ Para que nada explote ni nada así cuando se conecta con la polaridad inversa, e
 
 
 
+## encargo-16: cotizar udpudu en JLCPCB de forma productiva
+
+
+## encargo-17: cotizar udpudu en JLCPCB de forma experimental
