@@ -32,10 +32,15 @@ llegué temprano, había poquita gente, en la primera media hora entre 8:30 a 9:
 -  APARECIÓ RAFITA STUDIO EN LA CLASE!!!!!!
 -  @madbuton en github increíble repositorio, nos dieron stickers del lab de interacción digital épico
 -  **ahora está hablando misaa sobre cambios que hicieron en la pcb**
--  agregaron un icono de parlante
+-  agregaron un ícono de parlante
 -  perforaron las esquinas con círculos
 -  cómo perforamos? ---> en edgecuts
 -  en la capa esquemático necesitamos agregar un componente que se llama mounting hole
 -  los mountinghole son agujeros
+-  perno, tuerca y golilla existen en el mundo de la fijación, la tuerca no tiene suficiente fuerza para que se salga el perno solo, para esto existe la golilla que fija el agarre. Existen las golillas de presión que giran en sentido opuesto a la tuerca entonces genera un mejor agarre
+-  agregamos la huella a mounting hole , buscamos m3 y aparece, en este caso es MountingHole:MountingHole_3.2mm_M3
+-  también existen los separadores pcb
+-  repaso de cómo exportar el archivo gbr, debo ver la clase otra vez para entenderlo mejor porque aun no logro desarrollar mi udpudu
+-  
 -  
   
