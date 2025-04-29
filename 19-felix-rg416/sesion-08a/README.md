@@ -1,7 +1,12 @@
 # sesion-08a
 29 - 04 - 2025
 
-- 
+- golilla de presión , muy buena para mantener el tornillo en su lugar
+- separador de PCB --> espaciador para poner otras capas o carcasas (hay en aliexpress)
+
+# kiCAD
+
+- perforación para tornillos --> **MountingHole:MountingHole_3.2mm_M3**
 
 # openSCAD
 
