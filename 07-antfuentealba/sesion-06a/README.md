@@ -1,8 +1,8 @@
 # sesion-06a
 
-# Proyecto 01 
+## Proyecto 01
 
-Grupo 6 
+Grupo 6
 
 Félix Rodríguez
 Izhak Villegas
@@ -19,31 +19,28 @@ En este proyecto nos planteamos la idea y la duda de cómo las frecuencias de la
 
 Una nota musical es una vibración del aire a una cierta frecuencia (medida en Hertz). Por ejemplo, la nota La (A4) vibra a 440 Hz.
 
-La APC genera ondas cuadradas con frecuencias variables. Esas ondas sonoras entran en un altavoz, el cual vibra a esa frecuencia, y nuestro oído lo percibe como una nota. 
+La APC genera ondas cuadradas con frecuencias variables. Esas ondas sonoras entran en un altavoz, el cual vibra a esa frecuencia, y nuestro oído lo percibe como una nota.
 
 Es por esto que nuestra decisión fue modificar el APC  para generar notas musicales a través de cables que conectan ondas eléctricas de distintos objetos, ya sean orgánicos o metálicos, simulando de esta forma una especie de teclado, que gracias a la suma de resistencias genera una frecuencia más grave o más aguda dependiendo del objeto que transmite la onda. Esto a través de un circuito que sería astable, debido a sus estados de on/off, al momento de presionar botones y accionar los clables en contacto con objetos. Además es un circuito robusto, que no es frágil en su fisicalidad, ya que cuenta con una carcasa exterior impresa ne 3d que protege el circuito solsdado en la pcb.
 
-
 “Cada nota musical tiene una frecuencia principal, que indica cuántas veces por segundo vibra el elemento que la produce. La frecuencia producida por un temporizador 555 en modo astable depende de los valores del condensador (C) y dos resistencias (R A  y R B )”
-Instructables. (2024, 6 marzo). 
-Simple Electronic piano. Instructables. https://www.instructables.com/Simple-Electronic-Piano/ 
-
+Instructables. (2024, 6 marzo).
+Simple Electronic piano. Instructables. <https://www.instructables.com/Simple-Electronic-Piano/>
 
 Esta relación es:
 
-![formula frecuencia]
+fórmula frecuencia
 
-(https://github.com/user-attachments/assets/a927dec7-da5b-4a46-ba7b-c661a13953b0)
+(<https://github.com/user-attachments/assets/a927dec7-da5b-4a46-ba7b-c661a13953b0>)
 
-
-### ANATOMÍA FÍSICA, DIAGRAMAS, ILUSTRACIONES, TEXTO.
+### ANATOMÍA FÍSICA, DIAGRAMAS, ILUSTRACIONES, TEXTO
 
 ### CAJA NEGRA (ANATOMÍA FÍSICA)
 
 ## Teclado musical APC
 
 Cuenta con una carcasa, con 5 orificios (sin contar el parlante), por donde salen cables que se conectan a caimanes y a su vez, a objetos metálicos y orgánicos, también un botón, cables y un potenciómetro, que al accionar cada uno de estos, genera una frecuencia distinta, la cuales son capaces de oírse a través de una bocina o parlante.
-La carcasa contiene el circuito soldado a la placa perfboard con todos los componentes utilizados (BOM) 
+La carcasa contiene el circuito soldado a la placa perfboard con todos los componentes utilizados (BOM)
 
 ![imagenes del teclado musical y sus partes]
 
@@ -52,7 +49,6 @@ La carcasa contiene el circuito soldado a la placa perfboard con todos los compo
 ![objeto_impreso(2)](https://github.com/user-attachments/assets/a9d3763a-ff72-4b65-8ec3-7df49ac4e816)
 
 ![objeto_interior](https://github.com/user-attachments/assets/03c8000e-0451-456f-9254-ddd9455dddd3)
-
 
 ### DIAGRAMA
 
@@ -65,7 +61,6 @@ A continuación se presenta el esquemático realizado para la construción del c
 ![esquema PCB v01](https://github.com/user-attachments/assets/7bd40cd4-ea5f-4d39-ab66-42cd65187ce7)
 
 ![atariPunk_tinkercad](https://github.com/user-attachments/assets/b9c7a5fb-ebcf-4578-bf73-661e21ace227)
-
 
 ### BITÁCORAS
 
@@ -131,10 +126,9 @@ A continuación se presenta el esquemático realizado para la construción del c
 
 ![videos de muestra del proceso en proto]
 
-https://github.com/user-attachments/assets/790efdef-d78c-4d19-b25d-af472468af7d
+<https://github.com/user-attachments/assets/790efdef-d78c-4d19-b25d-af472468af7d>
 
-https://github.com/user-attachments/assets/fc261a51-aa6d-4029-83d4-fa57e76a6de4
-
+<https://github.com/user-attachments/assets/fc261a51-aa6d-4029-83d4-fa57e76a6de4>
 
 ### ESQUEMÁTICO ELÉCTRICO, BILL OF MATERIALS, CITAS Y REFERENCIAS
 
@@ -149,7 +143,7 @@ https://github.com/user-attachments/assets/fc261a51-aa6d-4029-83d4-fa57e76a6de4
 | Resistencias          | 8        | R1, R2, R3, R5, R6, R7, R8 | 1k      |
 |                       |          | R4                      | 10k        |
 | Condensador cerámico  | 3        | C1, C2, C4              | 100nF      |
-| Condensador 
+| Condensador
   electrolítico         | 1        | C5                      | 100uF      |
 | Condensador           | 1        | C3                      | 470nF (474)|
 | Jumpers               | 12-17    |                         |            |
@@ -161,13 +155,10 @@ para nuestro proceso nos referenciamos en el piano electrónico creado por Joshu
 
 "La electrónica puede producir sonidos muy fácilmente con solo unas pocas piezas"
 
-https://www.instructables.com/Simple-Electronic-Piano/ 
+<https://www.instructables.com/Simple-Electronic-Piano/>
 
-### CONCLUSIÓN 
+### CONCLUSIÓN
 
 Finalmente a la hora de probar por primera vez nuestro circuito nos dimos cuenta que no funciona
 ¿qué errores hay?, ¿son solucionables?, ¿se puede llegar al resultado deseado?
 pedir retroalimentación
-
-
-

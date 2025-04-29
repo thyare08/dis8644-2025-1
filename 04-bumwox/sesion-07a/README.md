@@ -2,7 +2,7 @@
 
 ## kicad
 
-__características de los componentes__
+características de los componentes
 
 - símbolos
 - valores
@@ -19,7 +19,7 @@ __características de los componentes__
 
 ## proyecto en kicad, 555 + variaciones
 
-__atajos__
+atajos
 
 - __r__: rotar
 - __m__: mover
@@ -40,7 +40,7 @@ __atajos__
 
 ## editor de placas en kicad
 
-__7 capas importantes__
+7 capas importantes
 
 - __edge.cuts__: fibra con la que se hace la placa
 - __f.cu y b.cu__: aplicar los dibujos de cobre por arriba y abajo

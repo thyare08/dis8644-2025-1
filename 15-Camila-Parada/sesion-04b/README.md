@@ -4,23 +4,16 @@
 
 ***
 
-### Observaciones
+## Observaciones
 
-<!---Recordar para programar "md" (markdown): 
-- https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet 
-- https://www.markdownguide.org/basic-syntax/
-- El Domingo 30 de marzo cumplí 25... no se porqué me gustaría sentirme orgullosa de ello, que se me reconociera --->
 Al comienzo de la clase se trató de poder analizar y revisar los primeros objetos traídos por algunos alumnos para poder hablar de estos y comprender la estructura de su carcasa y el circuito, además de poder teorizar sobre su posible funcionalidad (en el caso de un control de juguete). Pudimos hablar y revisar distintos sintetizadores, revisando cómo era cada producto junto con sus características. De todos los que vimos, sólo 1 fue puesto a prueba: El sintetizador Grandmother de la compañía Moog. Tras poder experimentar con este durante el recreo comenzó la etapa para rearmar circuítos, volviendo a revisar y rehacer el circuito del Atari Punk Console.
 
 ***
 
 ### Escaneo de bitácora y apuntes escritos del día
 
-<br>
 <img src="./image/001-08.04.jpg">
-<br>
 <img src="./image/002-08.04.jpg">
-<br>
 
 ***
 

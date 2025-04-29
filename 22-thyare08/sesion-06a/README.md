@@ -1,5 +1,4 @@
 # sesion-06a
-# sesion-06a
 
 15 de Abril de 2025.
 
@@ -75,3 +74,11 @@ https://github.com/user-attachments/assets/1dfc053f-26e3-40d8-8d1e-b993af6207fa
 | Batería                   | Batería                    | 9V    | 1        |
 | Altavoz                   | LS1 Speaker                | 8Ω    | 1        |
 | Protoboard                |                            |       | 2        |
+
+# Encargo: Instalar Kicad
+  - Versión: 9.0.1
+  - Sistema operativo: Windows 11, 64 bits
+  - Ubicación de la aplicación: Este equipo > Archivos de programación > Kicad
+
+# Encargo 2: Ver documental Sisters with transistors
+  - 

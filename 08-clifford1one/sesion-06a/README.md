@@ -1,18 +1,18 @@
 ### sesion-06a
 
-## Entrega Proyecto 01: 
+## Entrega Proyecto 01
 
 # LDA: Light Dependent Awelita
 
-# Premisa:
+# Premisa
 
 - Elegir Temática
 
 - Definir Usuario
- 
+
 - Definir Función
 
-## Elegir Temática: 
+## Elegir Temática
 
 <https://www.555-timer-circuits.com>
 
@@ -30,25 +30,23 @@ Miramos los distintos ejemplos en esta página, y destacamos los que más nos ll
 
 ![Foto circuito armadod](tme-p1-circuitoDark.jpeg)
 
-
 <https://www.555-timer-circuits.com/dark-detector.html>
 
  Este proyecto consiste en un circuito que sensa la luz a través de un LDR. Una alarma se activa cuando el nivel de luz detectado es menor a cierta cantidad determinada por la configuración del sistema.
 
-## Definir Usuario:
+## Definir Usuario
 
 ![Foto user persona](tme-p1-user.png)
 
 USER PERSONA
 
-
-- Nombre: Gloria Fernández 
+- Nombre: Gloria Fernández
 - Edad: 89 años
 - Género: Femenino
 - Estado civil: Viuda
 - Ciudad: Chillán
 
-Biografía: 
+Biografía:
 
 Gloria vive una casa con su hijo, su nuera y sus dos nietos. Trabajó de como educadora de párvulos hasta los 72 años. Todos los días desayuna entre las 10:30 y las 12:00, almuerza entre las 13:30 y las 16:30, y toma once entre las 19:30 y las 22:00. el horario en el que realiza sus *hobbies* va desde las 14:00 hasta las 21:30.
 
@@ -56,13 +54,13 @@ Motivación:
 
 Busca realizar actividades que la ayuden a distraerse y a hacer que el tiempo pase más rápido. puede pasar horas entretenida con actividades como leer, tejer, bordar, armar rompecabezas y resolver sopas de letras.
 
-## Definir Función a Partir de la Problemática: 
+## Definir Función a Partir de la Problemática
 
-Problemática: 
+Problemática:
 
 Identificamos una problemática en aquella situación cuando una persona, en este caso un adulte mayor, realiza actividades que requieren concentración, durante extensos periodos. Cuando estos períodos coinciden con la puesta del sol, el usuario sigue realizando su actividad a oscuras.
 
-Esto ocurre porque la disminución de la luz es paulatina, y sucede a una velocidad que permite que nuestro ojo se vaya acostumbrando a ella automáticamente. Por eso a veces pareciera que oscureció de golpe en la noche 
+Esto ocurre porque la disminución de la luz es paulatina, y sucede a una velocidad que permite que nuestro ojo se vaya acostumbrando a ella automáticamente. Por eso a veces pareciera que oscureció de golpe en la noche
 
 ![Figura 1.13 del archivo retinaAdaptTesis.pdf](tme-p1-grafico.png)
 
@@ -70,14 +68,14 @@ Esto ocurre porque la disminución de la luz es paulatina, y sucede a una veloci
 
 Si bien, no hay estudios que comprueben que hacer atividades a oscuras dañe la vista, hacer actividades a oscuras requiere un mayor esfuerzo, por lo tanto te cansa más y dificulta hacerlo por períodos prolongados.
 
-Definición Función: 
+Definición Función:
 
 ![Foto luz alarma](tme-p1-alarmaNoche.jpeg)
 Imagen generada por Ia mediante chatGPT
 
 Un objeto que cuando se oscurezca emita una alarma para alertar al usuario, y que este recuerde encender una luz para que no suene. Esta alarma sonará durante 300s y después el istema se suspenderá hasta que vuelva a detectar luz.
 
-# Diseño: 
+# Diseño
 
 ## Investigación 1: Iluminación
 
@@ -146,13 +144,13 @@ Tras no lograr llevar a cabo la idea original, decidimos optar por quedarnos con
 
 ![Foto del flujo que queriamos que fuera](tme-p1-flujoIdeal.png)
 
-# FABRICACIÓN: 
+# FABRICACIÓN
 
 - Cables
 
 - Carcasa
 
-## Cables:
+## Cables
 
 ![Foto avances](tme-p1-bitacoraBoceto.jpeg)
 
@@ -176,7 +174,7 @@ Bill of Materials
 | Cables Dupont           |       | 1        |
 | Batería                 |  9V   | 1        |
 
-## Carcasa: 
+## Carcasa
 
 Hicimos un modelo 3D mediante Rhinoceros 3D
 
@@ -200,8 +198,7 @@ Impresión 3D
 
 ![Foto de la los soportes sacados](tme-p1-imp5.jpg)
 
-
-### Referencias: 
+### Referencias
 
 <555-timer-circuits.com>
 
@@ -219,6 +216,6 @@ Impresión 3D
 
 - <https://bricoprofesional.com/blog/como-nos-afecta-la-iluminacion-en-nuestra-salud/#:~:text=Baño%3A%20no%20hace%20falta%20demasiada,iluminación%20general%20de%20100%20lx.>
 
-Para más información y más proceso, porfavor consultar nuestro figma con acceso público:
+Para más información y más proceso, por favor consultar nuestro figma con acceso público:
 
 <https://www.figma.com/board/2tv4jx75qGZa6Gua2UCVer/taller.maq.electr?node-id=0-1&t=aBNh63yuq9MDT4AI-1>

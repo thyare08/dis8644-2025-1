@@ -20,7 +20,7 @@ Recordar siempre sincronizar/ actualizar el fork
 
 ## encargo-04: Pueblo Nuevo
 
-El disco que escuche fue **Dinámica estructural** de Pablo Gomez Bate lanzado el año 2024, que tiene estilos **Ambient, IDM Y Trip-Hop** y que tiene un total de 8 canciones. Me gusto el disco, en el momento que lo escuchaba me imaginaba dentro de un **videojuego** haciendo misiones y pasando de niveles, lo encontré bastante movido.
+El disco que escuche fue **Dinámica estructural** de Pablo Gomez Bate lanzado el año 2024, que tiene estilos **Ambient, IDM Y Trip-Hop** y que tiene un total de 8 canciones. Me gustó el disco, en el momento que lo escuchaba me imaginaba dentro de un **videojuego** haciendo misiones y pasando de niveles, lo encontré bastante movido.
 
 ## encargo-05: serie y paralelo
 

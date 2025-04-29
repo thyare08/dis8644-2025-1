@@ -7,7 +7,7 @@ y hicimos la primera conexión para encender un LED, pensaba no iba a poder, per
 
 ![WhatsApp Image 2025-04-07 at 6 13 17 PM](https://github.com/user-attachments/assets/71e667ee-fd74-4455-a8b9-6eb33ad592e3)
 
-## Encargo 02
+## encargo-02
 
 **Aphex Twin**, es un músico productor y dj irlandes llamado Richard D. James, conocido por su trabajo en la **música electrónica**. Abarca géneros como el techno ambient, acid y jungle. Para su proceso creativo le gusta componer en la madrugada, antes se inspiraba en sueños lucidos y sinestesias, pero ha creado un programa para generar automáticamente ritmos y melodías.
 

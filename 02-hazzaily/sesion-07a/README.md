@@ -2,7 +2,7 @@
 
 22 de Abril de 2025
 
-# Introducción a KiCAD
+## Introducción a KiCAD
 
 KiCAD es un software que permite y facilita la esquematización de circuitos electrónicos, además de permitir y ayudar a la conversión de estos a placa de circuito impreso (PCB).
 
