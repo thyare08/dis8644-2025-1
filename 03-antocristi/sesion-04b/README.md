@@ -10,9 +10,9 @@ La interfaz se utiliza para nombrar la conexión func. entre dos sistemas o comp
 
 Bob moog + Herb deutsch + Wendy carlos = **minimoog**
 
-## Proj 1
+## encargo-11: bajar opacidad
 
-**Camara deportiva microlab 4k**
+Cámara deportiva microlab 4k
 
 ![Diseño sin título](https://github.com/user-attachments/assets/44f3bcb9-4236-4cd8-807a-257753b0bee7)
 

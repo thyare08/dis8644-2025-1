@@ -10,7 +10,7 @@ POR FIN LOGRAMOS HACER SONIDO
 
 Si se aumenta la resistencia, el tiempo de carga del condensador se incrementa, lo que disminuye la frecuencia y hace que el sonido sea más grave. Si se disminuye la resistencia, el condensador se carga más rápido, aumentando la frecuencia y generando un sonido más agudo.
 
-## encargo08 Gonzalo Martínez y sus Congas Pensantes
+## encargo-08: Gonzalo Martínez y sus Congas Pensantes
 
 ![image](https://github.com/user-attachments/assets/d096a14e-b0c3-4cad-980c-13aa4b43ced7)
 
@@ -26,7 +26,7 @@ Cuando escuché el disco me pareció interesante la mezcla, tiene una vibra extr
 
 Perfectamente veo a una calle entera de fiesta escuchando esto a todo volumen. No es un disco masivo, pero dejó su huella y sigue sonando fresco, lo que lo hace interesante de descubrir.
 
-## encargo09: apuntes sobre visita al museo de arte contemporáneo
+## encargo-09: apuntes sobre visita al museo de arte contemporáneo
 
 subir fotos, impresiones, comentarios, reflexiones, críticas, y todo el material que produzcan.
 
@@ -61,7 +61,7 @@ Hay un momento que me dio pena no registrar; estaba tan concentrado en este que 
 
 <https://github.com/user-attachments/assets/1bee06f6-2cbd-4334-9d9b-8cf2c31e97f4>
 
-La habitacion en la cual se encontraba la obra "Memoria del paisaje de concepcion / Tiempo, escalas y vestigios de Cristóbal Caro Alarcón, fue la que mas me gustó. La atmosfera me gusto mucho (algo asi me gustaria ver para examen). Esta encontre que fue la que mas potencia tenia la en la exposicion (no logre recorrer toda, pero seguramente la pondria en top 1 por sobre todas). Esta tenía un sonido sumamente envolvente. Las flautas emiten un silbido que recuerda la erosión del paisaje, mientras las placas de Petri sugieren el paso del tiempo en lo biológico. Me recordó mucho cuando uno lava la losa y pasa el dedo mojado por una copa.
+La habitación en la cual se encontraba la obra "Memoria del paisaje de concepcion / Tiempo, escalas y vestigios de Cristóbal Caro Alarcón, fue la que mas me gustó. La atmosfera me gustó mucho (algo asi me gustaria ver para examen). Esta encontre que fue la que mas potencia tenia la en la exposicion (no logre recorrer toda, pero seguramente la pondria en top 1 por sobre todas). Esta tenía un sonido sumamente envolvente. Las flautas emiten un silbido que recuerda la erosión del paisaje, mientras las placas de Petri sugieren el paso del tiempo en lo biológico. Me recordó mucho cuando uno lava la losa y pasa el dedo mojado por una copa.
 
 ![WhatsApp Image 2025-03-31 at 22 23 22](https://github.com/user-attachments/assets/9f7ecc62-3aef-451a-96a6-cfc36df92488)
 Esta foto la saque con mi compa Seba Saez, parte de esto es lo que me gustaria ver en examen, que la exposicion de estos sea potenciada por el ambiente (luces, siluetas, etc)

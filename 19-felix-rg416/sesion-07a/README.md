@@ -1,33 +1,50 @@
 # sesion-07a
-#### martes 22 de abril
 
-- [Bleep Labs](https://bleeplabs.com/)
-    - [ ] incluir imágenes
-- [loud objects](https://loudobjects.bandcamp.com/merch)
-    - [ ] incluir imágenes
-- [bandcamp](https://bandcamp.com/) 
+martes 22 de abril
+
+### - **[Bleep Labs](https://bleeplabs.com/)**
+
+![bleepLabs.collage](https://github.com/felix-rg416/dis8644-2025-1/blob/main/19-felix-rg416/sesion-07a/archivos/BleepLabs.collage.png)
+
+### - [loud objects](https://loudobjects.bandcamp.com/merch)
+  - [ ] incluir imágenes
+### - **tarjeta de presentación misaa**
+
+![misaa.collage](https://github.com/felix-rg416/dis8644-2025-1/blob/main/19-felix-rg416/sesion-07a/archivos/misaa.collage.png)
+
+### - **subaquatic**
+
+![subaquatic.collage](https://github.com/felix-rg416/dis8644-2025-1/blob/main/19-felix-rg416/sesion-07a/archivos/SUBAQUATIC.collage.png)
+
+### - **gerassic organ**
+
+![gerassicOrgan.collage](https://github.com/felix-rg416/dis8644-2025-1/blob/main/19-felix-rg416/sesion-07a/archivos/GerassicOrgan.collage.png)
+
+- [bandcamp](https://bandcamp.com/)
 - [uva robot](https://uvarobot.bandcamp.com/) - mezclaron dos palabras que la gente no mezclaría
 - Diego Lorenzini
 - Los varios artistas
 - [roy macdonald](https://github.com/roymacdonald)
-- rafael lozano hemmer
-- [open frameworks](https://openframeworks.cc/) - programación nivel dios, cuando la programación no alcance tus sueños 
+- rafael lozano-hemmer
+- [open frameworks](https://openframeworks.cc/) - programación nivel dios, cuando la programación no alcance tus sueños
 - [future sketches](https://www.media.mit.edu/groups/future-sketches/overview/)
-- [Simulador de cirguitos](https://www.falstad.com/circuit/circuitjs.html)
+- [Simulador de ciruitos](https://www.falstad.com/circuit/circuitjs.html)
 
 - Googlear componentes:
-  - [victronics](https://www.victronics.cl/)
-  - [mousser](https://www.mouser.cl/)
+  - victronics <https://www.victronics.cl/>
+  - mouser <https://www.mouser.cl/>
 
 - CSV - archivo de tablas (se puede usar con excel - probar con GitHub)
 - La caverna de Platón
-- [clacktronics](https://clacktronics.co.uk/) TODO MUY LOCO - ME ENCANTA
-- [una placa al mes si eres miembro](https://boldport.com/club) 
-- [mandar a hacer las placas](https://jlcpcb.com/)
+- <https://clacktronics.co.uk/> TODO MUY LOCO - ME ENCANTA
+- una placa al mes si eres miembro <https://boldport.com/club>
+- mandar a hacer las placas <https://jlcpcb.com/>
 
-La belleza de la protoboard "Me gusta que las cosas puedan fallar" - Aarón
+La belleza de la protoboard *"Me gusta que las cosas puedan fallar"* - Aarón
 
-## kicad 
+-----
+
+# kicad
 
 Palabra importantísima - **COMPONENTE**
 
@@ -39,11 +56,8 @@ tiene 3 características: - **Valor** / - **Símbolo** / - **rating** (cuanto ag
 - Condensador de disco los nuestros
 - [Diodo](https://www.mouser.cl/ProductDetail/onsemi-Fairchild/1N4148?qs=i4Fj9T%2FoRm8RMUhj5DeFQg%3D%3D)
 - Potenciómetro RK163
-  
-### esquema
 
-qué componentes hay, cómo se ocupan, cómo se interconectan, qué valores tienen
-
+### comandos
 
 - Añadir símbolos [A]
 - Rotar [R]
@@ -53,34 +67,56 @@ qué componentes hay, cómo se ocupan, cómo se interconectan, qué valores tien
 - Dublicar [comand + D]
 - Wire (cable) [W]
 - Marca de no conectado [Q]
-- **Ctrl + S** GUARDAR "yo no confío en nadie, sólo en mi ctrl + S 5 veces cada 5 segundos" - Misa
 - Información completa del componente [E]
 - Reflejo en eje X [X]
 - Reflejo en eje y [Y]
 - Tecto [T]
 - Buscar [Ctrl + F]
-- Anotar esquema (la barra de arriba) "No es necesario leer tanto" Misa
-- Control de reglas eléctricas (barra de arriba) ERC
-- Asignación de huellas (barra superior)
+- **Ctrl + S** GUARDAR *"yo no confío en nadie, sólo en mi ctrl + S 5 veces cada 5 segundos"* - Misa
 - visor 3D [Alt + 3]
 
+## esquema
+
+qué componentes hay, cómo se ocupan, cómo se interconectan, qué valores tienen
 
 - Círculo en la punta de un componente = el componente está disponible para ser conectado
-- THT = 
+- THT = through hole technology - método para montar los componentes en una PCB, se meten las patitas de los componentes en los orificios de la placa y soldándolos por el lado contrario
 
-### dibujo SCH (esquemático)
+- **Anotar esquema (la barra de arriba) :** rellena indicadores de referencia de los símbolos del esquema
 
-### huellas
+*"No es necesario leer tanto"* - Misa
+
+![antorar-esquema](https://github.com/felix-rg416/dis8644-2025-1/blob/main/19-felix-rg416/sesion-07a/archivos/anotar-esquema.collage.png)
+
+- **Control de reglas eléctricas (barra de arriba) ERC :** muestra errores en las conexiones del esquema
+
+![erc](https://github.com/felix-rg416/dis8644-2025-1/blob/main/19-felix-rg416/sesion-07a/archivos/ERC.collage.png)
+
+- **Asignación de huellas (barra superior) :** herramienta que asigna un objeto real al símbolo
+
+![asignar.huellas](https://github.com/felix-rg416/dis8644-2025-1/blob/main/19-felix-rg416/sesion-07a/archivos/asiganr-huellas.collage.png)
+
+- **ajustar grilla :** distancia de puntos guía
+
+![girlla](https://github.com/felix-rg416/dis8644-2025-1/blob/main/19-felix-rg416/sesion-07a/archivos/grilla.png)
+
+
+## dibujo SCH (esquemático)
+
+## huellas
 
 Pitch = [P] = distancia entre patitas
- 
-- Asignación de huellas (barra superior)
-- Biblioteca del centro = Mis componentes
-- Seleccionar mi componente a cambiar ---> en la sección derecha sseleccionar las medidas
 
-### ruteo
+- Asignación de huellas (barra superior) : herramienta para determinar un componente al símbolo (en la sesion-07b están los componentes que solemos usar)
+  - Biblioteca del centro = Mis componentes
+  - Seleccionar mi componente a cambiar --> en la sección derecha sseleccionar las medidas
 
-##### 7 capas
+![asignar-huellas](https://github.com/felix-rg416/dis8644-2025-1/blob/main/19-felix-rg416/sesion-07a/archivos/asiganr-huellas.collage.png)
+
+
+## ruteo
+
+## 7 capas
 
 - F.Cu (capa superior de cobre)
 - Edges.Cut

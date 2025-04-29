@@ -36,17 +36,16 @@ Mi favorito fue el **sintetizador Moog**, ya que había investigado sobre ello e
 
 ![WhatsApp Image 2025-04-12 at 4 03 48 PM](https://github.com/user-attachments/assets/76f667cd-a4b5-476a-82a8-bb706b92b750)
 
- ## Encargo 10: Switched on bach
+## Encargo 10: Switched on bach
 
-**Switched on bach** es un álbum musical de la compositora **Wendy Carlos**, en 1968 el cual reúne piezas musicales del músico, y director de orquesta **Johann Sebastian Bach**, interpretadas por un **sintetizador Moog**. Siendo un álbum aclamado por la Academia en el año 1970, donde **obtuvo tres grammys.** Mucho más allá de cómo suena el disco, me gusto mucho realizar este análisis ya que, de todos los que hemos hecho hasta ahora, es el primero que se nombra a una mujer como **pionera en la industria musical.**
-
+**Switched on bach** es un álbum musical de la compositora **Wendy Carlos**, en 1968 el cual reúne piezas musicales del músico, y director de orquesta **Johann Sebastian Bach**, interpretadas por un **sintetizador Moog**. Siendo un álbum aclamado por la Academia en el año 1970, donde **obtuvo tres premios Grammy.** Mucho más allá de cómo suena el disco, me gusto mucho realizar este análisis ya que, de todos los que hemos hecho hasta ahora, es el primero que se nombra a una mujer como **pionera en la industria musical.**
 
 ![wendy carlos](https://github.com/user-attachments/assets/ad20dc5a-34b3-4659-b622-0636dd032a60)
 
-
 ## Encargo 11: Bajando opacidad a la caja negra
 
-Comenzamos buscando un aparato electrónico como grupo, y nos decimos por un **Dron de juguete con sensor de proximidad**
+Comenzamos buscando un aparato electrónico como grupo, y nos decimos por un **Dron de juguete con sensor de proximidad**.
+
 Este aparato  es una pelota voladora de plástico, la cual **se estabiliza al detectar la palma de la mano** debajo de este debido al **sensor infrarrojo led** que posee.
 
 ![WhatsApp Image 2025-04-06 at 5 00 23 PM](https://github.com/user-attachments/assets/3770de5b-53af-4505-88a0-d38c7080178d)
@@ -87,4 +86,4 @@ Este aparato obtiene su energía por medio de una **batería**, la cual se puede
 | Sensor de prox|   1           |
 | Entrada de carga| 1           |  
 
-- En general nos costó mucho encontrar tanto los valores, como los nombres de los componentes, ya que fueron borrados por los fabricantes:(
+- En general nos costó mucho encontrar tanto los valores, como los nombres de los componentes, ya que fueron borrados por los fabricantes :(

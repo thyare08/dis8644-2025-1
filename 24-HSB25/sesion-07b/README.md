@@ -1,18 +1,18 @@
 # sesion-07b
 
-# ENCARGO 14: Diseñar Esquematico en KiCad
+## ENCARGO 14: Diseñar Esquematico en KiCad
 
 Diseñar esquemático en Kicad (solamente esquemático, no asignar huellas) de Atari Punk Console con modificaciones que ustedes realizaron en KiCAD, o en su versión base si sus modificaciones no funcionaron al 100%.
 
-![ATARI PUNK CONSOLE](https://raw.githubusercontent.com/HSB25/dis8644-2025-1/refs/heads/main/24-HSB25/sesion-07b/ATARI%20PUNK%20CONSOLE.png)
+![ATARI PUNK CONSOLE](./archivos/atari-punk-console.png)
 
-# ENCARGO 15: Plantear 2 Dudas o aprendizajes importantes
+## ENCARGO 15: Plantear 2 Dudas o aprendizajes importantes
 
 - **Aprendizaje 1:** Importancia de las huellas (footprints) en el diseño de PCBs
 
 El manual destaca la relevancia de las "huellas" o footprints, que representan el espacio físico y las conexiones utilizadas por un componente electrónico en la placa de circuito impreso (PCB). Comprender y asignar correctamente las huellas es esencial para garantizar que los componentes se monten adecuadamente en la PCB y que el diseño sea funcional.​
 
-- **Aprendizaje 2:** 
+- **Aprendizaje 2:**
 
 Aplicando los conocimientos del manual, es posible emprender el diseño de una consola de videojuegos reconocida, como la **NES** o la **Game Boy**, utilizando **KiCad**. Esto implicaría:​
 
@@ -22,12 +22,11 @@ Aplicando los conocimientos del manual, es posible emprender el diseño de una c
 
 - Generar los archivos Gerber necesarios para la fabricación de la placa PCB.​
 
-
 Este enfoque no solo refuerza los conceptos aprendidos, sino que también proporciona una experiencia práctica en el diseño de sistemas electrónicos complejos.​
 
 Diseñar una consola portátil como el Game Boy implica una serie de pasos en electrónica que se pueden abordar con KiCad, y el Manual de supervivencia es una herramienta perfecta para iniciarte y avanzar con bases sólidas.
 
-# 1. Diseño del esquemático (idea principal)
+## 1. Diseño del esquemático (idea principal)
 
 ➤ ¿Qué enseña el manual?
 El manual te guía en:
@@ -51,7 +50,7 @@ Regulador de voltaje para una batería recargable.
 
 Una pequeña tarjeta SD o memoria flash para guardar juegos.
 
-# 2. Asignación de huellas (footprints)
+## 2. Asignación de huellas (footprints)
 
 ➤ ¿Qué enseña el manual?
 El manual explica cómo:
@@ -69,7 +68,7 @@ Los puertos USB, ranuras microSD y conectores de batería también deben tener h
 
 Esto es fundamental para asegurarte que cuando mandes a fabricar la placa, los componentes encajen y funcionen.
 
-# 3. Diseño de la PCB
+## 3. Diseño de la PCB
 
 ➤ ¿Qué enseña el manual?
 Cómo mover los componentes del esquemático a un plano físico.
@@ -83,7 +82,7 @@ Podrías colocar la pantalla en el centro, los botones a los lados, la batería 
 
 Es como diseñar el circuito y la carcasa al mismo tiempo.
 
-# 4. Generación de archivos Gerber para fabricar tu Game Boy
+## 4. Generación de archivos Gerber para fabricar tu Game Boy
 
 ➤ ¿Qué enseña el manual?
 Cómo generar archivos Gerber, los cuales las fábricas de PCBs necesitan para producir tus placas.
@@ -95,7 +94,7 @@ Generas los archivos y los subes a sitios como JLCPCB, PCBWay o OSH Park.
 
 Puedes mandar a hacer una placa personalizada que funcionará como la base de tu consola portátil.
 
-# 5. Pruebas, montaje y carcasa (fuera de KiCad, pero relacionado)
+## 5. Pruebas, montaje y carcasa (fuera de KiCad, pero relacionado)
 
 Usas impresora 3D o laser cut para crear una carcasa similar a un Game Boy.
 
@@ -103,34 +102,26 @@ Soldas los componentes en la PCB (guiado por los archivos del proyecto).
 
 Puedes incluso usar software de emulación para correr juegos simples (como Tetris o Pong).
 
-# Ejemplo real:
+## Ejemplo real
 
 Hay proyectos similares disponibles en internet. Aquí te dejo uno inspirado en una consola portátil hecha con KiCad:
 
-Proyecto de Game Boy DIY: https://hackaday.io/project/18896-game-boy-zero
+Proyecto de Game Boy DIY: <https://hackaday.io/project/18896-game-boy-zero>
 
-PCB para consola portátil con ESP32: https://github.com/biaslab/esp32-game-console
+PCB para consola portátil con ESP32: <https://github.com/biaslab/esp32-game-console>
 
-
-# APUNTES CLASES 25 ABRIL
+## APUNTES CLASES 25 ABRIL
 
 En esta clase continuamos trabajando con KICAD, donde aprendimos a agregar huellas o bibliotecas personalizadas, algo así como los "mods" en Minecraft, ¡jajaja!
 
-Pudimos insertar un modelo del Chip 555, lo que permitió organizar mejor los diagramas y hacerlos más ordenados. Después, MISA, nuestro profesor, empezó a crear un diagrama y nosotros lo replicamos junto a él para asegurarnos de no perdernos en el proceso. 
+Pudimos insertar un modelo del Chip 555, lo que permitió organizar mejor los diagramas y hacerlos más ordenados. Después, MISA, nuestro profesor, empezó a crear un diagrama y nosotros lo replicamos junto a él para asegurarnos de no perdernos en el proceso.
 
 También nos enseñaron cómo cambiar los valores y nombres predeterminados, lo que nos ahorra tiempo al no tener que ingresar un nombre cada vez. Ahora tenemos un receso hasta las 11:00 y esto es lo que hemos avanzado hasta el momento.
 
-![avanceclases](https://raw.githubusercontent.com/HSB25/dis8644-2025-1/refs/heads/main/24-HSB25/sesion-07b/avanceclases.png)
+![avanceclases-00](./archivos/avanceclases-00.png)
 
-Despues pudimos avanzar en el modelado 3D de la placa para poder darle diseño o una vista mas real
+Después pudimos avanzar en el modelado 3D de la placa para poder darle composición o una vista mas real
 
-![3dplaca](https://raw.githubusercontent.com/HSB25/dis8644-2025-1/refs/heads/main/24-HSB25/sesion-07b/avanceclases2.png)
+![avanceclases-01](./archivos/avanceclases-01.png)
 
-![placa3](https://raw.githubusercontent.com/HSB25/dis8644-2025-1/refs/heads/main/24-HSB25/sesion-07b/avanceclases3.png)
-
-
-
-
-
-
-
+![avanceclases-02](./archivos/avanceclases-02.png)

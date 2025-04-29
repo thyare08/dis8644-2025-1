@@ -1,6 +1,6 @@
 # sesion-07a
 
-# APUNTES CLASES MARTES 22 ABRIL
+## APUNTES CLASES MARTES 22 ABRIL
 
 Durante la clase, llegué con un poco de retraso, pero al incorporarme, estábamos conversando sobre KiCad, específicamente acerca del proceso de instalación de la aplicación en nuestros computadores. En mi caso, tal como mencioné en mi encargo, la instalación tomó algo de tiempo, aunque no fue excesivamente prolongada.
 

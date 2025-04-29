@@ -54,5 +54,3 @@
 <div align="left">
   <img height="500" src="https://media.discordapp.net/attachments/1248658110625742862/1360283866421788762/image.png?ex=67fa8e92&is=67f93d12&hm=b5d912d3b7b277f9db090f1baa2ab01a7cbad236b377f8b863530c437bf1d3c7&=&format=webp&quality=lossless&width=2204&height=791"  />
 </div>
-
-###

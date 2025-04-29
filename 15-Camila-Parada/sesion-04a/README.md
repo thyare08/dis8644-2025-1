@@ -1,15 +1,11 @@
 # ⋆₊˚⊹♡ Clase 04a - Primeros avances ♡⊹˚₊⋆
 
-##### _Martes 1/04/2024_
+Martes 1/04/2024
 
 ***
 
-### Observaciones
+## Observaciones
 
-<!---Recordar para programar "md" (markdown): 
-- https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet 
-- https://www.markdownguide.org/basic-syntax/
-- El Domingo 30 de marzo cumplí 25... no se porqué me gustaría sentirme orgullosa de ello, que se me reconociera --->
 El primer periodo se buscó recrear uno circuitos vistos antes de la clase anterior, a la par que hablar sobre la visita a la exposición del MAC en Quinta normal. Más tarde se nos presentó un diagrama eléctrico de "Atari Punk Console", el cual cada estudiante tuvo que descifrar para poder construirlo con las piezas entregadas en clase. A su vez, se habló de las solemnes, las notas que serán parte del curso y la importancia de registrar cada avance, descubrimiento, desastre, etc. Absolutamente todo. Antes de terminar con la clase, quedamos de formar equipos de 2 a 3 personas para realizar la primera solemne, cuya primera fase es encontrar un objeto electrónico, desarmarlo para aprender lo más posible de ella (ingeniería inversa) y usar estos conocimientos para inspirarnos en posibles ideas para las máquinas que podamos desarrollar a futuro.
 
 ***
@@ -78,4 +74,4 @@ Estoy cansada Profe ૮◞ ﻌ ◟ა
 
 ***
 
-##### _°˖✧◝(⁰▿⁰)◜✧˖°_
+°˖✧◝(⁰▿⁰)◜✧˖°
