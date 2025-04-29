@@ -1,5 +1,4 @@
 # sesion-06a
-# sesion-06a
 
 15 de Abril de 2025.
 
@@ -75,3 +74,16 @@ https://github.com/user-attachments/assets/1dfc053f-26e3-40d8-8d1e-b993af6207fa
 | Batería                   | Batería                    | 9V    | 1        |
 | Altavoz                   | LS1 Speaker                | 8Ω    | 1        |
 | Protoboard                |                            |       | 2        |
+
+# Encargo: Instalar Kicad
+  - Versión: 9.0.1
+  - Sistema operativo: Sistema operativo de 64 bits, procesador basado en x64
+  - Windows: 11
+  - Ubicación de la aplicación: Este equipo > Archivos de programación > Kicad
+
+![Captura de pantalla 2025-04-28 135858](https://github.com/user-attachments/assets/2fbc7bbc-632c-4d6d-9034-9beff0f7d770)
+
+# Encargo 2: Ver documental Sisters with transistors
+  - Mis artitas favoritas fueron Delia Derbyshire y Bebe Barron
+  - Disco escuchado:
+  - 

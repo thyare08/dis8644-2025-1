@@ -2,7 +2,7 @@
 
 continuamos con kicad
 
-Me mande una embarrada y instale el kicad 7 en vez de la version mas reciente kicad 9
+Me mandé una embarrada e instalé el kicad 7 en vez de la version mas reciente kicad 9
 
 Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal
 
@@ -26,6 +26,7 @@ Al PCB se le puede dar diversas formas exportandolas desde otros programas (fush
 
 ARC: permite redondar bordes placa
 VIA: es un pequeño orificio perforado en la PCB que permite la conexión eléctrica entre diferentes capas del PCB
+
 HUELLAS 
 
 completar apuntes!!!!
@@ -82,3 +83,6 @@ Envío por DHL: Aunque es caro, los tiempos de entrega son más rápidos. Lo ide
 
 ## encargo-17: cotizar udpudu en JLCPCB de forma experimental
 probar opciones que no entiendan, documentar otros parámetros que no conozcan aún.
+=======
+
+

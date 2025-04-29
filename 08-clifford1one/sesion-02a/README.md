@@ -2,7 +2,7 @@
 
 ## Apuntes
 
-https://www.figma.com/board/2tv4jx75qGZa6Gua2UCVer/taller.maq.electr?node-id=0-1&t=6yhYUOzb6bTK2Cu1-1
+<https://www.figma.com/board/2tv4jx75qGZa6Gua2UCVer/taller.maq.electr?node-id=0-1&t=6yhYUOzb6bTK2Cu1-1>
 
 ![alt text](tme-02a-apunte.intro.png)
 
@@ -10,7 +10,7 @@ https://www.figma.com/board/2tv4jx75qGZa6Gua2UCVer/taller.maq.electr?node-id=0-1
 
 ![alt text](tme-02a-apunte.rlvnt.png)
 
-## Encargo Musical
+## encargo-02: Encargo Musical
 
 pueblo nuevo:
 DANCE - Música Inmobiliaria
@@ -23,12 +23,9 @@ Mientras lo escuchaba estaba explorando con la protoboard, y las canciones no ll
 
 El álbum en general me gustó, todas las canciones me parecen agradables, la única que añadiría a mi playlist sería el 3er track “givi tumi”.
 
+## encargo-03: AVANCE EXPLORATORIO
 
-
-## AVANCE EXPLORATORIO
-
-
-Materiales a dispoisición: 
+Materiales a dispoisición:
 
 Esta es mi cajita de componentes, la quiero mucho <3
 
@@ -42,19 +39,17 @@ Conexión con un led
 
 ![alt text](nivel1-diagrama.png)
 
-
 ### NIVEL 2
 
 Conexión paralela y en serie
 
-# PARALELA
+#### PARALELA
 
 ![alt text](nivel2-foto.paralelo.jpg)
 
 comparten voltaje, se dividen la corriente. (por lo tanto, mientras más leds, menos brilla c/u de ellos)
 
-
-# SERIE
+#### SERIE
 
 ![alt text](nivel2-foto.serie.jpg)
 
@@ -88,7 +83,6 @@ Pruebas:
 
 ![alt text](nivel4-foto2.jpg)
 
-
 ## Encargo 05: RESISTORES
 
 fuente: <https://eepower.com/resistor-guide/resistor-fundamentals/what-is-a-resistor/#>
@@ -97,7 +91,7 @@ Los resistor o resistencia, son componentes pasivos los cuales generan una resis
 
 Existen 2 tipos de resistor, los variables y fijos.
 
-Fijos: Son los que conocemos como un centro cerámico con 2 pines. Estos cuentan con sistema de color para identificar su valor. Tienen entre 4 y 5 lineas de color, donde cada una significa algo. 
+Fijos: Son los que conocemos como un centro cerámico con 2 pines. Estos cuentan con sistema de color para identificar su valor. Tienen entre 4 y 5 líneas de color, donde cada una significa algo.
 
 <https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-resistor-color-code>
 

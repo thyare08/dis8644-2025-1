@@ -26,7 +26,7 @@ El legado de Swartz sigue vivo, inspirando a una nueva generación de activistas
 
 - Protoboard
 
-![Protoboard](https://github.com/user-attachments/assets/6dcdc6ae-fe2c-44b1-80fb-113f7405331f)
+![Protoboard](./archivos/e03_1.png)
 
 > Un protoboard *(o placa de pruebas)* es un dispositivo reutilizable que se usa para prototipar circuitos eléctricos. Permite que los ingenieros, estudiantes y aficionados de la electrónica puedan rápidamente construir y probar circuitos sin conexiones permanentes. La placa tiene una grilla de agujeros con tiras de metal debajo que crean estas conexiones eléctricas.
 
@@ -34,7 +34,7 @@ Como parte de su historia, el concepto de un protoboard sin soldadura se remonta
 
 - Cables dupont
 
-![Cables DuPont](https://github.com/user-attachments/assets/da600226-9f98-4cb9-82e1-d8440fbf661b)
+![Cables DuPont](./archivos/e03_2.png)
 
 > Estos son cables puente flexibles y aislados con conectores doblados en cada extremo. Se usand para hacer conexiones rápidas y temporales en circuitos electrónicos. Vienen en 3 tipos: macho a macho, macho a hembra, y hembra a hembra, permitiendo una fácil interconexión entre componentes, protoboards, y microcontrollers.
 
@@ -42,7 +42,7 @@ El término "*cables Dupont*" viene de la DuPont Corporation, quienes populariza
 
 - Resistencias
 
-![Resistor](https://github.com/user-attachments/assets/9d9ebd1b-3f6c-4e5a-8066-cd8e29471111)
+![Resistor](./archivos/e03_3.png)
 
 > Una resistencia *(o resistor)* es un componente electrónico que limita o regula el flujo de la corriente eléctrica en un circuito. Funciona según la *ley de Ohm*, donde la resistencia determina cuánto voltaje pasa por una corriente dada. Se usan para la división de voltaje, limitar la corriente, acondicionamiento de señales, entre otros.
 
@@ -50,7 +50,7 @@ Las primeras resistencias estaban hechas de materiales como carbón o aleaciones
 
 - Luces LED
 
-![LED](https://github.com/user-attachments/assets/092432d0-b568-43f2-94c2-c5232f347806)
+![LED](./archivos/e03_4.png)
 
 > LED es una sigla de *Light-Emitting Diode* (diodo emisor de luz). Estas luces son dispositivos semiconductores que emiten luz cuando una corriente elécrica pasa a través de ellas. A diferencia de las luces fluorescentes o incandescentes, las luces LED son altamente eficientes, durables y disponibles en distintos colores y niveles de brillo.
 
@@ -58,7 +58,7 @@ El efecto LED fue observado en 1907 por Henry Joseph Round, pero los LED prácti
 
 - Fotorresistencia
 
-![LDR](https://github.com/user-attachments/assets/39675559-d9ab-4a96-9793-403ae7f99a7e)
+![LDR](./archivos/e03_5.png)
 
 > También conocida como LDR *(Light Dependent Resistor)*, es un tipo de resistor cuya resistencia cambia basado en la intensidad de la luz que cae sobre él. Cuando se expone a luz brillante, su resistencia disminuye, permitiendo que fluya más corriente; mientras que en la oscuridad, su resistencia aumenta, reduciendo el flujo de corriente. Generalmente se usan en sistemas de iluminación automatizada y alarmas de seguridad.
 

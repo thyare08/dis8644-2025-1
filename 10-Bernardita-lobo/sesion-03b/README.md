@@ -19,21 +19,21 @@
 ![foto19](https://github.com/user-attachments/assets/31c52a92-ea47-4b32-ba07-a9b23b5ed794)
 ![foto20](https://github.com/user-attachments/assets/e1725458-b276-4181-9756-b477db835a50)
 
-## Encargo
+## encargos
 
-### 08-Cultura musical nacional
+### encargo-08: cultura musical nacional
 
 - gonzalo martínez y sus congas pensantes
 - por jorge gonzález y dandy jack
-- video "jorge gonzález habla del disco gonzalo martínez" https://youtu.be/MGBKucEQzwk?si=bGuyuFHy3gRyJhxA
-- video "gonzalo martínez y sus congas pensantes" https://youtu.be/owdi6iuhx9k?si=iSjnu-mXeoPZjEeD
+- video "jorge gonzález habla del disco gonzalo martínez" <https://youtu.be/MGBKucEQzwk?si=bGuyuFHy3gRyJhxA>
+- video "gonzalo martínez y sus congas pensantes" <https://youtu.be/owdi6iuhx9k?si=iSjnu-mXeoPZjEeD>
 - cumbia electrónica para acercar la musica electrónico a sudamérica
 - jorge gonzález aprendió a utilizar el sintetizador con la pollera amarilla
-- en un principio no tuvo tanto éxito porque el público esperaba música más del estilo de los prisioneros
+- en un principio no tuvo tanto éxito porque el público esperaba música más del estilo de los prisioneros.
 
 ![foto23](https://github.com/user-attachments/assets/12a8a261-94ed-46ee-937b-19d2443d4a4f)
 
-### 09-Apuntes sobre visita al museo de arte contemporáneo
+### encargo-09: Apuntes sobre visita al museo de arte contemporáneo
 
 - ¿cómo se relaciona la electrónica con el arte?
 - exposición museo en estéreo
@@ -42,8 +42,8 @@
 
 ### ¿Cómo comenzó el arte electónico?
 
-- video "historia del arte digital, curso de dibujo digital" https://youtu.be/Yix028HJAyc?si=uyMaQ6E4KkcW0_8h
-- video "arte vs nuevas tecnologías. el origen documental" https://youtu.be/AC0_wE5L4xc?si=ClOmJyXgqM0RGPVv
+- video "historia del arte digital, curso de dibujo digital" <https://youtu.be/Yix028HJAyc?si=uyMaQ6E4KkcW0_8h>
+- video "arte vs nuevas tecnologías. el origen documental" <https://youtu.be/AC0_wE5L4xc?si=ClOmJyXgqM0RGPVv>
 - por los años 1940 surgen nuevos paradigmas tecnológicos como la programación, sistemas generativos, software libre, código abierto y la composición basada en el azar.
 - a esto le llamamos arte de los nuevos medios, el cual puede ser arte digital, electrónico, multimedia y arte interactivo
 - el arte digital en la decada de 1960-1970, surge después de la guerra, principalmente se basaba en algoritmos, imágenes hechas por computadoras e imágenes aleatorias.
