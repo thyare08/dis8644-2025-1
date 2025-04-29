@@ -46,8 +46,11 @@
 -----------------------------------------------------------------------------------------------------------
 ## Encargo 16
 ### UDPudu (hacerse una cuenta en JLCPCB y cotizar udpudu, para 30 personas, documentar cada parámetro y elección.)
-> <img align="left" src="./files/udpudu-F.png" width=460><img align="left" src="./files/udpudu-B.png" width=460> <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+> <img align="left" src="./files/udpudu-F.png" width=460><img align="left" src="./files/udpudu-B.png" width=460> <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 >
+> Considerando 1 PCB por persona (30 PCBs total), El precio de la orden sería de $14.70 USD + envío ($14.03 USD - $39.11 USD) o $0.95 USD - $1.80 USD por cada PCB <br/>
+>
+> Si se consideran 5 PCBs por persona (150 PCBs total), El precio quedaría en $40.40 USD + envío ($71.80 USD - $90.41 USD) o $0.75 USD - $0.87 USD por cada PCB <br/>
 -----------------------------------------------------------------------------------------------------------
 ## Encargo 17
 ### TITULO (probar opciones que no entiendan, documentar otros parámetros que no conozcan aún.)
