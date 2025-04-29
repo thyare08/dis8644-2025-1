@@ -70,3 +70,20 @@ JLCPCB capas
 ## encargo-17
 
 probar opciones que no entiendan, documentar otros parámetros que no conozcan aún.
+
+base
+
+![base](https://github.com/user-attachments/assets/d7f32679-ce29-41d6-a4a5-dead61cca635)
+
+![basept2](https://github.com/user-attachments/assets/c196114d-2ee5-4877-8b14-19b1d23d284a)
+
+cambios 
+
+1
+
+![prueba1](https://github.com/user-attachments/assets/50d97f0e-6b07-417f-9eba-252bcfb74e27)
+
+
+2
+
+![prueba2](https://github.com/user-attachments/assets/a5ce5760-e82b-481d-ab02-ea4188259a4a)
