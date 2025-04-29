@@ -16,5 +16,8 @@ software de modelado 3D basado en código que permite crear objetos 3D usando un
 
 # github desktop
 
-- clonar mi fork 1 vez
-- synk 
+1. clonar mi fork 1 vez
+2. synk desde la web si estoy behind
+3. FETCH en el desktop
+4. PULL en desktop - descarga todos los archivos nuevos
+5. editar, agregar carpetas, archivos 
