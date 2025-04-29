@@ -29,5 +29,13 @@ llegué temprano, había poquita gente, en la primera media hora entre 8:30 a 9:
 -  si es una issue para bitácora, en new issue usamos la de bitácora y si es de encargo usamos la de encargo
 -  al abrirlo, en número de estudiante pongo mi número y sesión ej hoy, 8a
 -  entonces todos los problemas, reclamos que tengamos, los pondremos en los issues
+-  APARECIÓ RAFITA STUDIO EN LA CLASE!!!!!!
+-  @madbuton en github increíble repositorio, nos dieron stickers del lab de interacción digital épico
+-  **ahora está hablando misaa sobre cambios que hicieron en la pcb**
+-  agregaron un icono de parlante
+-  perforaron las esquinas con círculos
+-  cómo perforamos? ---> en edgecuts
+-  en la capa esquemático necesitamos agregar un componente que se llama mounting hole
+-  los mountinghole son agujeros
 -  
   
