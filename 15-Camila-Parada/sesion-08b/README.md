@@ -19,6 +19,10 @@ Planeo dedicar estas "hojas"/ archivos digitales para ir documentando todo lo qu
 
 <br>
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam aliquet.
+
+<br>
+
 ***
 
 ### Posdata
