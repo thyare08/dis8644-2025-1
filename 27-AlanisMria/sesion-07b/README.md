@@ -8,8 +8,10 @@ Variación de Atari punk console, con potenciometro y pulsador
 
 ![Variación Atari punk console](https://github.com/user-attachments/assets/725fb0ee-8c2a-415e-917e-7e6fd51f7bae)
 
-Archivo KiCad del esquema
-[Uploading ~atari punk {"hostname":"ALANIS","username":"alani"}console variación.kicad_sch.lck…]()
+Archivo KiCad del esquema presente en los archivos de este apunte.
+
+![atari punk console variación](./archivo/atari punk console variación)
+
 
 KiCad
 
