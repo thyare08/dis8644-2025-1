@@ -42,5 +42,7 @@ de todas formas en base a la clase online subiré mis apuntes
 - ahora agregaremos un caimán, lo buscamos como conn y debe ser 01x01 que es de 1 pin
 - a raiz de una pregunta de felix de cual es la diferencia entre este y el socket, misaa responde que uno es una punta y el otro es un hoyito para colocar una punta, a raiz de esto aaron responde que está lleno de este lenguaje de "que se mete dentro de que, que sigue aqui" y habla sobre un blog que se llama cdm.link que hablan de un esfuerzo para destruir todo este lenguaje violento que se utiliza en este mundo
 - colocamos el pin 01x01 con el circulito hacia la derecha
+- socket es lo opuesto a pin
+- pondremos 01x01 socket, utilizaremos 2
 - 
   
