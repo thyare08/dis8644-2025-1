@@ -1,6 +1,6 @@
 # sesion-07a
 
-## Aprendiendo Kicad
+## Aprendiendo KiCad
 
 ![20250422_123445](https://github.com/user-attachments/assets/047e6d9a-ef02-4c7f-8f4d-fcf7a49c621c)
 ![20250422_123417](https://github.com/user-attachments/assets/cbc818cf-fffe-43c9-8f43-294954b5cd73)
@@ -35,7 +35,7 @@
      
      • W = Para agregar línea
 
-## Kicad usa 7 capas
+## KiCad usa 7 capas
 
   1. Edge.Cuts = Contorno
   2. F.Cu = Frente
@@ -45,9 +45,9 @@
   6. F.Mask = Carcasa o capa frente (color de la placa)
   7. B.Mask = Carcasa o capa atrás (color de la placa)
 
-# Kicad en práctica
+# KiCad en práctica
 
-1. Mi primer Kicad: Esquemático hecho en clases
+1. Mi primer KiCad: Esquemático hecho en clases
 
 ![Captura de pantalla 2025-04-28 181342](https://github.com/user-attachments/assets/a24ebb27-ebb5-46ab-832b-b4f03a9ebd39)
 
@@ -69,5 +69,8 @@
 ![Captura de pantalla 2025-04-28 192330](https://github.com/user-attachments/assets/5f609c8e-8c7e-4354-a477-e4d4a012bcca)
 ![Captura de pantalla 2025-04-28 192403](https://github.com/user-attachments/assets/1ea0aae9-3d09-4830-b5ee-249ace23702c)
 
-# Encargo: Atari Punk Console en Kicad
+# Encargo 14: Atari Punk Console en KiCad
 
+![Captura de pantalla 2025-04-28 200255](https://github.com/user-attachments/assets/76fd99cb-483b-4128-91c0-cea343469708)
+
+# Encargo 15: Plantear 2 dudas y/o aprendizajes sobre el manual de supervivencia em KiCad
