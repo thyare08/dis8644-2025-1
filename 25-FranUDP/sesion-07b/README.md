@@ -31,8 +31,18 @@
 >
 > ### Other things
 >
+>> ### Símbolo v/s Footprint
+>> Si tenemos un componente que va conectado al circuito, pero no queremos ponerlo en la placa PCB, se le puede asignar el footprint de un conector, pins, "soldering pads", etc <br/><br/>
+>>
+>> ### SPDT
+>> <img align="left" src="./files/spdt.png" width=150> <br/> Es un interruptor de 2 posiciones, que en lugar de abrir o cerrar un circuito, puede hacer que un circuito esté abierto, mientras un segundo circuito está cerrado (no pueden estar ambos cerrados o abiertos a la vez) <br/><br/><br/><br/>
+>>
 >> ### Color del cable (sch)
 >> <img align="left" src="./files/wireC.png" width=450> <br/> @21-SebastianSaez1003 me mostró que en el modo esquemático se puede cambiar el color de los cables para que sea más facil diferenciarlos <br/><br/><br/>
+>>
+>> ### JST
+>> <img align="left" src="./files/JST-XH.jpg" width=450> <br/><br/><br/><br/><br/> Conector ámpliamente usado en la industria, pequeño y barato, similar a los conectores dupont pero con un mecanismo de retención que además previne que se inserte al revés <br/><br/> [DIY 3d print JST made by mi](link thinggyverse soon to come) <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+><br/>
 -----------------------------------------------------------------------------------------------------------
 ## Encargo 16
 ### TITULO (hacerse una cuenta en JLCPCB y cotizar udpudu, para 30 personas, documentar cada parámetro y elección.)
