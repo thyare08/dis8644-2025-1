@@ -64,3 +64,16 @@ Finalmente, el precio total aproximado quedaría en 65.47$ dólares americanos.
 ![3ra screenshot](./archivos/encargo16-(3).png)
 
 ## encargo-17: cotizar udpudu en JLCPCB de forma experimental
+
+Como cotización experimental, como material de base seleccioné el flexible, con la idea de que se podría ocupar de maneras interesantes al momento de crearle un case, aunque no estoy seguro de si los componentes no sufrirán alguna deformación.
+
+En cantidad pensé en 50 para poder tener una para cada persona del taller, más extra de personas que tal vez se interesaran en el lab de interacción digital.
+
+Ya que es un producto de consumo, no cambie este parámetro ni a aeroespacial ni a médica.
+
+En el espesor lo dejé en 0.12mm, que sería el punto medio para este tipo de PCB.
+
+El color lo cambié a negro, que aunque sea un aumento de casi 20 dólares en precio, se veía mucho mejor en mi opinión.
+
+![1ra screenshot](./archivos/encargo17-(1).png)
+![2da screenshot](./archivos/encargo17-(2).png)
