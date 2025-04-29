@@ -1,6 +1,7 @@
 # sesion-08a
 29 - 04 - 2025
 
+- 
 
 # openSCAD
 
