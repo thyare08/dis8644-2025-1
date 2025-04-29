@@ -66,11 +66,13 @@ Esta opción con base de aluminio es muy linda, aparte al buscar para que se usa
 fuente: <https://www.viasion.com/es/blog/aluminum-pcb-advantages-applications-capabilities/>
 
 
+
 Fue muy trascendental el cambio en el precio al implementar una base de cobre, descubrí que se usa porque tiene mejor conductividad y también tiene buena disipación térmica.
 
 ![baseCobre](https://github.com/user-attachments/assets/c58522f5-ea6e-4f92-a5d0-4002b9b41065)
 
 fuente: <https://hitechcircuits.com/es/copper-base-pcb-copper-core-pcb-hitech-circuits-co-limited/#:~:text=Las%20PCB%20a%20base%20de%20cobre%20se%20utilizan%20para%20aplicaciones,equipos%20de%20comunicaci%C3%B3n%20de%20precisi%C3%B3n.>
+
 
 
 La PCB flexible está compuesta en parte por polímeros flexibles y es usada para equipamiento médico, ropa, etc 
@@ -80,6 +82,7 @@ La PCB flexible está compuesta en parte por polímeros flexibles y es usada par
 fuente: <ttps://www.proto-electronics.com/es/blog/pcb-flex-ventajas-y-limitaciones>
 
 
+
 Estas PCB por lo que leí son usadas literalmente en la industria aeroespacial.
 
 ![flexibleAeroespacial](https://github.com/user-attachments/assets/0ce2df44-ed5c-48af-b10b-92586182eb0d)
@@ -87,9 +90,11 @@ Estas PCB por lo que leí son usadas literalmente en la industria aeroespacial.
 fuente:<https://es.pcbtok.com/PCB-aeroespacial/>
 
 
+
 En el caso de la HASL sin plomo, igual que la soldadura que usamos en clase la base soldable el acabado superficial de esta placa es libre de plomo, por lo tanto no es perjudicial para nuestra salud.
 
 ![HASLsinPlomoAluminio](https://github.com/user-attachments/assets/9c43af73-d0f0-4fe6-aa74-4bef4f5a5ac7)
+
 
 
 Las PCB de PTFE teflón resisten altas y bajas temperaturas, también la humedad y es un material aislante.
@@ -97,6 +102,7 @@ Las PCB de PTFE teflón resisten altas y bajas temperaturas, también la humedad
 ![PTFEteflón](https://github.com/user-attachments/assets/b1fe5b96-d732-41cd-b5e8-b46f9787aa6c)
 
 fuente: <https://www.ipcb.com/es/rfpcb/698.html>
+
 
 
 Lo que más me llamó la atención de los parámetros inferiores fueron los Dedos de oro, los cuales son áreas de placa enchapadas en oro para conectarlas con otras placas, estas por lo general se encuentran en los bordes, también sirven para proteger pines del desgaste.
