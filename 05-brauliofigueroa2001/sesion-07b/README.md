@@ -31,5 +31,8 @@ de todas formas en base a la clase online subiré mis apuntes
 - después de agregar la huella del parlante lo que falta es  GND Y VCC, no tienen huella porque no tienen forma física todavía
 ### parte 2: desarollo de esquemático
 - primero conectamos nuestra pata 1 del 555 a GND
-- 
+- creamos otro capacitor "C3" y lo conectamos a nuestra pata 5, el c3 va a GND
+- ahora pata 8 y pata 4 a VCC
+- conectamos pata 2 y pata 6 entre sí
+- duplico mi resistencia, ahora tengo R2 y la conecto a la pata 7, duplico un vcc y conecto mi resistencia R2 a este vcc
   
