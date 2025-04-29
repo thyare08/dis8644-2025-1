@@ -4,7 +4,7 @@ martes 18 marzo 2025
 
 ## apuntes
 
-- en github si tengo algun problema etiquetar a aaron con @ como en discord
+- en github si tengo algun problema etiquetar a aarón con @ como en discord
 _Wayback Machine (Archive.org):  Permite ver versiones antiguas de sitios web. Puedes encontrar de todo.
 _  se puede visualizar una protoboard en tinkercad
 - Los resistores son componentes eléctricos que se utilizan para controlar el flujo de corriente y el voltaje en los circuitos
@@ -24,7 +24,7 @@ Estilo: Ambient | Electro | Electronic | Synth-pop | Techno-Pop
 
 ![image](https://github.com/user-attachments/assets/42c0a133-3527-487e-85ba-d08aa40f32a2)
 
-Honestamente, terminé la semana reventado, y lo último que quería era escuchar algo largo. Cuando entré a la página de Pueblo Nuevo, fui a lo seguro, eligiendo géneros con los que ya estoy familiarizado (electro, dubstep, etc.). Escuché algunos temas de manera aleatoria, pero me resultó incómodo oír música electrónica con voces chilenas. No estoy seguro de qué fue exactamente lo que escuché, pero sonaba como si Kudai hiciera electro o algo similar. No aguanté ni un minuto antes de querer quitarlo (Como meclar ketchup con naranja o algo asi, lo sentí como una mezcla que para mí no termina agradándome)
+Honestamente, terminé la semana reventado, y lo último que quería era escuchar algo largo. Cuando entré a la página de Pueblo Nuevo, fui a lo seguro, eligiendo géneros con los que ya estoy familiarizado (electro, dubstep, etc.). Escuché algunos temas de manera aleatoria, pero me resultó incómodo oír música electrónica con voces chilenas. No estoy seguro de qué fue exactamente lo que escuché, pero sonaba como si Kudai hiciera electro o algo similar. No aguanté ni un minuto antes de querer quitarlo (Como mezclar ketchup con naranja o algo asi, lo sentí como una mezcla que para mí no termina agradándome).
 
 Hasta que encontré "Piano", el primer tema del álbum Electro Lines de Baradit. Es un tema muy ambiental. Hubo momentos en los que inevitablemente me recordó a la banda sonora de Hotline Miami, pero no en el sentido de la intensidad frenética y agresiva del juego, sino en esos pasajes donde la música crea una atmósfera hipnótica, envolvente y un poco introspectiva. Tiene un aire de sintetizadores con un tono retro-futurista, casi como si estuvieras en una ciudad iluminada por neones a medianoche, pero en una versión más pausada y contemplativa.
 
