@@ -18,7 +18,7 @@ Los links de los repositorios consultados son:
 - Docentes: https://github.com/Camila-Parada/dis8644-2025-1/tree/main/00-docentes/sesion-02a
 - 08-clifford1one: https://github.com/Camila-Parada/dis8644-2025-1/tree/main/08-clifford1one/sesion-02a
 - 19-felix-rg416:  https://github.com/Camila-Parada/dis8644-2025-1/tree/main/19-felix-rg416/sesion-02a
-- 23-duckusu: https://github.com/Camila-Parada/dis8644-2025-1/tree/main/23-duckusu/sesion-02a
+- 21-SebastianSaez1003: https://github.com/Camila-Parada/dis8644-2025-1/tree/main/21-SebastianSaez1003/sesion-02a
  
 <br>
 
