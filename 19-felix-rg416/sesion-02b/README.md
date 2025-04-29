@@ -18,6 +18,7 @@
 - **[plantillas para tablas markdown](https://www.tablesgenerator.com/markdown_tables)**
 
 ## BOM - Bill Of Materials
+
 | tipo        | Qty      | nombre/etiqueta | valor |
 |-------------|----------|-----------------|-------|
 | elemento    | cantidad |                 | V/Ohm |
@@ -33,7 +34,9 @@
 > consiste en ir sacando resistencias y ver qué pasa con las leds. se apaga o se mantiene prendida? aumenta o baja la luz?
 
 ### 00
+
 ![actividad 01](https://github.com/user-attachments/assets/532a6372-a573-4771-a146-bfd2b522acfc)
+
 | tipo         | Qty | nombre/etiqueta | valor     |
 |--------------|-----|-----------------|-----------|
 | resistencias | 3   | R1 R2 R3        | 1k        |
@@ -41,6 +44,7 @@
 | batería      | 1   | bat             | 9v        |
 
 ### 01
+
 | tipo         | Qty | nombre/etiqueta | valor        |
 |--------------|-----|-----------------|--------------|
 | resistencias | 5   | R1 R2 R3 R4 R5  | 220x4 - 1kx1 |
@@ -58,6 +62,7 @@
 | R5     | 1  | 0  | 0  | 1  |
 
 ### 02
+
 | tipo         | Qty | nombre/etiqueta   | valor     |
 |--------------|-----|-------------------|-----------|
 | resistencias | 6   | R1 R2 R3 R4 R5 R6 | 220       |
@@ -76,6 +81,7 @@
 | R6     |1   |1   |1   |1   |
 
 ### 03
+
 | tipo         | Qty | nombre/etiqueta         | valor        |
 |--------------|-----|-------------------------|--------------|
 | resistencias | 8   | R1 R2 R3 R4 R5 R6 R7 R8 | 220x5 - 1kx3 |
@@ -84,8 +90,8 @@
 
 ![LQXTLC 03](https://github.com/user-attachments/assets/097d8501-8685-42a6-ab02-fc31f5725958)
 
-| LQXTLC | D1 | D2 | D3 | 
-|--------|----|----|----|
+| LQXTLC | D1 | D2 | D3 |
+ |--------|----|----|----|
 | R1     | 1  | 0  |1   |
 | R2     |1   |1   |1   |
 | R3     |1   |0   |1   |

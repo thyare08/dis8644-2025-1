@@ -1,4 +1,5 @@
 # sesion-03a
+
 Apuntes y ejercicios con chip 555
 ![20250325_110822](https://github.com/user-attachments/assets/e4721a79-3839-4e30-9a0b-8731762dc306)
 ![20250325_115609](https://github.com/user-attachments/assets/48861815-9df6-4df0-b54d-6282637f2738)

@@ -42,7 +42,7 @@ Escuchar 1 disco de pueblonuevo.cl
 * Disco homónimo del proyecto conformado por el músico electrónico Daniel Nieto aka Danieto y Karenn González aka La Monine.
 * _Estilos_: Downtempo - Electronic - IDM - Nu Jazz - Pop
 * _«Un disco para olvidar lo estricto y monótono de nuestra sociedad, dedicado a espíritus hambrientos de libertad y fascinación.»_
-* Me gustó mucho este disco, con letras profundas que expresan sueños y fantasías; y el tipo de sonido da características de ser canciones envolventes, que para mi, son bien "amigables con el oído" y como dice el título da un ambiente apacible y acogedor sin importar que está dedicado a espíritus hambrientos. También lo siento como algo más contemporáneo y me da esa sensación de libertad y de una persona que fluye.
+* Me gustó mucho este disco, con letras profundas que expresan sueños y fantasías; y el tipo de sonido da características de ser canciones envolventes, que para mó, son bien "amigables con el oído" y como dice el título da un ambiente apacible y acogedor sin importar que está dedicado a espíritus hambrientos. También lo siento como algo más contemporáneo y me da esa sensación de libertad y de una persona que fluye.
 
 * Track List:
 
@@ -66,7 +66,7 @@ Tiempo total CD / CD total play: 53:59
 
 ![apacible](https://github.com/user-attachments/assets/a6e14f7d-cde1-4951-bc3a-34f3e9206274)
 
-## Encargo 05
+## encargo-05
 
 ![Img 9](https://github.com/user-attachments/assets/b63ea290-a1cc-4da1-b797-58ffe0722904)
 
