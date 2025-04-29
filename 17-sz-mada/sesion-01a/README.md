@@ -2,7 +2,7 @@
 
 11 de marzo del 2025
 
-## Encargo 00 - Introducción a la electrónica
+## encargo-00 - Introducción a la electrónica
 
 ### Barrio Universitario (2013)
 
@@ -22,4 +22,4 @@ En su época, mientras bandas como Pink Floyd usaban sintetizadores dentro del r
 
 ## Encargo 01 - Mi caja negra y yo
 
-![Encargo 01](https://github.com/user-attachments/assets/1dca20b0-f4a2-4d0a-bff1-f554ed636a31)
+![Encargo 01](./archivos/encargo_01a.png)

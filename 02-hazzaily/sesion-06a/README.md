@@ -2,13 +2,13 @@
 
 15 de Abril de 2025.
 
- # Project-01 
+# Project-01
 
-  - Grupo 02:
+- Grupo 02:
 
-    - Emilia Contreras
-    - Katalina Riquelme
-    - Thyare Santander.
+  - Emilia Contreras
+  - Katalina Riquelme
+  - Thyare Santander.
 
  1. **Idea del proyecto:** Como grupo queremos crear un modificador de frecuencia capaz de cambiar el sonido original de nuestra Atari Punk Console con 3 pulsadores distintos que generan una frecuencia más aguda, una intermedia y una más grave. También logramos agregar un interruptor de dos tiempos que nos permite frenar la energía que alimenta el circuito de forma gradual apagándolo momentáneamente.
 
@@ -16,17 +16,17 @@
 
  3. **Modificaciones:** Las modificaciones realizadas fueron 3 en total:
 
-   - Entre el C1 y R_experimental_1 pusimos 3 pulsadores cuya frecuancia varía según el condensador cerámico conectado a tierra.
-     
+- Entre el C1 y R_experimental_1 pusimos 3 pulsadores cuya frecuancia varía según el condensador cerámico conectado a tierra.
+
       1. **P1:** Está conectado a un condensador de 163n (C5). En este caso el cambio es más notorio cuando el LDR es estimulado con una fuente de luz constante. Frecuencia aguda.
       2. **P2:** Está conectado a dos condensadores de 474n (C6 y C7) en serie. Frecuencia intermedia.
       3. **P3:** Está conectado a un condensador de 474n (C8). Frecuencia grave.
-    
-   - También agregamos un interruptor (Int1) de dos tiempos; en el tiempo 1, aunque el circuito esté conectado a la batería, logramos que se detuviera el paso de energía apagando el el circuito de manera gradual.
 
-   - En la R_experimental_2 pusimos una resistencia de 330 Ω que según notamos genera una frecuencia más aguda que nos llamó más la atención que con otros resistores.
+- También agregamos un interruptor (Int1) de dos tiempos; en el tiempo 1, aunque el circuito esté conectado a la batería, logramos que se detuviera el paso de energía apagando el el circuito de manera gradual.
 
-   4. **Circuito esquemático original y modificado:**
+- En la R_experimental_2 pusimos una resistencia de 330 Ω que según notamos genera una frecuencia más aguda que nos llamó más la atención que con otros resistores.
+
+4. **Circuito esquemático original y modificado:**
 
 APC original.
 
@@ -46,21 +46,21 @@ Foto 2.
 
 ![Foto_1](https://github.com/user-attachments/assets/27a43fc3-e569-41dc-8a6c-d6ad02228f10)
 
-  6. **Videos de potoboard con APC modificado:** 
+  6. **Videos de potoboard con APC modificado:**
 
   Video Atari Punk Console modificada 1.
 
-https://github.com/user-attachments/assets/2bb049fe-d00a-4fb9-8db2-486fe020fc69
+<https://github.com/user-attachments/assets/2bb049fe-d00a-4fb9-8db2-486fe020fc69>
 
 Video Atari Punk Console modificada 2.
 
-https://github.com/user-attachments/assets/1dfc053f-26e3-40d8-8d1e-b993af6207fa
+<https://github.com/user-attachments/assets/1dfc053f-26e3-40d8-8d1e-b993af6207fa>
 
    7. **Bill of Materials:**
 
 | Componentes               | Nombre                     | Valor | Cantidad |
 |---------------------------|----------------------------|-------|----------|
-| Resistencias              | R2, R3                     | 1kΩ   | 2        | 
+| Resistencias              | R2, R3                     | 1kΩ   | 2        |
 | Resistencia               | R4                         | 33OΩ  | 1        |
 | Condensador Cerámico      | C1, C2, C3, C4, C6, C7, C8 | 474n  | 7        |
 | Condensador Cerámico      | C5                         | 163n  | 1        |
@@ -79,9 +79,9 @@ https://github.com/user-attachments/assets/1dfc053f-26e3-40d8-8d1e-b993af6207fa
 
 Instalar software **Kicad** en computador personal, inclyuendo específicaciones de versión, nuestro sistema operativo, las carpetas en donde se encuentra la app, además de cualquier dato relevante.
 
- - Versión de Kicad: 9.0.1
- - Sistema operativo: Windows 11, 64 bits.
- - Ubicación de la aplicación: Carpeta de archivos (documentos), aplicación (escritorio).
+- Versión de Kicad: 9.0.1
+- Sistema operativo: Windows 11, 64 bits.
+- Ubicación de la aplicación: Carpeta de archivos (documentos), aplicación (escritorio).
 
 Foto de la página inicial de KiCAD.
 
@@ -91,9 +91,8 @@ Foto de la página inicial de KiCAD.
 
 Además de ver el documental, elegir artista favorita del documental y escuchar un álbum o concierto de ella.
 
- - **Artista favorita:** Suzanne Ciani y Clara Rockmore.
+- **Artista favorita:** Suzanne Ciani y Clara Rockmore.
   
- - **Álbum:** Flowers by Evil de Suzanne Ciani.
+- **Álbum:** Flowers by Evil de Suzanne Ciani.
 
 Fotos de mi autoría.
-

@@ -50,7 +50,7 @@ diagramamos de forma que entendemos que la entrada es por la izquierda, salida a
 - cómo se utiliza el aparato? cómo me indica ese modo de uso?
 - documentar en fotografías
 
-## desarrollo de encargo
+## encargo-11
 
 ![minime](https://github.com/user-attachments/assets/0f7f5a01-8f04-4125-91b0-57689ec4e58b)
 
@@ -108,7 +108,7 @@ El objeto utilizado fue una cámara instax mini 8, la cámara ya estaba mala por
 - TPVB12
 - Algunos de estas siglas (SCAMG,TM,SSY,SSYG,SM,SMG,SP,SCAM) van conectados a través de cables de distintos colores (amarillos,naranjas,blancos,rojos,morados,azules,verdes) hacia la parte de abajo de la PCB a la cuál no tengo acceso para poder ver hacia qué se conectan en ese lugar.
 
-## encargo Switched On Bach
+## encargo-10 Switched On Bach
 
 Switched On Bach fue creado por Wendy Carlos en octubre del año 1968 y fue lanzado en ese mismo año por Columbia Records. Éste álbum es una recopilación de piezas de Johann Sebastian Bach pero traspasadas al mundo de los sintetizadores. Carlos estudió y se graduó en Física y Música en Brown University, en su nativa Rhode Island, antes de mudarse a Nueva York en 1962 para estudiar Composición en Columbia University, donde estudió y trabajó con varios técnicos y músicos electrónicos en el Electronic Music Center de Princeton.
 

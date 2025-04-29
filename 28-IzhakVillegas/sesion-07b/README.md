@@ -1,9 +1,11 @@
 # sesion-07b
+
 CAD Assistant
-*  library > símbolos para el esquemático
-*  modules > footprints (huellas) del PCB
-*  packages3d/ > visualizador de modelos 3D
-*  añadido -> shapes > forma para el PCB
+
+* library > símbolos para el esquemático
+* modules > footprints (huellas) del PCB
+* packages3d/ > visualizador de modelos 3D
+* añadido -> shapes > forma para el PCB
 
 Librería de símbolos
 
@@ -28,7 +30,7 @@ Resistencia radial propiedad eléctrica encapsulado
 
 Nombre_valor_encapsulado
 
-cdm.link página Cómo referirse a algo de manera no violenta  https://cdm.link/so-yeah-lets-just-use-plug-and-socket-industry-group-recommends-obvious-change-in-terminology/
+cdm.link página Cómo referirse a algo de manera no violenta  <https://cdm.link/so-yeah-lets-just-use-plug-and-socket-industry-group-recommends-obvious-change-in-terminology/>
 
 conn > caimán
 
@@ -63,19 +65,18 @@ Bottom Cu
 
 No se puede tocar cobre con cobre ni serigrafía con serigrafía.
 
-*  Saltos de línea
+* Saltos de línea
 
-1.   Arrastrar borde en 5 mm > hacer un arco, y así se logra un borde circular para la placa PCB. En capa edgecuts.
-2.   Vía PCB, saltar entre capas de la placa. Presionar "V", cuando le hago click cambia el color de la vía a rojo y eso indica que estamos por debajo de la placa.
-3.   Trazaar para exportar. Marcar F.cu B.cu F. Sikscreen B. Silkscreen F. Mask B. Mask Edge cuts
-4.   Archivos .gbr y .drl. Carpeta gerber, lo que se manda a la impresora. Se recibe en .zip JLCPCB.
-5.   Add gerber file. Indicar Layers, dimensions, PCB Qly, Prdocut Type (indicar para qué es).
-6.   Se indica el color.
-7.   PCB Thickness 1.2mm, es más caro hacer placas más delgadas.
-8.   SMD (se puede pedir soldado).
-9.   LCSC (Shenzhen).
+1. Arrastrar borde en 5 mm > hacer un arco, y así se logra un borde circular para la placa PCB. En capa edgecuts.
+2. Vía PCB, saltar entre capas de la placa. Presionar "V", cuando le hago click cambia el color de la vía a rojo y eso indica que estamos por debajo de la placa.
+3. Trazaar para exportar. Marcar F.cu B.cu F. Sikscreen B. Silkscreen F. Mask B. Mask Edge cuts
+4. Archivos .gbr y .drl. Carpeta gerber, lo que se manda a la impresora. Se recibe en .zip JLCPCB.
+5. Add gerber file. Indicar Layers, dimensions, PCB Qly, Prdocut Type (indicar para qué es).
+6. Se indica el color.
+7. PCB Thickness 1.2mm, es más caro hacer placas más delgadas.
+8. SMD (se puede pedir soldado).
+9. LCSC (Shenzhen).
 
 1 mes antes de la entrega, ver qué vamos a ensamblar. Después interfaz de usuario.
 
-11.   Ver envío, sube precio. Por ejemplo 5 PCB salndrían $10 USD.
-
+11. Ver envío, sube precio. Por ejemplo 5 PCB salndrían $10 USD.

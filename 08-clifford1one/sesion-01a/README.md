@@ -10,11 +10,13 @@ Clase 1 kemosión
 
 ## ENCARGOS
 
-### "MI CAJA NEGRA"
+### encargo-01
+
+MI CAJA NEGRA
 
 ![alt text](./imagenes/tme-c1-encargo.jpg)
 
-### BARRIO UNIVERSITARIO
+### encargo-00
 
 Barrio Universitario:
 
@@ -67,7 +69,7 @@ Los cameos: Ítalo Passalacqua, Iván Arenas, Paul Vásquez “El flaco”, Fern
 
 Nota final: 6/10
 
-# The Man Machine - Kraftwerk
+### The Man Machine - Kraftwerk
 
 Escuche el disco “The Man Machine”
 <https://open.spotify.com/intl-es/album/3eyz60xEK5dGEeZF1JJSi9>

@@ -64,7 +64,7 @@ Los pines del 555 tienen las funciones siguientes:
   Pin 7: Discharge. Permite descargar el condensador asociado, pasando la salida de estado alto a bajo cuando la tensión de este pin alcanza 2/3 de +V.
 - Pin 8: +V. Tensión de alimentación, según la hoja de características, entre 4,5V y 16V.
 
-**Parte 3:** Encargo 06.
+**Parte 3:** Encargo-06.
 
 - escuchar disco de banda alemana **Einstürzende Neubauten** e investigar intrumentos utilizados en sus canciones.
 

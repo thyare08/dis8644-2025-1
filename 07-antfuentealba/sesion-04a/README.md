@@ -11,6 +11,6 @@
 ![WhatsApp Image 2025-04-03 at 2 28 02 PM (1)](https://github.com/user-attachments/assets/cbdb54ef-5230-4c67-8d32-c5e0705bdd89)
 ![WhatsApp Image 2025-04-01 at 7 47 51 PM](https://github.com/user-attachments/assets/9b636785-9b32-4b30-9946-6ef0c8958dbd)
 
-## encargo
+## encargo opcional
 
 ![WhatsApp Image 2025-04-03 at 2 28 02 PM](https://github.com/user-attachments/assets/ba89ec94-7287-469d-801a-05cf67708b4f)

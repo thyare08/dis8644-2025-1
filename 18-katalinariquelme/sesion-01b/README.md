@@ -17,7 +17,7 @@
 
 [![Foto-croquera-3.jpg](https://i.postimg.cc/mgtghNFh/Foto-croquera-3.jpg)](https://postimg.cc/68xXmZcN)
 
-**Parte 2:** Componentes electrónicos vistos en clases.
+**Parte 2:** encargo-03 Componentes electrónicos vistos en clases.
 
 ## 1. Protoboard
 
@@ -247,7 +247,7 @@ Foto de zumbador
 
 [![Resultado.jpg](https://i.postimg.cc/zBWLvw6T/Resultado.jpg)](https://postimg.cc/VrfsHtYN)
 
-**Parte 4:** Encargo 02
+**Parte 4:** encargo-02
 
 - Escuchar un disco de **"Aphex Twin"**
 

@@ -1,6 +1,9 @@
 # sesion-02a
+
 ## 18-marzo
-github: 
+
+github:
+
 - Branch: cambios aislados
 - todo en minúscula
 - etiquetar a aarón cuando tenga una duda y responder para cerrar la conversación, etiquetar al usuario
@@ -14,16 +17,18 @@ tinkercad.com
 **ley de ohm**: el voltaje, la corriente y la resistencia están relacionadas matemáticamente.
 
 recomendación:
-- https://web.archive.org/
-- https://archive.org/
-- https://gifcities.org/
-- https://rahuldkjain.github.io/gh-profile-readme-generatoR
+
+- <https://web.archive.org/>
+- <https://archive.org/>
+- <https://gifcities.org/>
+- <https://rahuldkjain.github.io/gh-profile-readme-generatoR>
 - mika Martini
 
--calculadora de resistencia: https://www.digikey.com/es/resources/conversion-calculators/conversion-calculator-resistor-color-code
+-calculadora de resistencia: <https://www.digikey.com/es/resources/conversion-calculators/conversion-calculator-resistor-color-code>
 
 ## encargo-04
-**dinámica estructural**
+
+dinámica estructural
 
 1 de agosto 2024, chile
 
@@ -37,12 +42,12 @@ Personalmente, me gustó este disco. Lo escuché mientras realizaba tareas y sen
 
 ## circuito eléctrico
 
-esquemático: No muestra la disposición real de los elementos, muestra cómo están conectados eléctricamente. Se usa para diseñar y entender el funcionamiento del circuito.
-físico: representación real
-circuito eléctrico: trayectoria cerrada que recorre una corriente eléctrica. Este recorrido se inicia una terminal de la pila, pasa a través de un conducto eléctrico, llega a una resistencia, que consume parte de la energía eléctrica; continúa después por el conducto, llega a un led y regresa a la otra terminal de la pila. 
+- esquemático: No muestra la disposición real de los elementos, muestra cómo están conectados eléctricamente. Se usa para diseñar y entender el funcionamiento del circuito.
+
+- físico: representación real
+- circuito eléctrico: trayectoria cerrada que recorre una corriente eléctrica. Este recorrido se inicia una terminal de la pila, pasa a través de un conducto eléctrico, llega a una resistencia, que consume parte de la energía eléctrica; continúa después por el conducto, llega a un led y regresa a la otra terminal de la pila.
 
 ![2a Clase F1](https://github.com/user-attachments/assets/82c388ba-d7d6-40b4-b871-60f5c3ece5a8)
-
 
 ## circuito en serie
 
@@ -51,10 +56,9 @@ circuito eléctrico: trayectoria cerrada que recorre una corriente eléctrica. E
 - Los componentes están conectados de modo que las cargas eléctricas circulan por un solo trayecto
 - La corriente eléctrica es la misma en cada componente
 - Si conectamos varias ampolletas en serie, estamos aumentando la resistencia, por lo que como resultado disminuye la intensidad de luz en cada ampolleta y ésta baja notoriamente.
-- Una desventaja es que si se corta el paso de corriente en cualquier punto del circuito, cesa la conducción, lo que provocaría que todas ampolletas se apaguen." sacado de https://www.wited.com/los-circuitos-electricos/
+- Una desventaja es que si se corta el paso de corriente en cualquier punto del circuito, cesa la conducción, lo que provocaría que todas ampolletas se apaguen." sacado de <https://www.wited.com/los-circuitos-electricos/>
 
 ![2a Clase F2](https://github.com/user-attachments/assets/4dcad165-10ef-4c45-ae77-e4653a023151)
-
 
 ## circuito en paralelo
 
@@ -63,11 +67,11 @@ circuito eléctrico: trayectoria cerrada que recorre una corriente eléctrica. E
 - Al aumentar la cantidad de ampolletas en paralelo, no aumenta la resistencia, por lo que cada ampolleta brilla con igual intensidad.
 - Los circuitos de nuestras casas son en paralelo, de modo de conectar distintos aparatos eléctricos que requieren distinta corriente para funcionar.
 - Cada aparato eléctrico presenta a su vez un interruptor y puede prenderse o apagarse independientemente del resto."
-< sacado de https://www.wited.com/los-circuitos-electricos/ >
+citado de <https://www.wited.com/los-circuitos-electricos/>
 
 ![2a Clase F3](https://github.com/user-attachments/assets/84d74a4d-0686-4f7f-b20b-2a840588abc5)
 
-todos los positivos van arriba y los negativos abajo
+todos los positivos van arriba y los negativos abajo.
 
 ![2a Clase F4](https://github.com/user-attachments/assets/53b702cd-da25-435f-85fc-da7372de82ec)
 
@@ -84,7 +88,7 @@ v=i:r
 
 *si no estoy segura de la polaridad, se busca.
 
-### resistencia 
+### resistencia
 
 - 100K café-negro-amarillo
 - 10K café-negro-naranjo
@@ -96,14 +100,17 @@ v=i:r
 
 1. indica el primer dígito del valor.
 3. indica el primer dígito del valor.
-4. es el multiplicador 
+4. es el multiplicador
 5. tolerancia que puede variar
 
-**experimentación**
+experimentación
 
 ![Experimentación1](https://github.com/user-attachments/assets/490cf8a6-edcc-448c-8b55-d53baca8ecf2)
+
 ![Experimentación2](https://github.com/user-attachments/assets/a34c265d-2b4a-4712-a9ec-dc9fd79edb29)
+
 ![Experimentación3](https://github.com/user-attachments/assets/99d0919c-ab92-4ecc-9494-d3500a11ad92)
+
 ![Experimentación4](https://github.com/user-attachments/assets/df87370c-8702-4d1a-8188-65c50bae975b)
 
-Investigue más sobre los circuitos eléctricos, para poder comprenderlos en su forma esquemática 
+Investigue más sobre los circuitos eléctricos, para poder comprenderlos en su forma esquemática.
