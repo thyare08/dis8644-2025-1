@@ -10,7 +10,7 @@ Variación de Atari punk console, con potenciometro y pulsador
 
 Archivo KiCad del esquema presente en los archivos de este apunte.
 
-![atari punk console variación](./archivo/atari.punk.console.variación)
+<https://github.com/AlanisMria/dis8644-2025-1/tree/main/27-AlanisMria/sesion-07b/archivos/atari.punk.console.variaci%C3%B3n>
 
 
 KiCad
