@@ -43,11 +43,7 @@ JLCPCB es una empresa china que fabrica placas de circuito impreso (PCBs). Es un
 
 ![Costos envío](./costos%20envios.png)
 
-## Otra captura
-
-![Captura 1](./Captura%20de%20pantalla%202025-04-29%20041151.png)
-
-| Parámetro              | Valor elegido              | ¿Por qué?                                                    |
+| Parámetros              | Valor elegido              | ¿Por qué?                                                    |
 |------------------------|----------------------------|--------------------------------------------------------------|
 | **Material base**      | FR-4                       | Es el más común y barato, sirve bien para casi todo.         |
 | **Capas**              | 2                          | El diseño solo necesita dos capas, más sería exagerado.      |
@@ -65,7 +61,7 @@ JLCPCB es una empresa china que fabrica placas de circuito impreso (PCBs). Es un
 
 ###  Precio total
 
-| Concepto               | Costo       |
+| Conceptos              | Costos       |
 |------------------------|-------------|
 | Fabricación PCB        | $10.70 USD  |
 | Tarifa de ingeniería   | $4.00 USD   |
