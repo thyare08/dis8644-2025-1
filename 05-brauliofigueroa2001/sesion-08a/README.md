@@ -41,6 +41,9 @@ llegué temprano, había poquita gente, en la primera media hora entre 8:30 a 9:
 -  agregamos la huella a mounting hole , buscamos m3 y aparece, en este caso es MountingHole:MountingHole_3.2mm_M3
 -  también existen los separadores pcb
 -  repaso de cómo exportar el archivo gbr, debo ver la clase otra vez para entenderlo mejor porque aun no logro desarrollar mi udpudu
+-  en la página de jlcpcb podemos ver las opciones de la pcb y especificaciones físicas, para ver cómo quedó y qué cosa quedó en cada lugar/capa/colores
+-  en order details veo todo le proceso de envío
+-  el aduanazo siempre llega, cobran el 6% de arancel aduanero + el 19% del iva, terrible
 -  
 -  
   
