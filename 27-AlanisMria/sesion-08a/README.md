@@ -112,4 +112,33 @@ Lo que más me llamó la atención de los parámetros inferiores fueron los Dedo
 fuente: <https://www.pcbrapido.com/tipos-de-gold-fingers/#:~:text=Los%20dedos%20de%20oro%20son,del%20desgaste%20durante%20varias%20operaciones.>
 
 
+## Apuntes clase 8a
+
+Como proponer una contribución
+
+Los issues nos sirven para notificar un problema, por ejemplo cuando un encargo no ha sido evaluado.
+
+Como hacer un hoyito en KiCad, en la capa de esquematico se agrega un componente que se llama MountingHole, al cual debemos asignar una huella para que sea de tipo m3
+
+## openSCAD
+
+ Maker lab, parametric model maker, para hacer modelos parametrico hechos mediante la modificacion de su código.
+
+
+ Github Desktop, app te permite tener las cosas de la nuve en tu pc y editarlas desde ahí.
+
+ Intalar.
+ 
+ Ahí debemos clonar nuestro repositorio.
+
+ Definir ubicación del clon de nuestro repositorio, se recomienda no guardarlo en un lugar dentro de una nube.
+
+
+
+ 
+ 
+
+
+ 
+
 
