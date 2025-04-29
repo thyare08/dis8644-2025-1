@@ -81,4 +81,6 @@ https://github.com/user-attachments/assets/1dfc053f-26e3-40d8-8d1e-b993af6207fa
   - Ubicación de la aplicación: Este equipo > Archivos de programación > Kicad
 
 # Encargo 2: Ver documental Sisters with transistors
+  - Mis artitas favoritas fueron Delia Derbyshire y Bebe Barron
+  - Disco escuchado:
   - 
