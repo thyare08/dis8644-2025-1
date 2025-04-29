@@ -23,5 +23,11 @@ llegué temprano, había poquita gente, en la primera media hora entre 8:30 a 9:
 - en encargos pasa lo mismo
 - cómo mandar un reclamo??? ---> puedo proponer una pull request, si quiero que aaron se haga cargo de esto lo debo asignar, esto significa que en mi modificación aaron se debe hacer cargo de esto porque es la persona a cargo
 - aaron pondrá merged en nuestro pull request y de esta forma quedará cerrado
-- 
+- esto se puede hacer sólo si estoy ahead y no behind
+- si es que aaron no acepta mi contribución los demás no pueden ver mis cambios
+-  otra cosa que están enseñando paso a paso, primerovamos al original y pondremos un issue
+-  si es una issue para bitácora, en new issue usamos la de bitácora y si es de encargo usamos la de encargo
+-  al abrirlo, en número de estudiante pongo mi número y sesión ej hoy, 8a
+-  entonces todos los problemas, reclamos que tengamos, los pondremos en los issues
+-  
   
