@@ -90,10 +90,10 @@
 >>> Quien y como se realiza la cubicación de las distintas placas PCBs en el panel (gran PCB) <br/><br/>
 >>
 >> ### Grosor de la PCB <br/>
->> Define el grosor de la placa final (mayor grosor = mayor resistencia) (a menor grosor es posible que la placa se comporte como un capacitor, alterando la señal, lo que puede ser beneficioso o perjudical dependiendo de nuestro diseño
+>> <img align="left" src="./files/thick.jpg" width=320> <br/> Define el grosor de la placa final (mayor grosor = mayor resistencia) (a menor grosor es posible que la placa se comporte como un capacitor, alterando la señal, lo que puede ser beneficioso o perjudical dependiendo de nuestro diseño <br/><br/><br/>
 >>
 >> ### Color <br/>
->> el color de la máscara. Se suele usar verde, pero no es el único color disponible 
+>> <img align="left" src="./files/colors.jpg" width=320> <br/> el color de la máscara. Se suele usar verde, pero no es el único color disponible <br/><br/><br/>
 >>
 >> ### Silkscreen <br/>
 >> El color de la tinta a utilizar para imprimir los trazados de la capa silkscreen, en JLCPCB es blanco o negro, pero algunos fabricantes, como PCBway, permiten imprimir gráficos a color en esta capa
