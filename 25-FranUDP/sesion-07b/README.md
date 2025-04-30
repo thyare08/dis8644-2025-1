@@ -60,22 +60,22 @@
 ### JLCPCB - parámetros (probar opciones que no entiendan, documentar otros parámetros que no conozcan aún.)
 >> ### Material:
 >>> ### FR4 <br/>
->>> <img align="left" src="./files/fr4.png" width=300> <br/> (Fire Retardant 4) resina apoxi reforzada con fibra de vidrio, es barato y suficientemente reisitente para la mayoría de aplicaciones. No es buen conductor de calor <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+>>> <img align="left" src="./files/fr4.png" width=300> <br/><br/> (Fire Retardant 4) resina apoxi reforzada con fibra de vidrio, es barato y suficientemente reisitente para la mayoría de aplicaciones. No es buen conductor de calor <br/><br/><br/><br/><br/>
 >>>
 >>> ### Flex <br/>
->>> <img align="left" src="./files/flex.png" width=300> <br/> Se emplea una lámina de polímero flexible como substrato, son muy delgadas y livianas. Se suelen emplear como cables que unen otras PCBs en diseños con limitaciones de espacio y en situaciones donde no sea recomendable tener una PCB rígida, como en teclados flexibles <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+>>> <img align="left" src="./files/flex.png" width=300> <br/> Se emplea una lámina de polímero flexible como substrato, son muy delgadas y livianas. Se suelen emplear como cables que unen otras PCBs en diseños con limitaciones de espacio y en situaciones donde no sea recomendable tener una PCB rígida, como en teclados flexibles <br/><br/><br/><br/>
 >>>
 >>> ### Aluminio <br/>
->>> <img align="left" src="./files/al.png" width=300> <br/> Se utiliza en circuitos donde es escencial disipar el calor producido por los componentes rápidamente. Todas las ampolletas LED (quemadas) que he desarmado tienen montadas las LEDs en una pcb de aluminio <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+>>> <img align="left" src="./files/al.png" width=300> <br/><br/> Se utiliza en circuitos donde es escencial disipar el calor producido por los componentes rápidamente. Todas las ampolletas LED (quemadas) que he desarmado tienen montadas las LEDs en una pcb de aluminio <br/><br/><br/><br/>
 >>>
 >>> ### Centro de cobre <br/>
->>> <img align="left" src="./files/CuCore.png" width=300> <br/> Similar al aluminio, pero es 2 veces mejor disipando calor (400 W/mK v/s 205 W/mK) y al tener menos reistencia a la corriente, afecta en menos medida a componentes muy sensibles a variaciones en la señal eléctrica, además de ser capás de entregar una mayor corriente a circuitos más poderosos <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+>>> <img align="left" src="./files/CuCore.png" width=300> <br/> Similar al aluminio, pero es 2 veces mejor disipando calor (400 W/mK v/s 205 W/mK) y al tener menos reistencia a la corriente, afecta en menos medida a componentes muy sensibles a variaciones en la señal eléctrica, además de ser capás de entregar una mayor corriente a circuitos más poderosos <br/><br/><br/><br/>
 >>>
 >>> ### Rogers <br/>
->>> <img align="left" src="./files/rogers.png" width=300> <br/> Más blando que el FR4, pero es menos disrruptivo a señales de alta frecuencia (Coeficiente de disperción de pérdida de señal FR4 = 0.02% v/s Rogers 0.004%), haciendolo ideal para circuitos de radio frecuencia (RF) y soporta mejor el calor <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+>>> <img align="left" src="./files/rogers.png" width=300> <br/><br/> Más blando que el FR4, pero es menos disrruptivo a señales de alta frecuencia (Coeficiente de disperción de pérdida de señal FR4 = 0.02% v/s Rogers 0.004%), haciendolo ideal para circuitos de radio frecuencia (RF) y soporta mejor el calor <br/><br/><br/><br/><br/>
 >>>
 >>> ### PTFE teflon <br/>
->>> <img align="left" src="./files/ptfe.png" width=300> <br/> Similar a Rogers, pero su Coeficiente de disperción de pérdida de señal es más bajo (0.001% v/s 0.004%), tiene una mejor conductividad térmica y tiene una mayor resistencia a químicos. Se suele emplear en instrumentos médicos y la industria aeroespacial <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+>>> <img align="left" src="./files/ptfe.png" width=300> <br/> Similar a Rogers, pero su Coeficiente de disperción de pérdida de señal es más bajo (0.001% v/s 0.004%), tiene una mejor conductividad térmica y tiene una mayor resistencia a químicos. Se suele emplear en instrumentos médicos y la industria aeroespacial <br/><br/><br/><br/><br/>
 >>>
 >> N° de capas de cobre: La cantidad de planos en los cuales se trazaron conexiones en la PCB. Se suelen emplear capas extra para reducir el tamaño de una placa, al no necesitar tento espacio (ejes X,Y) para trazar conexiones. Y para delimitar capas enteras como Vcc y/o GND para estabilizar la señal en circuitos sensibles a "ruido"
 >>
