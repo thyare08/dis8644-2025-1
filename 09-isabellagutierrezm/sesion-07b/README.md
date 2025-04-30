@@ -52,6 +52,7 @@
 ![final ](https://github.com/user-attachments/assets/08e1c820-99db-4533-8c10-fa338063727f)
 
 - Me demore bastante ya que mi computador se quedaba pegado a cada instante, y en la parte final, se reinicio todo;(, y se fue la pantalla a negro pero lo intentare nuevamente mañana:((
+- 
   
 
 
