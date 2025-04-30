@@ -5,7 +5,6 @@
 - Profundizamos en las huellas de los componentes, estas huellas son las dimensiones que se utilizan para soldar
 - Descargar carpeta que tiene una biblioteca de huellas específicas para nuestros componentes 
 - A las patillas de 555 se les dice DIP
-![ajustes de pagina](https://github.com/user-attachments/assets/f06288c5-9cb7-45f4-91a7-8c7c55020299)
 
 ## Descargamos la carpeta zip
 - Library: define los símbolos para el esquema
@@ -22,6 +21,7 @@
 ![modulos carpeta zip](https://github.com/user-attachments/assets/203a4391-f4b8-4e68-90ea-d82bb0588028)
 
 ## Rellenamos viñeta 
+![ajustes de pagina](https://github.com/user-attachments/assets/f06288c5-9cb7-45f4-91a7-8c7c55020299)
 
 ![Uploading ajustes de pagina.png…]()
 
