@@ -23,7 +23,7 @@
 >>
 >> ### Capas
 >> <img align="left" src="./files/layers.png" width=450> <br/><br/><br/><br/><br/><br/> Se puede cambiar la capa en la cual se insertó el gráfico haciendo doble click 2 veces en él y luego seleccionando la capa a la cual queremos moverlo <br/><br/><br/><br/><br/><br/><br/>Dependiendo de la capa que elijamos, el gráfico tendrá un efecto distinto en la PCB: <br/>
->> * ![color](https://placehold.co/15x15/c83434/codigo_color.png) ![color](https://placehold.co/15x15/4d7fc4/codigo_color.png) .Cu: <img align="right" src="./files/Cu.png" width=100> Considerando que en la zona donde está el gráfico no hay un plano sólido de cobre, esté se verá de un tono más claro, ya que generará un trazo de cobre bajo la superficie de la PCB <br/><br/><br/><br/><br/>
+>> * ![color](https://placehold.co/15x15/c83434/codigo_color.png) ![color](https://placehold.co/15x15/4d7fc4/codigo_color.png) .Cu: <img align="right" src="./files/Cu.jpg" width=100> Considerando que en la zona donde está el gráfico no hay un plano sólido de cobre, esté se verá de un tono más claro, ya que generará un trazo de cobre bajo la superficie de la PCB <br/><br/><br/><br/><br/>
 >>
 >> * ![color](https://placehold.co/15x15/f2eda1/codigo_color.png) ![color](https://placehold.co/15x15/e8b2a7/codigo_color.png) .Silkscreen: <img align="right" src="./files/silk.png" width=100> Poner el gráfico en esta capa hará que lo impriman sobre la superficie de la pcb con tinta blanca <br/><br/><br/><br/><br/><br/>
 >>
@@ -60,25 +60,25 @@
 ### JLCPCB - parámetros (probar opciones que no entiendan, documentar otros parámetros que no conozcan aún.)
 >> ### Material:
 >>> ### FR4 <br/>
->>> <img align="left" src="./files/fr4.png" width=300> <br/><br/> (Fire Retardant 4) resina apoxi reforzada con fibra de vidrio, es barato y suficientemente reisitente para la mayoría de aplicaciones. No es buen conductor de calor <br/><br/><br/><br/>
+>>> <img align="left" src="./files/fr4.jpg" width=300> <br/><br/> (Fire Retardant 4) resina apoxi reforzada con fibra de vidrio, es barato y suficientemente reisitente para la mayoría de aplicaciones. No es buen conductor de calor <br/><br/><br/><br/>
 >>>
 >>> ### Flex <br/>
->>> <img align="left" src="./files/flex.png" width=300> <br/> Se emplea una lámina de polímero flexible como substrato, son muy delgadas y livianas. Se suelen emplear como cables que unen otras PCBs en diseños con limitaciones de espacio y en situaciones donde no sea recomendable tener una PCB rígida, como en teclados flexibles <br/><br/><br/>
+>>> <img align="left" src="./files/flex.jpg" width=300> <br/> Se emplea una lámina de polímero flexible como substrato, son muy delgadas y livianas. Se suelen emplear como cables que unen otras PCBs en diseños con limitaciones de espacio y en situaciones donde no sea recomendable tener una PCB rígida, como en teclados flexibles <br/><br/><br/>
 >>>
 >>> ### Aluminio <br/>
->>> <img align="left" src="./files/al.png" width=300> <br/><br/> Se utiliza en circuitos donde es escencial disipar el calor producido por los componentes rápidamente. Todas las ampolletas LED (quemadas) que he desarmado tienen montadas las LEDs en una pcb de aluminio <br/><br/><br/>
+>>> <img align="left" src="./files/al.jpg" width=300> <br/><br/> Se utiliza en circuitos donde es escencial disipar el calor producido por los componentes rápidamente. Todas las ampolletas LED (quemadas) que he desarmado tienen montadas las LEDs en una pcb de aluminio <br/><br/><br/>
 >>>
 >>> ### Centro de cobre <br/>
->>> <img align="left" src="./files/CuCore.png" width=300> <br/> Similar al aluminio, pero es 2 veces mejor disipando calor (400 W/mK v/s 205 W/mK) y al tener menos reistencia a la corriente, afecta en menos medida a componentes muy sensibles a variaciones en la señal eléctrica, además de ser capás de entregar una mayor corriente a circuitos más poderosos <br/><br/><br/>
+>>> <img align="left" src="./files/CuCore.jpg" width=300> <br/> Similar al aluminio, pero es 2 veces mejor disipando calor (400 W/mK v/s 205 W/mK) y al tener menos reistencia a la corriente, afecta en menos medida a componentes muy sensibles a variaciones en la señal eléctrica, además de ser capás de entregar una mayor corriente a circuitos más poderosos <br/><br/><br/>
 >>>
 >>> ### Rogers <br/>
->>> <img align="left" src="./files/rogers.png" width=300> <br/><br/> Más blando que el FR4, pero es menos disrruptivo a señales de alta frecuencia (Coeficiente de disperción de pérdida de señal FR4 = 0.02% v/s Rogers 0.004%), haciendolo ideal para circuitos de radio frecuencia (RF) y soporta mejor el calor <br/><br/><br/><br/>
+>>> <img align="left" src="./files/rogers.jpg" width=300> <br/><br/> Más blando que el FR4, pero es menos disrruptivo a señales de alta frecuencia (Coeficiente de disperción de pérdida de señal FR4 = 0.02% v/s Rogers 0.004%), haciendolo ideal para circuitos de radio frecuencia (RF) y soporta mejor el calor <br/><br/><br/><br/>
 >>>
 >>> ### PTFE teflon <br/>
->>> <img align="left" src="./files/ptfe.png" width=300> <br/> Similar a Rogers, pero su Coeficiente de disperción de pérdida de señal es más bajo (0.001% v/s 0.004%), tiene una mejor conductividad térmica y tiene una mayor resistencia a químicos. Se suele emplear en instrumentos médicos y la industria aeroespacial <br/><br/><br/><br/><br/>
+>>> <img align="left" src="./files/ptfe.jpg" width=300> <br/> Similar a Rogers, pero su Coeficiente de disperción de pérdida de señal es más bajo (0.001% v/s 0.004%), tiene una mejor conductividad térmica y tiene una mayor resistencia a químicos. Se suele emplear en instrumentos médicos y la industria aeroespacial <br/><br/><br/><br/><br/>
 >>>
 >> ### N° de capas de cobre <br/>
->> <img align="left" src="./files/capas.png" width=320> <br/> La cantidad de planos en los cuales se trazaron conexiones en la PCB. Se suelen emplear capas extra para reducir el tamaño de una placa, al no necesitar tento espacio (ejes X,Y) para trazar conexiones. Y para delimitar capas enteras como Vcc y/o GND para estabilizar la señal en circuitos sensibles a "ruido" <br/><br/><br/>
+>> <img align="left" src="./files/capas.jpg" width=320> <br/> La cantidad de planos en los cuales se trazaron conexiones en la PCB. Se suelen emplear capas extra para reducir el tamaño de una placa, al no necesitar tento espacio (ejes X,Y) para trazar conexiones. Y para delimitar capas enteras como Vcc y/o GND para estabilizar la señal en circuitos sensibles a "ruido" <br/><br/><br/>
 >>
 >> ### Tipo de producto <br/>
 >> La calidad de manufactura y rigurosidad de testeo de la placa
@@ -128,10 +128,10 @@
 >> <img align="left" src="./files/id.jpg" width=320> <br/><br/><br/> Método (código, codigo de barra o QR) y posición del código de identificación de cada PCB (definida por el fabricante o el cliente) <br/><br/><br/><br/><br/>
 >>
 >> ### Dedos de oro <br/>
->> <img align="left" src="./files/fingers.jpg?raw=true" width=320> <br/> El acabado de superficie (HASL o ENIG) aplicado a los puntos de conexión en el borde de la placa <br/><br/><br/>
+>> <img align="left" src="./files/fingersLOW.jpg?raw=true" width=320> <br/><br/> El acabado de superficie (HASL o ENIG) aplicado a los puntos de conexión en el borde de la placa <br/><br/><br/>
 >>
->> ### Agujeros almenados (castelated holes) <br/>
->> Una mezcla de agujeros y "soldering pads" que van de forma vertical por el borde de la placa. Se utilizan para soldar una PCB sobre otra facilmente (módulo SMD) (acabado ENIG)
+>> ### Agujeros almenados (castellated holes) <br/>
+>> <img align="left" src="./files/castellated.jpg" width=320> <br/> Una mezcla de agujeros y "soldering pads" que van de forma vertical por el borde de la placa. Se utilizan para soldar una PCB sobre otra facilmente (módulo SMD) (acabado ENIG) <br/><br/><br/>
 >>
 >> ### Recubrimiento del borde <br/>
 >> Se recubren los bordes de la placa con niquely oro, para aumentar la durabilidad de la placa, para estabilizar la señal de GND y para absorver energía de las ondas electromagnéticas generadas por los trazos de cobre que rebotan en las esquinas de la placa e interfieren con algunos componentes sensibles
