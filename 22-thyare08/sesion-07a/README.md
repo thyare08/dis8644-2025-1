@@ -73,4 +73,6 @@
 
 ![Captura de pantalla 2025-04-28 200255](https://github.com/user-attachments/assets/76fd99cb-483b-4128-91c0-cea343469708)
 
-# Encargo 15: Plantear 2 dudas y/o aprendizajes sobre el manual de supervivencia em KiCad
+# Encargo 15: Plantear 2 dudas y/o aprendizajes sobre el manual de supervivencia en KiCad
+ 1. ¿Cómo se puede hacer PCB de otras formas?
+ 2. ¿Se puede hacer PCB en materiales flexibles?
