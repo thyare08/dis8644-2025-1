@@ -1,6 +1,8 @@
 # sesion-07b
 
 ## Apuntes
+###### Se recomienda usar modo oscuro, hay palabras en color blanco que de otra forma no son visibles.
+###### The use of dark mode is recommended, there's white colored text that otherwise is not visible.
 >
 > ### Instalación librería customizada
 > Tras ${\color{#b0e6e6}descargar}$ los símbolos y/o footprints que queremos añadir a Kicad, es ideal (aunque no necesario) ${\color{#b0e6e6}moverlos}$ a una ${\color{#b0e6e6}ubicación}$ adecuada (como la carpeta de instalación de Kicad) para evitar accidentalmente cambiarlos de dirección o eliminarlos. <br/> <br/>
