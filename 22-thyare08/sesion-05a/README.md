@@ -2,7 +2,7 @@
 
 ![20250408_113742](https://github.com/user-attachments/assets/be35613b-61bc-4ad4-9434-cc798e8affa1)
 
-*Primera modificación al APC* genera un corto circuito, al poner un botón pulsador junto al LDR
+**Primera modificación al APC** genera un corto circuito, al poner un botón pulsador junto al LDR
 
 ![20250408_123641](https://github.com/user-attachments/assets/1e53af71-ecde-4997-93bc-7126ae175ca2)
 
