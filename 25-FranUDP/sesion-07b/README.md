@@ -93,30 +93,30 @@
 >> <img align="left" src="./files/thick.jpg" width=320> <br/> Define el grosor de la placa final (mayor grosor = mayor resistencia) (a menor grosor es posible que la placa se comporte como un capacitor, alterando la señal, lo que puede ser beneficioso o perjudical dependiendo de nuestro diseño <br/><br/><br/>
 >>
 >> ### Color <br/>
->> <img align="left" src="./files/colors.jpg?raw=true" width=320> <br/> el color de la máscara. Se suele usar verde, pero no es el único color disponible <br/><br/><br/>
+>> <img align="left" src="./files/colors.jpg?raw=true" width=320> <br/><br/><br/><br/> El color de la máscara. Se suele utilizar el verde, pero no es el único color disponible <br/><br/><br/><br/><br/><br/>
 >>
 >> ### Silkscreen <br/>
->> El color de la tinta a utilizar para imprimir los trazados de la capa silkscreen, en JLCPCB es blanco o negro, pero algunos fabricantes, como PCBway, permiten imprimir gráficos a color en esta capa
+>> <img align="left" src="./files/silkscreen.jpg?raw=true" width=320> <br/><br/> El color de la tinta a utilizar para imprimir los trazados de la capa silkscreen, en JLCPCB es blanco o negro, pero algunos fabricantes, como PCBway, permiten imprimir gráficos a color en esta capa <br/><br/><br/><br/>
 >>
 >> ### Tipo de material <br/>
 >> Que "sabor" específico del material base a utilizar (ej: mayor resistencia al calor)
 >>
->> ### Acabado de la superficie <br/>
+>> ### Acabado de superficie <br/>
 >> El tipo de recubrimiento que se aplicará sobre la capa de cobre (esto se hace para evitar la oxidación del cobre, ya que si se oxida no se puede soldar)
 >>> ### HASL (Hot Air Solder Leveling) <br/>
->>> Se cubre el cobre con estaño, el cual puede tener o no tener plomo. Este acabado hace más facil soldar componentes a la placa
+>>> <img align="left" src="./files/HASL.jpg?raw=true" width=320> <br/><br/><br/><br/> Se cubre el cobre con estaño, el cual puede tener o no tener plomo. Este acabado hace más facil soldar componentes a la placa <br/><br/><br/><br/><br/><br/>
 >>>
 >>> ### ENIG (Electroless Nickel Immersion Gold) <br/>
->>> Se recubre el cobre en una capa delgada de niquel, la cual es a su vez recubierta en una capa delgada de oro. Este acabado resulta en una superficie exepcionalmente plana y uniforme, lo que lo hace ideal para diseños con componentes muy pequeños y en grandes densidades, que de otra forma se moverían más durante el proceso de soldadura
+>>> <img align="left" src="./files/ENIG.jpg?raw=true" width=320> <br/><br/><br/> Se recubre el cobre en una capa delgada de niquel, la cual es a su vez recubierta en una capa delgada de oro. Este acabado resulta en una superficie exepcionalmente plana y uniforme, lo que lo hace ideal para diseños con componentes muy pequeños y en grandes densidades, que de otra forma se moverían más durante el proceso de soldadura <br/><br/><br/><br/><br/>
 >>
 >> ### Peso de cobre (externo e interno) <br/>
->> El grosor de los trazos de cobre (eje Z), en caso de tener que aumentar el volumen de los trazados de cobre, para permitir que la corriente circule bien (alta corriente) se puede aumentar el grosor de la capa de cobre, en lugar de ensanchar los trazados (eje X,Y)
+>> <img align="left" src="./files/weight.jpg?raw=true" width=320> <br/> El grosor de los trazos de cobre (eje Z), en caso de tener que aumentar el volumen de los trazados de cobre, para permitir que la corriente circule bien (alta corriente) se puede aumentar el grosor de la capa de cobre, en lugar de ensanchar los trazados (eje X,Y) <br/><br/><br/>
 >>
 >> ### Recubrimiento de vias <br/>
->> Las vias tipicamente se recubren para evirar algún cortocircuito, limitando el material conductor expuesto. A veces se dejan algunas vias expuestas con el propósito de programar un microcontrolador o simplemente usarlas como puntos de testeo
+>> <img align="left" src="./files/vias.jpg" width=320> <br/><br/><br/><br/> Las vias tipicamente se recubren para evirar algún cortocircuito, limitando el material conductor expuesto. A veces se dejan algunas vias expuestas con el propósito de programar un microcontrolador o simplemente usarlas como puntos de testeo <br/><br/><br/><br/><br/><br/>
 >>
 >> ### Tamaño mínimo del agujero de las vias <br/>
->> Dependiendo de la densidad de nuestro circuito, tener vias más pequeñas puede ayudar a reducir el tamaño de la placa
+>> <img align="left" src="./files/hole.jpg" width=320> <br/><br/><br/><br/> Dependiendo de la densidad de nuestro circuito, tener vias más pequeñas puede ayudar a reducir el tamaño de la placa <br/><br/><br/><br/><br/><br/>
 >> 
 >> ### Tolerancia del corte del borde <br/>
 >> Cuan cerca de las dimenciones especificadas resultan los cortes realizados a la placa. En caso de tener placas PCB con componentes en ambos lados, que se tenga que soldar sobre otra PCV (módulo smd) podría ser beneficioso reducir la tolerancia
@@ -125,10 +125,10 @@
 >> El fabricante prepara el o los archivos que utilizarán para fabricar la orden y los enviarán al cliente para que los revise y autorice la producción. Puede ser conveniente para diseños con detalles específicos o pedidos especiales, para evitar la producción de una placa que no cumple los requerimientos del cliente
 >>
 >> ### Marca en la PCB <br/>
->> Método (código, codigo de barra o QR) y posición del código de identificación de cada PCB (definida por el fabricante o el cliente)
+>> <img align="left" src="./files/id.jpg" width=320> <br/><br/><br/> Método (código, codigo de barra o QR) y posición del código de identificación de cada PCB (definida por el fabricante o el cliente) <br/><br/><br/><br/><br/>
 >>
 >> ### Dedos de oro <br/>
->> El acabado de superficie (HASL o ENIG) aplicado a los puntos de conexión en el borde de la placa
+>> <img align="left" src="./files/fingers.jpg?raw=true" width=320> <br/> El acabado de superficie (HASL o ENIG) aplicado a los puntos de conexión en el borde de la placa <br/><br/><br/>
 >>
 >> ### Agujeros almenados (castelated holes) <br/>
 >> Una mezcla de agujeros y "soldering pads" que van de forma vertical por el borde de la placa. Se utilizan para soldar una PCB sobre otra facilmente (módulo SMD) (acabado ENIG)
