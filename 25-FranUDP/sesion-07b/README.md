@@ -134,5 +134,5 @@
 >> <img align="left" src="./files/castellated.jpg" width=320> <br/><br/><br/> Una mezcla de agujeros y "soldering pads" que van de forma vertical por el borde de la placa. Se utilizan para soldar una PCB sobre otra facilmente (módulo SMD) (acabado ENIG) <br/><br/><br/><br/>
 >>
 >> ### Recubrimiento del borde <br/>
->> <img align="left" src="./files/plating.jpg" width=320> <br/> Se recubren los bordes de la placa con niquely oro, para aumentar la durabilidad de la placa, para estabilizar la señal de GND y para absorver energía de las ondas electromagnéticas generadas por los trazos de cobre que rebotan en las esquinas de la placa e interfieren con algunos componentes sensibles <br/><br/>
+>> <img align="left" src="./files/plating.png" width=320> <br/><br/> Se recubren los bordes de la placa con niquely oro, para aumentar la durabilidad de la placa, para estabilizar la señal de GND y para absorver energía de las ondas electromagnéticas generadas por los trazos de cobre que rebotan en las esquinas de la placa e interfieren con algunos componentes sensibles <br/><br/><br/><br/>
 > <br/>
