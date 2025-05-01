@@ -35,20 +35,20 @@
 > ### Other things
 >
 >> ### Símbolo v/s Footprint
->> Si tenemos un ${\color{#b0e6e6}componente}$ que va conectado al circuito, pero ${\color{#b0e6e6}no \ queremos \ ponerlo \ en \ la \ placa \ PCB}$, se le puede asignar el ${\color{#b0e6e6}footprint}$ de un conector, pins, "soldering pads", etc <br/><br/>
+>> Si tenemos un ${\color{#b0e6e6}componente}$ que va conectado al circuito, pero ${\color{#b0e6e6}no \ queremos \ ponerlo \ en \ la \ placa \ PCB}$, se le puede asignar el ${\color{#b0e6e6}footprint}$ de un conector, pins, *"soldering pads"*, etc <br/><br/>
 >>
 >> ### SPDT
 >> <img align="left" src="./files/spdt.png" width=150> <br/> Es un ${\color{#b0e6e6}interruptor}$ de ${\color{#b0e6e6}2 \ posiciones}$, que en lugar de abrir o cerrar un circuito, puede hacer que un circuito esté abierto, mientras un segundo circuito está cerrado (no pueden estar ambos cerrados o abiertos a la vez) <br/><br/><br/><br/>
 >>
 >> ### Color del cable (sch)
->> <img align="left" src="./files/wireC.png" width=450> <br/> @21-SebastianSaez1003 me mostró que en el ${\color{#b0e6e6}modo \ esquemático}$ se puede cambiar el color de los cables para que sea más facil ${\color{#b0e6e6}diferenciarlos}$ <br/><br/><br/>
+>> <img align="left" src="./files/wireC.png" width=450> <br/> @21-SebastianSaez1003 me mostró que en el ${\color{#b0e6e6}modo \ esquemático}$ se puede ${\color{#b0e6e6}cambiar \ el \ color \ de \ los \ cables}$ para que sea más facil ${\color{#b0e6e6}diferenciarlos}$ <br/><br/><br/>
 >>
 >> ### JST
 >> <img align="left" src="./files/JST-XH.jpg" width=450> <br/><br/><br/><br/><br/><br/><br/> Conector ámpliamente usado en la industria, pequeño y barato, similar a los conectores ${\color{#b0e6e6}dupont}$ pero con un ${\color{#b0e6e6}mecanismo \ de \ retención}$ que además ${\color{#b0e6e6}previne}$ que se ${\color{#b0e6e6}inserte \ al \ revés}$ <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 ><br/>
 -----------------------------------------------------------------------------------------------------------
 ## Encargo 16
-### UDPudu (hacerse una cuenta en JLCPCB y cotizar udpudu, para 30 personas, documentar cada parámetro y elección.)
+### UDPudu - Cotización
 > <img align="left" src="./files/udpudu-F.png" width=460><img align="left" src="./files/udpudu-B.png" width=460> <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 >
 > Considerando 1 PCB por persona (30 PCBs total), El precio de la orden sería de $16.40 USD + envío ($14.03 USD - $48.39 USD) o $1.02 USD - $2.16 USD por cada PCB <br/>
@@ -56,86 +56,86 @@
 > Si se consideran 5 PCBs por persona (150 PCBs total), El precio quedaría en $31.1 USD + envío ($71.80 USD - $90.41 USD) o $0.69 USD - $0.81 USD por cada PCB <br/>
 >
 > Parámetros modificados:
-> * Color: Azul
+> * Color: ${\color{blue}Azul}$
 > * Surface finish: Leadfree HASL
 -----------------------------------------------------------------------------------------------------------
 ## Encargo 17
-### JLCPCB - parámetros (probar opciones que no entiendan, documentar otros parámetros que no conozcan aún.)
+### JLCPCB - parámetros
 >> ### Material:
->>> ### FR4 <br/>
->>> <img align="left" src="./files/fr4.jpg" width=300> <br/><br/> (Fire Retardant 4) resina apoxi reforzada con fibra de vidrio, es barato y suficientemente resistente para la mayoría de aplicaciones. No es buen conductor de calor <br/><br/><br/><br/>
+>>> ### FR4 (Fire Retardant 4) <br/>
+>>> <img align="left" src="./files/fr4.jpg" width=300> <br/><br/> resina apoxi reforzada con fibra de vidrio, es ${\color{#b0e6e6}barato}$ y suficientemente ${\color{#b0e6e6}resistente}$ para la mayoría de aplicaciones. ${\color{#b0e6e6}No \ es \ buen}$ ${\color{#b0e6e6}conductor \ de \ calor}$ <br/><br/><br/><br/><br/> 
 >>>
 >>> ### Flex <br/>
->>> <img align="left" src="./files/flex.jpg" width=300> <br/> Se emplea una lámina de polímero flexible como substrato, son muy delgadas y livianas. Se suelen emplear como cables que unen otras PCBs en diseños con limitaciones de espacio y en situaciones donde no sea recomendable tener una PCB rígida, como en teclados flexibles <br/><br/><br/>
+>>> <img align="left" src="./files/flex.jpg" width=300> <br/> Se emplea una lámina de polímero ${\color{#b0e6e6}flexible}$ como substrato, son muy ${\color{#b0e6e6}delgadas}$ y ${\color{#b0e6e6}livianas}$. Se suelen emplear como cables que unen otras PCBs en diseños con limitaciones de espacio y en situaciones donde no sea recomendable tener una PCB rígida, como en teclados flexibles <br/><br/><br/>
 >>>
 >>> ### Aluminio <br/>
->>> <img align="left" src="./files/al.jpg" width=300> <br/><br/> Se utiliza en circuitos donde es escencial disipar el calor producido por los componentes rápidamente. Todas las ampolletas LED (quemadas) que he desarmado tienen montadas las LEDs en una pcb de aluminio <br/><br/><br/>
+>>> <img align="left" src="./files/al.jpg" width=300> <br/><br/> Se utiliza en circuitos donde es escencial ${\color{#b0e6e6}disipar}$ el ${\color{#b0e6e6}calor}$ producido por los componentes rápidamente. Todas las ampolletas LED (quemadas) que he desarmado tienen montadas las LEDs en una pcb de aluminio <br/><br/><br/>
 >>>
 >>> ### Centro de cobre <br/>
->>> <img align="left" src="./files/CuCore.jpg" width=300> <br/> Similar al aluminio, pero es 2 veces mejor disipando calor (400 W/mK v/s 205 W/mK) y al tener menos reistencia a la corriente, afecta en menos medida a componentes muy sensibles a variaciones en la señal eléctrica, además de ser capaz de entregar una mayor corriente a circuitos más poderosos <br/><br/><br/>
+>>> <img align="left" src="./files/CuCore.jpg" width=300> <br/> Similar al aluminio, pero es ${\color{#b0e6e6}2 \ veces \ mejor \ disipando \ calor}$ (400 W/mK v/s 205 W/mK) y al tener ${\color{#ffe4a8}menos \ reistencia}$ a la corriente, afecta en menos medida a componentes muy sensibles a variaciones en la señal eléctrica, además de ser capaz de entregar una ${\color{#b0e6e6}mayor \ corriente}$ a circuitos más poderosos <br/><br/><br/>
 >>>
 >>> ### Rogers <br/>
->>> <img align="left" src="./files/rogers.jpg" width=300> <br/><br/> Más blando que el FR4, pero es menos disruptivo a señales de alta frecuencia (Coeficiente de disperción de pérdida de señal FR4 = 0.02% v/s Rogers 0.004%), haciendolo ideal para circuitos de radio frecuencia (RF) y soporta mejor el calor <br/><br/><br/><br/>
+>>> <img align="left" src="./files/rogers.jpg" width=300> <br/><br/> Más ${\color{#b0e6e6}blando}$ que el FR4, pero es ${\color{#b0e6e6}menos \ disruptivo \ a \ señales \ de \ alta \ frecuencia}$ (Coeficiente de disperción de pérdida de señal FR4 = 0.02% v/s Rogers 0.004%), haciendolo ideal para circuitos de ${\color{#b0e6e6}radio \ frecuencia \ (RF)}$ y soporta mejor el calor <br/><br/><br/><br/>
 >>>
 >>> ### PTFE teflon <br/>
->>> <img align="left" src="./files/ptfe.jpg" width=300> <br/> Similar a Rogers, pero su Coeficiente de disperción de pérdida de señal es más bajo (0.001% v/s 0.004%), tiene una mejor conductividad térmica y tiene una mayor resistencia a químicos. Se suele emplear en instrumentos médicos y la industria aeroespacial <br/><br/><br/><br/><br/>
+>>> <img align="left" src="./files/ptfe.jpg" width=300> <br/> Similar a Rogers, pero su ${\color{#b0e6e6}Coeficiente \ de \ disperción \ de \ pérdida \ de \ señal \ es \ más \ bajo}$ (0.001% v/s 0.004%), tiene una ${\color{#b0e6e6}mejor \ conductividad \ térmica}$ y tiene una mayor ${\color{#b0e6e6}resistencia \ a \ químicos}$. Se suele emplear en instrumentos médicos y la industria aeroespacial <br/><br/><br/><br/><br/>
 >>>
 >> ### N° de capas de cobre <br/>
->> <img align="left" src="./files/capas.jpg" width=320> <br/> La cantidad de planos en los cuales se trazaron conexiones en la PCB. Se suelen emplear capas extra para reducir el tamaño de una placa, al no necesitar tento espacio (ejes X,Y) para trazar conexiones. Y para delimitar capas enteras como Vcc y/o GND para estabilizar la señal en circuitos sensibles a "ruido" <br/><br/><br/>
+>> <img align="left" src="./files/capas.jpg" width=320> <br/> La cantidad de ${\color{#b0e6e6}planos \ en \ los \ cuales \ se \ trazaron \ conexiones}$ en la PCB. Se suelen emplear capas extra para ${\color{#b0e6e6}reducir \ el \ tamaño}$ de una placa, al no necesitar tento espacio (ejes X,Y) para trazar conexiones. Y para delimitar capas enteras como ${\color{red}Vcc}$ y/o ${\color{white}GND}$ para ${\color{#b0e6e6}estabilizar \ la \ señal}$ en circuitos sensibles a "ruido" <br/><br/><br/>
 >>
 >> ### Tipo de producto <br/>
->> La calidad de manufactura y rigurosidad de testeo de la placa
+>> La ${\color{#b0e6e6}calidad}$ de manufactura y ${\color{#b0e6e6}rigurosidad \ de \ testeo}$ de la placa
 >>
 >> ### Diseño diferente <br/>
->>> <img align="left" src="./files/Vcut.jpg" width=320> <br/><br/><br/><br/><br/> Cuantas placas distintas conforman el archivo subido a JLCPCB <br/><br/><br/><br/><br/><br/>
+>>> <img align="left" src="./files/Vcut.jpg" width=300> <br/><br/><br/><br/><br/> ${\color{#b0e6e6}Cuantas \ placas \ distintas}$ conforman el archivo subido a JLCPCB <br/><br/><br/><br/><br/>
 >>>
 >>> ### Formato de entrega <br/>
->>> Quien y como se realiza la cubicación de las distintas placas PCBs en el panel (gran PCB) <br/><br/>
+>>> ${\color{#b0e6e6}Quien \ y \ como}$ se realiza la ${\color{#b0e6e6}cubicación}$ de las distintas placas PCBs en el panel (gran PCB) <br/><br/>
 >>
 >> ### Grosor de la PCB <br/>
->> <img align="left" src="./files/thick.jpg" width=320> <br/> Define el grosor de la placa final (mayor grosor = mayor resistencia) (a menor grosor es posible que la placa se comporte como un capacitor, alterando la señal, lo que puede ser beneficioso o perjudical dependiendo de nuestro diseño <br/><br/><br/>
+>> <img align="left" src="./files/thick.jpg" width=320> <br/> Define el ${\color{#b0e6e6}grosor}$ de la placa final (${\color{#ffe4a8}mayor \ grosor \ = \ mayor \ resistencia}$) (a ${\color{#6462fe}menor \ grosor}$ es posible que la placa se comporte como un ${\color{#6462fe}capacitor}$, alterando la señal, lo que puede ser beneficioso o perjudical dependiendo de nuestro diseño <br/><br/><br/>
 >>
 >> ### Color <br/>
->> <img align="left" src="./files/colors.jpg?raw=true" width=320> <br/><br/><br/><br/> El color de la máscara. Se suele utilizar el verde, pero no es el único color disponible <br/><br/><br/><br/><br/><br/>
+>> <img align="left" src="./files/colors.jpg?raw=true" width=320> <br/><br/><br/><br/> El color de la máscara. Se suele utilizar el ${\color{lightgreen}verde}$, pero no es el único color disponible <br/><br/><br/><br/><br/><br/>
 >>
 >> ### Silkscreen <br/>
->> <img align="left" src="./files/silkscreen.jpg?raw=true" width=320> <br/><br/> El color de la tinta a utilizar para imprimir los trazados de la capa silkscreen, en JLCPCB es blanco o negro, pero algunos fabricantes, como PCBway, permiten imprimir gráficos a color en esta capa <br/><br/><br/><br/>
+>> <img align="left" src="./files/silkscreen.jpg?raw=true" width=320> <br/><br/> El ${\color{#b0e6e6}color}$ de la ${\color{#b0e6e6}tinta}$ a utilizar para imprimir los trazados de la capa silkscreen, en ${\color{#b0e6e6}JLCPCB \ es \ blanco \ o \ negro}$, pero algunos fabricantes, como ${\color{#b0e6e6}PCBway}$, permiten imprimir ${\color{#b0e6e6}gráficos \ a \ color}$ en esta capa <br/><br/><br/><br/>
 >>
 >> ### Tipo de material <br/>
->> Que "sabor" específico del material base a utilizar (ej: mayor resistencia al calor)
+>> Que ${\color{#b0e6e6}"sabor"}$ específico del material base a utilizar (ej: mayor resistencia al calor)
 >>
 >> ### Acabado de superficie <br/>
->> El tipo de recubrimiento que se aplicará sobre la capa de cobre (esto se hace para evitar la oxidación del cobre, ya que si se oxida no se puede soldar)
+>> El tipo de ${\color{#b0e6e6}recubrimiento}$ que se aplicará sobre la ${\color{#b0e6e6}capa \ de \ cobre}$ (esto se hace para ${\color{#b0e6e6}evitar}$ la ${\color{#b0e6e6}oxidación}$ del cobre, ya que ${\color{#b0e6e6}si \ se}$ ${\color{#b0e6e6}oxida \ no \ se \ puede \ soldar}$)
 >>> ### HASL (Hot Air Solder Leveling) <br/>
->>> <img align="left" src="./files/HASL.jpg?raw=true" width=320> <br/><br/><br/><br/> Se cubre el cobre con estaño, el cual puede tener o no tener plomo. Este acabado hace más facil soldar componentes a la placa <br/><br/><br/><br/><br/><br/>
+>>> <img align="left" src="./files/HASL.jpg?raw=true" width=300> <br/><br/><br/><br/> Se cubre el cobre con ${\color{#b0e6e6}estaño}$, el cual puede tener o no tener plomo. Este acabado hace más ${\color{#b0e6e6}facil \ soldar}$ componentes a la placa <br/><br/><br/><br/><br/><br/>
 >>>
 >>> ### ENIG (Electroless Nickel Immersion Gold) <br/>
->>> <img align="left" src="./files/ENIG.jpg?raw=true" width=320> <br/><br/><br/> Se recubre el cobre en una capa delgada de niquel, la cual es a su vez recubierta en una capa delgada de oro. Este acabado resulta en una superficie excepcionalmente plana y uniforme, lo que lo hace ideal para diseños con componentes muy pequeños y en grandes densidades, que de otra forma se moverían más durante el proceso de soldadura <br/><br/><br/><br/><br/>
+>>> <img align="left" src="./files/ENIG.jpg?raw=true" width=300> <br/><br/><br/> Se recubre el cobre en una capa delgada de ${\color{#b0e6e6}niquel}$, la cual es a su vez recubierta en una capa delgada de ${\color{#b0e6e6}oro}$. Este acabado resulta en una ${\color{#b0e6e6}superficie}$ excepcionalmente ${\color{#b0e6e6}plana \ y \ uniforme}$, lo que lo hace ideal para ${\color{#b0e6e6}diseños \ con}$ ${\color{#b0e6e6}componentes \ muy \ pequeños \ y \ en \ grandes \ densidades}$, que de otra forma se moverían más durante el proceso de soldadura <br/><br/><br/><br/><br/>
 >>
 >> ### Peso de cobre (externo e interno) <br/>
->> <img align="left" src="./files/weight.jpg?raw=true" width=320> <br/> El grosor de los trazos de cobre (eje Z), en caso de tener que aumentar el volumen de los trazados de cobre, para permitir que la corriente circule bien (alta corriente) se puede aumentar el grosor de la capa de cobre, en lugar de ensanchar los trazados (eje X,Y) <br/><br/><br/>
+>> <img align="left" src="./files/weight.jpg?raw=true" width=320> <br/> El ${\color{#b0e6e6}grosor \ de \ los \ trazos \ de \ cobre}$ (eje Z), en caso de tener que aumentar el volumen de los trazados de cobre, para permitir que la ${\color{#b0e6e6}corriente}$ circule bien (alta corriente) se puede aumentar el grosor de la capa de cobre, en lugar de ensanchar los trazados (eje X,Y) <br/><br/><br/>
 >>
 >> ### Recubrimiento de vias <br/>
->> <img align="left" src="./files/vias.jpg" width=320> <br/><br/><br/><br/> Las vias tipicamente se recubren para evitar algún cortocircuito, limitando el material conductor expuesto. A veces se dejan algunas vias expuestas con el propósito de programar un microcontrolador o simplemente usarlas como puntos de testeo <br/><br/><br/><br/><br/><br/>
+>> <img align="left" src="./files/vias.jpg" width=320> <br/><br/><br/> Las vias tipicamente se ${\color{#b0e6e6}recubren \ para \ evitar \ algún \ cortocircuito}$, limitando el material conductor expuesto. A veces se dejan algunas vias expuestas con el propósito de ${\color{#b0e6e6}programar \ un \ microcontrolador}$ o simplemente usarlas como ${\color{#b0e6e6}puntos \ de \ testeo}$ <br/><br/><br/><br/><br/><br/>
 >>
 >> ### Tamaño mínimo del agujero de las vias <br/>
->> <img align="left" src="./files/hole.jpg" width=320> <br/><br/><br/><br/> Dependiendo de la densidad de nuestro circuito, tener vias más pequeñas puede ayudar a reducir el tamaño de la placa <br/><br/><br/><br/><br/><br/>
+>> <img align="left" src="./files/hole.jpg" width=320> <br/><br/><br/><br/> Dependiendo de la ${\color{#b0e6e6}densidad}$ de nuestro circuito, tener vias más pequeñas puede ayudar a ${\color{#b0e6e6}reducir \ el \ tamaño}$ de la placa <br/><br/><br/><br/><br/><br/>
 >> 
 >> ### Tolerancia del corte del borde <br/>
->> Cuan cerca de las dimensiones especificadas resultan los cortes realizados a la placa. En caso de tener placas PCB con componentes en ambos lados, que se tenga que soldar sobre otra PCV (módulo smd) podría ser beneficioso reducir la tolerancia
+>> ${\color{#b0e6e6}Cuan \ cerca \ de \ las \ dimensiones \ especificadas}$ resultan los cortes realizados a la placa. <br/> En caso de tener placas PCB con componentes en ambos lados, que se tenga que soldar sobre otra PCV (módulo smd) podría ser beneficioso reducir la tolerancia
 >>
 >> ### Confirmación de archivo de producción <br/>
->> El fabricante prepara el o los archivos que utilizarán para fabricar la orden y los enviarán al cliente para que los revise y autorice la producción. Puede ser conveniente para diseños con detalles específicos o pedidos especiales, para evitar la producción de una placa que no cumple los requerimientos del cliente
+>> El ${\color{#b0e6e6}fabricante}$ prepara el o los ${\color{#b0e6e6}archivos}$ que utilizarán para ${\color{#b0e6e6}fabricar}$ la orden y los enviarán al ${\color{#b0e6e6}cliente}$ para que los ${\color{#b0e6e6}revise}$ y autorice la producción. Puede ser conveniente para diseños con detalles específicos o pedidos especiales, para evitar la producción de una placa que no cumple los requerimientos del cliente
 >>
 >> ### Marca en la PCB <br/>
->> <img align="left" src="./files/id.jpg" width=320> <br/><br/><br/> Método (código, codigo de barra o QR) y posición del código de identificación de cada PCB (definida por el fabricante o el cliente) <br/><br/><br/><br/><br/>
+>> <img align="left" src="./files/id.jpg" width=320> <br/><br/><br/> ${\color{#b0e6e6}Método}$ (número de serie, codigo de barra o QR) y ${\color{#b0e6e6}posición \ del \ código \ de \ identificación}$ de cada PCB (definida por el fabricante o el cliente) <br/><br/><br/><br/>
 >>
 >> ### Dedos de oro <br/>
->> <img align="left" src="./files/fingersLOW.jpg?raw=true" width=320> <br/><br/> El acabado de superficie (HASL o ENIG) aplicado a los puntos de conexión en el borde de la placa <br/><br/><br/>
+>> <img align="left" src="./files/fingersLOW.jpg?raw=true" width=320> <br/><br/> El ${\color{#b0e6e6}acabado}$ de superficie (HASL o ENIG) aplicado a los ${\color{#b0e6e6}puntos \ de \ conexión}$ en el ${\color{#b0e6e6}borde}$ de la placa <br/><br/><br/>
 >>
 >> ### Agujeros almenados (castellated holes) <br/>
->> <img align="left" src="./files/castellated.jpg" width=320> <br/><br/><br/> Una mezcla de agujeros y "soldering pads" que van de forma vertical por el borde de la placa. Se utilizan para soldar una PCB sobre otra facilmente (módulo SMD) (acabado ENIG) <br/><br/><br/><br/>
+>> <img align="left" src="./files/castellated.jpg" width=320> <br/><br/><br/> Una mezcla de agujeros y "soldering pads" que van de forma ${\color{#b0e6e6}vertical}$ por el ${\color{#b0e6e6}borde \ de \ la \ placa}$. Se utilizan para ${\color{#b0e6e6}soldar}$ una PCB ${\color{#b0e6e6}sobre}$ otra facilmente (módulo SMD [acabado ${\color{#b0e6e6}ENIG}$]) <br/><br/><br/><br/>
 >>
 >> ### Recubrimiento del borde <br/>
->> <img align="left" src="./files/plating.png" width=320> <br/><br/> Se recubren los bordes de la placa con niquely oro, para aumentar la durabilidad de la placa, para estabilizar la señal de GND y para absorver energía de las ondas electromagnéticas generadas por los trazos de cobre que rebotan en las esquinas de la placa e interfieren con algunos componentes sensibles <br/><br/><br/><br/>
+>> <img align="left" src="./files/plating.png" width=320> <br/><br/> Se recubren los bordes de la placa con niquel y oro, para aumentar la ${\color{#b0e6e6}durabilidad}$ de la placa, para ${\color{#b0e6e6}estabilizar \ la \ señal}$ de GND y para ${\color{#b0e6e6}absorver}$ energía de las ${\color{#b0e6e6}ondas \ electromagnéticas}$ generadas por los trazos de cobre que rebotan en las esquinas de la placa e interfieren con algunos componentes sensibles <br/><br/><br/><br/>
 > <br/>
