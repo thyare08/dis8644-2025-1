@@ -24,6 +24,8 @@
 
 hacerse una cuenta en JLCPCB y cotizar udpudu, para 30 personas, documentar cada parámetro y elección.
 
+<img width="1470" alt="ruteadopcb" src="https://github.com/user-attachments/assets/9e60b680-fac5-4e3d-81b6-c0ef90e05eb8" />
+<img width="1470" alt="esquematico" src="https://github.com/user-attachments/assets/1cd72799-e89f-42b7-840d-f85b96d87fd3" />
 <img width="1582" alt="kicad pcbudpudu" src="https://github.com/user-attachments/assets/9f4931a4-381a-4ee8-8c45-da27c24970b5" />
 <img width="1470" alt="3d viewer" src="https://github.com/user-attachments/assets/9dfe6bf4-e99a-42c6-b88e-246c25333360" />
 <img width="1170" alt="pcb" src="https://github.com/user-attachments/assets/c5d03af0-53b0-4543-8efb-667e2bac0bc5" />
