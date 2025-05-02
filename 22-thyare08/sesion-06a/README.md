@@ -85,5 +85,4 @@ https://github.com/user-attachments/assets/1dfc053f-26e3-40d8-8d1e-b993af6207fa
 
 # Encargo 13: Ver documental Sisters with transistors
   - Mis artitas favoritas fueron Delia Derbyshire y Bebe Barron
-  - Disco escuchado:
-  - 
+  - Disco escuchado: Standard Music Library: Electronic Music de Delia Derbyshire, me parece relajante, divertido y tormentoso, con toques misteriosos en algunas partes, es increíble los sonidos y las emociones que puede generar. Además siento que son sonidos suaves y a veces fuertes, puede deberse a que ella era violinista
