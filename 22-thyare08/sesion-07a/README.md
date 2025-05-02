@@ -47,7 +47,7 @@
 
 # KiCad en práctica
 
-1. Mi primer KiCad: Esquemático hecho en clases
+1. **Mi primer KiCad:** Esquemático hecho en clases
 
 ![Captura de pantalla 2025-04-28 181342](https://github.com/user-attachments/assets/a24ebb27-ebb5-46ab-832b-b4f03a9ebd39)
 
@@ -69,10 +69,10 @@
 ![Captura de pantalla 2025-04-28 192330](https://github.com/user-attachments/assets/5f609c8e-8c7e-4354-a477-e4d4a012bcca)
 ![Captura de pantalla 2025-04-28 192403](https://github.com/user-attachments/assets/1ea0aae9-3d09-4830-b5ee-249ace23702c)
 
-# Encargo 14: Atari Punk Console en KiCad
+# **Encargo 14:** Atari Punk Console en KiCad
 
 ![Captura de pantalla 2025-04-28 200255](https://github.com/user-attachments/assets/76fd99cb-483b-4128-91c0-cea343469708)
 
-# Encargo 15: Plantear 2 dudas y/o aprendizajes sobre el manual de supervivencia en KiCad
+# **Encargo 15:** Plantear 2 dudas y/o aprendizajes sobre el manual de supervivencia en KiCad
  1. ¿Se puede cambiar el color de la PCB?
  2. ¿Se puede hacer PCB en materiales flexibles?
