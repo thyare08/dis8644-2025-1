@@ -47,4 +47,4 @@ en total, 25 mil pesos chilenos.
 ![Captura de pantalla 2025-05-01 214032](https://github.com/user-attachments/assets/18cd6582-fc25-4e07-ba77-05d58db446df)
 Por 5 pcb con el material de base aluminio, color pcb negro 19.80 dólares = 19 mil pesos chilenos, más el envío 22.82 dólares = 22 mil pesos chilenos, 
 
-en total, 41 mil pesos chilenos, solo por el cambio de color de la pcb, de blanco a negro existe una importante diferencia.
+en total, 41 mil pesos chilenos, sólo por el cambio de color de la pcb, de blanco a negro existe una importante diferencia.
