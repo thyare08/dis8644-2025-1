@@ -1,8 +1,10 @@
 # sesion-05b
 
+**Aprendimos a soldar en PBC**
+
 ![20250415_095525](https://github.com/user-attachments/assets/49967a5a-b22e-4a23-b042-72b6e253b618)
 
-Aprendí a soldar en placas PBC, de la siguiente manera:
+Soldar en placas PBC, se hace de la siguiente manera:
 
 1. Con el cautín calentar por 3 segundos la placa y las patas del soporte para 555
 2. Luego aplicar soldadura, una cantidad adecuada
