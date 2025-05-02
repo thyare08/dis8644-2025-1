@@ -33,4 +33,18 @@ hacerse una cuenta en JLCPCB y cotizar udpudu, para 30 personas, documentar cada
 <img width="1470" alt="pcbsinplomo" src="https://github.com/user-attachments/assets/77bceed2-543c-46eb-8460-8cb5b6c411af" />
 
 ## encargo-17: cotizar udpudu en JLCPCB de forma experimental
+
 probar opciones que no entiendan, documentar otros parámetros que no conozcan aún.
+
+**1. cotización sin cambios**
+   
+<img width="1470" alt="cotizacionsincambio" src="https://github.com/user-attachments/assets/c0b92429-c927-4624-bcad-bbe80c051e3f" />
+   
+**2. peso exterior de cobre**
+
+<img width="1470" alt="pesoexcobre" src="https://github.com/user-attachments/assets/45ba8841-5c63-4a50-bd72-afe9160d27d2" />
+
+**3. relleno y tapado con epoxi**
+
+<img width="1470" alt="rellenotapadoepoxi" src="https://github.com/user-attachments/assets/877ddd2d-1a3b-422d-b295-99be65806a01" />
+
