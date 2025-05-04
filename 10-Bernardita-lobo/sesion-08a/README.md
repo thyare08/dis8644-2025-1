@@ -15,7 +15,7 @@
 - se utiliza el mounting hole para hacer las perforaciones para pernos M3.
 - pude cambiar de capa algunos dibujos que quería que quedaran en cobre, y también agregué el logo de la Escuela de Diseño.
 
-./archivos/tme-sesion08a-editorPlaca.PNG
+./archivos/tme-sesion08a-editorPlaca.png
 
 ![tme-sesion08a-editorPlaca](https://github.com/user-attachments/assets/ee7f2ad8-6c9d-45f3-a421-d6b60a161475)
 
