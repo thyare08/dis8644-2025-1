@@ -15,6 +15,7 @@
 - mounting hole para hacer las perforaciones perno m3
 - pude cambiar de capa de algunos dibujos que queria que quedarn en cobre y tambien agrege en logo de la escuela de diseño
 
+./archivos/tme-sesion08a-editorPlaca.PNG
 ![tme-sesion08a-editorPlaca](https://github.com/user-attachments/assets/ee7f2ad8-6c9d-45f3-a421-d6b60a161475)
 
 ![tme-sesion08a-visor3D](https://github.com/user-attachments/assets/8418c092-0b2e-4ea6-b033-d13e1e55e550)
