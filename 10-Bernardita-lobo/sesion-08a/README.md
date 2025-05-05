@@ -11,15 +11,13 @@
 
 - nos enseñaron cómo insertar una imagen SVG o DXF, archivos vectoriales con un contorno cerrado, en KiCad.
 - se cambia de capa con la letra E, donde están las propiedades.
-- para insertar, se utiliza el atajo Ctrl + Shift + F. 
+- para insertar, se utiliza el atajo Ctrl + Shift + F.
 - se utiliza el mounting hole para hacer las perforaciones para pernos M3.
 - pude cambiar de capa algunos dibujos que quería que quedaran en cobre, y también agregué el logo de la Escuela de Diseño.
 
-./archivos/tme-sesion08a-editorPlaca.png
+![captura de editor Kicad para editar placa PCB](./archivos/tme-sesion08a-editorPlaca.png)
 
-![tme-sesion08a-editorPlaca](https://github.com/user-attachments/assets/ee7f2ad8-6c9d-45f3-a421-d6b60a161475)
-
-![tme-sesion08a-visor3D](https://github.com/user-attachments/assets/8418c092-0b2e-4ea6-b033-d13e1e55e550)
+![captura de editor Kicad para visor 3D de placa PCB](./archivos/tme-sesion08a-visor3D.png)
 
 ### OpenSCAD
 
@@ -55,4 +53,3 @@
 - después de esto me perdí un poco, ya que fue mucha información.
 
 ![tme-sesion08a-hithub](https://github.com/user-attachments/assets/61378535-9435-4050-917c-a9381b8f3d33)
-
