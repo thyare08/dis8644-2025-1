@@ -14,3 +14,16 @@ Consecuentemente se nos dieron como muestra los siguientes artilugios:
 ###
 ## **Comienzo de clase**
 Como ninguno (yo incluido) trajo su caja mágica a la clase nos dedicamos a hablar de los contenidos de a un nivel más teórico, con ello englobando la electrónica en general.
+<div align="left">
+  <img height="500" src="https://media.discordapp.net/attachments/1248658110625742862/1370417913823100968/20250509_103200.jpg?ex=681f6ca3&is=681e1b23&hm=44f40079c836ec96083621400af3c02fc7028c49c60d8b3fc8257dc0aded125e&=&format=webp&width=701&height=525"  />
+</div>
+
+# RECESO de 15 minutos
+
+## Regreso a clases
+### Circuito PWM (Variación astable)
+<div align="left">
+  <img height="100%" src="https://media.discordapp.net/attachments/1248658110625742862/1370425379243954326/image.png?ex=681f7397&is=681e2217&hm=2d6e34de49b8801d0a6caf777eeb415c78cbbd46eb77694857679a1f2ef1b794&=&format=webp&quality=lossless&width=1239&height=1260"  />
+</div>
+
+###
