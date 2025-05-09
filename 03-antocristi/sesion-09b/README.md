@@ -31,6 +31,8 @@ d.- Circuitos: AS, MS, P/S, APC
 
 e.- Caja negra; Modilaridad
 
+Relé: aviso 
+
 ### PWM
 
 Pulse Width Modulation ( Modulación por ancho de pulso)( variación astable)
