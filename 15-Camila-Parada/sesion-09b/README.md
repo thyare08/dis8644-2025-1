@@ -23,9 +23,15 @@ Tras ello nos quedan las últimas 7 semanas de clases. Vamos a usar nuevas pieza
 
 <br>
 
-- [PAM 8403](https://afel.cl/products/amplificador-stereo-clase-d-2x3w-pam8403?srsltid=AfmBOoq8AjxWD2ZoGiEjyWEiV9xWqypejVilDozwdgQ8L9h4xyjweiaL): Es un módulo y amplificador digital dual relacionado al audio. Usa tecnología SMD (todo soldado por un lado, hecho por una máquina).
+- [PAM 8403](https://afel.cl/products/amplificador-stereo-clase-d-2x3w-pam8403?srsltid=AfmBOoq8AjxWD2ZoGiEjyWEiV9xWqypejVilDozwdgQ8L9h4xyjweiaL): Es un módulo y amplificador digital dual relacionado al audio. Usa tecnología SMD (todo soldado por un lado, hecho por una máquina). 
   
-- [RELE 01 ](https://afel.cl/products/rele-de-01-canal): Un Relé (en inglés Relay) es una pieza electrónica
+- [RELE de 01 Canal](https://afel.cl/products/rele-de-01-canal): Un Relé (en inglés Relay) es una pieza electrónica que funciona como un interruptor controlado por la energía presente en un circuito electrico. Esta pieza posee una bobina (almacena energía de forma pasiva) y un electroimán (requiere de bobina para funcionar, permitiendo prender o apagar según la presencia de corriente).  Su funcionamiento permite encender u apagar secciones de un circuito y controlar la potencia que ingreso, pudiendo considerarse un amplificador eléctrico. Existen variedades de relés en el mercado.
+
+Con estas piezas en mano nos disponemos a recordar los conocimientos relacionados con el chip 555: astable (estado variable constante) y monoestable (estado permanente hasta que se perturbe).
+
+Power Supply (ps, una batería)
+
+Modularidad. 
 
 <br>
 
