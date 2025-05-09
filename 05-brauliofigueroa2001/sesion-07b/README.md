@@ -83,5 +83,15 @@ de todas formas en base a la clase online subiré mis apuntes
 -  intento asignar huella al switch pero no me aparece la específica en modulosteee2025, solo aparece caimán, preguntar en clase
 -  no sé si debo descargar la carpeta que mandó misaaa al discord el 25 de abril aprox a las 11:27 , no sé si esa carpeta tiene algo nuevo que no tenga la que había mandado aaron aprox a las 9, me dió miedo reemplazarla una encima de otra por lo cual no lo hice
 -  ACTUALIZACIÓN: misaaa me respondió en clases y lo que tengo que hacer es descargar la nueva carpeta de libraries (11:27) y sobreescribir la otra, porque esta trae los componentes nuevos y de esta forma me aparecerán más aparte de caiman
--  
+-  ahora sí aparece la huella para el switch, que era spdt_pcb
+-  una vez tengo todas las huellas asignadas, debo trasladarlas al lado del diseño de la placa pcb
+-  me traslado a la pestaña de la placa y arriba a la derecha apreto click en el ícono que me deja actualizar la placa
+-  de esta forma toda la información del esquemático es trasladada a la placa
+-  ahora debemos diseñar nuestro outline con la herramienta línea en la placa edgecuts, seleccionaremos una grilla de 5 mm y la haremos de tamaño 55x85 mm
+-  una vez trazado nuestro rectángulo debemos ir moviendo nuestros elementos a la placa
+-  dejamos al centro el chip alineándolo vertical y horizontalmente
+-  luego movemos los caimanes y los alineamos verticalmente
+-  vamos moviendo todos los elementos y los alineamos vertical y horizontalmente para que queden de la forma más ordenada posible y ninguno se tope con otro
+-  después de ordenar nuestros elementos vamos a darle forma curva a las esquinas de nuestra placa con la herramienta de arco
+-  luego de esto debemos pasar a utilizar la herramienta de ruteo, lo haremos en la placa b.cu
   
