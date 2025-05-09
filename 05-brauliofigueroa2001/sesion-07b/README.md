@@ -94,4 +94,5 @@ de todas formas en base a la clase online subiré mis apuntes
 -  vamos moviendo todos los elementos y los alineamos vertical y horizontalmente para que queden de la forma más ordenada posible y ninguno se tope con otro
 -  después de ordenar nuestros elementos vamos a darle forma curva a las esquinas de nuestra placa con la herramienta de arco
 -  luego de esto debemos pasar a utilizar la herramienta de ruteo, lo haremos en la placa b.cu
+-  
   
