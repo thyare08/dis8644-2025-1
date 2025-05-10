@@ -57,7 +57,7 @@ Su configuración es SPDT (un polo, dos tiros).
  |chip |1|555|
  |capacitor|1|474n|
  |capacitor porlarizado|1|100uf|
- |diodo|2||
+ |diodo|2|1n|
  |led|1|red|
  |potenciómetro|1|100k|
  |bateria|1| 9v|
