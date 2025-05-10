@@ -21,19 +21,20 @@ Las PCBs de 2 capas con un grosor de 0.6 mm no admiten el acabado superficial HA
 
 Es posible agregar un codigo de barras que se lee a través de un QR que se aplica a la placa
 
-![codigo de barras]file:///Users/sofia/Desktop/Captura%20de%20pantalla%202025-05-09%20a%20la(s)%2011.32.45%E2%80%AFp.m..png
+![codigo de barras]<img width="983" alt="Captura de pantalla 2025-05-09 a la(s) 11 32 45 p m" src="https://github.com/user-attachments/assets/fca25c29-5b48-4aad-91b9-38832a299ac7" />
 
 La página te da la opción de visor gerber, puedes ver la placa en 2D, 3D, y también te permite ver las capas 
 
-![JLCPCB 2D]file:///Users/sofia/Desktop/Captura%20de%20pantalla%202025-05-09%20a%20la(s)%2011.40.54%E2%80%AFp.m..png
+![JLCPCB 2D] <img width="1406" alt="Captura de pantalla 2025-05-09 a la(s) 11 40 54 p m" src="https://github.com/user-attachments/assets/a94bcda8-4bd3-49be-b31b-ca65f566eedc" />
 
-![JLCPCB 3D]file:///Users/sofia/Desktop/Captura%20de%20pantalla%202025-05-09%20a%20la(s)%2011.40.45%E2%80%AFp.m..png
+![JLCPCB 3D]<img width="1406" alt="Captura de pantalla 2025-05-09 a la(s) 11 40 45 p m" src="https://github.com/user-attachments/assets/a24b491d-8c2c-483f-ab7f-dcd9da627b88" />
 
-![JLCPCB layers]file:///Users/sofia/Desktop/Captura%20de%20pantalla%202025-05-09%20a%20la(s)%2011.41.03%E2%80%AFp.m..png
+![JLCPCB layers]<img width="1406" alt="Captura de pantalla 2025-05-09 a la(s) 11 41 03 p m" src="https://github.com/user-attachments/assets/9c4fe353-feb0-466b-8075-e7f5d134c1b5" />
 
-![JLCPCB bottom]file:///Users/sofia/Desktop/Captura%20de%20pantalla%202025-05-09%20a%20la(s)%2011.41.11%E2%80%AFp.m..png
+![JLCPCB bottom]<img width="1406" alt="Captura de pantalla 2025-05-09 a la(s) 11 41 11 p m" src="https://github.com/user-attachments/assets/96ddc6a8-2790-439c-a0ee-d2c5aced71dc" />
 
 Para la placa que creé, el costo para 30 personas es mucho mas elevado que para 5 personas, y también cambia el costo de envío
 
-![precio calculado para 30 personas]file:///Users/sofia/Desktop/Captura%20de%20pantalla%202025-05-09%20a%20la(s)%2011.44.52%E2%80%AFp.m..png
-![precio calculado para 5 personas]file:///Users/sofia/Desktop/Captura%20de%20pantalla%202025-05-09%20a%20la(s)%2011.46.46%E2%80%AFp.m..png
+![precio calculado para 30 personas]<img width="1406" alt="Captura de pantalla 2025-05-09 a la(s) 11 44 52 p m" src="https://github.com/user-attachments/assets/13400741-b56b-4a37-8d12-40ab39d22dc2" />
+
+![precio calculado para 5 personas]<img width="1406" alt="Captura de pantalla 2025-05-09 a la(s) 11 46 46 p m" src="https://github.com/user-attachments/assets/6c3c98f6-d71f-4485-9c7e-6a32a61fbcb1" />
