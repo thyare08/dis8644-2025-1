@@ -69,6 +69,6 @@ _1. <https://maxelectronica.cl/reles-electromecanicos/494-rele-electromecanico-m
 
 _2. <https://www.electrohobby.es/amplificador/178-amplificador-estereo-pam8403.html>_
 
-_3. <chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.sarte-audio.com/sites/default/files/los_amplificadores_en_clase_d-1.pdf>_
+_3. <https://www.sarte-audio.com/sites/default/files/los_amplificadores_en_clase_d-1.pdf>_
 
 
