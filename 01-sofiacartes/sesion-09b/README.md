@@ -70,7 +70,7 @@ Su configuración es SPDT (un polo, dos tiros).
 
 ## Registro modificación en clases
 
-<https://github.com/user-attachments/assets/0e3d102e-1cd0-4b5e-a7fb-b83455c811ab>
+<https://github.com/user-attachments/assets/8e13ee87-c0f8-40b7-a3e9-940ab76bd32d>
 
 ## Encargo circuito en protoboard
 
