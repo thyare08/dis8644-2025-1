@@ -51,9 +51,29 @@
 
 ![final ](https://github.com/user-attachments/assets/08e1c820-99db-4533-8c10-fa338063727f)
 
-- Me demore bastante ya que mi computador se quedaba pegado a cada instante, y en la parte final, se reinicio todo;(, y se fue la pantalla a negro pero lo intentare nuevamente mañana:((
-- 
+## Rellenamos la placa y terminamos las uniones
+ ![zonas rellenadas](https://github.com/user-attachments/assets/f3a26cef-89e2-4c4a-9fbf-6576b4cbc635)
+
+![placa final](https://github.com/user-attachments/assets/b8eb6c98-df60-482d-8768-8fffdf9c0303)
+
+# Encargo 16: Cotización 
+- Primero guardamos nuestro archivo como “udpudu_gerber” y lo convertimos en un archivo zip
+![pudu zip](https://github.com/user-attachments/assets/e1fcb1ca-9776-450d-93c6-608c204bfb5f)
+- Entramos a la pagina de fabricante de prototipos 
+![paginapsb](https://github.com/user-attachments/assets/01a1314c-14f0-4838-8d07-19ac9e212839)
+- Cargamos la carpeta zip del documento
   
+![cargar archivo](https://github.com/user-attachments/assets/cace3a20-4a9e-4f40-87a3-190b4f34a7e7)
+
+- Cotizamos placas para 30 personas 
+![preciopsbcurso](https://github.com/user-attachments/assets/bf371398-0757-44b8-b3a0-16e20a5ce131)
+
+## Encargo 17:
+Solo cambie algunas configuraciones como que tuviera dedos de hora y agujeros almenados los cuales no entendía para qué , y el precio subió a 40 dólares!!!
+![pruebas](https://github.com/user-attachments/assets/ea6b1138-7ecc-4a61-b901-5ab3fd6b52e8)
+
+
+
 
 
 
