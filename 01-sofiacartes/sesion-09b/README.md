@@ -62,7 +62,23 @@ Su configuración es SPDT (un polo, dos tiros).
  |potenciómetro|1|100k|
  |bateria|1| 9v|
 
+ ## Esquemático
  
+![IMG_9057](https://github.com/user-attachments/assets/144a9260-37bd-44f1-a83c-d923e21805b2)
+ 
+![pizarra09-05](https://github.com/user-attachments/assets/a9f83c81-7b10-48e1-806b-5cdeaf185d06)
+
+## Registro modificación en clases
+
+<https://github.com/user-attachments/assets/0e3d102e-1cd0-4b5e-a7fb-b83455c811ab>
+
+## Encargo circuito en protoboard
+
+![circuitopwm](https://github.com/user-attachments/assets/0be94194-34bd-44d9-98b0-69d462fc5d74)
+
+<https://github.com/user-attachments/assets/53ea5f50-bcc0-497a-b205-d69b4c5b20f0>
+
+
 _información sacada de:_
 
 _1. <https://maxelectronica.cl/reles-electromecanicos/494-rele-electromecanico-modelo-srd-05vdc-sl-c-5v.html#:~:text=Este%20rel%C3%A9%20de%205%20volts,circuito%20impreso%20de%20orificio%20pasante.>_
@@ -71,4 +87,4 @@ _2. <https://www.electrohobby.es/amplificador/178-amplificador-estereo-pam8403.h
 
 _3. <https://www.sarte-audio.com/sites/default/files/los_amplificadores_en_clase_d-1.pdf>_
 
-
+_reductor peso videos: <https://clideo.com/es/compress-video>_
