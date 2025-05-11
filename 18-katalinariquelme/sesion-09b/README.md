@@ -12,7 +12,9 @@ Foto componente 1
 
 (foto tomada con mi celular)
 
-Este amplificador de audio estéreo Clase D, donde la potencia se une a una eficiencia excepcional en un diseño sorprendentemente compacto.
+¿Qué es?
+
+Es un amplificador de audio estéreo Clase D, donde la potencia se une a una eficiencia excepcional en un diseño sorprendentemente compacto.
 
 ¿Qué es un amplificador audio estéreo clase D?
 
@@ -25,6 +27,8 @@ Foto componente 2
 ![IMG_0584](https://github.com/user-attachments/assets/b972fa16-ea96-40c4-afa7-877cc1864ad6)
 
 (foto tomada con mi celular)
+
+¿Qué es?
 
 Este dispositivo facilita el control de encendido y apagado de equipos de corriente alterna, proporcionando aislamiento y conmutando cargas resistivas de manera eficiente.
 
