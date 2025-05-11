@@ -24,7 +24,7 @@ out = LEDS, sonido, nov
 
 ## Diferencia entre lo digital y lo analogico 
 
-![Uploading IMG_0574.jpeg…]()
+![IMG_0574](https://github.com/user-attachments/assets/5a00032b-ae38-49d5-975b-1a76eceb0836)
 
 ## Circuito esquematico visto en clases
 
