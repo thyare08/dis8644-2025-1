@@ -6,9 +6,11 @@ Viernes 09 de Mayo del 2025.
 
 - **Chip 8403**
 
-Foto componente 1
+Foto componente 1 
 
+![IMG_0583](https://github.com/user-attachments/assets/1215f913-9b06-4157-a4a4-218c0f3ac35f)
 
+(foto tomada con mi celular)
 
 Este amplificador de audio estéreo Clase D, donde la potencia se une a una eficiencia excepcional en un diseño sorprendentemente compacto.
 
@@ -20,7 +22,9 @@ Este amplificador se caracteriza por emplear técnicas de conmutación, ya sea e
 
 Foto componente 2
 
+![IMG_0584](https://github.com/user-attachments/assets/b972fa16-ea96-40c4-afa7-877cc1864ad6)
 
+(foto tomada con mi celular)
 
 Este dispositivo facilita el control de encendido y apagado de equipos de corriente alterna, proporcionando aislamiento y conmutando cargas resistivas de manera eficiente.
 
