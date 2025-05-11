@@ -1,5 +1,5 @@
 # sesion-09b
-## variación chip 555
+## Variación chip 555
 
  ## 1. Astable 
  -> oscilación periódica -> off - on - no - si - o - 1
@@ -25,11 +25,11 @@ Detector de sombra -> timer -> interruptor -> luz
 
 Duty cycle 
 
-## 01 movimiento
+## 01 Movimiento
 Digital -> discreto 
 Ej: tiempo
 
-## resultado 
+## Resultado 
 Analógico -> continuo 
 Ej: hora 
 
