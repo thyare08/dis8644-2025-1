@@ -62,7 +62,7 @@ Foto de mi bitácora
 
 ![IMG_0575](https://github.com/user-attachments/assets/9d331a9f-307e-4d65-8afa-a3cad4ba3303)
 
-## Circuito en TinkerCad
+## Circuito pwm en TinkerCad
 
 ![Captura de pantalla 2025-05-11 174852](https://github.com/user-attachments/assets/4f3c6a51-5cbe-4e61-9761-515284382c47)
 
