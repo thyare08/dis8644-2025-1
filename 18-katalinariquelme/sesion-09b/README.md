@@ -4,9 +4,25 @@ Viernes 09 de Mayo del 2025.
 
 ## Componentes nuevos entregados en clases
 
-Foto componente 
+- **Chip 8403**
 
-Foto componente
+Foto componente 1
+
+
+
+Este amplificador de audio estéreo Clase D, donde la potencia se une a una eficiencia excepcional en un diseño sorprendentemente compacto.
+
+¿Qué es un amplificador audio estéreo clase D?
+
+Este amplificador se caracteriza por emplear técnicas de conmutación, ya sea en la etapa de salida, en la alimentación, o de forma integral en todo el diseño.
+
+- **SRD05 / Relé de 01 canal**
+
+Foto componente 2
+
+
+
+Este dispositivo facilita el control de encendido y apagado de equipos de corriente alterna, proporcionando aislamiento y conmutando cargas resistivas de manera eficiente.
 
 ## Apuntes clases
 
@@ -44,6 +60,8 @@ Foto de mi bitácora
 
 ## Encargo 18: Realizar circuito en clases en protoboard
 
-## Encargo 19: Investigar
+Registro propio
+
+## Encargo 19: Investigar cultura electrónica y laurie anderson.
 
 
