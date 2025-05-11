@@ -42,7 +42,7 @@ Ej: hora
 
 ![Captura de pantalla 2025-05-10 213303](https://github.com/user-attachments/assets/c7d6902d-f7b9-4c02-a8f4-e3c624eaf141)
 
-el PWM sirve para controlar la cantidad de energía que se envía a un dispositivo. Funciona variando el tiempo que una señal está encendida y apagada, lo que 
+El PWM sirve para controlar la cantidad de energía que se envía a un dispositivo. Funciona variando el tiempo que una señal está encendida y apagada, lo que 
 
 permite ajustar la potencia sin perder eficiencia.
 
