@@ -11,8 +11,8 @@ _Viernes 9/05/2025_
 - https://www.markdownguide.org/basic-syntax/--->
 
 La clase comenzó con referentes y referencias: Gordon Matta-Clark, entre otros.
-Tras hablar de la posición en la universidad en el mundo (según varios rankings). 
-Conversamos sobre los primeros auxilios psicológicos y algunos hablaron de sus logros y cosas buenas que habían pasado en la semana, en conjunto a los profes.
+Tras la exposición de estos, proseguimos a hablar sobre la posición de la universidad en el mundo (según varios rankings). 
+A su vez conversamos sobre los primeros auxilios psicológicos y algunos hablaron de sus logros y cosas buenas que habían pasado en la semana, en conjunto a los profes.
 Tras ello nos quedan las últimas 7 semanas de clases. Vamos a usar nuevas piezas para aprender a usarlas
 
 ***
@@ -23,134 +23,92 @@ Tras ello nos quedan las últimas 7 semanas de clases. Vamos a usar nuevas pieza
 
 <br>
 
-- [PAM 8403](https://afel.cl/products/amplificador-stereo-clase-d-2x3w-pam8403?srsltid=AfmBOoq8AjxWD2ZoGiEjyWEiV9xWqypejVilDozwdgQ8L9h4xyjweiaL): Es un módulo y amplificador digital dual relacionado al audio. Usa tecnología SMD (todo soldado por un lado, hecho por una máquina). ¿Qué es un amplificador? Es un circuito cuya función es
-  
-- [RELE de 01 Canal](https://afel.cl/products/rele-de-01-canal): Un Relé (en inglés Relay) es una pieza electrónica que funciona como un interruptor controlado por la energía presente en un circuito electrico. Esta pieza posee una bobina (almacena energía de forma pasiva) y un electroimán (requiere de bobina para funcionar, permitiendo prender o apagar según la presencia de corriente).  Su funcionamiento permite encender u apagar secciones de un circuito y controlar la potencia que ingreso, pudiendo considerarse un amplificador eléctrico. Existen variedades de relés en el mercado.
-  
-- 1N4007
+- [PAM 8403](https://afel.cl/products/amplificador-stereo-clase-d-2x3w-pam8403?srsltid=AfmBOoq8AjxWD2ZoGiEjyWEiV9xWqypejVilDozwdgQ8L9h4xyjweiaL):
 
-Con estas piezas en mano nos disponemos a recordar los conocimientos relacionados con el chip 555: astable (estado variable constante) y monoestable (estado permanente hasta que se perturbe).
+Es un módulo y amplificador digital dual relacionado al audio. El módulo sa tecnología SMD ("Dispositivo de Montaje de Superficie", es un circuito PCB soldado por la parte superior de la placa, teniendo el montaje por un lado al ser soldado por una máquina). ¿Qué es un amplificador? Es un circuito cuya función es incrementar la intensidad de la corriente. En este caso, el efecto que produce es aumentar la potencia de la señal de audio a la par que permite lograr una reproducción de sonido de alta calidad gracias al bajo THD (Total Harmonic Distortion). La pieza en si posee una doble salida.
 
-Power Supply (ps, una batería)
+![image](https://github.com/user-attachments/assets/abe65e5b-f6ce-40ec-9c62-d56671a3d037)
 
-Modularidad. 
+_▼ Imagen de referencia (uno similar, cambia el chip). Obtenido de [Aliexpress.](https://es.aliexpress.com/item/1005002662145301.html)_
 
 <br>
+  
+- [RELE de 01 Canal](https://afel.cl/products/rele-de-01-canal):
+
+Un Relé (en inglés Relay) es una pieza electrónica que funciona como un interruptor controlado por la energía presente en un circuito electrico. Esta pieza posee una bobina (almacena energía de forma pasiva) y un electroimán (requiere de la bobina para funcionar, permitiendo prender o apagar según la presencia de corriente).  Su funcionamiento permite encender u apagar secciones de un circuito (privando u otorgando electricidad a diferentes partes) y controlar la potencia de la energía que ingresa (actuando como un amplificador eléctrico al controlar dispositivos de alta potencia con señales eléctricas de baja potencia y al contrario). Existen variedades de relés en el mercado: electromecánicos (EMR), de estado sólido (SSR) y los Reed.
+
+![S60a7c3c0546e40daa8ea34470a0a9959u jpg_960x960q75 jpg_](https://github.com/user-attachments/assets/f9903be3-fa4b-4f26-bd99-406f15f299db)
+
+_▼ Imagen de referencia. Obtenido de [Aliexpress.](https://es.aliexpress.com/item/1005005959775711.html)_
+
+<br>
+
+![image](https://github.com/user-attachments/assets/d706a47b-78d6-487f-bded-f5938e2683cd)
+
+_▼ Esquema de las partes de un relé. Obtenido de [Electricidad Práctica.](https://autodesarrollo-electricidadpractica.blogspot.com/2011/07/relays.html)_
+
+<br>
+
+![image](https://github.com/user-attachments/assets/c7ce5aa8-3686-4181-a9bb-db6b8ddc1ab3)
+
+_▼ Partes de un relé. Obtenido de [Electricidad Práctica.](https://autodesarrollo-electricidadpractica.blogspot.com/2011/07/relays.html)_
+
+<br>
+  
+- [1N4007 Diodo](https://maxelectronica.cl/componentes-electronicos/163-diodo-rectificador-1n4007.html):
+
+Esta pieza es un Diodo rectificador, una pieza semiconductora que actua como un interruptor unidireccional (la corriente sigue un camino y no se devuelve), a la par permite la conversión de corriente alterna (CA senoidal, varía la magnitud y el sentido, como la energía que llega a los hogares) a corriente continua (CC, un flujo continuo de cargas eléctricas entre dos puntos con diferente potenciales y cargas eléctricas, sin cambiar el sentido). Estos poseen polaridad, teniendo una entrada positiva (ánodo) y otra negativa (cátodo). Si este se conecta con la parte positiva a la corriente y la parte negativa a tierra se permite la circulación, en caso contrario sirve como un aistante.
+
+[¿Qué es un diodo? - fluke](https://www.fluke.com/es-cl/informacion/blog/electrica/que-es-un-diodo#:~:text=Permite%20que%20la%20corriente%20fluya,voltaje%20y%20capacidad%20de%20corriente.)
+
+[Diferencias entre Corriente Alterna y Continua - MasterD](https://www.youtube.com/watch?v=85eQw7cmDqU)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/aad3d0e3-f210-4c3a-82a7-94178ceeb7fe)
+
+_▼ Imagen de referencia . Obtenido de [Rambal.](https://rambal.com/circuitos-integrados/2120-diodo-1n4007-1kv1a.html)_
+
+<br>
+
+Con estas piezas en mano (metaforicamente hablando) nos disponemos a recordar los conocimientos relacionados con el chip 555 y sus estados: astable (estado variable constante) y monoestable (estado permanente hasta que se perturbe). Ello para poder realizar un montaje virtual mediante Tinkercad, puesto que casi ningún esudiante llevó el kit de prototipado.
+
+Estas piezas nos hacen pensar en el concepto de "Modularidad" aplicado a los circuitos, lo que refiere a crear piezas replicables dentro de un circuito más grande.
+
+<br>
+
+***
 
 #### Parte 2: Circuito PWM (Pulse Width Modulation - Modulación por ancho de pulso)
 
 <br>
 
-![image](https://github.com/user-attachments/assets/3ceadd9c-852a-46c6-9fe9-5e305a8a4db2)
+![image](https://github.com/user-attachments/assets/246ece20-4999-440c-88bd-9c91e6c02fe8)
+_▼ Fotografía del circuito dibujado en la pantalla_
 
+![image](https://github.com/user-attachments/assets/3b498d01-9608-4825-9cf2-1581bd98c5c5)
 
-
-
-![image](https://github.com/user-attachments/assets/1d75f11d-24b3-47ab-bf4b-419806a514bf)
-
-_▼ Captura del diagama_
-
-![image](https://github.com/user-attachments/assets/89d3fa22-9fe0-4084-8983-71362949c108)
-
-_▼ Captura de las huellas del archivo_
+_▼ Resultado del circuito hecho en Tinkercad_
 
 <br>
 
-**Análisis:** En comparación con el esquema realizado en clases, a este se les añadió 4 perforaciones (MountingHole) númeradas del H1 al H4. Las huellas de estas piezas son "MountingHole_3.2mm_M3". Por lo que pude apreciar, no es necesario que estos elementos se encuentren posicionados en una parte en específico (no como en la placa PCB). Fuera de eso, el circuito es similar al que realizamos la clase pasada.
+Tras este ejercicio rápido y la simulación de este, los profesores se pusieron a explicar la teoría de cómo funciona un relé dentro de un circuito, procediendo por un lado a usar el prototipado del circuito anterior, conectarle un relé y una ampolleta en la salida (en vez del led). Como se puede observar, el Relé permite que la energía pueda encender y apagar la ampolleta.
 
 <br>
 
-#### Archivo PCB
+![image](https://github.com/user-attachments/assets/8f20cb67-3611-4c21-bfa6-6bedd6619edd)
+
+![image](https://github.com/user-attachments/assets/06a5639d-81ca-4ee9-beb7-df5e88788c77)
+
+![image](https://github.com/user-attachments/assets/d87a0c56-c482-4c1e-b0a2-63a22b797652)
+
+_▼ Imágenes recuperadas del discord del curso, otorgadas por Aarón Montoya_
 
 <br>
 
-![image](https://github.com/user-attachments/assets/1eeafae9-e1a3-48ab-a9e8-1bb8bc84d94d)
+https://github.com/user-attachments/assets/9707321d-749d-48dc-b4ed-07b176e1966d
 
-_▼ Visualización completa de la placa. Se observa una sobreposición de los elementos delanteros con los de atrás_
-
-<br>
-
-![image](https://github.com/user-attachments/assets/d0e02dd7-7054-48a4-9e6f-41f502c87625)
-
-_▼ Visualización de la parte frontal (F.) de la Placa (Cu, Silkscreen, Mask, Edge.cuts, Courtyard, Fab)_
-
-<br>
-
-![image](https://github.com/user-attachments/assets/ccf3fa42-4a23-4081-9ff4-391ff9d46601)
-
-_▼ Visualización de la parte trasera (B.) de la Placa (Cu, Silkscreen, Mask, Edge.cuts, Courtyard, Fab)_
-
-<br>
-
-**Análisis:** La placa se ve completa y separada por cada parte. Los esenciales son los conectores de Cu (cobre), los cortes de los bordes (dimención del circuito) y los agujeros por donde entrarán las piezas. Sin estos el circuito como tal no sería funcional. Los demás parametros ayudan a generar una guía para sabe en qué lugar se instala qué pieza, para darle un sentido de identidad y estética, entre otros.
-
-<br>
-
-#### Simulación en 3D
-
-![image](https://github.com/user-attachments/assets/da022933-a232-4cbb-bcba-57e27ec1fce3)
-
-_▼ Visualización de la parte frontal_
-
-<br>
-
-![image](https://github.com/user-attachments/assets/70a61d89-3d09-44f1-a958-a4ec43d4da33)
-
-_▼ Visualización de la parte trasera_
-
-<br>
-
-**Análisis:** Usando esta herramienta se puede ver una aproximación del resultado final antes de mandarlo a fabricar. Es la última oportunidad para poder realizar observaciones y cambios tanto en los componentes como en el circuito como tal.
-
-<br>
-
-***
-
-### Parte 2: Programas, páginas, herramientas para poder trabajar desde el PC
-
-<br>
-
-**- [OPENSCAD](https://openscad.org/) -**
-
-Es un software CAD (Computer-Aided Design), es decir, un software de diseño asistido por ordenador. ["Esta tecnología permite la agilización del trabajo, automatizando los procesos manuales del proceso de diseño de producto, reduciendo errores, ganando velocidad y aumentando la calidad"](https://9altitudes.es/aprende-y-conecta/articulos/que-es-cad-para-que-sirve-y-que-ventajas-tiene#:~:text=El%20software%20de%20dise%C3%B1o%20asistido,y%20tridimensionales%20de%20objetos%20f%C3%ADsicos). 
-
-En este caso, OpenScad es un programa gratuito y de código abierto (cualquiera puede inspeccionar, modificar y mejorar el código fuente) enfocado en ["la creación de modelos 3D mediante la programación. Los usuarios tienen el control total sobre el proceso de modelado, permitiendo modificar cualquier paso en cualquiera de las etapas del modelado, o crear diseños definidos mediante parámetros configurables"](https://www.3dnatives.com/es/openscad-modelador-3d/#!).
-
-<br>
-
-**- [MAKER WORLD](https://makerworld.com/es) -**
-
-Es un sitio web colaborativo u portal comunitario creado por "Bambu Lab". Este funciona como una especie de repositorio en el que tanto "Creadores de modelos 3D" como "consumidores" pueden interactuar con Expertos dedicados al sector del modelado y la impresión 3D para poder conseguir los mejores resultados, independiente si se trata de forma virtual (programas, herramientas, errores, etc) o de forma física (enfocados en las impresoras y máquinas). Son muchas las formas de prestar ayuda a quien acude al sitio, reduciendo las barreras técnicas.
-
-El fundamento de la creación de esta web es ["La idea de unir las fuerzas de diseñadores, expertos en laminación, proveedores de filamentos y consumidores. Esta colaboración garantiza que no solo los modelos, sino también el conocimiento sobre la laminación y la alegría de la creación se compartan dentro de la comunidad".](https://www.impresoras3d.com/makerworld-el-portal-comunitario-de-bambu-lab/#:~:text=MakerWorld%20se%20basa%20en%20la,compartan%20dentro%20de%20la%20comunidad.)
-
-<br>
-
-**- [GitHub CLI](https://cli.github.com/) -**
-
-   (descargar carpetas de Github)
-
-- https://github.com/oskitone/poly555 (Oskitone - proyectos con cada pieza)
-
-<br>
-
-***
-
-#### Oportunidades: Google Summer of Code 2025 
-
-https://summerofcode.withgoogle.com/
-
-<br>
-
-***
-
-### Salida a terreno independiente: Tiempo de decaimiento temprano
-
-Exposición realizada por el Núcleo de Artes Sonoras: Mónica Bate, Jorge Cabieses, Rainer Krause, Francisco Sanfuentes, Matias Serrano, Lucas Soffia.
-
-
-
-▼ Este es un texto.
+_▼ Video del resultado_
 
 <br>
 
@@ -158,7 +116,7 @@ Exposición realizada por el Núcleo de Artes Sonoras: Mónica Bate, Jorge Cabie
 
 ### Posdata
 
-La clase tuvo mucho contenido de golpe, me maree de escuchar y saltar de un lado a otro. Me pondré al día cuando se suba el video. (っ- ‸ - ς)
+Pese a la poca energía que presentaba, decidí ir. Quiero seguir progresando  ૮ ◞ ﻌ ◟ ა
 
 ***
 
