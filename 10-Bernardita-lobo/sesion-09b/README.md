@@ -2,7 +2,7 @@
 
 ## Trabajo en clase
 
-### Cosas que conversamos en clase
+### Cosas que conversamos en la mañana
 
 - emergencias tecnológicas, urgentes crisis sociales.
 - enseñanza técnica de la parte artística, obra, gente, enseñanzas.
