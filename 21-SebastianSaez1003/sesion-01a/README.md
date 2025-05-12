@@ -10,7 +10,7 @@ Después se presentó el equipo docente, en el que nos contaron sus experiencias
 
 Una vez se encontró una sala con la que pudiésemos continuar la clase, el equipo docente tenia múltiples máquinas para que interactuemos, exploramos y así alimentar nuestra emoción por los temas que fuesen tratados a futuro en el futuro del taller, explicándonos los sensores, componentes y actuadores que los conformaban.
 
-Luego nso fuimos a  un modo de muestra de referentes, de los que pude rescatar: Bleep Labs, Corazón de robota, Bastl Instruments, Critter & Guitari, Oskitone, David Bowen, Zimoun, Daito Manebeface, HIkari Instruments, Nicolle L'Hullier, CW&T, Interdesign, Gaurav Patekar y por último John Nolan Studio.
+Luego nos fuimos a  un modo de muestra de referentes, de los que pude rescatar: Bleep Labs, Corazón de robota, Bastl Instruments, Critter & Guitari, Oskitone, David Bowen, Zimoun, Daito Manebeface, HIkari Instruments, Nicolle L'Hullier, CW&T, Interdesign, Gaurav Patekar y por último John Nolan Studio.
 
 Para cerrar, se nos dijo que no nos tiráramos abajo, debido a que somos muy capaces y este será un taller exitoso, lo cual intentaré aplicar y así creer en mí mismo.
 
@@ -18,7 +18,7 @@ Para cerrar, se nos dijo que no nos tiráramos abajo, debido a que somos muy cap
 
 ### Análisis de Un Disco de Kraftwerk
 
-El disco que escuche de la banda alemana Kraftwerk es: “The man Machine”, el 7mo álbum de esta banda, que fue lanzado en el año 1978, usando solamente instrumentos electrónicos, en este disco se encuentran las canciones:
+El disco que escuché de la banda alemana Kraftwerk es: “The man Machine”, el 7mo álbum de esta banda, que fue lanzado en el año 1978, usando solamente instrumentos electrónicos, en este disco se encuentran las canciones:
 
 * Die Roboter
 * Spacelab

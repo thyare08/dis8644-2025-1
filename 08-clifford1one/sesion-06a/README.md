@@ -219,3 +219,11 @@ Impresión 3D
 Para más información y más proceso, por favor consultar nuestro figma con acceso público:
 
 <https://www.figma.com/board/2tv4jx75qGZa6Gua2UCVer/taller.maq.electr?node-id=0-1&t=aBNh63yuq9MDT4AI-1>
+
+
+
+### enacrgo 12: kicad
+
+Instalé kicad para windows. Versión 9.0.2. Creé una carpeta llamada kicad, dentro de mi carpeta del taller. de modo que la jerarquía es: Escritorio > todo > universidarks > 4TO-ano > taller.maq.elec > kicad. dentro de la carpeta de kicad tengo los siguientes archivos: udpudu, theypudu, 00-libsKicad-teee, etc. 
+
+ahora me gustaría cambiar la carpeta kicad desde la carpeta del taller, hacia mi carpeta diseno.diseno, en la cual guardo cosas relacionadas a lo que me gusta diseñar. en ese caso la jerarquía sería:  Escritorio > todo > diseno.diseno > kicad.

@@ -4,7 +4,7 @@
 
 ¿qué pasó en mayo del 68?
 
-en esta fecha se lleva a cabo el llamdo mayo francés, que fueron una cadena de protestas estudiantiles, principalmente universitarias, y posteriormente sindicales en francia, especificamente en parís, durante los meses de mayo y junio de 1968. las razones de estas protestas eran principalmente por el descontento contra las autoridades políticas y sociales de la época.
+en esta fecha se lleva a cabo el llamado mayo francés, que fueron una cadena de protestas estudiantiles, principalmente universitarias, y posteriormente sindicales en francia, especificamente en parís, durante los meses de mayo y junio de 1968. las razones de estas protestas eran principalmente por el descontento contra las autoridades políticas y sociales de la época.
 
 ## trabajo de caja negra
 
@@ -18,7 +18,7 @@ imagen del circuito hecho en clases
 ![video del circuito y su sonido]
 <https://github.com/user-attachments/assets/04f2f33c-c295-42a3-828c-5b32c02a053c>
 
-## encargo09
+## encargo-09
 
 ## visita al museo de arte contemporáneo
 
@@ -60,9 +60,9 @@ imagen de un glosario que podría servirme en algún momento
 
 ## sobre otras obras y exposiciones
 
-las exposiciones que vi después eran todas distintas, siento que ninguna tenía algún tipo de conexión entre si, pero creo que todas eran igual de densas. personalmente mi favorita fue la exposición flu-yo, la vi dos veces y me gustó mucho la interacción que se creaba entre máquina y humano, y como se reprensentaba un sentir personal en cada una de estas.
+las exposiciones que vi después eran todas distintas, siento que ninguna tenía algún tipo de conexión entre sí, pero creo que todas eran igual de densas. personalmente mi favorita fue la exposición flu-yo, la vi dos veces y me gustó mucho la interacción que se creaba entre máquina y humano, y como se reprensentaba un sentir personal en cada una de estas.
 
-imagenes de la exposición
+imágenes de la exposición
 
 ![WhatsApp Image 2025-03-31 at 11 00 29 PM (6)](https://github.com/user-attachments/assets/ed5748e7-08e4-47b8-baef-3749b1669ce9)
 

@@ -8,10 +8,12 @@ Variación de Atari punk console, con potenciometro y pulsador
 
 ![Variación Atari punk console](https://github.com/user-attachments/assets/725fb0ee-8c2a-415e-917e-7e6fd51f7bae)
 
-Archivo KiCad del esquema
-[Uploading ~atari punk {"hostname":"ALANIS","username":"alani"}console variación.kicad_sch.lck…]()
+Archivo KiCad del esquema presente en los archivos de este apunte.
 
-KiCad
+<https://github.com/AlanisMria/dis8644-2025-1/tree/main/27-AlanisMria/sesion-07b/archivos/atari.punk.console.variaci%C3%B3n>
+
+
+## KiCad
 
 Lo que funciona en mi computador debe funcionar en todos
 

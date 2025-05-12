@@ -6,7 +6,7 @@
 
 Historia:
 
-- Banda alemana pioneria en el desarrollo de musica electrónica, formada por Ralf Hütter y Florian Schneider en 1970 en la ciudad de Düsseldorf, es considerada una de las bandas mas influyentes en el genero (por mi parte también), con toques synth-pop, techno y hasta musica industrial y con varios toques de automatización en sus composiciones.
+- Banda alemana pionera en el desarrollo de musica electrónica, formada por Ralf Hütter y Florian Schneider en 1970 en la ciudad de Düsseldorf, es considerada una de las bandas mas influyentes en el género (por mi parte también), con toques synth-pop, techno y hasta musica industrial y con varios toques de automatización en sus composiciones.
 - En un principio no era la banda que se conoce hoy en día, sino que, en sus principios fue una banda de rock, "Krautrock" para ser mas específicos, aunque este estilo no duró mucho ya que abandonaron ese estilo por diferencias artisticas entre los artistas del grupo, para luego llegar a ser lo que se conoce hoy en día como Kraftwerk, con su uso de sintetizadores, estetica futuristica y con un gran enfasis en la automatización en las composiciones.
 
 Intsrumentos:
@@ -19,6 +19,7 @@ Intsrumentos:
 - Instrumentos electrónicos personalizados: Como las "flautas electrónicas" que usaba Florian Schneider.
 
 Álbum a escuchar:
+
 <div align="left">
   <img height="100%" src="https://media.discordapp.net/attachments/1248658110625742862/1356376809335291994/Mi0zNzUxLmpwZWc.png?ex=67ec57d7&is=67eb0657&hm=d112b50de39e6462bb743d57cf26e2ad875c0f2c767cd288e1efa8c040386ceb&=&format=webp&quality=lossless&width=450&height=389"  />
 </div>
@@ -29,7 +30,7 @@ Opiniones:
 
 - Primero que nada, no tengo mucha experiencia con este genero mas allá de haberlo escuchado algunas veces en la radio, como lo es con su tema mas conocido "The model" y por ello decidí escuchar el disco la verdad, para encontrar un tema entre todos que llamará mi atención, el cual fue "Metrópolis", razón? Me recordo a Metroid..... Pero mas allá de eso si me gusto la composición de esta pieza porque todo se sentía ordenado, los sintetizadores seguían una logica, la melodía "espacial" si se sentía como si te llevará en un viaje por una ciudad desconocida, por ello lo elegí como EL tema.
 
-## Encargo 00 (Parte 2)
+## encargo-00 (Parte 2)
 
 ### Ver pelicula "Barrío universitario" (2013)
 
