@@ -28,7 +28,7 @@ Como ninguno (yo incluido) trajo su caja mágica a la clase nos dedicamos a habl
 
 ### Link de tinkercad: https://www.tinkercad.com/things/37ntWomUnlH/editel
 
-### Desarrolló en protoboard
+## Encargo 18: Desarrolló en protoboard
 
 <div align="left">
   <img height="100%" src="https://media.discordapp.net/attachments/1248658110625742862/1371334538504175646/pwm.png?ex=6822c250&is=682170d0&hm=3c835a7bc14964bfec195dc8319e0e07be96ad5af24cea6935822384aa217bb1&=&format=webp&quality=lossless&width=1964&height=1104"  />
@@ -37,4 +37,30 @@ Como ninguno (yo incluido) trajo su caja mágica a la clase nos dedicamos a habl
 - Al desarrollar la protoboard, se optó por cambiar los condensadores de 100 por unos de 473 para que fuera más notorio el funcionamiento del circuito PWM.
 - Link del video: https://youtu.be/K1TGlEYi-z4?si=7yJn56YzCrBxILIr
 
+## Encargo 19: Cultura electrónica y laurie anderson
+
+### Laurie Anderson 
+<div align="left">
+  <img height="400" src="https://media.discordapp.net/attachments/1248658110625742862/1371354610043719760/image.png?ex=6822d501&is=68218381&hm=70e38c15866b316c1d6d82748920db9aba12a7af5add18cc0b49965dfcc33ccd&=&format=webp&quality=lossless&width=2028&height=1052"  />
+</div>
+
 ###
+
+- Es una artista estadounidense, la cual es conocida por sus trabajos en la mezcla musical, trabajos tecnológicos y las artes visuales con ello demostrando que es multidisciplinaria en el ámbito del arte. Nacida en el año 1947, es conocida como una de las artistas más influyentes del arte experimental y electrónico.
+
+### Home of the brave
+
+<div align="left">
+  <img height="500" src="https://media.discordapp.net/attachments/1248658110625742862/1371350329286725673/HomeofTheBrave.png?ex=6822d104&is=68217f84&hm=5c9503b11947e5776ac7449899704aa1ea2642846fa634c065190932c41ac12b&=&format=webp&quality=lossless&width=455&height=450"  />
+</div>
+
+- Concierto o "performance" que mezcla entre filmado y ser una mezcla entre videoclip y documental.
+
+- De estética experimental en sus escenarios y cinematografía.
+
+- Mezcla entre instrumentos electrónicos y efectos vocales.
+
+- Refleja en su máximo auge el arte que se desarrollaba durante la década de los 80.
+
+
+
