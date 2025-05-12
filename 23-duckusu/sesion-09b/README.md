@@ -27,3 +27,14 @@ Como ninguno (yo incluido) trajo su caja mágica a la clase nos dedicamos a habl
 </div>
 
 ### Link de tinkercad: https://www.tinkercad.com/things/37ntWomUnlH/editel
+
+### Desarrolló en protoboard
+
+<div align="left">
+  <img height="100%" src="https://media.discordapp.net/attachments/1248658110625742862/1371334538504175646/pwm.png?ex=6822c250&is=682170d0&hm=3c835a7bc14964bfec195dc8319e0e07be96ad5af24cea6935822384aa217bb1&=&format=webp&quality=lossless&width=1964&height=1104"  />
+</div>
+
+- Al desarrollar la protoboard, se optó por cambiar los condensadores de 100 por unos de 473 para que fuera más notorio el funcionamiento del circuito PWM.
+- Link del video: https://youtu.be/K1TGlEYi-z4?si=7yJn56YzCrBxILIr
+
+###
