@@ -29,3 +29,6 @@ adjuntar foto de tinkercad*
 ### 19-Cultura electrónica y laurie Anderson
 
 - estudiar la obra de laurie anderson, incluir citas y referentes usados, explicar qué y por qué les gusta o no de su trabajo.
+- <https://youtu.be/ABjmQCxA7UU?si=2oOfZCFxR2u5EaeN>
+- “(La realidad virtual) es la única forma de arte en la que puedes volar, y por eso soy completamente adicta a ella”.
+Laurie Anderson
