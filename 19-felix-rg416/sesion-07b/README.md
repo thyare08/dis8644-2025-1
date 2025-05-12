@@ -54,6 +54,13 @@ tamaño tarjeta de presentación: 85 x 55
 
 ![indicar_polaridad](https://github.com/felix-rg416/dis8644-2025-1/blob/main/19-felix-rg416/sesion-07b/archivos/Configuraci%C3%B3nPantalla.png)
 
+## agregar imágenes :
+
+1. d
+2. conversor de imágenes en el inicio - perfecto para logos - imágenes complejas - siempre elegir la capa
+
+![conversor_imagen](https://github.com/felix-rg416/dis8644-2025-1/blob/main/19-felix-rg416/sesion-07b/archivos/conversor_imagen.png)
+
 ## comprar en JLCPCB :
 
 - cambiar envío

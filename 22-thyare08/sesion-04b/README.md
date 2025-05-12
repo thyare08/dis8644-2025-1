@@ -1,6 +1,6 @@
 # sesion-04b
 
-Qué es un transistor, un cpu y un interfaz?
+**¿Qué es un transistor, un cpu y un interfaz?**
 
 ![20250404_123840](https://github.com/user-attachments/assets/5b9d5782-ea15-4136-9d93-8b01a1730df5)
 
@@ -12,7 +12,7 @@ Qué es un transistor, un cpu y un interfaz?
 
 ![20250404_114402](https://github.com/user-attachments/assets/53f1580c-3938-42aa-80e3-b31591d0f1a4)
 
-Encargo: Abrir un objeto, conocer sus partes y utilidades
+**Encargo:** Abrir un objeto, para conocer sus partes y utilidades
 
 ![1_20250408_102820_0000](https://github.com/user-attachments/assets/39f44201-54cf-4c55-9a0c-9ee5bed71bf4)
 

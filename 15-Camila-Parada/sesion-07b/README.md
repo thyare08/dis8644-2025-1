@@ -124,7 +124,7 @@ Para finalizar la clase, nos enseñaron a como poder subir el documento a una p�
 
 ***
 
-### Referentes visuales
+### Referentes visuales y de circuitos
 
 <br>
 
@@ -132,45 +132,122 @@ Dado que en la clase se enseñó a como editar las placas PCB en el aspecto más
 
 <br>
 
+#### Heart Shaped LED Chaser
+
+<br>
+
 ![IMG_8880](https://github.com/user-attachments/assets/a952218d-f417-426b-bdfb-f5993dc9a09f)
 
-_▼ Sitio web asociado 1:_
+_▼ Sitio web asociado: https://smokedprojects.blogspot.com/2014/01/valentine-led-chaser.html_
+
+<br>
+
+https://github.com/user-attachments/assets/99ced8d2-1dbc-48bc-a70e-326647521162
+
+_▼ Video: https://youtu.be/UuvV8gj51LQ?si=0PgTeN-iXtJUCKnE_
+
+<br>
+
+
+
+#### Armored Trooper Votoms - iPhone case
 
 <br>
 
 ![IMG_8876](https://github.com/user-attachments/assets/08ecdb2c-be08-4ffa-a3aa-e31ae20c452d)
 
-_▼ Sitio web asociado 2: "Armored Trooper Votoms - iPhone case" https://animeanime.global/2020/02/21/51644.html_
+_▼ Sitio web asociado: https://animeanime.global/2020/02/21/51644.html_
 
 <br>
 
-![IMG_8886](https://github.com/user-attachments/assets/fabfc9c0-da51-43e1-aacb-92932f2865b3)
+Esta es una placa diseñada para ser parte de una carcasa para iPhone. Por lo que informa la descripción posee un Led que se enciende sin usar batería, sino que hace uso de las ondas electrónicas del dispositivo móvil. El fabricante original se trata de "PBC Art Moeco" (https://pcbartmoeco.jp/), una empresa japonesa dedicada al diseño artístico sobre placas PBC para ser vendidas como carcasas funcionales. Posee muchas placas diseñadas con bastante precisión y belleza.
 
-_▼ Sitio web asociado 3:_
+<br>
+
+
+
+#### Fabriquer un CIRCUIT IMPRIME TRANSPARENT!
 
 <br>
 
 ![IMG_8887](https://github.com/user-attachments/assets/6c927bd1-0efc-4bc5-84e4-b610de877735)
 
-_▼ Sitio web asociado 4: "Fabriquer un CIRCUIT IMPRIME TRANSPARENT!" https://youtu.be/jvw5OCUHaqc?si=msLq55Niw6DOSVZI_
+_▼ Sitio web asociado: https://youtu.be/jvw5OCUHaqc?si=msLq55Niw6DOSVZI_
+
+<br>
+
+Un video explicativo sobre como poder fabricar una placa PBC sobre vidrio u otro material transparente. Ello me abre a la imaginación y las posibilidades de poder mostrar la totalidad de la composición de un circuito.
+
+<br>
+
+
+
+#### Tristan Perich: 1-Bit Symphony
 
 <br>
 
 ![IMG_8878](https://github.com/user-attachments/assets/1e77e496-85de-4462-9408-81a979015d02)
 
-_▼ Sitio web asociado 5:_
+_▼ Sitio web asociado: https://www.tristanperich.com/#Album/1_Bit_Symphony_
+
+<br>
+
+Una composición electrónica de "cinco movimientos" en un solo microchip. Curiosamente presenta 6 piezas: una batería pequeña, un interruptor (para encenderlo), un microchip (que produce la música), un botón (que cambia la velocidad o la pista de audio), lo que parece ser un buzzer o mini parlante (mide el volumen de la música), y un conector de audio. Como indica en el sitio web del creador "(El álbum) No es una grabación en el sentido tradicional, literalmente "interpreta" su música en vivo al encenderse". Me gusta la simplicidad del circuito y todas las variedades de funciones que ofrece, me deja pensando en que no son necesarios muchos componentes para poder crear algo magnifico.
+
+<br>
+
+https://github.com/user-attachments/assets/beb47fe4-42c7-42db-b318-a0e984856fa1
+
+_▼ Video: https://youtu.be/XZEXX9Yezjw?si=8DT6FTZDOTIuLpw-_
+
+<br>
+
+
+#### Pulsing Fluidic Heart Micropump
 
 <br>
 
 ![IMG_8883](https://github.com/user-attachments/assets/b2aceb74-a5dd-4210-a835-597568f688b7)
 
-_▼ Sitio web asociado 6:_
+_▼ Sitio web asociado: https://www.instructables.com/Fluidic-heart-micropump/_
+
+<br>
+
+Nuevamente, de este proyecto me fascina la simpleza que posee. Aunque no se traten de circuitos cómo tal, considero que con las piezas necesarias se podría automatizar este objeto.
+
+<br>
+
+https://github.com/user-attachments/assets/386c253d-bace-4cff-a1e2-98ec8a553136
+
+_▼ Video: https://vimeo.com/95586316_
+
+<br>
+
+
+
+#### Tufty 2040
 
 <br>
 
 ![IMG_8877](https://github.com/user-attachments/assets/bf21213d-15cc-41a5-9740-c0ca691fc9be)
 
-_▼ Sitio web asociado 7:_
+_▼ Sitio web asociado: https://magazine.raspberrypi.com/articles/tufty-2040-interactive-name-badge-review_
+
+<br>
+
+Fabricado por Pimoroni (https://shop.pimoroni.com/products/tufty-2040?variant=40036912595027), es una placa que se basa en el chip de microcontrolador RP2040 y posee un una pantalla LCD a color de 2,4 pulgadas, siendo una "Pantalla Badger Programable". Esto quiere decir que es un gafete interactivo que consiste en una tarjeta programable que integra un microcontrolador RP2040 y una pantalla E Ink (tinta electrónica) para crear una tarjeta de identificación que puede mostrar diferentes textos e imágenes (https://www.330ohms.com/products/badger-2040#:~:text=El%20Badger%202040%20es%20un,mostrar%20diferentes%20textos%20e%20im%C3%A1genes). 
+
+Me parece un objeto bastante curioso, siendo atraída principalmente por el aspecto visual. Al informarme me di cuenta de la complejidad que posee, y de lo útil y divertido que puede ser el tener una de estas placas.
+
+<br>
+
+![zNBdtbM-HrI_640x480](https://github.com/user-attachments/assets/0222cddf-152e-4117-a03f-8ae963a123d7)
+
+_▼ Video: https://youtu.be/zNBdtbM-HrI?si=JVj6EfCIrfvPOkb6_
+
+<br>
+
+Pese a varios intentos, no pude colocar el video directamente desde youtube.
 
 <br>
 
@@ -179,6 +256,10 @@ _▼ Sitio web asociado 7:_
 ### Posdata
 
 Me quedé colgada a la mitad de la clase, así que toca estudiar y practicar ૮◞ ﻌ ◟ა
+
+Además, me dediqué a observar el link que mandaron los profesores, y me llama la atención el poder ver que tipo de circuitos crea la gente: 
+
+https://www.reddit.com/r/PrintedCircuitBoard/comments/1k9ulzt/review_request_esp32c6_jtag_and_header_pin_uart/#lightbox
 
 ***
 
