@@ -76,15 +76,15 @@ nuestras sesiones de clases serán los martes y viernes entre marzo y julio 2025
 | [08a](00-docentes/sesion-08a/)| 04-29 martes | diseño de circuitos en kicad                            |
 | [08b](00-docentes/sesion-08b/)| 05-02 viernes| no hay clase por receso                                 |
 | [09a](00-docentes/sesion-09a/)| 05-06 martes | no hay clase por receso                                 |
-| [09b](00-docentes/sesion-09b/)| 05-09 viernes| TODO                                                    |
+| [09b](00-docentes/sesion-09b/)| 05-09 viernes| circuitos                                               |
 | [10a](00-docentes/sesion-10a/)| 05-13 martes | TODO                                                    |
 | [10b](00-docentes/sesion-10b/)| 05-16 viernes| TODO                                                    |
 | [11a](00-docentes/sesion-11a/)| 05-20 martes | TODO                                                    |
-| [11b](00-docentes/sesion-11b/)| 05-23 viernes| entrega proyecto-02                                     |
+| [11b](00-docentes/sesion-11b/)| 05-23 viernes| TODO                                                    |
 | [12a](00-docentes/sesion-12a/)| 05-27 martes | TODO                                                    |
 | [12b](00-docentes/sesion-12b/)| 05-30 viernes| TODO                                                    |
 | [13a](00-docentes/sesion-13a/)| 06-03 martes | TODO                                                    |
-| [13b](00-docentes/sesion-13b/)| 06-06 viernes| TODO                                                    |
+| [13b](00-docentes/sesion-13b/)| 06-06 viernes| entrega proyecto-02                                     |
 | [14a](00-docentes/sesion-14a/)| 06-10 martes | TODO                                                    |
 | [14b](00-docentes/sesion-14b/)| 06-13 viernes| TODO                                                    |
 | [15a](00-docentes/sesion-15a/)| 06-17 martes | TODO                                                    |
