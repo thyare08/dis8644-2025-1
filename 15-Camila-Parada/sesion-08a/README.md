@@ -16,7 +16,7 @@ Luego los profesores explicaron el proceso de exportación y cotización que rea
 
 Tras el descanso pasaron demasiado contenido, enfocado en varias páginas web y en configuración del pc paa poder editar el repositorio personal de forma independient4e.
 
-Para ello el equipo docente envió un [video](https://www.dropbox.com/scl/fi/xj27wjdz7tz0oq73vrzxw/Screen-Recording-2025-04-29-at-11.08.09-AM.mov?rlkey=4mxo81el3c2mo4se78l4b4hmo&e=1&st=wfg30d6o&dl=0) de todo el contenido pasado en clases. 
+Para ello el equipo docente envió un [video](https://www.dropbox.com/scl/fi/xj27wjdz7tz0oq73vrzxw/Screen-Recording-2025-04-29-at-11.08.09-AM.mov?rlkey=4mxo81el3c2mo4se78l4b4hmo&e=1&st=wfg30d6o&dl=0) de todo el contenido pasado en clases.
 
 ***
 
@@ -26,12 +26,12 @@ Para ello el equipo docente envió un [video](https://www.dropbox.com/scl/fi/xj2
 
 <br>
 
-Hoy fui corriendo a la sala pese a que me sentía un poco mareada después del viaje en metro. Cuando pude llegar e instalarme en la sala identifiqué que estaban revisando el circuito que los profesores mandaron a imprimir en la página JLCPCB (https://jlcpcb.com/), revisando las capas que le componen (serigrafía, cobre, cortes en la placa, etc).
-Estos documentos se encuentran en la página "https://github.com/disenoUDP/dis8644-2025-1/tree/main/00-docentes/sesion-07b/udpudu".
+Hoy fui corriendo a la sala pese a que me sentía un poco mareada después del viaje en metro. Cuando pude llegar e instalarme en la sala identifiqué que estaban revisando el circuito que los profesores mandaron a imprimir en la página JLCPCB (<https://jlcpcb.com/>), revisando las capas que le componen (serigrafía, cobre, cortes en la placa, etc).
+Estos documentos se encuentran en la página "<https://github.com/disenoUDP/dis8644-2025-1/tree/main/00-docentes/sesion-07b/udpudu>".
 
 Dado que la carpeta es bastante grande y posee bastantes archivos y versiones, decidí enfocarme en encontrar un documento con terminación "Zip" que hubiera sido actualizado lo más reciente posible. Por lo que pude ver, hay varrias carpetas con esa descripción que habían sido actualizadas el día anterior. Al final terminé decidiendo por ingresar a la carpeta "udpudu-2025-04-28_225809" y descargar su contenido al hacer click en el archivo y en la opción "View raw".
 
-- Información recuperada de: https://docs.github.com/es/get-started/start-your-journey/downloading-files-from-github
+- Información recuperada de: <https://docs.github.com/es/get-started/start-your-journey/downloading-files-from-github>
 
 <br>
 
@@ -113,7 +113,7 @@ _▼ Visualización de la parte trasera_
 
 **- [OPENSCAD](https://openscad.org/) -**
 
-Es un software CAD (Computer-Aided Design), es decir, un software de diseño asistido por ordenador. ["Esta tecnología permite la agilización del trabajo, automatizando los procesos manuales del proceso de diseño de producto, reduciendo errores, ganando velocidad y aumentando la calidad"](https://9altitudes.es/aprende-y-conecta/articulos/que-es-cad-para-que-sirve-y-que-ventajas-tiene#:~:text=El%20software%20de%20dise%C3%B1o%20asistido,y%20tridimensionales%20de%20objetos%20f%C3%ADsicos). 
+Es un software CAD (Computer-Aided Design), es decir, un software de diseño asistido por ordenador. ["Esta tecnología permite la agilización del trabajo, automatizando los procesos manuales del proceso de diseño de producto, reduciendo errores, ganando velocidad y aumentando la calidad"](https://9altitudes.es/aprende-y-conecta/articulos/que-es-cad-para-que-sirve-y-que-ventajas-tiene#:~:text=El%20software%20de%20dise%C3%B1o%20asistido,y%20tridimensionales%20de%20objetos%20f%C3%ADsicos).
 
 En este caso, OpenScad es un programa gratuito y de código abierto (cualquiera puede inspeccionar, modificar y mejorar el código fuente) enfocado en ["la creación de modelos 3D mediante la programación. Los usuarios tienen el control total sobre el proceso de modelado, permitiendo modificar cualquier paso en cualquiera de las etapas del modelado, o crear diseños definidos mediante parámetros configurables"](https://www.3dnatives.com/es/openscad-modelador-3d/#!).
 
@@ -131,15 +131,15 @@ El fundamento de la creación de esta web es ["La idea de unir las fuerzas de di
 
    (descargar carpetas de Github)
 
-- https://github.com/oskitone/poly555 (Oskitone - proyectos con cada pieza)
+- <https://github.com/oskitone/poly555> (Oskitone - proyectos con cada pieza)
 
 <br>
 
 ***
 
-#### Oportunidades: Google Summer of Code 2025 
+#### Oportunidades: Google Summer of Code 2025
 
-https://summerofcode.withgoogle.com/
+<https://summerofcode.withgoogle.com/>
 
 <br>
 
@@ -148,8 +148,6 @@ https://summerofcode.withgoogle.com/
 ### Salida a terreno independiente: Tiempo de decaimiento temprano
 
 Exposición realizada por el Núcleo de Artes Sonoras: Mónica Bate, Jorge Cabieses, Rainer Krause, Francisco Sanfuentes, Matias Serrano, Lucas Soffia.
-
-
 
 ▼ Este es un texto.
 
