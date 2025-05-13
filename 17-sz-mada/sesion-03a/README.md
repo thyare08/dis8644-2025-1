@@ -2,7 +2,7 @@
 
 25 de marzo del 2025
 
-## Encargo 06 - Cultura electrónica europea de los 1980s y 1990s
+## encargo-06 - Cultura electrónica europea de los 1980s y 1990s
 
 ### Five on the open-ended Richter scale (1987) de Einstürzende Neubauten
 
@@ -10,7 +10,7 @@ Einstürzende Neubauten se destaca por crear música experimental a partir de so
 
 Si bien este álbum tiene un enfoque más atmosférico a comparación del resto, sigue siendo ruidoso y experimental. Con canciones como *Zerstörte Zelle* y *Kein bestandteil Sein*, muestran cómo usan estos objetos para crear una sensación tensa y oscura. *Morning Dew*, por ejemplo, es un cover de una canción folk, y Neubauten logra hacerla casi irreconocible con su sonido industrial característico.
 
-## Encargo 07 - Chip 555
+## encargo-07 - Chip 555
 
 Los chips 555 pueden ser usados en modo **monoestable** o **astable**. En modo monoestable, cada vez que el timer 555 se activa, el output sube a high por un *momento*, y luego baja a *low* esperando otra señal que lo active. En modo astable, el timer se activa por sí solo periódicamente y se convierte en un oscilador.
 

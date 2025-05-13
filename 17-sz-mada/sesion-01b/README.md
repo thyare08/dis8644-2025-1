@@ -2,7 +2,7 @@
 
 14 de marzo del 2025
 
-## Encargo 02
+## encargo-02
 
 ### Aphex Twin
 
@@ -22,7 +22,7 @@ Su muerte generó un debate sobre la imparcialidad de las leyes de internet y la
 
 El legado de Swartz sigue vivo, inspirando a una nueva generación de activistas que buscan una internet libre y equitativa. Su historia nos recuerda que la lucha por el acceso abierto aún continúa.
 
-## Encargo 03 - Estudiar la caja de materiales inicial
+## encargo-03 - Estudiar la caja de materiales inicial
 
 - Protoboard
 

@@ -12,7 +12,7 @@
 
 ### Aphex Twin
 
-- Despues, se pidio escuchar un disco de la banda Aphex Twin, de la cual las opiniones se veran en la siguiente imagen.
+- Después, se pidio escuchar un disco de la banda Aphex Twin, de la cual las opiniones se verán en la siguiente imagen.
 
 <div align="center">
   <img height="100%" src="https://media.discordapp.net/attachments/1248658110625742862/1351539614195646596/20250318_095059.jpg?ex=67ebe25a&is=67ea90da&hm=4b0b06c879a9a6b0ff9531ec1605a62579346900608b5dd0d2a5d411a6e4e342&=&format=webp&width=810&height=1103"  />

@@ -2,7 +2,7 @@
 
 11 de marzo del 2025
 
-## Encargo 00 - Introducción a la electrónica
+## encargo-00 - Introducción a la electrónica
 
 ### Barrio Universitario (2013)
 
