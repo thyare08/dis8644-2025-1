@@ -138,6 +138,12 @@ _▼ Imagen del concierto. Obtenido de [Independent.](https://www.independent.co
 
 <br>
 
+Tras indagar sobre esta obra, me surgió la duda, ¿Quién es Laurie Anderson?, ¿A qué se dedica y por qué es famosa/destacada?
+
+Para ello quise escuchar un video que encontré en youtube: ["El proceso creativo de Laurie Anderson (Español"](https://www.youtube.com/watch?v=SB0eIKQwkOs).
+
+
+
 ***
 
 ### Posdata
