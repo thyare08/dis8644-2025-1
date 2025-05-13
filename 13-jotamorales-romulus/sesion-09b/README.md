@@ -29,17 +29,17 @@ La visita de Christophe Szpajdel a Chile fue parte de la celebración del Metal 
 
 Fue la primera vez que Szpajdel visitó Chile, y me sorprendió gratamente escuchar que habló en español con bastante fluidez. Casi toda la charla fue en español, lo que reflejó su amplia trayectoria y experiencia. Nos compartió que, al trabajar con bandas de diversas partes del mundo, es esencial poder comunicarse en el idioma de sus clientes para entender mejor lo que buscan y ofrecer un trabajo adecuado.
 
-![fotografía](./archivos/imagen_2025-05-13_023445768.png)
-
 Uno de los aspectos más interesantes de su charla fue su proceso creativo. A muchas bandas, cuando les realiza sus logotipos, les pide escuchar sus tracks o álbumes. Esto le permite conectar más profundamente con la esencia de la banda y crear un diseño que resuene con su música, haciendo que el logo sea aún más representativo y auténtico.
-
-
 
 En cuanto al diseño de logotipos, Szpajdel explicó que la función principal de un logo es distinguirse y ser diferente. Un buen logotipo debe ser simple y visual, pero debe capturar la esencia de la banda de manera clara y poderosa. Esto ha hecho que sus diseños sean muy valorados en la escena del metal y en subculturas relacionadas.
 
+Una anécdota interesante fue que uno de sus primeros logotipos, Epitaph (1989), fue inspirado directamente por la banda chilena Sadism, lo que refleja su conexión con la escena metalera de Latinoamérica.
+
+![fotografía](./archivos/inspiraciones.jpeg)
+
 Szpajdel también compartió lo que lo inspira en su trabajo: la naturaleza, la fauna, los animales, elementos históricos y los panteones de diversas culturas. También mencionó su fascinación por la tradición japonesa. Abordó la noción del tiempo en sus diseños, combinando elementos antiguos y prehistóricos con toques futuristas y sofisticados, lo que da como resultado logotipos atemporales que representan tanto el presente como la esencia eterna de las bandas.
 
-Una anécdota interesante fue que uno de sus primeros logotipos, Epitaph (1989), fue inspirado directamente por la banda chilena Sadism, lo que refleja su conexión con la escena metalera de Latinoamérica.
+![fotografía](./archivos/inking.jpeg)
 
 Mostró parte de su proceso de trabajo y explicó cómo se comunica con las personas que solicitan sus diseños, destacando que prefiere mil veces trabajar con alguien que demuestra interés por lo que él hace, en lugar de quien solo busca que le haga una 'peguita' rápida y le pague sin involucrarse.
 
