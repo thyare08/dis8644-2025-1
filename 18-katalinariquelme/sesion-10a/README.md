@@ -5,7 +5,7 @@ Martes 13 de Mayo del 2025.
 ## Ejercicio realizado en clases
 
 - armar 1 circuito PWM c/u (primer circuito que diseñamos en KiCad).
-- junatarse entre 3, c/u con LED rojo, verde o azul.
+- juntarse entre 3, c/u con LED rojo, verde o azul.
 - combinar colores.
 
 **Primer circuito esquematico diseñado en KiCad**
