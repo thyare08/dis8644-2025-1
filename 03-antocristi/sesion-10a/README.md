@@ -1,5 +1,6 @@
 # sesion-10a
 ### Apuntes 13-05
+Nuevo chip: Lm324
 
 Pinout: googlear y aparece funciones de cada patita de los chip 
 
