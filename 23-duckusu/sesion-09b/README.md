@@ -8,7 +8,7 @@ En una larga charla de hora y media, hablamos de algún logró importante durant
 ###
 Consecuentemente nos entregaron como muestra los siguientes artilugios:
 <div align="left">
-  <img height="400" src="https://media.discordapp.net/attachments/1248658110625742862/1370404480062980136/image.png?ex=681f6020&is=681e0ea0&hm=9ab8e09134974337b3ce02b06423b420e73e99473962aa240a8523b2eba5d0ce&=&format=webp&quality=lossless&width=2220&height=1032"  />
+  <img height="400" src="https://media.discordapp.net/attachments/1248658110625742862/1370404480062980136/image.png?ex=6824a620&is=682354a0&hm=145ca3cce723d518408df650ccd867cbe38f0e1dd502290bf29bdb98e3647590&=&format=webp&quality=lossless&width=825&height=384"  />
 </div>
 
 ###
@@ -31,10 +31,12 @@ Como ninguno (yo incluido) trajo su caja mágica a la clase nos dedicamos a habl
 ## Encargo 18: Desarrolló en protoboard
 
 <div align="left">
-  <img height="100%" src="https://media.discordapp.net/attachments/1248658110625742862/1371334538504175646/pwm.png?ex=6822c250&is=682170d0&hm=3c835a7bc14964bfec195dc8319e0e07be96ad5af24cea6935822384aa217bb1&=&format=webp&quality=lossless&width=1964&height=1104"  />
+  <img height="500" src="https://cdn.discordapp.com/attachments/1248658110625742862/1371334538504175646/pwm.png?ex=682413d0&is=6822c250&hm=77f1d428405d5f98eaf68f803f4c495ac205432caddac8d7eb5a9d94f3092cf7&format=webp&quality=lossless&width=1964&height=1104"  />
 </div>
 
-- Al desarrollar la protoboard, se optó por cambiar los condensadores de 100 por unos de 473 para que fuera más notorio el funcionamiento del circuito PWM.
+###
+
+- Al desarrollar la protoboard, se optó por cambiar los diodos por condensadores y los ceramicos de 100 por unos de 473 para que fuera más notorio el funcionamiento del circuito PWM, por ello se dieron los resultados del siguiente video.
 - Link del video: https://youtu.be/K1TGlEYi-z4?si=7yJn56YzCrBxILIr
 
 ## Encargo 19: Cultura electrónica y laurie anderson
