@@ -66,9 +66,11 @@ Foto de mi bitácora
 
 ![Captura de pantalla 2025-05-11 174852](https://github.com/user-attachments/assets/4f3c6a51-5cbe-4e61-9761-515284382c47)
 
-## Encargo 18: Realizar circuito en clases en protoboard
+## Encargo 18: Realizar circuito de clases en protoboard
 
 Registro propio
+
+![IMG_0628](https://github.com/user-attachments/assets/511e8693-8deb-465a-af7e-d1e7c580b3f4)
 
 ## Encargo 19: Investigar cultura electrónica y laurie anderson.
 
