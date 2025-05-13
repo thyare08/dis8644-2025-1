@@ -179,7 +179,7 @@ Respecto a los ambigramas
 En ambigramas se parte de una palabra fácil, para ver cómo se combina o se mueve a otra cosa.
 
 ## encargo-18: de tinkercad a protoboard
-
-![1ra screenshot](./archivos/9b-encargo18 (1).mp4)
-
+![1ra screenshot](./archivos/9b-encargo18-(1).mp4)
+![1ra screenshot](./archivos/9b-encargo18-(2).jpg)
+![1ra screenshot](./archivos/9b-encargo18-(3).jpg)
 ## encargo-19: cultura electrónica y laurie anderson
