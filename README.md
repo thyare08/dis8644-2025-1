@@ -76,8 +76,8 @@ nuestras sesiones de clases serán los martes y viernes entre marzo y julio 2025
 | [08a](00-docentes/sesion-08a/)| 04-29 martes | diseño de circuitos en kicad                            |
 | [08b](00-docentes/sesion-08b/)| 05-02 viernes| no hay clase por receso                                 |
 | [09a](00-docentes/sesion-09a/)| 05-06 martes | no hay clase por receso                                 |
-| [09b](00-docentes/sesion-09b/)| 05-09 viernes| circuitos                                               |
-| [10a](00-docentes/sesion-10a/)| 05-13 martes | TODO                                                    |
+| [09b](00-docentes/sesion-09b/)| 05-09 viernes| circuitos de PWM                                        |
+| [10a](00-docentes/sesion-10a/)| 05-13 martes | circuitos comparadores con opamps                       |
 | [10b](00-docentes/sesion-10b/)| 05-16 viernes| TODO                                                    |
 | [11a](00-docentes/sesion-11a/)| 05-20 martes | TODO                                                    |
 | [11b](00-docentes/sesion-11b/)| 05-23 viernes| TODO                                                    |
