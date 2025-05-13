@@ -23,6 +23,11 @@ Aprovechando que "The Lord of the Logos" venía de visita a dar una charla en la
 
 
 
+Su visita fue debido a la celebración del Metal Fest Chile 2025, un evento que tuvo lugar el domingo 11 de abril, donde se presentaron diversos grupos de renombre del género (No había muchas de las grandes bandas, pero sí había un buen repertorio que permitió hacer de este un gran evento). Aprovechando la ocasión, la universidad lo invitó para ofrecer su charla.
+
+El enfoque de Christophese basa en crear logotipos que no solo se vean bien, sino que también capturen la esencia de cada banda, ayudando a transmitir su mensaje visualmente. Esto hace que sus diseños sean muy valorados en la escena del metal y subculturas relacionadas.
+
+
 
 
 
