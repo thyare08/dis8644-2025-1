@@ -59,9 +59,12 @@ A pesar de esos detalles, fue muy enriquecedor escuchar a un referente como Szpa
 ## encargo-18: de tinkercad a protoboard
 les pedimos que por favor tomen el circuito que simulamos en tinkercad y lo traspasen a su protoboard, usando los componentes que tienen en su kit de materiales.
 
+subir !!!
+
 ## encargo-19: cultura electrónica y laurie anderson
 estudiar la obra de laurie anderson, incluir citas y referentes usados, explicar qué y por qué les gusta o no de su trabajo.
 ALBUM escuchado: Big Science.
+subir!!!
 
 De entrada para este encargo comence escuchando "Big science", este es el album con el cual hace su debut. 
 
