@@ -23,9 +23,11 @@ Tras ello nos quedan las últimas 7 semanas de clases. Vamos a usar nuevas pieza
 
 <br>
 
-- [PAM 8403](https://afel.cl/products/amplificador-stereo-clase-d-2x3w-pam8403?srsltid=AfmBOoq8AjxWD2ZoGiEjyWEiV9xWqypejVilDozwdgQ8L9h4xyjweiaL): Es un módulo y amplificador digital dual relacionado al audio. Usa tecnología SMD (todo soldado por un lado, hecho por una máquina). 
+- [PAM 8403](https://afel.cl/products/amplificador-stereo-clase-d-2x3w-pam8403?srsltid=AfmBOoq8AjxWD2ZoGiEjyWEiV9xWqypejVilDozwdgQ8L9h4xyjweiaL): Es un módulo y amplificador digital dual relacionado al audio. Usa tecnología SMD (todo soldado por un lado, hecho por una máquina). ¿Qué es un amplificador? Es un circuito cuya función es
   
 - [RELE de 01 Canal](https://afel.cl/products/rele-de-01-canal): Un Relé (en inglés Relay) es una pieza electrónica que funciona como un interruptor controlado por la energía presente en un circuito electrico. Esta pieza posee una bobina (almacena energía de forma pasiva) y un electroimán (requiere de bobina para funcionar, permitiendo prender o apagar según la presencia de corriente).  Su funcionamiento permite encender u apagar secciones de un circuito y controlar la potencia que ingreso, pudiendo considerarse un amplificador eléctrico. Existen variedades de relés en el mercado.
+  
+- 1N4007
 
 Con estas piezas en mano nos disponemos a recordar los conocimientos relacionados con el chip 555: astable (estado variable constante) y monoestable (estado permanente hasta que se perturbe).
 
@@ -35,11 +37,14 @@ Modularidad.
 
 <br>
 
-Una vez descargada exporté todos los documentos para poder analizar las partes que componen dicho documento.
-
-#### Archivo diagrama
+#### Parte 2: Circuito PWM (Pulse Width Modulation - Modulación por ancho de pulso)
 
 <br>
+
+![image](https://github.com/user-attachments/assets/3ceadd9c-852a-46c6-9fe9-5e305a8a4db2)
+
+
+
 
 ![image](https://github.com/user-attachments/assets/1d75f11d-24b3-47ab-bf4b-419806a514bf)
 
