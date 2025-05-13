@@ -184,4 +184,6 @@ Logré replicar el circuito PWM (Pulse Width Modulation), pero en vez del conden
 ![1ra screenshot](./archivos/9b-encargo18-(1).mp4)
 ![1ra screenshot](./archivos/9b-encargo18-(2).jpg)
 ![1ra screenshot](./archivos/9b-encargo18-(3).jpg)
+
 ## encargo-19: cultura electrónica y laurie anderson
+escuche y vi el video O superman de Laurie Anderson, la cual personalmente me pareció ligeramente perturbadora en la 1ra visualización, ya que el sonido constante del fondo me dejó ligeramente loco
