@@ -49,62 +49,14 @@ Teoría del color, modo sustractivo y aditivo.
 
 ***
 
-#### Parte 2: Circuito PWM (Pulse Width Modulation - Modulación por ancho de pulso)
+#### Parte 2: [Falstad](https://www.falstad.com/circuit/circuitjs.html) 
 
-<br>
+Dado que llegué unos minutos tarde por atender un asunto personal, me perdí gran parte del conocimiento que se estaba impartiendo. Por lo que supe vamos a trabajar con Amplificadores operacionales (LM324, LM358), por lo que se nos explicó la teoría del funcionamiento de estas piezas desde la física.
 
-![image](https://github.com/user-attachments/assets/246ece20-4999-440c-88bd-9c91e6c02fe8)
-_▼ Fotografía del circuito dibujado en la pantalla_
+Además, se realizó una simulación en Falstad, una plataforma web que simula circuitos eléctricos (dibujandolos) y demostrando parámetros de forma visual.
 
-![image](https://github.com/user-attachments/assets/3b498d01-9608-4825-9cf2-1581bd98c5c5)
+![image](https://github.com/user-attachments/assets/59527ff1-16df-4d40-a871-44507b88df93)
 
-_▼ Resultado del circuito hecho en Tinkercad_
-
-<br>
-
-Tras este ejercicio rápido y la simulación de este, los profesores se pusieron a explicar la teoría de cómo funciona un relé dentro de un circuito, procediendo por un lado a usar el prototipado del circuito anterior, conectarle un relé y una ampolleta en la salida (en vez del led). Como se puede observar, el Relé permite que la energía pueda encender y apagar la ampolleta.
-
-<br>
-
-![image](https://github.com/user-attachments/assets/8f20cb67-3611-4c21-bfa6-6bedd6619edd)
-
-![image](https://github.com/user-attachments/assets/06a5639d-81ca-4ee9-beb7-df5e88788c77)
-
-![image](https://github.com/user-attachments/assets/d87a0c56-c482-4c1e-b0a2-63a22b797652)
-
-_▼ Imágenes recuperadas del discord del curso, otorgadas por Aarón Montoya_
-
-<br>
-
-https://github.com/user-attachments/assets/9707321d-749d-48dc-b4ed-07b176e1966d
-
-_▼ Video del resultado_
-
-<br>
-
-***
-
-### Tarea 1: Desarrollo de circuitos en Protoboard (Aplicando las piezas)
-
-
-
-<br>
-
-***
-
-### Tarea 2: Laurie Anderson
-
-<br>
-
-Este referente fue mencionado en clases, destacando su obra "Concert for Dogs" la cuál como su nombre lo indica corresponde a un concierto-performance dirigido hacia los perros. Para ello, la artista realizó una serie de piezas músicales pensadas en ser tocada en una frecuencia audible para los caninos. La primera presentación se llevó a cabo en Times Square (EEUU) en pleno invierno, reuniendo a cerca de 50 canes y 100 de sus acompañantes humanos. El concierto tuvo como instrumento el violín (instrumento que inventó en 1970) y el teclado, cuyas vibraciones al ser transmitidas a una serie de parlantes se creaba un nuevo sonido debido a la baja frecuencia resultante, el cuál apenas era audible para las personas por lo que se dispuso de auriculares que permitían escuchar el concierto como si lo hiciera un perro. Cada momento fue registrado como parte de la experiencia. 
-
-(https://www.theguardian.com/music/2016/jan/05/laurie-anderson-music-dog-concert-times-square-new-york)
-
-<br>
-
-![image](https://github.com/user-attachments/assets/decbb57b-afe9-40c5-be0d-06de35700761)
-
-_▼ Imagen del concierto. Obtenido de [Independent.](https://www.independent.co.uk/arts-entertainment/music/news/performance-artist-laurie-anderson-plays-concert-especially-for-dogs-in-new-york-a6798581.html)_
 
 <br>
 
