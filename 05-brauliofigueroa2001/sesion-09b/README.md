@@ -45,4 +45,5 @@ llegué un poco tarde
 
 - ![1000010842](https://github.com/user-attachments/assets/403bdae6-c7c1-45c4-81fd-2078caacdb73)
 
-- ### encargo
+- ### encargo 18
+- ### encargo 19
