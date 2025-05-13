@@ -170,8 +170,16 @@ Respecto a los ambigramas
 
 “I would like to thank my parents for trying to stop me from learning myself, that it triggered me to go even further; it’s called resilience.”
 
+
+
 Él ve muchos reels y videos.
 
 “Instagram is a tool to elevate myself.”
 
 En ambigramas se parte de una palabra fácil, para ver cómo se combina o se mueve a otra cosa.
+
+## encargo-18: de tinkercad a protoboard
+
+![1ra screenshot](./archivos/9b-encargo18 (1).mp4)
+
+## encargo-19: cultura electrónica y laurie anderson
