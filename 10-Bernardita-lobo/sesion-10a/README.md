@@ -12,7 +12,7 @@
 - la modulación por ancho de pulsos (Pulse width Modulation PWM) de una señal es una técnica en la que se modifica el ciclo de trabajo de una señal periódica, para controlar la cantidad de energía que se envía a una carga.
 - fuente <https://www.facilelectro.es/que-es-el-pwm-y-como-funciona/>
 - armar un circuito PWM por persona, y juntarse entre tres, utilizando colores diferentes: LED rojo, verde y azul, para luego probar cómo se mezclan los colores bajo un papel.
-- El color azul no logra apreciarse tan bien, ya que no alcanza su máxima luz. hay que bajarle la resistencia para que pase más corriente y por tanto, brille más.
+- el color azul no logra apreciarse tan bien, ya que no alcanza su máxima luz. hay que bajarle la resistencia para que pase más corriente y por tanto, brille más.
 
 ![tme-sesion10a-proto](https://github.com/user-attachments/assets/4656d376-2ce7-4d12-bcec-493906d7b1bb)
 
@@ -36,4 +36,4 @@ adjuntar foto del cuaderno*
 
 ## Encargo
 
-### 19
+### 19 
