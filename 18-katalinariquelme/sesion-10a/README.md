@@ -16,3 +16,5 @@ Martes 13 de Mayo del 2025.
 
 ![IMG_0625](https://github.com/user-attachments/assets/e1c2bc35-d3e3-47fe-aac5-f783f76c3685)
 
+## Apuntes clase
+
