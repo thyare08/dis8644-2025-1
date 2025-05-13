@@ -179,6 +179,8 @@ Respecto a los ambigramas
 En ambigramas se parte de una palabra fácil, para ver cómo se combina o se mueve a otra cosa.
 
 ## encargo-18: de tinkercad a protoboard
+Logré replicar el circuito PWM (Pulse Width Modulation), pero en vez del condensador cerámico de 100n, ocupé el que más se asemejaba entre los componentes de mi kit, que era un condensador 101.
+
 ![1ra screenshot](./archivos/9b-encargo18-(1).mp4)
 ![1ra screenshot](./archivos/9b-encargo18-(2).jpg)
 ![1ra screenshot](./archivos/9b-encargo18-(3).jpg)
