@@ -12,10 +12,11 @@
 - Junto a algunos compañeros asistimos a la charla de Christophe Szpajdel.
 - Me perdí la clase, pero colocare cosas de la charla
 
-## The master of logos
-
+## The lord the of logos
 ### Christophe Szpajdel.
+Desde hace años que me ha gustado escuchar música rock, especialmente géneros como el metal y el heavy metal. Desde hace tiempo, algo que siempre ha captado mi atención es el estilo tan particular de los logos que usan muchas de estas bandas. La mayoría de ellos son complejos, extraños, difíciles de leer e incluso grotescos, pero al mismo tiempo resultan fascinantes y únicos. Me preguntaba por qué este tipo de estética visual es tan común dentro del metal.
 
+Aprovechando que "The Lord of the Logos" venía de visita a dar una charla en la universidad, no quise perder la oportunidad de asistir. Aproveche para entender el significado y la intención detrás de estos logos tan característicos. Gracias a su charla, pude entender que estos diseños no son solo una cuestión estética, sino que también reflejan la identidad, el tono y la filosofía de cada banda. Suelen comunicar fuerza, oscuridad, caos o rebeldía, valores muy presentes en el metal, y en muchos casos, el hecho de que sean ilegibles no es un error, sino una declaración de pertenencia a una subcultura específica.
 
 
 
