@@ -15,7 +15,7 @@
 ## The lord the of logos
 ### Christophe Szpajdel.
 
-![fotografía](./archivos/.png)
+![fotografía](./archivos/lordofthelogos.png)
 
 Desde hace años que me ha gustado escuchar música rock, especialmente géneros como el metal y el heavy metal. Desde hace tiempo, algo que siempre ha captado mi atención es el estilo tan particular de los logos que usan muchas de estas bandas. La mayoría de ellos son complejos, extraños, difíciles de leer e incluso grotescos, pero al mismo tiempo resultan fascinantes y únicos. Me preguntaba por qué este tipo de estética visual es tan común dentro del metal.
 
