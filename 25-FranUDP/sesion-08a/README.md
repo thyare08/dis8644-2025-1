@@ -12,10 +12,10 @@
 > ### Mounting holes
 > <img align="left" src="./files/hole.jpg" width=400> </br></br> Se agregan ${\color{#b0e6e6}orificios}$ para fijar la placa pcb, nos recomendaron utilizar pernos ${\color{#b0e6e6}M3}$ por su pequeño tamaño, fácil acceso y precio económico</br></br></br>
 >
-> ### Open scad
+> ### [Open scad](https://youtu.be/KrFttd5D1cw?si=dW5aR9s8_hHU4rGJ)
 > <img align="left" src="./files/openScad.png" width=400> </br></br></br> Permite generar volúmenes ${\color{#b0e6e6}paramétricos}$ mediante ${\color{#b0e6e6}código \ escrito}$ (a diferencia de ${\color{green}Grasshopper\ [Rhino3d]}$, que utiliza ${\color{#b0e6e6}código \ en \ bloques}$) </br></br></br></br>
 >
-> ### Github Desktop
+> ### [Github Desktop](https://youtu.be/MaqVvXv6zrU?si=OLeJjsJaJcjmk-lR)
 > Nos permite trabajar en github de manera más rápida y eficiente, desde ${\color{blue}Visual \ Studio \ Code \ (VSS)}$, sin tener que lidiar con la tediosa versión web
 >> ### Setup
 >> ${\color{#b0e6e6}Clonar}$ repositorio (solo una vez por repositorio)
