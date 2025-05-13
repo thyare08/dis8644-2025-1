@@ -24,11 +24,12 @@ adjuntar foto de tinkercad*
 ## Encargo
 ### 18-De tinkercad a protoboard
 
-- les pedimos que por favor tomen el circuito que simulamos en tinkercad y lo traspasen a su protoboard, usando los componentes que tienen en su kit de materiales.
+- tomar el circuito que simulamos en tinkercad y traspasarlo a la protoboard.
+
+![tme-sesion09b-proto](https://github.com/user-attachments/assets/9f432dd3-86e8-4a01-9472-e97ed80e01a9)
 
 ### 19-Cultura electrónica y laurie Anderson
 
 - estudiar la obra de laurie anderson, incluir citas y referentes usados, explicar qué y por qué les gusta o no de su trabajo.
-- <https://youtu.be/ABjmQCxA7UU?si=2oOfZCFxR2u5EaeN>
-- “(La realidad virtual) es la única forma de arte en la que puedes volar, y por eso soy completamente adicta a ella”.
-Laurie Anderson
+- video visto <https://youtu.be/ABjmQCxA7UU?si=2oOfZCFxR2u5EaeN>
+- Laurie Anderson dijo “(La realidad virtual) es la única forma de arte en la que puedes volar, y por eso soy completamente adicta a ella”.
