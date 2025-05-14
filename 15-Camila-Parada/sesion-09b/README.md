@@ -142,6 +142,8 @@ Tras indagar sobre esta obra, me surgió la duda, ¿Quién es Laurie Anderson?, 
 
 Para ello quise escuchar un video que encontré en youtube: ["El proceso creativo de Laurie Anderson (Español"](https://www.youtube.com/watch?v=SB0eIKQwkOs).
 
+Artista multimedia, primera y última artista con residencia en la NASA. Su carrera ha abordado variedades de disciplinas, desde la música, la escultura, la poesía, la fotografía, el cine, entre otras.
+
 
 
 ***
