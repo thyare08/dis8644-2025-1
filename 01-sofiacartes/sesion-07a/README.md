@@ -31,4 +31,4 @@ archivo -> exportar -> VRML
 
 **CAD assistant** caja de herramientas para ver la vista tridimensional (para imprimir 3d)
 
-4. ¿cómo modificar el chip, para tener mayor orden?
+3. ¿cómo modificar el chip, para tener mayor orden?

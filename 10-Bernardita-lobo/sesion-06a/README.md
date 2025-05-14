@@ -1,10 +1,10 @@
 # sesion-06a
 
-## Proyecto-01
+## Trabajo en clase
 
-### Presentación de mi Grupo-07 
+### Proyecto-01
 
-- LDA: Light Dependant Awelita
+- Presentación de mi Grupo-07; LDA Light Dependant Awelita
 - todo nuestro proceso esta en la sesion 06a de clifford1one y en el figma <https://www.figma.com/board/2tv4jx75qGZa6Gua2UCVer/taller.maq.electr?node-id=0-1&t=aBNh63yuq9MDT4AI-1>
 
 ![tme-sesion06a-foto01](https://github.com/user-attachments/assets/c2cc97c2-12ce-4752-a620-c4cc16a9a289)

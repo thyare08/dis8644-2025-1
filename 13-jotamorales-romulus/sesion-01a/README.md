@@ -15,7 +15,7 @@ Una unidad de arte formada en 1993 por dos hermanos, Masamichi y Nobumichi Tosa.
 
 ## ALGO NUEVO
 
-Durante la mitad de la clase, los profesores nos presentaron distintos dispositivos electronicos que emitian distintos sonidos, lo cual nos mostraban lo diversos que pueden llegar a ser estos.
+Durante la mitad de la clase, los profesores nos presentaron distintos dispositivos electrónicos que emitian distintos sonidos, lo cual nos mostraban lo diversos que pueden llegar a ser estos.
 
 ## más referentes
 
@@ -32,7 +32,7 @@ oficina de sonido (buscar en instagram)
 
 ### Barrio Universitario
 
-No suelo ver cine chileno y este fue después de tanto tiempo, un reencuentro. Reconocí a varios humoristas chilenos, lo que me dejó claro desde un principio que esta no iba a ser una pelicula que se tomara en serio. Su humor aunque efectivo, se ve sofocado, por saltos entre escenas y un montaje que encuentro desordenado. Tiene escenas bien creativas y chistosas, lo cual permite ignorar varios fallos de la pelicula. Me gusta cómo ridiculiza ciertas realidades en chile, como la diferencia entre universidades privadas y técnicas. Lo que sí hace que todo se venga a bajo es el desarrollo de la historia, esperaba cosas como un poco más de enfoque en el robot y el desenlace se siente apresurado y sin moraleja ni evolución de personajes
+No suelo ver cine chileno y este fue después de tanto tiempo, un reencuentro. Reconocí a varios humoristas chilenos, lo que me dejó claro desde un principio que esta no iba a ser una película que se tomara en serio. Su humor aunque efectivo, se ve sofocado, por saltos entre escenas y un montaje que encuentro desordenado. Tiene escenas bien creativas y chistosas, lo cual permite ignorar varios fallos de la pelicula. Me gusta cómo ridiculiza ciertas realidades en Chile, como la diferencia entre universidades privadas y técnicas. Lo que sí hace que todo se venga abajo es el desarrollo de la historia, esperaba cosas como un poco más de enfoque en el robot y el desenlace se siente apresurado y sin moraleja ni evolución de personajes.
 
 ### Kraftwerk
 
@@ -44,4 +44,4 @@ Mi objeto es un amplificador de guitarra que uso para practicar. Me permite escu
 
 ![20250314_014303](https://github.com/user-attachments/assets/4ab3823f-d9d4-4ca5-9c0c-c5de2c0839ec)
 
-Como extra, repitiendo lo que puse en mi croquera. La parte trasera tiene una tapa que oculta un mundo que no he conocido todavia. Puedo intuir que hay dentro, pero de momento no quiero perder la magia que hay dentro. Me gusta imaginar que realmente hay una boca que expulsa todo el sonido de la guitarra. Durante el semestre me gustaria aprender como funciona correctamente y lograr hacer algo parecido o que se puedar complementar con una guitarra.
+Como extra, repitiendo lo que puse en mi croquera. La parte trasera tiene una tapa que oculta un mundo que no he conocido todavia. Puedo intuir que hay dentro, pero de momento no quiero perder la magia que hay dentro. Me gusta imaginar que realmente hay una boca que expulsa todo el sonido de la guitarra. Durante el semestre me gustaria aprender cómo funciona correctamente y lograr hacer algo parecido o que se puedar complementar con una guitarra.

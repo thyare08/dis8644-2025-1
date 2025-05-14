@@ -2,6 +2,6 @@
 
 martes 29 de abril 2025
 
-## encargo-18
+no hay encargos por semana de receso.
 
-## encargo-19
+saludos desde TextEdit, aka, Bloc de notas, y lo voy a subir a mi fork gracias a la ayuda de GitHub Desktop.

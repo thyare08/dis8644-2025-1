@@ -2,15 +2,15 @@
 
 poner apuntes clase viernes 4 abril
 
-## encargo 1 - switched on bach (wendy carlos)
+## encargo-10: switched on bach (wendy carlos)
 
-Tuve una semana media complicada, pero me hice tiempo para escuchar diversos temas. Fui escuchando en tandas, al escucharlo así no logré obtener una cancion para dejar como favorita. Al escuchar el album genera una atmósfera singular, futurista mezclada con algo antiguo, fusionando de una manera que hay armonia entre las dos. Me hace pensar en una banda sonora de un juego pixel art medieval caricaturesco con sintetizador. Tambien me recuerda a un juego llamado narita boy, en el cual se hace una mezcla de los 80s con el futuro.
+Tuve una semana media complicada, pero me hice tiempo para escuchar diversos temas. Fui escuchando en tandas, al escucharlo así no logré obtener una cancion para dejar como favorita. Al escuchar el álbum genera una atmósfera singular, futurista mezclada con algo antiguo, fusionando de una manera que hay armonia entre las dos. Me hace pensar en una banda sonora de un juego pixel art medieval caricaturesco con sintetizador. También me recuerda a un juego llamado narita boy, en el cual se hace una mezcla de los 80s con el futuro.
 
 En este álbum se reinterpretó obras de Bach. La compositora, trabajó en bandas sonoras de películas como A Clockwork Orange y Tron. como una de las primeras figuras trans públicas en el Wendy Carlos es una figura clave en la evolución de la música electrónica.
 
 ![image](https://github.com/user-attachments/assets/7f9c2fa7-798e-4b70-aa2e-df973d7fd77c)
 
-## encargo 2 - bajando opacidad a la caja negra
+## encargo-11: bajando opacidad a la caja negra
 
 ### Reproductor mp3 - Dynatech
 
