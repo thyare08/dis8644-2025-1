@@ -1,6 +1,6 @@
 # sesion-07a
 
-# Clase 22/04
+Clase 22/04
 
 Primera parte:
 

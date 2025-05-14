@@ -1,7 +1,8 @@
 # sesion-08a
-# Clase 29/04 08a
 
-# Primer Bloque
+## Clase 29/04 08a
+
+### Primer Bloque
 
 ## Kicad
 
@@ -24,8 +25,6 @@
 - Visualización de logos en la PCB enviada a hacer por encargo
 - Añadir perforaciones “Mounting Hole” en la PCB para facilitar el montado de esta misma
 
- 
-
 # Segundo bloque
 
 Escuchar Cantata Santa María de Iquique
@@ -37,6 +36,7 @@ Escuchar Cantata Santa María de Iquique
 ## VISUALSTUDIO CODE Y GITHUB DESKTOP
 
 - Instalar la app de desktop de Github y:
+
 1. Clonar su fork (1 vez)
 2. Sync (en el navegador)
 3. Fetch
@@ -46,4 +46,3 @@ Escuchar Cantata Santa María de Iquique
 7. Push
 
 ### Para cualquier duda ver video de la clase
-
