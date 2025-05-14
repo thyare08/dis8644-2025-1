@@ -2,13 +2,13 @@
 
 29 de abril de 2025
 
-## Encargo 16
+## encargo-16
 
 Antes de realizar el encargo debí seguir paso a paso las indicaciones tanto dadas en clase como en el tutorial enviado, durante el proceso tuve distintas dificultades, por ejemplo:
 
 - Fue difícil encontrar una ubicación estratégica para los componentes que facilitarán las conexiones, principalmente me confundía la ubicación de los pines del 555
   
-- Me confundí al conectar los GND en un principio (los había conectado entre sí con vías), luego con el tutorial me di cuenta de que se podía configurar la placa como GND
+- Me confundí al conectar los GND en un principio (los había conectado entre sí con vías), luego con el tutorial me di cuenta de que se podía configurar la placa como GND.
 - Al realizar el archivo Gerber el seteo de el taladrado no me permitía generar el archivo, luego me di cuenta que debía configurarlo como en el tutorial.
 
 Lo bueno de este proceso fue que la equivocación me ayudo a memorizar ciertos procesos y el tutorial fue un gran refuerzo para lo visto en clase.
@@ -23,7 +23,7 @@ Lo bueno de este proceso fue que la equivocación me ayudo a memorizar ciertos p
 
 ![opciónCorrecta](https://github.com/user-attachments/assets/69dd83c7-e16a-4b53-a456-587676f2896f)
 
-4. En el inicio de la pagina aparecera esto, donde debes ir a la opción iniciar sesion y hacer click en Empieza aquí
+4. En el inicio de la pagina aparecerá esto, donde debes ir a la opción iniciar sesion y hacer click en Empieza aquí
 
 ![pantallaInicial](https://github.com/user-attachments/assets/c99efb08-6d93-4447-be48-b1d512fe0700)
 
@@ -49,7 +49,7 @@ Lo bueno de este proceso fue que la equivocación me ayudo a memorizar ciertos p
 ![cantidadPCB](https://github.com/user-attachments/assets/df8db82a-111b-4ad7-8589-5c428bc5a15d)
 ![cotización30PCB](https://github.com/user-attachments/assets/b1a9efbd-e0e5-448a-9715-808dc1062e71)
 
-## Encargo 17
+## encargo-17
 
 Procedo a documentar las opciones experimentales que me parecieron más curiosas
 
