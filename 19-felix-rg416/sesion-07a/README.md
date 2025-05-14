@@ -7,7 +7,9 @@ martes 22 de abril
 ![bleepLabs.collage](https://github.com/felix-rg416/dis8644-2025-1/blob/main/19-felix-rg416/sesion-07a/archivos/BleepLabs.collage.png)
 
 ### - [loud objects](https://loudobjects.bandcamp.com/merch)
-  - [ ] incluir imágenes
+
+- [ ] incluir imágenes
+
 ### - **tarjeta de presentación misaa**
 
 ![misaa.collage](https://github.com/felix-rg416/dis8644-2025-1/blob/main/19-felix-rg416/sesion-07a/archivos/misaa.collage.png)
@@ -100,7 +102,6 @@ qué componentes hay, cómo se ocupan, cómo se interconectan, qué valores tien
 
 ![girlla](https://github.com/felix-rg416/dis8644-2025-1/blob/main/19-felix-rg416/sesion-07a/archivos/grilla.png)
 
-
 ## dibujo SCH (esquemático)
 
 ## huellas
@@ -112,7 +113,6 @@ Pitch = [P] = distancia entre patitas
   - Seleccionar mi componente a cambiar --> en la sección derecha sseleccionar las medidas
 
 ![asignar-huellas](https://github.com/felix-rg416/dis8644-2025-1/blob/main/19-felix-rg416/sesion-07a/archivos/asiganr-huellas.collage.png)
-
 
 ## ruteo
 
