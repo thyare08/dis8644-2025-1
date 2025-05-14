@@ -92,10 +92,10 @@ probar opciones que no entiendan, documentar otros parámetros que no conozcan a
 ### Tipo de encargo
 
 En la página para encargar una PCB en JLCPCB aparecen 4 opciones, todas igual de importantes.
--   **PCB estándar**.
--   **PCB Avanzado/PCBA**.
--   **Plantilla SMT**
--   **Impresión 3D/CNC**
+* **PCB estándar**.
+* **PCB Avanzado/PCBA**.
+* **Plantilla SMT**
+* **Impresión 3D/CNC**
 
 Nos centramos solamente en las PCB.
 
@@ -109,14 +109,13 @@ La **PCB avanzada**
 
 >Una PCB avanzada se refiere a una placa de circuito con mayores requisitos de velocidad de transimisión de señales, frecuencia y rendimiento de datos. Sus procesos de diseño y fabricación exigen consideraciones adicionales, como la integridad de la señal, la compatibilidad electromagnética y la gestión térmica, lo que garantiza un funcionamiento estable y confiable en diversas condiciones complejas.
 
-Fuente: https://www.lstpcb.com/es/news/advanced-pcb-vs-standard-pcb/
-
+Fuente: <https://www.lstpcb.com/es/news/advanced-pcb-vs-standard-pcb/>
 
 ### Materiales de base
 
 Luego aparecen los **Materiales de base** los cuales son:
 
--   **FR4**
+* **FR4**
 
 ![ejemplo-de-fr4s](./archivos/fr4.jpg)
 
@@ -128,7 +127,7 @@ La altura de los componentes afecta directamente al grosor del material de sustr
 
 Se identifican mediante su clasificación ignífuga a través de códigos siendo los más comunes éstos FR-4, FR-5 y FR-6.
 
--   **Flexible**
+* **Flexible**
 
 ![pcb-flexible](./archivos/pcb_flexible.jpg)
 
@@ -138,14 +137,16 @@ La PCB flexible es un tipo de placa diseñada específicamente para poder doblar
 
 Posee:
 
-1.  Sustrato flexible dieléctrico (poliimida, poliéster, PTFE o polímero de cristal líquido (LCP)).
-* PTFE: politetrafluoroetileno.
-2.  Capa conductora (lámina de cobre o revestimiento de cobre laminado sobre el sustrato). Conforma los patrones de circuitos deseados (rastros, al mohadillas y vias). Opciones al cobre son Silver Ink, Constantan, Carbón, Aluminio e inconel.
-3.  Capa adhesiva.
-4.  Superposición protectora (poliimida, máscara de soldadura líquida, fotoimagen, u otros).
-5.  Endurecedor (material de refuerzo, poliimida con respaldo adhesivo) que imparte rigidez y soporte estructural.
+1. Sustrato flexible dieléctrico (poliimida, poliéster, PTFE o polímero de cristal líquido (LCP)).
 
--   **Aluminio**
+* PTFE: politetrafluoroetileno.
+
+2. Capa conductora (lámina de cobre o revestimiento de cobre laminado sobre el sustrato). Conforma los patrones de circuitos deseados (rastros, al mohadillas y vias). Opciones al cobre son Silver Ink, Constantan, Carbón, Aluminio e inconel.
+3. Capa adhesiva.
+4. Superposición protectora (poliimida, máscara de soldadura líquida, fotoimagen, u otros).
+5. Endurecedor (material de refuerzo, poliimida con respaldo adhesivo) que imparte rigidez y soporte estructural.
+
+* **Aluminio**
 
 ![pcb-de-aluminio](./archivos/pcb_de_aluminio.jpg)
 
@@ -155,44 +156,50 @@ Son un subconjunto de PCB con núcleo metálico (MCPCB), su proceso de laminaci�
 
 El grado y la pureza del aluminio afectan en el rendimiento de la PCB, se suele utilizar el aluminio 5052-H32.
 
--   **Base de cobre**
+* **Base de cobre**
 
 ![pcb-de-cobre](./archivos/pcb_de_cobre.jpg)
 
 PCB de base metálica fabricada con sustrato de cobre. Tiene una gran conductividad térmica. Cara y de gran rendimiento. Presente en productos de gama alta. Gran capacidad de conducción de corriente. No es adecuado para una PCB multicapa.
 
--   **Rogers**
+* **Rogers**
 
 ![pcb-rogers](./archivos/pcb_rogers.webp)
 
 PCB producida con laminados de Rogers Corporation. Capaces de funcionar en entornos rigurosos y hostiles, dispositivos de alta frecuencia. Mayor durabilidad, estabilidad, métodos de fabricación y costo del producto. Aguanta hasta 350°C de temperatura. Su frecuencia de operación es de 500MHz mientras que un FR4 común es de 10MHz o inferior. Resistente a la humedad. Posee estabilidad de impedancia, su constante dieléctrica Dk es de 2.5 a 11, tiene una pérdida deléctrica baja.
 
-+ Rogers 4350B
+* Rogers 4350B
+
 >El laminado de este material permite un control estricto de la constante dieléctrica y una pérdida dieléctrica baja. Estos materiales se utilizan para laminados de alta potencia g y t está clasificado para UL 94 V-0. Dk es 3.66 y el rango de frecuencia de mejor rendimiento es de 8 a 40 GHz, por lo que se utiliza para antenas de estaciones celulares y enlaces de microondas.
-+ Rogers 4003C
+* Rogers 4003C
+
 >El Rogers 4003C proporciona una constante dieléctrica igual en toda la PCB, ya que el vidrio epoxi o el laminado convencional para microondas son los materiales de base, pero estos materiales requieren un tratamiento especial a través de orificios y procesos de manipulación. Se utilizan etiquetas RF con estas PCB y se utilizan radares y sensores de grado automotriz, ya que el Dk del material es de aproximadamente 3.55.
-+ Rogers 4534
+* Rogers 4534
+
 >Rogers 4534 ofrece tanto rendimiento como costo, por lo que se utilizan en aplicaciones de diseño de antenas en productos. La composición consta de un relleno de vitrocerámica reforzado que proporciona una menor pérdida y una constante dieléctrica controlada. Proceso de ensamblaje con un proceso de temperatura de reflujo más alta y compatible con casi todas las pastas de soldadura sin HASL.
-+ Rogers 3003
+* Rogers 3003
+
 >La constante dieléctrica es extremadamente estable y tiene un factor de disipación bajo, lo que es bueno para las PCB de RF. Se pueden diseñar con este material aplicaciones de radar de alta frecuencia que operan cerca de los 77 GHz, aplicaciones inalámbricas 6G y productos de asistencia al conductor.
-+ Rogers RT
+* Rogers RT
+
 >Estos materiales se pueden utilizar para aplicaciones de microondas multicapa, ya que proporcionan una constante dieléctrica baja y una menor pérdida. Se utilizan para sistemas de guía de misiles y sistemas de radar militares que requieren una constante dieléctrica baja de 2.20 (Dk). Rogers RT tiene dos tipos: uno es Duroid 6002 y el otro es Duriod 5880. Ambos proporcionan una constante dieléctrica baja y una pérdida dieléctrica baja, lo que permite una excelente precisión en el rendimiento de la placa de circuito impreso.
 
-* Fuente: https://www.viasion.com/es/blog/Propiedades%2C-materiales%2C-ventajas-y-aplicaciones-de-los-PCB-de-Rogers/
+* Fuente: <https://www.viasion.com/es/blog/Propiedades%2C-materiales%2C-ventajas-y-aplicaciones-de-los-PCB-de-Rogers/>
 
--   **PTFE Teflón**
+* **PTFE Teflón**
 
 ![pcb-rogers](./archivos/pcb_teflon.jpg)
 
 La PCB de politetrafluoroetileno es una placa de alto rendimiento. Capacidad de soportar temperaturas extremas, resistir prácticamente todos los productos químicos y mantener propiedades eléctricas estables en condiciones difíciles.
-*   Excelente resistencia química.
-*   Durabilidad a baja temperatura. Soporta temperaturas desde -192°C hasta 250°C.
-*   Resistencia a la intemperie.
-*   Baja pérdida dieléctrica.
-*   Superficie antiadherente.
-*   Resistencia a la humedad.
-*   Excelente propiedad eléctrica.
-*   Facilita el control de impedancia.
+
+* Excelente resistencia química.
+* Durabilidad a baja temperatura. Soporta temperaturas desde -192°C hasta 250°C.
+* Resistencia a la intemperie.
+* Baja pérdida dieléctrica.
+* Superficie antiadherente.
+* Resistencia a la humedad.
+* Excelente propiedad eléctrica.
+* Facilita el control de impedancia.
 
 Algunos modelos son RO3003, RO3035, RO3010.
 
@@ -226,24 +233,25 @@ Indica cuántos diseños diferentes varían en el archivo. De este parámetro de
 
 ### Formato de entrega
 
-*   PCB simple
+* PCB simple
 
 El diseño tal como está
 
-*   Panel por Cliente
+* Panel por Cliente
 
 Depende de uno al subir el documento de indicar los datos de panelización. Indicando **Columna** y **Fila**.
 
-*   Panel de JLCPCB
+* Panel de JLCPCB
 
 ![panel-jlcpcb](./archivos/panel_jlcpcb.png)
 
-Indica parámetros: 
-*   **Tamaño de pieza** (en mm).
-*   **Tipo de Panel**
-*   **Formato del Panel** (en columnas y filas).
-*   **Rieles de Borde** (ubicación de los rieles de borde).
-*   **Tamaño del Panel**.
+Indica parámetros:
+
+* **Tamaño de pieza** (en mm).
+* **Tipo de Panel**
+* **Formato del Panel** (en columnas y filas).
+* **Rieles de Borde** (ubicación de los rieles de borde).
+* **Tamaño del Panel**.
 
 ### Espesor de la tarjeta de circuito impreso
 
@@ -251,13 +259,13 @@ Indica el espesor de la PCB, puede ser de 0.4mm, 0.6mm, 0.8mm, 1.0mm, 1.2mm, 1.6
 
 ### Color de PCB
 
-*   Verde
-*   Púrpura
-*   Rojo
-*   Amarillo
-*   Azul
-*   Blanco
-*   Negro.
+* Verde
+* Púrpura
+* Rojo
+* Amarillo
+* Azul
+* Blanco
+* Negro.
 
 Dependiendo de nuestro tipo de placa afectará enormemente este parámetro, además que unos colores de placa son más inusuales y complicados de fabricar que otros, para una PCB estándar se suele usar el color verde.
 
@@ -267,12 +275,12 @@ Mayoritariamente de color blanco, sólo en el caso de que la máscara de soldadu
 
 ### Acabado de la superficie
 
-*   HASL (con cable)
-*   HASL (sin plomo)
+* HASL (con cable)
+* HASL (sin plomo)
 
 HASL utiliza estaño o plomo para crear una capa protectora para el PCB. Aseiquibles, a considerar que el plomo es tóxico.
 
-*   ENIG
+* ENIG
 
 Superficie plana, sin plomo y compatible con RoHS, tiene una vida útil más larga y se pueden mantener tolerancias más estrictas para los orificios enchapados.
 
@@ -286,10 +294,10 @@ Peso de cobre en las capas exteriores de 1 oz o 2 oz. El peso interior del cobre
 
 ![vias-de-cobertura](./archivos/vias_cobertura.png)
 
-*   Con carpa
-*   Sin carpa
-*   Atascado
-*   Relleno y tapado con epoxi.
+* Con carpa
+* Sin carpa
+* Atascado
+* Relleno y tapado con epoxi.
 
 ### Tamaño/diámetro mínimo del orificio
 
@@ -314,10 +322,10 @@ Opciones: No / Sí
 
 ### Marcar en PCB
 
-*   Número de orden
-*   Número de pedido (Especifique la posición)
-*   Código de barras 2D (Número de serie)
-*   Eliminar marca.
+* Número de orden
+* Número de pedido (Especifique la posición)
+* Código de barras 2D (Número de serie)
+* Eliminar marca.
 
 ### Prueba eléctrica
 
