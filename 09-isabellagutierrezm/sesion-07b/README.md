@@ -66,7 +66,7 @@
 
 ![placa final](https://github.com/user-attachments/assets/b8eb6c98-df60-482d-8768-8fffdf9c0303)
 
-# Encargo 16: Cotización
+## Encargo 16: Cotización
 
 - Primero guardamos nuestro archivo como “udpudu_gerber” y lo convertimos en un archivo zip
 ![pudu zip](https://github.com/user-attachments/assets/e1fcb1ca-9776-450d-93c6-608c204bfb5f)
