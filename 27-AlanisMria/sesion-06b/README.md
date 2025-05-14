@@ -1,6 +1,6 @@
 # sesion-06b
 
-### Encargo 12: instalar KiCad
+## Encargo 12: instalar KiCad
 
 listo
 
@@ -20,7 +20,7 @@ adjunto foto
 
 El libro se llama Cuentos de buenas noches para niñas rebeldes 2.
 
-Es interesante como el documental muestra lo increíble de estas mujeres, considerando el entorno misógino de las épocas  
+Es interesante como el documental muestra lo increíble de estas mujeres, considerando el entorno misógino de las épocas.
 
 #### Daphne Oram
 
@@ -32,11 +32,11 @@ Se nota que conocía y convivia mucho con sus máquinas, su cara y forma de habl
 
 *“La música electrónica es mucho más que accidental, es el sonido del futuro”*
 
-No sabía que la música electrónica era considerada diabólica en ciertos lugares
+No sabía que la música electrónica era considerada diabólica en ciertos lugares.
 
 #### Eliane Radigue
 
-Es muy interesante como ella se inspira en sonidos cotidianos, como el de un avión para realizar su música
+Es muy interesante como ella se inspira en sonidos cotidianos, como el de un avión para realizar su música.
 
 Es muy relajante el ruido producido por ella, muy meditativo.
 
@@ -62,7 +62,7 @@ Los sonidos de la guerra
 
 #### Pauline oliveros
 
-Muy psicodélica, acorde a su época
+Muy psicodélica, acorde a su época.
 
 Me parece curiosa su atención en los intermedios entre una estación de radio y otra cuando escuchaba la radio con su padre, demuestra cómo por más simple o cotidiano pueda ser algo para algunos, por otro lado puede despertar un interés especial y una fascinación en otros.
 

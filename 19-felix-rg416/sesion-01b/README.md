@@ -14,39 +14,42 @@ también existe las "Perfboard" y las "Stripboard" y además hay de distintos ta
 ## interruptor 250v
 
 interrumpe el camino de la electricidad. encendido y apagado
+
 ![image](https://github.com/user-attachments/assets/efe2216a-23ab-4215-923d-ee981b03085c)
 
 ## potenciómetro
 
 permite controlar la corriente, generalmente usado en sonido, puede regular volumen y tono
-![image](https://github.com/user-attachments/assets/d8b6a057-f729-48ee-a759-b4c8107f356f)
+
+![potenciadores](.\archivos\potenciometro.jpg)
 
 ## condensadores electrolítico y de cerámica
 
 almacena energía eléctrica. no tienen polaridad
 
-![image](https://github.com/user-attachments/assets/ff0b0af3-72bf-4cf4-b941-548124ad8fed)
-![image](https://github.com/user-attachments/assets/8d95f8f0-6fcd-4b31-b92a-c2150f14a1e9)
+![condensadores](.\archivos\condensadores.png)
 
 ## resistencias
 
 es la oposición a la circulación de corriente. se mide en Ohm (Ω). el código de colores indica el valor
 
-![image](https://github.com/user-attachments/assets/75eb9a37-6ed1-40d9-aee1-eaafbaaa90c6)
-![tablas resistencias](https://github.com/user-attachments/assets/e7a9856c-693c-4d4c-ae7d-a4072a30fc01)
+![resitencias](.\archivos\resistencias.png)
+
+![tablas.resistencias](.\archivos\tablas resistencias.jpg)
 
 ## LED
 
 Light-Emitting Diode. fuente de luz. el voltaje que necesitan depende del color. para no quemarlos se usan resistencias. tiene un positivo y un negativo
 
-![valoresLED](https://github.com/user-attachments/assets/68d4fd64-d3db-4b37-ba38-f77ce9d7559a)
+![valoresLED](.\archivos\rango.de.voltajeLED.jpeg)
 
 ## buzzer o zumbador
 
 convierten la electricidad en sonido. el sonido cambia dependiendo del tamaño y el voltaje
-![image](https://github.com/user-attachments/assets/301d8f38-3623-4763-84ef-4006ab1a299a)
+
+![buzzer](.\archivos\buzzer.png)
 
 ## servomotor
 
 se puede controlar la posición y el movimiento de forma precisa
-![image](https://github.com/user-attachments/assets/dbb745ce-579c-49f1-969c-c352e061ba47)
+![servoMotor](.\archivos\servoMotor.jpg)

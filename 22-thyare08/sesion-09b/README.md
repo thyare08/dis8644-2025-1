@@ -6,4 +6,9 @@
 
 - **Encargo 18:** Realizar circuito de la clase en protoboard
 
+  ![20250513_110357](https://github.com/user-attachments/assets/9f2b9f06-314a-495f-8305-edfc841a82b1)
+![20250513_110407](https://github.com/user-attachments/assets/d4bf94c1-ac1d-4100-b158-bf315a9ede88)
+
+
+
 - **Encargo 19:** Investigar cultura electrónica y Laurie Anderson

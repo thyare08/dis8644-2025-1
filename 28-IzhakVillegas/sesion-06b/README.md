@@ -10,7 +10,7 @@ APUNTES VIDEO: <https://www.youtube.com/watch?v=hn_pk0nWDns>
 
 * Anoté apuntes relacionados al video proporcionado por los docentes.
 
-Programa _open source_ gratuito especial para el diseño de PCBs, opciones a esto es _Eagle_ y _Altium_
+Programa _open source_ gratuito especial para el diseño de PCBs, opciones a esto son _Eagle_ y _Altium_
 
 _Workflow_: flujo de trabajo.
 
@@ -27,7 +27,8 @@ _Protools_ (para audio)
 
 ### Parámetros del bloque del título
 
-- Tamaño (carta, a4, tabloide, etc).
+* Tamaño (carta, a4, tabloide, etc).
+
 * Orientación (vertical, horizontal).
 * Título.
 * Compañía.
@@ -236,6 +237,7 @@ Se pueden importar dibujos externos, importarlas como borde a la placa PCB.
 * _InkScape_.
 
 ### Glosario Terminología de diseño en PCB
+
 <https://docs.google.com/document/d/1uwGN5jmR22pYjSk9IIKY-icggmpqQSC4HyakQe322rQ/edit?tab=t.0>
 
 ## encargo-13 Ver el documental _Sisters with transistors_

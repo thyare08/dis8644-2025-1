@@ -45,7 +45,7 @@
 - Winget, su equivalente en Windows, también para instalar herramientas por línea de comandos.
 - Automatización con Python
 
-### hithub
+### github
 
 - repasamos cómo hacer un issue para pedir que evalúen bitácoras o encargos.
 - GitHub Desktop, para clonar el repositorio.

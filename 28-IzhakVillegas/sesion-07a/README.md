@@ -68,7 +68,7 @@
 * Envío a China por JLCPCB o PCBWay.  
 * Soldadura Manual o con stencil.  
 
-## encargo-14
+## encargo-141
 
 Diseñar esquemático en Kicad (solamente esquemático, no asignar huellas) de Atari Punk Console con modificaciones que ustedes realizaron en KiCAD, o en su versión base si sus modificaciones no funcionaron al 100%.
 
@@ -76,7 +76,7 @@ Diseñar esquemático en Kicad (solamente esquemático, no asignar huellas) de A
 
 ## encargo-15
 
-Revisar el Manual de supervivencia de KiCADdisponible en <https://misaa.notion.site/Manual-de-supervivencia-para-KiCAD-8cc756e79ced4271ad575874aaa3497e> y plantear 2 dudas y/o aprendizajes importantes, que quieran compartir en la próxima clase.
+Revisar el Manual de supervivencia de KiCADd isponible en <https://misaa.notion.site/Manual-de-supervivencia-para-KiCAD-8cc756e79ced4271ad575874aaa3497e> y plantear 2 dudas y/o aprendizajes importantes, que quieran compartir en la próxima clase.
 
 * Al momento de realizar nuestra PCB cómo terminar por diseñarla en vectores o en modelos 3D.
 * ¿Cómo se exportan los diseños? ¿Tiene algo que ver las licencias tipográficas o de programación en esto?
