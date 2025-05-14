@@ -4,12 +4,15 @@
 Trabajar en grupos de 3 personas y armar cada uno el circuito pwm, cada persona debe tener un led de color distinto, luego se combinaran los colores. Luego con un papel se apunta con cada led y cada circuito al papel, generando un efecto lumínico que combina los colores. Con este ejercicio somos capaces de ver el efecto de RGB.
 
 ![video ejercicio lumínico]
+
 https://github.com/user-attachments/assets/ca505d32-3f8e-486f-a52b-30dbe41e1151
 
 ![creando colores1]
+
 <img width="665" alt="13-05" src="https://github.com/user-attachments/assets/4a75bd3e-cf8b-4ac3-9aab-49bf6fb657eb" />
 
 ![creando colores2]
+
 <img width="665" alt="13_05" src="https://github.com/user-attachments/assets/2ece7cfe-b37d-4b7c-b66e-8a669a6c0b23" />
 
 *Bajando la resistencia se aumenta la intensidad del led
@@ -26,6 +29,7 @@ chip de 14 patas
 op-amp: caja negra llena de transistores. Es un circuito integrado (CI) que amplifica señales eléctricas, especialmente voltajes diferenciales
 
 ![símbolo electrónico op-amp]
+
 <img width="810" alt="Captura de pantalla 2025-05-13 a la(s) 11 25 56 a m" src="https://github.com/user-attachments/assets/e68e14e3-84a7-4ceb-9427-deb01ae73bb0" />
 
 V+: Entrada no inversora
@@ -41,7 +45,9 @@ VS−: Fuente DC negativa
 ## falstad
 Permite hacer y similar circuitos, visibilizar su scope, además de variar sus resistencias y velocidad
 
-![ejemplo de un circuito simulado]<img width="1274" alt="c simulado" src="https://github.com/user-attachments/assets/26ea74cb-23ab-4645-bac0-dbf1bb19dfa6" />
+![ejemplo de un circuito simulado]
+
+<img width="1274" alt="c simulado" src="https://github.com/user-attachments/assets/26ea74cb-23ab-4645-bac0-dbf1bb19dfa6" />
 
 analog and hibrid chips: 555
 
@@ -49,9 +55,11 @@ analog and hibrid chips: 555
 trapasar el circuito similado en tinkercad a la protoboard
 
 ![circuito simulado - a proto]
+
 <img width="1170" alt="proto" src="https://github.com/user-attachments/assets/4347b72b-5026-4fd3-809d-3c456d192cde" />
 
 ![circuito simulado - a proto]
+
 <img width="669" alt="Captura de pantalla 2025-05-13 a la(s) 11 38 54 p m" src="https://github.com/user-attachments/assets/3f051c55-1177-4c4e-97b9-a8b51e87632f" />
 
 ## encargo_19: cultura electrónica y laurie anderson
@@ -61,12 +69,15 @@ Laurie Anderson es una artista multidisciplinaria, reconocida por su trabajo en 
 Personalmente, conocia la obra  "O Superman", pero no conocía a profundidad quien era la creadora ni sus otros trabajos. Lo que más me sorprendió fue su trabajo (re) diseñando distintos intrumentos musicales, pero sobre todo modificando violines de tal forma que ninguno se parece entre si en cuanto al sonido que produce, sin embargo siguen siendo el mismo intrumento que se utiliza de la misma manera que un violín tradicional. Puedo decir que mis favoritos son: Tape bow violin, Neon Violin y The Talking Stick. Como anécdota personal, yo solía tocar el violín, pero por distintas razones (sindrome del impostor) lo dejé a pesar de que es algo siempre quise hacer, por lo que investigar sobre Laurie Anderson hace que quiera volver y retomar el violín, y poder experimentar y crear cosas.
 
 ![tape bow violin]
+
 <img width="690" alt="Captura de pantalla 2025-05-14 a la(s) 12 00 55 a m" src="https://github.com/user-attachments/assets/e42124bf-9ba9-4caf-9107-36039e8e4812" />
 
 ![neon violin]
+
 <img width="314" alt="Captura de pantalla 2025-05-14 a la(s) 12 01 35 a m" src="https://github.com/user-attachments/assets/d408ddef-3786-49e9-979b-89283a94b8b7" />
 
 ![the talking stick]
+
 <img width="461" alt="Captura de pantalla 2025-05-14 a la(s) 12 02 16 a m" src="https://github.com/user-attachments/assets/1ccf03f6-4d48-4a68-baac-03090395972c" />
 
 
