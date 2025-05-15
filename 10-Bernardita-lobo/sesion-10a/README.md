@@ -32,7 +32,7 @@
 
 ![tme-sesion10a-falstad03](https://github.com/user-attachments/assets/fa746476-71a3-4898-afc3-a1120c16fc35)
 
-adjuntar foto del cuaderno*
+![tme-sesion10a-bitacora](https://github.com/user-attachments/assets/6ae67461-1d70-4faf-8dbd-e621840bb018)
 
 ## Encargo
 
