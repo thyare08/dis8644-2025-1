@@ -294,4 +294,5 @@ Desde el aspecto visual del video musical, se ocupaban mucho el juego de sombras
 
 Personalmente, puedo apreciar esta obra de una manera debido al contexto que leí, pero personalmente no es mi estilo de música, así que estuvo bien el escucharla, pero creo que al menos esto no lo volvería a escuchar, aunque puede que me vaya a escuchar y/o observar algún otro elemento de Laurie Anderson en el futuro.
 
-
+Referencias:  
+-https://es.m.wikipedia.org/wiki/O_Superman
