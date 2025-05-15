@@ -52,7 +52,7 @@
 
 ### 16-Cotizar ud_pudu en JLCPCB de forma productiva
 
-- Primera cotización: 10 PCBs de 1.2 mm de espesor, color verde y acabado HASL (con cable). El costo es de $5.00 USD y el tiempo de entrega estimado es de dos días. El precio no varía si se elige un espesor de 1 mm, 1.2 mm o 1.6 mm.
+- Primera cotización: 10 PCBs de 1.2 mm de espesor, color verde y acabado HASL (con cable). el costo es de $5.00 USD y el tiempo de entrega estimado es de dos días. el precio no varía si se elige un espesor de 1 mm, 1.2 mm o 1.6 mm.
 
 ![tme-sesion07b-JLC](https://github.com/user-attachments/assets/2415d910-49bd-4acf-9be8-e56fe8db4522)
 
