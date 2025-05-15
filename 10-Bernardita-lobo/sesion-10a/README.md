@@ -36,4 +36,8 @@ adjuntar foto del cuaderno*
 
 ## Encargo
 
-### 19 
+### 20-Pantallas de siete segmentos
+
+- subir fotos de su propia autoría de pantallas de siete segmentos, y otras variantes que encuentren en su vida cotidiana.
+
+### 
