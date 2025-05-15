@@ -181,10 +181,26 @@ En ambigramas se parte de una palabra fácil, para ver cómo se combina o se mue
 ## encargo-18: de tinkercad a protoboard
 Logré replicar el circuito PWM (Pulse Width Modulation), pero en vez del condensador cerámico de 100n, ocupé el que más se asemejaba entre los componentes de mi kit, que era un condensador 101.
 
-![1ra screenshot](./archivos/9b-encargo18-(1).mp4)
-![1ra screenshot](./archivos/9b-encargo18-(2).jpg)
-![1ra screenshot](./archivos/9b-encargo18-(3).jpg)
+![Video del circuito funcionando](./archivos/9b-encargo18-(1).mp4)
+![Foto en angulo del circuito](./archivos/9b-encargo18-(2).jpg)
+![Foto SUperior del circuito](./archivos/9b-encargo18-(3).jpg)
 
 ## encargo-19: cultura electrónica y laurie anderson
-escuche y vi el video O superman de Laurie Anderson, la cual personalmente me pareció ligeramente perturbadora en la 1ra visualización, ya que el sonido constante del fondo me dejó ligeramente loco
-![1ra screenshot](./archivos/9b-encargo19-(1).jpg)
+Escuché y vi el video O Superman de Laurie Anderson, el cual fue lanzado en octubre de 1981 en el Reino Unido, el cual personalmente me pareció ligeramente perturbador en la 1.ª visualización, ya que el sonido constante del fondo me dejó ligeramente loco y algo, que no sé específicamente qué, me dejó fuera de lugar, como si esa fuese la intención de la canción.
+
+ Pero ya luego de verlo con un poco más de atención, me di cuenta de que es un diálogo, que está contextualizado a un ataque armado estadounidense, que Anderson dijo directamente que se refiere a Irán-Contra o también conocido como Irangate, un escándalo en el que Estados Unidos le vendió armas a Irán de manera secreta, pero está más enfocada en los casos de rehenes en Irán del año 1979-1980, específicamente en cómo se estrelló un helicóptero de rescate en la llamada operación Garra de Águila.
+
+Desde el aspecto visual del video musical, se ocupaban mucho el juego de sombras y la luminosidad, creando algunas imágenes fantásticas, como la de la cabeza de Anderson, que tenía una ampolla dentro.
+
+![Laurie Anderson en el principio del video musical, donde una de sus manos es ocupada para crear una sombra en el fondoo](./archivos/9b-encargo19-(1).png)
+![La imagen de la cabeza con una ampolleta a la que me referia](./archivos/9b-encargo19-(2).png)
+![Laurie en un fondo rojo, en casi completa oscuridad](./archivos/9b-encargo19-(3).png)
+![Una pequeña parte donde no se ocupaba las sombras, pero la unclui porque me parecio curioso que hubiera una persona representando en lenguaje de señas lo que se estaba diciendo en esta parte especifica del video](./archivos/9b-encargo19-(4).png)
+![Una mano de una persona, que puede no ser de Laurie, haciendo distintas señas, esta en especifico de una pistola disparando](./archivos/9b-encargo19-(5).png)
+![La mano depsidiendose de la persona viendo el video](./archivos/9b-encargo19-(6).png)
+
+
+
+Personalmente, puedo apreciar esta obra de una manera debido al contexto que leí, pero personalmente no es mi estilo de música, así que estuvo bien el escucharla, pero creo que al menos esto no lo volvería a escuchar, aunque puede que me vaya a escuchar y/o observar algún otro elemento de Laurie Anderson en el futuro.
+
+
