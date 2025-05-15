@@ -40,4 +40,6 @@ adjuntar foto del cuaderno*
 
 - subir fotos de su propia autoría de pantallas de siete segmentos, y otras variantes que encuentren en su vida cotidiana.
 
-### 
+### 21-Simulación de circuitos con 555 y/o comparadores hechos con opamps en Falstad
+
+- simular circuitos que hemos visto en clases con chips 555 y/o circuitos comparadores usando el simulador de Falstad.
