@@ -24,7 +24,7 @@ fue capturada el 15/05 en mi casa haciendo trabajos.
 
 ## encargo-21: simulación de circuitos con 555 y/o comparadores hechos con opamps en Falstad
 
-simular circuitos que hemos visto en clases con chips 555 y/o circuitos comparadores usando el simulador de Falstad disponible en https://falstad.com/circuit/
+simular circuitos que hemos visto en clases con chips 555 
 
 ### Atari punk sonsole
 
