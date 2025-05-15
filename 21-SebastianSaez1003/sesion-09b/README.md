@@ -30,82 +30,132 @@ Tenemos distintos niveles respecto a las máquinas eléctricas que hemos creado 
 ## Módulo después del break
 Manuel Córdoba nos dará una presentación llamada Letrística desde el averno para poder dar una contextualización de la visualidad del metal.
 
+![Foto de la pizara antes de ir a la charla](./archivos/screenshot-9b-(3).jpg)
+![Foto de la pizara antes de ir a la charla](./archivos/screenshot-9b-(4).jpg)
+
 Cristoph ha creado una identidad con todo lo extremo de los géneros musicales que lo reflejan.
 
 “La historia de la fealdad es más interesante que la historia de la belleza”.
 
 Por algún motivo la humanidad es atraída hacia la fealdad, como puede ser observado en las siguientes obras:
 
+![Foto de la pizara antes de ir a la charla](./archivos/screenshot-9b-(5).jpg)
+
 En el año 1970 aparece el grupo más emblemático del metal, que sería Black Sabbath.
 
+![Foto de la pizara antes de ir a la charla](./archivos/screenshot-9b-(6).jpg)
+
 En 1973 hay un acercamiento a una tipografía gótica, Fraktur. 
+
+![Foto de la pizara antes de ir a la charla](./archivos/screenshot-9b-(7).jpg)
 
 En 1978 se encuentran los dibujos muy detallados de algunas cosas: aerógrafo, logo que va inclinado en caída, lo cual era inusual para logos que normalmente van “hacia arriba" o de manera positiva.
 
 El uso de la diéresis, el uso del aerógrafo.
 
+![Foto de la pizara antes de ir a la charla](./archivos/screenshot-9b-(8).jpg)
+
+![Foto de la pizara antes de ir a la charla](./archivos/screenshot-9b-(9).jpg)
+
 Luego aparece Iron Maiden, una mascota en la que las portadas parecen catálogos de historias, algo muy conceptual.
 
 Venom anticipó un tipo de rótulo que se escapaba de lo tipográfico, sino que le interesaban las ligaduras.
+
+![Foto de la pizara antes de ir a la charla](./archivos/screenshot-9b-(10).jpg)
 
 Rótulos más dinámicos .
 
 Los elementos demoníacos o religiosos.
 
-Scum
+![Foto de la pizara antes de ir a la charla](./archivos/screenshot-9b-(11).jpg)
+
+![Foto de la pizara antes de ir a la charla](./archivos/screenshot-9b-(12).jpg)
+
+![Foto de la pizara antes de ir a la charla](./archivos/screenshot-9b-(13).jpg)
+
 Cada vez existen logos menos legibles, donde existía una rebelión ante lo bello.
 
-A blaze
+![Foto de la pizara antes de ir a la charla](./archivos/screenshot-9b-(14).jpg)
+
 Naturaleza más siniestra que se convierte en letras.
+![Foto de la pizara antes de ir a la charla](./archivos/screenshot-9b-(15).jpg)
 
 Luego llega Christophe Szpajdel, donde le pone mucho detalle a la construcción y a la naturaleza.
 
+![Foto de la pizara antes de ir a la charla](./archivos/screenshot-9b-(16).jpg)
+
 En términos comerciales podría decir que no es válido, o como nos dicen en diseño, que no sería aprobado.
 
+![Foto de la pizara antes de ir a la charla](./archivos/screenshot-9b-(17).jpg)
 
+La cultura local de bandas de aquí Chile al aplicarlo al estilo de Lord of the Logos.
 
-La cultura local de bandas de aquí al aplicarlo al estilo de Lord of the Logos.
+![Foto de la pizara antes de ir a la charla](./archivos/screenshot-9b-(18).jpg)
+
+![Foto de la pizara antes de ir a la charla](./archivos/screenshot-9b-(19).jpg)
 
 Luego se lanzan a memes, algunos mejor producidos que otros, pero de igual manera demuestra la gran influencia que tuvo Christophe Szpajdel al paso de 3 décadas.
 
+![Foto de la pizara antes de ir a la charla](./archivos/screenshot-9b-(20).jpg)
+
+![Foto de la pizara antes de ir a la charla](./archivos/screenshot-9b-(21).jpg)
 
 Ahora va a hablar don Christophe Szpajdel.
 
 Es su primera vez en Chile.
 
-Espera que esto será una memoria que quede en nuestra memoria y espíritus por siempre.
+Espera que esto será una charla que quede en nuestra memoria y espíritus por siempre.
 
 Punk, metal y psicodélico; existía una necesidad de distinguirse ante el pop.
-
-
 
 El movimiento metal quería ser distinto y diferente; el logo era una manera de comunicarse y conectarse con las personas.
 
 Lo que le inspira personalmente.
 
+![Foto de la pizara antes de ir a la charla](./archivos/screenshot-9b-(22).jpg)
+
 La naturaleza, donde se encuentra una similitud entre el mundo vegetal y animal, con el camuflaje de algunos animales, por ejemplo.
+
+![Foto de la pizara antes de ir a la charla](./archivos/screenshot-9b-(23).jpg)
 
 Arquitectura moderna, nouveau, clásica
 
 Tradiciones de los países que visita, tradiciones, por ejemplo, japonesas.
 
+![Foto de la pizara antes de ir a la charla](./archivos/screenshot-9b-(24).jpg)
 
+![Foto de la pizara antes de ir a la charla](./archivos/screenshot-9b-(25).jpg)
 
 Empezó con su primer logo a finales de los años 80, un logo de Epitaph, inspirado por Sadism.
 
 No está claro si el diseñador original estaría muy contento, ya que él mismo piensa que fue un poco de plagio.
 
+![Foto de la pizara antes de ir a la charla](./archivos/screenshot-9b-(26).jpg)
+
 Los darktones son medio prehistóricos, llenos de “ramas”.
 
 El temperamento, lo minimalista
 
-Metal Academy, la cual es única en su género.
+![Foto de la pizara antes de ir a la charla](./archivos/screenshot-9b-(27).jpg)
+![Foto de la pizara antes de ir a la charla](./archivos/screenshot-9b-(28).jpg)
 
-El logo de varias bandas está inspirado por el art nouveau, como Electric Wizard.
+Menciona a Metal Academy, la cual es única en su género.
+
+![Foto de la pizara antes de ir a la charla](./archivos/screenshot-9b-(29).jpg)
+
+
 
 Abyssery les pidió un logo supercomercial; el de la derecha es muy brutal death metal, que fue muy difícil de trabajar, que hubo muchísimo back and forth. 
 
+![Foto de la pizara antes de ir a la charla](./archivos/screenshot-9b-(30).jpg)
+
+El logo de varias bandas está inspirado por el art nouveau, como Electric Wizard.
+
+![Foto de la pizara antes de ir a la charla](./archivos/screenshot-9b-(31).jpg)
+
 Ninth Moon, Black Rock, Jazz y Metal, que se puede comprar a bandas como Earth.
+
+![Foto de la pizara antes de ir a la charla](./archivos/screenshot-9b-(32).jpg)
 
 Ambigramas
 
@@ -113,17 +163,25 @@ Donde dice Diane y Vorn.
 
 Life is great, I hate myself
 
+![Foto de la pizara antes de ir a la charla](./archivos/screenshot-9b-(33).jpg)
+
 Reimaginación de logotipos de bandas de black metal, donde está primero Eastenders, inspirado por Black Tone.
 
 Out couture, hate couture
 
+![Foto de la pizara antes de ir a la charla](./archivos/screenshot-9b-(34).jpg)
+
 Como trabaja con un cliente
+
+![Foto de la pizara antes de ir a la charla](./archivos/screenshot-9b-(35).jpg)
 
 Un correo irrespetuoso se sentía si básicamente una persona llegase a una estación de bencina y le andaban preguntando el precio de la mercancía.
 
 Debería haber un método de eliminación o filtración para personas que son irrespetuosas o para todas las que le envían un correo, para no devaluar su propio arte.
 
 Primero, un avance del 50% del precio confirmado.
+
+![Foto de la pizara antes de ir a la charla](./archivos/screenshot-9b-(36).jpg)
 
 Para después recién trabajar en los bocetos, donde el cliente le dé ideas y otras múltiples cosas.
 
@@ -133,6 +191,8 @@ Building a logo is like building a house
 
 “Un hombre en la cúspide no llegó ahí por un helicóptero”.
 
+![Foto de la pizara antes de ir a la charla](./archivos/screenshot-9b-(37).jpg)
+
 Así que él lo hace en tinta primero, los sketches, para poder recién lograr elegir, y ¿cuánto será el tiempo de entrega?
 
 Hay unas pocas veces que haces solo uno o dos sketches y logras darlo de una.
@@ -141,10 +201,18 @@ Pero hay otras que hacen miles y no les gusta ni uno, donde hay personas que le 
 
 No hay que perder la paciencia, dentro de lo posible.
 
+![Foto de la pizara antes de ir a la charla](./archivos/screenshot-9b-(38).jpg)
+
 Una vez que los bocetos son aprobados por el cliente, él los pasa a la tinta.
 
 Ha hecho varias ilustraciones, pero siempre le dicen que otras personas ya han hecho algo mejor que ya los dejaron satisfechos; por esta razón, casi nunca acaba haciendo ilustración para 
 proyectos Christophe.
+
+![Foto de la pizara antes de ir a la charla](./archivos/screenshot-9b-(39).jpg)
+
+![Foto de la pizara antes de ir a la charla](./archivos/screenshot-9b-(40).jpg)
+
+![Foto de la pizara antes de ir a la charla](./archivos/screenshot-9b-(41).jpg)
 
 El chiquillo de Velvet Goldmine no estaba claro con sus ideas; hablaba italiano con acento florentino. Fue un gran desafío, básicamente entre el español castellano y el español chileno.
 
@@ -152,10 +220,25 @@ El chiquillo de Velvet Goldmine no estaba claro con sus ideas; hablaba italiano 
 
 De toooodas las propuestas, no fue aceptada ninguna.
 
-Tiene muchos trabajos con Ucrania. 
+![Foto de la pizara antes de ir a la charla](./archivos/screenshot-9b-(42).jpg)
+
+![Foto de la pizara antes de ir a la charla](./archivos/screenshot-9b-(43).jpg)
+
+
 
 Un gran agradecimiento a Enrique Zuñiga, que lo inspiró para crear sus logos cuando tuvo tan solo 18 años.
 
+![Foto de la pizara antes de ir a la charla](./archivos/screenshot-9b-(44).jpg)
+
+![Foto de la pizara antes de ir a la charla](./archivos/screenshot-9b-(45).jpg)
+
+
+
+Tiene muchos trabajos con Ucrania. 
+
+![Foto de la pizara antes de ir a la charla](./archivos/screenshot-9b-(46).jpg)
+
+![Foto de la pizara antes de ir a la charla](./archivos/screenshot-9b-(47).jpg)
 
 
 
@@ -172,13 +255,19 @@ Respecto a los ambigramas
 
 “I would like to thank my parents for trying to stop me from learning myself, that it triggered me to go even further; it’s called resilience.”
 
-
-
 Él ve muchos reels y videos.
 
 “Instagram is a tool to elevate myself.”
 
 En ambigramas se parte de una palabra fácil, para ver cómo se combina o se mueve a otra cosa.
+
+![Foto de la pizara antes de ir a la charla](./archivos/screenshot-9b-(49).jpg)
+
+![Foto de la pizara antes de ir a la charla](./archivos/screenshot-9b-(2).jpg)
+
+![Foto de la pizara antes de ir a la charla](./archivos/screenshot-9b-(50).jpg)
+
+Para terminar, nos mostro una cancion y agradecio nuestra asistencia a la charla
 
 ## encargo-18: de tinkercad a protoboard
 Logré replicar el circuito PWM (Pulse Width Modulation), pero en vez del condensador cerámico de 100n, ocupé el que más se asemejaba entre los componentes de mi kit, que era un condensador 101.
