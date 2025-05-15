@@ -16,7 +16,7 @@ fue capturada el 13/05 en sevinex, con mis amigas recordamos que ahí tenian un 
 
 fue capturada el 13/05 en el dunkin donuts de república, estabamos comprando cafe con mis amigas.
 
-### imagen3
+### imagen 3
 
 ![pantalladesietesegmentos ejemplo4](https://github.com/user-attachments/assets/44b6f408-eb1b-46c3-8f24-5adefc5f37a1)
 
