@@ -11,6 +11,7 @@ Ahora vamos a aprender cómo el KiCad aprende a cargar estas librerías para pod
 la esquina inferior derecha de un archivo .sch de KiCad (screenshot 1 de hoy); si hago doble clic, se puede cambiar el formato, la compañía, el título, la fecha de creación.
 
 ![1ra screenshot](./archivos/7bScreenshot-(1).png)
+
 ![2da screenshot](./archivos/7bScreenshot-(2).png)
 
 Vamos a cargar 555 well oriented, preferencias manage symbol libraries; después presiono la carpeta en la esquina inferior izquierda, busco mi archivo de 555 well oriented que descargue y lo cargo.
