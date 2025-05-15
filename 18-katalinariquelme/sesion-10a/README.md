@@ -22,5 +22,14 @@ circuit.js se abre automaticamente un circuito **RESONADOR RLC**
 
 ![Captura de pantalla 2025-05-13 113632](https://github.com/user-attachments/assets/f8d95411-2fac-48d0-8b64-ab463b18dc47)
 
+## Encargo 20: pantallas de siete segmentos
+
+![microondas](https://github.com/user-attachments/assets/54ea0c68-101b-452b-b36a-8ba4e1f35fbd)
+
+![estufa](https://github.com/user-attachments/assets/4624c423-3ebd-4dcb-a969-b331d8c37057)
+
+![refrigerador](https://github.com/user-attachments/assets/1ef3db1c-50c6-4e8b-b843-11bf0ad2b3c8)
+
 ## Encargo 21: simulación de circuitos con 555 y/o comparadores hechos con opamps en Falstad
+
 
