@@ -25,6 +25,8 @@ Tenemos distintos niveles respecto a las máquinas eléctricas que hemos creado 
 -Circuitos  
 -Caja negra  
 
+![Foto de la pizara antes de ir a la charla](./archivos/screenshot-9b-(1).jpg)
+
 ## Módulo después del break
 Manuel Córdoba nos dará una presentación llamada Letrística desde el averno para poder dar una contextualización de la visualidad del metal.
 
