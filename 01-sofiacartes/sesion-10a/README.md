@@ -29,3 +29,5 @@ simular circuitos que hemos visto en clases con chips 555
 ### Atari punk sonsole
 
 ### PWM
+
+<img width="1470" alt="circuitopwm falstad" src="https://github.com/user-attachments/assets/2f288c33-404a-4844-a7bc-104513fe4f29" />
