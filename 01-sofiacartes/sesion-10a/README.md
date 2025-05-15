@@ -16,7 +16,12 @@ fue capturada el 13/05 en sevinex, con mis amigas recordamos que ahí tenian un 
 
 fue capturada el 13/05 en el dunkin donuts de república, estabamos comprando cafe con mis amigas.
 
-### imagen 3
+### imagen3
+
+![pantalladesietesegmentos ejemplo3](https://github.com/user-attachments/assets/ea831424-63c3-4f73-b4fd-f0a276a2f13f)
+
+fue capturada el 15/05 estación de metro pedro de valdivia.
+### imagen 4
 
 ![pantalladesietesegmentos ejemplo4](https://github.com/user-attachments/assets/44b6f408-eb1b-46c3-8f24-5adefc5f37a1)
 
