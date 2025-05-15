@@ -2,7 +2,7 @@
 
 ## Encargo 14
 
-## Esquematico de atari chip punk en Kicad
+## Esquematico de atari punk en Kicad
 
 - archivo: [Uploading atari chip punk (vanilla).kicad_sch…]()
 

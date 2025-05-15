@@ -24,27 +24,30 @@ la primera tiene que ver con todo los esquemático (sch), aquí es donde entran 
 
 Asignar huellas: Sirve para poder observar la fisicalidad de los componentes que se usaron en el esquemático, es una forma de graficar todo lo que se usara para la creación de nuestro circuito que luego será llevado a una placa.
 
-## pasos para la creación de un nuevo proyecto de esquemático (etapa 1) 
+## pasos para la creación de un nuevo proyecto de esquemático (etapa 1)
+
 1. Crear una carpeta (para proyectos)
 2. Crear un nuevo archivo
 3. Abrir carpeta SCH
+
 ## notas sobre comandos/ creando el esquemático
+
 - Preferencias: para navegar (command + ,)
-     - shift para navegar
+  - shift para navegar
 - Añadir simbolo
-     - (A)
+  - (A)
 - Editar campo de valor
-     - seleccionar componente + v
--  Hacer conexiones a través de cables
-     - (w)
-     - ° o la burbuja quie decir que el espacio se encuentra disponible para ser conectado
-     - opciones de visualización - colores: para cambiar el color del cable
+  - seleccionar componente + v
+- Hacer conexiones a través de cables
+  - (w)
+  - ° o la burbuja quie decir que el espacio se encuentra disponible para ser conectado
+  - opciones de visualización - colores: para cambiar el color del cable
 - Mover componentes juntos (agrupados)
-     - (G)
+  - (G)
 - Utilizar el simbolo -X para marcar que no hay una conexión en cierto punto
   
 - Propiedades del símbolo: permite ver la hoja de vida de un componente
-   
+
 - (R_POT): Potenciometro
 
 - Anotar esquémas: enumerar los componentes según van apareciendo (indica los pasos hechos)
@@ -52,15 +55,17 @@ Asignar huellas: Sirve para poder observar la fisicalidad de los componentes que
 - Control de reglas eléctricas (ERC)
 
 - Asignar huellas
-     - F sobre el componente para asignar la huella directamente
-     - nombre - valor - encapsulado
+  - F sobre el componente para asignar la huella directamente
+  - nombre - valor - encapsulado
 
 - El visor me permite ver la fisicalidad y caracteristícas de un componente
 
 - Ajustes de página: para rellenar cédula
 
-- DIP: Dual in-line package 
-## comandos 
+- DIP: Dual in-line package
+
+## comandos
+
 x = reflejar
 
 q = x (que no hay nada ahí)
@@ -77,7 +82,7 @@ t = info/ texto
 
 f = nombre del componente
 
-v = asignar valor 
+v = asignar valor
 
 command = zoom
 
@@ -90,16 +95,19 @@ pitch: distancia entre los pads o pines (espaciado)
 ![sch] <img width="893" alt="Captura de pantalla 2025-05-09 a la(s) 11 20 09 p m" src="https://github.com/user-attachments/assets/4a36ff67-4704-41e3-a0bf-33838d5eea48" />
 
 ## Editor de placas (etapa 2) *anotaciones*
-Para las pistas NO se puede por encima 
+
+Para las pistas NO se puede por encima
 Vía: Es un enlace que pasa de un lado de la placa hacia otro
-Pista roja: indica que va por arriba 
+Pista roja: indica que va por arriba
 
 ## encargo 14
+
 Para el esquemático en KiCad repliqué uno de los apc que vimos en alguna de las sesiones anteriores, este contaba con botones, pero sin embargo y una de las dudas que me surgió fue como poner los botones, con que nombre buscar el componente para poder añadirlo.
 
 ![esquemático](https://github.com/user-attachments/assets/076944f8-427e-4462-bcda-d495d3373f1b)
 
 ## encargo 15
+
 Dudas sobre KiCad:
 
 ¿Cómo poner botones?, ¿nombre del componente?, ¿switch, btn , push?

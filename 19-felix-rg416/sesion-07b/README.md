@@ -17,7 +17,7 @@
 
 agregar la carpeta de discord para las huellas del 555 y otros archivos compartidos por misa
 
-# huellas:
+## huellas
 
 ## cambiar huellas: [F]
 
@@ -36,7 +36,7 @@ se puede configurar la página para impresión
 
 ![configuración_página](https://github.com/felix-rg416/dis8644-2025-1/blob/main/19-felix-rg416/sesion-07b/archivos/Configuraci%C3%B3nPantalla.png)
 
-## en el visor de huellas:
+## en el visor de huellas
 
 tamaño tarjeta de presentación: 85 x 55
 
@@ -54,20 +54,20 @@ tamaño tarjeta de presentación: 85 x 55
 
 ![indicar_polaridad](https://github.com/felix-rg416/dis8644-2025-1/blob/main/19-felix-rg416/sesion-07b/archivos/Configuraci%C3%B3nPantalla.png)
 
-## agregar imágenes :
+## agregar imágenes
 
 1. d
 2. conversor de imágenes en el inicio - perfecto para logos - imágenes complejas - siempre elegir la capa
 
 ![conversor_imagen](https://github.com/felix-rg416/dis8644-2025-1/blob/main/19-felix-rg416/sesion-07b/archivos/conversor_imagen.png)
 
-## comprar en JLCPCB :
+## comprar en JLCPCB
 
 - cambiar envío
 - cambiar grosor de placa
 - cambair color
 
-## EXPORTAR:
+## EXPORTAR
 
 - exportar gerber .gbr
 - 7 capas importantes
@@ -76,30 +76,33 @@ tamaño tarjeta de presentación: 85 x 55
 los componentes tienen:
 
 **- Nombre**
-  - resistencia
-  - condensador
-  - LED
-  - etc.
+
+- resistencia
+- condensador
+- LED
+- etc.
 
 **- Valor**
-  - 100k ohm (de una resistencia)
-  - 10 uF (de un condensador)
-  - NE555P (de un circuito integrado)
-  - etc.
+
+- 100k ohm (de una resistencia)
+- 10 uF (de un condensador)
+- NE555P (de un circuito integrado)
+- etc.
 
 **- Encapsulado :** forma física - espacio
-  - axial 1/4 w 6.5mm (resistencia de 100k)
-  - radial D6.3mm P2.5mm (condensador electrolítico de 10uF)
-  - DIP-8 (circuito integrado de 8 pines de tipo THT)
-  - etc.
+
+- axial 1/4 w 6.5mm (resistencia de 100k)
+- radial D6.3mm P2.5mm (condensador electrolítico de 10uF)
+- DIP-8 (circuito integrado de 8 pines de tipo THT)
+- etc.
 
 > D : diámetro
-> 
+>
 > P : Pitch - distancia entre patitas
 >
 > DIP : Dual In Line - package de circuitos integrados
 
-> para saber el encapsulado de los componentes, googlear "Package * componente + valor *"
+> para saber el encapsulado de los componentes, googlear "Package *componente + valor*"
 
 ---
 

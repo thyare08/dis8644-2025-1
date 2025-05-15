@@ -2,7 +2,7 @@
 
 25.Abril.2025
 
-## Segunda parte de Kicad
+## Segunda parte de KiCad
 
 - Profundizamos en las huellas de los componentes, estas huellas son las dimensiones que se utilizan para soldar
 - Descargar carpeta que tiene una biblioteca de huellas específicas para nuestros componentes
@@ -11,15 +11,15 @@
 ## Descargamos la carpeta zip
 
 - Library: define los símbolos para el esquema
-- Modules: define los footprint para la PSB
+- Modules: define los footprint para la PCB
 - Packages 3D: proporciona los modelos 3D, para la visualización
-- Shapes: formas de PSB u outlines, para que vayan en la capa “edges.cuts”
+- Shapes: formas de PCB u outlines, para que vayan en la capa “edges.cuts”
 
 ## Creamos nuevo proyecto
 
 ![udpudu](https://github.com/user-attachments/assets/0fb07c78-a577-402d-b2f3-a8a80a122295)
 
-## Buscamos carpeta Kicad
+## Buscamos carpeta KiCad
 
 ![carpeta kicad](https://github.com/user-attachments/assets/ebf1412d-b808-4c1d-bba5-a4ac9482f97a)
 
@@ -46,7 +46,7 @@
 ![huella](https://github.com/user-attachments/assets/53a575e1-eb95-4a62-87c0-20731c82ffb5)
 ![todas la huellas asignadas](https://github.com/user-attachments/assets/5f471830-cb49-4785-9d72-2d06e821096b)
 
-## Esquematico listo y empezamos a editar la placa
+## Esquemático listo empezamos a editar la placa
 
 ![udppudu esquema](https://github.com/user-attachments/assets/a1e0d740-db04-4230-83b1-71bb31675563)
 
@@ -70,7 +70,7 @@
 
 - Primero guardamos nuestro archivo como “udpudu_gerber” y lo convertimos en un archivo zip
 ![pudu zip](https://github.com/user-attachments/assets/e1fcb1ca-9776-450d-93c6-608c204bfb5f)
-- Entramos a la pagina de fabricante de prototipos
+- Entramos a la página de fabricante de prototipos
 ![paginapsb](https://github.com/user-attachments/assets/01a1314c-14f0-4838-8d07-19ac9e212839)
 - Cargamos la carpeta zip del documento
   
@@ -81,5 +81,5 @@
 
 ## Encargo 17
 
-Solo cambie algunas configuraciones como que tuviera dedos de hora y agujeros almenados los cuales no entendía para qué , y el precio subió a 40 dólares!!!
+Solo modifiqué algunas configuraciones como que tuviera dedos de oro y agujeros almenados los cuales no entendía para qué, y el precio subió a 40 dólares!!!
 ![pruebas](https://github.com/user-attachments/assets/ea6b1138-7ecc-4a61-b901-5ab3fd6b52e8)

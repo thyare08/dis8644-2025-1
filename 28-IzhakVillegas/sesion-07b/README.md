@@ -92,6 +92,7 @@ probar opciones que no entiendan, documentar otros parámetros que no conozcan a
 ### Tipo de encargo
 
 En la página para encargar una PCB en JLCPCB aparecen 4 opciones, todas igual de importantes.
+
 * **PCB estándar**.
 * **PCB Avanzado/PCBA**.
 * **Plantilla SMT**
@@ -138,9 +139,7 @@ La PCB flexible es un tipo de placa diseñada específicamente para poder doblar
 Posee:
 
 1. Sustrato flexible dieléctrico (poliimida, poliéster, PTFE o polímero de cristal líquido (LCP)).
-
-* PTFE: politetrafluoroetileno.
-
+    * PTFE: politetrafluoroetileno.
 2. Capa conductora (lámina de cobre o revestimiento de cobre laminado sobre el sustrato). Conforma los patrones de circuitos deseados (rastros, al mohadillas y vias). Opciones al cobre son Silver Ink, Constantan, Carbón, Aluminio e inconel.
 3. Capa adhesiva.
 4. Superposición protectora (poliimida, máscara de soldadura líquida, fotoimagen, u otros).
@@ -171,15 +170,19 @@ PCB producida con laminados de Rogers Corporation. Capaces de funcionar en entor
 * Rogers 4350B
 
 >El laminado de este material permite un control estricto de la constante dieléctrica y una pérdida dieléctrica baja. Estos materiales se utilizan para laminados de alta potencia g y t está clasificado para UL 94 V-0. Dk es 3.66 y el rango de frecuencia de mejor rendimiento es de 8 a 40 GHz, por lo que se utiliza para antenas de estaciones celulares y enlaces de microondas.
+
 * Rogers 4003C
 
 >El Rogers 4003C proporciona una constante dieléctrica igual en toda la PCB, ya que el vidrio epoxi o el laminado convencional para microondas son los materiales de base, pero estos materiales requieren un tratamiento especial a través de orificios y procesos de manipulación. Se utilizan etiquetas RF con estas PCB y se utilizan radares y sensores de grado automotriz, ya que el Dk del material es de aproximadamente 3.55.
+
 * Rogers 4534
 
 >Rogers 4534 ofrece tanto rendimiento como costo, por lo que se utilizan en aplicaciones de diseño de antenas en productos. La composición consta de un relleno de vitrocerámica reforzado que proporciona una menor pérdida y una constante dieléctrica controlada. Proceso de ensamblaje con un proceso de temperatura de reflujo más alta y compatible con casi todas las pastas de soldadura sin HASL.
+
 * Rogers 3003
 
 >La constante dieléctrica es extremadamente estable y tiene un factor de disipación bajo, lo que es bueno para las PCB de RF. Se pueden diseñar con este material aplicaciones de radar de alta frecuencia que operan cerca de los 77 GHz, aplicaciones inalámbricas 6G y productos de asistencia al conductor.
+
 * Rogers RT
 
 >Estos materiales se pueden utilizar para aplicaciones de microondas multicapa, ya que proporcionan una constante dieléctrica baja y una menor pérdida. Se utilizan para sistemas de guía de misiles y sistemas de radar militares que requieren una constante dieléctrica baja de 2.20 (Dk). Rogers RT tiene dos tipos: uno es Duroid 6002 y el otro es Duriod 5880. Ambos proporcionan una constante dieléctrica baja y una pérdida dieléctrica baja, lo que permite una excelente precisión en el rendimiento de la placa de circuito impreso.
@@ -369,7 +372,7 @@ Procesos adicionales que se pueden solicitar al momento de fabricar nuestras PCB
 
 ## Cotización en forma productiva
 
-Sabiendo todo esto si tuviéramos que cotizar productivamente la placa a la que pertenece el timer-555 de nuestro udpudu y sus respectivos componentes, pues podríamos simplemente ajustarnos al precio de un FR4 debido a que éste posee los requisitos necesarios y es totalmente asequible al momento de fabricar este producto, puesto que, no tenemos complejidades industriales o de situaciones extremas a las que nuestro PCB pudiera enfrentarse.
+Sabiendo todo esto si tuviéramos que cotizar productivamente la placa a la que pertenece el timer-555 de nuestro udpudu y sus respectivos componentes, pues podríamos simplemente ajustarnos al precio de un FR4 debido a que éste posee los requisitos necesarios y es totalmente asequible al momento de fabricar este producto, puesto que no tenemos complejidades industriales o de situaciones extremas a las que nuestro PCB pudiera enfrentarse.
 
 Con una placa estándar en su tamaño original (nuestro archivo gerber) fabricada 30 veces que a su vez es un producto de consumo, de perfil simple.
 

@@ -54,6 +54,19 @@
 
 -
 
+![tme-sesion07b-JLC](https://github.com/user-attachments/assets/2415d910-49bd-4acf-9be8-e56fe8db4522)
+
+![tme-sesion07b-cotizacion01](https://github.com/user-attachments/assets/c4325b55-3782-4900-904d-bfcf4499dc10)
+
+![tme-sesion07b-JLC01](https://github.com/user-attachments/assets/cb75f011-3a44-4b86-b433-5c7561588350)
+
+
 ### 17-Cotizar udpudu en JLCPCB de forma experimental
 
 -
+
+![tme-sesion07b-cotizacion02](https://github.com/user-attachments/assets/8900d78d-fff9-44db-bcc4-bc5e167c98c6)
+
+![tme-sesion07b-JLC02](https://github.com/user-attachments/assets/9ef1af9f-3b7b-4945-bb9d-30fa7e9b6631)
+
+![tme-sesion07b-JLC0](https://github.com/user-attachments/assets/928297bc-873f-41d0-82b6-26c9da43c822)
