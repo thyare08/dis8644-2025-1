@@ -24,6 +24,7 @@
 ![tme-sesion09b-bitacora01](https://github.com/user-attachments/assets/0678d170-266f-4600-b751-5b10d1cd569b)
 
 ## Encargo
+
 ### 18-De tinkercad a protoboard
 
 - tomar el circuito que simulamos en tinkercad y traspasarlo a la protoboard.
@@ -40,7 +41,7 @@
 - Laurie es una artista visual, compositora, poeta, filósofa, cineasta, instrumentista, vocalista y una pionera en la exploración del cruce entre arte y tecnología y arte y feminismo.
 - ha realizado tours en Estados Unidos y otros países, con espectáculos que van desde performances simples hasta elaborados eventos multimediales.
 - sus proyectos incluyen interacciones a grandes escalas e instalaciones de video, creando obras que han sido exhibidas en prestigiosas galerías, museos, festivales de cine y programas de televisión a lo largo del mundo. Algunos de ellos son el MoMA, la Bienal de Venecia, la Bienal de Shanghái, y el programa America’s Got Talent.
-- Uno de sus proyectos más icónicos fue el concierto para perros que llevó a cabo en Times Square, Nueva York. Fue una performance especialmente pensada para canes, en la que interpretó un estilo relajado de cool jazz. las reacciones de los perros eran difíciles de interpretar, pero muchos parecían estar felices, escuchando con atención. Laurie Anderson permitió que los perros formaran parte del concierto, dándoles espacio para ladrar y participar. La combinación de su música, los perros y el Times Square resultó en una experiencia artística única.
+- Uno de sus proyectos más icónicos fue el concierto para perros que llevó a cabo en Times Square, Nueva York. fue una performance especialmente pensada para canes, en la que interpretó un estilo relajado de cool jazz. las reacciones de los perros eran difíciles de interpretar, pero muchos parecían estar felices, escuchando con atención. Laurie Anderson permitió que los perros formaran parte del concierto, dándoles espacio para ladrar y participar. la combinación de su música, los perros y el Times Square resultó en una experiencia artística única.
 - "El arte de la performance trata de la alegría, de hacer algo tan lleno de una alegría salvaje que no se puede expresar con palabras." Laurie Anderson.
 - me pareció muy bello su trabajo. me encanta cómo utiliza diversos recursos para transmitir y crear experiencias en sus performances. se nota que es una persona muy apasionada, y eso siempre será un gran referente para quienes buscan expresarse a través del arte.
 
