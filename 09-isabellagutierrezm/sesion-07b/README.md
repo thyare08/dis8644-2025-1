@@ -81,5 +81,5 @@
 
 ## Encargo 17
 
-Solo cambie algunas configuraciones como que tuviera dedos de hora y agujeros almenados los cuales no entendía para qué ,y el precio subió a 40 dólares!!!
+Solo modifiqué algunas configuraciones como que tuviera dedos de oro y agujeros almenados los cuales no entendía para qué, y el precio subió a 40 dólares!!!
 ![pruebas](https://github.com/user-attachments/assets/ea6b1138-7ecc-4a61-b901-5ab3fd6b52e8)
