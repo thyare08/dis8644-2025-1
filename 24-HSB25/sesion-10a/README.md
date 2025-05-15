@@ -17,7 +17,7 @@ Una pantalla de siete segmentos es un dispositivo electrónico que muestra núme
 
 # Fotografias Propias de Ejemplos
 
-- Estacion de Carga RGB: 
+# Estacion de Carga RGB: 
 
 Reloj digital con pantalla de 7 segmentos. El reloj utiliza dígitos blancos tipo display de 7 segmentos, muy visibles incluso en ambientes con poca luz.
 
@@ -27,7 +27,7 @@ Tiene iconos de alarma activa y configuración de hora visibles.
 
 ![IMG01](https://raw.githubusercontent.com/HSB25/dis8644-2025-1/refs/heads/main/24-HSB25/sesion-10a/IMG_ENCARGO_01.jfif)
 
-- Reloj Digital Casio A168
+# Reloj Digital Casio A168
 
 El Casio A168 es un clásico reloj digital que utiliza una pantalla LCD (Liquid Crystal Display) para mostrar la hora, fecha y otras funciones. Que aunque conceptualmente similar a la de 7 segmentos, es más avanzada y su diferencia de los relojes que usan pantallas de 7 segmentos LED tradicionales, el Casio A168 utiliza una pantalla LCD segmentada, que tiene características similares pero con diferencias importantes.
 
