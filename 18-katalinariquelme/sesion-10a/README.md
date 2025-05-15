@@ -22,4 +22,5 @@ circuit.js se abre automaticamente un circuito **RESONADOR RLC**
 
 ![Captura de pantalla 2025-05-13 113632](https://github.com/user-attachments/assets/f8d95411-2fac-48d0-8b64-ab463b18dc47)
 
+## Encargo 21: simulación de circuitos con 555 y/o comparadores hechos con opamps en Falstad
 
