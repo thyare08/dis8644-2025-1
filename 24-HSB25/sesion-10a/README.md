@@ -25,5 +25,6 @@ Indica la hora en formato de 12 horas (AM/PM).
 
 Tiene iconos de alarma activa y configuración de hora visibles.
 
+![IMG01](https://raw.githubusercontent.com/HSB25/dis8644-2025-1/refs/heads/main/24-HSB25/sesion-10a/IMG_ENCARGO_01.jfif)
 
 
