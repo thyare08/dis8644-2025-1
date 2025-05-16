@@ -37,7 +37,7 @@
 <img width="1440" alt="Captura de pantalla 2025-05-15 a la(s) 10 31 51 p m" src="https://github.com/user-attachments/assets/332314b7-4c77-449b-9828-e8feb7bd27ac" />
 
 <img width="1440" alt="Captura de pantalla 2025-05-15 a la(s) 10 33 47 p m" src="https://github.com/user-attachments/assets/15c09740-7b1a-49cf-8528-39878650316f" />
-
+```txt 
 $ 1 0.000005 1.3241202019156522 72 5 50 5e-11
 165 560 272 592 272 14 8.992760336826649
 c 464 400 464 464 4 100 0.0000012381682351598956 0.001 0
@@ -67,12 +67,13 @@ w 176 400 464 400 0
 o 1 64 0 4099 0.0000762939453125 0.000390625 0 2 1 3
 o 6 64 0 4099 10 0.025 1 2 6 3
 o 10 64 0 4099 0.625 0.000390625 2 2 10 3
-
+```
 
 ## Circuito APC Modificado Grupo 1
 
 <img width="1440" alt="Captura de pantalla 2025-05-15 a la(s) 11 11 19 p m" src="https://github.com/user-attachments/assets/053f0d19-2e1f-4518-b114-ec5f939f4ebb" />
 
+```txt
 $ 1 0.000005 69.34413510434165 66 5 50 5e-11
 165 416 240 480 240 14 0
 165 720 240 752 240 14 8.999999910000065
@@ -131,5 +132,5 @@ g 784 464 784 496 0 0
 w 848 304 880 368 0
 w 944 368 976 304 0
 211 976 304 1104 304 0 1 8000 1
-
+```
 
