@@ -24,9 +24,11 @@ circuit.js se abre automaticamente un circuito **RESONADOR RLC**
 
 ![Captura de pantalla 2025-05-15 183505](https://github.com/user-attachments/assets/7ec875a7-f6a4-4ce0-b510-341ca345b848)
 
-## Encargo 20: pantallas de siete segmentos
+## Ejercicio en clases
 
-**¿Qué es una pantalla de siete segmentos?**
+Tomar fotografías de pantallas con siete segmentos que encuentremos en la FAAD o sus alrededores y subirlas al discord.
+
+**CONTEXTO: ¿Qué es una pantalla de siete segmentos?**
 
 Es un aparato electrónico que utiliza siete segmentos LED, los cuales se pueden encender o apagar de manera individual, para representar números del 0 al 9 en formato de cifras arábigas.
 
@@ -45,6 +47,8 @@ Imagen rescada de wikipedia https://es.wikipedia.org/wiki/Visualizador_de_siete_
 ![Captura de pantalla 2025-05-15 201048](https://github.com/user-attachments/assets/4a72e293-4847-4ecb-95c1-dd35ac88b13a)
 
 Imagen rescada de wikipedia https://es.wikipedia.org/wiki/Visualizador_de_siete_segmentos
+
+## Encargo 20: pantallas de siete segmentos
 
 **IMAGEN 1**
 
