@@ -1,6 +1,6 @@
 # sesion-05b
 
-**Aprendimos a soldar en PBC**
+Aprendimos a soldar en PCB
 
 ![20250415_095525](https://github.com/user-attachments/assets/49967a5a-b22e-4a23-b042-72b6e253b618)
 
