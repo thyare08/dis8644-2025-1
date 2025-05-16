@@ -24,6 +24,8 @@ La clase comenzó con la instrucción de juntarse en grupos de a 3, para poder m
 
 En mi caso personal, me costó bastante el montar el circuito, por lo que terminé por rehacerlo completamente al ver que no podía controlar la intensidad de la luz del led. Al segundo intento Felix me ayudó a revisar cuál podía ser la causa, y modificando el orden de los cables aplicados al pin 2 y 6 del chip 555,  el cambio de ubicación del condensador cerámico "104" y volviendo a conectar la energía a los diodos con el potenciometro y el cable. Como último, la resistencia conectada al led se cambió de 1k a 220 ohm. Ello tuvo como efecto que el circuito pudiera regular la intensidad de una luz que anteriormente nse veía opaca y estática.
 
+
+
 Una vez alterado el circuito nos dedicamos a unir todos los leds debajo de una hoja semitraslucida (hoja de cuaderno), cuyo efecto se comenzó a apreciar ante nuestros ojos: una rosa cromática efectuada por los colores de los leds RGB.
 
 
@@ -53,11 +55,20 @@ Teoría del color, modo sustractivo y aditivo.
 
 #### Parte 2: [Falstad](https://www.falstad.com/circuit/circuitjs.html) 
 
-Dado que llegué unos minutos tarde por atender un asunto personal, me perdí gran parte del conocimiento que se estaba impartiendo. Por lo que supe vamos a trabajar con Amplificadores operacionales (LM324, LM358), por lo que se nos explicó la teoría del funcionamiento de estas piezas desde la física.
+Dado que llegué unos minutos tarde por atender un asunto personal, me perdí gran parte del conocimiento que se estaba impartiendo. De la información que obtuve, vamos a trabajar con Amplificadores operacionales (LM324, LM358), por lo que se nos explicó la teoría del funcionamiento de estas piezas desde la física.
 
-Además, se realizó una simulación en Falstad, una plataforma web que simula circuitos eléctricos (dibujandolos) y demostrando parámetros de forma visual.
+Además, se realizó una simulación en Falstad, una plataforma web basada en Java que simula circuitos eléctricos análogos y digitales, (dibujandolos de forma intuitiva) y demuestra distintos parámetros de forma visual mediante gráficos que se van actualizando continuamente.
 
 ![image](https://github.com/user-attachments/assets/59527ff1-16df-4d40-a871-44507b88df93)
+
+
+<br>
+
+***
+
+#### Encsrgo 20: Pantallas de siete segmentos
+
+
 
 
 <br>
