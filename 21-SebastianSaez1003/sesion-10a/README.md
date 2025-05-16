@@ -8,6 +8,8 @@ Para un LED verde tal vez es mucha resistencia una de 1k; la cambiaremos a 220.
 
 El verde es el receptor de luz que tenemos mejor como seres humanos.
 
+![El producto de nuestros 3 protoboards armados](./archivos/10a-clase(1).jpg)
+
 Acabamos de construir una rosa cromática, o al menos el funcionamiento de esta, ya que al juntar cada uno de estos LEDs, la luz se podía observar “mezclándose”.
 
 Una pantalla de 7 segmentos 
