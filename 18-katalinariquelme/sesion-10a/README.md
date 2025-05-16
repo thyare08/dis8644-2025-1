@@ -34,7 +34,7 @@ Ejemplo:
 
 ![negocio republica](https://github.com/user-attachments/assets/32e318bb-7d75-4cee-8427-4d51db767405)
 
-Fotografia tomada por mi compañera de taller Thyare Santander el 13/05 en el negocio al lado de la FAAD (no recuerdo como se llama :( )
+*FotografÍa tomada por mi compañera de taller Thyare Santander el 13/05 en el negocio al lado de la FAAD (no recuerdo como se llama :( )*
 
 También el sistema de siete segmentos está diseñado para números, pero no para letras, por eso algunas no son compatibles y hacen confundir a un número y a veces, no se puede distinguir. Aquí tenemos los números y las letras del alfabeto latino.
 
