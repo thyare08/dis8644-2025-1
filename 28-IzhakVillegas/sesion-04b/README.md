@@ -11,7 +11,7 @@ Cuando se presiona el botón, el resorte interno se presiona y toca los contacto
 Existen tres tipos de contacto:
 
 1. NA (Normalmente Abierto): Solo activa el circuito al presionarlo.
-2. NC (Normalmente Cerrado): Interrumpe el circuito al presionarlo (usado en paradas de emergencia).
+2. NC (Normalmente Cerrado): Interrumpe el circuitoxw al presionarlo (usado en paradas de emergencia).
 3. NA/NC (Combinado): Tiene ambos tipos de contactos en un mismo pulsador.
 Estos botones pueden poseer una función de retorno momentáneo (vuelve a su posición original al soltarlo) o mantenido (permanece activado hasta que se vuelva a pulsar).
 
@@ -59,18 +59,19 @@ Estos botones pueden poseer una función de retorno momentáneo (vuelve a su pos
 
 [Enlace a musicfromouterspace.com](https://musicfromouterspace.com/analogsynth_new/WSG2010/OLD_WEIRDSOUNDGENERATORREBORN.html)
 
-## Encargos
+## encargo-10
 
-### 01 escuchar _Switched On Bach_ - Wendy Carlos
+escuchar _Switched On Bach_ - Wendy Carlos
 
 Johann Sebastian Bach ciertamente de los exponentes musicales más importantes de la historia es representado a través de ritmos electrónicos, pareciera ser algún sampleo o alguna edición de los instrumentos para que suenen más "mecánicos", sin embargo, en _Switched On Bach_ producido por Wendy Carlos y Rachel Elkind y realizado por Carlos y Benjamin Folkman (1968) se puede apreciar la atención y el detalle de crear este álbum en un sintetizador modular _Moog_. Con la intención de representar una música más "convencional" en vez de música electrónica experimental, Wendy fue capaz de lograr algo totalmente innovador y que redescubrió la música en un sentido electrónico, puesto que, al momento del lanzamiento de dicho álbum se pensaba que esto era algo negativo de parte de los usuales oyentes de música clásica, sin embargo, el tiempo le dió la razón a esta obra por ser una interpretación impecable de música electrónica asimilándose a sonidos que podrían ser interpretados por instrumentos acústicos convencionales.
 
 En lo personal me parece un buen álbum, algo con lo que poder experimentar de manera más fresca a Bach y una idea capaz de generar un movimiento artístico de asimilación de ritmos acústicos con ritmos electrónicos, yo considero que totalmente merece ser reconocido por el mérito que significa llegar a esos acordes con un sintetizador. Buena recomendación.
 ___
 
-### 02 proj-01 bajando opacidad a la caja negra
+## encargo-11: bajando opacidad a la caja negra
 
 Escoger un aparato electrónico, que no funcione (o este dispuestx a destruir), y abrirlo para explorar su interfaz. Diseccionar. Analizar.
+
 **Documentar en fotografías**.
 ___
 
@@ -85,17 +86,17 @@ El aparato electrónico se utiliza colocando las manillas en la hora requerida s
 
 Un reloj electromecánico combina componentes electrónicos (como un circuito de cuarzo) con partes mecánicas (engranajes y manecillas).
 
-   La lectura que nos ofrece nuestro reloj es una superficie que representa cada hora con 12 horas en total (se repite en el día y en la noche formando 24 horas diarias), esta superficie es señalada por tres indicadores que giran a cada segundo y que son producto de la caja negra. Son tres elementos los que señalan nuesta interpretación: el segundero capaz de girar apuntando a cada extremo del plano por cada segundo un total de 60 veces por minuto, el minutero que solamente cambia al momento en el que segundero cumple un ciclo yendo de 12 a 12 y el horario que únicamente cambia cuando el minutero logra acumular 60 minutos, es decir, 60 veces en las que el segundero cumple su trayecto.
+ La lectura que nos ofrece nuestro reloj es una superficie que representa cada hora con 12 horas en total (se repite en el día y en la noche formando 24 horas diarias), esta superficie es señalada por tres indicadores que giran a cada segundo y que son producto de la caja negra. Son tres elementos los que señalan nuesta interpretación: el segundero capaz de girar apuntando a cada extremo del plano por cada segundo un total de 60 veces por minuto, el minutero que solamente cambia al momento en el que segundero cumple un ciclo yendo de 12 a 12 y el horario que únicamente cambia cuando el minutero logra acumular 60 minutos, es decir, 60 veces en las que el segundero cumple su trayecto.
 
-   Los símbolos para cada situación son que el segundero suele ser un palillo o vara delgado de un color distintivo, el minutero, en cambio, es una vara de un color similar o igual al horario pero se diferencia de este al ser más largo, por lo tanto, el horario resulta ser parecido al minutero pero es una vara pequeña.
+Los símbolos para cada situación son que el segundero suele ser un palillo o vara delgado de un color distintivo, el minutero, en cambio, es una vara de un color similar o igual al horario pero se diferencia de este al ser más largo, por lo tanto, el horario resulta ser parecido al minutero pero es una vara pequeña.
 
-   El usuario esperado para este producto podría ser una familia en un hogar o algún trabajador de oficina debido a que nuestro reloj tiene la peculiaridad de ser pequeño y, por lo tanto, pretende ser recurrente en lugares como una mesa donde un oficinista podría consultarlo de vez en cuando para medir la temporalidad de sus acciones.
+El usuario esperado para este producto podría ser una familia en un hogar o algún trabajador de oficina debido a que nuestro reloj tiene la peculiaridad de ser pequeño y, por lo tanto, pretende ser recurrente en lugares como una mesa donde un oficinista podría consultarlo de vez en cuando para medir la temporalidad de sus acciones.
 
-   La única interacción que ofrece nuestro reloj es la capacidad de cambiar la hora manualmente mediante un engrán, muy útil al momento de cambiar de fuente de poder (batería AA) o para personas que viajan entre países o en zonas donde el huso horario suele modificarse manualmente.
+La única interacción que ofrece nuestro reloj es la capacidad de cambiar la hora manualmente mediante un engrán, muy útil al momento de cambiar de fuente de poder (batería AA) o para personas que viajan entre países o en zonas donde el huso horario suele modificarse manualmente.
   
-  El control que otorga es la capacidad de cambiar manualmente la hora según las necesidades del usuario, además poder cambiar la fuente de poder que vendría a ser una pila AA..
+El control que otorga es la capacidad de cambiar manualmente la hora según las necesidades del usuario, además poder cambiar la fuente de poder que vendría a ser una pila AA.
   
-  Este aparato recibe energía de una pila de 1.5V. Su energía se transmite a través de una estructura que posee dos ranuras que conectan directamente al circuito impreso que está soldado a un condensador que distribuye la tensión eléctrica y un resonador que sigue un ritmo de frecuencia capaz de seguir los segundos y este a su vez está soldado a unos pequeños alambres de cobre que dirigen la energía hacia una bobina o inductor el cual se compone de un pequeño alambre de cobre que genera un campo magnético que interactúa con el engranaje que esta sujeto a un imán (electroimán) por lo tanto, transmite la energía desde el circuito al engranaje, y a su vez, los engranajes interconectados se mueven de tal manera que el reloj es capaz de seguir un ritmo para indicar horas minutos y segundos enn un plano de 12 horas.
+Este aparato recibe energía de una pila de 1.5V. Su energía se transmite a través de una estructura que posee dos ranuras que conectan directamente al circuito impreso que está soldado a un condensador que distribuye la tensión eléctrica y un resonador que sigue un ritmo de frecuencia capaz de seguir los segundos y este a su vez está soldado a unos pequeños alambres de cobre que dirigen la energía hacia una bobina o inductor el cual se compone de un pequeño alambre de cobre que genera un campo magnético que interactúa con el engranaje que esta sujeto a un imán (electroimán) por lo tanto, transmite la energía desde el circuito al engranaje, y a su vez, los engranajes interconectados se mueven de tal manera que el reloj es capaz de seguir un ritmo para indicar horas minutos y segundos enn un plano de 12 horas.
 
 Existe un PCB principal, aunque diminuto está conectado a un engranaje y posee un resonador de cristal de cuarzo y un condensador cerámico.
 
@@ -115,7 +116,7 @@ Alambre de cobre   | → Campo magnético controlado →
 
 Mecanismo de accion  |  - Engranaje + imán   | → Rotor que gira con cada pulso|  - Tren de engranajes | → Transmisión a manecillas
 
-   Sistema de manecillas
+Sistema de manecillas
 
 * Segundero (60 pasos)
 * Minutero (1 paso)

@@ -1,12 +1,12 @@
 # sesion-07b
 
-## ENCARGO 14: Diseñar Esquematico en KiCad
+## encargo-14: Diseñar Esquematico en KiCad
 
 Diseñar esquemático en Kicad (solamente esquemático, no asignar huellas) de Atari Punk Console con modificaciones que ustedes realizaron en KiCAD, o en su versión base si sus modificaciones no funcionaron al 100%.
 
 ![ATARI PUNK CONSOLE](./archivos/atari-punk-console.png)
 
-## ENCARGO 15: Plantear 2 Dudas o aprendizajes importantes
+## encargo-15: Plantear 2 Dudas o aprendizajes importantes
 
 - **Aprendizaje 1:** Importancia de las huellas (footprints) en el diseño de PCBs
 

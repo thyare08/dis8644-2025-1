@@ -36,7 +36,7 @@ Generó una influencia en Chile ya que al recordar cumbias tan antiguas, la gent
 
 *Un caleidoscopio es mi corazón* Me impresiona que un juguete dependa de algo para que funcione, en este caso el objeto depende de un brazo robótico que funciona con un motor. También me gustó que un solo movimiento (circular) pueda abrirse y cerrarse.
 
-*Instrucciones para compartir una escucha* Me gustó mucho la obra de Matías, que para mí representa los pasos que haría mi mente cuando pienso en caminar, documentar,grabar, caminar.
+*Instrucciones para compartir una escucha* Me gustó mucho la obra de Matías, que para mí representa los pasos que haría mi mente cuando pienso en caminar, documentar, grabar, caminar.
 
 ![IMG_3340](https://github.com/user-attachments/assets/dc99f838-c4b0-4dc0-bf5b-9bcd609ff621)
 

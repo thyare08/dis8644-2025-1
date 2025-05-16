@@ -1,6 +1,6 @@
 # sesion-04b
 
-*4 de abril de 2025*
+4 de abril de 2025
 
 *"Con un botón se puede hacer mucho"*
 
