@@ -49,11 +49,6 @@ fue capturada el 15/05 en mi casa.
 
 Realizar algun circuito visto en clases con chip555.
 
-
-Atari Punk Console
-
-
-
 PWN
 
 ![Captura de pantalla 2025-05-15 183915](https://github.com/user-attachments/assets/f76045b4-b51a-44b0-b789-1a571d3961d7)
