@@ -74,6 +74,20 @@ Ese ejemplo era para división de voltaje, donde entre 2 resistencias, un cable 
 
 Potenciómetro para calibrar el umbral.
 
+Seguir el esquemático que vimos en clases y lo aplique en mi protoboard, funcionando de la manera siguiente:
+
+## encargo-20: pantallas de siete segmentos
+Encontré los siguientes displays de 7 segmentos en la universidad.
+
+Para poder mostrar al vendedor el precio de los productos y el precio total de lo que está comprando dentro del casino.
+
+Para poder mostrar la temperatura a la cual es calentada y enfriada en el dispensador de agua de la universidad, la cual asumo es en grados Fahrenheit, porque sería una temperatura demasiado extrema si es que el agua estuviese siendo dispensada a 87 grados Celsius para beber.
+
+
+
+
+## encargo-21: simulación de circuitos con 555 y/o comparadores hechos con opamps en Falstad
+
 ```txt
 $ 1 0.000005 10.20027730826997 50 5 43 5e-11
 165 112 128 272 128 6 0
