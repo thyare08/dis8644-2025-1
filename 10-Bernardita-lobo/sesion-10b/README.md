@@ -11,3 +11,7 @@
 - nicolas collings, el sonido probiene de romper los circuitos.
 - circuit bent speak and spell <https://youtu.be/Y-M9mXLl9gM?si=lVejOtLXzZZFFr8s>
 - hack of the month club, jumping speakers <https://youtu.be/6ZxxuDNQuMQ?si=KUrd1tIN_m32f4_6>
+
+### Udpudu
+
+- 
