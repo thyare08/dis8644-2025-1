@@ -1,8 +1,8 @@
 # sesion-10b
 
 Imágenes de nuestra primera placa pedida desde china
+![20250516_102806](https://github.com/user-attachments/assets/0bcb80ad-721f-4f5a-a47f-cd3cfeb2cb26)
 ![20250516_102208](https://github.com/user-attachments/assets/73903b6b-d7e5-4b77-bad1-148e1ce66045)
-
 ![20250516_102236](https://github.com/user-attachments/assets/1e87f672-a6ed-498f-9c45-2fa37229cc3e)
 
 Placa con soporte para chip 555
