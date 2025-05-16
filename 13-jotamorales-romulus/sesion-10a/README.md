@@ -27,6 +27,7 @@
 
 ## Falstad
 ![Falstad](./archivos/Falstad.png)
+Nos presentaron y utilizamos Falstad por primera vez; anteriormente, lo había visto usar Fran UDP en algunas clases.
 - Simulador online de circuitos eléctricos.
 - Permite armar y probar circuitos en tiempo real.
 - Visualiza voltaje, corriente y ondas.
