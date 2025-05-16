@@ -30,7 +30,8 @@
 - Simulador online de circuitos eléctricos.
 - Permite armar y probar circuitos en tiempo real.
 - Visualiza voltaje, corriente y ondas.
-- no requiere hardware.
+- No requiere hardware.
+  
 
 
 ## encargo-20: pantallas de siete segmentos
