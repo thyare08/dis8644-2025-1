@@ -25,10 +25,17 @@
 ![siete segmentos](./archivos/MICROONDAS.png)
 - Fui al casino de la FAAD y le saqué una fotografía a la pantalla de uno de los microondas.
 
-## 
-encargo-20: pantallas de siete segmentos
+## Falstad
+![Falstad](./archivos/Falstad.png)
+- Simulador online de circuitos eléctricos.
+- Permite armar y probar circuitos en tiempo real.
+- Visualiza voltaje, corriente y ondas.
+- no requiere hardware.
 
-![siete segmentos](./archivos/aScensor.jpeg)
+
+## encargo-20: pantallas de siete segmentos
+
+![siete segmentos](./archivos/ascensor.png)
 
 - Ascensor de mi edificio
   
@@ -38,7 +45,7 @@ encargo-20: pantallas de siete segmentos
 ![siete segmentos](./archivos/RADIO.png)
 - Radio con reloj. Tiene una pantalla que indica la hora. Lo tenemos desde hace bastante tiempo y no recuerdo que haya mostrado más información; si alguna vez tuvo otras funciones, hoy en día ya no aparecen en la pantalla. Está algo polvoriento, y la verdad es que lo tenemos bastante arrumbado en una esquina de la cocina.
 
-encargo-21: simulación de circuitos con 555 y/o comparadores hechos con opamps en Falstad
+## encargo-21: simulación de circuitos con 555 y/o comparadores hechos con opamps en Falstad
 simular circuitos que hemos visto en clases con chips 555 y/o circuitos comparadores usando el simulador de Falstad disponible en https://falstad.com/circuit/
 
 SUBIR el texto en una cajita como esta, revisar cómo se hace esta cajita de texto revisando el código en Markdown que lo hace posible.
