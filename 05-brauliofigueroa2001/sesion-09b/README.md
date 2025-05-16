@@ -45,7 +45,30 @@ llegué un poco tarde
 
 - ![1000010842](https://github.com/user-attachments/assets/403bdae6-c7c1-45c4-81fd-2078caacdb73)
 
- ### encargo 18
+ ### encargo 18 de tinkercad a protoboard
+
+ **traspasar circuito pwm hecho en tinkercad a protoboard**
+
+ no asistí el martes a clases por lo cual no estuve cuando revisaron el circuito armado en la protoboard, lo armé según estaba en el módulo de tinkercad pero aún así no funciona, no sé en que esté fallando. Lo que ocurre es que la luz led se enciende pero al girar el potenciómetro, no genera efecto alguno sobre la luz. En algo debo haberme equivocado pero no logro comprenderlo aún, adjunto fotos del circuito.
+
+ ![tinkercad circuito](https://github.com/user-attachments/assets/2f169d57-832e-4081-88dc-d96904ee1d70)
+
+
+ ![1000011318](https://github.com/user-attachments/assets/ddb066f4-54eb-4fd2-bf09-d2d17cda25d3)
+
+ ![1000011329](https://github.com/user-attachments/assets/22516e39-d51b-4b5d-8674-10180ff86461)
+
+ 
+
+https://github.com/user-attachments/assets/4e382456-b36f-415d-a4ec-26a28e4d2f01
+
+
+
+
+
+ 
+
+ 
 
 
 
