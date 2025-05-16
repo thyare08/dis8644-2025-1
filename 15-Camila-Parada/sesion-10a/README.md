@@ -68,8 +68,15 @@ Además, se realizó una simulación en Falstad, una plataforma web basada en Ja
 
 #### Encsrgo 20: Pantallas de siete segmentos
 
+![alt text](./archivos/01.jpg)
+_▼ Fotografía totem de entrada y salida República 180. Fotografía tomada el martes 13 de mayo del 2025._
 
+El contexto de esta imagen fue parte del trabajo de clases, en el que durante el descanso de la clase tuvimos que ir a recorrer el barrio para obtener fotografías de pantallas de 7 segmentos. Esta pantalla parece estar conformada por leds de color verde, las cuales tienen encendidas ciertos focos que feneran una flecha (lo que indica que se puede pasar).
 
+![alt text](./archivos/02.jpg)
+_▼ Fotografía mini pantalla de leds. Fotografía tomada el viernes 21 de marzo del 2025._
+
+El día en el que tomé la fotografía tuvimos clases. Dado que había realizado una compra en [MCI electronics](https://mcielectronics.cl/) tuve que ir a retirarla a su sucursal ubicada en Providencia. Al momento de dirigirme a la caja pude encontrar este pequeño cartel que indicaba el sector. Me pareció simpático, por lo que le tomé una fotografía con la finalidad de poder saber que era esta pantalla y adquirir una, dado que en el local no las vendían (según me contó la vendedora, las tenían guardadas hace años). En este caso la pantalla presenta un nivel mayor de complejidad, puesto que requiere de una mayor cantidad de Leds para poder escribir un mensaje (coln palabras y signos). Ello lo hace mejor para comunicar ideas.
 
 <br>
 
