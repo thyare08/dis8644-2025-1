@@ -37,6 +37,7 @@
 <img width="1440" alt="Captura de pantalla 2025-05-15 a la(s) 10 31 51 p m" src="https://github.com/user-attachments/assets/332314b7-4c77-449b-9828-e8feb7bd27ac" />
 
 <img width="1440" alt="Captura de pantalla 2025-05-15 a la(s) 10 33 47 p m" src="https://github.com/user-attachments/assets/15c09740-7b1a-49cf-8528-39878650316f" />
+
 ```txt 
 $ 1 0.000005 1.3241202019156522 72 5 50 5e-11
 165 560 272 592 272 14 8.992760336826649
