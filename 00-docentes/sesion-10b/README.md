@@ -2,7 +2,7 @@
 
 viernes 16 de mayo 2025
 
-![](./archivos/)
+![ref-pudu](./archivos/udpudu-pcbRef.png)
 
 ## bom udpudu
 
