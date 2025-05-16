@@ -2,6 +2,8 @@
 
 viernes 16 de mayo 2025
 
+![ref-pudu](./archivos/udpudu-pcbRef.png)
+
 ## bom udpudu
 
 |Referencia  |Valor   |Huella                   |Qty|OBS               |
