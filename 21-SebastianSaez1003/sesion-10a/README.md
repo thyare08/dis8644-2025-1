@@ -102,6 +102,8 @@ Para poder mostrar la temperatura a la cual es calentada y enfriada en el dispen
 
 ## encargo-21: simulación de circuitos con 555 y/o comparadores hechos con opamps en Falstad
 
+Para probar la herramienta de Falstad, decidí tratar de replicar, a mi mejor capacidad, la modificación que mi grupo y yo hicimos para el proyecto n.º 1 de este taller, que puede ser abierto con el siguiente código:
+
 ```txt
 $ 1 0.000005 10.20027730826997 50 5 43 5e-11
 165 112 128 272 128 6 0
