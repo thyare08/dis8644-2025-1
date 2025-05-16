@@ -5,6 +5,7 @@
 - Durante la mañana se hablaron diversos temas, como cosas que habían ocurrido durante el fin de semana. En mi caso, logré preparar un queque para celebrar el Día domingo a mi mamá; quedó bien rico. También se habló sobre un cantante llamado Trueno (rapero argentino), y Misaa nos comentó que iba a presentar su tesis de Magíster en la Facultad de Arte, Arquitectura y Diseño de la Universidad de Chile. Me gustan estas dinámicas en clase, ya que generan un ambiente más agradable y dan ganas de comenzar el día así.
 
 ### Circuito PWM
+
 ![CIRCUITO](./archivos/pwm.png)
 
 +SUBIR IMAGENES Y VIDEOS TRABAJO EN CLASES* (PENDIENTE)
