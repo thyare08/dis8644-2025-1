@@ -10,7 +10,12 @@ El verde es el receptor de luz que tenemos mejor como seres humanos.
 
 ![El producto de nuestros 3 protoboards armados](./archivos/10a-clase(1).jpg)
 
+
 Acabamos de construir una rosa cromática, o al menos el funcionamiento de esta, ya que al juntar cada uno de estos LEDs, la luz se podía observar “mezclándose”.
+
+![Mezcla entre 2 luces creando una especie de naranjo](./archivos/10a-clase(2).jpg)
+
+![Mezcla de 2 luces que crearon un morado](./archivos/10a-clase(3).jpg)
 
 Una pantalla de 7 segmentos 
 
@@ -30,7 +35,7 @@ c es la salida.
 
 Comparador de redstone: compáralo, cuánta redstone tiene de entrada vs. la B.
 
-
+![Imagen de referencia sobre redstone](./archivos/Comparators_Explained.jpg)
 
 Nos pasaron un chip que se llama LM324N de 14 patas, 4 OP-AMP.
 
@@ -43,8 +48,6 @@ OP-AMP permite resolver operaciones matemáticas.
 trabaja por comparación de voltaje
 
 Es un cacho tener 2 polaridades de alimentación que es mucho más compleja de usar.
-
-
 
 Cuando alguien pone "pinout" después del nombre de un chip, deja de buscar qué hace cada pata.
 
@@ -78,14 +81,23 @@ Potenciómetro para calibrar el umbral.
 
 Seguir el esquemático que vimos en clases y lo aplique en mi protoboard, funcionando de la manera siguiente:
 
+![foto de como se veia el circuito](./archivos/10a-clase(4).jpg)
+
+![Video del funcionamiento](./archivos/10a-clase(5).mp4)
+
+![Foto un poco mas clara de como arme mi circuito](./archivos/10a-clase(6).jpg)
+
 ## encargo-20: pantallas de siete segmentos
+
 Encontré los siguientes displays de 7 segmentos en la universidad.
 
 Para poder mostrar al vendedor el precio de los productos y el precio total de lo que está comprando dentro del casino.
 
+![Foto del cajero de la U](./archivos/10a-encargo20-(1).jpg)
+
 Para poder mostrar la temperatura a la cual es calentada y enfriada en el dispensador de agua de la universidad, la cual asumo es en grados Fahrenheit, porque sería una temperatura demasiado extrema si es que el agua estuviese siendo dispensada a 87 grados Celsius para beber.
 
-
+![Foto del filtro de agua](./archivos/10a-encargo20-(2).jpg)
 
 
 ## encargo-21: simulación de circuitos con 555 y/o comparadores hechos con opamps en Falstad
