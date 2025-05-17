@@ -67,6 +67,7 @@ https://github.com/user-attachments/assets/4e382456-b36f-415d-a4ec-26a28e4d2f01
 pregunté en clases en qué había fallado el circuito y misaaa me ayudó amablemente, la falla estuvo ante mis ojos y no supe verlo, los cambios que hicimos al que tenía anteriormente fueron:
 - se conectaron nuevos diodos a las patas que sobraban del potenciómetro, anteriormente los diodos no estaban conectados al potenciómetro sino que solamente estaba conectado el cable del medio, esto se había probado antes pero no funcionaba no sé por qué
 - se cambiaron los condensadores 474 por condensadores cerámicos de 104 en paralelo, estos fueron los unicos 2 cambios que se hicieron, adjunto video y foto del circuito funcionando
+- también se simplificó el circuito en la parte izquierda donde estaban los cables amarillos conectados a los diodos, se sacó uno y se conectaron ambos diodos a 1 cable
 
 
 ![1000011407](https://github.com/user-attachments/assets/8e00869c-f543-4488-a646-c028e37c3c54)
