@@ -23,6 +23,8 @@ viernes 16 de mayo 2025
 |Parlante    |8ohm    |                         |1  |                  |
 |J1,J3       |CAIMAN  |Cables caimán            |2  |                  |
 
+![sch-pudu](./archivos/udpudu-sch.png)
+
 ## encargo-22
 
 ## encargo-23
