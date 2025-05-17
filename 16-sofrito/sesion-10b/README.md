@@ -57,7 +57,7 @@ foto tomada el día martes en la entrada de ss donde los funcionarios marcan y r
 
 foto sacada el día jueves a la pantalla de la lavadora de mi casa, idica el tiempo de lavado y el on/off
 
-![pantalla 7 segmentos_3]<img width="539" alt="Captura de pantalla 2025-05-15 a la(s) 3 26 41 p m" src="https://github.com/user-attachments/assets/18c13f28-cc1c-4988-969d-4be15099d5f5" />
+]<img width="539" alt="Captura de pantalla 2025-05-15 a la(s) 3 26 41 p m" src="https://github.com/user-attachments/assets/18c13f28-cc1c-4988-969d-4be15099d5f5" />
 
 ## encargo 21: simulación de circuitos con 555 y/o comparadores hechos con opamps en Falstad
 
