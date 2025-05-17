@@ -1,13 +1,14 @@
 # sesion-06a
 
-# PROYECTO 01 - Grupo 09 
+# PROYECTO 01 - Grupo 09
 
 **Integrantes:**
+
 - Bastián Solís Cavieres
 - Carlo Martinez Arzola
 - Martín Silva Reyes
 
-# NOMBRE DEL PROYECTO: *Caja Sonora Interactiva*
+## NOMBRE DEL PROYECTO: *Caja Sonora Interactiva*
 
 Antes que nada, tomamos como base el circuito del 'Atari Punk Console', es decir, primero partimos con el circuito inicial del APC, el cual modificamos principalmente para alterar la frecuencia del parlante mediante el uso de botones e interruptores.
 
@@ -15,7 +16,7 @@ Circuito Inicial del APC (Atari Punk Console)
 
 ![APC](https://upload.wikimedia.org/wikipedia/commons/f/fa/APC_with_2_555_%28pin_out%29_and_bridge_added.png)
 
-# CIRCUITO APC - CAJA SONORA INTERACTIVA - Projecto 01 
+## CIRCUITO APC - CAJA SONORA INTERACTIVA - Projecto 01
 
 ![proy12](proy12.jpeg)
 
@@ -25,7 +26,7 @@ La interacción del usuario se da mediante una pieza impresa en 3D, ubicada en l
 
 Como el LDR responde a los cambios de luz, su exposición directa al LED modificará la resistencia del circuito, lo cual alterará la frecuencia del sonido emitido por la bocina. De este modo, cada barrita presionada genera una variación sonora, logrando una interacción física y directa con el usuario, convirtiendo la caja en una verdadera experiencia sonora interactiva.
 
-# Puntos Clave del Proyecto:
+## Puntos Clave del Proyecto
 
 - Uso de 3 circuitos APC conectados y alimentados por 3 batería de 9V.
 
@@ -35,7 +36,7 @@ Como el LDR responde a los cambios de luz, su exposición directa al LED modific
 
 - Interacción física al levantar una barrita, se modifica el sonido emitido por la bocina.
 
-# MODELO 3D del Proyecto
+## MODELO 3D del Proyecto
 
 La idea de nuestro proyecto es crear una caja sonora interactiva, que cuente con tres barritas impresas en 3D. Al levantarlas actúan como una barrera entre un LED y un LDR. De este modo, cada vez que una barrita sube, se modifica la cantidad de luz que llega al sensor, lo que permite ajustar el sonido según la presión ejercida.
 
@@ -47,19 +48,17 @@ Como se puede observar en la imagen a continuación, las barritas (representadas
 
 Dado que el LED está muy cerca del LDR, cualquier cambio en la cantidad de luz es fácilmente detectado por el sensor. Esto permite que la bocina emita distintas frecuencias de sonido según la posición de las barritas. De esta forma, nuestro proyecto funciona como una caja sonora interactiva.
 
-
-
 ![proy15](proy15.jpeg)
 
 Utilizaremos LEDs de distintos colores —uno azul, uno blanco y uno verde— con el objetivo de observar cómo reacciona el LDR al ser expuesto a diferentes longitudes de onda de luz. Esto nos permitirá analizar si el color del LED influye en la sensibilidad del sensor y, por lo tanto, en la variación del sonido emitido por el parlante.
 
-# Estructura hecha con Corte Láser
+## Estructura hecha con Corte Láser
 
 ![proy04](proy04.jpeg)
 ![proy05](proy05.jpeg)
 ![proy06](proy06.jpeg)
 
-# Estructura por dentro
+## Estructura por dentro
 
 La idea principal de nuestra caja es que sea interactiva, por lo que cuenta con tres agujeros por donde saldrán las bocinas que emiten el sonido. Por esta razón, el corte láser fue diseñado de esta forma, permitiendo que el sonido se proyecte adecuadamente hacia el exterior.
 
@@ -73,7 +72,7 @@ Se muestra una vista superior del interior de nuestra caja, la cual contiene un 
 
 ![proy09](proy09.jpeg)
 
-Nuestra caja incorpora bisagras que permiten abrirla fácilmente, lo cual facilita el acceso al interior para insertar la batería de 9V necesaria para el funcionamiento del proyecto. 
+Nuestra caja incorpora bisagras que permiten abrirla fácilmente, lo cual facilita el acceso al interior para insertar la batería de 9V necesaria para el funcionamiento del proyecto.
 
 ![proy10](proy10.jpeg)
 
@@ -81,7 +80,7 @@ Aca se aprecia más de cerca el funcionamiento de nuestro APC, con el LED azul e
 
 ![proy11](proy11.jpeg)
 
-# Bills of Materials - CAJA MADERA
+## Bills of Materials - CAJA MADERA
 
 | Materiales                   | Cantidad | Precio   | Especificaciones                         |
 |-----------------------------|----------|----------|------------------------------------------|
@@ -89,7 +88,7 @@ Aca se aprecia más de cerca el funcionamiento de nuestro APC, con el LED azul e
 | Corte placa MDF 5.5mm 30x30 cm | 1     | $3.303   | Placa MDF de 5.5 mm cortada a láser, 30x30 cm |
 | Bisagra Lin 38 2½"           | 2        | $1.990   | Bisagras metálicas pequeñas para caja    |
 
-# Bills of Materials - Circuito APC x3 
+## Bills of Materials - Circuito APC x3
 
 | Materiales               | Cantidad | Precio Aproximado | Especificaciones                                 |
 |--------------------------|----------|--------------------|--------------------------------------------------|
