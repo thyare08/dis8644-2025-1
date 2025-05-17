@@ -21,7 +21,9 @@ css: crear carpeta css para definir distintos estilos, ya sea tipografías, colo
 
 nos hicieron entrega de las placas diseñadas en Kicad (udpudu), luego nos reunimos en grupos para dar comienzo a las soldaduras de los componentes a la placa.
 
-![procesos en clases]<img width="539" alt="Captura de pantalla 2025-05-17 a la(s) 6 10 00 p m" src="https://github.com/user-attachments/assets/f472e3b8-a687-451f-9688-581193622220" />
+![procesos en clases]
+
+<img width="539" alt="Captura de pantalla 2025-05-17 a la(s) 6 10 00 p m" src="https://github.com/user-attachments/assets/f472e3b8-a687-451f-9688-581193622220" />
 
 <img width="558" alt="Captura de pantalla 2025-05-17 a la(s) 6 13 34 p m" src="https://github.com/user-attachments/assets/8d15d7a6-09bf-4e9e-9254-5ee2fa443a4b" />
 
@@ -33,7 +35,9 @@ nos hicieron entrega de las placas diseñadas en Kicad (udpudu), luego nos reuni
 
 <img width="558" alt="Captura de pantalla 2025-05-17 a la(s) 6 14 53 p m" src="https://github.com/user-attachments/assets/300625ae-b66f-4fbe-a651-925dcf45f491" />
 
-![error en una de las soldaduras]<img width="558" alt="Captura de pantalla 2025-05-17 a la(s) 6 15 07 p m" src="https://github.com/user-attachments/assets/da0fd08b-f71b-4017-8ef2-a160675808e6" />
+![error en una de las soldaduras]
+
+<img width="558" alt="Captura de pantalla 2025-05-17 a la(s) 6 15 07 p m" src="https://github.com/user-attachments/assets/da0fd08b-f71b-4017-8ef2-a160675808e6" />
 
 <img width="526" alt="Captura de pantalla 2025-05-17 a la(s) 6 17 30 p m" src="https://github.com/user-attachments/assets/fa97bd2c-f97b-439e-90bc-3383b1498c7f" />
 
