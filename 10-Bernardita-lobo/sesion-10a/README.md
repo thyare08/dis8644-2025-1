@@ -32,8 +32,22 @@
 
 ![tme-sesion10a-falstad03](https://github.com/user-attachments/assets/fa746476-71a3-4898-afc3-a1120c16fc35)
 
-adjuntar foto del cuaderno*
+![tme-sesion10a-bitacora](https://github.com/user-attachments/assets/6ae67461-1d70-4faf-8dbd-e621840bb018)
 
 ## Encargo
 
-### 19 
+### 20-Pantallas de siete segmentos
+
+- subir fotos de su propia autoría de pantallas de siete segmentos, y otras variantes que encuentren en su vida cotidiana.
+- 01 es una pantalla de una máquina remadora, e indica la fuerza que se ejerce.
+- 02 es la pantalla de un microondas, e indica la hora y el temporizador.
+- 03 es la pantalla de una calculadora e muestra los resultados.
+- 04 este es un reloj digital. yo creo que no cuenta, pero al menos sigue el mismo lenguaje.
+- 05 es una báscula digital e indica el peso.
+- 06 esta es la pantalla de una estufa a pellet, e indica la hora y la temperatura.
+
+![tme-sesion10a-segmentos](https://github.com/user-attachments/assets/a071d572-bd71-45a5-a84d-cbc7499d94b7)
+
+### 21-Simulación de circuitos con 555 y/o comparadores hechos con opamps en Falstad
+
+- simular circuitos que hemos visto en clases con chips 555 y/o circuitos comparadores usando el simulador de Falstad.
