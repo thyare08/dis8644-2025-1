@@ -84,5 +84,5 @@
 -----------------------------------------------------------------------------------------------------------
 ## Encargo 19 <!--estudiar la obra de laurie anderson, incluir citas y referentes usados, explicar qué y por qué les gusta o no de su trabajo-->
 ### Laurie Anderson
->
+> Escuché el album Big science. Inmediatamente me llamó la atención que prácticamente no "canta" sino que habla en distintas velocidades con música repetitiva acompañandola de fondo, porque la mayoría de canciones que he escuchado que tienen gente hablando normalmente, usualmente interrumpen la canción y hablan por un período corto de tiempo antes de retomar la canción.</br></br> Tras ver una entrevista que tuvo en el canal [60 minutes](https://youtu.be/rydadItdnt0?si=7jIRZXng869N9_ud), me sorprendió que ella no busca hacer canciones o temas musicales, sino contar historias de la forma más bizarra que se le ocurra. También mencionó que los sonidos repetitivos de fondo son porque tenía varios equipos que podían hacer loops, aunque no se si es solo por eso o si hay otros factores detrás. </br></br> Aunque no considero que sus canciones sean de mi agrado, me agrada como juega con distintos elementos, como sonido, visuales y tecnología en sus obras
 >
