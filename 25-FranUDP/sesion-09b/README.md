@@ -79,8 +79,8 @@
 >>
 >> #### Circuito relay </br>
 >> <img align="left" src="./files/circuit2.jpg" width=480><img align="left" src="./files/circuit2A.jpg" width=410> </br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
->> <img align="left" src="./files/relay.gif" width=400></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
->
+>> <img align="left" src="./files/relay.gif" width=400></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+></br>
 -----------------------------------------------------------------------------------------------------------
 ## Encargo 19 <!--estudiar la obra de laurie anderson, incluir citas y referentes usados, explicar qué y por qué les gusta o no de su trabajo-->
 ### Laurie Anderson
