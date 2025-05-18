@@ -33,7 +33,7 @@
 > <img align="left" src="./files/1N4148.png" width=280> </br> Diodo de alta velocidad (4ns), con un forward voltage de 0.7V y un voltaje reverso de 75V. Viene en un paquete DO-35 (footprint)</br></br></br></br></br>
 >>
 >> ### Voltaje y corriente en un diodo
->> <img align="left" src="./files/diode.png" width=280> 
+>> <img align="left" src="./files/diode.jpg" width=280> 
 >>
 >> ### Forward Voltage
 >> Es la diferencia de voltaje entre el anodo y el catodo del diodo, es decir, el voltaje que recive el diodo se reduce en el forward voltage.</br>
