@@ -145,13 +145,13 @@ además se da retroalimentación escrita a todo el curso sobre cada entrada.
 la nota de encargos está compuesta de 4 notas, cada 1 correspondiente a 1 de los meses lectivos:
 
 1. encargos marzo
-    - TODO
+    - 10 encargos, NO consideramos los 3 peores encargos.
 2. encargos abril
-    - TODO
+    - 08 encargos, NO consideramos los 2 peores encargos.
 3. encargos mayo
-    - TODO
+    - 14 encargos, NO consideramos los 4 peores encargos.
 4. encargos junio
-    - TODO
+    - TODO encargos, NO consideramos los TODO peores encargos.
 
 de estas 4 notas de encargos, NO consideramos la peor. así la nota de encargos es el promedio de las 3 mejores notas de encargos.
 
@@ -177,12 +177,12 @@ esta nota mide 6 criterios, cada uno se evalúa con nota entre 0.0 y 1.0, donde 
 
 los 6 criterios a evaluar son:
 
-1. TODO
-2. TODO
-3. TODO
-4. TODO
-5. TODO
-6. TODO
+1. introducción, premisa, explicación textual
+2. anatomía física, diagramas, ilustraciones, texto
+3. bitácora multimedia, proceso
+4. esquemático eléctrico, bill of materials, citas y referencias
+5. presentación oral, apoyo con bitácora github
+6. funcionamiento, robustez electromecánica
 
 ### sobre la nota de proyecto-02
 
