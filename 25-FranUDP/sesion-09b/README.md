@@ -24,7 +24,7 @@
 > ### [Pulse Width Modulation (PWM)](https://youtu.be/aeE0u1J-1pg?si=sQ3Hyve-fgqd14Sa)
 > Ver [Sesión-04b](https://github.com/disenoUDP/dis8644-2025-1/tree/main/25-FranUDP/sesion-04b)
 >> ### Persistencia virtual
->> Es una ilusión óptica que nos permite percivir movimiento al ver una secuencia de imagenes estáticas, producto de la imagenes permaneciendo en nuestra vista por un período de tiempo después de haberlas visto. En el caso de las LEDs, este fenómeno nos permite percivir un cambio de luminocidad al ver LEDs parpadeando rápidamente.
+>> Es una ilusión óptica que nos permite percibir movimiento al ver una secuencia de imagenes estáticas, producto de las imagenes permaneciendo en nuestra vista por un período de tiempo después de haberlas visto. En el caso de las LEDs, este fenómeno nos permite percibir un cambio de luminocidad al ver LEDs parpadeando rápidamente.
 > 
 > ### Diagrama de flujo
 > <img align="left" src="./files/flowChart.png" width=280> </br></br></br></br></br></br></br> Es un diagrama de bloques que divide los componentes y acciones que participan en un circuito para facilitar el entendimiento de este y su diseño</br></br></br></br></br></br></br></br>
@@ -33,17 +33,17 @@
 > <img align="left" src="./files/1N4148.png" width=280> </br> Diodo de alta velocidad (4ns), con un forward voltage de 0.7V y un voltaje reverso de 75V. Viene en un paquete DO-35 (footprint)</br></br></br></br></br>
 >>
 >> ### Voltaje y corriente en un diodo
->> <img align="left" src="./files/diode.png" width=280> 
+>> <img align="left" src="./files/diode.jpg" width=280> 
 >>
 >> ### Forward Voltage
->> Es la diferencia de voltaje entre el anodo y el catodo del diodo, es decir, el voltaje que recive el diodo se reduce en el forward voltage.</br>
+>> Es la diferencia de voltaje entre el anodo y el catodo del diodo, es decir, el voltaje que recibe el diodo se reduce en el forward voltage.</br>
 >> El forward voltage varía dependiendo del material del tipo de diodo</br>
 >> ### Threshold Voltage (Voltaje de encendido) 
 >> Este es el voltaje mínimo que requiere el diodo para permitir que pase la corriente (bajo el voltaje mínimo hay un flujo minusculo de corriente)</br>
 >> Desde el punto threshold, la corriente que pasa por el diodo aumentará de forma exponencial </br></br>
 >
 > ### Modulo relé (relay module)
-> <img align="left" src="./files/relay.jpg" width=280> </br> Similar a un transistor, en el sentido que una señal pequeña (input) controla una señal más grande (output), Pero difiere en que la señal que controla (output) está aislada del circuito del cual proviene la señal control (input), esto permite que la señal de salida sea muchisimo más grande que el input o incluso que sea de corriente alterna (AC)</br></br>
+> <img align="left" src="./files/relay.jpg" width=280> </br> Similar a un transistor, en el sentido que una señal pequeña (input) controla una señal más grande (output), Pero difiere en que la señal que controla (output) está aislada del circuito del cual proviene la señal control (input), esto permite que la señal de salida sea muchísimo más grande que el input o incluso que sea de corriente alterna (AC)</br></br>
 >
 > ### Other things <!-- Things to organize + random stuff -->
 >
@@ -51,11 +51,11 @@
 >> <img align="left" src="./files/GordonMattaClark.jpg" width=280> </br></br></br> Artista y arquitecto chileno-estadounidense conocido por sus intervenciones arquitectónicas, donde hacia cortes y perforaciones en estructuras </br></br></br></br>
 >>
 >> ### Clases de amplificadores
->> * Clase D:</br> Amplificadores electrónicos de alta eficiencia energética, funcionan usando PWM. Suelen tener más distorción que las otras clases y el rápido ON y OFF del PWM puede causar interferencias de radiofrecuencia (RFI) si no se filtra</br>
->> * Clase A:</br> Amplificadores lineales de alta fidelidad (minima distorción), tienen una eficiencia muy baja (25% aprox) y produce mucho calor, por lo que requieren de enfriamiento</br>
+>> * Clase D:</br> Amplificadores electrónicos de alta eficiencia energética, funcionan usando PWM. Suelen tener más distorsión que las otras clases y el rápido ON y OFF del PWM puede causar interferencias de radiofrecuencia (RFI) si no se filtra</br>
+>> * Clase A:</br> Amplificadores lineales de alta fidelidad (minima distorsión), tienen una eficiencia muy baja (25% aprox) y produce mucho calor, por lo que requieren de enfriamiento</br>
 >> * Clase B:</br> Amplificadores lineales más eficientes que la clase A (78% max), sufren de distorciones, por lo que no son aptos para aplicaciones de alta fidelidad</br>
->> * Clase AB:</br> Tienen mayor eficiencia que la clase A y menos distorción que la clase B, se suelen utilizar como amplificadored de proósito general</br>
->> * Clase C:</br> Amplificadores lineales de alta eficiencia y distorción considerable, se suelen emplear en aplicaciones de radiofrecuencia</br>
+>> * Clase AB:</br> Tienen mayor eficiencia que la clase A y menos distorsión que la clase B, se suelen utilizar como amplificadored de proósito general</br>
+>> * Clase C:</br> Amplificadores lineales de alta eficiencia y distorsión considerable, se suelen emplear en aplicaciones de radiofrecuencia</br>
 >> * Clase H y G:</br> Variaciones de la clase AB, utilizan múltiples voltajes de entrada distintos para mejorar la eficiencia energética (varian de menor a major voltaje dependiendo de la señal que estén procesando), la clase G varía entre multiples voltajes de entrada fijos, mientras que la clase H utiliza una fuente de poder variable.
 >>
 >> ### Mechanical turk
@@ -79,10 +79,10 @@
 >>
 >> #### Circuito relay </br>
 >> <img align="left" src="./files/circuit2.jpg" width=480><img align="left" src="./files/circuit2A.jpg" width=410> </br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
->> <img align="left" src="./files/relay.gif" width=400></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
->
+>> <img align="left" src="./files/relay.gif" width=400></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+></br>
 -----------------------------------------------------------------------------------------------------------
 ## Encargo 19 <!--estudiar la obra de laurie anderson, incluir citas y referentes usados, explicar qué y por qué les gusta o no de su trabajo-->
 ### Laurie Anderson
-> Escuché el album Big science. Inmediatamente me llamó la atención que prácticamente no "canta" sino que habla en distintas velocidades con música repetitiva acompañandola de fondo, porque la mayoría de canciones que he escuchado que tienen gente hablando normalmente, usualmente interrumpen la canción y hablan por un período corto de tiempo antes de retomar la canción.</br></br> Tras ver una entrevista que tuvo en el canal [60 minutes](https://youtu.be/rydadItdnt0?si=7jIRZXng869N9_ud), me sorprendió que ella no busca hacer canciones o temas musicales, sino contar historias de la forma más bizarra que se le ocurra. También mencionó que los sonidos repetitivos de fondo son porque tenía varios equipos que podían hacer loops, aunque no se si es solo por eso o si hay otros factores detrás. </br></br> Aunque no considero que sus canciones sean de mi agrado, me agrada como juega con distintos elementos, como sonido, visuales y tecnología en sus obras
+> Escuché el álbum Big science. Inmediatamente me llamó la atención que prácticamente no "canta", sino que habla a distintas velocidades con música repetitiva acompañándola de fondo, porque la mayoría de canciones que he escuchado, cuando incluyen partes habladas, suelen interrumpir la canción y hablar por un período corto antes de retomarla.</br></br> Tras ver una entrevista que tuvo en el canal [60 minutes](https://youtu.be/rydadItdnt0?si=7jIRZXng869N9_ud), me sorprendió que ella no busca hacer canciones o temas musicales, sino contar historias de la forma más bizarra que se le ocurra. También mencionó que los sonidos repetitivos de fondo son porque tenía varios equipos que podían hacer loops, aunque no sé si es solo por eso o si hay otros factores detrás. </br></br> Aunque no considero que sus canciones sean de mi agrado, me agrada cómo juega con distintos elementos, como sonido, visuales y tecnología en sus obras
 >
