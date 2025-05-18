@@ -77,7 +77,7 @@ nuestras sesiones de clases serán los martes y viernes entre marzo y julio 2025
 | [09a](00-docentes/sesion-09a/)| 05-06 martes | no hay clase por receso                                        |
 | [09b](00-docentes/sesion-09b/)| 05-09 viernes| circuitos de PWM                                               |
 | [10a](00-docentes/sesion-10a/)| 05-13 martes | circuitos comparadores con opamps                              |
-| [10b](00-docentes/sesion-10b/)| 05-16 viernes| TODO                                                           |
+| [10b](00-docentes/sesion-10b/)| 05-16 viernes| soldar placas udpudu y crear bill of materials                 |
 | [11a](00-docentes/sesion-11a/)| 05-20 martes | TODO                                                           |
 | [11b](00-docentes/sesion-11b/)| 05-23 viernes| TODO                                                           |
 | [12a](00-docentes/sesion-12a/)| 05-27 martes | TODO                                                           |
