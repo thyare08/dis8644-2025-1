@@ -117,16 +117,16 @@ la nota final del curso se calcula con la siguiente fórmula: TODO.
 
 ### sobre la nota de bitácoras
 
-la nota de bitácoras está compuesta de 4 notas, cada una correspondiente a uno de los meses lectivos:
+la nota de bitácoras está compuesta de 4 notas, cada 1 correspondiente a 1 de los meses lectivos:
 
 1. bitácoras marzo
-    - realizamos 10 encargos, NO consideramos los 2 peores
+    - tenemos 6 sesiones de clases, NO consideramos las 2 peores bitácoras
 2. bitácoras abril
-    - TODO
+    - tenemos 7 sesiones de clases, NO consideramos las 2 peores bitácoras
 3. bitácoras mayo
-    - TODO
+    - tenemos 7 sesiones de clases, NO consideramos las 2 peores bitácoras
 4. bitácoras junio
-    - TODO
+    - tenemos 8 sesiones de clases, NO consideramos las 2 peores bitácoras
 
 de estas 4 notas de bitácoras, NO consideramos la peor. así la nota de bitácoras es el promedio de las 3 mejores notas de bitácoras.
 
@@ -142,15 +142,15 @@ además se da retroalimentación escrita a todo el curso sobre cada entrada.
 
 ### sobre la nota de encargos
 
-la nota de encargos está compuesta de 4 notas, cada una correspondiente a uno de los meses lectivos:
+la nota de encargos está compuesta de 4 notas, cada 1 correspondiente a 1 de los meses lectivos:
 
-1. bitácora marzo
+1. encargos marzo
     - TODO
-2. bitácora abril
+2. encargos abril
     - TODO
-3. bitácora mayo
+3. encargos mayo
     - TODO
-4. bitácora junio
+4. encargos junio
     - TODO
 
 de estas 4 notas de encargos, NO consideramos la peor. así la nota de encargos es el promedio de las 3 mejores notas de encargos.
