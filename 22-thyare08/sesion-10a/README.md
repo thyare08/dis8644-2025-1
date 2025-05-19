@@ -13,6 +13,7 @@ Imagen tomada el día 13/05 en el almacén de al lado izquierdo de la facultad d
 ![20250515_212821](https://github.com/user-attachments/assets/892a058a-3342-445b-b664-8de848c17ce4)
 Imagen tomada el día 15/05 en mi casa, es un despertador
 
- - **Encargo 21:** Simulación de circuitos con 555 y/o comparadores hechos con opamps en Falstad
+![20250516_142057](https://github.com/user-attachments/assets/e6243d65-d22f-47e5-9c9c-c943e07167af)
+Imagen tomada en mi clase de Inglés en la facultad de Manuel Rodriguez, en la sala 503 de su termostato
 
-   
+ - **Encargo 21:** Simulación de circuitos con 555 y/o comparadores hechos con opamps en Falstad
