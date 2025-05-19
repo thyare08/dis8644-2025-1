@@ -26,6 +26,7 @@
 
 **LLEGARON LAS PLACAS UDPUDU**
 - hermoso momento, muy bonitas las placas la verdad
+
 **más apuntes**
 - nos mostraron el concepto de circuit bending
 - es la customización de circuitos de dispositivos electrónicos
@@ -41,4 +42,9 @@
 
 ### post break
 
--
+- después del break nos juntamos en grupos de 4 a 5 personas para comenzar a soldar los componentes de udpudu hecho en kicad ya directamente en la placa física
+- acá no anoté muchas cosas porque en realidad estaba ocupado trabajando y viendo cómo avanzábamos, así que el paso a paso es ya parte del encargo y no de la bitácora.
+- por último, trabajé con Francisco Stephens, Jose Morales y Martín Silva
+
+### encargo 22: documentación textual del proceso de ensamblado de udpudu
+
