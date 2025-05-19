@@ -23,8 +23,22 @@
 - el sistema,enemigo, se maneja automáticamente
 - en china no funciona tiktok, pese a que tiktok es chino, creemos que es por el tipo de contenido que se muestra en tiktok el gobierno chino no quiere que sus jóvenes consuman esto
 - una vez en tiktok apareció una carta de bin laden explicando el motivo del ataque a las torres gemelas y se hizo viral
+
 **LLEGARON LAS PLACAS UDPUDU**
 - hermoso momento, muy bonitas las placas la verdad
 **más apuntes**
 - nos mostraron el concepto de circuit bending
-- es la customización de circuitos de dispositivos electrónicos 
+- es la customización de circuitos de dispositivos electrónicos
+- se usan en juguetes de niños, los circuitos deben ser resistentes y simples
+- nombraron a nicolas collins, hay un libro de el en el lab
+- nicolas collins hace circuit bending, algunas perfomance nombradas: nicollas collins performs christian marclays, silicon luthier, the royal touch performance
+- "agarrar un teclado, placa, meter los dedos al agua y te conviertes en la resistencia". Esto no entendí si literalmente hay que mojarse los dedos o es una forma de decir de meter mano en el circuito
+- circuit but speak y spell
+- hack of the mont club
+- "el arte de la música electrónica hecha a mano" ---> un libro de Nicolas Collins, Aarón recomienda la segunda versión, del año 2009
+- después de esto misaaaa procedió a hacer el BOM del udpudu en excel
+- antes del break se organizó la sala en grupos de trabajo, movimos las mesas creando islas de trabajo
+
+### post break
+
+-
