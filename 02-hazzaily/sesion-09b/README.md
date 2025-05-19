@@ -24,6 +24,7 @@ Foto de Relé de  canal.
 
 Foto de mi croquera.
 
+![Onda Astable](archivos/onda_astable.jpg)
 
  - in: R y C.
  - out: LEDs, sonido, nov, aviso.
@@ -32,6 +33,7 @@ Foto de mi croquera.
 
 Foto de mi croquera.
 
+![Onda Monoestable](archivos/onda_astable.jpg)
 
  - in: R y C.
  - out: LEDs, sonido, nov, aviso.
@@ -51,5 +53,15 @@ Foto circuito PWM.
 
 ## Encargo 19: Investigar cultura electrónica y Laurie Anderson
 
+¿Quién es Laurie Anderson?
+
+ - Laurie Anderson es una estadounidense nacida en 1947 que, además de ser una artista experiemntal de performance, es una cantante, poeta y dibujante. Dentro de sus performances combina música minimalista, diapositivas y reflexiones irónicas sobre el lenguaje, la política norteamericana, el rol de los sexos y la civilización occidental moderna.
+
+ - Dentro de sus creaciones podemos encontrar el **Violín de Arco de Cinta**, que posee un cabezal magnético en lugar de cuerdas y una cinta de audio en lugar de las cuerdas del arco, además de una carcasa con sensores que activan diversos sonidos de batería electrónica.
+
+Álbum escuchado: **Big Science**
+
+ - Opinión: 
 
 Fotos  de mi autoría.
+
