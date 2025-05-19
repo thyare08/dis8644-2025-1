@@ -24,6 +24,7 @@ Foto de Relé de  canal.
 
 Foto de mi croquera.
 
+![Onda Astable](archivos/onda_astable.jpg)
 
  - in: R y C.
  - out: LEDs, sonido, nov, aviso.
@@ -32,6 +33,7 @@ Foto de mi croquera.
 
 Foto de mi croquera.
 
+![Onda Monoestable](archivos/onda_astable.jpg)
 
  - in: R y C.
  - out: LEDs, sonido, nov, aviso.
