@@ -1,6 +1,22 @@
 # sesion-10a 13/05
 
-## apuntes clase 
+## apuntes clase
+
+Falstad.com -> un simulador de circuitos electrónicos.
+
+LED RGB ->  es la combinación de los tres colores primarios Azul-Verde-Rojo.  lo cual hace que se produzcan distintos colores en base a los colores RGB.
+
+Amplificador operacional -> OP-AMP
+
+Chip de 14 patas -> LM 324
+se pueden hacer 4 operaciones a la vez
+
+![IMG_1425](https://github.com/user-attachments/assets/2e31a9aa-6ccb-468c-9404-25dd68033f9c)
+
+![IMG_1426](https://github.com/user-attachments/assets/92d332e0-eb6f-4312-ab83-35c9746d215d)
+
+![IMG_1259](https://github.com/user-attachments/assets/6b1d05f0-ab4f-4eba-8126-5d94079129c7)
+
 
 ## encargo-20: pantallas de siete segmentos
 
