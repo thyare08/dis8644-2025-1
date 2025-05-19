@@ -28,4 +28,8 @@ Foto visualización placa PCB posterior.
 Foto visualización placa PCB inferior.
 
 
-## Encargo 16: Cotizar placa en JLCPBC de manera realista y experimental
+## Encargo 16: Cotizar placa en JLCPBC de manera normal
+
+## Encargo 17: Cotizar placa en JLCPBC de manera experimetal
+
+
