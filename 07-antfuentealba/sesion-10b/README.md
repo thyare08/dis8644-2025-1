@@ -11,7 +11,7 @@
 2. **Probar los componentes en protoboard**  
    Antes de soldar, verificar que todos los componentes funcionen correctamente conectándolos en una placa protoboard.
 
-3. **Soldar el zócalo del chip 555**  
+3. **Soldar el socket del chip 555**  
    Comenzar el ensamblaje soldando el socket para el chip 555 **sin insertar el chip** para evitar que se dañe con el calor del cautín.
 
 4. **Soldar las resistencias**  
@@ -35,7 +35,7 @@
 ## Aciertos
 
 - Prueba previa en protoboard permitió verificar que todos los componentes funcionaban correctamente.
-- Soldar el zócalo sin el chip previno daños por calor.
+- Soldar el socket sin el chip previno daños por calor.
 - Usar masking tape facilitó el proceso de soldadura y evitó errores por componentes sueltos.
 - Seguir un orden lógico de ensamblaje (de componentes bajos a altos) facilitó la manipulación de la PCB.
 
@@ -43,7 +43,7 @@
 
 ## Errores evitados
 
-- No se insertó el chip 555 durante la soldadura del zócalo.
+- No se insertó el chip 555 durante la soldadura del socket.
 - Se respetó correctamente la polaridad de LEDs, diodos y capacitores.
 
 ---
