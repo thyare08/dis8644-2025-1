@@ -70,7 +70,7 @@ en orden de los pasos mencionados
 ![10B3](https://github.com/user-attachments/assets/c7d98636-0447-4ac8-9c95-359ce414a0ae)
 
 
-3. **Soldar el zócalo del chip 555**  
+3. **Soldar el socket del chip 555**  
    Comenzar el ensamblaje soldando el socket para el chip 555 **sin insertar el chip** para evitar que se dañe con el calor del cautín.
    4. **Soldar las resistencias**  
    Insertar las resistencias en su posición y fijarlas con masking tape por el lado frontal para que no se muevan. Luego soldarlas por la parte posterior.
