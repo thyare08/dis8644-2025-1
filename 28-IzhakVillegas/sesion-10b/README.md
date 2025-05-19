@@ -65,3 +65,43 @@ Cuidado con capacitores, "todo funciona con una batería de 9V".
 |Parlante    |8ohm    |                         |   |                  |
 
 html, css: Cascading Style Sheets (para editar páginas web).
+
+## encargo-22: documentación textual del proceso de ensamblado de udpudu
+Escribir manual con pasos a seguir, receta, de los pasos que siguieron para ensamblar la PCB. Incluir aciertos y errores, aprendizajes y consejos.
+
+## encargo-23: documentación visual del proceso de ensamblado de udpudu
+Complementar encargo 22 con fotos explicativas de los materiales usados, de los pasos, etc.
+
+###  Ensamblaje de PCB mediante soldadura de estaño udpudu
+
+**Materiales:** Cautín, estaño, esponja o paño húmedo, alicate de corte, la placa de circuito impreso y sus componentes indicados en el BOM (condensador cerámico, condensadores electrolíticos, diodo, led, caimanes, terminal block, speaker, reistencias, switch spdt, socket de 8 pines y chip 555).
+
+-  Siempre hay que considerar de que al momento de mandar a imprimir la PCB, esté funcionando de manera correcta con una protoboard, que el esquema y las huellas sean correctos, también que los archivos que exportamos para la impresión esten bien. También verificar que nuestros materiales estén en correcto funcionamiento ya que de no ser así es complicado desoldar nuestra PCB, por lo que o podemos utilizar la protoboard para verificar si todo esta "ok" o sino utilizar un multímetro revisando la continuidad de los componentes y si sus valores son los indicados en el BOM.
+
+-  Para emsamblar la PCB necesitamos un BOM (bill of materials) que nos indicará -según la serigrafía impresa en la placa- que elemento cumple que rol en cual ranura específica de la placa a modo de que el input pueda realizarse satisfactoriamente y así llegar al output en nuestra "caja negra".
+
+(Ver el BOM más arriba)
+
+-  Conociendo la cantidad de resistencias, switchs, sockets, speakers, diodos, leds, condensadores, el socket de 8 pines para nuestro chip 555 y sus especificaciones respectivamente (faradios y ohms) o su polaridad (para condensadores) mas la fuente de poder (batería de 9V) procedemos a realizar el ensamblaje.
+
+-  Posicionamos la PCB en un lugar estable en el que sepamos que se mantenga sujeto, también podemos utilizar masking tape para sellarlo.
+
+-  Conectamos a corriente el cautín esperando que se caliente lo suficiente para así limpiar los restos y suciedad con el paño húmedo o esponja respectivamente.
+
+-  Seleccionamos algún componente con el que queramos empezar y lo colocamos en los orificios de la PCB, por ejemplo: una resistencia.
+
+-  Agarramos el estaño con una mano y con la otra mano el cautín.
+
+-  Posicionamos el estaño cerca del cautín y lo calentamos un poco para que mantenga la temperatura y sea más fácil derretirlo.
+
+-  Colocamos el cautín encima de la resistencia calentándola para que no rechaze el estaño un par de segundos.
+
+-  Luego colocamos el estaño y el cautín encima esperando que el estaño pueda derretirse y tomar la forma del orificio, esto lo hacemos por unos 3 segundos aproximadamente.
+
+-  De ser exitoso, la resistencia debería mantenerse firme de un lado, realizamos los mismos procedimientos para el otro orificio sin antes limpiar el cautín con el paño húmedo para que se agilice el derretimiento del estaño y no se quemen los componentes.
+
+Por lo tanto el ciclo que se repite sería: Limpiar el cautín con un paño o esponja > calentar el estaño un par de segundos > calentar el componente o pin un par de segundos > calentar el estaño hasta que se derrita encima del orificio donde entra el componente (3 segundos) > retirar.
+
+*  Observaciones:
+-  No excederse con el cautín pues puede quemar la PCB, los componentes o dejar inutilizable el módulo.
+-  Tampoco excederse con el estaño ya que puede provocar una obstrucción en el circuito.

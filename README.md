@@ -77,7 +77,7 @@ nuestras sesiones de clases serán los martes y viernes entre marzo y julio 2025
 | [09a](00-docentes/sesion-09a/)| 05-06 martes | no hay clase por receso                                        |
 | [09b](00-docentes/sesion-09b/)| 05-09 viernes| circuitos de PWM                                               |
 | [10a](00-docentes/sesion-10a/)| 05-13 martes | circuitos comparadores con opamps                              |
-| [10b](00-docentes/sesion-10b/)| 05-16 viernes| TODO                                                           |
+| [10b](00-docentes/sesion-10b/)| 05-16 viernes| soldar placas udpudu y crear bill of materials                 |
 | [11a](00-docentes/sesion-11a/)| 05-20 martes | TODO                                                           |
 | [11b](00-docentes/sesion-11b/)| 05-23 viernes| TODO                                                           |
 | [12a](00-docentes/sesion-12a/)| 05-27 martes | TODO                                                           |
@@ -117,16 +117,16 @@ la nota final del curso se calcula con la siguiente fórmula: TODO.
 
 ### sobre la nota de bitácoras
 
-la nota de bitácoras está compuesta de 4 notas, cada una correspondiente a uno de los meses lectivos:
+la nota de bitácoras está compuesta de 4 notas, cada 1 correspondiente a 1 de los meses lectivos:
 
 1. bitácoras marzo
-    - realizamos 10 encargos, NO consideramos los 2 peores
+    - tenemos 6 sesiones de clases, NO consideramos las 2 peores bitácoras
 2. bitácoras abril
-    - TODO
+    - tenemos 7 sesiones de clases, NO consideramos las 2 peores bitácoras
 3. bitácoras mayo
-    - TODO
+    - tenemos 7 sesiones de clases, NO consideramos las 2 peores bitácoras
 4. bitácoras junio
-    - TODO
+    - tenemos 8 sesiones de clases, NO consideramos las 2 peores bitácoras
 
 de estas 4 notas de bitácoras, NO consideramos la peor. así la nota de bitácoras es el promedio de las 3 mejores notas de bitácoras.
 
@@ -142,16 +142,16 @@ además se da retroalimentación escrita a todo el curso sobre cada entrada.
 
 ### sobre la nota de encargos
 
-la nota de encargos está compuesta de 4 notas, cada una correspondiente a uno de los meses lectivos:
+la nota de encargos está compuesta de 4 notas, cada 1 correspondiente a 1 de los meses lectivos:
 
-1. bitácora marzo
-    - TODO
-2. bitácora abril
-    - TODO
-3. bitácora mayo
-    - TODO
-4. bitácora junio
-    - TODO
+1. encargos marzo
+    - 10 encargos, NO consideramos los 3 peores encargos.
+2. encargos abril
+    - 08 encargos, NO consideramos los 2 peores encargos.
+3. encargos mayo
+    - 14 encargos, NO consideramos los 4 peores encargos.
+4. encargos junio
+    - TODO encargos, NO consideramos los TODO peores encargos.
 
 de estas 4 notas de encargos, NO consideramos la peor. así la nota de encargos es el promedio de las 3 mejores notas de encargos.
 
@@ -177,12 +177,12 @@ esta nota mide 6 criterios, cada uno se evalúa con nota entre 0.0 y 1.0, donde 
 
 los 6 criterios a evaluar son:
 
-1. TODO
-2. TODO
-3. TODO
-4. TODO
-5. TODO
-6. TODO
+1. introducción, premisa, explicación textual
+2. anatomía física, diagramas, ilustraciones, texto
+3. bitácora multimedia, proceso
+4. esquemático eléctrico, bill of materials, citas y referencias
+5. presentación oral, apoyo con bitácora github
+6. funcionamiento, robustez electromecánica
 
 ### sobre la nota de proyecto-02
 
