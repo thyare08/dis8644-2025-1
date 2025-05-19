@@ -42,7 +42,7 @@ Viernes 16 de Mayo del 2025.
 |Parlante    |8ohm    |                         |1  |                  |
 |J1,J3       |CAIMAN  |Cables caimán            |2  |                  |
 
-## encargo 22 y 23: documentación textual y visual del proceso de ensamblado de udpudu
+## Encargo 22 y 23: documentación textual y visual del proceso de ensamblado de udpudu
 
 - escribir manual con pasos a seguir, receta, de los pasos que siguieron para ensamblar la PCB.
 - incluir aciertos y errores, aprendizajes y consejos.
