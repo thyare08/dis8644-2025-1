@@ -4,7 +4,7 @@
 
 Aplicaremos lo aprendido a otros chips y saldremos de lo sonnoro para adentrarnos en la luz y el movimiento
 
-Un modulo es un chip con las soldaduras hechas usaremos un modulo relé 5
+Un módulo es un chip con las soldaduras hechas,usaremos un modulo relé 5
 
 ![moduloRele5]( https://github.com/AlanisMria/dis8644-2025-1/blob/main/27-AlanisMria/sesion-09b/archivos/moduloRele5.jpg)
 
