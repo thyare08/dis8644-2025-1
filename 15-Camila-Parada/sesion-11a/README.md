@@ -40,7 +40,16 @@ Hoy vamos a ver un motor que funcione con chips 555 y pmw. Para eso armamos el c
 
 ![alt text](./archivos/01.jpeg)
 
+A su vez se nos entregó una serie de piezas: 
 
+![alt text](./archivos/02.jpeg)
+
+- Transistor Mosfet (TO-220):
+- 
+
+Además de un motor.
+
+![alt text](./archivos/03.jpeg)
 
 ***
 
