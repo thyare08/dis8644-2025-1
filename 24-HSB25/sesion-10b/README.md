@@ -1,5 +1,7 @@
 # sesion-10b
 
+EN ESTA CLASE no pude asistir debido a que me encontraba fuera de Santiago por problemas de fuerza mayor, pero de igual manera quize hablar con mis compañeros para saber que paso en la clase.
+
 Para comenzar, cada uno de nosotros armó un circuito PWM con un LED de diferente color: rojo, verde o azul, respectivamente.
 
 Notamos que, para el LED verde, una resistencia de 1kΩ podría ser excesiva, por lo que decidimos reemplazarla por una de 220Ω para mejorar su brillo. Esto es relevante porque el ojo humano es especialmente sensible a la luz verde, por lo que percibimos este color con mayor intensidad.
@@ -27,3 +29,7 @@ LM324N: Contiene cuatro OP-AMPs en un solo encapsulado.
 
 - Pinout y documentación
 Cuando se busca información de un chip, como el LM324N, se recomienda escribir “pinout” junto al nombre en buscadores. Así se accede rápidamente al esquema de conexiones sin tener que buscar el significado de cada pata individualmente.
+
+# Construcción del UDPUDU
+
+![UDPUDU1](https://media.discordapp.net/attachments/1318882679659171892/1372986482549198918/IMG_7502.jpg?ex=682d620e&is=682c108e&hm=a647956703994809dbbd3ef9a9497edbcc142c056328215d014d595cbd6b7c37&=&format=webp&width=875&height=544)
