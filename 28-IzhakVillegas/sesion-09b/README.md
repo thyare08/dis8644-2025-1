@@ -43,6 +43,8 @@ Se genera un promedio:
 
 Tomar el circuito que simulamos en tinkercad y traspasarlo a protoboard, usando los componentes del kit de materiales.
 
+
+<a href="https://github.com/IzhakVillegas/dis8644-2025-1/raw/main/28-IzhakVillegas/sesion-09b/archivos/555kicadaplicado.mp4" class="download-btn" download> Descargar Video </a>
 <video src="./archivos/555kicadaplicado.mp4" width= 400></video>
 
 ## encargo-19: cultura electrónica y laurie anderson
