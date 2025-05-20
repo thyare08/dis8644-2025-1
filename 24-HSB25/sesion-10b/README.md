@@ -115,7 +115,7 @@ Alimentación
 
 # Circuito de UDPUDU
 
-![sch-pudu](./archivos/udpudu-sch.png)
+![sch-pudu](https://raw.githubusercontent.com/disenoUDP/dis8644-2025-1/refs/heads/main/00-docentes/sesion-10b/archivos/udpudu-sch.png)
 
 
 
