@@ -86,7 +86,7 @@ Raíces ramas, alas de murciélagos, todo aquello que aterroriza se convierte en
 
 Durante su discurso mostro distintas actividades que realizo junto a estudiantes en la universidad, como por ejemplo el rediseño de portadas de disco, dandole un vuelco hacía el metal o la creacioon de memes.
 
- 
+ ![logoluismiguel](https://github.com/AlanisMria/dis8644-2025-1/blob/main/27-AlanisMria/sesion-09b/archivos/logo%20luis%20miguel.jpg)
 
 ### Lord of the logos
 
@@ -112,11 +112,19 @@ A finales de los años 80 descubrio a autores de diferentes logotipos de metal, 
 
 Empezando en 1989 con **Epitaph**
 
+![logodeEpitaph](https://github.com/AlanisMria/dis8644-2025-1/blob/main/27-AlanisMria/sesion-09b/archivos/logo%20de%20Epitaph.jpg)
+
 Elementos del art nouvo, el minimalismo, psicodélicos, art deco, tipografías orientales y arábicas
 
+![tiposdelogos](https://github.com/AlanisMria/dis8644-2025-1/blob/main/27-AlanisMria/sesion-09b/archivos/tipos%20de%20logos.jpg)
 
 Ambigramas (logos que se pueden leer en ambos sentidos)
 
+![ambigramas](![tiposdelogos](https://github.com/AlanisMria/dis8644-2025-1/blob/main/27-AlanisMria/sesion-09b/archivos/tipos%20de%20logos.jpg))
+
+Actualmente existen distintas maneras de crear logos 
+
+![diversificación](https://github.com/AlanisMria/dis8644-2025-1/blob/main/27-AlanisMria/sesion-09b/archivos/diversificaci%C3%B3n.jpg)
 
 Como trata con sus clientes? (punto inportante para los diseñadores)
 
@@ -135,3 +143,4 @@ Trabaja con diseñadores gráficos para vectorizar  el  trabajo.
 
 Finalizó la charla cantando una canción, en la cual termino diciendo *¡Slava Ukraini, Heroyam Slava!*, el cuál por lo que investigué es un grito Ucraniano que significa *Gloria a ucrania, gloria a los héroes*.
 
+![videocanción](https://github.com/AlanisMria/dis8644-2025-1/blob/main/27-AlanisMria/sesion-09b/archivos/video%20canci%C3%B3n.mp4)
