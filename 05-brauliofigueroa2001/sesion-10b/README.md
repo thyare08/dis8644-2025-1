@@ -48,3 +48,10 @@
 
 ### encargo 22: documentación textual del proceso de ensamblado de udpudu
 
+**a continuación se describirán los pasos a seguir para el montaje de ensamblado de udpudu**
+
+- el primer paso que se realizó fue reunirse en grupos de 4 personas para poder trabajar de manera más rápida y en equipos, la idea es que cada uno realizara una labor
+- como grupo lo primero que hicimos fue revisar el BOM (bill of materials) de udpudu en github, de esta forma reunimos todos los componentes que necesitaban nuestras placas pcb
+- reunimos la cantidad de componentes para que nos alcanzaran para todas las placas de nuestro grupo
+- cada placa necesitaba utilizar: 
+
