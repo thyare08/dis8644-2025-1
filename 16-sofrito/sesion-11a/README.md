@@ -56,8 +56,6 @@ ps: power supply
 transfo. * accesible
          * recargable
          * voltaje 5v 
-     
-traer el viernes una power balk y un cable usb para romper 
 
 
 ## encargo-22: documentación textual del proceso de ensamblado de udpudu
