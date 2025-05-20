@@ -33,3 +33,68 @@ Cuando se busca información de un chip, como el LM324N, se recomienda escribir 
 # Construcción del UDPUDU
 
 ![UDPUDU1](https://media.discordapp.net/attachments/1318882679659171892/1372986482549198918/IMG_7502.jpg?ex=682d620e&is=682c108e&hm=a647956703994809dbbd3ef9a9497edbcc142c056328215d014d595cbd6b7c37&=&format=webp&width=875&height=544)
+
+![UDPUDU2](https://media.discordapp.net/attachments/1318882679659171892/1372983252595507240/IMG_1379.jpg?ex=682d5f0c&is=682c0d8c&hm=1aca4c280414162260958b3e354fa6b598cc3c5775020a9908dba27a67c93278&=&format=webp&width=408&height=544)
+
+![UDPUDU3](https://media.discordapp.net/attachments/1318882679659171892/1372983253551677591/IMG_1384.jpg?ex=682d5f0c&is=682c0d8c&hm=c2aa89c3467024f0dd374b5ba24f3a94eef85b1e13d3202e9a5c685ba87389f9&=&format=webp&width=725&height=544)
+
+# ¿Que es?
+
+Es un generador de sonido breve que se activa con una señal de entrada. Usa un temporizador 555 para generar un pulso y hacer sonar un buzzer o altavoz por un momento. También enciende un LED para mostrar visualmente que se activó.
+
+# Componentes principales
+
+Alimentación
+
+- J2: Conector para la alimentación de +9V.
+
+- D1 (1N4007): Diodo que protege el circuito de una conexión de voltaje invertido.
+
+- SW1 (switch): Interruptor que enciende o apaga el circuito.
+
+- VCC / GND: Tensión positiva y tierra.
+
+- J1 y J3 (CAIMAN): Entradas donde se puede aplicar un pulso o señal externa para activar el circuito.
+
+- R2 (1k): Limita la corriente de la señal de entrada.
+
+- C4 (1uF): Filtra o desacopla la señal para evitar falsos disparos.
+
+- 555 Es el corazón del circuito. Está configurado en modo monoestable, lo que significa que cuando recibe una señal en el pin TR (2), activa una salida por un tiempo corto.
+
+- C3 (100nF): Estabiliza el voltaje en el pin 5 (CV).
+
+- Los pines 2 y 6 están conectados juntos para detectar el pulso de activación.
+
+- Pin 3 (Q): Es la salida que se activa temporalmente.
+
+- R3 (1k): Limita la corriente hacia el LED y el altavoz.
+
+- D2 (LED): Enciende cuando la salida del 555 está activa (indica visualmente la señal).
+
+- C5 (47uF): Filtra y suaviza la señal hacia el altavoz.
+
+- LS1 (SPK): Altavoz que emite un sonido cuando se activa el circuito.
+
+- D3 (LED) y R4 (1k): Indican que el circuito está encendido (conectado a VCC).
+
+# ¿Cómo funciona todo junto?
+
+1. Conectas 9V y enciendes el interruptor (SW1).
+
+2. El LED de encendido (D3) se ilumina.
+
+3. Cuando llega una señal al pin J1 o J3, el 555 se activa.
+
+4. Durante un corto tiempo:
+
+5. Se enciende el LED D2.
+
+6. Suena el altavoz LS1 con un “bip” o “zumbido”.
+
+7. Luego de ese tiempo, el 555 vuelve a su estado inactivo, apagando el LED y el sonido.
+
+
+
+
+
