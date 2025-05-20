@@ -9,6 +9,7 @@
 
 ## encargo-22: documentación textual del proceso de ensamblado de udpudu / encargo-23: documentación visual del proceso de ensamblado de udpudu
 <ins> Paso 1: </ins> Vamos a agarrar y ordenar nuestros componentes, según lo que indica en el BOM, asegurándonos de que sean de los valores adecuados.
+![Foto con todos los componentes ordenados](./sesion10b/archivos10b-encargo22&23-(1))
 
 
 <ins> Paso 2: </ins> Como primer componente a soldar, tomamos nuestro DIP Socket de 8 patas, que será colocado al centro, donde está la serigrafía de U1. Este componente no tiene polaridad, así que no causa problema en qué dirección sea fijado, mientras que las 8 patas sean insertadas en los agujeros correspondientes de la PCB.
