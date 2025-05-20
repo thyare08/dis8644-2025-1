@@ -1,4 +1,5 @@
 # sesion-07b 25/04
+
 ## Apuntes
 
 ![IMG_1040](https://github.com/user-attachments/assets/3b3ac116-e94a-458c-8032-5d5db30e4426)
@@ -19,8 +20,8 @@
  |W|Cables|
  |X|Reflejar eje x|
  |Y|Reflejar eje y|
- 
-## encargo-16: cotizar udpudu en JLCPCB de forma productiva 
+
+## encargo-16: cotizar udpudu en JLCPCB de forma productiva
 
 hacerse una cuenta en JLCPCB y cotizar udpudu, para 30 personas, documentar cada parámetro y elección.
 
@@ -37,9 +38,9 @@ hacerse una cuenta en JLCPCB y cotizar udpudu, para 30 personas, documentar cada
 probar opciones que no entiendan, documentar otros parámetros que no conozcan aún.
 
 **1. cotización sin cambios**
-   
+
 <img width="1470" alt="cotizacionsincambio" src="https://github.com/user-attachments/assets/c0b92429-c927-4624-bcad-bbe80c051e3f" />
-   
+
 **2. peso exterior de cobre**
 
 <img width="1470" alt="pesoexcobre" src="https://github.com/user-attachments/assets/45ba8841-5c63-4a50-bd72-afe9160d27d2" />
@@ -47,4 +48,3 @@ probar opciones que no entiendan, documentar otros parámetros que no conozcan a
 **3. relleno y tapado con epoxi**
 
 <img width="1470" alt="rellenotapadoepoxi" src="https://github.com/user-attachments/assets/877ddd2d-1a3b-422d-b295-99be65806a01" />
-

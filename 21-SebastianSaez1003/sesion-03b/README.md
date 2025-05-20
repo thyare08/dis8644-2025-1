@@ -1,6 +1,6 @@
 # sesion-03b
 
-### Módulo de la mañana
+## Módulo de la mañana
 
 Como hacer algo más serio, KiCad, todos los caminos llevan a KiCad, herramienta para crear esquemáticos.
 
@@ -26,7 +26,7 @@ Jorge González voló a Nueva York luego de un momento difícil en su vida para 
 
 A González le nació el explorar el género de la cumbia por nostalgia de su infancia, donde era tocada esta música en vivo en las calles donde vivía y una dedicada escucha.
 
-La mezcla de la música electrónica fue un proyecto que le propuso a Schopf y compañía, mezclando los clásicos con electrónica en un álbum.Este fue un álbum con una participación de Matrin Schopf, aka Atom Heart, y Jorge Gonzales de "Los Prisioneros", con un proceso positivo en el que cada colaborador se apoyaba y complementaba.
+La mezcla de la música electrónica fue un proyecto que le propuso a Schopf y compañía, mezclando los clásicos con electrónica en un álbum.Este fue un álbum con una participación de Matrin Schopf, aka Atom Heart, y Jorge González de "Los Prisioneros", con un proceso positivo en el que cada colaborador se apoyaba y complementaba.
 
 “La única manera de que la música tecno entrara a Sudamérica era que Sudamérica entrara en ella". – Martín Schopf / Jorge González
 
