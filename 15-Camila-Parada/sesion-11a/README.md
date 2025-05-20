@@ -38,7 +38,7 @@ APC (atari punk console), Brilla LED, ON/OFF Ampolleta, Sinte Rexp (UDPUDU)
 
 Hoy vamos a ver un motor que funcione con chips 555 y pmw. Para eso armamos el circuito PWM/Brillo LED.
 
-![alt text](./archivos/01.jpg)
+![alt text](./archivos/01.jpeg)
 
 
 
