@@ -32,13 +32,13 @@
 
 ### PCB udpudu
 
-- llegaron las PCBs udpudu que habían encargado a China hace algunas clases y nos mostraron una lista de personas a las que se las van a regalar.
-- en esta clase tuvimos que seleccionar los componentes y probar el circuito en la protoboard.
-- una vez elegidos los componentes, los ordenamos para soldarlos con estaño.
+- llegaron las PCBs udpudu que habían encargado a China hace algunas clases y nos mostraron una lista de personas a las que se las van a regalar con y sin soldar.
+- en esta clase tuvimos que seleccionar los componentes y probar como queriamos que sonara el circuito en la protoboard.
+- una vez que todos los componentes estaban elegidos y funcionaban correctamente, los ordenamos para soldarlos con estaño.
 
 ![tme-sesion10b-pcb01](https://github.com/user-attachments/assets/7f3f5dc3-2774-4c02-a4ab-68a86d3e7c4c)
 
-- formamos un grupo de tres personas y trabajamos de manera fordiana: una soldaba, otra cortaba el sobrante de los componentes y la tercera tomaba fotos y registraba el proceso.
+- formamos un grupo de tres personas y trabajamos de manera fordista: una posicionaba los componentes, doblando las patillas para que quedaran más firmes, y los soldaba; otra cortaba el sobrante de los componentes, y la tercera tomaba fotos y registraba el proceso.
 - alcanzamos a soldar todos los componentes que teníamos, pero faltó el switch SPDT, que aún no había llegado.
 - como faltaron algunas partes, no alcanzamos a probarla, así que en la próxima clase vamos a hacerlo.
 
