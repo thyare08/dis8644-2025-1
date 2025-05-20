@@ -1,6 +1,6 @@
 # sesion-11a
 
-#ENCARGO 22: Documentación textual del proceso de ensamblado de UDPUDU
+# ENCARGO 22: Documentación textual del proceso de ensamblado de UDPUDU
 
 ![UDPUDUIMG](https://raw.githubusercontent.com/disenoUDP/dis8644-2025-1/main/00-docentes/sesion-10b/archivos/udpudu-pcbRef.png)
 
