@@ -30,11 +30,9 @@ Imagen tomada en mi clase de Inglés en la facultad de Manuel Rodriguez, en la s
 
 # Encargo 21: Simulación de circuitos con 555 y/o comparadores hechos con opamps en Falstad
 
-Realizar algun circuito visto en clases con chip555.
+Realizar el circuito PWN visto en clases en Falstad
 
-PWN
-
-Captura de pantalla 2025-05-15 183915
+![Captura de pantalla 2025-05-19 222752](https://github.com/user-attachments/assets/beaee0ad-3213-4a20-a452-d38723fe8dc8)
 
 Código
 
