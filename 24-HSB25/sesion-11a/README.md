@@ -116,6 +116,19 @@ Comienza por los componentes más pequeños:
 
 - Este es un gran ejemplo de cómo integrar diseño y electrónica básica en un solo proyecto educativo.
 
+# ENCARGO 23: Documentación visual del proceso de ensamblado de UDPUDU
+
+Las fotos que subire no son de autoria mia ya que, como comente no asisti a la clase pero de igual manera me informe con varios compañeros para poder saber que hicieron en la clase.
+
+![udpudu00](https://media.discordapp.net/attachments/1318882679659171892/1372987354020577431/IMG_7488.jpg?ex=682d62de&is=682c115e&hm=cb81dfef37076724ecd010b6c60a24b332eb3c42e5507f38dc6cb1810f5d4b33&=&format=webp&width=859&height=544)
+
+![udpudu01](https://media.discordapp.net/attachments/1318882679659171892/1372972648065138829/20250516_122212.jpg?ex=682d552b&is=682c03ab&hm=c4f03c4eaf30b9451d9ca0b06a229973758799c347510366e6969bdb918d6ef0&=&format=webp&width=725&height=544)
+
+![udpudu02](https://media.discordapp.net/attachments/1318882679659171892/1372977746744967229/IMG_2286.jpg?ex=682d59eb&is=682c086b&hm=799318e90865326e674e7a46970f855333a467f63a94f1e1c423f6c5819b36fd&=&format=webp&width=736&height=552)
+
+![udpudu03](https://media.discordapp.net/attachments/1318882679659171892/1372978615909879869/IMG_1392.jpg?ex=682d5aba&is=682c093a&hm=94711f9d4bd5cadd8ddd1260b7697d1eb6896727f0c57511f48f795c08324da0&=&format=webp&width=408&height=544)
+
+![udpudu04](https://media.discordapp.net/attachments/1318882679659171892/1372987063162507395/IMG_7516.jpg?ex=682d6298&is=682c1118&hm=1625613a83fe0090a68d67ae1c5dd5c92cdf832035eef4654f5fbd5cc4458c8f&=&format=webp&width=736&height=552)
 
 
 
