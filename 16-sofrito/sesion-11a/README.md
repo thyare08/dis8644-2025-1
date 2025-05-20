@@ -1,5 +1,66 @@
 # sesion-11a
-encargo-22: documentación textual del proceso de ensamblado de udpudu
+20/05/2025
+**Componentes:**
+* r          * +9vol
+* c          * led
+* d          * op-amp
+* ic         * ldr
+* pot        * relé
+* bat        * proto
+* ps         * sn (estaño)
+* pcb        * perfboard
+
+**Circuitos:**
+*APC
+*PWM
+*astable + monostable = APC 
+
+**Aplicaciones:**
+* apc
+* brillo - led
+* on/off - ampolleta
+* sinte - udpudu
+
+## Estudio de chips y modulos
+Día de hoy: uso de motor 
+
+transistor mosfet: tiene 3 patas, envía una señal para dejar pasar la energía. Controla el flujo y se activa solo con un voltaje de entrada
+
+<img width="538" alt="Captura de pantalla 2025-05-20 a la(s) 11 59 55 a m" src="https://github.com/user-attachments/assets/c5429569-fe9b-417c-ba9a-9056cab15d57" />
+
+motor pwm: la velocidad o potencia del motor se ajusta al variar el ancho de los pulsos de voltaje que se le suministran, en lugar de variar la tensión de forma continua. 
+
+<img width="538" alt="Captura de pantalla 2025-05-20 a la(s) 12 01 59 p m" src="https://github.com/user-attachments/assets/e834d21e-12d2-4060-835e-7089c33935ae" />
+
+conectar al circuito a un transistor que se conecta a un motor.
+
+<img width="538" alt="Captura de pantalla 2025-05-20 a la(s) 12 02 47 p m" src="https://github.com/user-attachments/assets/940674a3-9faf-492f-8575-2e74fa4538e8" />
+
+<img width="538" alt="Captura de pantalla 2025-05-20 a la(s) 12 03 35 p m" src="https://github.com/user-attachments/assets/80985710-d376-47af-a9b4-d159a968ee41" />
+
+https://github.com/user-attachments/assets/e2bf2f33-2f52-4a92-a823-d0fa2a2c49e9
+
+luego se cambió el potenciometro por un ldr y una resistencia 
+
+<img width="544" alt="Captura de pantalla 2025-05-20 a la(s) 12 29 58 p m" src="https://github.com/user-attachments/assets/2e1cb681-bab8-4b1b-8cee-035ff27a9033" />
+
+ps: power supply 
+
+* 9v - * portátil
+       * accesible
+       * recargable
+       * alto voltaje
+
+* usb -  * portátil (power balk)
+   o
+transfo. * accesible
+         * recargable
+         * voltaje 5v 
+     
+traer el viernes una power balk y un cable usb para romper 
+
+
+## encargo-22: documentación textual del proceso de ensamblado de udpudu
 
 Herramientas y materiales necesarios:
 
@@ -85,3 +146,12 @@ IMPORTANTE: tomar la pata que se cortará para que no salte ni mate a nadie.
 <img width="895" alt="Captura de pantalla 2025-05-19 a la(s) 10 12 39 p m" src="https://github.com/user-attachments/assets/0e560c28-e727-485e-a3ae-6ae44d97dd30" />
 
 *foto por @/ AlanisMria en discord*
+
+
+
+
+
+
+
+
+
