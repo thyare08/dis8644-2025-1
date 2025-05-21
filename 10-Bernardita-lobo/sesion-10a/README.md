@@ -50,4 +50,7 @@
 
 ### 21-Simulación de circuitos con 555 y/o comparadores hechos con opamps en Falstad
 
-- simular circuitos que hemos visto en clases con chips 555 y/o circuitos comparadores usando el simulador de Falstad.
+- simular circuitos que hemos visto en clases con chips 555, usando el simulador de Falstad.
+
+![tme-sesion10a-falstad](https://github.com/user-attachments/assets/c1c47e15-9ada-4b42-bdb7-ec931fabcab8)
+
