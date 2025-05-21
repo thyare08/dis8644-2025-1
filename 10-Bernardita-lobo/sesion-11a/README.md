@@ -4,7 +4,19 @@
 
 ### Cosas que hablamos en la mañana
 
-- misa nos conto su primera experiencia en un consierto de arte electronico, que era de arrastrar objetos
-- centro cultural españa
-- poeta sonoro, Vicente Huidobro, libro altazor
-- ursonate de kurt schwitters, Blonk performs Ursonate with real-time typography <https://youtu.be/rs0yapSIRmM?si=aofZW6TIdwVUOGRD>
+- Misa nos contó su primera experiencia en un concierto de arte electrónico, que consistía en arrastrar objetos.
+- Centro Cultural de España
+- Poeta sonoro, Vicente Huidobro, libro Altazor.
+- Ursonate de Kurt Schwitters <https://youtu.be/rs0yapSIRmM?si=aofZW6TIdwVUOGRD>
+- Movimiento dadaísta, cuestionaba los valores tradicionales del arte y la lógica.
+- Alfabeto fonético, uso por fonoaudiólogo.
+- MUSIC 6 1 2024 <https://www.youtube.com/watch?v=tO4WYX424rw>
+- Patch and tweak <https://www.patchandtweak.com/>
+- Caterina Barbieri, compositora italiana
+- Patterns of concern
+- Filosofía del arte y estética. https://discordapp.com/channels/1259953568446808144/1318882679659171892/1374450801929355316
+
+## Encargo
+
+- No hay encargo por semana de solemnes.
+- Próxima clase: traer powerbank o transformador USB-A y un cable con USB-A por un extremo para romper.
