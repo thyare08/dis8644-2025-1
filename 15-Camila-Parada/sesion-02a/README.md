@@ -85,6 +85,16 @@ Esto se puede ver realizando experimentos con la protoboard, una batería, resis
 
 ***
 
+### Encargo 04: Pueblo nuevo
+
+
+Este encargo []()
+
+
+
+<br>
+***
+
 ### Posdata
 
 En proceso... ૮◞ ﻌ ◟ა

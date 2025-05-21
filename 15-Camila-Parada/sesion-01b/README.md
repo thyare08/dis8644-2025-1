@@ -28,7 +28,7 @@
         <br>
  <h1> Encargos y tareas 18 marzo 2025 </h1>
         <br>
-    <h2> 1. Encargo 01B: Kit de electrónica </h2>
+    <h2> 1. Encargo 03: Kit de electrónica </h2>
     <br>
         <img src="./image/IMG_8313.jpeg">
     <br>
@@ -52,13 +52,15 @@
         <li>Buzzer magnetico: se utiliza para generar música simple o como parte de la interfaz de usuario.</li>
         </ol>
         <br>
-    <h2> 2. Tarea extra 01A.1: Aphex Twin - Come to Daddy </h2>
+    <h2> 2. Encargo 02.1 : Aphex Twin - Come to Daddy </h2>
         <p>Este álbum del 1997 cuenta con 8 canciones y tiene una duración aprox. de 33 minutos. Los videos fueron dirigidos por Chris Cunnignham. En este album se usaron ordenadores, sintetizadores de software, generando música a través de voces computerizadas. Originalmente lo temas se distribuyeron en 2 CDs separados: WAP94CD y WAP94CDR, más tarde estas versiones serían reemplazadas por un solo EP: WAP94CDX. El género de este álbum es electrónico IDM (Intelligent dance music) con los estilos Drum n Bass, Experimental, Abstract, Breaks.</p>
         <br>
         <p>¿Cuál es mi canción favorita del álbum?</p>
         <p>Flim: Canción instrumental, suave, me recuerda a los sonidos de canciones de cuna. Es armoniosa, y tranquila, cálida, los ritmos pronunciados son calmados.</p>
         <br>
         <p>Sobre el artista</p>
-        <p>Richard David James es el Dj y productor detrás de esta banda. De origen irlandés y nacionalizado británico. Desde el 1983 que se dedica a la música de forma profesional, y desde los 12 años que comenzó componer. Sus instrumentos suelen ser un teclado y un sintetizador. Estudió ingeniería.</p>
+        <p>Richard David James es el Dj y productor detrás de esta banda. De origen irlandés y nacionalizado británico. Desde el 1983 que se dedica a la música de forma profesional, y desde los 12 años que comenzó componer. Sus instrumentos suelen ser teclado y sintetizadores (Yamaha DX7/DX100). Estudió ingeniería en.</p>
+        <br>
+    <h2> 3. Encargo 02.2 : </h2>
     </body>
 </html>
