@@ -25,7 +25,10 @@ Son formatos de colores utilizados en programas de diseño de ilustraciones, edi
 El comparador cuando está operando en modo comparador (modo resta con la antorcha frontal encendida), compara la intensidad de la señal de redstone en sus terminales laterales y principal. </br> &nbsp;&nbsp;&nbsp;&nbsp;Si la senal en su terminal A es mayor a la intensidad de la terminal B, el comparador dejará pasar la señal A (output)</br> &nbsp;&nbsp;&nbsp;&nbsp;Si la señal de la terminal A es igual o inferior a la señal de la terminal B, entonces no dejará que pase la señal</br>  
 <img align="left" src="./archivos/MCcomp1.jpg" width=320><img align="left" src="./archivos/MCcomp2.jpg" width=320><img align="left" src="./archivos/MCcomp3.jpg" width=320></br></br></br></br></br></br></br></br></br></br>
 > ### LM324 op amp
-><img align="left" src="./archivos/LM324-pinout.jpg" width=300></br> Este Op Amp (Operational Amplifier) está compuesto por 4 comparadores (LM741 x 4)</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+><img align="left" src="./archivos/LM324-pinout.jpg" width=300></br> Este Op Amp (Operational Amplifier) está compuesto por 4 comparadores (LM741 x 4)</br></br></br></br></br></br></br></br></br></br>
+<img align="left" src="./archivos/compSymb1.jpg" width=300><img align="left" src="./archivos/compSymb2.jpg" width=229></br></br></br></br></br></br></br></br></br></br></br>
+
+
 ### Voltaje negativo
 
 ### Micrófono Electret
