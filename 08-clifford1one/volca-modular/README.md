@@ -29,7 +29,7 @@ Exposición a la luz del sol, temperaturas exctremas, exceso de polvo/suciedad, 
 
 ## Interfaz
 
-![Diagrama de la interfaz del volca modular divido en 4 zonas](vm-intfaz-diagrama.png)
+![Diagrama de la interfaz del volca modular divido en 4 zonas](volca-modular/images/vm-intfaz-diagrama.png)
 
 ### setup
 
