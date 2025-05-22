@@ -89,7 +89,7 @@ Cada módulo cuenta con sus propias entradas(IN) y salidas(OUT). Éstas se difer
 Contorno con relleno = OUT
 contorno sin relleno = IN 
 
-![diagrama de partes con y sin contorno](vm-contorno-diag.png)
+![diagrama de partes con y sin contorno](images/vm-contorno-diagrama.png)
 
 ### señales
 
@@ -102,7 +102,12 @@ los modulos se comunican mediante señales que varían entre 3V y -3V. el volca 
 
 ### módulos
 
-##### source: 
+![diagrama de partes con y sin contorno](images/vm-modulos-color.png)
+
+##### source(verde): 
+
+![](images/vm-source-diagram.png)
+
 
 "Este módulo consta de un par de VCO triangulares (osciladores controlados por voltaje), uno llamado “carrier” (transportador) y el otro “modulator” (modulador). La señal generada por el modulador se utiliza para variar la frecuencia del transportador, y este proceso se denomina modulación de frecuencia (FM). La modulación de frecuencia permite a los usuarios crear sonidos con gran riqueza de contenido armónico, y frecuentemente con una característica metálica. La señal de salida pasa después a través de un circuito doblador de ondas controlado por el mando FOLD que invierte la forma de la onda a ciertos umbrales con el fin de aumentar aún más el contenido armónico."
 
@@ -110,7 +115,9 @@ los modulos se comunican mediante señales que varían entre 3V y -3V. el volca 
 
 - OUT: modulator, carrier
 
-#### function
+#### function(azul)
+
+![](images/vm-functions-diagram.png)
 
 **AHR** (parte izquierda):
 
@@ -137,7 +144,9 @@ modulación continua, de manera similar a un LFO."
 - IN: trigger, shape, time
 - OUT: positive, inverted, end trigger
 
-#### sequences 
+#### sequences (rosado)
+
+![](images/vm-clock-diag.png)
 
 "Este módulo es la interfaz con el secuenciador
 interno.
@@ -154,7 +163,9 @@ secuenciador en +/- 20 BPM."
 - IN: clock offset
 - OUT: fourth, third, half, gate, pitch
 
-#### woggle
+#### woggle (morado)
+
+![](images/vm-woggle-diag.png)
 
 "Este módulo es un circuito de muestreo y mantenimiento (sample
 and hold) predeterminado para muestrear una fuente de ruido
@@ -169,7 +180,9 @@ suave en vez de saltar inmediatamente al siguiente valor muestreado."
 - IN: sample, trigger
 - OUT: stepped, smooth
 
-#### split
+#### split (amarillo)
+
+![](images/vm-split-diag.png)
 
 "Este módulo duplica una entrada a dos salidas diferentes, de modo que una señal
 pueda ser dividida y conectada a más de una salida. También es posible utilizar este
@@ -179,7 +192,9 @@ combinando dos señales de control o de audio en una."
 - IN:input 1, input2
 - OUT: output 1-A, output 1-B, output 2-A, output 2-B
 
-#### dual LPG
+#### dual LPG (rojo)
+
+![](images/vm-dualLpg-diag.png)
 
 "Estos son dos circuitos de puerta de paso bajo
 individuales que consisten en la combinación de un
@@ -193,7 +208,9 @@ mediante el mando CUTOFF."
 - IN: signal, level
 - OUT: signal
 
-#### utility
+#### utility (naranjo)
+
+![](images/vm-utility-diag.png)
 
 "Este módulo permite combinar y atenuar las señales
 de varias maneras. 'c' se utiliza para atenuar la entrada 'b', y el resultado se suma a
@@ -207,6 +224,8 @@ puede aplicar una compensación de voltaje fija a 'a' controlando el valor de 'c
 
 #### space out
 
+![](images/vm-spaceOut-diag.png)
+
 "Este módulo aplica un efecto espacial digital a la señal de
 audio de entrada y envía el audio al jack de auriculares y
 al altavoz interno. La salida se puede utilizar para hacer
@@ -216,6 +235,49 @@ entrada."
 - IN: audio, amount
 - OUT: audio
 
+![referencia de los pines](images/vm-moduleReference1.png)
+
+
+### patchs
+
+dependiendo de cuáles pines  y en qué orden estén conectados, se lograrán disntitos sonidos. A éstas configuraciones se les llaman “patchs”. El patch define el flujo que sigue la corriente y qué módulos se ven involucrados.
+
+Explorar los patch permite entender el comportamiento de los módulos y como éstos afectan al sonido resultante. KORG ofrece una serie de ejemplos básicos.
+
+![ejemplo "Western Bongo"](images/vm-example1.png)
+Western Bongo
+Un sonido de percusión metálica producido mediante modulación FM y un wave folder. Se trata de un sonido básico del módulo SOURCE.
+
+![ejemplo "Random Release"](images/vm-example2.png)
+Random Release
+El tiempo de liberación del generador ADH es variado al azar mediante sample & hold, aplicando un ritmo orgánico a la secuencia.
+
+![ejemplo "Gate Math"](images/vm-example3.png)
+Gate Math
+Se mezcla sustractivamente un contador de puerta de una frecuencia diferente. El mando UTILITY controla la cantidad de la mezcla, variando el ritmo del cambio tonal.
+
+![ejemplo "Polyrhythmic Duo"](images/vm-example4.png)
+Polyrhythmic Duo
+El modulador de FM se obtiene como audio de onda triangular, y haciéndola pasar por una función de puerta de paso bajo que es independiente del portador, se superponen polirrítmicamente dos tipos de frases.
+
+![ejemplo "Generative"](images/vm-example5.png)
+Generative
+Se realiza un bucle del generador de ascenso-caída para crear un LFO que modula el tono y el corte. Puesto que la velocidad del LFO cambia irregularmente, se produce una variedad de caracteres tonales.
+
+![ejemplo "Walking Bass"](images/vm-example6.png)
+Walking Bass
+Una onda triangular con el tono disminuido suena con una frecuencia baja mediante el contador de puerta. Esto hace que el bajo se añada a la secuencia principal una vez cada cuatro pasos.
+
+![ejemplo "Vibrato"](images/vm-example7.png)
+El LFO se utiliza para modular ligeramente el tono de una onda triangular, lo que permite tocar un suave sonido solista que recuerda sonoridades de cuerdas solistas. 
+
+![ejemplo "Dubsteo Bass"](images/vm-example8.png)
+El LFO modula el corte de la puerta de paso bajo, haciendo que suene un bajo FM con una sensación de movimiento. UTILITY y SPLIT se utilizan para reducir la velocidad del LFO cuanto más bajo sea el tono.
+
+
+Cuando quieres compartir y/o replicar un patch específico, es importante documentarlo. Si bien la página del volca modular propone estos diagramas para documentar los patch, hay una simbología que se propone en el libro "Patch and Weaks" que vale la pena mencionar.
+
+![diagrama de la simbología propuesta en "Patch and Tweaks"](images/vm-patchAndTweaks.png)
 
 ## Secuenciador
 
@@ -263,3 +325,5 @@ para ver el resto de funciones especiales visitar el manual de uso del volca mod
 )
 
 - [synthesizers wikipedia's page](https://en.wikipedia.org/wiki/Synthesizer)
+
+- Bjooks. (2021). Patch & Tweak: The Book. Thomann.
