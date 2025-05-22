@@ -45,7 +45,7 @@
 - Winget, su equivalente en Windows, también para instalar herramientas por línea de comandos.
 - Automatización con Python
 
-### hithub
+### github
 
 - repasamos cómo hacer un issue para pedir que evalúen bitácoras o encargos.
 - GitHub Desktop, para clonar el repositorio.
@@ -53,3 +53,14 @@
 - después de esto me perdí un poco, ya que fue mucha información.
 
 ![tme-sesion08a-hithub](https://github.com/user-attachments/assets/61378535-9435-4050-917c-a9381b8f3d33)
+
+## Encargo
+
+### Trabajo en casa
+
+- como mencioné, esta clase realmente no nos mandaron ningún tipo de encargo ni carga académica de ningún tipo :) 
+- durante este receso aproveché para ordenar mis apuntes y también le tomé fotos a un modelado que realicé en Rhino, el cual me sirve para organizar mis componentes.
+
+![tme-sesion08a-caja01](https://github.com/user-attachments/assets/07e43169-8e5f-4a1f-81e4-ba698f9b5649)
+
+![tme-sesion08a-caja02](https://github.com/user-attachments/assets/f8c929b7-697a-4b03-9cf6-881ab9e4d452)

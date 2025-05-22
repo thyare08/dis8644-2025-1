@@ -8,7 +8,7 @@ este es el esquemático del circuito base Atari Punk Console.
 ![error que me tira](tme-07a-schError.png)
 al ejecutar el EDR, me tira esos errores.
 
-busqué en internet, y según [este foro](https://forum.kicad.info/t/erc-falsely-reporting-pin-not-connected/32455/2) es posible que se deba a que algunos elementos no están alineados con la grilla. 
+busqué en internet, y según [este foro](https://forum.kicad.info/t/erc-falsely-reporting-pin-not-connected/32455/2) es posible que se deba a que algunos elementos no están alineados con la grilla.
 
 Intenté alinear los elementos a la grilla pero sigue saliendo el mismo error.
 

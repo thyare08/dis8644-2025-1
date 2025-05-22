@@ -2,21 +2,22 @@
 
 ![20250425_124142](https://github.com/user-attachments/assets/c4ba5843-a153-4c02-935d-726ea694ca2f)
 
-# Aprendimos:
-  - Más comandos para kicad, también a poner las huellas al inicio, para después solo duplicarlas
-    
-  - Redondear la placa, moviendo la línea un cuadrado para atrás (5 mm) y una línea curva
-    
-  - Saltar vías, al enrutar pistas podemos apretar V y la línea debe salir de color rojo
-    
-  - Envío a china, en JLCPBC
+## Aprendimos
 
-# KiCad
+- Más comandos para kicad, también a poner las huellas al inicio, para después solo duplicarlas
+
+- Redondear la placa, moviendo la línea un cuadrado para atrás (5 mm) y una línea curva
+
+- Saltar vías, al enrutar pistas podemos apretar V y la línea debe salir de color rojo
+
+- Envío a china, en JLCPBC
+
+## KiCad
 
 1. Esquemático
 ![Captura de pantalla 2025-04-28 220939](https://github.com/user-attachments/assets/340581e8-7bf5-49b7-b81f-82e8d7ef8849)
 
-2. Aignación de huellas
+2. Asignación de huellas
 ![Captura de pantalla 2025-04-28 220755](https://github.com/user-attachments/assets/05949763-2d47-4cdc-bdac-1e54944332c4)
 
 3. Enruté las pistas y rellené
@@ -27,7 +28,7 @@
 ![Captura de pantalla 2025-04-28 232022](https://github.com/user-attachments/assets/b3ad6c6c-bbb2-4751-a66d-04b0cd46a215)
 ![Captura de pantalla 2025-04-28 232032](https://github.com/user-attachments/assets/8f5ccb03-f050-4435-8fbb-fb2be634776f)
 
-5. Placa con textox, logo y pudu
+5. Placa con texto, logo y pudú
 ![Captura de pantalla 2025-04-28 233823](https://github.com/user-attachments/assets/5d490ff5-8a58-4340-a571-6df41108a8e8)
 
 6. Visor 3D con todo
@@ -43,12 +44,13 @@
 9. Probando con visibilidad de distintas capas
 ![Captura de pantalla 2025-04-28 235126](https://github.com/user-attachments/assets/bf906418-a7f5-4000-a994-a9f88a025b4f)
 
-**Encargo 16:** Cotizar udpudu en JLCPCB de forma productiva para 30 personas
+## encargo-16: Cotizar udpudu en JLCPCB de forma productiva para 30 personas
+
 ![Captura de pantalla 2025-04-28 235620](https://github.com/user-attachments/assets/6e8077ee-4ac3-4e50-ba7e-7d4263b6e418)
 
-**Encargo 17:** Cotizar udpudu en JLCPCB de forma experimental
+## encargo-17: Cotizar udpudu en JLCPCB de forma experimental
 
- - En estas cambié el color de la placa a morado y que fuera HASL sin plomo
+- En estas cambié el color de la placa a morado y que fuera HASL sin plomo
 ![Captura de pantalla 2025-04-28 235737](https://github.com/user-attachments/assets/1bf069ec-1c8d-4850-aad6-4ed854608490)
 ![Captura de pantalla 2025-04-28 235838](https://github.com/user-attachments/assets/8c26de97-b954-4724-93ec-ab301e635ef4)
 

@@ -138,17 +138,15 @@ Dado que en la clase se enseñó a como editar las placas PCB en el aspecto más
 
 ![IMG_8880](https://github.com/user-attachments/assets/a952218d-f417-426b-bdfb-f5993dc9a09f)
 
-_▼ Sitio web asociado: https://smokedprojects.blogspot.com/2014/01/valentine-led-chaser.html_
+_▼ Sitio web asociado: <https://smokedprojects.blogspot.com/2014/01/valentine-led-chaser.html>_
 
 <br>
 
-https://github.com/user-attachments/assets/99ced8d2-1dbc-48bc-a70e-326647521162
+<https://github.com/user-attachments/assets/99ced8d2-1dbc-48bc-a70e-326647521162>
 
-_▼ Video: https://youtu.be/UuvV8gj51LQ?si=0PgTeN-iXtJUCKnE_
+_▼ Video: <https://youtu.be/UuvV8gj51LQ?si=0PgTeN-iXtJUCKnE>_
 
 <br>
-
-
 
 #### Armored Trooper Votoms - iPhone case
 
@@ -156,23 +154,21 @@ _▼ Video: https://youtu.be/UuvV8gj51LQ?si=0PgTeN-iXtJUCKnE_
 
 ![IMG_8876](https://github.com/user-attachments/assets/08ecdb2c-be08-4ffa-a3aa-e31ae20c452d)
 
-_▼ Sitio web asociado: https://animeanime.global/2020/02/21/51644.html_
+_▼ Sitio web asociado: <https://animeanime.global/2020/02/21/51644.html>_
 
 <br>
 
-Esta es una placa diseñada para ser parte de una carcasa para iPhone. Por lo que informa la descripción posee un Led que se enciende sin usar batería, sino que hace uso de las ondas electrónicas del dispositivo móvil. El fabricante original se trata de "PBC Art Moeco" (https://pcbartmoeco.jp/), una empresa japonesa dedicada al diseño artístico sobre placas PBC para ser vendidas como carcasas funcionales. Posee muchas placas diseñadas con bastante precisión y belleza.
+Esta es una placa diseñada para ser parte de una carcasa para iPhone. Por lo que informa la descripción posee un Led que se enciende sin usar batería, sino que hace uso de las ondas electrónicas del dispositivo móvil. El fabricante original se trata de "PBC Art Moeco" (<https://pcbartmoeco.jp/>), una empresa japonesa dedicada al diseño artístico sobre placas PBC para ser vendidas como carcasas funcionales. Posee muchas placas diseñadas con bastante precisión y belleza.
 
 <br>
 
-
-
-#### Fabriquer un CIRCUIT IMPRIME TRANSPARENT!
+#### Fabriquer un CIRCUIT IMPRIME TRANSPARENT
 
 <br>
 
 ![IMG_8887](https://github.com/user-attachments/assets/6c927bd1-0efc-4bc5-84e4-b610de877735)
 
-_▼ Sitio web asociado: https://youtu.be/jvw5OCUHaqc?si=msLq55Niw6DOSVZI_
+_▼ Sitio web asociado: <https://youtu.be/jvw5OCUHaqc?si=msLq55Niw6DOSVZI>_
 
 <br>
 
@@ -180,15 +176,13 @@ Un video explicativo sobre como poder fabricar una placa PBC sobre vidrio u otro
 
 <br>
 
-
-
 #### Tristan Perich: 1-Bit Symphony
 
 <br>
 
 ![IMG_8878](https://github.com/user-attachments/assets/1e77e496-85de-4462-9408-81a979015d02)
 
-_▼ Sitio web asociado: https://www.tristanperich.com/#Album/1_Bit_Symphony_
+_▼ Sitio web asociado: <https://www.tristanperich.com/#Album/1_Bit_Symphony>_
 
 <br>
 
@@ -196,12 +190,11 @@ Una composición electrónica de "cinco movimientos" en un solo microchip. Curio
 
 <br>
 
-https://github.com/user-attachments/assets/beb47fe4-42c7-42db-b318-a0e984856fa1
+<https://github.com/user-attachments/assets/beb47fe4-42c7-42db-b318-a0e984856fa1>
 
-_▼ Video: https://youtu.be/XZEXX9Yezjw?si=8DT6FTZDOTIuLpw-_
+_▼ Video: <https://youtu.be/XZEXX9Yezjw?si=8DT6FTZDOTIuLpw->_
 
 <br>
-
 
 #### Pulsing Fluidic Heart Micropump
 
@@ -209,7 +202,7 @@ _▼ Video: https://youtu.be/XZEXX9Yezjw?si=8DT6FTZDOTIuLpw-_
 
 ![IMG_8883](https://github.com/user-attachments/assets/b2aceb74-a5dd-4210-a835-597568f688b7)
 
-_▼ Sitio web asociado: https://www.instructables.com/Fluidic-heart-micropump/_
+_▼ Sitio web asociado: <https://www.instructables.com/Fluidic-heart-micropump/>_
 
 <br>
 
@@ -217,13 +210,11 @@ Nuevamente, de este proyecto me fascina la simpleza que posee. Aunque no se trat
 
 <br>
 
-https://github.com/user-attachments/assets/386c253d-bace-4cff-a1e2-98ec8a553136
+<https://github.com/user-attachments/assets/386c253d-bace-4cff-a1e2-98ec8a553136>
 
-_▼ Video: https://vimeo.com/95586316_
+_▼ Video: <https://vimeo.com/95586316>_
 
 <br>
-
-
 
 #### Tufty 2040
 
@@ -231,11 +222,11 @@ _▼ Video: https://vimeo.com/95586316_
 
 ![IMG_8877](https://github.com/user-attachments/assets/bf21213d-15cc-41a5-9740-c0ca691fc9be)
 
-_▼ Sitio web asociado: https://magazine.raspberrypi.com/articles/tufty-2040-interactive-name-badge-review_
+_▼ Sitio web asociado: <https://magazine.raspberrypi.com/articles/tufty-2040-interactive-name-badge-review>_
 
 <br>
 
-Fabricado por Pimoroni (https://shop.pimoroni.com/products/tufty-2040?variant=40036912595027), es una placa que se basa en el chip de microcontrolador RP2040 y posee un una pantalla LCD a color de 2,4 pulgadas, siendo una "Pantalla Badger Programable". Esto quiere decir que es un gafete interactivo que consiste en una tarjeta programable que integra un microcontrolador RP2040 y una pantalla E Ink (tinta electrónica) para crear una tarjeta de identificación que puede mostrar diferentes textos e imágenes (https://www.330ohms.com/products/badger-2040#:~:text=El%20Badger%202040%20es%20un,mostrar%20diferentes%20textos%20e%20im%C3%A1genes). 
+Fabricado por Pimoroni (<https://shop.pimoroni.com/products/tufty-2040?variant=40036912595027>), es una placa que se basa en el chip de microcontrolador RP2040 y posee un una pantalla LCD a color de 2,4 pulgadas, siendo una "Pantalla Badger Programable". Esto quiere decir que es un gafete interactivo que consiste en una tarjeta programable que integra un microcontrolador RP2040 y una pantalla E Ink (tinta electrónica) para crear una tarjeta de identificación que puede mostrar diferentes textos e imágenes (<https://www.330ohms.com/products/badger-2040#:~:text=El%20Badger%202040%20es%20un,mostrar%20diferentes%20textos%20e%20im%C3%A1genes>).
 
 Me parece un objeto bastante curioso, siendo atraída principalmente por el aspecto visual. Al informarme me di cuenta de la complejidad que posee, y de lo útil y divertido que puede ser el tener una de estas placas.
 
@@ -243,7 +234,7 @@ Me parece un objeto bastante curioso, siendo atraída principalmente por el aspe
 
 ![zNBdtbM-HrI_640x480](https://github.com/user-attachments/assets/0222cddf-152e-4117-a03f-8ae963a123d7)
 
-_▼ Video: https://youtu.be/zNBdtbM-HrI?si=JVj6EfCIrfvPOkb6_
+_▼ Video: <https://youtu.be/zNBdtbM-HrI?si=JVj6EfCIrfvPOkb6>_
 
 <br>
 
@@ -257,9 +248,9 @@ Pese a varios intentos, no pude colocar el video directamente desde youtube.
 
 Me quedé colgada a la mitad de la clase, así que toca estudiar y practicar ૮◞ ﻌ ◟ა
 
-Además, me dediqué a observar el link que mandaron los profesores, y me llama la atención el poder ver que tipo de circuitos crea la gente: 
+Además, me dediqué a observar el link que mandaron los profesores, y me llama la atención el poder ver que tipo de circuitos crea la gente:
 
-https://www.reddit.com/r/PrintedCircuitBoard/comments/1k9ulzt/review_request_esp32c6_jtag_and_header_pin_uart/#lightbox
+<https://www.reddit.com/r/PrintedCircuitBoard/comments/1k9ulzt/review_request_esp32c6_jtag_and_header_pin_uart/#lightbox>
 
 ***
 

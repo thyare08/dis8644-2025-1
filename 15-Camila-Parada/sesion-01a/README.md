@@ -49,7 +49,7 @@
 <br>
  <h1> Encargos y tareas 14 marzo 2025 </h1>
         <br>
-    <h2> Encargo 01A: Mi caja negra y Yo  </h2>
+    <h2> Encargo 01: Mi caja negra y Yo  </h2>
     <h3>Impresora Brother DCP 165-C</h3>
         <img src="https://bie-p-001.sitecorecontenthub.cloud/api/public/content/6df18c984238457ca42666754236517a?v=bc66b51d" style="width:600px;height:600px;">
         <p> Fecha de Manufactura: 2008 </p>
@@ -84,7 +84,7 @@
         <img src="./image/001.jpg" style="width:600px;height:800px;">
         <br>
 
-<h2> 2. Tarea extra 01A.1: Kraftwerk - The Man-Machine </h2>
+<h2> 2. Tarea extra 00.1: Kraftwerk - The Man-Machine </h2>
        <p>Traducido del alemán, Die Mensch- Maschine, es el séptimo álbum de Kraftwerk compuesto por 6 canciones y con una duración aprox. de 36 minutos. El equipo estuvo trabajando en este disco durante los años 1977 y 1978 en el estudio discográfico Kling Klang (Dusseldorf, Alemania), para ser lanzado en enero de este último año. La caratula del disco estuvo a cargo del estudio de diseño Alemán “Klefisch” y posee referencias del arte suprematista del ruso El Lisitski reflejados en la acotada paleta de colores, la tipografía recta y sus composiciones ordenada. La fotografía del grupo fue hecha por Gunther Frohling, quien a su vez realizó algunos videoclips del disco. El género de este álbum es electrónico con los estilos Synth pop, New wave , Electropop y Electronic body music.</p>
 <br>
 <p>Los instrumentos usados fueron los sintetizadores Vocoder (para las voces), Orchestrón, Synthanorma sequenzer, Phophet 5 y Phophet 10 (Sequential Circuits), Yamaha CS-80, Minimog (Moog), Synthesizer Prohet 5 ademas de Baterías-tambores electrónicos (Wolfgang) y teclados.</p>
@@ -92,7 +92,7 @@
 <p>Las personas detrás del uso de estas máquinas fueron: Ralf Hütter (Voz, vocoder, sintetizadores, teclados, orchestrón, synthanorma sequenzer, electrónica), Florian Schneider (Vocoder, votrax, sintetizadores, electrónica, Prophet 5, Prophet 10, Yamaha CS-80, minimoog), Karl Bartos (Sintetizador Prohept 5, batería electrónica Wolfgang) y Flur (Batería electrónica).</p>
 <br>
 
-<h2> 3. Tarea extra 01A.2: Reseña "Barrio Universitario" </h2>
+<h2> 3. Tarea extra 00.2: Reseña "Barrio Universitario" </h2>
        <p>Comienzo relatando que actualmente no soy consumidora ni menos una fan de la comedia chilena. Desde hace años que me aburren los "scketches" o el humor que comienza con un "Se han fijado que...". No logro sentirme identificada en muchos de estos chistes y no comprendo el porque a algunas personas les causa gracia, talvez estoy yo muy amargada o me aburre el humor de varios humoristas de nuestro país. Sin embargo, recuerdo en mi adolecencia disfrutar de un show exclusivo de CHV, llamado "El club de la Comedia". En ese tiempo desconocía muchas cosas, pero podía disfrutar plenamente de los chistes que contaban los principales comediantes: Sergio Freire, Rodrigo "Guatón" Salinas y Fabricio Copano.</p>
         <br>
      <p> Y quién lea esto talvez se pregunte: ¿Que tiene esto que ver con la película? Pues que coincidentemente, estos tres humoristas forman parte del elenco de actores de la película a reseñar. Película en la cual se pueden encontrar nombres de otros reconocidos dentro del cine chileno (muchas veces presentes dentro otras películas o teleseries gracias al poder de los contactos, muy raro que el mundo del cine se vea tan pequeño) tales como Pedro Ruminot, Luis Dubó y Pablo Larrain.</p>
