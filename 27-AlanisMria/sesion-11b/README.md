@@ -1,11 +1,12 @@
 # sesion-11b
+*23 de mayo de 2025*
 
-555 usado como timer conectado a un 4017 para usar 3 salidas
+## 555 usado como timer conectado a un 4017 para usar 4 salidas
 
 ![circuito](https://github.com/AlanisMria/dis8644-2025-1/blob/main/27-AlanisMria/sesion-11b/archivos/circuito.jpg)
 
 
-### Resultado
+## Resultado
 
 ![circuito555y4017](https://github.com/AlanisMria/dis8644-2025-1/blob/main/27-AlanisMria/sesion-11b/archivos/circuito555y4017.mp4)
 
