@@ -101,7 +101,10 @@ Complementar encargo 22 con fotos explicativas de los materiales usados, de los 
 -  De ser exitoso, la resistencia debería mantenerse firme de un lado, realizamos los mismos procedimientos para el otro orificio sin antes limpiar el cautín con el paño húmedo para que se agilice el derretimiento del estaño y no se quemen los componentes.
 
 Por lo tanto el ciclo que se repite sería: Limpiar el cautín con un paño o esponja > calentar el estaño un par de segundos > calentar el componente o pin un par de segundos > calentar el estaño hasta que se derrita encima del orificio donde entra el componente (3 segundos) > retirar.
-
+![soldado-delante](./archivos/udpudu-detras.jpg)
+![soldado-detras](./archivos/udpudu-frente.jpg)
+<video src="./archivos/potencioudpudu.mp4" width = 400></video>
+<video src="./archivos/limonudpudu.mp4" width = 400></video>
 *  Observaciones:
 -  No excederse con el cautín pues puede quemar la PCB, los componentes o dejar inutilizable el módulo.
 -  Tampoco excederse con el estaño ya que puede provocar una obstrucción en el circuito.
