@@ -39,6 +39,7 @@ https://github.com/user-attachments/assets/e639b94e-b67e-4c11-8b22-9a349fb0becb
 - ¿dónde podemos encontrar el motor que estamos utilizando?, en ventilador dc, en un motor vibrador celular 3v
 - podemos hacer nuestro propio vibrador celular, no buscar en aliexpress por favor
 - ahora haremos el circuito nuevo, aquí el esquemático
+![1000012569](https://github.com/user-attachments/assets/921f1c4e-63ac-40e3-b5cd-38f495de6b37)
 
 
  - en una primera instancia desarrollamos el circuito con un potenciómetro que nos permitía manipular el motor, adjunto video
