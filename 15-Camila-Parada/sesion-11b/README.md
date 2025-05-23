@@ -10,29 +10,35 @@ _Viernes 23/05/2025_
 - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet 
 - https://www.markdownguide.org/basic-syntax/--->
 
-Llegué a las 8:45 apróximadamente, por lo que se pusieron a hablar de los resultados obtenidos en el curso de "Programación creativa", análizando los códigos de el ejercicio (clifford1one), sus componentes, que es "P5js", y una pequeña observación que se realizó modificando el código.
 
-A su vez se compartió un libro que el profe se encuentra leyendo: [Object-Oriented Python](https://nostarch.com/object-oriented-python).
+Hail to the thief - Radiohead
 
-Tras ello la clase se puso filosófica. Todo objeto tiene propiedades y métodos. Se habló sobre el filósofo "Graham harman" y el como definimos los objetos. Se monbró que la "estética" fue una de las primeras filosofías.
+<br>
 
 ***
 
 ## Bitácora digital
 
-### Parte 1: Recordar los conocimientos de la clase pasada
+### Parte 1: Chip 4017
 
-#### Componentes
+Esta parte de la clase vamos a comenzar a trabajar con un nuevo chip: el 4017. Este posee un total de 14 patitas.
 
-R (Resistencias), C (condensadores), D (diodos), IC (integrated circuit, chip), POT (potencimetro), BAT (batería), PS (power supply), +9v, GND (ground), LED, OP AM (amplificador operacional), LDR, RELÉ, PROTO, SN, PCB (placa), PERFBOARD.
+El chip 555 es un temporizador que slterna entre "tierra" y el "voltaje de alimentación", dando una señal de aviso. La pata 4 del 555 es similar al reset del 4017.
 
-#### Circuitos
+Hay dos tipos de lógica en la electrónica, en la cual la lógica secuencial se centra en una serie de eventos que generan un resultado a travez del tiempo.
 
-PMW (Duty Cycle), Astable (As), Monoestable (Ms).
 
-#### Aplicaciones
 
-APC (atari punk console), Brilla LED, ON/OFF Ampolleta, Sinte Rexp (UDPUDU)
+El chip 4017 no tiene que ser regular. Es un detector de trasnmisiones (ondas).
+
+negador
+
+<br>
+
+![image](https://github.com/user-attachments/assets/1f81d226-5f09-4f48-93e4-e19358a7f65e)
+
+_▼ Recuperado de: https://www.allaboutcircuits.com/textbook/experiments/chpt-7/led-sequencer/_
+
 
 <br>
 
