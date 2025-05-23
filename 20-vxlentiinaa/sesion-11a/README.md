@@ -50,3 +50,5 @@
 |-----|
 |9v -> Portátil,Accesible,Recargable,Voltaje 9V|
 |USB A -> Portátil,Accesible,Recargable,Voltaje 9V|
+
+![IMG_4505](https://github.com/user-attachments/assets/66e7917f-72d9-4286-abb0-b72d7e9e2195)
