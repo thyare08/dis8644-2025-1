@@ -25,6 +25,9 @@ https://github.com/user-attachments/assets/e639b94e-b67e-4c11-8b22-9a349fb0becb
 - GDS --- > gate source drain
 - el transistor mofet tiene 3 patitas que se dividen en g d s, gate source drain, cada una de estas cumple una tarea distinta
 - el transistor mofet tiene escrito irfz44n
+![transistor-mosfet](https://github.com/user-attachments/assets/0958840f-8768-4568-9c6c-0420ec536cb2)
+
+
 
 ### post break
 
