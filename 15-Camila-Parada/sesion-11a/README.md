@@ -1,4 +1,4 @@
-# ⋆₊˚⊹♡ Clase  10a - Circuitos PWM (Pulse Width Modulation) ♡⊹˚₊⋆
+# ⋆₊˚⊹♡ Clase  11a - Circuitos PWM (Pulse Width Modulation) ♡⊹˚₊⋆
 
 _Martes 20/05/2025_
 
