@@ -1,6 +1,6 @@
 # sesion-10a
 
- - **Apuntes 13/05**
+Apuntes 13/05
 
 ![20250513_123926](https://github.com/user-attachments/assets/65c7677d-d962-4c04-9a33-401a69dce09e)
 ![20250513_123948](https://github.com/user-attachments/assets/5f00cba6-7a9a-4c24-95a2-6dced746566c)
@@ -20,12 +20,15 @@ Es un aparato que utiliza 7 segmentos LED, los cuales se pueden encender o apaga
 # Encargo 20: Pantallas de 7 segmentos (Al menos 3)
 
 ![20250515_213044](https://github.com/user-attachments/assets/0bdb1ede-7910-4b2f-af62-6e037a727899)
+
 Imagen tomada el día 13/05 en el almacén de al lado izquierdo de la facultad de arquitectura, arte y diseño en república
 
 ![20250515_212821](https://github.com/user-attachments/assets/892a058a-3342-445b-b664-8de848c17ce4)
+
 Imagen tomada el día 15/05 en mi casa, es un despertador
 
 ![20250516_142057](https://github.com/user-attachments/assets/e6243d65-d22f-47e5-9c9c-c943e07167af)
+
 Imagen tomada en mi clase de Inglés en la facultad de Manuel Rodriguez, en la sala 503 de su termostato
 
 # Encargo 21: Simulación de circuitos con 555 y/o comparadores hechos con opamps en Falstad
@@ -36,6 +39,7 @@ Realizar el circuito PWN visto en clases en Falstad
 
 Código
 
+```txt
 $ 1 0.000005 10.20027730826997 50 5 50 5e-11
 165 320 304 464 304 14 0
 R 448 192 448 144 0 0 40 9 0 0 0.5
@@ -64,3 +68,4 @@ w 128 464 128 432 0
 w 160 400 128 432 0
 r 240 320 240 192 0 1000
 w 240 192 384 192 0
+```
