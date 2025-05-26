@@ -100,17 +100,17 @@ Para las pistas NO se puede por encima
 Vía: Es un enlace que pasa de un lado de la placa hacia otro
 Pista roja: indica que va por arriba
 
-## encargo 14
+## encargo-14
 
-Para el esquemático en KiCad repliqué uno de los apc que vimos en alguna de las sesiones anteriores, este contaba con botones, pero sin embargo y una de las dudas que me surgió fue como poner los botones, con que nombre buscar el componente para poder añadirlo.
+Para el esquemático en KiCad repliqué uno de los APC que vimos en alguna de las sesiones anteriores, este contaba con botones, pero sin embargo y una de las dudas que me surgió fue como poner los botones, con que nombre buscar el componente para poder añadirlo.
 
 ![esquemático](https://github.com/user-attachments/assets/076944f8-427e-4462-bcda-d495d3373f1b)
 
-## encargo 15
+## encargo-15
 
 Dudas sobre KiCad:
 
-¿Cómo poner botones?, ¿nombre del componente?, ¿switch, btn , push?
+¿Cómo poner botones?, ¿nombre del componente?, ¿switch, btn, push?
 
 ¿Cómo reordenar el 555?
 

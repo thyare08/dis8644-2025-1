@@ -12,7 +12,7 @@ Para crear una vía se utiliza el comando "v", cuando el color de la pista cambi
 
 <https://jlcpcb.com/es/> , es la página donde se pueden mandar a imprimir las placas a china, se puede elegir el color y el grosor de la placa.
 
-## encargo 16
+## encargo-16
 
 hacerse una cuenta en JLCPCB y cotizar udpudu, para 30 personas, documentar cada parámetro y elección.
 
