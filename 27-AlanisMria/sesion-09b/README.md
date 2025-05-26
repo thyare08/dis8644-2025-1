@@ -20,7 +20,7 @@ Oscilación cíclica
 
 **in:** resistencia o condensador
 
-**Output:** Leds, sonido, movimiento
+**Output:** LEDs, sonido, movimiento
 
 ### **Modo monoestable:**
 
@@ -126,20 +126,20 @@ Actualmente existen distintas maneras de crear logos
 
 ![diversificación](https://github.com/AlanisMria/dis8644-2025-1/blob/main/27-AlanisMria/sesion-09b/archivos/diversificaci%C3%B3n.jpg)
 
-Como trata con sus clientes? (punto inportante para los diseñadores)
+Cómo trata con sus clientes? (punto importante para los diseñadores)
 
 - Principalmente nota que el cliente lo trate con respeto
 - Cuando el cliente plantea la idea y se define el precio pide un adelanto del 50%, cuando tenga el deposito envía su material
 - Trabajar en un logo es como construir una casa
 - Cuando los bocetos son aprobados por los clientes empieza el trabajo final
 
-¿Que hace el que otros no?
+¿Qué hace él que otros no?
 
 Trabajar junto al cliente con comunicación transparente.
 
 El pide al cliente que envíe su música para poder trabajar
 
-Trabaja con diseñadores gráficos para vectorizar  el  trabajo.
+Trabaja con diseñadores gráficos para vectorizar el trabajo.
 
 Finalizó la charla cantando una canción, en la cual termino diciendo *¡Slava Ukraini, Heroyam Slava!*, el cuál por lo que investigué es un grito Ucraniano que significa *Gloria a ucrania, gloria a los héroes*.
 
