@@ -14,7 +14,7 @@ Llegué a las 8:45 apróximadamente, por lo que se pusieron a hablar de los resu
 
 A su vez se compartió un libro que el profe se encuentra leyendo: [Object-Oriented Python](https://nostarch.com/object-oriented-python).
 
-Tras ello la clase se puso filosófica. Todo objeto tiene propiedades y métodos. Se habló sobre el filósofo "Graham harman" y el como definimos los objetos. Se monbró que la "estética" fue una de las primeras filosofías.
+Tras ello la clase se puso filosófica. Todo objeto tiene propiedades y métodos. Se habló sobre el filósofo "Graham harman" y el como definimos los objetos. Se nombró que la "estética" fue una de las primeras filosofías.
 
 ***
 

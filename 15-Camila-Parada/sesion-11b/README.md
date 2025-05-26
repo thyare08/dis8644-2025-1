@@ -23,9 +23,9 @@ Hail to the thief - Radiohead
 
 Esta parte de la clase vamos a comenzar a trabajar con un nuevo chip: el 4017. Este posee un total de 14 patitas.
 
-El chip 555 es un temporizador que slterna entre "tierra" y el "voltaje de alimentación", dando una señal de aviso. La pata 4 del 555 es similar al reset del 4017.
+El chip 555 es un temporizador que alterna entre "tierra" y el "voltaje de alimentación", dando una señal de aviso. La pata 4 del 555 es similar al reset del 4017.
 
-Hay dos tipos de lógica en la electrónica, en la cual la lógica secuencial se centra en una serie de eventos que generan un resultado a travez del tiempo.
+Hay dos tipos de lógica en la electrónica, en la cual la lógica secuencial se centra en una serie de eventos que generan un resultado a través del tiempo.
 
 
 
@@ -42,7 +42,7 @@ _▼ Recuperado de: https://www.allaboutcircuits.com/textbook/experiments/chpt-7
 
 <br>
 
-Hoy vamos a ver un motor que funcione con chips 555 y pmw. Para eso armamos el circuito PWM/Brillo LED.
+Hoy vamos a ver un motor que funcione con chips 555 y PWM. Para eso armamos el circuito PWM/Brillo LED.
 
 ![alt text](./archivos/01.jpg)
 
