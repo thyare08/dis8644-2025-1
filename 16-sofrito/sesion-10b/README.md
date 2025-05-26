@@ -1,7 +1,8 @@
 # sesion-10b
+
 viernes 16 de mayo
 
-firefox es el único navegador que no depende de chrome y es programable.
+firefox es el único navegador que no depende de chromium y es programable.
 
 death internet theory:  es una teoría conspirativa que afirma que actualmente Internet está dominado por la actividad de bots, deepfakes, la inteligencia artificial y el contenido generado automáticamente mediante algoritmos, marginando la actividad humana orgánica.
 
@@ -45,8 +46,8 @@ nos hicieron entrega de las placas diseñadas en Kicad (udpudu), luego nos reuni
 
 <img width="526" alt="Captura de pantalla 2025-05-17 a la(s) 6 18 19 p m" src="https://github.com/user-attachments/assets/906a9914-7d85-4350-a25d-bab7dc2baaf0" />
 
+## encargo-20: pantallas de 7 segmentos
 
-## encargo 20: pantallas de 7 segmentos
 foto tomada el día martes en el laboratorio digital FAAD de la udp en ss.
 
 ![pantalla 7 segmentos_1](https://github.com/user-attachments/assets/4a42487f-a248-433e-aae1-c1d4446d09a6)
@@ -59,7 +60,7 @@ foto sacada el día jueves a la pantalla de la lavadora de mi casa, idica el tie
 
 ]<img width="539" alt="Captura de pantalla 2025-05-15 a la(s) 3 26 41 p m" src="https://github.com/user-attachments/assets/18c13f28-cc1c-4988-969d-4be15099d5f5" />
 
-## encargo 21: simulación de circuitos con 555 y/o comparadores hechos con opamps en Falstad
+## encargo-21: simulación de circuitos con 555 y/o comparadores hechos con opamps en Falstad
 
 ```txt
 $ 1 0.000015625 15.472767971186109 40 5 43 5e-11
