@@ -2,7 +2,6 @@
 
 18-04-2025 (feriado)
 
-
 ## Documental _Sisters with transistors_
 
 Fuente: <https://sisterswithtransistors.com/>
@@ -82,7 +81,6 @@ _Wendy Carlos: cómo la persona más importante de la historia de la electrónic
 
 ![image](https://github.com/user-attachments/assets/bcb9aee9-3cba-4d2b-a3f9-84784dc2e61a)
 _Laurie Spiegel_ [Fotografía], por Wikipedia (s.f.) <https://es.wikipedia.org/wiki/Laurie_Spiegel>
-
 
 
 ### Albúm _The Expanding Universe_ por Laurie Spiegel (1980)

@@ -36,15 +36,15 @@
 
 ![IMG_4088](https://github.com/user-attachments/assets/ed89da2f-0c2a-4258-bc0f-04ebc3d85d46)
 
-## Encargo 14
+## encargo-14
 
 Variación de Atari Punk Console
 
 <img width="1346" alt="APC" src="https://github.com/user-attachments/assets/c0d6fcf5-a430-4ba8-a61a-db72f32f60f8" />
 
-## Encargo 15
+## encargo-15
 
-***Dudas**_
+***Dudas**
 
 1. ¿Cómo exportar el modelo 3D de la placa completa en otro archivo? Exportar archivo en Vrml, _CAD assistants_ caja de herramientas para ver el modelo tridimensional y poder exportarlo en otros formatos.
 2. ¿Cómo ordenar el Chip 555 de mejor manera?
