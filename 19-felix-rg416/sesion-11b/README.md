@@ -1,12 +1,13 @@
 # sesion-11b
-### 23-05
+
+23-05
 
 - circuito integrado 4040 contador binario
 - serie 40xx - circuitos integrados
 
 ## lógica
 
- - secuancial - el tiempo es importante
+ - secuaecial - el tiempo es importante
  - conbinacional  - seudo simultáneo
 
 # 555
@@ -18,7 +19,7 @@
 
 los circuitos integrados 40xx, son una serie de cirtuitos que hacen funciones distintas
 
-![4017](.\archivos\4017.png)
+![4017](./archivos/4017.png)
 
 - pin 14 **clk** - clok
 - pin 16 --> VCC ("puede ser muy sano ponerle un condensador de 10uF" conectado al negativo, al pin 16 y al positivo)
@@ -34,13 +35,14 @@ los circuitos integrados 40xx, son una serie de cirtuitos que hacen funciones di
 
 - la velocidad depende de la resistencia que tenga el 555 (pote, LDR, etc)
 
-> - para que el potenciómetro tenga mayor rango de resistencia, poner una resistencia en un extremo y el centro
-![pote+resistencia](.\archivos\pote+resistencia.png)
+- para que el potenciómetro tenga mayor rango de resistencia, poner una resistencia en un extremo y el centro
+
+![pote+resistencia](./archivos/pote+resistencia.png)
 
 en el segundo 555 puse un potenciómetro B500K con una resistencia de 10k
 
-![LEDsequence](.\archivos\LEDsequence.jpg)
+![LEDsequence](./archivos/LEDsequence.jpg)
 
 ## USB A 
 
-sí o sí hay un cable positivo y otro negativo [rojo y negro] 
+sí o sí hay un cable positivo y otro negativo (rojo y negro)

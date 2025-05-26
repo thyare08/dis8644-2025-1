@@ -9,11 +9,9 @@
 - speak and spell circuit brnding "circuito que habla" - toturiales de cómo hacerlo
 - **power shell cmd **
 
-# soldar
+## soldar
 
-
-
-siempre soldar primero las cosas más chiquititas, "las más cerca del suelo"
+siempre soldar primero las cosas más chiquititas, "las más cerca del suelo".
 
 csv en excel - se ordena bonito y luego se vuelve a descargar en csv - de [csv a markdown](https://www.convertcsv.com/csv-to-markdown.htm)
 
@@ -33,6 +31,6 @@ csv en excel - se ordena bonito y luego se vuelve a descargar en csv - de [csv a
 |U1       |NE555   |DIP-8                    |         |1  |va en el socket U1|
 
 ## materiales
-- resistencias de 1k =
-- 
+
+- resistencias de 1k = 
 

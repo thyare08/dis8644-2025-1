@@ -1,4 +1,5 @@
 # sesion-11a
+
 20-05
 
 - ursonate de kurt schwitters - poeta sonoro - dadaísmo
@@ -52,7 +53,6 @@
 - on/off ampolleta
 - sintetizador resistencia experimental (udpudu)
 - 
-
 va a haber un examen, proyecto de un dispositivo electrónico (primera semana de julio), mediado de junio es el proyecto 2 que es el anteproyecto del examen
 
 ---
