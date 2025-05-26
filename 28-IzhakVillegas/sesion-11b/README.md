@@ -1,15 +1,20 @@
 # sesion-11b
+
 viernes 23 de mayo de 2025
-### Mención musical
+
+## Mención musical
+
 -  **Radiohead Hail to the Thief.**
 
-###  chip 4017
-Señal de aviso. En 0s y 1s, en apagados y encendidos.
--  Dos tipos de lógica en la electrónica: Lógica secuencial y lógica combinacional.
+##  chip 4017
 
+Señal de aviso. En 0s y 1s, en apagados y encendidos.
+
+-  Dos tipos de lógica en la electrónica: Lógica secuencial y lógica combinacional.
 -  **Lógica secuencial:**  Cosas que suceden en el tiempo una después de la otra.
 -  ¿Qué es un secuenciador?  : 
 -  Secuencias de pasos.
+
 **10-bit Flashing LED Sequencer.**
    
 ![secuenciador-led-4017](./archivos/led-sequencer-schematic-diagram.jpg)
