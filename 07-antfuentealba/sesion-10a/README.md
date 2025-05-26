@@ -1,18 +1,26 @@
 # sesion-10a
+
 ## apuntes
+
 ![10A](https://github.com/user-attachments/assets/c74b3812-e875-4811-8a62-a6a0a16b45f8)
+
 ![10A (2)](https://github.com/user-attachments/assets/655246ca-543d-4034-ba37-89977c55eabb)
 
 ## encargo-20
+
 ![10A3](https://github.com/user-attachments/assets/01d7fbeb-81f4-407b-a574-56bb5aa18a8e)
 pantalla del microondas dia jueves 15 de mayo
+
 ![10A4](https://github.com/user-attachments/assets/d7958154-e600-4881-9a8d-87a76073f8d3)
 pantalla de lavavajillas dia jueves 15 de mayo
+
 ![10A5](https://github.com/user-attachments/assets/eeee48e3-5f22-4767-afef-b5e86d3aac00)
 pantalla de la lavadora dia jueves 15 de mayo
 
 ## encargo-21
+
 hice el circuito monoestable del chip 555 en falstad pero no me funciono ya que no funcionaba la corriente, queria revisarlo en clases para saber que hice mal y arreglarlo, de todas maneras igual dejo mi intento de circuito.
+
 ![Captura de pantalla 2025-05-15 202355](https://github.com/user-attachments/assets/9055f3ca-b26b-4680-accb-46252b37223b)
 
 ```txt
