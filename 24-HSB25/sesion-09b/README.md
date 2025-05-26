@@ -14,7 +14,6 @@ El módulo PAM8403 es un amplificador de audio de baja potencia que permite aume
 - **Relé:**
 Un relé es un interruptor electromecánico que permite controlar altas corrientes o diferentes circuitos a través de pequeñas señales eléctricas. Actúa como una compuerta: al recibir una señal de control, cambia su estado (de abierto a cerrado o viceversa), activando otro componente como un motor, una luz o un sistema mayor.
 
-
 El IC 555 es un temporizador muy versátil que puede configurarse en distintos modos. Hasta ahora conocemos:
 
 Modo Astable:
@@ -35,7 +34,7 @@ Movimiento (a través de motores).
 
 Señales de aviso (luz, sonido o vibración).
 
-# ENCARGO 19
+# encargo-19
 
 # Laurie Anderson y la cultura electrónica
 

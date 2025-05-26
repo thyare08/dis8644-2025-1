@@ -1,6 +1,6 @@
 # sesion-10b
 
-EN ESTA CLASE no pude asistir debido a que me encontraba fuera de Santiago por problemas de fuerza mayor, pero de igual manera quize hablar con mis compañeros para saber que paso en la clase.
+EN ESTA CLASE no pude asistir debido a que me encontraba fuera de Santiago por problemas de fuerza mayor, pero de igual manera quize hablar con mis compañeros para saber qué paso en la clase.
 
 Para comenzar, cada uno de nosotros armó un circuito PWM con un LED de diferente color: rojo, verde o azul, respectivamente.
 
@@ -17,9 +17,11 @@ Falstad es el nombre común con el que se conoce al Simulador de Circuitos Elect
 En esta sesión trabajamos con el LM324N, un chip clásico muy utilizado en electrónica. Este circuito integrado posee cuatro amplificadores operacionales (OP-AMPs) en su interior y cuenta con 14 patas (pines).
 
 - ¿Qué es un OP-AMP?
+
 Un amplificador operacional (abreviado como OP-AMP) puede pensarse como una "caja negra" que realiza operaciones matemáticas basadas en la comparación de voltajes entre sus entradas. Es un componente activo (requiere alimentación externa) y versátil, usado en múltiples aplicaciones: amplificadores, comparadores, filtros, sumadores, etc.
 
 - Alimentación de los OP-AMP
+
 Una dificultad que presentan los OP-AMPs es su alimentación con dos polaridades: algunos circuitos requieren ±12V (positivo y negativo), ya que no todos los diseños funcionan correctamente con una sola fuente de 0V y 12V. Este aspecto complica su implementación si no se tiene una fuente simétrica.
 
 - El LM324N vs. el 741
@@ -235,7 +237,7 @@ Comienza por los componentes más pequeños:
 
 # ENCARGO 23: Documentación visual del proceso de ensamblado de UDPUDU
 
-Las fotos que subire no son de autoria mia ya que, como comente no asisti a la clase pero de igual manera me informe con varios compañeros para poder saber que hicieron en la clase.
+Las fotos que subire no son de autoria mía ya que, como comente no asisti a la clase pero de igual manera me informe con varios compañeros para poder saber que hicieron en la clase.
 
 ![udpudu00](https://media.discordapp.net/attachments/1318882679659171892/1372987354020577431/IMG_7488.jpg?ex=682d62de&is=682c115e&hm=cb81dfef37076724ecd010b6c60a24b332eb3c42e5507f38dc6cb1810f5d4b33&=&format=webp&width=859&height=544)
 
