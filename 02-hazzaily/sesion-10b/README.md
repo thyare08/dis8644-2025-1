@@ -2,7 +2,6 @@
 
 16 de Mayo de 2025.
 
-
 BOM CVS Original.
 
 |Reference|Value                        |Datasheet|Footprint                                    |Qty|DNP|

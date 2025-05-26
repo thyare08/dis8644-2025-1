@@ -9,9 +9,7 @@
 
 Foto esquemático PWM.
 
-
 Foto del circuito PWM en protoboard.
-
 
 Foto del circuito PWM con modificaciones.
 
@@ -27,7 +25,6 @@ Foto alfabeto sistema arábigo en 7 segmentos.
 
 Foto rescatada de https://edupython.blogspot.com/2015/04/visualizador-de-siete-segmentos.html
 
-
 ## Trabajo en clases 2:
 
 Tomar fotografías de pantallas con 7 segmentos que encontremos en la FAAD o alrededores y subirlas a discord.
@@ -38,11 +35,9 @@ Fotografía 1: **Reproductor de CDs**
 Fecha: 16 de Mayo de 2025.
 Ubicación: Mi casa.
 
-
 Fotografía 2: **Regulador de aire acondicionado**
 Fecha: 16 de Mayo de 2025.
 Ubicación: Facultad de Odontología, Universidad Diego Portales.
-
 
 Fotografía 3: **Radio**
 Fecha: 19 de Mayo de 2025.
