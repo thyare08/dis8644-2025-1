@@ -58,15 +58,15 @@ Es un software que permite la esquematización de circuitos electrónicos, y la 
 
 ![EJE](https://github.com/user-attachments/assets/acab4993-6396-4948-bcf9-2bfa30204425)
 
-**Me costó un poco,** pero nada más por el táctil de mi computador, pero la búsqueda de componentes y demás es cosa de **ir ensayando.** En el segundo bloque me tuve que retirar, ya que estaba muy enferma, pero de todas formas vi **el video de Missa** sobre el manual de supervivencia, lo cual hizo que **recordara algunos puntos importantes, y agradezco mucho!!!**
+**Me costó un poco,** pero nada más por el táctil de mi computador, pero la búsqueda de componentes y demás es cosa de **ir ensayando.** En el segundo bloque me tuve que retirar, ya que estaba muy enferma, pero de todas formas vi **el video de Misaa** sobre el manual de supervivencia, lo cual hizo que **recordara algunos puntos importantes, y agradezco mucho!!!**
 
-## Encargo 14: Circuito Atari con modificaciones
+## encargo-14: Circuito Atari con modificaciones
 
 ![atari zoom](https://github.com/user-attachments/assets/172d8f15-c61c-473b-9d8c-6be82da3ca1e)
 
-## Encargo 15: Dudas
+## encargo-15: Dudas
 
-¿Existe un modo de configurar en táctil del mouse en el programa?
+¿Existe un modo de configurar el táctil del mouse en el programa?
 
 Que a veces me pasaba que quería que terminara la línea o modificarla para que fuera más corta, y al apretar el táctil se creaba este punto de conexión
 

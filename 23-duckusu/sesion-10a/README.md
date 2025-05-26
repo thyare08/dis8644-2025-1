@@ -1,13 +1,14 @@
 # sesion-10a
+
 ## Comienzo de clases
 - Se procedió a reflexionar sobre algún logro positivo, por mi parte me la jugue en mi juego koreano por un personaje y me salio al primer tiro (estoy demasiado feliz)
 
-###
-
 ## Trabajo en clases
+
 - En grupos de 3, se trabajo a partir del circuito PWM, las luces RGB y como estas al mezclarse en diferentes intesnsidades, generan nuevos colores (trabaje con Santiago Gaete y nos juntamos despues con Francisco Stephens y Jose "J" Morales para el producto final)
 
 ## RECESO 30 MINUTOS
+
 ### 30 minutos para buscar ejemplos del tipo de luces que buscamos en el mundo exterior
 
 <div align="left">
@@ -16,16 +17,19 @@
 
 ###
 
-- Despues Miisa nos dio una clase sobre las "redstones" de minecraft y como el funcionamiento de estas se relaciona a la electronica.
+- Despues Misaa nos dio una clase sobre las "redstones" de minecraft y como el funcionamiento de estas se relaciona a la electronica.
 - link de pagina importante: https://www.falstad.com/circuit/circuitjs.html
 
 ## Encargo21: Simulación de circuitos con 555 en Falstad
+
 ### Falstad: pagina de uso libre para generar cicuitos
+
 <div align="left">
   <img height="100%" src="https://media.discordapp.net/attachments/1248658110625742862/1372795068674609212/image.png?ex=68281289&is=6826c109&hm=4e0ffca5767a7404461d788c313c93d1d22a7ab7e30e52d11dfad5dc05b960e0&=&format=webp&quality=lossless&width=825&height=401"  />
 </div>
 
 ### Circuito PWM
+
 <div align="left">
   <img height="100%" src="https://media.discordapp.net/attachments/1248658110625742862/1372799080119668817/image.png?ex=68281646&is=6826c4c6&hm=c189a41926970584176f8aac713768fd0f2176fc0abc492dacf2bcd256004f0a&=&format=webp&quality=lossless&width=1509&height=1260"  />
 </div>
@@ -59,7 +63,4 @@ w 128 464 128 432 0
 w 160 400 128 432 0
 r 240 320 240 192 0 1000
 w 240 192 384 192 0
-
 ```
-
-###

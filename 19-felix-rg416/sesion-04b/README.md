@@ -9,13 +9,13 @@
 - [calculadora de circuito 555](https://ohmslawcalculator.com/555-monostable-calculator)
 -
 
-### encargo
+### encargo-10
 
 01 escuchar switched on bach (wendy carlos)
 
 Botón experimental
 
-## encargo02: mouse rosado
+## encargo-11: mouse rosado
 
 ![mouse rosado](https://github.com/felix-rg416/dis8644-2025-1/blob/main/19-felix-rg416/sesion-04b/archivos/mouse.01.jpg) ![mouse.02](https://github.com/felix-rg416/dis8644-2025-1/blob/main/19-felix-rg416/sesion-04b/archivos/mouse.02.jpg)
 

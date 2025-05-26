@@ -1,8 +1,10 @@
 # sesion-10b
+
 ##  16-05-2025
+
 ###  Circuit bending
 
-(circuit bender) Doblar, customización creativa de dispositivos electrónicos, suele ser para juegos para niños. Tienden a ser robustos y a resistir la destrucción controlada.
+(circuit bending) Doblar, customización creativa de dispositivos electrónicos, suele ser para juegos para niños. Tienden a ser robustos y a resistir la destrucción controlada.
 
 ###  Nic Collins (circuit bending)
 
@@ -33,8 +35,8 @@ Cuidado con capacitores, "todo funciona con una batería de 9V".
 ## udpudu 20250425 - DIS8644
 
 ![udpuduvector](./archivos/udpudu-pcbRef.png)
-![udpudu1](./archivos/udpudu-foto(1).jpg)
-![udpudu2](./archivos/udpudu-foto(2).jpg)
+![udpudu1](./archivos/udpudu-01.jpg)
+![udpudu2](./archivos/udpudu-02.jpg)
 
 -  Exportar vectores
 -  Extraer BOM (bill of materials, lo que hay que comprar para soldarlo)
@@ -101,6 +103,14 @@ Complementar encargo 22 con fotos explicativas de los materiales usados, de los 
 -  De ser exitoso, la resistencia debería mantenerse firme de un lado, realizamos los mismos procedimientos para el otro orificio sin antes limpiar el cautín con el paño húmedo para que se agilice el derretimiento del estaño y no se quemen los componentes.
 
 Por lo tanto el ciclo que se repite sería: Limpiar el cautín con un paño o esponja > calentar el estaño un par de segundos > calentar el componente o pin un par de segundos > calentar el estaño hasta que se derrita encima del orificio donde entra el componente (3 segundos) > retirar.
+
+![soldado-delante](./archivos/udpudu-detras.jpg)
+
+![soldado-detras](./archivos/udpudu-frente.jpg)
+
+<video src="./archivos/potencioudpudu.mp4" width = 400></video>
+
+<video src="./archivos/limonudpudu.mp4" width = 400></video>
 
 *  Observaciones:
 -  No excederse con el cautín pues puede quemar la PCB, los componentes o dejar inutilizable el módulo.

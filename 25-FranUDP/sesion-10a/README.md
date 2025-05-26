@@ -10,15 +10,24 @@
 ### Display de 7 segmentos
 <img align="left" src="./archivos/7segDis.jpg" width=400> </br></br></br></br></br> Similares a los LEDs RGB en que contienen múltiples LEDs más pequeños dentro, sin embargo estos displays emplean LEDs del mismo color en distintas ubicaciones para formar distintos números y/o letras </br></br></br></br></br></br></br>
 
-> ### Codificador(encoder) y [decodificador(decoder)](https://youtu.be/HHQFI8R1iZc?si=c0AfhkyOAGCwZzmC)
+> ### [Codificador(encoder)](https://youtu.be/NWiPVMDh7GE?si=5goLb4drnWfBChbt) y [decodificador(decoder)](https://youtu.be/HHQFI8R1iZc?si=c0AfhkyOAGCwZzmC)
 > En un display de 7 segmentos hay que controlar 7 LEDs, pero ¿qué pasa si tenemos varios displays de 7 segmentos trabajando juntos para mostras números más grandes o pantallas de más alta resolución? necesitaríamos una cantidad enorme de pines GPIO en nuestros microcontroladores (arduino, esp32, raspberry pi pico, etc), sin mencionar la cantidad de cables y espacio. </br> Es por esto que se emplean encoders y decoders
-> * Encoders: 
-> * Decoders: 
+> * Encoders: Toma múltiples inputs y los convierte en pocos outputs. Ej: Un teclado con 101 teclas que se comunica mediante USB (Universal Serial Bus), el cual utiliza 2 canales llamados Data+ y Data- para comunicarse</br>
+> * Decoders: Toma pocos inputs y los convierte en múltiples outputs. Ej: Un microcontrolador controlando un display de 60 LEDs mediante el protocolo I2C, el cual emplea 2 canales de comunicación (Serial Data [SDA] y Serial Clock [SCL])</br>
 
-### RGB v/s YCMK
+### [RGB v/s CMYK](https://youtu.be/NnP-SRiOc4o?si=X7VKQyWvUsUm_wed)
+Son formatos de colores utilizados en programas de diseño de ilustraciones, editores de imagenes entre otros.</br></br>
+<img align="left" src="./archivos/oled.jpg" width=300></br></br></br> RGB se utiliza para diseñar imágenes que se muestran a través de pantallas, este formato obtiene su nombre de la misma forma que el LED RGB (Red, Green & Blue), aunque su uso no es exclusivo de pantallas OLED o microLED (emplean diminutos LEDs RGB como pixeles)</br></br></br></br></br>
+
+<img align="left" src="./archivos/cmyk.jpg" width=300></br></br></br> CMYK es utilizado para diseñar imágenes para impresión, se podría decir que a diferencia de RGB que se utiliza para imágenes digitales, CMYK se utiliza para imágenes analógicas. Obtiene su nombre a partir de las tintas empleadas para impresión</br></br></br>
 
 ### Comparador Minecraft
+El comparador cuando está operando en modo comparador (modo resta con la antorcha frontal encendida), compara la intensidad de la señal de redstone en sus terminales laterales y principal. </br> &nbsp;&nbsp;&nbsp;&nbsp;Si la senal en su terminal A es mayor a la intensidad de la terminal B, el comparador dejará pasar la señal A (output)</br> &nbsp;&nbsp;&nbsp;&nbsp;Si la señal de la terminal A es igual o inferior a la señal de la terminal B, entonces no dejará que pase la señal</br>  
+<img align="left" src="./archivos/MCcomp1.jpg" width=320><img align="left" src="./archivos/MCcomp2.jpg" width=320><img align="left" src="./archivos/MCcomp3.jpg" width=320></br></br></br></br></br></br></br></br></br></br>
 > ### LM324 op amp
+><img align="left" src="./archivos/LM324-pinout.jpg" width=300></br> Este Op Amp (Operational Amplifier) está compuesto por 4 comparadores (LM741 x 4)</br></br></br></br></br></br></br></br></br></br>
+<img align="left" src="./archivos/compSymb1.jpg" width=300><img align="left" src="./archivos/compSymb2.jpg" width=229></br></br></br></br></br></br></br></br></br></br></br>
+
 
 ### Voltaje negativo
 

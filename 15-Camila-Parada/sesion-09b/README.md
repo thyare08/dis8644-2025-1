@@ -71,7 +71,7 @@ _▼ Imagen de referencia . Obtenido de [Rambal.](https://rambal.com/circuitos-i
 
 <br>
 
-Con estas piezas en mano (metaforicamente hablando) nos disponemos a recordar los conocimientos relacionados con el chip 555 y sus estados: astable (estado variable constante) y monoestable (estado permanente hasta que se perturbe). Ello para poder realizar un montaje virtual mediante Tinkercad, puesto que casi ningún esudiante llevó el kit de prototipado.
+Con estas piezas en mano (metafóricamente hablando) nos disponemos a recordar los conocimientos relacionados con el chip 555 y sus estados: astable (estado variable constante) y monoestable (estado permanente hasta que se perturbe). Ello para poder realizar un montaje virtual mediante Tinkercad, puesto que casi ningún esudiante llevó el kit de prototipado.
 
 Estas piezas nos hacen pensar en el concepto de "Modularidad" aplicado a los circuitos, lo que refiere a crear piezas replicables dentro de un circuito más grande.
 
@@ -116,10 +116,6 @@ _▼ Video del resultado_
 
 ### Tarea 1: Desarrollo de circuitos en Protoboard (Aplicando las piezas)
 
-
-
-<br>
-
 ***
 
 ### Tarea 2: Laurie Anderson
@@ -130,21 +126,16 @@ Este referente fue mencionado en clases, destacando su obra "Concert for Dogs" l
 
 (https://www.theguardian.com/music/2016/jan/05/laurie-anderson-music-dog-concert-times-square-new-york)
 
-<br>
-
 ![image](https://github.com/user-attachments/assets/decbb57b-afe9-40c5-be0d-06de35700761)
 
 _▼ Imagen del concierto. Obtenido de [Independent.](https://www.independent.co.uk/arts-entertainment/music/news/performance-artist-laurie-anderson-plays-concert-especially-for-dogs-in-new-york-a6798581.html)_
 
-<br>
 
 Tras indagar sobre esta obra, me surgió la duda, ¿Quién es Laurie Anderson?, ¿A qué se dedica y por qué es famosa/destacada?
 
 Para ello quise escuchar un video que encontré en youtube: ["El proceso creativo de Laurie Anderson (Español"](https://www.youtube.com/watch?v=SB0eIKQwkOs).
 
 Artista multimedia, primera y última artista con residencia en la NASA. Su carrera ha abordado variedades de disciplinas, desde la música, la escultura, la poesía, la fotografía, el cine, entre otras.
-
-
 
 ***
 

@@ -1,9 +1,11 @@
 # sesion-09b
+
 ## taller clase 9b 9 de mayo de 2025
 
 llegué un poco tarde
 
 ## primera parte
+
 - cuando llegué estaban hablando del concepto de práctica situada, creo que estaban mostrando algo relacionado con eso
 - ¿qué es una práctica situada?, es cómo podemos reconectar con el sitio en donde uno se mueve, algo de lo que alcancé a escuchar fue eso
 - después se habló del "land art" como le dicen los gringos, dieron el ejemplo de las huellas de nazca
@@ -12,7 +14,7 @@ llegué un poco tarde
 - prácticas, emergencias tecnológicas
 - hablaron de algo que iremos a ver respecto a diseño, a saber qué está pasando en la escuela y qué están haciendo los demás. Acá Aarón dijo que "somos malos para celebrar los chilenos" me quedó dando muchas vueltas en la cabeza, creo que en este país nunca se reconocen los esfuerzos
 - ### **QS top universities**
-- nos metimos a un ranking de universidades a nivel mundial para ver en qué lugar estaban las universidades chilenas, las primeras eran las típicas (MIT,Oxford,Harvard,Cambridge,etc) después habían varias universidades chinas y también una de Singapur
+- nos metimos a un ranking de universidades a nivel mundial para ver en qué lugar estaban las universidades chilenas, las primeras eran las típicas (MIT,Oxford, Harvard, Cambridge, etc) después habían varias universidades chinas y también una de Singapur
 - las universidades chilenas mejor ubicadas son la católica en lugar 93 creo y la chile en el 100yalgo , la Diego Portales estaba cerca del lugar 1000
 - existen varios parámetros para generar este ranking
 - considerando que la udp es relativamente nueva, ha escalado muy bien en el ranking si nos ponemos a pensar que hay universidades que existen hace 500 años
@@ -24,7 +26,7 @@ llegué un poco tarde
 ## segunda parte post break
 - me fui a comprar un pan con jamón y palta que era muy grande y me dió asco comerlo, pero comí galletas frac.
 - en la vuelta del break nos entregaron un nuevo chip y más cosas, dentro de estas se encuentra el PAM8403 que es un amplificador de audio, hace que todo suene más fuerte
-- mostraron la página afel.cl que es barata y rápida, no sé si es buena, creo que tiene las versiones charcha de las cosas. Dijeron que para un examen no comprarían ahí, es bueno saberlo
+- mostraron la página afel.cl que es barata y rápida, no sé si es buena, creo que tiene las versiones charcha de las cosas. Dijeron que para un examen no comprarían ahí, es bueno saberloé
 - también nos entregaron un rele de 01 canal, nos permite ingresar señales de control, es decir, que algo haga algo o no lo haga
 - en esta parte del semestre nos centraremos en luces, acciones, prender motores y mover cosas, nos alejaremos del mundo del sonido
 - **repasamos las configuraciones del 555**
@@ -45,7 +47,7 @@ llegué un poco tarde
 
 - ![1000010842](https://github.com/user-attachments/assets/403bdae6-c7c1-45c4-81fd-2078caacdb73)
 
- ### encargo 18 de tinkercad a protoboard
+ ### encargo-18: de tinkercad a protoboard
 
  **traspasar circuito pwm hecho en tinkercad a protoboard**
 
@@ -58,8 +60,6 @@ llegué un poco tarde
 
  ![1000011329](https://github.com/user-attachments/assets/22516e39-d51b-4b5d-8674-10180ff86461)
 
- 
-
 https://github.com/user-attachments/assets/4e382456-b36f-415d-a4ec-26a28e4d2f01
 
 ### actualización
@@ -69,30 +69,15 @@ pregunté en clases en qué había fallado el circuito y misaaa me ayudó amable
 - se cambiaron los condensadores 474 por condensadores cerámicos de 104 en paralelo, estos fueron los unicos 2 cambios que se hicieron, adjunto video y foto del circuito funcionando
 - también se simplificó el circuito en la parte izquierda donde estaban los cables amarillos conectados a los diodos, se sacó uno y se conectaron ambos diodos a 1 cable
 
-
 ![1000011407](https://github.com/user-attachments/assets/8e00869c-f543-4488-a646-c028e37c3c54)
 
+<https://github.com/user-attachments/assets/f5e06c0a-44c3-4631-88b0-6982ab0ead84>
 
-
-
-https://github.com/user-attachments/assets/f5e06c0a-44c3-4631-88b0-6982ab0ead84
-
-
-
-
- 
-
- 
-
-
-
-
- 
- ### encargo 19 Laurie Anderson
+### encargo-19 Laurie Anderson
 
  Laurie Anderson, nacida el 5 de junio de 1947 en Glen Ellyn, Illinois, Estados Unidos. Se describe como una cantante, violinista,poeta,dibujante y artista experimental de performance. Los ámbitos en los cuáles se desplaza a través de su arte incluyen reflexiones irónicasdel lenguaje, política norteamericana, el rol de los sexos y la civilización occidental moderna en su conjunto. Es conocida por poseer diversas obras que se mueven en el mundo musical, visual, artístico y experimental.
 
- ### algunas obras destacadas
+### algunas obras destacadas
 
 A continuación se mostrarán algunas de las obras destacadas de Laurie Anderson, tanto en el mundo visual,documental y musical
 
@@ -123,7 +108,6 @@ El resultado es una obra innovadora que abarca los mundos de las artes visuales,
 ![laurie-anderson-amelia](https://github.com/user-attachments/assets/1aa637dc-72c0-4603-9923-fa188cbef8f5)
 
 Amelia, (2024)
-
 
 En esta ocasión luego de investigar sobre Laurie Anderson y adentrarme dentro de su arte, me fui por el ámbito musical y el álbum que elegí fue "Amelia". Este álbum fue lanzado el 30 de agosto de 2024 a través de Nonesuch Records. Este disco tiene una duración de 34 minutos y 51 segundos, consta de 22 piezas dentro de las cuáles se narra la tragedia de la aviadora Amelia Earhart que desapareció en un vuelo en el año 1937. El álbum se reproduce de forma narrativa, todas las pistas entre sí están conectadas a través de transiciones muy bien logradas
 

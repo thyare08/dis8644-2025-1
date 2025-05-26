@@ -12,7 +12,7 @@
 2. juntarse entre 3 personas, c/u con un LED rojo, verde o azul
 3. combinar colores
 
-![PWMtinkecard](\archivos\PWMtinkecard.png)
+![PWMtinkecard](./archivos/PWMtinkercad.png)
 
 pin 5 del 555 - control de voltaje, es inestable, por eso se usa un condensador
 
@@ -38,9 +38,7 @@ puede usar alimencación bipolar "es un cacho"
 
 si quiero dividir a la mitad el voltaje de la batería, pongo una resistencia en cada lado
 
-
 # falstad
-
 
 # circuito RLC
 

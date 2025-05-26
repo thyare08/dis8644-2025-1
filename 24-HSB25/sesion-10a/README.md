@@ -1,6 +1,6 @@
 # sesion-10a
 
-# Encargo 20: Pantallas de siete segmentos
+# encargo-20: Pantallas de siete segmentos
 
 Una pantalla de siete segmentos es un dispositivo electrónico que muestra números y algunos caracteres alfanuméricos mediante la activación de siete segmentos individuales en forma de LED. Cada segmento está etiquetado con una letra de la 'a' a la 'g', y al encender combinaciones específicas de estos segmentos, se pueden representar los dígitos del 0 al 9 y algunas letras.
 
@@ -25,7 +25,7 @@ Indica la hora en formato de 12 horas (AM/PM).
 
 Tiene iconos de alarma activa y configuración de hora visibles.
 
-![IMG01](https://raw.githubusercontent.com/HSB25/dis8644-2025-1/refs/heads/main/24-HSB25/sesion-10a/IMG_ENCARGO_01.jfif)
+![IMG01](./archivos/imagen-01.jpg)
 
 # Reloj Digital Casio A168
 
@@ -38,7 +38,7 @@ El Casio A168 es un clásico reloj digital que utiliza una pantalla LCD (Liquid 
 | Visibilidad        | Buena en luz ambiental, menos visible en oscuridad sin retroiluminación | Muy visible en oscuridad       |
 | Costo              | Generalmente más económico y duradero                                   | Más caro y con menor vida útil |
 
-![IMG02](https://raw.githubusercontent.com/HSB25/dis8644-2025-1/refs/heads/main/24-HSB25/sesion-10a/IMG_ENCARGO_02.jfif)
+![IMG02](./archivos/imagen-02.jpg)
 
 
 

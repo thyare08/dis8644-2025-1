@@ -50,7 +50,7 @@
 
 ![tme-seson07b-render](https://github.com/user-attachments/assets/de4cd46f-cfff-4804-be70-1a4e7ef39660)
 
-### 16-Cotizar ud_pudu en JLCPCB de forma productiva
+### encargo-16: Cotizar ud_pudu en JLCPCB de forma productiva
 
 - Primera cotización: 10 PCBs de 1.2 mm de espesor, color verde y acabado HASL (con cable). el costo es de $5.00 USD y el tiempo de entrega estimado es de dos días. el precio no varía si se elige un espesor de 1 mm, 1.2 mm o 1.6 mm.
 
@@ -60,8 +60,7 @@
 
 ![tme-sesion07b-JLC01](https://github.com/user-attachments/assets/cb75f011-3a44-4b86-b433-5c7561588350)
 
-
-### 17-Cotizar udpudu en JLCPCB de forma experimental
+### encargo-17: Cotizar udpudu en JLCPCB de forma experimental
 
 - segunda cotización: 10 PCBs de 1.2 mm de espesor, color blanco y acabado HASL sin plomo. el costo es de $22.73 USD, con un tiempo de entrega estimado de tres días. el precio se mantiene igual si se opta por un espesor de 1 mm o 1.6 mm.
 - de manera más experimental, pude darme cuenta de que al elegir un espesor de 0.4 mm o 0.6 mm, solo se habilita la opción de acabado superficial ENIG. este tipo de acabado es comúnmente utilizado en PCBs más delgadas, ya que ofrece una superficie más plana y precisa, además de ser más resistente a la oxidación.

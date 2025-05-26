@@ -1,24 +1,27 @@
 # sesion-09b
+
 ## Módulo de la mañana
+
 Land art, crear obras directamente para un espacio o lugar en específico.
 
-Gordon Matta Clark, una persona que se declara arquitecto.
+Gordon Matta Clark, una persona que se declara anarquitecto.
 
 Vamos a controlar movimientos y luz, o sea, LEDs y motores.
 
 Nos pasaron lo siguiente:  
--8403 es un módulo que permite que un parlante suene más fuerte.  
--Relé que puede transmitir pequeñas señales de control, para que cambie el estado de otro componente.  
 
+- 8403 es un módulo que permite que un parlante suene más fuerte.  
+- Relé que puede transmitir pequeñas señales de control, para que cambie el estado de otro componente.  
 
 Las configuraciones del 555 que conocemos son:  
--Astable, que oscila constantemente entre sus modos.  
--Monoestable, que está naturalmente en un estado hasta que se perturba, cambia al otro estado y se mantiene por un tiempo en ese cambio, para después volver al estado anterior.  
+
+- Astable, que oscila constantemente entre sus modos.  
+- Monoestable, que está naturalmente en un estado hasta que se perturba, cambia al otro estado y se mantiene por un tiempo en ese cambio, para después volver al estado anterior.  
 
 Estos pueden tener un output de LEDs, sonido, movimiento, aviso.
 
-
 Tenemos distintos niveles respecto a las máquinas eléctricas que hemos creado y existen:  
+
 -Electrones  
 -Materia  
 -Componentes  
@@ -143,8 +146,6 @@ Menciona a Metal Academy, la cual es única en su género.
 
 ![Foto de la pizara antes de ir a la charla](./archivos/screenshot-9b-(29).jpg)
 
-
-
 Abyssery les pidió un logo supercomercial; el de la derecha es muy brutal death metal, que fue muy difícil de trabajar, que hubo muchísimo back and forth. 
 
 ![Foto de la pizara antes de ir a la charla](./archivos/screenshot-9b-(30).jpg)
@@ -205,8 +206,7 @@ No hay que perder la paciencia, dentro de lo posible.
 
 Una vez que los bocetos son aprobados por el cliente, él los pasa a la tinta.
 
-Ha hecho varias ilustraciones, pero siempre le dicen que otras personas ya han hecho algo mejor que ya los dejaron satisfechos; por esta razón, casi nunca acaba haciendo ilustración para 
-proyectos Christophe.
+Ha hecho varias ilustraciones, pero siempre le dicen que otras personas ya han hecho algo mejor que ya los dejaron satisfechos; por esta razón, casi nunca acaba haciendo ilustración para proyectos Christophe.
 
 ![Foto de la pizara antes de ir a la charla](./archivos/screenshot-9b-(39).jpg)
 
@@ -223,8 +223,6 @@ De toooodas las propuestas, no fue aceptada ninguna.
 ![Foto de la pizara antes de ir a la charla](./archivos/screenshot-9b-(42).jpg)
 
 ![Foto de la pizara antes de ir a la charla](./archivos/screenshot-9b-(43).jpg)
-
-
 
 Un gran agradecimiento a Enrique Zuñiga, que lo inspiró para crear sus logos cuando tuvo tan solo 18 años.
 
@@ -246,8 +244,7 @@ Siempre que puede, pide que le envíen links con la música; es algo necesario, 
 
 You cannot assume the identity of a band before you ask them the questions.
 
-Trabaja con otros diseñadores gráficos, ya que él se concentra en el trabajo con las manos, ya que no es muy capo con las computadoras, en las cuales se puede tener contacto directo con el 
-cliente, para que el logo pueda ser entregado mientras tanto él trabaja con sus otros 17 logos.
+Trabaja con otros diseñadores gráficos, ya que él se concentra en el trabajo con las manos, ya que no es muy capo con las computadoras, en las cuales se puede tener contacto directo con el cliente, para que el logo pueda ser entregado mientras tanto él trabaja con sus otros 17 logos.
 
 Se demoró tanto tiempo en aprender lo digital que ya explotó.
 
@@ -267,9 +264,10 @@ En ambigramas se parte de una palabra fácil, para ver cómo se combina o se mue
 
 ![Foto de la pizara antes de ir a la charla](./archivos/screenshot-9b-(50).jpg)
 
-Para terminar, nos mostro una cancion y agradecio nuestra asistencia a la charla
+Para terminar, nos mostró una cancion y agradeció nuestra asistencia a la charla
 
 ## encargo-18: de tinkercad a protoboard
+
 Logré replicar el circuito PWM (Pulse Width Modulation), pero en vez del condensador cerámico de 100n, ocupé el que más se asemejaba entre los componentes de mi kit, que era un condensador 101.
 
 ![Video del circuito funcionando](./archivos/9b-encargo18-(1).mp4)
@@ -277,22 +275,26 @@ Logré replicar el circuito PWM (Pulse Width Modulation), pero en vez del conden
 ![Foto SUperior del circuito](./archivos/9b-encargo18-(3).jpg)
 
 ## encargo-19: cultura electrónica y laurie anderson
+
 Escuché y vi el video O Superman de Laurie Anderson, el cual fue lanzado en octubre de 1981 en el Reino Unido, el cual personalmente me pareció ligeramente perturbador en la 1.ª visualización, ya que el sonido constante del fondo me dejó ligeramente loco y algo, que no sé específicamente qué, me dejó fuera de lugar, como si esa fuese la intención de la canción.
 
- Pero ya luego de verlo con un poco más de atención, me di cuenta de que es un diálogo, que está contextualizado a un ataque armado estadounidense, que Anderson dijo directamente que se refiere a Irán-Contra o también conocido como Irangate, un escándalo en el que Estados Unidos le vendió armas a Irán de manera secreta, pero está más enfocada en los casos de rehenes en Irán del año 1979-1980, específicamente en cómo se estrelló un helicóptero de rescate en la llamada operación Garra de Águila.
+Pero ya luego de verlo con un poco más de atención, me di cuenta de que es un diálogo, que está contextualizado a un ataque armado estadounidense, que Anderson dijo directamente que se refiere a Irán-Contra o también conocido como Irangate, un escándalo en el que Estados Unidos le vendió armas a Irán de manera secreta, pero está más enfocada en los casos de rehenes en Irán del año 1979-1980, específicamente en cómo se estrelló un helicóptero de rescate en la llamada operación Garra de Águila.
 
 Desde el aspecto visual del video musical, se ocupaban mucho el juego de sombras y la luminosidad, creando algunas imágenes fantásticas, como la de la cabeza de Anderson, que tenía una ampolla dentro.
 
 ![Laurie Anderson en el principio del video musical, donde una de sus manos es ocupada para crear una sombra en el fondoo](./archivos/9b-encargo19-(1).png)
+
 ![La imagen de la cabeza con una ampolleta a la que me referia](./archivos/9b-encargo19-(2).png)
+
 ![Laurie en un fondo rojo, en casi completa oscuridad](./archivos/9b-encargo19-(3).png)
+
 ![Una pequeña parte donde no se ocupaba las sombras, pero la unclui porque me parecio curioso que hubiera una persona representando en lenguaje de señas lo que se estaba diciendo en esta parte especifica del video](./archivos/9b-encargo19-(4).png)
 ![Una mano de una persona, que puede no ser de Laurie, haciendo distintas señas, esta en especifico de una pistola disparando](./archivos/9b-encargo19-(5).png)
+
 ![La mano depsidiendose de la persona viendo el video](./archivos/9b-encargo19-(6).png)
-
-
 
 Personalmente, puedo apreciar esta obra de una manera debido al contexto que leí, pero personalmente no es mi estilo de música, así que estuvo bien el escucharla, pero creo que al menos esto no lo volvería a escuchar, aunque puede que me vaya a escuchar y/o observar algún otro elemento de Laurie Anderson en el futuro.
 
 Referencias:  
+
 -https://es.m.wikipedia.org/wiki/O_Superman

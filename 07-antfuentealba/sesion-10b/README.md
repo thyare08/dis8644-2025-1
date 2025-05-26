@@ -1,6 +1,9 @@
 # sesion-10b
+
 ## apuntes
+
 ![10B1](https://github.com/user-attachments/assets/7cc40319-63fc-42ce-b19d-dcb8be8e2fc4)
+
 ## encargo-22
 
 ## Pasos de ensamblaje
@@ -63,7 +66,9 @@
 - Si el diseño será encapsulado, considera la orientación y altura de los componentes desde el inicio.
 
 ## encargo-23
+
 en orden de los pasos mencionados
+
 1. **Reunir los componentes**  
    Recopilar todos los elementos necesarios según el diseño de la PCB (resistencias, diodos, capacitores, LEDs, socket para chip 555, etc).
    ![10B2](https://github.com/user-attachments/assets/d03fa200-ec49-438e-97c0-3b2611045631)

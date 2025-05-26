@@ -1,11 +1,13 @@
 # sesion-06b
 
 ## encargo-12: instalar kicad
+
 Personalmente, instalé KiCad 9.0 en mi computadora que tiene sistema operativo Windows 11, donde tengo de idioma determinado por mí el inglés, ya que siempre que quiero buscar tutoriales, me acomoda más buscar alguno en inglés, porque siento que tengo más respuestas distintas a mi problema al momento de buscarlo en internet.
 
 "C:\Program Files\KiCad\9.0" es la carpeta en donde encuentro el programa instalado.
 
 ## encargo-13: ver el documental Sisters with transistors 
+
 A continuación destaco algunas de las “sisters”, como diría el título del documental, puntos que me llamaron la atención o frases que me parecieron importantes que ellas mencionan u otras personas que narraban durante su segmento del documental.
 
 
@@ -46,9 +48,4 @@ Creó un programa llamado “Music Mouse”.
 Un programa que convertía el computador Macintosh en un instrumento que podías tocar, usaba la lógica de los computadores de manera supportive para la expresión musical.  
 Ella quería un instrumento que fuese completamente suyo. 
 
-
-
-
 La visibilidad de estas artistas hoy en día está mejorando poco a poco, pero no lo suficiente cuando han existido tantas distintas mujeres que han desarrollado piezas musicales maravillosas.
-
-
