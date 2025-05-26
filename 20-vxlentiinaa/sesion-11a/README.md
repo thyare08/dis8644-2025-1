@@ -3,6 +3,7 @@
 20-05-2025
 
 ## Apuntes
+
 * _Ontología orientada a los objetos (ooo)_: Es  una perspectiva filosófica que sostiene que los objetos son entidades independientes que existen en si mismos. ***Para qué sirve y para qué está hecho***
 
 | Componentes| 
