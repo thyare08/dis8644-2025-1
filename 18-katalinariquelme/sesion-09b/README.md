@@ -66,13 +66,13 @@ Foto de mi bitácora
 
 ![Captura de pantalla 2025-05-11 174852](https://github.com/user-attachments/assets/4f3c6a51-5cbe-4e61-9761-515284382c47)
 
-## Encargo 18: Realizar circuito de clases en protoboard
+## encargo-18: Realizar circuito de clases en protoboard
 
 Registro propio
 
 ![IMG_0628](https://github.com/user-attachments/assets/511e8693-8deb-465a-af7e-d1e7c580b3f4)
 
-## Encargo 19: Investigar cultura electrónica y laurie anderson.
+## encargo-19: Investigar cultura electrónica y laurie anderson.
 
 **Contexto**
 
@@ -114,7 +114,6 @@ Imagen rescada de wikipedia https://en.wikipedia.org/wiki/Strange_Angels_(Laurie
 Infromación rescatada de https://www.allmusic.com/album/strange-angels-mw0000205501
 
 **Opinión del disco:** por lo que pude investigar es el primer disco en el cual Laurie canta, dejando un poco de lado ese estilo más hablado y experimental que la hizo famosa . Fue una sensación de cercania y tiene canciones con melodías lindas pero sin perder eso irónico y observador que la caracteriza. Es como si se hubiera propuesto mostrar otro lado suyo: más musical, más humano, pero igual de raro y original. Para poder llegar a esta opinión, debido a que es el primer disco en el cual Laurie se "atreve a cantar de verdad" tuve que compararlo con otro disco que fue "Big Science", el cual fue su debut y también el primero de un contrato de siete álbumes que Anderson firmó con Warner Bros. Records. La verdad no escuche este disco completo pero si una que otra canción, ya que solo queria saber cual era la difencia, me percate que en este disco (Big Science) existen sonidos repetitivos y sintetizadores etéreos y que la voz de Laurie es de un tono frío, las frases son con ironía y simbolismo.
-
 
 ## Referencias bibliograficas
 

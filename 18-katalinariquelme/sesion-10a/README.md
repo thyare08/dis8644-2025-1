@@ -56,7 +56,6 @@ Imagen rescada de wikipedia https://es.wikipedia.org/wiki/Visualizador_de_siete_
 
 fue capturada el 14/05 en mi casa.
 
-
 **IMAGEN 2**
 
 ![estufa](https://github.com/user-attachments/assets/4624c423-3ebd-4dcb-a969-b331d8c37057)
@@ -108,3 +107,4 @@ w 128 464 128 432 0
 w 160 400 128 432 0
 r 240 320 240 192 0 1000
 w 240 192 384 192 0
+```

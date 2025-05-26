@@ -13,7 +13,7 @@ Martes 20 de Mayo del 2025.
 - POT
 - BAT (batería)
 - PS (power sup)
-- +9V (positivo/ 9 volteos)
+- +9V (positivo/ 9 volts)
 - GND (ground)
 - LED
 - OP AMP
@@ -22,16 +22,16 @@ Martes 20 de Mayo del 2025.
 - PROTO (protoboard)
 - Sn (estaño)
 - PCB (placa)
-- PEFBOARD (placa perforada)
+- PERFBOARD (placa perforada)
 
 **Circuitos que conocemos**
 
 - Atari Punk Consolo (APC)
-- PWN (duty cycue)
+- PWN (duty cycle)
 - Astable (AS)
 - Monostable (MS)
 
-**Apucaciones**
+**Aplicaciones**
 
 - APC (Atari Punk Console)
 - Brilld LED
