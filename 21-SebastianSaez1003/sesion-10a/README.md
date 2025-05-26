@@ -1,5 +1,7 @@
 # sesion-10a
+
 ## Módulo de la mañana
+
 Tratar de escuchar “Descartes” de Silvio Rodríguez.
 
 Para comenzar, armamos cada uno un circuito PWM en el que el LED era de distinto color, siendo rojo, verde o azul respectivamente.
@@ -9,7 +11,6 @@ Para un LED verde tal vez es mucha resistencia una de 1k; la cambiaremos a 220.
 El verde es el receptor de luz que tenemos mejor como seres humanos.
 
 ![El producto de nuestros 3 protoboards armados](./archivos/10a-clase(1).jpg)
-
 
 Acabamos de construir una rosa cromática, o al menos el funcionamiento de esta, ya que al juntar cada uno de estos LEDs, la luz se podía observar “mezclándose”.
 
@@ -189,5 +190,4 @@ w 560 368 560 384 0
 w 656 192 672 192 0
 211 672 192 672 96 0 1 8000 1
 o 81 64 0 4098 10 0.1 0 1
-
 ```

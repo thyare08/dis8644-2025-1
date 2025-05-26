@@ -1,5 +1,7 @@
 # sesion-10b
+
 ## Módulo de la mañana
+
 Circuit Bend Speak & Spell
 
 Hack of the Month Club -- Proyecto #3: Jumping Speakers
@@ -25,6 +27,7 @@ Vamos a hacer una guía de ensamblaje de nuestro udpudu.
 Hicimos la guía de ensamblaje de nuestro udpudu, como se puede observar en los encargos 22 y 23.
 
 ## encargo-22: documentación textual del proceso de ensamblado de udpudu / encargo-23: documentación visual del proceso de ensamblado de udpudu
+
 <ins> Paso 1: </ins> Vamos a agarrar y ordenar nuestros componentes, según lo que indica en el BOM, asegurándonos de que sean de los valores adecuados.
 
 ![Foto con todos los componentes ordenados](./archivos/10b-encargo-22&23-(1).jpg)
