@@ -1,5 +1,5 @@
 # sesion-12a
 
-mira esto que hicimos en clase}
+mira esto que hicimos en clase
 
-![bandera mora crema](./archivos/banderaMoraCrema.png)
+![bandera mora crema](./archivos/banderaExtranaMoraCrema.png)
