@@ -11,6 +11,7 @@ Foto esquemático PWM.
 
 Foto del circuito PWM en protoboard.
 
+![Circuito Pulse Width Modulation en protoboard](./a)
 Foto del circuito PWM con modificaciones.
 
 ## Pantallas de 7 segmentos:
