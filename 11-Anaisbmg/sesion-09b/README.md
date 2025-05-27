@@ -64,7 +64,7 @@ bom
 |capacitor|1|100n|
 |led|1|red|
 |diodo|2||
-|potenciómetro|1|100k|
+|potenciómetro|1|500k|
 |bateria|1|9v|
 
 ![circuitoPWM](https://github.com/Anaisbmg/dis8644-2025-1/blob/main/11-Anaisbmg/sesion-09b/archivos/circuitoPWM.png)
@@ -77,7 +77,7 @@ bom
 |capacitor polarizado|1|100uf|
 |led|1|red|
 |diodo|2||
-|potenciómetro|1|100k|
+|potenciómetro|1|500k|
 |bateria|1|9v|
 
 ![foto](https://github.com/Anaisbmg/dis8644-2025-1/blob/main/11-Anaisbmg/sesion-09b/archivos/foto.png)
