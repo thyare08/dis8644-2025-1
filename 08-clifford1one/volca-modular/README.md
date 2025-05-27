@@ -2,6 +2,8 @@
 
 ##
 
+[Contexto](./README.md/#contexto)
+
 ## Contexto
 
 Un sintetizador es un instrumento musical electrónico que **genera señales eléctricas**, las cuales son **convertidas a sonido audible** a través de un altavoz.
@@ -26,7 +28,6 @@ Para afinar usar *FUNC* + *RATIO knob*
 
 Factores que pueden acelerar el deterioro del volca modular:
 Exposición a la luz del sol, temperaturas extremas, exceso de polvo/suciedad, vibración excesiva, campos magnéticos potentes.
-
 
 ## Interfaz
 
@@ -70,6 +71,7 @@ el volca modular contiene una serie de entradas y salidas mini jack
 
     - - IN: cuando esté conectado ignorará el reloj interno propio del volca modular. 
     - - OUT: manda señales de 5V el comienzo de cada step.
+    -c:cambiar reloj por temporizador o clock-
 
 Salida de audífonos: al conectar audífonos el parlante del dispositivo dejará de sonar.
 
