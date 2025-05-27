@@ -10,3 +10,5 @@
 
 ###
 > - Tras la llegada de Aaron, nos comentó que esta sería la última clase de circuitos, ya que para la próxima clase, nos dedicaríamos a desarrollar nuestro **PROYECTO DE EXAMEN**.
+>
+### Tutorial de como subir una foto
