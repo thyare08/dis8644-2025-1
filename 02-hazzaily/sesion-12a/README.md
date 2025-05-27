@@ -10,13 +10,19 @@ Foto de mi croquera.
 
 ## Detector de sombra
 
+Foto circuito esquemático Detector de sombra por Matías Serrano.
+
 **Etapa 1: Detector de sombra**
 
  - Inicialmente con un potenciómetro controlamos el punto en donde el LED casi se apaga, dejándolo justo ahí. Luego generando sombra sobre el LDR deberíamos lograr que el LED se apague, y que cada vez que el mismo LDR sea estimulado con luz se vuelva a prender.
 
- Foto esquemático en mi croquera.
+Foto esquemático en mi croquera.
 
- ![Circuito esquemático etapa 1](./archivos/etapa_1.jpg)
+![Circuito esquemático etapa 1](./archivos/etapa_1.jpg)
+
+Foto circuito etapa 1 en protoboard.
+
+Video funcionamiento circuito etapa 1 en protoboard.
  
 **Etapa 2: Temporizador**
 
@@ -28,6 +34,10 @@ Foto esquemático en mi croquera.
 
 ![Circuito esquemático etapa 2](./archivos/etapa_2.jpg)
 
+Foto circuito etapa 2 en protoboard.
+
+Video funcionamiento circuito etapa 2 en protoboard.
+
 **Etapa 3: Secuenciador**
 
 - Al añadir un chip 4017 logramos incorporar un secuenciador de LEDs que se prenden en orden cada vez que se ubica una sombra sobre el LDR, esto quiere decir que cada vez que se hace sombra sobre el LDR cambia el LED de la etapa 3 que se enciende de forma odenada.
@@ -37,3 +47,9 @@ Foto esquemático en mi croquera.
 Foto esquemático en mi croquera.
 
 ![Circuito esquemático etapa 3](./archivos/etapa_3.jpg)
+
+Foto circuito etapa 3 en protoboard.
+
+Video funcionamiento circuito etapa 3 en protoboard.
+
+
