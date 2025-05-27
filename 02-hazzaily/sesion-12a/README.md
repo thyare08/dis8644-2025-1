@@ -6,6 +6,8 @@
 
 Foto de mi croquera.
 
+![Apuntes clase 11a](./archivos/apuntes_12a.jpg)
+
 ## Detector de sombra
 
 **Etapa 1: Detector de sombra**
@@ -13,6 +15,8 @@ Foto de mi croquera.
  - Inicialmente con un potenciómetro controlamos el punto en donde el LED casi se apaga, dejándolo justo ahí. Luego generando sombra sobre el LDR deberíamos lograr que el LED se apague, y que cada vez que el mismo LDR sea estimulado con luz se vuelva a prender.
 
  Foto esquemático en mi croquera.
+
+ ![Circuito esquemático etapa 1](./archivos/etapa_1.jpg)
  
 **Etapa 2: Temporizador**
 
@@ -22,6 +26,8 @@ Foto de mi croquera.
 
 Foto esquemático en mi croquera.
 
+![Circuito esquemático etapa 2](./archivos/etapa_2.jpg)
+
 **Etapa 3: Secuenciador**
 
 - Al añadir un chip 4017 logramos incorporar un secuenciador de LEDs que se prenden en orden cada vez que se ubica una sombra sobre el LDR, esto quiere decir que cada vez que se hace sombra sobre el LDR cambia el LED de la etapa 3 que se enciende de forma odenada.
@@ -30,4 +36,4 @@ Foto esquemático en mi croquera.
 
 Foto esquemático en mi croquera.
 
-
+![Circuito esquemático etapa 3](./archivos/etapa_3.jpg)
