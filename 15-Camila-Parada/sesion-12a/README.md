@@ -24,6 +24,7 @@ Logica de boole
 https://es.wikipedia.org/wiki/%C3%81lgebra_de_Boole
 
 Compuerta AND
+
 ![image](https://github.com/user-attachments/assets/42f89508-1e21-442b-aadf-22fd17b8f55d)
 
 
