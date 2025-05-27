@@ -3,6 +3,8 @@
 
 ## 555 usado como timer conectado a un 4017 para usar 4 salidas
 
+Un chip 4017 tiene 16 pines, de los cueles 10 son de output
+
 ![circuito](https://github.com/AlanisMria/dis8644-2025-1/blob/main/27-AlanisMria/sesion-11b/archivos/circuito.jpg)
 
 
