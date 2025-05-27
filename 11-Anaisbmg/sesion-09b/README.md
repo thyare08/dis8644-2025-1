@@ -59,3 +59,11 @@ bom
 |diodo|2||
 |potenciómetro|1|100k|
 |bateria|1|9v|
+
+## encargo-18: de tinkercad a protoboard
+
+les pedimos que por favor tomen el circuito que simulamos en tinkercad y lo traspasen a su protoboard, usando los componentes que tienen en su kit de materiales.
+
+## encargo-19: cultura electrónica y laurie anderson
+
+estudiar la obra de laurie anderson, incluir citas y referentes usados, explicar qué y por qué les gusta o no de su trabajo.
