@@ -1,10 +1,12 @@
 # Manual de uso  para el volca modular
 
-###
+##
 
 ## Contexto
 
 Un sintetizador es un instrumento musical electrónico que **genera señales eléctricas**, las cuales son **convertidas a sonido audible** a través de un altavoz.
+
+-c: sonido perceptible-
 
 Los sintetizadores **generan y procesan** señales, por lo que es capaz de generar un rango mucho más variado de sonidos que un instrumento tradicional. Un sintetizador tiene una **serie de procesos internos** los cuales dan como resultado distintos sonidos.
 
@@ -12,19 +14,18 @@ Los sintetizadores **generan y procesan** señales, por lo que es capaz de gener
 
 Volca Modular es un sintetizador **semi-modular**, esto quiere decir que permite al usuario manipular el **orden y presencia** de los procesos internos del sistema.
 
+-c: presencia-
 
 Dentro del volca modular existen 8 módulos independientes con funciones específicas que el usuario puede manipular para lograr distintos sonidos.
 
 ### precauciones
 
-
-Los osciladores del volca modular están fabricados con circuitos analógicoa dicretos, por lo que su afinación puede variar dependiendo de factores ambientales como la temperatura.
+Los osciladores del volca modular están fabricados con circuitos analógicos discretos, por lo que su afinación puede variar dependiendo de factores ambientales como la temperatura.
 
 Para afinar usar *FUNC* + *RATIO knob*
 
 Factores que pueden acelerar el deterioro del volca modular:
-Exposición a la luz del sol, temperaturas exctremas, exceso de polvo/suciedad, vibración excesiva, campos magnéticos potentes.
-
+Exposición a la luz del sol, temperaturas extremas, exceso de polvo/suciedad, vibración excesiva, campos magnéticos potentes.
 
 
 ## Interfaz
@@ -245,33 +246,41 @@ dependiendo de cuáles pines  y en qué orden estén conectados, se lograrán di
 Explorar los patch permite entender el comportamiento de los módulos y como éstos afectan al sonido resultante. KORG ofrece una serie de ejemplos básicos.
 
 ![ejemplo "Western Bongo"](images/vm-example1.png)
+
 Western Bongo
 Un sonido de percusión metálica producido mediante modulación FM y un wave folder. Se trata de un sonido básico del módulo SOURCE.
 
 ![ejemplo "Random Release"](images/vm-example2.png)
+
 Random Release
 El tiempo de liberación del generador ADH es variado al azar mediante sample & hold, aplicando un ritmo orgánico a la secuencia.
 
 ![ejemplo "Gate Math"](images/vm-example3.png)
+
 Gate Math
 Se mezcla sustractivamente un contador de puerta de una frecuencia diferente. El mando UTILITY controla la cantidad de la mezcla, variando el ritmo del cambio tonal.
 
 ![ejemplo "Polyrhythmic Duo"](images/vm-example4.png)
+
 Polyrhythmic Duo
 El modulador de FM se obtiene como audio de onda triangular, y haciéndola pasar por una función de puerta de paso bajo que es independiente del portador, se superponen polirrítmicamente dos tipos de frases.
 
 ![ejemplo "Generative"](images/vm-example5.png)
+
 Generative
 Se realiza un bucle del generador de ascenso-caída para crear un LFO que modula el tono y el corte. Puesto que la velocidad del LFO cambia irregularmente, se produce una variedad de caracteres tonales.
 
 ![ejemplo "Walking Bass"](images/vm-example6.png)
+
 Walking Bass
 Una onda triangular con el tono disminuido suena con una frecuencia baja mediante el contador de puerta. Esto hace que el bajo se añada a la secuencia principal una vez cada cuatro pasos.
 
 ![ejemplo "Vibrato"](images/vm-example7.png)
+
 El LFO se utiliza para modular ligeramente el tono de una onda triangular, lo que permite tocar un suave sonido solista que recuerda sonoridades de cuerdas solistas. 
 
 ![ejemplo "Dubsteo Bass"](images/vm-example8.png)
+
 El LFO modula el corte de la puerta de paso bajo, haciendo que suene un bajo FM con una sensación de movimiento. UTILITY y SPLIT se utilizan para reducir la velocidad del LFO cuanto más bajo sea el tono.
 
 
@@ -313,7 +322,8 @@ las funciones avanzadas se desbloquean con el uso de *FUNC*
 *FUNC* + *STEP[2]* (modo selección de tónica) >> *STEP[1-12]* (activa la tónica seleccionada)
 *FUNC* + *RATIO knob* (ajustar afinación global del oscilador)
 
-para ver el resto de funciones especiales visitar el manual de uso del volca modular
+para ver el resto de funciones especiales visitar el ["manual de uso del volca modular "](https://cdn.korg.com/jp/support/download/files/8a84fea394a4519c822e68f28ac5ab3b.pdf)
+
 
 ## Refrenecias
 
@@ -321,8 +331,7 @@ para ver el resto de funciones especiales visitar el manual de uso del volca mod
 
 - ["volca modular Owner's Manual"](https://cdn.korg.com/jp/support/download/files/8a84fea394a4519c822e68f28ac5ab3b.pdf)
 
-- [simbológía "Patch and Tweaks"](https://www.patchandtweak.com/patch-symbols-explained/
-)
+- [simbológía "Patch and Tweaks"](https://www.patchandtweak.com/patch-symbols-explained/)
 
 - [synthesizers wikipedia's page](https://en.wikipedia.org/wiki/Synthesizer)
 
