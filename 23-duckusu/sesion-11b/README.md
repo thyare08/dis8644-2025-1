@@ -4,7 +4,7 @@
 
 ### Circuito PWM
 
-- Para la clase de hoy nos dedicamos a desarrollar un nuevo circuito como se presentaba en la pizarra, la diferencia con este es que se usarían 3 chips (dos chip 555 y uno 556) para generar un resultado en el funcionamiento de las LEDS.
+- Para la clase de hoy nos dedicamos a desarrollar un nuevo circuito como se presentaba en la pizarra, la diferencia con este es que se usarían 3 chips (dos chip 555 y uno 4017) para generar un resultado en el funcionamiento de las LEDS.
 
 >
 ><div align="left">
