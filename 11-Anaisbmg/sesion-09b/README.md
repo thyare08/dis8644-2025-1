@@ -2,10 +2,12 @@
 
 09-05-2025
 
-## apuntes
-
-
 ### pam 8403
+
+![pam8403](https://github.com/Anaisbmg/dis8644-2025-1/blob/main/11-Anaisbmg/sesion-09b/archivos/pam8403.jpeg)
+
+![detallepam8403](https://github.com/Anaisbmg/dis8644-2025-1/blob/main/11-Anaisbmg/sesion-09b/archivos/detallepam8403.jpeg)
+*ambas fotos sacadas por mi
 
 módulo mini amplificador estéreo 3w pam8403
 
@@ -13,6 +15,11 @@ es un amplificador de audio estéreo clase D. se distingue por la potencia, efic
 
 
 ### srd05
+
+![relé](https://github.com/Anaisbmg/dis8644-2025-1/blob/main/11-Anaisbmg/sesion-09b/archivos/rel%C3%A9.jpeg)
+
+![reésalida](https://github.com/Anaisbmg/dis8644-2025-1/blob/main/11-Anaisbmg/sesion-09b/archivos/rel%C3%A9salida.jpeg)
+*ambas fotos sacadas por mi
 
 srd-05vdc-sl-c
 
@@ -45,7 +52,7 @@ existe uno 5 y 0, y el tiempo en cada uno de estos es el mismo; el promedio podr
 
 existe uno 5 y 0, pero se mantiene más en 0, pero aún va a 5; el promedio podría ser 1
 
-### circuito pwm 
+## circuito pwm 
 
 bom
 
@@ -59,6 +66,22 @@ bom
 |diodo|2||
 |potenciómetro|1|100k|
 |bateria|1|9v|
+
+![circuitoPWM](https://github.com/Anaisbmg/dis8644-2025-1/blob/main/11-Anaisbmg/sesion-09b/archivos/circuitoPWM.png)
+
+|Componente| Cantidad |Unidad|
+|---|---|---|
+|chip |1|555|
+|resistencia|2|1k|
+|capacitor|1|474n|
+|capacitor polarizado|1|100uf|
+|led|1|red|
+|diodo|2||
+|potenciómetro|1|100k|
+|bateria|1|9v|
+
+![foto](https://github.com/Anaisbmg/dis8644-2025-1/blob/main/11-Anaisbmg/sesion-09b/archivos/foto.png)
+*es el de abajo c:
 
 ## encargo-18: de tinkercad a protoboard
 
