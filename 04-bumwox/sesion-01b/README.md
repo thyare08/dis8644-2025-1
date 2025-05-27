@@ -85,8 +85,9 @@ ser participe de un cambio o siquiera solo apoyarlo es un gran paso para avanzar
 ![image](https://github.com/user-attachments/assets/d41c9bdf-c9af-4e35-a607-b2937a26e1d0)
 
 1. protoboard: herramienta que permite conectar componentes electrónicos sin necesidad de soldar, se utiliza para prototipar circuitos electrónicos de forma rápida y sencilla. 
-2. conector de bateria: permite tener conexcion de una bateria a otro dispositivo electrico
+2. conector de bateria: permite tener conexion de una bateria a otro dispositivo electrico
 3. cables dupont: cables eléctricos que se utilizan para conectar componentes electrónicos en una placa de circuito
 4. leds: componentes electrónicos que emiten luz al pasarles corriente eléctrica; son semiconductores que convierten la energía eléctrica en luz visible
 5. resistencias: componentes eléctricos que se oponen al paso de la corriente eléctrica en un circuito
 6. bateria de 9v: pilas eléctricas que se utilizan para alimentar dispositivos electrónicos de bajo consumo
+   
