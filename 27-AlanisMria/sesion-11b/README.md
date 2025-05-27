@@ -20,7 +20,9 @@ Al hacer el circuito es dificil posicionar los componentes, ya que la protoboard
 
 ![circuito555y4017](https://github.com/AlanisMria/dis8644-2025-1/blob/main/27-AlanisMria/sesion-11b/archivos/circuito555y4017.mp4)
 
-en el proceso presenciamos la muerte de un potenciometro, se quemo debido a que uno de sus pins estaba incorrectamente conectado a VCC :(, salio mucho humo.
+En el proceso presenciamos la muerte de un potenciometro, se quemo debido a que uno de sus pins estaba incorrectamente conectado a VCC :(, salio mucho humo.
+
+![potenciometroCaidoF](https://github.com/AlanisMria/dis8644-2025-1/blob/main/27-AlanisMria/sesion-11b/archivos/potenciometroCaidoF.jpg)
 
 Luego usamos un LDR como resistencia variable
 
