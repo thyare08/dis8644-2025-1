@@ -13,3 +13,7 @@
 ### Tutorial de como subir una foto
 
 - ![nombre de foto](dirección de la foto)
+
+## Post receso
+### Detector de sombra
+- fotos se mandarán despues.
