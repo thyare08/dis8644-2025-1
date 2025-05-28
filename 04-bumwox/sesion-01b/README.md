@@ -82,7 +82,7 @@ ser participe de un cambio o siquiera solo apoyarlo es un gran paso para avanzar
 
 ## 03. caja de componentes
 
-![resistencias-electronicas](componentes/resistencias-electronicas.jpg)
+![resistencias-electronicas](04-bumwox/sesion-01b/componentes/resistencias-electronicas.jpg)
 
 1. protoboard: herramienta que permite conectar componentes electrónicos sin necesidad de soldar, se utiliza para prototipar circuitos electrónicos de forma rápida y sencilla. 
 2. conector de bateria: permite tener conexion de una bateria a otro dispositivo electrico
