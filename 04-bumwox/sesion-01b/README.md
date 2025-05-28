@@ -82,12 +82,29 @@ ser participe de un cambio o siquiera solo apoyarlo es un gran paso para avanzar
 
 ## 03. caja de componentes
 
+1. __resistencias electronicas:__
 ![resistencias-electronicas](https://github.com/bumwox/dis8644-2025-1/blob/main/04-bumwox/sesion-01b/componentes/resistencias-electronicas.jpg)
 
-1. protoboard: herramienta que permite conectar componentes electrónicos sin necesidad de soldar, se utiliza para prototipar circuitos electrónicos de forma rápida y sencilla. 
-2. conector de bateria: permite tener conexion de una bateria a otro dispositivo electrico
-3. cables dupont: cables eléctricos que se utilizan para conectar componentes electrónicos en una placa de circuito
-4. leds: componentes electrónicos que emiten luz al pasarles corriente eléctrica; son semiconductores que convierten la energía eléctrica en luz visible
-5. resistencias: componentes eléctricos que se oponen al paso de la corriente eléctrica en un circuito
-6. bateria de 9v: pilas eléctricas que se utilizan para alimentar dispositivos electrónicos de bajo consumo
-   
+2. __bateria 9v:__
+![bateria-9v](https://github.com/bumwox/dis8644-2025-1/blob/main/04-bumwox/sesion-01b/componentes/bateria-9v.jpg)
+
+3. __bocina:__
+![bocina](https://github.com/bumwox/dis8644-2025-1/blob/main/04-bumwox/sesion-01b/componentes/bocina.jpg)   
+
+4. __cables dupont:__
+![cables-dupont](https://github.com/bumwox/dis8644-2025-1/blob/main/04-bumwox/sesion-01b/componentes/cables-dupont.jpg)
+
+5. __condensadores ceramicos:__
+![condensadores-ceramicos](https://github.com/bumwox/dis8644-2025-1/blob/main/04-bumwox/sesion-01b/componentes/condensadores-ceramicos.jpg)
+
+6. __condensadores electroliticos:__
+![condensadores-electroliticos](https://github.com/bumwox/dis8644-2025-1/blob/main/04-bumwox/sesion-01b/componentes/condensadores-electroliticos.jpg)
+
+7. __LEDS:__
+![LEDS](https://github.com/bumwox/dis8644-2025-1/blob/main/04-bumwox/sesion-01b/componentes/LEDS.jpg)
+
+8. __potenciometro:__
+![potenciometro](https://github.com/bumwox/dis8644-2025-1/blob/main/04-bumwox/sesion-01b/componentes/potenciometro.jpg)
+
+9. __protoboard:__
+![protoboard](https://github.com/bumwox/dis8644-2025-1/blob/main/04-bumwox/sesion-01b/componentes/protoboard.jpg)
