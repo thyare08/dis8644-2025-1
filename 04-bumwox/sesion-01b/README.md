@@ -83,28 +83,111 @@ ser participe de un cambio o siquiera solo apoyarlo es un gran paso para avanzar
 ## 03. caja de componentes
 
 1. __resistencias electronicas:__
+
 ![resistencias-electronicas](https://github.com/bumwox/dis8644-2025-1/blob/main/04-bumwox/sesion-01b/componentes/resistencias-electronicas.jpg)
 
+- la resistencia es un componente electrónico diseñado para causar una caída de tensión al flujo de electricidad en un punto dado, es decir. En otras palabras se opone al paso de la corriente en un circuito electrónico, su magnitud de resistencia depende de su cantidad.
+- la unidad de resistencia en el Sistema Internacional es el ohmio, que se representa con la letra griega omega (Ω), en honor al físico alemán _Georg Simon Ohm_, quien descubrió el principio que ahora lleva su nombre.
+- Las resistencias o resistores son fabricadas principalmente de carbón y se presentan en en una amplia variedad de valores. Hay resistencias con valores de Ohmios (Ω), Kilohmios (KΩ), Megaohmios (MΩ). Estás dos últimas unidades se utilizan para representar resistencias muy grandes. A continuación se puede ver algunas equivalencias entre ellas:
+1. 1 Kilohmio (KΩ) = 1,000 Ohmios (Ω)
+2. 1 Megaohmio (MΩ) = 1,000,000 Ohmios (Ω)
+3. 1 Megaohmio (MΩ) = 1,000 Kilohmios (KΩ)
+
+__referencia__
+- [La Resistencia: Definición, su uso, circuitos y funcionamiento.](http://www.electronicapty.com/component/k2/item/38-la-resistencia/38-la-resistencia)
+
 2. __bateria 9v:__
+
 ![bateria-9v](https://github.com/bumwox/dis8644-2025-1/blob/main/04-bumwox/sesion-01b/componentes/bateria-9v.jpg)
 
+- Las baterías de 9V, también llamadas baterías PP3, fueron creadas en la década de 1950 por Eveready (ahora Energizer), como respuesta a la popularización de la radio y la necesidad de energía para dispositivos portátiles. Inicialmente, se diseñaron para audífonos de tubo de vacío y luego se utilizaron en radios a transistores y otros dispositivos pequeños. 
+-  La pila de 9 voltios (o pila 9 V) es una pila eléctrica de corriente directa de nueve voltios. Es llamada regularmente pila a transistor debido a su gran utilización en las primeras radios a transistores.
+
+__referencia__
+- [Batería de nueve voltios](https://en-m-wikipedia-org.translate.goog/wiki/Nine-volt_battery?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc)
+
 3. __bocina:__
+
 ![bocina](https://github.com/bumwox/dis8644-2025-1/blob/main/04-bumwox/sesion-01b/componentes/bocina.jpg)   
 
+- Thomas Edison trabajó con una patente británica para un sistema completamente diferente que utilizaba el aire comprimido como parte del mecanismo de amplificación. Edison utilizó la patente de sus primeros fonógrafos de cilindros para hacerlo, aunque posteriormente optó por el cuerno de metal que impulsaba una membrana junto a una aguja.
+-  El invento del altavoz se atribuye a Alexandre Graham Bell en 1876, aunque este fue patentado como parte de su teléfono. Se habla del primer altavoz ya que el dispositivo era capaz de reproducir el habla inteligente.
+-  surgio la necesidad de un altavoz en el siglo XX diferentes compañias que fabricaban reproductores de discos que incluían altavoces, ahora bien, aunque debido a la epoca la calidad del sonido que emitían estos rudimentarios dispositivos era muy limitada. Estos primeros altavoces de la historia eran incapaces de reproducir el sonido de las ondas sonoras de bajo volumen.
+
+__referencia__
+- [¿Quién inventó el altavoz? Historia del altavoz](https://zococity.es/blogs/blog/quien-invento-el-altavoz-historia-del-altavozsrsltid=AfmBOoogrVsdHeqGdizIQOiBamkiG8dRZ1NzraMySMZOgvediccbipL4)
+  
 4. __cables dupont:__
+
 ![cables-dupont](https://github.com/bumwox/dis8644-2025-1/blob/main/04-bumwox/sesion-01b/componentes/cables-dupont.jpg)
 
+- Los conectores DuPont son un tipo de conector eléctrico que se utiliza comúnmente para conectar placas de circuitos, sensores y otros componentes electrónicos de forma temporal. Conocidos por su versatilidad, se utilizan ampliamente en prototipos, kits educativos y electrónica DIY.
+- Los conectores Dupont reciben su nombre de la empresa Dupont, que popularizó estos conectores en la industria electrónica, sin embargo fueron creados originalmente en 1950 por Berg Electronics.
+- Los conectores eléctricos se clasifican en tres tipos según sus extremos de terminación:
+
+1. Conectores de placa a placa
+2. Conectores de cable/cable a cable/cable
+3. Conectores de cable/cable a placa
+
+__referencia__
+- [Conectores Dupont](https://www-kevsrobots-com.translate.goog/stem/dupont.html?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=rq#:~:text=Dupont%20connectors%20are%20named%20after,in%201950%20by%20Berg%20Electronics.)
+
 5. __condensadores ceramicos:__
+
 ![condensadores-ceramicos](https://github.com/bumwox/dis8644-2025-1/blob/main/04-bumwox/sesion-01b/componentes/condensadores-ceramicos.jpg)
 
+- Un condensador cerámico es un condensador de valor fijo en el que el material cerámico actúa como dieléctrico. Está formado por dos o más capas alternas de cerámica y una capa metálica que actúa como electrodo. La composición del material cerámico define el comportamiento eléctrico y, por tanto, las aplicaciones. Los condensadores cerámicos se dividen en dos clases de aplicaciones:
+-  Desde los inicios del estudio de la electricidad se han utilizado como aislantes materiales no conductores como el vidrio, la porcelana, el papel y la mica. Algunos decenios más tarde, estos materiales también se utilizaron como dieléctricos de los primeros condensadores.
+
+1. Los condensadores cerámicos de clase 1 ofrecen alta estabilidad y bajas pérdidas para aplicaciones de circuitos resonantes.
+2. Los condensadores cerámicos de clase 2 ofrecen una alta eficiencia volumétrica para aplicaciones de buffer, by-pass y acoplamiento.
+
+__referencia__
+- [Condensador cerámico](https://es.wikipedia.org/wiki/Condensador_cerámico)
+
 6. __condensadores electroliticos:__
+
 ![condensadores-electroliticos](https://github.com/bumwox/dis8644-2025-1/blob/main/04-bumwox/sesion-01b/componentes/condensadores-electroliticos.jpg)
 
+- Un condensador electrolítico es un tipo de condensador que usa un líquido iónico conductor como una de sus placas. Típicamente con más capacidad por unidad de volumen que otros tipos de condensadores, son valiosos en circuitos eléctricos con relativa alta corriente y baja frecuencia.
+- No existe un inventor claro del condensador electrolítico. Es uno de los muchos casos de tecnología que se pueden considerar una curiosidad de laboratorio, la clásica "búsqueda de solución para un problema".
+- muy usados en los circuitos que deben conducir corriente continua pero no corriente alterna
+- Los condensadores electrolíticos pueden tener mucha capacitancia, permitiendo la construcción de filtros de muy baja frecuencia.
+
+__referencia__
+- [Condensador electrolítico](https://es.wikipedia.org/wiki/Condensador_electrolítico)
+
 7. __LEDS:__
+
 ![LEDS](https://github.com/bumwox/dis8644-2025-1/blob/main/04-bumwox/sesion-01b/componentes/LEDS.jpg)
 
+- Un diodo emisor de luz o led[6]​[n 1]​ (también conocido por la sigla LED, del inglés light-emitting diode) es una fuente de luz constituida por un material semiconductor dotado de dos terminales. Se trata de un diodo de unión p-n, que emite luz cuando está activado.[
+- Los primeros ledes fueron fabricados como componentes electrónicos para su uso práctico en 1962 y emitían luz infrarroja de baja intensidad
+- Hoy en día, los ledes ofrecen muchas ventajas sobre las fuentes convencionales de luces incandescentes o fluorescentes, destacando un menor consumo de energía, una vida útil más larga, una robustez física mejorada, un tamaño más pequeño así como la posibilidad de fabricarlos en muy diversos colores del espectro visible de manera mucho más definida y controlada; en el caso de ledes multicolores, con una frecuencia de conmutación rápida.
+
+__referencia__
+- [Led](https://es.wikipedia.org/wiki/Led)
+
 8. __potenciometro:__
+
 ![potenciometro](https://github.com/bumwox/dis8644-2025-1/blob/main/04-bumwox/sesion-01b/componentes/potenciometro.jpg)
 
+- Un potenciómetro es un dispositivo electrónico. Es uno de los dos usos que posee la resistencia o resistor variable mecánica (con cursor y de al menos tres terminales). El usuario al manipularlo, obtiene entre el terminal central (cursor) y uno de los extremos una fracción de la diferencia de potencial total, se comporta como un divisor de tensión o divisor de voltaje.
+- Según su aplicación, se distinguen varios tipos:
+
+1.  Potenciómetros de mando: Son adecuados para su uso como elemento de control de la tensión en los aparatos electrónicos. El usuario acciona sobre ellos para variar los parámetros normales de funcionamiento
+2.  Potenciómetros de ajuste. Controlan la tensión preajustándola, habitualmente en la fábrica. El usuario no suele tener que retocar, por lo que no suelen ser accesibles desde el exterior.
+
+__referencia__
+- [Potenciómetro](Potenciómetro)
+
 9. __protoboard:__
+
 ![protoboard](https://github.com/bumwox/dis8644-2025-1/blob/main/04-bumwox/sesion-01b/componentes/protoboard.jpg)
+
+- Una placa de pruebas o placa de inserción (en inglés protoboard o breadboard) es un tablero con orificios que se encuentran conectados eléctricamente entre sí de manera interna, habitualmente siguiendo patrones de líneas, en el cual se pueden insertar componentes electrónicos, cables para el armado, prototipado de circuitos electrónicos y sistemas similares.
+- Debido a las características de capacitancia (de 2 a 30 pF por punto de contacto) y resistencia que suelen tener las placas de pruebas están confinados a trabajar a relativamente baja frecuencia
+- El nombre inglés protoboard es una contracción de los vocablos ingleses prototype board y es el término que se ha difundido en los países de habla hispana, aunque se suele emplear también la traducción al castellano placa de pruebas.
+
+__referencia__
+- [Placa de pruebas](https://es.wikipedia.org/wiki/Placa_de_pruebas)
