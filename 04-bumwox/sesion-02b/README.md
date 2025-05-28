@@ -25,3 +25,8 @@ a partir de este ciruito creamos una tabla con el nombre _"loquito, loco loco"_ 
 2. segundo esquema
 
 ![image](https://github.com/user-attachments/assets/cb864d86-a977-4b2c-ac65-272d912685ea)
+
+3. tercer esquema
+
+![image](https://github.com/user-attachments/assets/277630b1-5917-42cd-a819-000e180cbf36)
+
