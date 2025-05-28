@@ -1,5 +1,8 @@
 # sesion-11a
 
+![20250523_125913](https://github.com/user-attachments/assets/f2abf27b-6a3f-467c-bd06-f14f457f787d)
+![20250523_125925](https://github.com/user-attachments/assets/74a0e8f1-ca2a-4a5b-8364-ac3c24262695)
+
 **Nuevos componentes entregados en clases**
 ![20250520_093429](https://github.com/user-attachments/assets/e91bbf22-60c4-4b76-8ec3-1659ad6cdba2)
 ![20250520_095300](https://github.com/user-attachments/assets/acc1d7d6-4dff-4a7d-86c8-9d1acfc12997)
