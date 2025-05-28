@@ -1,7 +1,7 @@
 # sesion-09a
 
-![](tme-09a-intro.png)
+![](./archivos/tme-09a-intro.png)
 
-![](tme-09a-apunte.png)
+![](./archivos/tme-09a-apunte.png)
 
-![](tme-09a-relevante.png)
+![](./archivos/tme-09a-relevante.png)
