@@ -90,3 +90,11 @@ __suzanne ciani__
 _referencia_
 - [suz<anne ciani](https://es.wikipedia.org/wiki/Suzanne_Ciani)
 
+### suzanne ciani - pure romance
+
+![image](https://github.com/user-attachments/assets/53863158-ab5f-43be-bec4-a5b209fae41e)
+
+- escuchando el album, aqui prioriza mas el uso de instrumentos convencionales mas que los electronicos, pero es un album precioso, sunea muy delicado, conecto demasiado conmigo
+- creo que esta muy bien pensada y ejecutada cada pieza musical, es muy eterea, transmite el añor en cada una de ellas
+- definitivamente suzanne es una de las artistas que agregare a mis playlist
+
