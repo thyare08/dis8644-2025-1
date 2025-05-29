@@ -21,4 +21,4 @@ __modulo__
 - circuitos: apc, sintetizadores, atari punk console, etc
 - envolvente: el paño que cubre el sonido
 
-la materia que se hablo despues de esto me la perdi ya que fui a la charla de lord of the logos
+__la materia que se hablo despues de esto me la perdi ya que fui a la charla de lord of the logos__
