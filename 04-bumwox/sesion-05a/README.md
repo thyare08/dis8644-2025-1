@@ -19,3 +19,7 @@ __modificando el ataria punk console__
 variamos el atari cambiando la restincia experimental que era un LDR por un ninterruptor de dos estados, prinpialmente era para ci¿uando encendieramos el interruptor pasara la energia y cuando se apagara costara la energia, pero obtuvimos un resultado interesante ya que en vez de cortar el paso de energia bajaba la frecuencia del parlante cuando se apagaba el interruptor
 
 https://github.com/user-attachments/assets/eea28dea-544e-4e37-b016-45866d34b1c4
+
+__recursos__
+- [reconocer valores de capacitores](https://circuitdigest.com/calculators/capacitor-value-code-calculator)
+- [calculadora de condensadores](https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-series-and-parallel-capacitor)
