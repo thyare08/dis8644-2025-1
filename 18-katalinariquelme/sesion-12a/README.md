@@ -2,9 +2,12 @@
 
 Martes 27 de Mayo del 2025.
 
+
 ## Apuntes 
 
  Foto de mi bitácota
+
+ ![Apuntes clase 12a](./archivos/apuntes_12a.JPG)
 
 ## Detector de sombra
 
@@ -16,7 +19,7 @@ Para comenzar usamos un potenciómetro para ajustar el punto en el que el LED ca
 
 Foto circuito esquemático en mi bitácora.
 
-
+ ![circuito esquemático parte 1](./archivos/parte_1.JPG)
 
 Foto circuito "parte 1" en protoboard.
 
@@ -30,6 +33,8 @@ En esta segunda etapa, colocamos un segundo LED en la protoboard, conectado a un
 
 Foto circuito esquemático en mi bitácora.
 
+ ![circuito esquemático parte 2](./archivos/parte_2.JPG)
+ 
 Foto circuito "parte 2" en protoboard.
 
 Video funcionamiento circuito "parte 2" en protoboard.
@@ -42,6 +47,16 @@ Al agregar el chip 4017, conseguimos que los LEDs se enciendan en secuencia cada
 
 Foto circuito esquemático en mi bitácora.
 
+ ![circuito esquemático parte 3](./archivos/parte_3.JPG)
+ 
 Foto circuito "parte 3" en protoboard.
 
 Video funcionamiento circuito "parte 3" en protoboard.
+
+## Subir fotos a GitHub
+
+No sabia como subir fotos bien a github, solo conocia la forma de subir las fotos mediante un link, lo cual no aseguraba que esta permaneciese de manera permanente en la nube, si no que era probable a que se borrara, debido a que si se borraba de la fuente original desaparecia de github.
+
+Mi amiga y compañera Emilia (hazzaily) me enseño a como subir las fotos de manera correcta.
+
+
