@@ -38,3 +38,4 @@ __la materia que se hablo despues de esto me la perdi ya que fui a la charla de 
 
 RGB funciona de manera contextual, por eso sí es posible que mi pantalla me muestre un color azul; en realidad no es azul, sino que, por el contraste, parece azul
 
+## 19. laurie anderson + cultura electronica
