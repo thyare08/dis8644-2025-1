@@ -30,6 +30,9 @@ imagen de:<https://littlebirdelectronics.com.au/products/4017-decade-counter-div
 |15|RESET|
 |16|VCC|
 
+ <![image](https://github.com/user-attachments/assets/8bba74c0-55de-4e9e-a305-5e9de1bf9fe0)>
+ imagen de: <https://www.learningaboutelectronics.com/Articles/Decade-counter-circuit-with-4017.php>
+
 * El chip 555, alterna entre tierra y el voltaje de alimentación
 * Patita 3 -> una señal de aviso de poca corriente.
 * Lógica secuencial -> cosas que suceden en el tiempo, **una después de la otra**.
