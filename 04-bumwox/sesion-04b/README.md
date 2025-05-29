@@ -25,3 +25,27 @@ armamos un circuito moestable, que tiene un estado de estabilidad, que al interf
 
 ## 10. switched on bach - wendy carlos
 
+![image](https://github.com/user-attachments/assets/72324854-2556-424e-9d43-a81d52d613e3)
+
+__wendy carlos__
+- es una compositora e intérprete estadounidense de música electrónica, fue una de las primeras intérpretes famosas de música electrónica que usaron sintetizadores, consiguiendo popularizar el género hacia una audiencia más amplia y heterogénea
+- ayudó al ingeniero robert moog en el desarrollo del primer sintetizador analógico comercial del mundo (el sintetizador modular moog)
+- hizo mucho por promover esta tecnología que era mucho más difícil de usar que hoy en día, as técnicas de grabación multipista jugaron un papel importantísimo en el lento y costoso proceso de creación de su álbum.
+- participo en el soudtrack original de peliculas de culto como la naranja mecanica y el resplandor, llevando su trabajo a una escala mas alta e importante
+
+__switched on bach__
+
+- es el album debut de wendy , lanzado en octubre de 1968 por Columbia Records, producido por ella y rachel Eekind , el álbum es una colección de piezas de johann sebastian bach interpretadas por carlos y benjamin folkman en un sintetizador moog
+- Ddesempeñó un papel clave en la introducción de los sintetizadores a la música popular, que hasta entonces se habían utilizado principalmente en la música experimental
+- su intención era usar esta novedosa tecnología para crear música atractiva y realmente escuchable, no la música "fea" que producían los músicos de vanguardia de la época
+- como los sintetizadores eran monofónicos , es decir, solo se podía tocar una nota a la vez, cada pista se ensamblaba una a una wendy dijo: _"tenías que soltar la nota antes de que pudiera empezar la siguiente, lo que implicaba tocar con una sensación de desapego en el teclado, lo cual era realmente muy perturbador al hacer música"_
+
+__mi opinion__
+
+- me encanto el album, lo escuche en una verison hecha con midi y fue como escuchar un ost de un videojuego antiguo
+- me gusta tambien la musica clasica por lo que exista esta reinterpretacion de las obras mas famosas que alguna vez escuche en mi vida y poder disfrutarlas mas aun me agrado muchisimo
+
+
+
+
+
