@@ -15,7 +15,7 @@
 - El color azul no logra apreciarse tan bien, ya que no alcanza su máxima luminosidad. Hay que bajarle la resistencia para que pase más corriente y por tanto, brille más.
 
 ![tme-sesion10a-proto](https://github.com/user-attachments/assets/4656d376-2ce7-4d12-bcec-493906d7b1bb)
-![](./archivos/tme-sesion10a-proto)
+![](./archivos/tme-sesion10a-proto.jpeg)
 
 ### Circuitos en Minecraft y Falstad
 
