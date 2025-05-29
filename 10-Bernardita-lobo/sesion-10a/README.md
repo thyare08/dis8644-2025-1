@@ -41,7 +41,7 @@
 - Existen dos tipos de errores: un píxel atascado (stuck pixel) muestra un color constante, y un píxel muerto (dead pixel) muestra un punto oscuro.
 - Los píxeles muertos no afectan la funcionalidad general de la pantalla.
 - Puede ocurrir por presión física o golpes, por desgaste con el tiempo, por algún cambio de temperatura y humedad, por algún problema de circuitos o fallos de fabricación.
-- A primera vista es difícil, pero existen test en los que van cambiando los colores y se pueden ver con más claridad si hay algún punto diferente.
+- A primera vista, es difícil de reconocer, pero existen pruebas en las que los colores van cambiando y es posible ver con más claridad si hay algún punto diferente.
 - Video de referencia: <https://youtu.be/1Cgt_kG08Ls?si=Jb3A7WWmReN7_6mm>
 - fuente: <https://www.whitescreen.org/es/reparar-prueba-de-pixeles-muertos/#google_vignette>
 
