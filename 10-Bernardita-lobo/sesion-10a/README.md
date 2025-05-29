@@ -4,7 +4,7 @@
 
 ### Cosas que hablamos en la mañana
 
-- Nos habló Misa de su tesis de Magíster que va a presentar en la Facultad de Arte, Arquitectura y Diseño de la Universidad de Chile, donde modificó discos duros para que sonaran como parlantes.
+- Conversamos con Misa sobre su tesis de magíster que va a presentar en la Facultad de Arte, Arquitectura y Diseño de la Universidad de Chile, donde modificó discos duros para que sonaran como parlantes.
 - Conversamos sobre cosas buenas que nos hayan pasado en el fin de semana; también hablamos y escuchamos a Trueno.
 
 ### Circuito PWM
@@ -34,9 +34,18 @@
 
 ![tme-sesion10a-bitacora](https://github.com/user-attachments/assets/6ae67461-1d70-4faf-8dbd-e621840bb018)
 
-## Encargo
+## Encargos
 
-### 20-Pantallas de siete segmentos
+### ¿Por qué quedan de un color los píxeles en la tele?
+
+- Existen dos tipos de errores: un píxel atascado (stuck pixel) muestra un color constante, y un píxel muerto (dead pixel) muestra un punto oscuro.
+- Los píxeles muertos no afectan la funcionalidad general de la pantalla.
+- Puede ocurrir por presión física o golpes, por desgaste con el tiempo, por algún cambio de temperatura y humedad, por algún problema de circuitos o fallos de fabricación.
+- A primera vista es difícil, pero existen test en los que van cambiando los colores y se pueden ver con más claridad si hay algún punto diferente.
+- Video de referencia: <https://youtu.be/1Cgt_kG08Ls?si=Jb3A7WWmReN7_6mm>
+- fuente: <https://www.whitescreen.org/es/reparar-prueba-de-pixeles-muertos/#google_vignette>
+
+### Encargo-20: Pantallas de siete segmentos
 
 - Subir fotos de su propia autoría de pantallas de siete segmentos y otras variantes que encuentren en su vida cotidiana.
 - 01 es la pantalla de una máquina remadora, e indica la fuerza que se ejerce.
@@ -48,7 +57,7 @@
 
 ![tme-sesion10a-segmentos](https://github.com/user-attachments/assets/a071d572-bd71-45a5-a84d-cbc7499d94b7)
 
-### 21-Simulación de circuitos con 555 y/o comparadores hechos con opamps en Falstad
+### Encargo-21 :Simulación de circuitos con 555 y/o comparadores hechos con opamps en Falstad
 
 - Simular circuitos que hemos visto en clase con chips 555, usando el simulador de Falstad.
 
