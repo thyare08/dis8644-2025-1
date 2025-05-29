@@ -45,7 +45,7 @@ __mi opinion__
 - me encanto el album, lo escuche en una verison hecha con midi y fue como escuchar un ost de un videojuego antiguo
 - me gusta tambien la musica clasica por lo que exista esta reinterpretacion de las obras mas famosas que alguna vez escuche en mi vida y poder disfrutarlas mas aun me agrado muchisimo
 
-
-
-
-
+__referencia__
+- [Wendy Carlos](https://es.wikipedia.org/wiki/Wendy_Carlos)
+- [Switched-On Bach](https://en-m-wikipedia-org.translate.goog/wiki/Switched-On_Bach?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc)
+- [Switched-On Bach MIDI (full album)](https://www.youtube.com/watch?v=rmJeXhcQQa0)
