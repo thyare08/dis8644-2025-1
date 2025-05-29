@@ -7,12 +7,14 @@ Martes 27 de Mayo del 2025.
 
  Foto de mi bitácota
 
- ![Apuntes clase 12a](./archivos/apuntes_12a.JPG)
+ ![Apuntes clase 12a](./archivos/apuntes_12a.JPG) 
 
 ## Detector de sombra
 
 Circuito esquemático **Detector de sombra** realizado por Matías Serrano.
 
+ ![circuito esquematico detector de sombra completo](./archivos/detector_de_sombra_misaa.png)
+ 
 **Parte 1: Detector de sombra**
 
 Para comenzar usamos un potenciómetro para ajustar el punto en el que el LED casi se apaga, dejándolo justo en ese estado. Luego, al generar sombra sobre el LDR, el LED debería apagarse, y cada vez que el LDR reciba luz nuevamente, el LED se encenderá otra vez.
@@ -59,4 +61,4 @@ No sabia como subir fotos bien a github, solo conocia la forma de subir las foto
 
 Mi amiga y compañera Emilia (hazzaily) me enseño a como subir las fotos de manera correcta.
 
-
+ ![conversacion con compañera emilia](./archivos/conversacion_con_emilia.PNG)
