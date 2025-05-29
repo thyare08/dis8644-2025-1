@@ -37,7 +37,9 @@ cotice el udpudu hecho en clase y terminado por missa
 - como mencione anteriormente cambie la placa al color azul
 - cambie el tipo de material pasando de FR4-Standard TG 135-140 a FR-4 TG155, ya que lo considero mas resistente
 1. FR-4 TG155: es una designación de un tipo de material usado comúnmente en la fabricación de placas de circuito impreso donde FR-4 indica un material laminado de epoxi reforzado con fibra de vidrio que es resistente al fuego y TG155 se refiere a la temperatura de transición vítrea del material, que es de 155°C
-- por ultimo cambie el acbado de la superficie a HASL sin plomo
+- por ultimo cambie el acbado de la superficie a HASL sin plomo, ya que es mas ecologico y cumple con regulaciones ambientales como RoHS
+2. HASL sin plomo (Hot Air Solder Leveling): es un acabado superficial para placas de circuito impreso (PCB) que utiliza aleaciones de soldadura sin plomo en lugar de la aleación de estaño-plomo tradicional
+3. RoHS (Restriction of Hazardous Substances): es una directiva de la unión europea que regula el uso de determinadas sustancias peligrosas en productos eléctricos y electrónicos
 - lo demas lo deje por default
 
 ![image](https://github.com/user-attachments/assets/65df260f-6cd8-4f4f-a19f-7527ff298eb0)
