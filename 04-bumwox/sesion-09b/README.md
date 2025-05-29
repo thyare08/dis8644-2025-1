@@ -11,6 +11,8 @@ __relé__
 __555__
 - recibe una señal que perturba la frecuencia del timer que es el 555
 - no necesariamente genera fenomenos perceptuales
+- astable, que oscila constantemente entre sus modos
+- monoestable, que está naturalmente en un estado hasta que se perturba, cambia al otro estado y se mantiene por un tiempo en ese cambio, para después volver al estado anterior
 
 __modulo__
 - lo mas fundamental de la electronicas son los electrones
