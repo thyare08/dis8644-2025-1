@@ -2,17 +2,19 @@
 
 convocatoria para postular proyectos estudiantiles en el MIM yeiii 🥳
 
-### referentes
+__eferentes__
 
 - josef prusa -  empresa prusa
 - bambulab - makerworld
 - oksitone - carcasas para atari punk console
 - homebrew - manera de instalar en la terminal un administrador de bibliotecas
-- githubcli -  command lite? in nose
+- github desktop
+- donna haraway
   
-## openscad
+__openscad__
 
-es apoyado por google, el verano del codigo que es el verano de estados unidos, se les pagan a estudiantes para que modelen proyectos, se puede postular para ser parte de diversos proyectos
+- es apoyado por google, el verano del codigo que es el verano de estados unidos, se les pagan a estudiantes para que modelen proyectos, se puede postular para ser parte de diversos proyectos
+- OpenSCAD nos permite renderizar cualquier modelo de manera local
 
 [openscad - github](https://github.com/openscad/openscad)
 
