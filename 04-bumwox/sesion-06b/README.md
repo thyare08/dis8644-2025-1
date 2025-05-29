@@ -98,3 +98,18 @@ _referencia_
 - creo que esta muy bien pensada y ejecutada cada pieza musical, es muy eterea, transmite el añor en cada una de ellas
 - definitivamente suzanne es una de las artistas que agregare a mis playlist
 
+__tracklist__
+1. 	Andalusian Dream
+2.	Yang Ming Shen
+3.	The Enchantress
+4.	Sailing To Byzantium
+5.	Turning
+6.	The Velocity Of Love
+7.	Meeting Mozart
+8.	Inverness
+9.	Full Moon Sonata
+10.	Time Stops
+11.	'Til Time And Times Are Done
+12.	Waltz For Julia
+13.	Timeless
+14.	Midnight Rendezvous
