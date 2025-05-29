@@ -22,3 +22,17 @@ __modulo__
 - envolvente: el paño que cubre el sonido
 
 __la materia que se hablo despues de esto me la perdi ya que fui a la charla de lord of the logos__
+
+## 18. 555 con PWM
+
+- este circuito lo realizamos la clase 10a, en la cual entre 3 personas debiamos de realizar el circuito cada uno con un led de color distinto, para que asi, con un papel medianamente transparente, juntando los leds, se formen nuevo colores
+- esto fue para aplicar y entender mejor como funciona el rgb
+  
+![circuito-pwm](https://github.com/user-attachments/assets/b25e4bb4-f962-4141-8e13-48e6f1524167)
+
+![leds](https://github.com/user-attachments/assets/7a9b31b7-aeec-4a31-be1b-4b990d63302a)
+
+![leds-1](https://github.com/user-attachments/assets/666dac0f-b6c7-453a-8907-038f49fd21bb)
+
+RGB funciona de manera contextual, por eso sí es posible que mi pantalla me muestre un color azul; en realidad no es azul, sino que, por el contraste, parece azul
+
