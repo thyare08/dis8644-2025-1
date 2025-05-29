@@ -45,14 +45,15 @@
         <br>
         <li>Potenciometro: es un sensor electrónico que se utiliza para medir y controlar las señales eléctricas. Utiliza el método electroquímico para medir el pH de una disolución Se pueden usar para ajustar el volumen en dispositivo de audio, controlar la velocidad de motores, regular la intensidad de las luces, etc.</li>
         <br>
-        <li>Resistencias:</li>
+        <li>Resistencias: es una pieza electrónica que se encarga de oponerse a la corriente, entre dos puntos de un circuito. Poseen materiales como el carbón, los cuales se encargan de reducir el paso de la electricidad. Existen resistencias variables, tales como los potenciometros (ajuste manual) o sensores de luz (se ajusta según la luz), entre otros. </li>
         <br>
         <li>Motores micro servo:</li>
         <br>
-        <li>Buzzer magnetico: se utiliza para generar música simple o como parte de la interfaz de usuario.</li>
+        <li>Buzzer magnetico: también conocido como zumbador, es un transductor electroacústico que se utiliza para generar música simple o como parte de la interfaz de usuario de un objeto (como por ejemplo una alarma, una lavadora, un auto, entre otros). Puede emitir sonido continuo o de forma intermitente, según la señal eléctrica que este reciba. Este buzzer en partícular funciona como un altavoz. Al momento de accionarse la corriente eléctrica pasa por la bobina del electroimán, lo que crea un campo magnético que genera vibraciones entre la lámina de acero y la cubierta.</li>
         </ol>
         <br>
     <h2> 2. Encargo 02.1 : Aphex Twin - Come to Daddy </h2>
+        <img src="https://cdn-images.dzcdn.net/images/cover/a7eb3f85c6e7b8205032008532cbb7cc/500x500-000000-80-0-0.jpg">
         <p>Este álbum del 1997 cuenta con 8 canciones y tiene una duración aprox. de 33 minutos. Los videos fueron dirigidos por Chris Cunnignham. En este album se usaron ordenadores, sintetizadores de software, generando música a través de voces computerizadas. Originalmente lo temas se distribuyeron en 2 CDs separados: WAP94CD y WAP94CDR, más tarde estas versiones serían reemplazadas por un solo EP: WAP94CDX. El género de este álbum es electrónico IDM (Intelligent dance music) con los estilos Drum n Bass, Experimental, Abstract, Breaks.</p>
         <br>
         <p>¿Cuál es mi canción favorita del álbum?</p>
@@ -60,7 +61,9 @@
         <br>
         <p>Sobre el artista</p>
         <p>Richard David James es el Dj y productor detrás de esta banda. De origen irlandés y nacionalizado británico. Desde el 1983 que se dedica a la música de forma profesional, y desde los 12 años que comenzó componer. Sus instrumentos suelen ser teclado y sintetizadores (Yamaha DX7/DX100). Estudió ingeniería en.</p>
-        <br>
-    <h2> 3. Encargo 02.2 : </h2>
+        <br>  
+    <h2> 3. Encargo 02.2 : La historia de Aaron Swartz, el hijo de internet </h2>
+        <img src="https://es.gizmodo.com/app/uploads/2014/06/fld9vidyclow6xwhejqk.jpg">
+        <p> Este documental muestra la vida, obra y muerte de Aaron Swarts. Es impactante de ver puesto que nos muestran lo corta que fue su vida. Desde sus más tempranos años fue continuamente aprendiendo en poco tiempo, pudiendo leer con tan solo 3 años. Cuando se le presenta una computadora, su curiosidad crece y se va desenvolviendo mediante programas y códigos. Gracias a sus conocimientos en programación pudo ayudar a desarrollar el lenguaje RSS, el formato Markdown, la fundación y establecimiento de "Creative Commons" y el impulso de Reddit. No le interesaba el dinero ni los bienes. Sus aspiraciones tenían fines políticos, por lo que se salían de los espacios laborales o empresariales. Los computadores y la programación eran como magia, lo que permite que la gente pueda hacer dinero o el bien (que terminaría siendo compartido). Nunca dejó de cuestionarse, de cuestionar el sistema y la sociedad en el cuál seguimos viviendo acualmente, en la que podemos resolver problemas pero no se hacen. Se centró en la política y en liberar las bibliotecas, puesto que el conocimiento de la humanidad se encontraba con la barrera del dinero (ya que se requierre de pagar por el acceso a estos) y los derechos de las personas (cuestionando la desigualdad frente al esfuerzo de algunas personas para tan solo poder comer, mientras que quienes discuten por ello se van haciendo más ricos).</p>
     </body>
 </html>

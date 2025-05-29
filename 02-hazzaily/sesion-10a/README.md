@@ -8,8 +8,10 @@
  - Juntar LEDs rojo, verde y azul y combinar colores.
 
 Foto esquemático PWM.
-
+![Circuito Pulse Width Modulation esquemático](./archivos/PWM_esquematico.png)
 Foto del circuito PWM en protoboard.
+
+![Circuito Pulse Width Modulation en protoboard](./archivos/PWM_protoboard.jpg)
 
 Foto del circuito PWM con modificaciones.
 

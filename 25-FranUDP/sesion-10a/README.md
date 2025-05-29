@@ -5,7 +5,7 @@
 ###### ${\color{#3d3d44}The \ use \ of \ dark mode \ is \ recommended, \ there's \ white \ colored \ text \ that \ otherwise \ is \ not \ visible.}$ <br/>
 
 ### RGB LED
-<img align="left" src="./archivos/rgb-led-pinout.jpg" width=400> </br></br> Combinan 3 LEDs de distintos colores (rojo, verde y azul) en un mismo componente, cada uno de estos LEDs brilla con distinta intensidad para producir el color deceado, ya que al estar tan cerca se mescla la luz que cada uno emite </br></br> En los LED RGB, los 3 LEDs de colores suelen venir en 2 confuguraciones: cátodo y ánodo común </br></br></br></br>
+<img align="left" src="./archivos/rgb-led-pinout.jpg" width=400> </br> Combinan 3 LEDs de distintos colores (rojo, verde y azul) en un mismo componente, cada uno de estos LEDs brilla con distinta intensidad para producir el color deceado, ya que al estar tan cerca se mescla la luz que cada uno emite </br></br> En los LED RGB, los 3 LEDs de colores suelen venir en 2 confuguraciones: cátodo y ánodo común </br></br></br>
 
 ### Display de 7 segmentos
 <img align="left" src="./archivos/7segDis.jpg" width=400> </br></br></br></br></br> Similares a los LEDs RGB en que contienen múltiples LEDs más pequeños dentro, sin embargo estos displays emplean LEDs del mismo color en distintas ubicaciones para formar distintos números y/o letras </br></br></br></br></br></br></br>
@@ -16,29 +16,32 @@
 > * Decoders: Toma pocos inputs y los convierte en múltiples outputs. Ej: Un microcontrolador controlando un display de 60 LEDs mediante el protocolo I2C, el cual emplea 2 canales de comunicación (Serial Data [SDA] y Serial Clock [SCL])</br>
 
 ### [RGB v/s CMYK](https://youtu.be/NnP-SRiOc4o?si=X7VKQyWvUsUm_wed)
-Son formatos de colores utilizados en programas de diseño de ilustraciones, editores de imagenes entre otros.</br></br>
-<img align="left" src="./archivos/oled.jpg" width=300></br></br></br> RGB se utiliza para diseñar imágenes que se muestran a través de pantallas, este formato obtiene su nombre de la misma forma que el LED RGB (Red, Green & Blue), aunque su uso no es exclusivo de pantallas OLED o microLED (emplean diminutos LEDs RGB como pixeles)</br></br></br></br></br>
+Son formatos de colores utilizados en programas de diseño de ilustraciones, editores de imagenes entre otros. Se emplean estos distintos formátos por el diferente comportamiento de la luz al ser emitida directamente hacia los ojos y reflejada en una superficie y luego llegar a los ojos.</br></br>
+<img align="left" src="./archivos/oled.jpg" width=300></br></br></br> RGB se utiliza para diseñar imágenes que se muestran a través de pantallas, este formato obtiene su nombre de la misma forma que el LED RGB (Red, Green & Blue), aunque su uso no es exclusivo de pantallas OLED o microLED (emplean diminutos LEDs RGB como pixeles)</br></br></br></br>
 
-<img align="left" src="./archivos/cmyk.jpg" width=300></br></br></br> CMYK es utilizado para diseñar imágenes para impresión, se podría decir que a diferencia de RGB que se utiliza para imágenes digitales, CMYK se utiliza para imágenes analógicas. Obtiene su nombre a partir de las tintas empleadas para impresión</br></br></br>
+<img align="left" src="./archivos/cmyk.jpg" width=300></br></br> CMYK es utilizado para diseñar imágenes para impresión, se podría decir que a diferencia de RGB que se utiliza para imágenes digitales, CMYK se utiliza para imágenes analógicas. Obtiene su nombre a partir de las tintas empleadas para impresión (Cyan, Magenta, Yellow & Key [negro]</br></br></br></br>
 
 ### Comparador Minecraft
 El comparador cuando está operando en modo comparador (modo resta con la antorcha frontal encendida), compara la intensidad de la señal de redstone en sus terminales laterales y principal. </br> &nbsp;&nbsp;&nbsp;&nbsp;Si la senal en su terminal A es mayor a la intensidad de la terminal B, el comparador dejará pasar la señal A (output)</br> &nbsp;&nbsp;&nbsp;&nbsp;Si la señal de la terminal A es igual o inferior a la señal de la terminal B, entonces no dejará que pase la señal</br>  
-<img align="left" src="./archivos/MCcomp1.jpg" width=320><img align="left" src="./archivos/MCcomp2.jpg" width=320><img align="left" src="./archivos/MCcomp3.jpg" width=320></br></br></br></br></br></br></br></br></br></br>
+<img align="left" src="./archivos/MCcomp1.jpg" width=310><img align="left" src="./archivos/MCcomp2.jpg" width=310><img align="left" src="./archivos/MCcomp3.jpg" width=310></br></br></br></br></br></br></br></br></br></br>
 > ### LM324 op amp
-><img align="left" src="./archivos/LM324-pinout.jpg" width=300></br> Este Op Amp (Operational Amplifier) está compuesto por 4 comparadores (LM741 x 4)</br></br></br></br></br></br></br></br></br></br>
-<img align="left" src="./archivos/compSymb1.jpg" width=300><img align="left" src="./archivos/compSymb2.jpg" width=229></br></br></br></br></br></br></br></br></br></br></br>
+><img align="left" src="./archivos/LM324-pinout.jpg" width=300></br></br> Este Op Amp (Operational Amplifier) está compuesto por 4 comparadores (LM741 x 4)</br></br> Los comparadoores de los circuitós se comportan igual que el comparador de minecraft (modo comparador), pero en lugar de comparar la intensidad de la señal de redstone, comparan el voltaje que hay en cada terminal. </br></br></br></br></br>
+<img align="left" src="./archivos/compSymb1.jpg" width=300><img align="left" src="./archivos/compSymb2.jpg" width=229> Aquí podemos apreciar los 2 símbolos que representan a los comparadores en los esquemas.</br></br> El símbolo de la izquierda es el símbolo completo, ya que el comparador requiere una conección a una fuente de poder, además de las líneas que está comparando, para poder trabajar.</br></br> Mientras que en la derecha tenemos el símbolo simplificado, que no muestra las conexiones a la fuente de poder.</br></br> Se emplea el simplificado cuando se quiere entender la lógica con la que se está trabajando sin confundirse con las demás conecciónes, que se sabe estan allí, pero no son necesarias para entender el funcionamiento del circuito (en algunos casos).</br></br>
 
+### [Componentes activos v/s pasivos](https://youtu.be/TgXMujXoG3I?si=h1dPGlVeSPS144HP)
+En el mundo de la electrónica, los componentes se clasifican entre 2 grupos, componentes activos, que al igual que los comparadores, requieren estár conectados a una fuente de poder para operar. A diferencia de los componentes pasivos, como resistencias, LEDs, motores, etc. Que solo necesitan recivir un input para funcionar, es decir, no requieren una conección dedidada a proveer energía al componente además de los inputs. 
 
-### Voltaje negativo
+### [Micrófono Electret](https://youtu.be/aSXv6FdYQfM?si=nr6VB09ea1yaSGRq)
+<img align="left" src="./archivos/electret.jpg" alt="Inside electret" width=400> Es un micrófono que funciona teniendo un capacitor integrado.</br></br> Básicamente, tiene en su interior 2 placas conductivas que no se tocan pero están suficientemente cerca como para alterarse entre sí con sus emisiones electromagnéticas (si una placa tiene su polo positivo más cerca de la otra, esta tendrá su polo negativo más cerca de la primera) de la misma forma que funciona un capacitor.</br></br> Una de estas plácas está fija, mientras la otra está sujeta a una membrana flexible que se mueve en mayor o menor medida dependiendo de las vibraciones que reciba, esto resulta en una variación de voltaje al variar la distancia entra ámbas placas (señal análoga) (los acelerómetros funcionan bajo el mismo principio)
 
-### Micrófono Electret
-
-### Componentes activos v/s pasivos
-
-### Divisor de voltaje
+### [Divisor de voltaje](https://youtu.be/fmSC0NoaG_I?si=IHEnsN_ys78Bt8Sm)
+<img align="left" src="./archivos/voltageDivider.jpg" alt="Voltage divider" width=320></br></br></br></br> Se pueden conectar 2 resitencias en serie entre Vcc y GND para variar el voltaje (reducirlo). O en nuestro caso, un potenciómetro, ya que consiste de 2 resistencias variables.</br> Esto se puede emplear para darle energía a un componente o sección de un circuito que funciona con un voltaje inferior al resto del circuito</br></br></br></br></br></br></br>
 
 ### Other things: <!-- Things to organize + random stuff -->
-> #### Buffer
+> ### [Voltaje negativo](https://youtu.be/z5eB_2wjLTg?si=Ngw1xYDsibCLor0w)
+><img align="left" src="./archivos/negativeVoltage.jpg" alt="baterias conectadas en serie" width=300></br></br> Tener un voltaje negativo significa que el voltaje medido es más bajo que el punto de referencia (GND). Por ejemplo, si conectamos la terminal positiva del multímetro a GND y la terminal negativa a +9V, el multímetro leerá -9V, porque +9V se convierte en el punto de referencia (GND) y 0V es inferior a +9V por, valga la redundancia, 9V.</br></br> Los voltajes negativos son últiles para aplicaciones como amplificadores de audio, ya que el parlante empuja el aire en una dirección (+V) y luego tiene que moverse en reversa (-V) en lugar de quedarse quieto en el medio, cuando pudo haber desplazado más aire.</br></br></br></br>
+>
+> ### Buffer
 -----------------------------------------------------------------------------------------------------------
 ## Encargo 20 <!-- subir fotos de su propia autoría de pantallas de siete segmentos, y otras variantes que encuentren en su vida cotidiana. les pedimos al menos 3 fotos de distintas pantallas. pueden partir de la base de las que ya subieron hoy a discord. incluir información sobre dónde y cuándo fue capturada la imagen. -->
 ### Displays de 7 segmentos
