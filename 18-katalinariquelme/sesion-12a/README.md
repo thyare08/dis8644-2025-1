@@ -1,6 +1,6 @@
 # sesion-12a
 
-Lunes 26 de Myo del 2025.
+Martes 27 de Mayo del 2025.
 
 ## Apuntes 
 
