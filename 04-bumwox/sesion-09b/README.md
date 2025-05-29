@@ -21,6 +21,8 @@ __modulo__
 - circuitos: apc, sintetizadores, atari punk console, etc
 - envolvente: el paño que cubre el sonido
 
+![image](https://github.com/user-attachments/assets/f73aa3fa-e790-40d2-b409-6e1e28152e8c)
+
 __la materia que se hablo despues de esto me la perdi ya que fui a la charla de lord of the logos__
 
 ## 18. 555 con PWM
