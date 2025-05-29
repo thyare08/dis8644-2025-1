@@ -1,3 +1,3 @@
 # sesion-07b
 
-![](tme-07b-apunte.png)
+![](./archivos/tme-07b-apunte.png)
