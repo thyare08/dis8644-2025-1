@@ -71,6 +71,13 @@ Principalmente hay dos tipos: bipolares y FET.
 
 - **Pedales de guitarra:** Revisar Tonepad
 
+## Entrega "membrete" en impresión 3D
+
+Fotos del membrete en cuestión.
+
+
+Muchas gracias, está muy lindo c:
+
 ## Encargo 30:
 
 Describir 3 proyectos de máquinas electrónicas que quieran hacer de formal individual. Ordenar por preferencia o interés. 
