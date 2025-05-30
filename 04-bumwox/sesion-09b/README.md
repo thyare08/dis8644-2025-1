@@ -39,3 +39,7 @@ __la materia que se hablo despues de esto me la perdi ya que fui a la charla de 
 RGB funciona de manera contextual, por eso sí es posible que mi pantalla me muestre un color azul; en realidad no es azul, sino que, por el contraste, parece azul
 
 ## 19. laurie anderson + cultura electronica
+
+-laura phillips " laurie " anderson es una artista vanguardista estadounidense, música y cineasta cuyo trabajo abarca el arte escénico, la música pop y proyectos multimedia, inicialmente formada en violín y escultura, anderson realizó diversos proyectos de arte escénico en la ciudad de nueva york durante la década de 1970, centrándose especialmente en el lenguaje, la tecnología y las imágenes visuales, alcanzó un éxito comercial inesperado cuando su canción " O Superman " alcanzó el número dos en la lista de sencillos del reino unido en 1981
+
+
