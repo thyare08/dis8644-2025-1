@@ -37,8 +37,6 @@ La pata de reset toma prioridad por encima del clock inhibit, si es que recibe u
 
 El diagrama de lógica conversacional es donde están los componentes interconectados.
 
-<img src="./archivos/12a-clase-3.jpg width="300" alt="drawing"/> <img src="./archivos/12a-clase-4.jpg" alt="drawing"/> <img src="./archivos/12a-clase-5.jpg" alt="drawing"/> <img src="./archivos/12a-clase-6.jpg" alt="drawing"/> <img src="./archivos/12a-clase-7.jpg" alt="drawing"/>
-
 Cascading es la interconexión que necesitaría una compuerta AND, que comprueba si una señal es equivalente a otra, y que dejara pasar la continuación del circuito.
 
 Ahora pasamos a revisar las notas.
@@ -52,3 +50,9 @@ Vamos a conectar 3 módulos; vamos a ir parte por parte probando y recibiendo se
 2do. Un temporizador para que tenga una duración la detección de la sombra.
 
 3ro. Secuenciador con el 4017
+
+<img src="./archivos/12a-clase-3.jpg" alt="drawing" />
+
+<img src="./archivos/12a-clase-4.jpg" alt="drawing" width="300"/> <img src="./archivos/12a-clase-5.jpg" alt="drawing" width="300"/> <img src="./archivos/12a-clase-6.jpg" alt="drawing" width="300"/> 
+
+https://youtube.com/shorts/n97zhdVI5DM
