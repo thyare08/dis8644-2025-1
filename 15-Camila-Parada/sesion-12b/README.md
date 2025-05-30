@@ -18,15 +18,26 @@ Luego se habló de las problematicas de la información y privacidad que uno pos
 
 ## Bitácora digital
 
-### Parte 1: [Datasheet chip 4017](https://www.ti.com/lit/ds/symlink/cd4017b-mil.pdf?ts=1748292720173&ref_url=https%253A%252F%252Fwww.google.com%252F)
+### Parte 1: Partes conocidas (y desconocidas) para formar circuitos
 
-Se estuvo analizando las partes de este documento, el cual muestra la naturaleza de este chip.
+#### Fuentes de energía
 
-![image](https://github.com/user-attachments/assets/42f89508-1e21-442b-aadf-22fd17b8f55d)
+- Batería de 9V:
 
+- Eliminador de pila:
+
+- Jack DC:
+
+- Power bank (batería portátil) y USB A o B (5V):
+
+- Pantallas solares:
+
+#### Fuentes de energía
 
 <br>
 
+
+[Demasled](https://www.demasled.cl/)
 ***
 
 ### Posdata
