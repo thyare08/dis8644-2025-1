@@ -44,4 +44,5 @@
 - estudio del significado de los colores de los cables
 
 ![foto9](https://github.com/user-attachments/assets/c595bb00-11bd-47f5-ae1b-e349959cbce3)
+
 ![foto3](https://github.com/user-attachments/assets/e09a01f9-7b1c-4c68-b9f7-c6dd5f1464ed)
