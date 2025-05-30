@@ -55,4 +55,6 @@
 * Convierte datos en electricidad sonora
 * Microfono, es una maquina que convierte el movimiento mecanico en energía
 * Electrect microfono presente en diversos aparatos electronicos, como el telefono
+
+
    
