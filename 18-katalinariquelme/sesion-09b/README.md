@@ -8,7 +8,7 @@ Viernes 09 de Mayo del 2025.
 
 Foto componente 1 
 
-![IMG_0583](https://github.com/user-attachments/assets/1215f913-9b06-4157-a4a4-218c0f3ac35f)
+![componente entregado en clases](./archivos/chip8403.jpg)
 
 (foto tomada con mi celular)
 
@@ -24,7 +24,7 @@ Este amplificador se caracteriza por emplear técnicas de conmutación, ya sea e
 
 Foto componente 2
 
-![IMG_0584](https://github.com/user-attachments/assets/b972fa16-ea96-40c4-afa7-877cc1864ad6)
+![componente entregado en clases](./archivos/rele01_de_canal.jpg)
 
 (foto tomada con mi celular)
 
@@ -40,7 +40,7 @@ Repaso de los circuitos vistos en clases con el chip555.
 
 Foto de mi bitácora
 
-![IMG_0576](https://github.com/user-attachments/assets/ff0cfead-0879-4605-9a3a-74e0f1592352)
+![circuito astable](./archivos/circuito_astable.jpeg)
 
 out = LEDS, sonido, nov
 
@@ -48,29 +48,29 @@ out = LEDS, sonido, nov
 
 Foto de mi bitácora
 
-![IMG_0577](https://github.com/user-attachments/assets/0bfb70e8-e631-450a-ab8c-71ac34a006fd)
+![circuito monostable](./archivos/circuito_monostable.jpeg)
 
 out = LEDS, sonido, nov
 
 Foto de mi bitácora
 
-![IMG_0574](https://github.com/user-attachments/assets/5a00032b-ae38-49d5-975b-1a76eceb0836)
+![diferencia de digital y analogo](./archivos/apuntes_clase_9b.jpeg)
 
 ## Circuito esquematico visto en clases
 
 Foto de mi bitácora
 
-![IMG_0575](https://github.com/user-attachments/assets/9d331a9f-307e-4d65-8afa-a3cad4ba3303)
+![circuito pulse width modulation](./archivos/circuito_pulse_width_modulacion.jpeg)
 
 ## Circuito pwm en TinkerCad
 
-![Captura de pantalla 2025-05-11 174852](https://github.com/user-attachments/assets/4f3c6a51-5cbe-4e61-9761-515284382c47)
+![circuito pwm realizado por tinkercad](./archivos/pwm_circuito_tinkercad.png)
 
 ## encargo-18: Realizar circuito de clases en protoboard
 
 Registro propio
 
-![IMG_0628](https://github.com/user-attachments/assets/511e8693-8deb-465a-af7e-d1e7c580b3f4)
+![pwm circuito en protoboard](./archivos/circuito_pwn_protoboard.jpg)
 
 ## encargo-19: Investigar cultura electrónica y laurie anderson.
 
@@ -80,7 +80,7 @@ Laurie Anderson nació el 5 de junio de 1947 en Glen Ellyn, Illinois, Estados Un
 
 **Laurie Anderson**
 
-![Laurie_Anderson_at_the_New_Zealand_Festival_of_the_Arts_lunch_2020_(cropped)](https://github.com/user-attachments/assets/6620577f-4d36-4f17-983c-b91bdd3d6b63)
+![Laurie Anderson](./archivos/laurie_anderson.jpg)
 
 Imagen sacada desde wikipedia https://es.wikipedia.org/wiki/Laurie_Anderson
 
@@ -94,7 +94,7 @@ Algo que me llamo la atención de ella que ha creado diversos instrumentos, uno 
 
 Violín con arco de cinta magnética, este instrumento se llama **"Violin Tape-bow"**
 
-![tapebow](https://github.com/user-attachments/assets/326a0387-0486-4326-ba13-49d58ec94934)
+![violin con arco de cinta magnetica](./archivos/tapebow.jpg)
 
 Imagen sacada desde https://proyectoidis.org/instrumentos-inventados-por-laurie-anderson/
 
@@ -102,8 +102,7 @@ Este instrumento, fue creado en 1977, es un violín alterado para usar un arco d
 
 ## Disco escuchado: Strange Angels
 
-![Laurie_Anderson-Strange_Angels](https://github.com/user-attachments/assets/840551f3-fa6e-4e81-a887-f8ea05b52660)
-
+![disco escuchado de laurie anderson](./archivos/strange_angels.jpg)
 Imagen rescada de wikipedia https://en.wikipedia.org/wiki/Strange_Angels_(Laurie_Anderson_album)
 
 **Contexto:** Strange Angels es el quinto álbum en general y el cuarto álbum de estudio de la artista y cantante Laurie Anderson, lanzado por Warner Bros. Records en 1989. Con este lanzamiento, Anderson intentó alejarse de su imagen anterior como artista de performance hacia un ámbito más musical. 
