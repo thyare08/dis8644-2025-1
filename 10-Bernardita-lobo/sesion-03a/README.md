@@ -10,6 +10,7 @@
 - capacitor y condensador son lo mismo
 
 ![foto16](https://github.com/user-attachments/assets/cbd7ad22-b71f-49bb-bbe2-a78ec235d99d)
+
 ![foto13](https://github.com/user-attachments/assets/683b5ac3-cfc1-47f6-85f5-2ec2db66e596)
 
 ### Primer circuito astable
