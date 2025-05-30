@@ -10,7 +10,7 @@
 - Algunos referentes variados: Diego Lorenzini, Kelly Heaton y Clacktronics.
 - Finalmente, el programa que vamos a utilizar es KiCad, ya que es más amigable para comenzar y además es gratis.
 
-![tme-sesion07b-foto01](https://github.com/user-attachments/assets/2524c9ca-cd48-4218-988d-4b865f8fbbcd)
+![Foto de la PCB de Misa](./archivos/tme-sesion07b-foto01.jpeg)
 
 ### Primera parte de KiCad
 
