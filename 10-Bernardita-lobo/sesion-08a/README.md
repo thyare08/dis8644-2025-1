@@ -1,6 +1,6 @@
 # sesion-08a
 
-## Trabajo en clase
+## Trabajo en clase / Martes 29 de Abril
 
 ### Cosas que hablamos en la mañana
 
@@ -15,9 +15,9 @@
 - Se utiliza el mounting hole para hacer las perforaciones para pernos M3.
 - Pude cambiar de capa algunos dibujos que quería que quedaran en cobre, y también agregué el logo de la Escuela de Diseño.
 
-![captura de editor Kicad para editar placa PCB](./archivos/tme-sesion08a-editorPlaca.png)
+![Captura de editor de placa PCB en KiCad](./archivos/tme-sesion08a-editorPlaca.png)
 
-![captura de editor Kicad para visor 3D de placa PCB](./archivos/tme-sesion08a-visor3D.png)
+![Captura de visor3D de placa PCB en KiCad](./archivos/tme-sesion08a-visor3D.png)
 
 ### OpenSCAD
 
@@ -28,7 +28,7 @@
 - Con este programa no se puede seleccionar ni modificar interactivamente con el mouse el modelo.
 - Las partes modeladas solo se pueden previsualizar una vez que se hayan codificado en el lenguaje del modelador 3D.
 
-![tme-sesion08a-openSCAD](https://github.com/user-attachments/assets/8ea2bf85-9e73-4caa-9d96-22fc57386591)
+![Captura de cuando me instalé OpenSCAD](./archivos/tme-sesion08a-openSCAD.png)
 
 ### Diseño Paramétrico, Impresión 3D y Automatización
 
@@ -45,14 +45,14 @@
 - Winget, su equivalente en Windows, también para instalar herramientas por línea de comandos.
 - Automatización con Python.
 
-### github
+### Github
 
 - Repasamos cómo hacer un issue para pedir que evalúen bitácoras o encargos.
 - GitHub Desktop, para clonar el repositorio.
 - Repositorio clonado en el computador y repositorio clonado en la nube.
 - Después de esto me perdí un poco, ya que fue mucha información.
 
-![tme-sesion08a-hithub](https://github.com/user-attachments/assets/61378535-9435-4050-917c-a9381b8f3d33)
+![Captura de Github](./archivos/tme-sesion08a-hithub.png)
 
 ## Encargo
 
@@ -61,6 +61,6 @@
 - Como mencioné, esta clase realmente no nos mandaron ningún tipo de encargo ni carga académica de ningún tipo :)
 - Durante este receso aproveché para ordenar mis apuntes y también le tomé fotos a un modelado que realicé en Rhino, el cual me sirve para organizar mis componentes.
 
-![tme-sesion08a-caja01](https://github.com/user-attachments/assets/07e43169-8e5f-4a1f-81e4-ba698f9b5649)
+![Foto caja modelada en 3D](./archivos/tme-sesion08a-caja01.png)
 
-![tme-sesion08a-caja02](https://github.com/user-attachments/assets/f8c929b7-697a-4b03-9cf6-881ab9e4d452)
+![Foto caja modelada en 3D](./archivos/tme-sesion08a-caja02.png)
