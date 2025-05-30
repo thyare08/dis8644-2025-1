@@ -11,6 +11,8 @@ El motor necesita más corriente que el chip 555 es capaz de emitir directamente
 
 Un PWM es lo que hace que sean más potentes las aspas de un motor, por ejemplo, el ventilador de mi compu y el juguete que trajo una compañera hace unas clases que funcionaba con un sensor de proximidad.
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/GQtUgAqHoPs/0.jpg)](https://www.youtube.com/shorts/GQtUgAqHoPs)
+
 ## Módulo después del break
 
 El motor que vamos a ocupar es de 6V.
@@ -22,3 +24,5 @@ PS son power supplies
 Los diodos que estábamos ocupando en específico eran G (gate), D (drain), S (source).
 
 Me complico mucho el armarlo en 2 protoboards distintos, así que solo lo hice más compacto para que pudiese entender mejor qué estaba haciendo.
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ZO7jVqDwISw/0.jpg)](https://youtube.com/shorts/GQtUgAqHoPs?feature=share)
