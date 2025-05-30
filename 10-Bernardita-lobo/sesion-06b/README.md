@@ -1,6 +1,6 @@
 # sesion-06b
 
-## Este viernes fue feriado / Viernes 
+## Este viernes fue feriado / Viernes 18 de Abril
 
 ## Encargo
 
