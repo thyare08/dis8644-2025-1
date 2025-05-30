@@ -1,7 +1,7 @@
 # sesion-11a
 ## Módulo de la mañana
 
-![foto1](/archivos/11a-clase-1.jpg)
+![foto 1](./archivos/11a-clase-1.jpg)
 
 Hoy conocimos que era un transistor MOSFET.
 
