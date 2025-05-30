@@ -1,9 +1,5 @@
 # Manual de uso  para el volca modular
 
-## Hola
-
-hola
-
 [Contexto](./README.md/#contexto)
 
 ## Contexto
