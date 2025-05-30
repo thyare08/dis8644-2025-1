@@ -66,4 +66,4 @@ Video funcionamiento circuito etapa 3 en protoboard.
 
 https://github.com/user-attachments/assets/80d88acb-df67-4398-b20a-093b083370e2
 
-
+Fotos y vídeos de mi autoría, menos el PWM esquemático.
