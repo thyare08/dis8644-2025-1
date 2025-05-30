@@ -25,3 +25,17 @@ Otra pagina: https://mcielectronics.cl/shop/product/controlador-de-motores-puent
 Video didactico de un 555 stepper motor drive: https://www.youtube.com/watch?v=Vc2XRVJ9n1o
 
 ![Stepper555](dirección de la foto)
+
+Electromagnetismo
+
+![SCSA](dirección de la foto)
+
+- Single coil guitar pickup
+
+video Miniatura para miniatura electromagnética - Javier Bustos: https://www.youtube.com/watch?v=70w5TIubMik
+
+
+![javierb](dirección de la foto)
+
+## Encargo 3/06
+### Describir 3 proyectos que se quieran desarrollar de forma individual (con dibujos y referencias)
