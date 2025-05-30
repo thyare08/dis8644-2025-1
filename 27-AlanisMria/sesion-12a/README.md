@@ -48,4 +48,5 @@ Al probar si funcionaba la parte 3 del circuito con el chip 4017 notamos que nos
 En nuestra última versión especulamos que el led que se encienda depende de la cantidad de veces que se detecte una sombra en una frecuencia determinada.
 
 ![probandoSensor](https://github.com/AlanisMria/dis8644-2025-1/blob/main/27-AlanisMria/sesion-12a/archivos/probandoSensor.mp4)
+
 ![resultadoFinal](https://github.com/AlanisMria/dis8644-2025-1/blob/main/27-AlanisMria/sesion-12a/archivos/resultadoFinal.mp4)
