@@ -1,3 +1,3 @@
 # sesion-08b
 
-## no hubo clases ya que fue feriado.
+## No hubo clases ya que fue feriado / Viernes 02 de Mayo
