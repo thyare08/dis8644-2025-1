@@ -22,12 +22,12 @@ CKEN: inhibidor, se encuentra en la pata 13, su función es inhabilitar las func
 
 ## circuito secuenciador
 
-<img width="949" alt="Captura de pantalla 2025-05-25 a la(s) 1 33 29 p m" src="https://github.com/user-attachments/assets/ce979eea-b47d-4e6d-9ca5-3216d07be77d" />
+![esquemático_secuenciador](./archivos/esquemático_secuenciador.png)
 
-<img width="524" alt="Captura de pantalla 2025-05-25 a la(s) 1 36 49 p m" src="https://github.com/user-attachments/assets/3fb34d82-749d-4e11-b301-9aa89683be3e" />
+![circuito_secuenciador](./archivos/circuito_secuenciador.png)
 
 https://github.com/user-attachments/assets/c2b0abaa-1aac-4fca-8a85-40d19679edee
 
 https://github.com/user-attachments/assets/24141505-08cc-4d58-8e9b-b967fc694da6
 
-<img width="816" alt="Captura de pantalla 2025-05-25 a la(s) 1 34 36 p m" src="https://github.com/user-attachments/assets/35df0ee3-835c-4559-bd14-6e18acfcaa4b" />
+![555-astable_+_40174](./archivos/555-astable_+_40174.png)
