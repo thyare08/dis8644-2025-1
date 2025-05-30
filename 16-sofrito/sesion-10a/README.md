@@ -4,12 +4,11 @@
 
 Trabajar en grupos de 3 personas y armar cada uno el circuito PWM, cada persona debe tener un LED de color distinto, luego se combinarán los colores. Luego con un papel se apunta con cada LED y cada circuito al papel, generando un efecto lumínico que combina los colores. Con este ejercicio somos capaces de ver el efecto de RGB.
 
-![video vizualizando rgb](./archivos/ejer.rgb)
+![video-vizualizando-rgb](./archivos/ejer.rgb.mov)
 
-![visualizando espectro de color rgb](./archivos/creando.coloresrgb)
+![visualizando-espectro-de-color-rgb](./archivos/creando.coloresrgb.png)
 
-![visualizando espectro de color rgb2](./archivos/creando.coloresrgb-2)
-
+![visualizando-espectro-de-color-rgb2](./archivos/creando.coloresrgb-2.png)
 
 * Bajando la resistencia se aumenta la intensidad del led
 
@@ -25,7 +24,7 @@ chip de 14 patas
 
 op-amp: caja negra llena de transistores. Es un circuito integrado (CI) que amplifica señales eléctricas, especialmente voltajes diferenciales
 
-![símbolo op-amp](./archivos/símbolo.op-amp)
+![símbolo.op-amp](./archivos/símbolo.op-amp.png)
 
 V+: Entrada no inversora
 
@@ -49,21 +48,20 @@ analog and hibrid chips: 555
 
 trapasar el circuito simulado en tinkercad a la protoboard
 
-![circuito.simulado - a proto](./archivos/circuito.simulado-aproto)
+![circuito.simulado-aproto](./archivos/circuito.simulado-aproto.png)
 
-![circuito.simulado - a proto-2](./archivos/circuito.simulado-aproto-2)
-
+![circuito.simulado-aproto-2](./archivos/circuito.simulado-aproto-2.png)
 ## encargo_19: cultura electrónica y laurie anderson
 
 Laurie Anderson es una artista multidisciplinaria, reconocida por su trabajo en música experimental, performance, poesía, artes visuales y tecnología. 
 
 Personalmente, conocia la obra  "O Superman", pero no conocía a profundidad quien era la creadora ni sus otros trabajos. Lo que más me sorprendió fue su trabajo (re) diseñando distintos intrumentos musicales, pero sobre todo modificando violines de tal forma que ninguno se parece entre si en cuanto al sonido que produce, sin embargo siguen siendo el mismo intrumento que se utiliza de la misma manera que un violín tradicional. Puedo decir que mis favoritos son: Tape bow violin, Neon Violin y The Talking Stick. Como anécdota personal, yo solía tocar el violín, pero por distintas razones (sindrome del impostor) lo dejé a pesar de que es algo siempre quise hacer, por lo que investigar sobre Laurie Anderson hace que quiera volver y retomar el violín, y poder experimentar y crear cosas.
 
-![tape-bow violin](./archivos/tape-bowviolin)
+![tape-bow violin](./archivos/tape-bowviolin.png)
 
-![neon-violin](./archivos/neon-violin)
+![neon-violin](./archivos/neon-violin.png)
 
-![the talking stick](./archivos/the-talking-stick)
+![the-talking-stick](.archivos/the-talking-stick.png)
 
 Me impresiona y cambia mi perspectiva de como se tocan los instrumentos y que transmiten, no solo para quien escucha, sino que también para quien lo toca, llevando la música a algo más allá que tiene que ver con el cuerpo en sí, el movimiento de este al momento de tocar un intrumento y la relación directa que tiene la fluidez del cuerpo con la creación de sonido.
 
