@@ -14,7 +14,7 @@ Un PWM es lo que hace que sean más potentes las aspas de un motor, por ejemplo,
 
 <img src="./archivos/11a-clase-1.jpg" alt="drawing" width="300"/> <img src="./archivos/11a-clase-2.jpg" alt="drawing" width="300"/> <img src="./archivos/11a-clase-3.jpg" alt="drawing" width="300"/> <img src="./archivos/11a-clase-4.jpg" alt="drawing" width="300"/> <img src="./archivos/11a-clase-5.jpg" alt="drawing" width="300"/> <img src="./archivos/11a-clase-6.jpg" alt="drawing" width="300"/> <img src="./archivos/11a-clase-7.jpg" alt="drawing" width="300"/> <img src="./archivos/11a-clase-8.jpg" alt="drawing" width="300"/> 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/GQtUgAqHoPs/0.jpg)](https://www.youtube.com/shorts/GQtUgAqHoPs)
+[![Video n1, donde funciona el motor con un maskin para poder observar la rotacion](https://img.youtube.com/vi/GQtUgAqHoPs/0.jpg)](https://www.youtube.com/shorts/GQtUgAqHoPs)
 
 ## Módulo después del break
 
