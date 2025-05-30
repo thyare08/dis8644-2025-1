@@ -28,4 +28,13 @@ __fuentes de popder__
 __iluminacion__
 - los leds se queman
 - ampolletas domesticas, puede conectar a un rele para hacer pasi de energia y asi no es necesario conectarlo a corriente directa
-- 
+- cinta led, son controlables por via pwm y transistor acorde, se pueden recortar, pero depende de la cinta, sus caracteroioisgicas electricas se calculan por metro
+
+__motores__
+- requieren transistores
+- motores dc 5v
+- si quiero que giren menos debo de agregar un motoreductor, revisar a arthur ganson
+- servomotor, se suele utilizar con arduino, es preciso y rapido, es avaces inestable
+- puente H: configuracion electronica de transistores, ara girar un mototr en emabas direcciones
+- solenoide
+__
