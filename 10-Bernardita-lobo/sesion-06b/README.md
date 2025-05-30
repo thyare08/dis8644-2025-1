@@ -10,7 +10,7 @@
 - decidí instalarme el de Norteamérica porque pensé que iba a estar en inglés, pero no fue así.
 - aquí adjunto unas fotos de todo el proceso de instalación.
 
-![Foto de varias capturas de pantalla de cuando me instalé KiCad](./archivos/tme-sesion06b-foto07.jpeg)
+![Foto de varias capturas de pantalla de cuando me instalé KiCad](./archivos/tme-sesion06a-foto07.jpeg)
 
 ### encargo-13: Documental Sisters with transistors
 
