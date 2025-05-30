@@ -60,8 +60,7 @@ Foto de mi bitácora
 
 Foto de mi bitácora
 
-![circuito pulse width modulation](./archivos/circuito_pulse_width_modulacion.jpeg)
-
+![circuito esuqematico pulse width modulation](./archivos/circuito_pulse_width_modulation.jpeg)
 ## Circuito pwm en TinkerCad
 
 ![circuito pwm realizado por tinkercad](./archivos/pwm_circuito_tinkercad.png)
