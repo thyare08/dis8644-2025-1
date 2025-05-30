@@ -61,6 +61,6 @@
 - Como mencioné, esta clase realmente no nos mandaron ningún tipo de encargo ni carga académica de ningún tipo :)
 - Durante este receso aproveché para ordenar mis apuntes y también le tomé fotos a un modelado que realicé en Rhino, el cual me sirve para organizar mis componentes.
 
-![Foto caja modelada en 3D](./archivos/tme-sesion08a-caja01.png)
+![Foto caja modelada en 3D](./archivos/tme-sesion08a-caja01.jpeg)
 
-![Foto caja modelada en 3D](./archivos/tme-sesion08a-caja02.png)
+![Foto caja modelada en 3D](./archivos/tme-sesion08a-caja02.jpeg)
