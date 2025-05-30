@@ -72,5 +72,5 @@
 - quedaban pocos minutos por lo cuál no pregunté mis dudas de qué podía haber pasado que no resultó
 - debo hacer más ordenados mis circuitos y simplificarlos más para que sea más sencillo leer la proto, a estas alturas de la clase tenía las resistencias todas pegadas y no se entendía mucho, adjunto foto final de cómo quedó el circuito aunque no haya funcionado esta tercera parte
 
-![circuito](.archivos/circuito1.jpg)
-![circuito](.archivos/circuito2.jpg)
+![circuito](./archivos/circuito1.jpg)
+![circuito](./archivos/circuito2.jpg)
