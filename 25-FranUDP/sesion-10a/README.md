@@ -44,8 +44,9 @@ En el mundo de la electrónica, los componentes se clasifican entre 2 grupos, co
 > ### [Voltaje negativo](https://youtu.be/z5eB_2wjLTg?si=Ngw1xYDsibCLor0w)
 ><img align="left" src="./archivos/negativeVoltage.jpg" alt="baterias conectadas en serie. Fuente = https://www.build-electronic-circuits.com/what-is-negative-voltage/" width=300></br></br> Tener un voltaje negativo significa que el voltaje medido es más bajo que el punto de referencia (GND). Por ejemplo, si conectamos la terminal positiva del multímetro a GND y la terminal negativa a +9V, el multímetro leerá -9V, porque +9V se convierte en el punto de referencia (GND) y 0V es inferior a +9V por, valga la redundancia, 9V.</br></br> Los voltajes negativos son últiles para aplicaciones como amplificadores de audio, ya que el parlante empuja el aire en una dirección (+V) y luego tiene que moverse en reversa (-V) en lugar de quedarse quieto en el medio, cuando pudo haber desplazado más aire.</br></br></br></br>
 >
-> ### [Buffer]()
-> 
+> ### [Buffer](https://youtu.be/VKU9ciJb5u4?si=xksuSbaQz_msCMvr)
+> Es un circuito que nos permite mantener el voltaje (output) de un circuito, pero aumentando la corriente de este, para que componentes y/o circuitos que requieren una mayor corriente operen según esperado. </br>
+Se puede hacer un [buffer con un comparador](https://youtu.be/PvGdRVg5QXY?si=OnEHXtQWHpUfwJ3S) al conectar su output a su input-
 -----------------------------------------------------------------------------------------------------------
 ## Encargo 20 <!-- subir fotos de su propia autoría de pantallas de siete segmentos, y otras variantes que encuentren en su vida cotidiana. les pedimos al menos 3 fotos de distintas pantallas. pueden partir de la base de las que ya subieron hoy a discord. incluir información sobre dónde y cuándo fue capturada la imagen. -->
 ### Displays de 7 segmentos
@@ -53,9 +54,9 @@ En el mundo de la electrónica, los componentes se clasifican entre 2 grupos, co
 
 -----------------------------------------------------------------------------------------------------------
 ## Encargo 21 <!-- simular circuitos que hemos visto en clases con chips 555 y/o circuitos comparadores usando el simulador de Falstad disponible en -->
-### Simulación de circuitos en Falstad
-
-``` comparator + volatage divider
+### Simulación de circuitos en [Falstad](https://www.falstad.com/circuit/)
+Comparador + divisor de voltaje:
+``` 
 $ 1 0.000005 10.20027730826997 66 5 43 5e-11
 r 224 224 288 224 0 1000
 162 288 224 320 224 2 default-led 1 0 0 0.01
