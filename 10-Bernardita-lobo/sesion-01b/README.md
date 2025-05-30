@@ -1,6 +1,6 @@
 # sesion-01b
 
-## Trabajo en clase
+## Trabajo en clase / Viernes 14 de Marzo
 
 ### Componentes eléctricos y introducción a github
 
