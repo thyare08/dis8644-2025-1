@@ -2,7 +2,7 @@
 
 ## Trabajo en clase
 
-### Cosas que hablamos en la mañana
+### Cosas que hablamos en la mañana / Viernes 16 de Mayo
 
 - Dead Internet Theory
 - TikTok opera en Estados Unidos y los datos de los usuarios se envían a China.
