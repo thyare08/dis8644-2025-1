@@ -1,7 +1,7 @@
 # sesion-11a
 ## Módulo de la mañana
 
-![foto 1](./archivos/11a-clase-1.jpg)
+<img src="./archivos/11a-clase-1.jpg" alt="drawing" width="300"/> <img src="./archivos/11a-clase-2.jpg" alt="drawing" width="300"/> <img src="./archivos/11a-clase-3.jpg" alt="drawing" width="300"/> <img src="./archivos/11a-clase-4.jpg" alt="drawing" width="300"/> <img src="./archivos/11a-clase-5.jpg" alt="drawing" width="300"/> <img src="./archivos/11a-clase-6.jpg" alt="drawing" width="300"/> <img src="./archivos/11a-clase-7.jpg" alt="drawing" width="300"/> <img src="./archivos/11a-clase-8.jpg" alt="drawing" width="300"/> 
 
 Hoy conocimos que era un transistor MOSFET.
 
