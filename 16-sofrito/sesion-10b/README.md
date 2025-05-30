@@ -50,7 +50,7 @@ nos hicieron entrega de las placas diseñadas en Kicad (udpudu), luego nos reuni
 
 ![pantalla_7_segmentos-2](./archivos/foto-martes-donde-funcionarios-registran-su-legada.png)
 
-**foto sacada el día jueves a la pantalla de la lavadora de mi casa, idica el tiempo de lavado y el on/off**
+**foto sacada el día jueves a la pantalla de la lavadora de mi casa, indica el tiempo de lavado y el on/off**
 
 ![pantalla_7_segmentos-3](./archivos/foto-día-jueves-a-pantalla-de-lavadora-de-mi-casa_indica-tiempo-de-lavado-y-on:off.png)
 
