@@ -10,6 +10,7 @@
 - bases para escribir en hithub
 
 ![foto8](https://github.com/user-attachments/assets/2d1c2f7c-42b1-40c7-afc8-37262a75311f)
+
 ![foto5](https://github.com/user-attachments/assets/4fc794e2-8415-4af5-a2db-6e27aa7027b9)
 
 ## Encargo
