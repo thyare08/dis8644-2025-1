@@ -32,7 +32,13 @@ Luego se habló de las problematicas de la información y privacidad que uno pos
 
 - Pantallas solares:
 
-#### Fuentes de energía
+#### LEDS
+
+- Power bank (batería portátil) y USB A o B (5V):
+
+- Pantallas solares:
+
+#### 
 
 <br>
 
