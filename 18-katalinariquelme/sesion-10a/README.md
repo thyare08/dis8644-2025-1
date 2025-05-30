@@ -14,7 +14,7 @@ Martes 13 de Mayo del 2025.
 
 ## Registro del circuito en clases
 
-![IMG_0625](https://github.com/user-attachments/assets/e1c2bc35-d3e3-47fe-aac5-f783f76c3685)
+![circuito realizado en clases](./archivos/trabajo_en_cclases_10a.jpg)
 
 ## Apuntes clase
 
