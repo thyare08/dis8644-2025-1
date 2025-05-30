@@ -1,6 +1,6 @@
 # sesion-04b
 
-## Trabajo en clase
+## Trabajo en clase / Viernes 04 de Abril
 
 ### Sistemas electrónicos
 
