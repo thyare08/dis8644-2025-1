@@ -62,7 +62,7 @@ Personalmente, conocia la obra  "O Superman", pero no conocía a profundidad qui
 
 ![neon-violin](./archivos/neon-violin.png)
 
-![the-talking-stick](.archivos/the-talking-stick.png)
+![the-talking-stick](./archivos/the-talking-stick.png)
 
 Me impresiona y cambia mi perspectiva de como se tocan los instrumentos y que transmiten, no solo para quien escucha, sino que también para quien lo toca, llevando la música a algo más allá que tiene que ver con el cuerpo en sí, el movimiento de este al momento de tocar un intrumento y la relación directa que tiene la fluidez del cuerpo con la creación de sonido.
 
