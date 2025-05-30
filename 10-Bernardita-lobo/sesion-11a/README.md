@@ -19,10 +19,12 @@
 
 ### Nuevos componentes y circuitos
 
-Componentes: R, C, IC, D, POT, PS (Power Supply), GND, OP AMP, RELÉ, LDR, PROTO, SOLDAR, ESTAÑO (Sn), CAUÍN, PCB, Perfboard, Silicio, Cobre
-Circuito: APC (Astable, Monostable), PWM, Astable, Monostable
-Aplicaciones: APC, LED Dimmer, On/Off, Synth con R.exp, Udpudu
-Vamos a implementar un motor de corriente continua al circuito PWM
+- Componentes: R, C, IC, D, POT, PS (Power Supply), GND, OP AMP, RELÉ, LDR, PROTO, SOLDAR, ESTAÑO (Sn), CAUÍN, PCB, Perfboard, Silicio, Cobre
+- Circuito: APC (Astable, Monostable), PWM, Astable, Monostable
+- Aplicaciones: APC, LED Dimmer, On/Off, Synth con R. Exp, Udpudu
+- Vamos a implementar un motor de corriente continua al circuito PWM
+
+![](./archivos/tme-sesion11a-componentes.jpeg)
 
 ### Proyecto 02
 
