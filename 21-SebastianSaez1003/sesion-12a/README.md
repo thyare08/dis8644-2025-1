@@ -55,4 +55,6 @@ Vamos a conectar 3 módulos; vamos a ir parte por parte probando y recibiendo se
 
 <img src="./archivos/12a-clase-4.jpg" alt="drawing" width="300"/> <img src="./archivos/12a-clase-5.jpg" alt="drawing" width="300"/> <img src="./archivos/12a-clase-6.jpg" alt="drawing" width="300"/> 
 
-https://youtube.com/shorts/n97zhdVI5DM
+[![Video del circuito funcional a partir del umbral creado por el LDR](https://img.youtube.com/vi/n97zhdVI5DM/0.jpg)](https://youtube.com/shorts/n97zhdVI5DM)
+
+
