@@ -1,6 +1,6 @@
 # sesion-03a
 
-## Trabajo en clase
+## Trabajo en clase / Martes 25 de Marzo
 
 ### Nuevos componentes
 
