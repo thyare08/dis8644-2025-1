@@ -48,9 +48,10 @@ analog and hibrid chips: 555
 
 trapasar el circuito simulado en tinkercad a la protoboard
 
-![circuito-simulado-aproto](./archivos/circuito-simulado-a-proto.png)
+![c_simulado-aproto](./archivos/c_simulado-aproto.png)
 
-![circuito-simulado-aproto-2](./archivos/circuito-simulado-aproto-2.png)
+![c_simulado-aproto-2](./archivos/c_simulado-aproto-2.png)
+
 ## encargo_19: cultura electrónica y laurie anderson
 
 Laurie Anderson es una artista multidisciplinaria, reconocida por su trabajo en música experimental, performance, poesía, artes visuales y tecnología. 
