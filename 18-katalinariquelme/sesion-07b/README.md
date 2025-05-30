@@ -6,7 +6,7 @@ Clase 13: Viernes 25 de Abril del 2025.
 
 Foto de mi bitácora
 
-## KiCad realiado en clases
+## KiCad realizado en clases
 
 IMAGEN 1: Componentes a utilizar.
 

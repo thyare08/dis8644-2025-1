@@ -1,5 +1,7 @@
 # sesion-11a
+
 20/05/2025
+
 **Componentes:**
 * r          * +9vol
 * c          * led
@@ -11,24 +13,27 @@
 * pcb        * perfboard
 
 **Circuitos:**
+
 *APC
 *PWM
 *astable + monostable = APC 
 
 **Aplicaciones:**
+
 * apc
 * brillo - led
 * on/off - ampolleta
 * sinte - udpudu
 
 ## Estudio de chips y modulos
+
 Día de hoy: uso de motor 
 
 transistor mosfet: tiene 3 patas, envía una señal para dejar pasar la energía. Controla el flujo y se activa solo con un voltaje de entrada
 
 <img width="538" alt="Captura de pantalla 2025-05-20 a la(s) 11 59 55 a m" src="https://github.com/user-attachments/assets/c5429569-fe9b-417c-ba9a-9056cab15d57" />
 
-motor pwm: la velocidad o potencia del motor se ajusta al variar el ancho de los pulsos de voltaje que se le suministran, en lugar de variar la tensión de forma continua. 
+motor PWM: la velocidad o potencia del motor se ajusta al variar el ancho de los pulsos de voltaje que se le suministran, en lugar de variar la tensión de forma continua. 
 
 <img width="538" alt="Captura de pantalla 2025-05-20 a la(s) 12 01 59 p m" src="https://github.com/user-attachments/assets/e834d21e-12d2-4060-835e-7089c33935ae" />
 
@@ -40,7 +45,7 @@ conectar al circuito a un transistor que se conecta a un motor.
 
 https://github.com/user-attachments/assets/e2bf2f33-2f52-4a92-a823-d0fa2a2c49e9
 
-luego se cambió el potenciometro por un ldr y una resistencia 
+luego se cambió el potenciometro por un LDR y una resistencia 
 
 <img width="544" alt="Captura de pantalla 2025-05-20 a la(s) 12 29 58 p m" src="https://github.com/user-attachments/assets/2e1cb681-bab8-4b1b-8cee-035ff27a9033" />
 
@@ -51,11 +56,11 @@ ps: power supply
        * recargable
        * alto voltaje
 
-* usb -  * portátil (power balk)
+* usb -  * portátil (power bank)
    o
 transfo. * accesible
          * recargable
-         * voltaje 5v 
+         * voltaje 5v
 
 
 ## encargo-22: documentación textual del proceso de ensamblado de udpudu
@@ -68,6 +73,7 @@ Herramientas y materiales necesarios:
 4.  Esponja o lana metálica para limpiar la punta del cautín
 
 ## Pasos a seguir
+
 **PASO 1: Juntar los componentes necesarios**
 
 * Verificar y revisar la BOM, asegurarse de tener todos los elementos necesarios.

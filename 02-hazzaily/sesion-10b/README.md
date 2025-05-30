@@ -2,6 +2,9 @@
 
 16 de Mayo de 2025.
 
+## Trabajo en clase
+
+ - En clase nos entregaron la placa UDPudu, para soldar sus componentes. Para esto realizamos un BOM de materiales del UDPudu original.
 
 BOM CVS Original.
 
@@ -19,7 +22,7 @@ BOM CVS Original.
 |SW1      |SW_SPDT                      |~        |modules_teee2025:SPDT_PCB_small_P2.5mm       |1  |   |
 |U1       |~                            |         |Package_DIP:DIP-8_W7.62mm_Socket_LongPads    |1  |   |
 
-BOM
+BOM para armar UDPudu.
 
 |Referencia  |Valor   |Huella                   |Qty|OBS               |
 |------------|--------|-------------------------|---|------------------|
@@ -37,3 +40,7 @@ BOM
 |Clip batería|9v      |                         |1  |                  |
 |Parlante    |8ohm    |                         |1  |                  |
 |J1,J3       |CAIMAN  |Cables caimán            |2  |                  |
+
+## Encargo 22 y 23: Documentación textual y visual del ensamblado de la PCB UDPudu
+
+1<qQ

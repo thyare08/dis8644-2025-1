@@ -1,11 +1,10 @@
 # sesion-10a
+
 13-05-2025
 
-Trabajar en grupos de 3 personas y armar cada uno el circuito pwm, cada persona debe tener un led de color distinto, luego se combinaran los colores. Luego con un papel se apunta con cada led y cada circuito al papel, generando un efecto lumínico que combina los colores. Con este ejercicio somos capaces de ver el efecto de RGB.
+Trabajar en grupos de 3 personas y armar cada uno el circuito PWM, cada persona debe tener un LED de color distinto, luego se combinarán los colores. Luego con un papel se apunta con cada LED y cada circuito al papel, generando un efecto lumínico que combina los colores. Con este ejercicio somos capaces de ver el efecto de RGB.
 
-![video ejercicio lumínico]
-
-https://github.com/user-attachments/assets/ca505d32-3f8e-486f-a52b-30dbe41e1151
+![video ejercicio lumínico]https://github.com/user-attachments/assets/ca505d32-3f8e-486f-a52b-30dbe41e1151
 
 ![creando colores1]
 
@@ -15,15 +14,16 @@ https://github.com/user-attachments/assets/ca505d32-3f8e-486f-a52b-30dbe41e1151
 
 <img width="665" alt="13_05" src="https://github.com/user-attachments/assets/2ece7cfe-b37d-4b7c-b66e-8a669a6c0b23" />
 
-*Bajando la resistencia se aumenta la intensidad del led
+* Bajando la resistencia se aumenta la intensidad del led
 
-*Este es el primer circuito diseñado en KiCad
+* Este es el primer circuito diseñado en KiCad
 
 LED RGB: tiene 4 patitas, en un mismo encapsulado pueden verse los 3 colores
 
 Pantalla de 7 segmentos: contiene 7 leds, y cada uno se asocia a un segmento, que muestran y forman números o algunos símbolos, se pueden encender o apagar para formar los caracteres deseados.
 
 ## LM324 (4 op-amp)
+
 chip de 14 patas 
 
 op-amp: caja negra llena de transistores. Es un circuito integrado (CI) que amplifica señales eléctricas, especialmente voltajes diferenciales
@@ -43,7 +43,8 @@ VS+: Fuente DC positiva
 VS−: Fuente DC negativa
 
 ## falstad
-Permite hacer y similar circuitos, visibilizar su scope, además de variar sus resistencias y velocidad
+
+Permite hacer y simular circuitos, visibilizar su scope, además de variar sus resistencias y velocidad
 
 ![ejemplo de un circuito simulado]
 
@@ -52,7 +53,8 @@ Permite hacer y similar circuitos, visibilizar su scope, además de variar sus r
 analog and hibrid chips: 555
 
 ## encargo_18: de tinkercad a protoboard
-trapasar el circuito similado en tinkercad a la protoboard
+
+trapasar el circuito simulado en tinkercad a la protoboard
 
 ![circuito simulado - a proto]
 
@@ -79,7 +81,6 @@ Personalmente, conocia la obra  "O Superman", pero no conocía a profundidad qui
 ![the talking stick]
 
 <img width="461" alt="Captura de pantalla 2025-05-14 a la(s) 12 02 16 a m" src="https://github.com/user-attachments/assets/1ccf03f6-4d48-4a68-baac-03090395972c" />
-
 
 Me impresiona y cambia mi perspectiva de como se tocan los instrumentos y que transmiten, no solo para quien escucha, sino que también para quien lo toca, llevando la música a algo más allá que tiene que ver con el cuerpo en sí, el movimiento de este al momento de tocar un intrumento y la relación directa que tiene la fluidez del cuerpo con la creación de sonido.
 

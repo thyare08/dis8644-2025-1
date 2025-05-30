@@ -1,4 +1,5 @@
 # sesion-11a
+
 20-05
 
 - ursonate de kurt schwitters - poeta sonoro - dadaísmo
@@ -15,8 +16,8 @@
 - [Object-Oriented Python](https://nostarch.com/object-oriented-python)
 - ontología orientada a objetos - filosofía "todo es objeto, no hay sujetos" "todo lo que tiene 4 patas, sirve sirve y no respira, es una mesa" "¿Qué es el porpósito?" "loq ue caracteriza a la mesa no es el uso, no es para qué sirve ni de qué está hecha" *misa* [filósofo - Graham Harman]
 - "si estás en prisión es legal escaparse"
-- petr valek
-- zimoun artist
+- petr valek <https://www.youtube.com/watch?v=tO4WYX424rw>
+- zimoun artist ![cartón entretenido](https://www.youtube.com/watch?v=VAzObWw4ezo)
 - "muchas, grande, rojo = arte" *aarón*
 - regleta eléctrica 
 
@@ -52,7 +53,6 @@
 - on/off ampolleta
 - sintetizador resistencia experimental (udpudu)
 - 
-
 va a haber un examen, proyecto de un dispositivo electrónico (primera semana de julio), mediado de junio es el proyecto 2 que es el anteproyecto del examen
 
 ---

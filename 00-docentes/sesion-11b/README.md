@@ -2,6 +2,5 @@
 
 martes 23 mayo 2025
 
-## encargo-24
+no hay encargos por ser semana de solemne
 
-## encargo-25

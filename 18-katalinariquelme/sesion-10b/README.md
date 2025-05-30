@@ -7,7 +7,7 @@ Viernes 16 de Mayo del 2025.
 - hablamos de lo que haremos el dia de hoy, que era soldar los componentes a la placa PCB que realizamos hace unas clases atrás el cual era udpudu.
 - para ello vimos los componentes que usaremos y realizamos un BOM en excel.
 
-**BOM CVS Original (sin modificaciones)**
+**BOM CSV Original (sin modificaciones)**
 
 |Reference|Value                        |Datasheet|Footprint                                    |Qty|DNP|
 |---------|-----------------------------|---------|---------------------------------------------|---|---|
@@ -73,24 +73,24 @@ Viernes 16 de Mayo del 2025.
 
 Placa PCB por parte delantera
 
-![IMG_0673](https://github.com/user-attachments/assets/e6cdaadf-e8d6-41fc-ad58-3be27bef1698)
+![placa udpudu parte delantera](./archivos/placa_pcb_delantera.jpeg)
 
 Placa PCB por parte trasera
 
-![IMG_0674](https://github.com/user-attachments/assets/3461efb5-36a6-486c-b73a-44d0007f3209)
+![placa udpudu parte trasera](./archivos/placa_pcb_trasera.jpeg)
 
 Sobreposicion de base DIP para ver como se veria
 
-![IMG_0676](https://github.com/user-attachments/assets/2202dcc7-ec4d-4a49-94d2-00dee0aac6d8)
+![como se veria la placa pcb con su componente soldado(./archivos/sobreposicion_base_dip.jpeg)
 
 - **PASO 3:** Al ya saber cuales eran todos los componentes que utilizaremos, realizarmos el circuito en la protoboard. En el cual verificaremos si nos gusta como suena o modificamos algun condensador para que el sonido sea diferente.
 - **PASO 4:** Separamos todos los componentes que utilizademos para soldar.
 
-![IMG_0684](https://github.com/user-attachments/assets/ce61f141-ebeb-4b97-b75d-2ee8ddd472cb)
+![componentes a utilizar](./archivos/componentes.jpeg)
 
 - **PASO 5:** Reunimos 4 mesas para formar grupos de 6 y ayudarnos a soldar, dieron un cautin por 3 personas, por lo menos así fue en mi grupo. 
 - **PASO 6:** Luego calentamos el cautín con mucho cuidado, siempre dejandolo en su respectiva base.
-- **PASO 7:** Limpiamos la punta y comenzamos a soldar, en esta parte nos ibamos turnando con mis compañeras de clase y simepre llevando registro de lo que haciamos.
+- **PASO 7:** Limpiamos la punta y comenzamos a soldar, en esta parte nos ibamos turnando con mis compañeras de clase y simepre llevando registro de lo que hacíamos.
 
 Registro de video soldando
 
@@ -98,16 +98,16 @@ https://github.com/user-attachments/assets/4eb16723-1366-4345-8e7a-974ea8bdc051
 
 Resultado de la primera pieza soldada
 
-![IMG_0688](https://github.com/user-attachments/assets/8a915493-6454-45f7-bd8f-f9d7dfde4c58)
+![primer componente soldado](./archivos/primer_componente_soldado.jpeg)
 
-- **PASO 8:** Realizamos lo mismo con todos los componentes y los que tenian las patitas largas lo cortabamos con ... (no me acuerdo como se llama, pero para mi era un corta cuticula xd)
+- **PASO 8:** Realizamos lo mismo con todos los componentes y los que tenian las patitas largas lo cortabamos con ... (no me acuerdo como se llama, pero para mí era un corta cuticula xd)
 
-![IMG_0692](https://github.com/user-attachments/assets/41884cbb-ae6d-49df-ae41-321398e0af8f)
+![recorte de las patitas de los componentes](./archivos/recorte_sobrantes.jpeg)
 
-- **PASO 9:** Y ese fue el resultado final de la clase, no alcance a soldar todas las piezas por el tiempo pero voy a continuar en mi casa :). 
+- **PASO 9:** Y ese fue el resultado final de la clase, no alcancé a soldar todas las piezas por el tiempo pero voy a continuar en mi casa :). 
 
 https://github.com/user-attachments/assets/2f4b2e38-c6eb-45bc-975d-c05aa686c220
 
-## Paginas utilizadas
+## Páginas utilizadas
 
 **Para comprimir videos** https://clideo.com/es/compress-video

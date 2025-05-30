@@ -1,6 +1,9 @@
 # sesion-10a
+
 13.mayo.2025
+
 ## Primer bloque: Trabajo en clases
+
 1. Armar un circuito PWM cada uno 
 2. Juntarse en grupos de tres, cada uno con un LED rojo, verde o azul 
 3. Combinar colores
@@ -24,6 +27,7 @@ Vamos juntando los LED para crear colores
 
 - **LM324 OP-AMP:** Es un amplificador operacional con 4 entradas diferentes, es decir se puede hacer cuatro funciones en uno.
 - **Falstad:** Es un simulador de circuitos 
+
 ![falstad](https://github.com/user-attachments/assets/c2260629-9bf7-4df2-8787-9170b633ffc7)
 
 ![divisor de voltaje ](https://github.com/user-attachments/assets/ac16adda-3fce-4ae0-ae1c-d73f35bc6bed)

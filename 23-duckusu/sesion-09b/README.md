@@ -3,6 +3,7 @@
 ## **Previa a la clase**
 
 En una larga charla de hora y media, hablamos de algún logró importante durante nuestro receso. Por mi parte, les comenté sobre mi experiencia paseando a mi cachorro Taro en un morral.
+
 <div align="left">
   <img height="300" src="https://media.discordapp.net/attachments/1248658110625742862/1370403581169238066/b6c6fcfe-d5f4-4340-b8d9-4384f191c5d7.png?ex=681f5f4a&is=681e0dca&hm=e292aa90aba53b5e05e75f058f0cc5a9153aadb08309df8c0d1a1b883cafd54f&=&format=webp&quality=lossless&width=699&height=525"  />
 </div>
@@ -10,6 +11,7 @@ En una larga charla de hora y media, hablamos de algún logró importante durant
 ###
 
 Consecuentemente nos entregaron como muestra los siguientes artilugios:
+
 <div align="left">
   <img height="400" src="https://media.discordapp.net/attachments/1248658110625742862/1370404480062980136/image.png?ex=6824a620&is=682354a0&hm=145ca3cce723d518408df650ccd867cbe38f0e1dd502290bf29bdb98e3647590&=&format=webp&quality=lossless&width=825&height=384"  />
 </div>
@@ -19,6 +21,7 @@ Consecuentemente nos entregaron como muestra los siguientes artilugios:
 ## **Comienzo de clase**
 
 Como ninguno (yo incluido) trajo su caja mágica a la clase nos dedicamos a hablar de los contenidos a un nivel más teórico, con ello, englobando la electrónica en general.
+
 <div align="left">
   <img height="500" src="https://media.discordapp.net/attachments/1248658110625742862/1370417913823100968/20250509_103200.jpg?ex=681f6ca3&is=681e1b23&hm=44f40079c836ec96083621400af3c02fc7028c49c60d8b3fc8257dc0aded125e&=&format=webp&width=701&height=525"  />
 </div>
@@ -35,7 +38,7 @@ Como ninguno (yo incluido) trajo su caja mágica a la clase nos dedicamos a habl
 
 ### Link de tinkercad: <https://www.tinkercad.com/things/37ntWomUnlH/editel>
 
-## Encargo 18: Desarrolló en protoboard
+## Encargo 18: Desarrollo en protoboard
 
 <div align="left">
   <img height="500" src="https://cdn.discordapp.com/attachments/1248658110625742862/1371334538504175646/pwm.png?ex=682413d0&is=6822c250&hm=77f1d428405d5f98eaf68f803f4c495ac205432caddac8d7eb5a9d94f3092cf7&format=webp&quality=lossless&width=1964&height=1104"  />
@@ -44,9 +47,10 @@ Como ninguno (yo incluido) trajo su caja mágica a la clase nos dedicamos a habl
 ###
 
 - Al desarrollar la protoboard, se optó por cambiar los diodos por condensadores y los ceramicos de 100 por unos de 473 para que fuera más notorio el funcionamiento del circuito PWM, por ello se dieron los resultados del siguiente video.
-- Link del video: https://youtu.be/K1TGlEYi-z4?si=7yJn56YzCrBxILIr
 
-## Encargo 19: Cultura electrónica y laurie anderson
+- Link del video: <https://youtu.be/K1TGlEYi-z4?si=7yJn56YzCrBxILIr>
+
+## encargo-19: Cultura electrónica y laurie anderson
 
 ### Laurie Anderson
 

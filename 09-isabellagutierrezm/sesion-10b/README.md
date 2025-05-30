@@ -1,5 +1,7 @@
 # sesion-10b
-16. mayo. 2025
+
+16 mayo 2025
+
 - Entrega de la placa PCB pudú
 
 ![placapudu](https://github.com/user-attachments/assets/a860665a-b4c4-4343-9494-0aa6deb5043c)
@@ -22,13 +24,14 @@
 | SW1             |SW_SPDT     | Switch spdt                         |       1         |              |  
 | U1                |  NE555          |      DIP- 8                            |       1         | Va el socket U1|
 
-## Encargo 22: Manual de pasos
+## rncargo-22: Manual de pasos
+
 1. Nos reunimos en grupos de 6 para dividir tareas y comenzar a armar la placa
 2. Hacemos conteo de nuestros componentes 
 3. De a uno vamos soldando los componentes (aconsejamos pegar la placa a una plataforma, para que no se mueva mientras soldamos)
 4. Al finalizar recuerda cortar las sobras de la parte trasera de la placa
    
-## Encargo 23: Documentación visual del ensamblado de la placa
+## encargo-23: Documentación visual del ensamblado de la placa
 
 ![BOM](https://github.com/user-attachments/assets/c95520cc-7cda-4ca1-9cc8-806247787a9b)
 

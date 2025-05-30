@@ -54,7 +54,7 @@ grupo 4 Este encargo se va a llamar BAjando la opacidad a la caja negra.
 
 PCB es una printed circuit board.
 
-## 01 escuchar switched on bach (wendy carlos)
+## encargo-21 escuchar switched on bach (wendy carlos)
 
 "Switched-On Bach, la interpretación electrónica de Wendy Carlos de obras compuestas originalmente por Johann Sebastian Bach, vio la luz en octubre de 1968. Hasta entonces, los sintetizadores se habían utilizado casi exclusivamente en la música experimental. Los 13 temas del álbum se compusieron íntegramente con el sistema modular Moog personalizado de Carlos, dando nueva vida a conocidas obras clásicas e introduciendo el sintetizador en la corriente dominante de una forma que resultaba familiar.
 
@@ -70,9 +70,9 @@ Referencias:
 
 -<https://www.moogmusic.com/media/switched-bach-how-world-met-moog>
 
-## 02 proj-01 bajando opacidad a la caja negra  
+## encargo-22: bajando opacidad a la caja negra  
 
--¿Cómo se utiliza al aparato? ¿Cómo me indica esa manera de uso? Gestos, contexto (Función indicativa y simbólica)  
+- ¿Cómo se utiliza al aparato? ¿Cómo me indica esa manera de uso? Gestos, contexto (Función indicativa y simbólica)  
 
 ![20250407_211350](https://github.com/user-attachments/assets/19b4b71a-1838-4217-9988-a543954d2f23)
 ![20250407_211404](https://github.com/user-attachments/assets/2af1c376-c7a4-4eed-86eb-e034233c33f8)

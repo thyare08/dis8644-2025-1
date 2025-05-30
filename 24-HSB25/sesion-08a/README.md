@@ -49,3 +49,5 @@ Una vez que haces un fork de un repositorio en GitHub (es decir, una copia del p
 # Visualización de archivos Markdown con Visual Studio Code
 
 Los archivos .md (Markdown), como README.md, pueden abrirse con cualquier editor de texto, pero Visual Studio Code (VS Code) ofrece una experiencia mejorada. VS Code incluye vista previa de Markdown, resaltado de sintaxis y extensiones útiles para edición colaborativa, lo que permite visualizar el contenido con formato (títulos, listas, enlaces, imágenes) tal como aparecería en GitHub.
+
+

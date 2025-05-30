@@ -26,8 +26,6 @@ Considerar:
 
 
 
-## encargo-30
+## encargo-26
 
-
-
-## encargo-31
+## encargo-27

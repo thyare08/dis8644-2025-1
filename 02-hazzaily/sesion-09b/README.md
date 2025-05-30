@@ -10,13 +10,11 @@ Componente 1: **Chip 8403**
 
 Foto Chip 8403.
 
-
 Componente 2: **SRD05 / Relé de 01 canal**
 
  - Este relé permite controlar el encendido y apagado de cualquier aparato que se conecte a una fuente de alimentación eléctrica externa.
 
 Foto de Relé de  canal.
-
 
 ## Configuraciones 555: Repaso
 
@@ -24,7 +22,7 @@ Foto de Relé de  canal.
 
 Foto de mi croquera.
 
-![Onda Astable](archivos/onda_astable.jpg)
+![Onda Astable](./archivos/onda_astable.jpg)
 
  - in: R y C.
  - out: LEDs, sonido, nov, aviso.
@@ -33,7 +31,7 @@ Foto de mi croquera.
 
 Foto de mi croquera.
 
-![Onda Monoestable](archivos/onda_astable.jpg)
+![Onda Monoestable](./archivos/onda_astable.jpg)
 
  - in: R y C.
  - out: LEDs, sonido, nov, aviso.

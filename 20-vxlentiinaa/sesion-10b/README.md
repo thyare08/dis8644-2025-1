@@ -2,7 +2,8 @@
 
 16-05-2025
 
-## Apuntes 
+## Apuntes
+
 * En KiCad, para generar un archivo png debemos seleccionar: exportar (cuts,f. silkscreen, mask)
 * Exportar archivos del BOM a excel: data > de texto a columnas > separar (desde KiCad hacia el excel)
 * Tip: Soldar primero las cosas cerca del "suelo" (diodos, resistencias, socket chip, condensadores) luego las cosas que están más lejos (LEDS, terminal block, switch spdt, parlantes, batería)
@@ -46,12 +47,10 @@ incluir aciertos y errores, aprendizajes y consejos.
 
 https://github.com/user-attachments/assets/93b0a12c-55cf-4e89-8543-497fa0d1a0f5
 
-
-
 https://github.com/user-attachments/assets/71f48e6b-3ea5-4950-aa32-d7f91fa46741
 
-
 ### 4. Con el grupo dejamos los componentes en un lado para que no se nos perdieran 
+
 * (Cabe recalcar que las fotos de procedimiento las tiene nuestro compañero Santiago)
   
 ### 5. Conectamos el cautín y esperamos a que se calentara, para luego limpiar la punta
@@ -59,15 +58,16 @@ https://github.com/user-attachments/assets/71f48e6b-3ea5-4950-aa32-d7f91fa46741
 ### 6. Luego soldamos primero el Socket y luego los demás componentes (nos basamos en el BOM para poder soldar los compenentes, primero las resistencias, diodos y luego los condensadores)
 
 ### 7. Nos turnamos para soldar, así el trabajo fue más eficiente
-* Precalentar 3 segundos el PAD
-* Meter soldadura sin plomo
-* Se queda 3 segundos
+
+* Precalentar 3 segundos el pad
+* Acercar soldadura sin plomo
+* Mantener 3 segundos
 * Sacar cautín
-* TIP: Para una buena soldadura, tiene que quedar en rampita
+* Consejo: Para una buena soldadura, tiene que quedar en rampita
 
 ### 8. Cuando estén listas las soldaduras, se corta el excedente de los componentes
 
-### 9. Al tener todo listo, Aaron trajo un set para poder tomar fotitos de la PCB.
+### 9. Al tener todo listo, Aarón trajo un set para poder tomar fotitos de la PCB.
 
 ## encargo-23: documentación visual del proceso de ensamblado de udpudu
 

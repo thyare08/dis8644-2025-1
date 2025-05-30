@@ -2,7 +2,7 @@
 
 20 de Mayo de 2025.
 
-## Componenetes, circuitos y aplicaciones
+## Componentes, circuitos y aplicaciones
 
 **Componentes:**
 

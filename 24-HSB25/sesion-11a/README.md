@@ -31,12 +31,11 @@ Ahora haremos una lista de las cosas que ya sabemos hacer:
 - LED BRIGHTNESS
 - ON/OFF AMPOLLETA
 
-
 Hoy aprenderemos como aprender a armar nuestro primer motor.
 
 # PWM Protoboard
 
-![pmw](https://www.build-electronic-circuits.com/wp-content/uploads/2022/09/555-timer-pwm-circuit-motor.png)
+![PWM](https://www.build-electronic-circuits.com/wp-content/uploads/2022/09/555-timer-pwm-circuit-motor.png)
 
 El circuito PWM (modulación por ancho de pulso) que trabajamos en clases está diseñado para controlar dispositivos electrónicos, como motores o LEDs, regulando la cantidad de energía que reciben a través de una señal digital que varía su ciclo de trabajo. En este caso, el objetivo era utilizar el sistema PWM para mover un pequeño motor, haciendo que vibrara o girara.
 

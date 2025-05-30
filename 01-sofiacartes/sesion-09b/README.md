@@ -1,6 +1,5 @@
 # sesion-09b 09/05
 
-
 ## Chip 8403
 
 ![PAM8403](https://github.com/user-attachments/assets/77990228-3c5f-446f-af10-8bf4bbe240da)

@@ -1,6 +1,6 @@
 # sesion-10a
 
-# Clase 13/05 10a
+Clase 13/05 10a
 
 ### Segunda parte
 

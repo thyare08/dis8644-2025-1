@@ -1,9 +1,13 @@
 # sesion-10b
+
 ## Clase mañana
-- Nos hablaron del **circuit bending**, una tecnica que se usa generalmente en juguetes para niño/as la cual permite una customización de los dipositivos electronicos para generar sonidos más unicos.
+
+- Nos hablaron del **circuit bending**, una técnica que se usa generalmente en juguetes para niño/as la cual permite una customización de los dipositivos electronicos para generar sonidos más únicos.
 
 ## Entrega de placas y soldadura de piezas
-### Imagenes
+
+### Imágenes
+
 <div align="left">
   <img height="100%" src="https://media.discordapp.net/attachments/1248658110625742862/1374269059239247892/image.png?ex=682d6f4c&is=682c1dcc&hm=c12b2f2e5836984f26ace610784dbcbdc39d43c399da508d63803cd5814f86a1&=&format=webp&quality=lossless&width=1577&height=1034"  />
 </div>
@@ -28,4 +32,3 @@
 
 - Pseudo-final
 
-###

@@ -1,5 +1,7 @@
 # sesion-11a
+
 ### **Menciones musicales**
+
 -  Canto gregoriano
 -  Caterina barbieri -  This causes consciousness to fracture (electrónica monostable)
 -  Ela minus 
@@ -13,14 +15,14 @@ Dimensión proyectual. **OOO** -> Propiedades y métodos.
 
 **OOO**: ontología orientada a objetos. Todo es objeto. NO sujeto objeto. Por Graham Harman
 
->  Class : car
+>  Class: car
 >  Objects: Mercedes, Bmw, Audi.
 
--  **Se crea una interfaz al programar** > el auto puede partir y puede acelerar function start{} function accelerate{}.
+-  **Se crea una interfaz al programar** > el auto puede partir y puede acelerar function start(){} function accelerate(){}.
 
 Tiene que ver con implementación en chips.
 
-- Object-oriented Python Master | OOP editorial: no starch press.
+- Object-oriented Python | OOP editorial: no starch press.
 
 OOP: ¿mesa? sirve para apoyar, rayar ¿propósito? ¿para qué sirve? ¿cuál es su uso? ¿de qué está hecha?
 OOP tiene propiedades y método, no existe una tercera forma para explicar esto, niega la relación sujeto objeto.
@@ -36,9 +38,10 @@ Circuitos: APC (AS-MS), PWM, ASTABLE (AS), MONOSTABLE (MS).
 Aplicaciones: APC, Brillo LED, ON/OFF Ampolleta, Sinte R<sub>exp</sub> (udpudu).
 
 -  Primera semana de Julio:
-### **EXÁMEN: proyecto de dispositivo electrónico para comisión.**
 
--  Presentación de exámen. Encargos + bitácoras + proyecto_1.
+### **EXAMEN: proyecto de dispositivo electrónico para comisión.**
+
+-  Presentación de examen. Encargos + bitácoras + proyecto_1.
 -  Mediados de junio **ANTEPROYECTO** : feedback cruzado y semanas de producción en exámen ¿Qué queremos hacer y cómo lo hacemos? Mandar a imprimir la PCB.
 -  **JUNIO**: Listo para **IMPRIMIR a JLCPCB**.
 -  Aceleradores en distintos chips, módulos, chips con resistencias para llegar y conectar.
@@ -94,4 +97,3 @@ Zimoun
 Potenciómetro: dos resistencias variables.
 
 bastl-instruments.com
-

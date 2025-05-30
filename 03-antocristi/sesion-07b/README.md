@@ -24,7 +24,7 @@ En el encargo avance con la última parte que me perdí en la clase y cotice el 
 
 ## Encargo 17
 
-Edite una placa con un diseño diferente para cotizar pero al guardar a la carpeta gerber no se generan todos los archivos, solo los drl.
+Edité una placa con un diseño diferente para cotizar pero al guardar a la carpeta gerber no se generan todos los archivos, solo los drl.
 
 Igualmente adjunto imágenes de las ediciones.
 
