@@ -8,6 +8,8 @@
 - la segunda parte del circuito consistía en implementar el chip 4017 en la protoboard
 - lo que se buscaba era generar una especie de secuenciador, el chip 4017 se encargaba de esto
 - como llegué tarde no entendí bien el cómo el chip 4017 actuaba como secuenciador, debo estudiarlo más
+- **primera parte del circuito**
+![fotocircuitoavance](./archivos/1748578185408.jpg)
 
 ### post break
 
@@ -15,6 +17,8 @@
 - me costó bastante ya que eran muchas conexiones debido a que el 4017 tiene 16 patas y no entendía nada
 - logré conectar el circuito pero no me funcionó como debía
 - el único efecto que lograba era prender y apagar las luces pero no se formó ningún tipo de secuencia
+
+![fotocircuitoavance](./archivos/1748578185389.jpg)
 - Andrés lo revisó pero tampoco pudo encontrar el error en el circuito, dedujimos que quizá era la batería porque hace mucho no la cargo
 - por último antes del final de la clase soldamos las partes del udpudu que nos faltaban
 - en mi caso me ayudó Francisco Stephens a soldar lo que faltaba de mi udpudu
