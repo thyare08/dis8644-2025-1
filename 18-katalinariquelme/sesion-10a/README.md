@@ -10,19 +10,19 @@ Martes 13 de Mayo del 2025.
 
 **Primer circuito esquematico diseñado en KiCad**
 
-![Captura de pantalla 2025-05-13 102101](https://github.com/user-attachments/assets/80ecb753-1fb9-4ef6-8655-faa2e7bb79f8)
+![primer circuito realizado en kicad](./archivos/primer_circuito_kicad.png)
 
 ## Registro del circuito en clases
 
-![IMG_0625](https://github.com/user-attachments/assets/e1c2bc35-d3e3-47fe-aac5-f783f76c3685)
+![circuito realizado en clases](./archivos/trabajo_clases_10a.jpg)
 
 ## Apuntes clase
 
 circuit.js se abre automaticamente un circuito **RESONADOR RLC**
 
-![Captura de pantalla 2025-05-13 113632](https://github.com/user-attachments/assets/f8d95411-2fac-48d0-8b64-ab463b18dc47)
+![pagina de circuit.js](./archivos/circuit.js_resonador_rlc.png)
 
-![Captura de pantalla 2025-05-15 183505](https://github.com/user-attachments/assets/7ec875a7-f6a4-4ce0-b510-341ca345b848)
+![pagina de circuit.js](./archivos/circuit.js_ejercicio_1.png)
 
 ## Ejercicio en clases
 
@@ -34,17 +34,17 @@ Es un aparato electrónico que utiliza siete segmentos LED, los cuales se pueden
 
 Ejemplo:
 
-![negocio republica](https://github.com/user-attachments/assets/32e318bb-7d75-4cee-8427-4d51db767405)
+![foto tomada por thyare santander](./archivos/negocio_republica.jpg)
 
 *FotografÍa tomada por mi compañera de taller Thyare Santander el 13/05 en el negocio al lado de la FAAD (no recuerdo como se llama :( )*
 
 También el sistema de siete segmentos está diseñado para números, pero no para letras, por eso algunas no son compatibles y hacen confundir a un número y a veces, no se puede distinguir. Aquí tenemos los números y las letras del alfabeto latino.
 
-![Captura de pantalla 2025-05-15 200956](https://github.com/user-attachments/assets/cf0aa434-76d4-4956-b485-aab521856a6a)
+![captura wikipedia numeros siete segmentos](./archivos/numeros_siete_segmentos.png)
 
 Imagen rescada de wikipedia https://es.wikipedia.org/wiki/Visualizador_de_siete_segmentos
 
-![Captura de pantalla 2025-05-15 201048](https://github.com/user-attachments/assets/4a72e293-4847-4ecb-95c1-dd35ac88b13a)
+![captura wikipedia abecedario latino](./archivos/abecedario_siete_segmentos.png)
 
 Imagen rescada de wikipedia https://es.wikipedia.org/wiki/Visualizador_de_siete_segmentos
 
@@ -52,19 +52,19 @@ Imagen rescada de wikipedia https://es.wikipedia.org/wiki/Visualizador_de_siete_
 
 **IMAGEN 1**
 
-![microondas](https://github.com/user-attachments/assets/54ea0c68-101b-452b-b36a-8ba4e1f35fbd)
+![foto microondas](./archivos/microondas_siete_segmentos.jpg)
 
 fue capturada el 14/05 en mi casa.
 
 **IMAGEN 2**
 
-![estufa](https://github.com/user-attachments/assets/4624c423-3ebd-4dcb-a969-b331d8c37057)
+![foto estufa](./archivos/estufa_siete_segmentos.jpg)
 
 fue capturada el 15/05 en mi casa.
 
 **IMAGEN 3**
 
-![refrigerador](https://github.com/user-attachments/assets/1ef3db1c-50c6-4e8b-b843-11bf0ad2b3c8)
+![foto refrigerador](./archivos/refrigerador_siete_segmentos.jpg)
 
 fue capturada el 15/05 en mi casa.
 
@@ -74,7 +74,7 @@ Realizar algun circuito visto en clases con chip555.
 
 PWN
 
-![Captura de pantalla 2025-05-15 183915](https://github.com/user-attachments/assets/f76045b4-b51a-44b0-b789-1a571d3961d7)
+![circuito pwn realizado en pagina circuit.js](./archivos/circuito_pwn.png)
 
 código
 
