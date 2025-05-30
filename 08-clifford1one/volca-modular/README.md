@@ -1,7 +1,5 @@
 # Manual de uso  para el volca modular
 
-##
-
 
 
 ## Contexto
