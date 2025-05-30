@@ -51,6 +51,21 @@ Se puede hacer un [buffer con un comparador](https://youtu.be/PvGdRVg5QXY?si=OnE
 ## Encargo 20 <!-- subir fotos de su propia autoría de pantallas de siete segmentos, y otras variantes que encuentren en su vida cotidiana. les pedimos al menos 3 fotos de distintas pantallas. pueden partir de la base de las que ya subieron hoy a discord. incluir información sobre dónde y cuándo fue capturada la imagen. -->
 ### Displays de 7 segmentos
 
+### 1.- Indicador de piso del ascensor de la FAAD 2.- Pantalla que indica el recorrido de la micro</br><img align="left" src="./archivos/elevator.jpg" alt="Pantalla ascensor de la FAAD. Fuente = FranUDP" width=400><img align="right" src="./archivos/micro.jpg" alt="Pantalla de Transantiago/Micro/Red" width=400>
+
+</br></br></br></br></br></br></br></br></br></br>
+
+### 3.- Indicador de paso y contador del semáforo </br><img align="left" src="./archivos/semaforo.jpg" alt="semáforo" width=400></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+
+### 4.- Contador del microondas de mi casa </br><img align="left" src="./archivos/microondas.jpg" alt="Pantalla microondas" width=400></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+
+### 5.- Pantalla de la lavadora de mi casa</br><img align="left" src="./archivos/lavadora.jpg" alt="Pantalla lavadora" width=400></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+
+### 6.- Pantalla de reloj despertador de mi papá </br><img align="left" src="./archivos/watch.jpg" alt="Pantalla reloj despertador" width=400></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+
+### 7.- Pantalla de reloj digital de mi casa </br><img align="left" src="./archivos/clock.jpg" alt="Pantalla reloj digital" width=400></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+
+### 8.- Pantalla que muestra la temperatura de mi cautín </br><img align="left" src="./archivos/iron.jpg" alt="Pantalla temperatura cautín" width=400></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 
 -----------------------------------------------------------------------------------------------------------
 ## Encargo 21 <!-- simular circuitos que hemos visto en clases con chips 555 y/o circuitos comparadores usando el simulador de Falstad disponible en -->
