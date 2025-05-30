@@ -41,7 +41,7 @@ VS−: Fuente DC negativa
 
 Permite hacer y simular circuitos, visibilizar su scope, además de variar sus resistencias y velocidad
 
-![circuito-simulado](./16-sofrito/sesion-10a/archivos/circuito-simulado.png)
+![circuito-simulado](./archivos/circuito-simulado.png)
 
 analog and hibrid chips: 555
 
