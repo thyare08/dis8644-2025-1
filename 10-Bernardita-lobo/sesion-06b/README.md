@@ -1,6 +1,6 @@
 # sesion-06b
 
-## Este viernes fue feriado
+## Este viernes fue feriado / Viernes 
 
 ## Encargo
 
