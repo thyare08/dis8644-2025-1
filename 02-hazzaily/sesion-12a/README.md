@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/7de8433c-4f03-48ec-827a-5182906c24d4
 # sesion-12a
 
 27 de Mayo de 2025.
