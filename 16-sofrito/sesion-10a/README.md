@@ -4,7 +4,7 @@
 
 Trabajar en grupos de 3 personas y armar cada uno el circuito PWM, cada persona debe tener un LED de color distinto, luego se combinarán los colores. Luego con un papel se apunta con cada LED y cada circuito al papel, generando un efecto lumínico que combina los colores. Con este ejercicio somos capaces de ver el efecto de RGB.
 
-![video-vizualizando-rgb](./archivos/ejer.rgb.mov)
+![ejerrgb.mp4](./archivos/ejerrgb.mp4)
 
 ![visualizando-espectro-de-color-rgb](./archivos/creando.coloresrgb.png)
 
@@ -50,7 +50,7 @@ trapasar el circuito simulado en tinkercad a la protoboard
 
 ![circuito.simulado-aproto](./archivos/circuito.simulado-aproto.png)
 
-![circuito.simulado-aproto-2](./archivos/circuito.simulado-aproto-2.png)
+![circuito.simulado-aproto-2](.archivos/circuito.simulado-aproto-2.png)
 ## encargo_19: cultura electrónica y laurie anderson
 
 Laurie Anderson es una artista multidisciplinaria, reconocida por su trabajo en música experimental, performance, poesía, artes visuales y tecnología. 
