@@ -100,9 +100,39 @@ Considerar:
 
 - [Tindie](https://www.tindie.com/)
 
+### Artistas, otros recursos y dispositivos de referente
+
+- Gijs Gieskes (Motores, celdas solares, electromagnetismo) <https://gieskes.nl/>
+
+- Arthur Ganson (Motores, mecánica) <https://www.arthurganson.com/>
+
+- SpectraBloom <https://lorre-mill.com/spectrabloom>
+
+- Todo sobre Stepper Motors <https://learn.adafruit.com/all-about-stepper-motors/what-is-a-stepper-motor>
+
+- Mini stepper motor <https://www.adafruit.com/product/4411>
+
+- Cápsulas de guitarra eléctrica (aplicación del mismo principio que los parlantes y solenoides) <https://en.wikipedia.org/wiki/Single_coil_guitar_pickup>
+
+- Javier Bustos, Luthería Experimental <https://www.youtube.com/watch?v=70w5TIubMik>
+
+- PolyEnd PERC <https://polyend.com/legacy/polyend-perc/>
+
+- Platillos cuequeros <https://www.youtube.com/watch?v=FYSJdrDUpXs>
+
+- Solenoide para controlar flujos de líquidos <https://afel.cl/products/valvula-solenoide-12v-1-2-n-c>
+
+- Drum Thing (un piezo en una caja metálica) <https://www.electrofaustus.com/ef105-drum-thing>
+
+- Cápsulas de guitarra piezoeléctricas <https://deanmarkley.com/products/transducer-acoustic-guitar-pickups>
+
+- Instrumento de presión/piezoeléctrico <https://www.perfectcircuit.com/ciat-lonbarde-tetrax-organ.html>
+
+- Sonido de Big Muff PI <https://www.youtube.com/watch?v=lBMdBmz88yU>
+
 ## encargo-30
 
-- Describir 3 proyectos de máquinas electrónicas que quieran hacer de forma individual, ordenar por preferencia o interés. 
+- Describir 3 proyectos de máquinas electrónicas que quieran hacer de forma individual, ordenar por preferencia o interés de que sea desarrollado. 
 
 
 ## encargo-31
