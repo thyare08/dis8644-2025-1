@@ -1,6 +1,8 @@
 # sesion-11a
 ## Módulo de la mañana
 
+![foto1](/archivos/11a-clase-1.jpg)
+
 Hoy conocimos que era un transistor MOSFET.
 
 Este lo vamos a ocupar para amplificar señales electrónicas.
