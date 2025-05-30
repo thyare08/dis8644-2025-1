@@ -20,11 +20,11 @@
 - Ordenamos los componentes de acuerdo a lo que nos convenía, yo no alcancé a llegar hasta esa parte.
 - <https://cdm.link/> habla sobre la diversidad en la música electrónica y la necesidad de destruir metáforas gringas que describen la electrónica de forma violenta.
 
-![](./archivos/tme-sesion07b-esquema.png)
+![Imagen de esquema en KiCad](./archivos/tme-sesion07b-esquema.png)
 
-![](./archivos/tme-sesion07b-editorDePlaca.png)
+![Imagen de editor de placa en KiCad](./archivos/tme-sesion07b-editorDePlaca.png)
 
-![](./archivos/tme-sesion07b-visor3D.png)
+![Imagen de visor 3D en KiCad](./archivos/tme-sesion07b-visor3D.png)
 
 ## Encargos
 
@@ -34,31 +34,31 @@
 - Me fui guiando por el video, aunque tuve algunos problemas con las bibliotecas que había que instalar. Las eliminé y las descargué varias veces hasta que funcionó.
 - Creo que el problema pudo haber sido que me puse a ordenar mis carpetas, así que tal vez no lograba localizar los archivos correctamente.
 
-![](./archivos/tme-sesion07b-error.png)
+![Imagen de notificación de error en KiCad](./archivos/tme-sesion07b-error.png)
 
-![](./archivos/tme-sesion07b-nuevoEsquema.png)
+![Imagen de un nuevo esquema en KiCad](./archivos/tme-sesion07b-nuevoEsquema.png)
 
-![](./archivos/tme-sesion07b-biblioteca.png)
+![Imagen de la biblioteca de huellas de KiCad](./archivos/tme-sesion07b-biblioteca.png)
 
-![](./archivos/tme-sesion07b-editorPlaca.png)
+![Imagen del editor de placa de KiCad](./archivos/tme-sesion07b-editorPlaca.png)
 
-![](./archivos/tme-sesion07b-editorPlaca2.png)
+![Imagen del editor de placa de KiCad](./archivos/tme-sesion07b-editorPlaca2.png)
 
-![](./archivos/tme-sesion07b-editorPlaca3.png)
+![Imagen del editor de placa de KiCad](./archivos/tme-sesion07b-editorPlaca3.png)
 
-![](./archivos/tme-sesion07b-editorPlaca4.png)
+![Imagen del editor de placa de KiCad](./archivos/tme-sesion07b-editorPlaca4.png)
 
-![](./archivos/tme-sesion07b-render.png)
+![Imagen de render en KiCad](./archivos/tme-sesion07b-render.png)
 
 ### Encargo-16: Cotizar ud_pudu en JLCPCB de forma productiva
 
 - Primera cotización: 10 PCBs de 1.2 mm de espesor, color verde y acabado HASL (con cable). el costo es de $5.00 USD y el tiempo de entrega estimado es de dos días. el precio no varía si se elige un espesor de 1 mm, 1.2 mm o 1.6 mm.
 
-![](./archivos/tme-sesion07b-JLC.png)
+![Imagen de cotización en JLC](./archivos/tme-sesion07b-JLC.png)
 
-![](./archivos/tme-sesion07b-cotizacion01.png)
+![Imagen de cotización en JLC](./archivos/tme-sesion07b-cotizacion01.png)
 
-![](./archivos/tme-sesion07b-JLC01.png)
+![Imagen de la PCB en JLC](./archivos/tme-sesion07b-JLC01.png)
 
 ### Encargo-17: Cotizar udpudu en JLCPCB de forma experimental
 
@@ -67,10 +67,10 @@
 - Es probable que no se permita seleccionar otros acabados, como HASL, en estos espesores más finos porque el proceso térmico que implica el HASL podría deformar la placa debido a su fragilidad. Esto hace que ENIG sea la opción más adecuada por sus propiedades físicas.
 - Fuente <https://www.protoexpress.com/blog/surface-finish-pcb-manufacturing/>
 
-![](./archivos/tme-sesion07b-cotizacion02.png)
+![Imagen de cotización en JLC](./archivos/tme-sesion07b-cotizacion02.png)
 
-![](./archivos/tme-sesion07b-JLC02.png)
+![Imagen de cotización en JLC](./archivos/tme-sesion07b-JLC02.png)
 
-![](./archivos/tme-sesion07b-JLC0.png)
+![Imagen de la PCB en JLC](./archivos/tme-sesion07b-JLC0.png)
 
-![](./archivos/tme-sesion07b-bitacora.png)
+![Foto de mi bitácora](./archivos/tme-sesion07b-bitacora.png)
