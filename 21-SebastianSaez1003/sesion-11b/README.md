@@ -29,6 +29,8 @@ Primero deberíamos armar el 555 para poder probarlo.
 
 Un 555 astable para usar 4 salidas del 4017.
 
+<img src="./archivos/11a-clase-1.jpg" alt="drawing" width="300"/>
+
 ## Módulo después del break
 
 Lo que quieren los profes es que entendamos el cómo llegar a hacer modularidad, la conexión entre circuitos y de qué manera se puede llegar a lograr distintos resultados.
