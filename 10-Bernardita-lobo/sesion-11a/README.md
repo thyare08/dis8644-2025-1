@@ -24,7 +24,11 @@
 - Aplicaciones: APC, LED Dimmer, On/Off, Synth con R. Exp, Udpudu
 - Vamos a implementar un motor de corriente continua al circuito PWM
 
-![](./archivos/tme-sesion11a-componentes.jpeg)
+![Foto componentes nuevos](./archivos/tme-sesion11a-componentes.JPEG)
+
+![Foto circuito protoboard](./archivos/tme-sesion11a-circuito01.jpg)
+
+![Foto circuito protoboard](./archivos/tme-sesion11a-circuito02.jpeg)
 
 ### Proyecto 02
 
@@ -35,6 +39,8 @@
 - Oskitone, sintetizador DIY polifónico analógico de código abierto <https://musictech.com/news/oskitone-scout-is-an-open-source-synth-that-you-can-build-and-hack/>
 - Para hacer arte tienen que ser muchos circuitos, gigantes y rojos o blanco y negro (es broma).
 - Regleta eléctrica.
+
+![Foto moog](./archivos/tme-sesion11a-moog.jpg)
 
 insertar foto de bitacora*
 
