@@ -1,6 +1,6 @@
 # sesion-02a
 
-## Trabajo en clase
+## Trabajo en clase / Martes 18 de Marzo
 
 ### Circuitos eléctricos
 
