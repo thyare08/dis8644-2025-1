@@ -31,23 +31,23 @@ Día de hoy: uso de motor
 
 transistor mosfet: tiene 3 patas, envía una señal para dejar pasar la energía. Controla el flujo y se activa solo con un voltaje de entrada
 
-<img width="538" alt="Captura de pantalla 2025-05-20 a la(s) 11 59 55 a m" src="https://github.com/user-attachments/assets/c5429569-fe9b-417c-ba9a-9056cab15d57" />
+![transistor_mosfet](./archivos/transistor_mosfet.png)
 
 motor PWM: la velocidad o potencia del motor se ajusta al variar el ancho de los pulsos de voltaje que se le suministran, en lugar de variar la tensión de forma continua. 
 
-<img width="538" alt="Captura de pantalla 2025-05-20 a la(s) 12 01 59 p m" src="https://github.com/user-attachments/assets/e834d21e-12d2-4060-835e-7089c33935ae" />
+![motor_PWM](./archivos/motor_PWM.png)
 
 conectar al circuito a un transistor que se conecta a un motor.
 
-<img width="538" alt="Captura de pantalla 2025-05-20 a la(s) 12 02 47 p m" src="https://github.com/user-attachments/assets/940674a3-9faf-492f-8575-2e74fa4538e8" />
+![circuito-a-transistor](./archivos/circuito-a-transistor.png)
 
-<img width="538" alt="Captura de pantalla 2025-05-20 a la(s) 12 03 35 p m" src="https://github.com/user-attachments/assets/80985710-d376-47af-a9b4-d159a968ee41" />
+![circuito-a-motor](./archivos/circuito-a-motor.png)
 
 https://github.com/user-attachments/assets/e2bf2f33-2f52-4a92-a823-d0fa2a2c49e9
 
 luego se cambió el potenciometro por un LDR y una resistencia 
 
-<img width="544" alt="Captura de pantalla 2025-05-20 a la(s) 12 29 58 p m" src="https://github.com/user-attachments/assets/2e1cb681-bab8-4b1b-8cee-035ff27a9033" />
+![LDR-y-resistencia](./archivos/LDR-y-resistencia.png)
 
 ps: power supply 
 
@@ -121,33 +121,33 @@ IMPORTANTE: tomar la pata que se cortará para que no salte ni mate a nadie.
 
 **Asegurarse de tener todos los elementos necesarios**
 
-<img width="935" alt="Captura de pantalla 2025-05-19 a la(s) 10 00 50 p m" src="https://github.com/user-attachments/assets/2bab76e1-87d4-4673-8ad7-4d3d1ef42970" />
+![componentes](./archivos/componentes.png)
 
 *foto por @/ AlanisMria en discord*
 
 **Rehacer el circuito en la protoboard**
 
-<img width="558" alt="Captura de pantalla 2025-05-19 a la(s) 10 03 39 p m" src="https://github.com/user-attachments/assets/99c189c2-c9d1-4a94-89af-dbda8d4de0d2" />
+![circuito-a-proto](./archivos/circuito-a-proto.png)
 
 **Insertar los componentes en la PCB**
 
-<img width="558" alt="Captura de pantalla 2025-05-19 a la(s) 10 05 17 p m" src="https://github.com/user-attachments/assets/da666302-5cdf-4df9-9dcd-c2aa5c4ebbe1" />
+![componentes-a-pcb](./archivos/componentes-a-pcb.png)
 
-<img width="762" alt="Captura de pantalla 2025-05-19 a la(s) 10 07 39 p m" src="https://github.com/user-attachments/assets/17ab7bee-2691-45ce-b0b1-eb7fd74903ab" />
+![pcb-con-componentes](./archivos/pcb-con-componentes.png)
 
 **Soldar**
 
-<img width="523" alt="Captura de pantalla 2025-05-19 a la(s) 10 09 09 p m" src="https://github.com/user-attachments/assets/eb7a0278-1dda-449c-ba13-2c386c0f26bf" />
+![soldar](./archivos/soldar.png)
 
 **Cortar excesos**
 
-<img width="479" alt="Captura de pantalla 2025-05-19 a la(s) 10 11 03 p m" src="https://github.com/user-attachments/assets/0cc78e93-0cb4-4f80-80d4-e9df662f8e10" />
+![excesos](./archivos/excesos.png)
 
-<img width="557" alt="Captura de pantalla 2025-05-19 a la(s) 10 11 40 p m" src="https://github.com/user-attachments/assets/579e92b5-759d-4bd6-a769-03d9d3904f17" />
+![cortar](./archivos/cortar.png)
 
 **Energizar y probar**
 
-<img width="895" alt="Captura de pantalla 2025-05-19 a la(s) 10 12 39 p m" src="https://github.com/user-attachments/assets/0e560c28-e727-485e-a3ae-6ae44d97dd30" />
+![funcionamiento_udpdu](./archivos/funcionamiento_udpdu.png)
 
 *foto por @/ AlanisMria en discord*
 
