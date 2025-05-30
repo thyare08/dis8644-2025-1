@@ -38,11 +38,9 @@ hay 3 etapas las cuales hay que seguir para armar este circuito
 ### etapa 2: 555 --> temporizador
 ### etapa 3: 4017 --> secuenciador
 
-![detector-de-sombra_+_activador-de-frecuencia](.)
+![detector-de-sombra_+_activador-de-frecuencia](./archivos/detector-de-sombra_+_activador-de-frecuencia.png)
 
-![video_secuenciador+dector_de_sombras(en vimeo)](https://vimeo.com/1088968880/b9ffad8c6b?share=copy)
-
-![video_secuenciador+dector_de_sombras2(en vimeo)](https://vimeo.com/1088968861/44dce3e041?share=copy)
+[![Ver en YouTube video_secuenciador+dector_de_sombras](https://youtube.com/shorts/JRhgumqrhS4)](https://www.youtube.com/shorts/JRhgumqrhS4)
 
 
 
