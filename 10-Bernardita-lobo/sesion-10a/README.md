@@ -4,7 +4,7 @@
 
 ### Cosas que hablamos en la mañana
 
-- Nos habló Misa de su tesis de Magíster que va a presentar en la Facultad de Arte, Arquitectura y Diseño de la Universidad de Chile, donde modificó discos duros para que sonaran como parlantes.
+- Conversamos con Misa sobre su tesis de magíster que va a presentar en la Facultad de Arte, Arquitectura y Diseño de la Universidad de Chile, donde modificó discos duros para que sonaran como parlantes.
 - Conversamos sobre cosas buenas que nos hayan pasado en el fin de semana; también hablamos y escuchamos a Trueno.
 
 ### Circuito PWM
@@ -14,7 +14,7 @@
 - Armar un circuito PWM por persona y juntarse entre tres, utilizando colores diferentes: LED rojo, verde y azul, para luego probar cómo se mezclan los colores bajo un papel.
 - El color azul no logra apreciarse tan bien, ya que no alcanza su máxima luminosidad. Hay que bajarle la resistencia para que pase más corriente y por tanto, brille más.
 
-![tme-sesion10a-proto](https://github.com/user-attachments/assets/4656d376-2ce7-4d12-bcec-493906d7b1bb)
+![imagen de tres protoboard](./archivos/tme-sesion10a-proto.jpeg)
 
 ### Circuitos en Minecraft y Falstad
 
@@ -26,17 +26,26 @@
 - Con estos umbrales podemos crear proyectos que actúen en función de ellos y que dependan del contexto. También nos ayuda poder manipular esos umbrales. Por ejemplo, un circuito que se active cuando el espacio se encuentre en silencio, pero si está en un lugar lleno de gente donde el silencio no es el mismo, entonces el umbral se modifica.
 - El operacional le da impulso a los electrones; funciona como un buffer, un espejo de electrones.
 
-![tme-sesion10a-falstad01](https://github.com/user-attachments/assets/344f322d-4e13-43c4-b820-31ec1fc6c300)
+![imagen de falstad](./archivos/tme-sesion10a-falstad01.png)
 
-![tme-sesion10a-falstad02](https://github.com/user-attachments/assets/53a3e9ec-0d25-415b-a476-4065cefae7d3)
+![imagen de falstad](./archivos/tme-sesion10a-falstad02.png)
 
-![tme-sesion10a-falstad03](https://github.com/user-attachments/assets/fa746476-71a3-4898-afc3-a1120c16fc35)
+![imagen de falstad](./archivos/tme-sesion10a-falstad03.png)
 
-![tme-sesion10a-bitacora](https://github.com/user-attachments/assets/6ae67461-1d70-4faf-8dbd-e621840bb018)
+![imagen de mis apuntes en la bitácora](./archivos/tme-sesion10a-bitacora.jpeg)
 
-## Encargo
+## Encargos
 
-### 20-Pantallas de siete segmentos
+### ¿Por qué quedan de un color los píxeles en la tele?
+
+- Existen dos tipos de errores: un píxel atascado (stuck pixel) muestra un color constante, y un píxel muerto (dead pixel) muestra un punto oscuro.
+- Los píxeles muertos no afectan la funcionalidad general de la pantalla.
+- Puede ocurrir por presión física o golpes, por desgaste con el tiempo, por algún cambio de temperatura y humedad, por algún problema de circuitos o fallos de fabricación.
+- A primera vista, es difícil de reconocer, pero existen pruebas en las que los colores van cambiando y es posible ver con más claridad si hay algún punto diferente.
+- Video de referencia <https://youtu.be/1Cgt_kG08Ls?si=Jb3A7WWmReN7_6mm>
+- Fuente <https://www.whitescreen.org/es/reparar-prueba-de-pixeles-muertos/#google_vignette>
+
+### Encargo-20: Pantallas de siete segmentos
 
 - Subir fotos de su propia autoría de pantallas de siete segmentos y otras variantes que encuentren en su vida cotidiana.
 - 01 es la pantalla de una máquina remadora, e indica la fuerza que se ejerce.
@@ -46,11 +55,11 @@
 - 05 es una báscula digital y indica el peso.
 - 06 esta es la pantalla de una estufa a pellet e indica la hora y la temperatura.
 
-![tme-sesion10a-segmentos](https://github.com/user-attachments/assets/a071d572-bd71-45a5-a84d-cbc7499d94b7)
+![imagen de fotos de pantallas con siete segmentos](./archivos/tme-sesion10a-segmentos.jpeg)
 
-### 21-Simulación de circuitos con 555 y/o comparadores hechos con opamps en Falstad
+### Encargo-21 :Simulación de circuitos con 555 y/o comparadores hechos con opamps en Falstad
 
 - Simular circuitos que hemos visto en clase con chips 555, usando el simulador de Falstad.
 
-![tme-sesion10a-falstad](https://github.com/user-attachments/assets/c1c47e15-9ada-4b42-bdb7-ec931fabcab8)
+![imagen de falstad](./archivos/tme-sesion10a-falstad.png)
 
