@@ -29,7 +29,11 @@ Primero deberíamos armar el 555 para poder probarlo.
 
 Un 555 astable para usar 4 salidas del 4017.
 
-<img src="./archivos/11a-clase-1.jpg" alt="drawing" width="300"/>
+<img src="./archivos/11b-clase-1.jpg" alt="drawing"/>
+
+<img src="./archivos/11b-clase-2.jpg" alt="drawing"/>
+
+<img src="./archivos/11b-clase-3.jpg" alt="drawing" width="300"/> <img src="./archivos/11b-clase-4.jpg" alt="drawing" width="300"/> <img src="./archivos/11b-clase-5.jpg" alt="drawing" width="300"/> <img src="./archivos/11b-clase-6.jpg" alt="drawing" width="300"/> <img src="./archivos/11b-clase-7.jpg" alt="drawing" width="300"/>
 
 ## Módulo después del break
 
