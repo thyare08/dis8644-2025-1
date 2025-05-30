@@ -1,6 +1,6 @@
 # sesion-01b
 
-## Trabajo en clase
+## Trabajo en clase / Viernes 14 de Marzo
 
 ### Componentes eléctricos y introducción a github
 
@@ -10,6 +10,7 @@
 - bases para escribir en hithub
 
 ![foto8](https://github.com/user-attachments/assets/2d1c2f7c-42b1-40c7-afc8-37262a75311f)
+
 ![foto5](https://github.com/user-attachments/assets/4fc794e2-8415-4af5-a2db-6e27aa7027b9)
 
 ## Encargo
@@ -43,4 +44,5 @@
 - estudio del significado de los colores de los cables
 
 ![foto9](https://github.com/user-attachments/assets/c595bb00-11bd-47f5-ae1b-e349959cbce3)
+
 ![foto3](https://github.com/user-attachments/assets/e09a01f9-7b1c-4c68-b9f7-c6dd5f1464ed)

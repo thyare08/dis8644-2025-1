@@ -22,43 +22,37 @@ css: crear carpeta css para definir distintos estilos, ya sea tipografías, colo
 
 nos hicieron entrega de las placas diseñadas en Kicad (udpudu), luego nos reunimos en grupos para dar comienzo a las soldaduras de los componentes a la placa.
 
-![procesos en clases]
+![udpudu_pcb](./archivos/udpudu_pcb.png)
 
-<img width="539" alt="Captura de pantalla 2025-05-17 a la(s) 6 10 00 p m" src="https://github.com/user-attachments/assets/f472e3b8-a687-451f-9688-581193622220" />
+![probandoudpudu_enproto](./archivos/probandoudpudu_enproto.png)
 
-<img width="558" alt="Captura de pantalla 2025-05-17 a la(s) 6 13 34 p m" src="https://github.com/user-attachments/assets/8d15d7a6-09bf-4e9e-9254-5ee2fa443a4b" />
+![ensamblando_udpudu](./archivos/ensamblando_udpudu.png)
 
-<img width="558" alt="Captura de pantalla 2025-05-17 a la(s) 6 13 53 p m" src="https://github.com/user-attachments/assets/9320d8b5-c2a1-48b4-b922-88b29c245436" />
+![ensamblando_udpudu2](./archivos/ensamblando_udpudu2.png)
 
-<img width="558" alt="Captura de pantalla 2025-05-17 a la(s) 6 14 07 p m" src="https://github.com/user-attachments/assets/905f9faf-2014-408f-813c-a330b5e640de" />
+![soldando_udpudu](./archivos/soldando_udpudu.png)
 
-<img width="558" alt="Captura de pantalla 2025-05-17 a la(s) 6 14 27 p m" src="https://github.com/user-attachments/assets/c4bfd09f-f983-44d5-80cd-edbb983a0920" />
+![error_de_soldadura](./archivos/error_de_soldadura.png)
 
-<img width="558" alt="Captura de pantalla 2025-05-17 a la(s) 6 14 53 p m" src="https://github.com/user-attachments/assets/300625ae-b66f-4fbe-a651-925dcf45f491" />
+![patitas_udpudu](./archivos/patitas_udpudu.png)
 
-![error en una de las soldaduras]
+![udpudu](./archivos/udpudu.png)
 
-<img width="558" alt="Captura de pantalla 2025-05-17 a la(s) 6 15 07 p m" src="https://github.com/user-attachments/assets/da0fd08b-f71b-4017-8ef2-a160675808e6" />
-
-<img width="526" alt="Captura de pantalla 2025-05-17 a la(s) 6 17 30 p m" src="https://github.com/user-attachments/assets/fa97bd2c-f97b-439e-90bc-3383b1498c7f" />
-
-<img width="526" alt="Captura de pantalla 2025-05-17 a la(s) 6 17 56 p m" src="https://github.com/user-attachments/assets/1832b9fa-ce16-4dbf-9256-37afc00406a2" />
-
-<img width="526" alt="Captura de pantalla 2025-05-17 a la(s) 6 18 19 p m" src="https://github.com/user-attachments/assets/906a9914-7d85-4350-a25d-bab7dc2baaf0" />
+![udpudu_y_componentes](./archivos/udpudu_y_componentes.png)
 
 ## encargo-20: pantallas de 7 segmentos
 
-foto tomada el día martes en el laboratorio digital FAAD de la udp en ss.
+**foto tomada el día martes en el laboratorio digital FAAD de la udp en ss.**
 
-![pantalla 7 segmentos_1](https://github.com/user-attachments/assets/4a42487f-a248-433e-aae1-c1d4446d09a6)
+![pantalla_7_segmentos-1](./archivos/foto_martes_laboratorio_digital_udp.jpeg)
 
-foto tomada el día martes en la entrada de ss donde los funcionarios marcan y registran su llegada.
+**foto tomada el día martes en la entrada de ss donde los funcionarios marcan y registran su llegada.**
 
-![pantalla 7 segmentos_2](https://github.com/user-attachments/assets/7dfca84d-ba40-460a-9f56-75d178fbc40a)
+![pantalla_7_segmentos-2](./archivos/foto-martes-donde-funcionarios-registran-su-legada.png)
 
-foto sacada el día jueves a la pantalla de la lavadora de mi casa, idica el tiempo de lavado y el on/off
+**foto sacada el día jueves a la pantalla de la lavadora de mi casa, indica el tiempo de lavado y el on/off**
 
-]<img width="539" alt="Captura de pantalla 2025-05-15 a la(s) 3 26 41 p m" src="https://github.com/user-attachments/assets/18c13f28-cc1c-4988-969d-4be15099d5f5" />
+![pantalla_7_segmentos-3](./archivos/foto-día-jueves-a-pantalla-de-lavadora-de-mi-casa_indica-tiempo-de-lavado-y-on:off.png)
 
 ## encargo-21: simulación de circuitos con 555 y/o comparadores hechos con opamps en Falstad
 

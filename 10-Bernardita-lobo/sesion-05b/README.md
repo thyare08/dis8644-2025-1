@@ -1,6 +1,6 @@
 # sesion-05b
 
-## Trabajo en clase
+## Trabajo en clase / Viernes 11 de Abril
 
 ### Propuestas de modificaciones para el Atari punk console
 

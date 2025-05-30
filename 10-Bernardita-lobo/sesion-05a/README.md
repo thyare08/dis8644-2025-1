@@ -1,6 +1,6 @@
 # sesion-05a
 
-## Trabajo en clase
+## Trabajo en clase / Martes 08 de Abril
 
 ### Feedback aprendido del desarme electrónico
 
