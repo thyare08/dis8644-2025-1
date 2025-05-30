@@ -4,7 +4,7 @@
 - **Rest Clock Reset Inhibitor**, circuito clave para realizar este semáforo.
 
 <div align="left">
-  <img height="100%" src="https://media.discordapp.net/attachments/1248658110625742862/1376914429245128925/20250527_091207.jpg?ex=68370efd&is=6835bd7d&hm=371475c202abeb7995f79a522470b18e3180a87fdb5d8d5c6ffe22c0a818ef5c&=&format=webp&width=1680&height=1260"  />
+  <img height="100%" src="https://media.discordapp.net/attachments/1248658110625742862/1376914429245128925/20250527_091207.jpg?ex=683a5abd&is=6839093d&hm=fa78649bd3774dcabe2706fcad81fc460f90f477276a1d2362fc8fce3748e58b&=&format=webp&width=1680&height=1260"  />
 </div>
 
 ###
