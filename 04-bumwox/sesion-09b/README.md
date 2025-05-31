@@ -40,6 +40,7 @@ RGB funciona de manera contextual, por eso sí es posible que mi pantalla me mue
 
 ## 19. laurie anderson + cultura electronica
 
--laura phillips " laurie " anderson es una artista vanguardista estadounidense, música y cineasta cuyo trabajo abarca el arte escénico, la música pop y proyectos multimedia, inicialmente formada en violín y escultura, anderson realizó diversos proyectos de arte escénico en la ciudad de nueva york durante la década de 1970, centrándose especialmente en el lenguaje, la tecnología y las imágenes visuales, alcanzó un éxito comercial inesperado cuando su canción " O Superman " alcanzó el número dos en la lista de sencillos del reino unido en 1981
+- laura phillips " laurie " anderson es una artista vanguardista estadounidense, música y cineasta cuyo trabajo abarca el arte escénico, la música pop y proyectos multimedia, inicialmente formada en violín y escultura, anderson realizó diversos proyectos de arte escénico en la ciudad de nueva york durante la década de 1970, centrándose especialmente en el lenguaje, la tecnología y las imágenes visuales, alcanzó un éxito comercial inesperado cuando su canción " O Superman " alcanzó el número dos en la lista de sencillos del reino unido en 1981
+- es una reflexión crítica sobre la tecnología, la guerra y la búsqueda de autoridad, inspirada en el fracaso de la operación garra de aguila para rescatar a los rehenes en irán. la letra, que incluye frases como "oh, superman" y "porque cuando el amor se acaba, siempre hay justicia", se interpreta como una plegaria a una autoridad que no puede brindar consuelo y una crítica a la dependencia de la tecnología militar para resolver problemas
 
 
