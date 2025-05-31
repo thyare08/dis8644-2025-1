@@ -77,7 +77,7 @@ Fotos del membrete en cuestión.
 
 ![Foto membrete en impresión 3D](./archivos/membrete_emi.png)
 
-Muchas gracias, está muy lindo c:
+Muchas graciasss, está muy lindo c:
 
 ## Encargo 26:
 
