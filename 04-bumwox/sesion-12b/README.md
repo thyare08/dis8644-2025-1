@@ -2,7 +2,7 @@
 
 __modulo de la mañana__
 - se menciono a christian oyarzun y empezamos a hablar de su trabajo
-- hablamos cobre la web 1.0, 2.0, 3.0...etc que se refiere a los estados de la web en diiferentes epocas
+- hablamos sobre la web 1.0, 2.0, 3.0...etc que se refiere a los estados de la web en diiferentes epocas
 - rss feed: eran distintos algoritmos que uno podia elegirlos, ya que antes el algoritmo no existia para cada individua, sino que todo veian lo mismo, al mismo tiempo
 - net art: obras de arte creadas específicamente para internet y que utilizan la red como un medio principal
 - [summer de olia lialina](reas.com/olia/summer): usa un pagina web de en estado 1.0, en la cual el HTML de la pagina es el mas basico de todos, donde hay distintas imagenes alvergadas en distintas pagina que cargaran cada cierto tiempo, para que vaya mas rapido cuando se cargan las imagenes por primera vez, el computador automaticamente cargara las imagenes mas rapido ya que las tiene almacenadas en el cache del computador
