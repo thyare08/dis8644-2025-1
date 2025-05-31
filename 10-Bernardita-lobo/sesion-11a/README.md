@@ -39,6 +39,7 @@
 - Oskitone, sintetizador DIY polifónico analógico de código abierto <https://musictech.com/news/oskitone-scout-is-an-open-source-synth-that-you-can-build-and-hack/>
 - Para hacer arte tienen que ser muchos circuitos, gigantes y rojos o blanco y negro (es broma).
 - Regleta eléctrica.
+- Aaron también me mostró un Moog. Era realmente interesante cómo estaba diseñado, tenía unas láminas que indicaban diferentes tipos de funciones.
 
 ![Foto moog](./archivos/tme-sesion11a-moog.jpg)
 
