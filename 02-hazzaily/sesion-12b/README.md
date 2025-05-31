@@ -79,11 +79,11 @@ Fotos del membrete en cuestión.
 
 Muchas gracias, está muy lindo c:
 
-## Encargo 30:
+## Encargo 26:
 
 Describir 3 proyectos de máquinas electrónicas que quieran hacer de formal individual. Ordenar por preferencia o interés. 
 
-## Encargo 31:
+## Encargo 27:
 
 Dibujar diagrama de comportamiento, flujos de interacción. No especificar chips. Considerar procesos de manera especulativa.
 
