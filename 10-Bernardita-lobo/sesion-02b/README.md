@@ -1,6 +1,6 @@
 # sesion-02b
 
-## Trabajo en clase
+## Trabajo en clase / Viernes 21 de Marzo
 
 ### Circuitos y referencias varias
 
@@ -10,6 +10,7 @@
 - loquito x ti loco loco
 
 ![foto16](https://github.com/user-attachments/assets/0029acf8-a43b-4f12-b3aa-83077a3f23d6)
+
 ![foto15](https://github.com/user-attachments/assets/3d7ed002-de6d-4a95-b90d-d5e75a1ea4a5)
 
 ## Encargo
