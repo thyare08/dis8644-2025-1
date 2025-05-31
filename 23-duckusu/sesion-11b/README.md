@@ -10,8 +10,8 @@
 
 - Primer circuito
 
-![pwm2](https://github.com/duckusu/dis8644-2025-1/blob/main/23-duckusu/sesion-11b/archivos/pwm2.png)
 
+![pwm2]()
 
 - Segundo circuito (se conectan ambos a partir del puerto 3 del chip 555)
 
