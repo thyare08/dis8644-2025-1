@@ -113,3 +113,4 @@ Video circuito PWM en protoboard con modificación 2.
 
 https://github.com/user-attachments/assets/9402f6c0-0b04-441d-b2a2-bc80ba3d8889
 
+Fotos y vídeos de mi autoría.
