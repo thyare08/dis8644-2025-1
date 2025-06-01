@@ -38,4 +38,6 @@ Video para miniatura electromagnética - Javier Bustos: https://www.youtube.com/
 ![javierb](https://github.com/duckusu/dis8644-2025-1/blob/main/23-duckusu/sesion-12b/archivos/javierb.png)
 
 ## Encargo 3/06
-### Describir 3 proyectos que se quieran desarrollar de forma individual (con dibujos y referencias)
+
+- traer 3 ideas, ordenadas de mejor a peor, explicadas de forma textual. concentrarse en el lenguaje, los rangos de operación, el uso, no partir desde un chip en particular.
+- traer diagramas y dibujos por cada una de las 3 ideas
