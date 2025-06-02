@@ -1,12 +1,17 @@
 # sesion-10b
 ### taller viernes 16 de mayo
+- Dead Internet Theory. Se cree que gran parte de internet está controlada por bots y no por personas. Creo que la teoría tiene algo de verdad porque sí hay muchos bots en internet, gran parte ya se ve en redes sociales, pero me parece exagerado decir que la mayoría del contenido no es real. Aún hay mucha gente creando y compartiendo cosas en línea. En redes sociales, No sé si de momento esto llegará muy lejos. Es fácil detectar cuando alguien es falso, porque generalmente intentan que hagas clic en un enlace o que visites tu perfil.
+  
+- Circuit bending es modificar circuitos electrónicos de diversas cosas para crear sonidos nuevos y experimentales haciendo conexiones improvisadas dentro del dispositivo. Como ejemplo, se puede hacer en juguetitos.
+  
+- Hardware hacking
+  
+  
+- Aaron nos hizo entrega de las placas UDPUDU.
 
-### Primer modulo
-- 
-- Aaron nos hizo entrega de las placas UDPUDU. Se nos pidio juntarnos en grupo 
-*** ordenando otra vez
+### UDPUDU - escribir manual con pasos a seguir, receta, de los pasos que siguieron para ensamblar la PCB.
 
-UDPUDU
+
 
 | Componente                      | Cantidad |
 |--------------------------------|----------|
