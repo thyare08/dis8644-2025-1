@@ -54,9 +54,10 @@ Para pasar el BOM (Bill Of Materials) de Kicad a Excel hay que seguir los siguie
 -----------------------------------------------------------------------------------------------------------
 ## Encargo 22 y 23 <!-- 22: escribir manual con pasos a seguir, receta, de los pasos que siguieron para ensamblar la PCB. incluir aciertos y errores, aprendizajes y consejos. 23: complementar encargo 22 con fotos explicativas de los materiales usados, de los pasos, etc.-->
 ### Manual de ensamble udpudu
-Paso 1.- Separar los componentes a utilizar según el BOM de udpudu y testearlos individualmente con el multímetro para verificar que funcionen según esperado y polaridad. </br>
-<img align="right" src="https://github.com/disenoUDP/dis8644-2025-1/blob/main/13-jotamorales-romulus/sesion-10b/archivos/componentes.jpg" alt="Componentes. (Source:@jotamorales-romulus)" width=200> 
-|Referencia  |Valor   |Huella                   |Qty|OBS               |  
+### Paso 1: </br>
+Separar los componentes a utilizar según el BOM de udpudu y testearlos individualmente con el multímetro para verificar que funcionen según esperado y polaridad. </br>
+<img align="right" src="https://github.com/disenoUDP/dis8644-2025-1/blob/main/13-jotamorales-romulus/sesion-10b/archivos/componentes.jpg" alt="Componentes. (Source:@jotamorales-romulus)" width=365> 
+|Referencia  |Valor   |Huella                   |Qty|OBS               | 
 |------------|--------|-------------------------|---|------------------|
 |U1          |~       |Socket 8 pines           |1  |                  |
 |R2,R3,R4    |1k      |Resistencias             |3  |                  |
@@ -73,12 +74,25 @@ Paso 1.- Separar los componentes a utilizar según el BOM de udpudu y testearlos
 |Parlante    |8ohm    |                         |1  |                  |
 |J1,J3       |CAIMAN  |Cables caimán            |2  |                  |
 
-Paso 2.- Colocar el socket del 555, doblando los pines de los extremos opuestos (1 & 5 y/o 4 & 8), para que se sujete a la PCB (Printed Circuit Board). Después hicimos lo mismo con las recistencias (R2, R3 y R4) y el diodo (D1)
+### Paso 2: <!-- socket --> </br>
+Colocar el socket del 555 (U1), doblando los pines de los extremos opuestos (1 & 5 y/o 4 & 8), para que se sujete a la PCB (Printed Circuit Board). Después hicimos lo mismo con las recistencias (R2, R3 y R4) y el diodo (D1)
 
-Paso 3.- Soldar los componentes anteriores. Para tener mayor estabilidad utilizaamos 2 trozos de madera para apoyar la PCB, manteniendola nivelada. Y para mayor control sobre la cantidad de estaño siendo depositado, me puse un guante para aislar mi mano del calor y poder tomarlo desde más cerca.
+<img align="left" src="https://github.com/disenoUDP/dis8644-2025-1/blob/main/13-jotamorales-romulus/sesion-10b/archivos/1.jpg" alt="DIP/Socket. (Source:@jotamorales-romulus)" width=440> <img align="left" src="https://github.com/disenoUDP/dis8644-2025-1/blob/main/13-jotamorales-romulus/sesion-10b/archivos/resistencia.png" alt="Colocando resistencia. (Source:@jotamorales-romulus)" width=500> <img align="left" src="https://github.com/disenoUDP/dis8644-2025-1/raw/main/13-jotamorales-romulus/sesion-10b/archivos/2.png" alt="Resistencias y diodo colocados en la PCB. (Source:@jotamorales-romulus)" width=440></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 
-Paso 4.- Cortar el material sobrante de las patas de cada componente, teniendo cuidado de sujetarlos al momento de corlarlos con el *flush cutter*, ya que pueden salir volando y causar considerable daño en caso de enterrarse en un ojo.
+### Paso 3: <!-- soldando --> </br> 
+Soldar los componentes anteriores. Para tener mayor estabilidad utilizaamos 2 trozos de madera para apoyar la PCB, manteniendola nivelada. Y para mayor control sobre la cantidad de estaño siendo depositado, me puse un guante para aislar mi mano del calor y poder tomarlo desde más cerca.
 
-Paso 5.- Repetir los pasos anteriores con el resto de componentes del BOM. </br> Para este punto ya habíamos formado una linea de ensamblaje, donde yo iba soldando las placas (con la asistencia de @brauliofigueroa2001 iluminando el área de trabajo), mientras @duckusu cortaba las patas de los compentes ya soldados y @jotamorales-romulus colocaba los componentes por soldar  
+<img align="left" src="https://github.com/disenoUDP/dis8644-2025-1/raw/main/13-jotamorales-romulus/sesion-10b/archivos/4.png" alt="@FranUDP soldando con @brauliofigueroa2001 iluminando. (Source:@jotamorales-romulus)" width=440> <img align="left" src="https://github.com/disenoUDP/dis8644-2025-1/raw/main/13-jotamorales-romulus/sesion-10b/archivos/5.png" alt="Close up soldando. (Source:@jotamorales-romulus)" width=470></br></br></br></br></br></br></br></br></br></br></br></br></br>
 
-Paso 6.- La semana siguiente (sesión 11b) terminamos de soldar los componentes faltantes (spdt, LEDs y terminal blocks) empleando mis *helping hands* en lugar de los trozos de madera y usando *masking tape* para sujetar los terminal blocks, ya que sus pines/patas eran muy gruesas y cortas como para doblarlas.
+### Paso 4: <!-- flush cutter --> </br> 
+Cortar el material sobrante de las patas de cada componente, teniendo cuidado de sujetarlos al momento de corlarlos con el *flush cutter*, ya que pueden salir volando y causar considerable daño en caso de enterrarse en un ojo.
+
+<img align="left" src="https://github.com/disenoUDP/dis8644-2025-1/raw/main/13-jotamorales-romulus/sesion-10b/archivos/6.png" alt=". (Source:@jotamorales-romulus)" width=440></br></br></br></br></br></br></br></br></br></br></br></br></br>
+
+### Paso 5: <!-- assembly line --> </br> 
+Repetir los pasos anteriores con el resto de componentes del BOM. </br> Para este punto ya habíamos formado una linea de ensamblaje, donde yo iba soldando las placas (con la asistencia de @brauliofigueroa2001 iluminando el área de trabajo), mientras @duckusu cortaba las patas de los compentes ya soldados y @jotamorales-romulus colocaba los componentes por soldar  
+
+<img align="left" src="https://github.com/disenoUDP/dis8644-2025-1/raw/main/13-jotamorales-romulus/sesion-10b/archivos/9.png" alt="Udpudu casi terminada. (Source:@jotamorales-romulus)" width=440></br></br></br></br></br></br></br></br></br></br></br></br></br>
+
+### Paso 6: </br> 
+La semana siguiente (sesión 11b) terminamos de soldar los componentes faltantes (spdt y terminal blocks) empleando mis *helping hands* en lugar de los trozos de madera y usando *masking tape* para sujetar los terminal blocks, ya que sus pines/patas eran muy gruesas y cortas como para doblarlas.
