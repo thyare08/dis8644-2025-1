@@ -96,3 +96,5 @@ Repetir los pasos anteriores con el resto de componentes del BOM. </br> Para est
 
 ### Paso 6: </br> 
 La semana siguiente (sesión 11b) terminamos de soldar los componentes faltantes (spdt y terminal blocks) empleando mis *helping hands* en lugar de los trozos de madera y usando *masking tape* para sujetar los terminal blocks, ya que sus pines/patas eran muy gruesas y cortas como para doblarlas.
+
+<img align="left" src="./archivos/finished.jpg" alt="Udpudu terminada. (Source:FranUDP)" width=440>
