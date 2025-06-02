@@ -36,7 +36,19 @@ Para pasar el BOM (Bill Of Materials) de Kicad a Excel hay que seguir los siguie
 
 
 ### Other things: <!-- Things to organize + random stuff -->
-> #### CVS & CSS
+> ### CSV
+> Formato utilizado para almacenar tablas de datos.
+> Ej: El siguiento texto (CSV) al convertirlo en una tabla quedaría así:
+>````
+> Taller, Máquinas, Electrónicas
+> Electrónes, Electrónes, Electrónes
+>````
+> |Taller |Máquinas |Electrónicas |
+> |--|--|--|
+> |Electrónes |Electrónes |Electrónes |
+>
+> ### CSS
+> 
 -----------------------------------------------------------------------------------------------------------
 ## Encargo 22 <!-- escribir manual con pasos a seguir, receta, de los pasos que siguieron para ensamblar la PCB. incluir aciertos y errores, aprendizajes y consejos. -->
 ### Manual de ensamble udpudu
