@@ -130,11 +130,10 @@ Considerar:
 
 - Sonido de Big Muff PI <https://www.youtube.com/watch?v=lBMdBmz88yU>
 
-## encargo-30
+## encargo-24
 
-- Describir 3 proyectos de máquinas electrónicas que quieran hacer de forma individual, ordenar por preferencia o interés de que sea desarrollado. 
+- Describir de forma textual 3 proyectos de máquinas electrónicas que quieran hacer de forma individual, ordenar por preferencia o interés de que sea desarrollado. 
 
-
-## encargo-31
+## encargo-25
 
 - Dibujar diagrama de comportamiento, flujos de interacción. No específicar chips. Considerar procesos de manera especulativa. ¿Cuánto tiempo se usará? ¿Qué encendidos y apagados tiene? ¿Cómo se interactúa?
