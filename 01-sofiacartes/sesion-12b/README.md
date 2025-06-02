@@ -58,4 +58,10 @@ _la intencidad depende de su tamaño (en pulgadas), de su potencia (en watt) y d
 |---|
 |movimiento en electricidad|
 
-## Encargo
+## Encargo 24
+
+Describir de forma textual 3 proyectos de máquinas electrónicas que quieran hacer de forma individual, ordenar por preferencia o interés de que sea desarrollado.
+
+## Encargo 25
+
+Dibujar diagrama de comportamiento, flujos de interacción. No específicar chips. Considerar procesos de manera especulativa. ¿Cuánto tiempo se usará? ¿Qué encendidos y apagados tiene? ¿Cómo se interactúa?
