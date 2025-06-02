@@ -72,3 +72,7 @@ por ejemplo: pasar una vez la mano por sobre la lampara se encienda, su segunda 
 ## Encargo 25
 
 Dibujar diagrama de comportamiento, flujos de interacción. No específicar chips. Considerar procesos de manera especulativa. ¿Cuánto tiempo se usará? ¿Qué encendidos y apagados tiene? ¿Cómo se interactúa?
+
+![Texto del párrafo](https://github.com/user-attachments/assets/88a4f86e-cd87-4741-a046-bd8247b14de7)
+
+se usará a medida que haya escasez de luz en algún ambiente cerrado, tendrá un on y un off, se interactuará mediante sensor de movimiento arriba de esta.
