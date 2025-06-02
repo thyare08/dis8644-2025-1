@@ -36,8 +36,8 @@
   
 ![Socket de 8 pines](./archivos/1.jpg)
 
--
-
-![Socket de 8 pines](./archivos/2.jpg)
+- Las resistencias van puestas en r2,r3,r4 y un diodo en d1. Para facilitar el soldado se doblaron las patitas.
+  
+![Socket de 8 pines](./archivos/resistencia.png)
 
 - SOLADO
