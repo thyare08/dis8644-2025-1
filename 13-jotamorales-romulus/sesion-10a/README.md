@@ -10,7 +10,7 @@
 
 - Durante la clase realizamos el circuito PWM en grupos de tres personas. Al inicio trabajé solo con Francisco Stephens, ya que Braulio aún no había llegado. Francisco amplió el circuito integrando dos LED de diferentes colores. Más adelante se unieron al grupo Santiago Gaete y Martín Silva. Debíamos usar LED de tres colores: rojo, verde y azul, colocando cada uno en un circuito separado para luego unirlos.
 
-![VIDEOCLASES](./archivos/TRABAJOGRUPAL.mp4)
+[![Video del circuito en acción](https://img.youtube.com/vi/8P1cwcV48vQ/0.jpg)](https://www.youtube.com/shorts/8P1cwcV48vQ)
 
 - Juntos realizamos el ejercicio de juntar los circuitos bajo una hoja de papel, lo que nos permitió observar distintos colores al variar la intensidad de la luz. Esta actividad fue un acercamiento a cómo funcionan las luces RGB.
 
