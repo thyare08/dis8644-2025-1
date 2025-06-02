@@ -33,4 +33,11 @@
 | Cables caimán                  | 2        |
 
 - Primero colocamos los sockets de 8 pines, ya que son la base principal de la placa; ahí se inserta el chip NE555.
-![registro1](./archivos/registro1.jpg)
+  
+![Socket de 8 pines](./archivos/1.jpg)
+
+-
+
+![Socket de 8 pines](./archivos/2.jpg)
+
+- SOLADO
