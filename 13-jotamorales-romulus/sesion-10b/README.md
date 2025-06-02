@@ -56,7 +56,7 @@
   
 ![recorte](./archivos/6.png)
 
-- Finalizando la clase, los componentes que se alcanzaron a soldar fueron los LEDs, el diodo, el condensadores ceramico y las resistencias.
+- Finalizando la clase, los componentes que se alcanzaron a soldar fueron los LEDs, el diodo, el condensadores ceramico e electrolíticos y las resistencias. Los leds van en d3 Y D2, los condensadores electrolíticos van en en c4 (1u) y c5 (47u) y el cerámico va en c5. 
 
 ![placa](./archivos/7.png)
 
