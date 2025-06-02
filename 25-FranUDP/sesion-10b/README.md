@@ -47,6 +47,7 @@ Para pasar el BOM (Bill Of Materials) de Kicad a Excel hay que seguir los siguie
 > |--|--|--|
 > |Electrónes |Electrónes |Electrónes |
 >
+>
 > ### CSS
 > 
 -----------------------------------------------------------------------------------------------------------
