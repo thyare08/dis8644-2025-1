@@ -42,7 +42,7 @@ Carlos Alberto Scolari
 
 ![PHOTO-2025-04-05-17-27-35](https://github.com/user-attachments/assets/2c21161e-c1e3-419f-985c-a15545f88b0e)
 
-**Parte 3:** Encargo 11
+**Parte 3:** Encargo 10
 
 - Escuchar Switched on bach de Wendy Carlos.
 
@@ -65,9 +65,9 @@ Disco Switched-On Bach
 
 ![Switched-On Bach](https://github.com/user-attachments/assets/3bf2f602-2ba8-47bf-8801-c692647de0cf)
 
-Opinión del disco: La verdad me sorprendio de manera positiva este disco, debido a que las melodías clasicas me gustan y esa mezcla con sintetizadores Moog para la creación de sonidos electrónicos, de mi punto de vista se volvio uno de mis discos favoritos. Apesar de ser como una mezcla innovadora, conserva la esencia de la melodía de Bach, es decir, de la música clásica y eso fue lo que mas me llamo la atención.
+Opinión del disco: La verdad me sorprendió de manera positiva este disco, debido a que las melodías clásicas me gustan y esa mezcla con sintetizadores Moog para la creación de sonidos electrónicos, de mi punto de vista se volvió uno de mis discos favoritos. A pesar de ser una mezcla innovadora, conserva la esencia de la melodía de Bach, es decir, de la música clásica y eso fue lo que mas me llamó la atención.
 
-**Parte 3:**
+## encargo-11
 
 ![1](https://github.com/user-attachments/assets/7f6cb159-e8e6-45c8-87f0-528d5f5238e4)
 

@@ -85,6 +85,15 @@ Esto se puede ver realizando experimentos con la protoboard, una batería, resis
 
 ***
 
+### Encargo 04: Pueblo nuevo
+
+Dada mi inasistencia a esta clase, pensé que había que escuchar un albúm del grupo de música folklorica "Pueblo Nuevo". La clase siguiente me enteré de que se trataba de una [página web](https://pueblonuevo.cl/) de un grupo discográfico y netlabel (distribuidor digital) ubicado en Chile. La mayoría de contenido se centra en música electrónica, independiente de su origen, género, variable, étnia, etc. Desde el 2005 que existen.
+Ya con estos antecedentes me dispuse a navegar por el sitio en busqueda de alguna carátula que me llamara la atención. Tras un tiempo me pillé con el álbum "EROS Y TÁNATOS" del 2024. 
+
+
+<br>
+***
+
 ### Posdata
 
 En proceso... ૮◞ ﻌ ◟ა

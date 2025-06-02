@@ -1,6 +1,6 @@
 # sesion-03b
 
-## Trabajo en clase
+## Trabajo en clase / Viernes 28 de Marzo
 
 ### Circuito electrónico aplicado
 

@@ -6,7 +6,7 @@ Clase 13: Viernes 25 de Abril del 2025.
 
 Foto de mi bitácora
 
-## KiCad realiado en clases
+## KiCad realizado en clases
 
 IMAGEN 1: Componentes a utilizar.
 
@@ -35,6 +35,5 @@ IMAGEN 6: Visualización de placa PCB (parte delantera)
 IMAGEN 7: Visualización de placa PCB (parte atresa)
 
 ![Captura de pantalla 2025-04-25 123936](https://github.com/user-attachments/assets/f45b8f6e-d98b-49d0-8bb6-0811cb273aa1)
-
 
 ## Encargo 16

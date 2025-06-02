@@ -32,6 +32,7 @@ HUELLAS
 completar apuntes!!!!
 
 ## Encargo-16: cotizar udpudu en JLCPCB de forma productiva
+
 hacerse una cuenta en JLCPCB y cotizar udpudu, para 30 personas, documentar cada parámetro y elección.
 
 JLCPCB es una empresa china que fabrica placas de circuito impreso (PCBs). Es una opción económica y rápida. También ofrecen el servicio de montaje de componentes si se les envía el diseño correspondiente. Me sorprende que vayamos a mandar a fabricar las PCBs, ya que en otros cursos muchos profesores nos decían que encargar cualquier cosa a China era complicado y costoso. Sin embargo, ahora veo una perspectiva completamente diferente. En tan solo unas semanas, podremos tener en nuestras manos una PCB fabricada afuera.

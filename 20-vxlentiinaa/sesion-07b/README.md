@@ -8,7 +8,7 @@
 * _Para cargar biblioteca de símbolos local_: Preferencias > Gestionar biblioteca de símbolos > Apretar símbolo "carpeta" para agregar los archivos descargados.
 * _Exportar en Kicad_: Vrml
 * _Cad Assistants_: App para visualizar el modelo 3D <https://www.opencascade.com/products/cad-assistant/>
-* _Dip_: Double in-line package 
+* _Dip_: Double in-line package
 * _Footprint_: Huella
 * _Terminal Block_: Una conexión para la PCB, para externalizar algo
 * _Socket_: El agujero en la PCB, por ejemplo: para poner caimanes
@@ -17,6 +17,7 @@
 * _Como saber si mi circuito funciona_: colocar un led
 
 ### Comandos
+
  |Comando| Función |
  |----|------------|
  |A|Abrir Place Symbols|
@@ -31,7 +32,7 @@
  |F|Footprint|
  |W|Cables|
  |Q|No connect|
- 
+
 ## Encargo 16
 
 **Mismos Parámetros que da la página, solo cambié el color de la PCB**
@@ -53,4 +54,3 @@
 
 **Cambié parámetros que no entendía la verdad**
 <img width="1440" alt="Captura de pantalla 2025-04-28 a la(s) 8 38 16 p m" src="https://github.com/user-attachments/assets/0e44f442-b442-4dcc-b5d8-f973652a7118" />
-
