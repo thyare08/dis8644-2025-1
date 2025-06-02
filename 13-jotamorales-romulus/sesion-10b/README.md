@@ -1,5 +1,7 @@
 # sesion-10b
 ### taller viernes 16 de mayo
+- Llegué un poco atrasado, no tan tarde, pero cuando pasa esto cuesta entrar en la conversación.
+  
 - Dead Internet Theory. Se dice que gran parte de internet está controlada por bots y no por personas reales. Creo que esta parte de la teoría tiene algo de verdad, pero me parece exagerado decir que la mayoría del contenido está siendo manipulado, porque todavía hay mucha gente auténtica creando y compartiendo cosas en línea. Además, por ahora no creo que esto empeore demasiado, ya que es relativamente fácil detectar a estos bots falsos, porque casi siempre intentan que hagas clic en enlaces sospechosos o visites perfiles dudosos.
   
 - Circuit bending es modificar circuitos electrónicos de diversas cosas para crear sonidos nuevos y experimentales haciendo conexiones improvisadas dentro del dispositivo. Como ejemplo, se puede hacer en juguetitos.
@@ -36,8 +38,30 @@
   
 ![Socket de 8 pines](./archivos/1.jpg)
 
-- Las resistencias van puestas en r2,r3,r4 y un diodo en d1. Para facilitar el soldado se doblaron las patitas.
+- Las resistencias van colocadas en R2, R3 y R4, y un diodo en D1. Hay que fijarse que el diodo tenga bien orientados sus polos positivo y negativo para colocarlo correctamente. Para facilitar el soldado, se doblaron las patitas.
   
-![Socket de 8 pines](./archivos/resistencia.png)
+![registro resistencia](./archivos/resistencia.png)
+  
+![resistencia y diodos en placa](./archivos/2.png)
+  
+![doblado patitas](./archivos/3.png)
 
-- SOLADO
+- Para el soldado, usamos dos pedazos de madera para mantener la pieza elevada y trabajar de forma más cómoda. Ojalá tuviéramos algo más adecuado para este proceso. Utilizamos una resistencia delgada; ojo que vi a varios grupos usando una bastante gruesa, y si no se coloca bien, podría provocar un cortocircuito.
+
+![soldado](./archivos/4.png)
+
+![soldado](./archivos/5.png)
+
+- Al final del soldado de cada componente, se recortaron el alambre en exceso de las patitas. Fuimos juntando el exceso para que no se ensuciara la zona de trabajo.
+  
+![recorte](./archivos/6.png)
+
+- Finalizando la clase, los componentes que se alcanzaron a soldar fueron los LEDs, el diodo, el condensadores ceramico y las resistencias.
+
+![placa](./archivos/7.png)
+
+![placa](./archivos/8.png)
+
+- Continuaremos con el soldado en las próximas clases.
+
+![avance clase](./archivos/9.png)
