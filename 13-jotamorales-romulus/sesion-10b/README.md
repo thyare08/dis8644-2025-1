@@ -1,6 +1,6 @@
 # sesion-10b
 ### taller viernes 16 de mayo
-- Dead Internet Theory. Se cree que gran parte de internet está controlada por bots y no por personas. Creo que la teoría tiene algo de verdad porque sí hay muchos bots en internet, gran parte ya se ve en redes sociales, pero me parece exagerado decir que la mayoría del contenido no es real. Aún hay mucha gente creando y compartiendo cosas en línea. En redes sociales, No sé si de momento esto llegará muy lejos. Es fácil detectar cuando alguien es falso, porque generalmente intentan que hagas clic en un enlace o que visites tu perfil.
+-Dead Internet Theory. Se dice que gran parte de internet está controlada por bots y no por personas reales. En especial, muchos de estos son spam bots que llenan redes sociales con mensajes automáticos y enlaces para intentar engañar a los usuarios. Creo que esta parte de la teoría tiene algo de verdad, porque sí hay muchos bots así en internet. Pero me parece exagerado decir que la mayoría del contenido no es real, porque aún hay mucha gente auténtica creando y compartiendo cosas en línea. Además, por ahora no creo que esto empeore demasiado, ya que es relativamente fácil detectar a estos bots falsos, porque casi siempre intentan que hagas clic en enlaces sospechosos o visites perfiles dudosos.
   
 - Circuit bending es modificar circuitos electrónicos de diversas cosas para crear sonidos nuevos y experimentales haciendo conexiones improvisadas dentro del dispositivo. Como ejemplo, se puede hacer en juguetitos.
   
