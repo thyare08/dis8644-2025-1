@@ -11,9 +11,7 @@
 
 ### 30 minutos para buscar ejemplos del tipo de luces que buscamos en el mundo exterior
 
-<div align="left">
-  <img height="100%" src="https://media.discordapp.net/attachments/1248658110625742862/1371880483704803328/image.png?ex=68280a83&is=6826b903&hm=06550662eb282f3b67b5ce2c4f8248e8ecdc79fffe8f66376f4bc5d0f73fc2b0&=&format=webp&quality=lossless&width=1977&height=1104"  />
-</div>
+![luces](https://github.com/duckusu/dis8644-2025-1/blob/main/23-duckusu/sesion-10a/archivos/luces.png)
 
 ###
 
@@ -24,15 +22,12 @@
 
 ### Falstad: pagina de uso libre para generar cicuitos
 
-<div align="left">
-  <img height="100%" src="https://media.discordapp.net/attachments/1248658110625742862/1372795068674609212/image.png?ex=68281289&is=6826c109&hm=4e0ffca5767a7404461d788c313c93d1d22a7ab7e30e52d11dfad5dc05b960e0&=&format=webp&quality=lossless&width=825&height=401"  />
-</div>
+![falstad](https://github.com/duckusu/dis8644-2025-1/blob/main/23-duckusu/sesion-10a/archivos/falstad.png)
+
 
 ### Circuito PWM
 
-<div align="left">
-  <img height="100%" src="https://media.discordapp.net/attachments/1248658110625742862/1372799080119668817/image.png?ex=68281646&is=6826c4c6&hm=c189a41926970584176f8aac713768fd0f2176fc0abc492dacf2bcd256004f0a&=&format=webp&quality=lossless&width=1509&height=1260"  />
-</div>
+![pwm](https://github.com/duckusu/dis8644-2025-1/blob/main/23-duckusu/sesion-10a/archivos/pwm.png)
 
 ```txt
 $ 1 0.000005 10.20027730826997 50 5 50 5e-11
