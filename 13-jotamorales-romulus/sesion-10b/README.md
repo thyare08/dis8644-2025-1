@@ -2,7 +2,8 @@
 ### taller viernes 16 de mayo
 
 ### Primer modulo
-
+- 
+- Aaron nos hizo entrega de las placas UDPUDU. Se nos pidio juntarnos en grupo 
 *** ordenando otra vez
 
 UDPUDU
