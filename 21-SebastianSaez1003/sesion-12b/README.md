@@ -90,3 +90,22 @@ Single coil guitar pickup
 Páginas para buscar inspiración:
 
 Hackaday, Kickstarter, Adafruit
+
+## encargo-24
+
+1. Una máquina/juguete que funcione gracias a un “token” (batería de reloj) que permite a una canica ir en un lento, pero emocionante viaje por un recorrido que dejará a la persona que observa expectante por aproximadamente 30 segundos, preguntando cuál será el resultado. Eventualmente, la canica cae justo encima de donde el “token” estaba siendo sujetado, causando que se caiga y esta máquina, sin energía, no pudiese funcionar, dejando la canica estática.
+
+https://www.youtube.com/watch?v=8Mmx2M9XfPI
+
+https://www.youtube.com/watch?v=48e5Rnh2PYo
+
+2. Un “reenfocador”, el cual es capaz de emitir un sonido, movimiento o luz intensa, que, gracias a un temporizador, me recuerde el hecho de que debería ser productivo, esté siendo adjunto ya sea a un computador, bitácora u otro elemento con el que debería ser productivo, llamándome la atención si es que me distraigo con alguna otra cosa de mis alrededores o mi propia mente. Este dispositivo necesita alguna interacción a partir de un botón que reinicie el temporizador, de esta manera asegurándose que, como mínimo, estoy enfocado en el dispositivo.
+
+3. Unos lentes de sol automáticos, pero para personas que ocupan anteojos ópticos en su día a día, ya que estos detectarán cuando hay una luz demasiado intensa y bajarán los filtros para aliviar el problema de la luminosidad.
+
+https://www.decathlon.cl/p/11778-17684-clip-adaptable-a-lentes-opticos-mh-otg-120-large-polarizado-categoria-3.html
+
+https://www.chilelentes.cl/lentes-opticos-de-seguridad-pegaso-duplex-multifocal
+
+## encargo-25
+
