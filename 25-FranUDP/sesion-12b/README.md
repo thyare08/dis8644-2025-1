@@ -18,11 +18,11 @@
 Mi perrita se la pasa sola en la casa durante la mayoría del día, debido a que estamos todos ocupados fuera, todos menos mi hermano (por ahora). 
 Previendo la posibilidad que él deje de poder reponerle el agua y la comida a causa de la universidad, pensé en un dispensador de agua y comida automático.
 
-Este aparato se enchufará a la pared a través de una power supply de 5-9V USB-C y contará con una batería interna que asegurará que se mantendrá funcionando incluso durante cortes de luz. 
+Este aparato se enchufará a la pared a través de una power supply de 5V USB-C y contará con una batería interna que asegurará que se mantendrá funcionando incluso durante cortes de luz. 
 
 El dispositivo tendrá un botón de encendido y apagado, además de una perilla para determinar la cantidad de comida, otra para la cantidad de agua dispensada y otra para seleccionar el tiempo de espera antes de reponer los alimentos.
 
-El dispensador detectará cuando le hayan acabado el agua y la comida, en caso de que los platos estén vacíos, el dispositivo comenzará a contar hasta que se cumpla el delay establecido antes de liberar la cantidad especificada de alimento. Este delay se debe a que si no se regula la frecuencia y las porciones que inhieren las mascotas, la salud de estas se verá afectada.
+El dispensador detectará cuando le hayan acabado el agua (agua como switch) y la comida (LDR al fondo del plato), en caso de que los platos estén vacíos, el dispositivo comenzará a contar hasta que se cumpla el delay establecido antes de liberar la cantidad especificada de alimento. Este delay se debe a que si no se regula la frecuencia y las porciones que inhieren las mascotas, la salud de estas se verá afectada.
 
 Si el dispensador está recibiendo energía del power supply mantendrá encendida un LED azul, en caso de estar funcionando en energía de emergencia este LED parpadeará; mientras la batería se esté cargando, brillará un LED rojo; Si los tanques de agua y comida de reserva están cerca de vaciarse, el dispositivo avisará parpadeando el LED rojo.
 
