@@ -102,9 +102,24 @@ Muy probablemente requerirán transistores.
 - Etsy  
 
 ## encargo-24
-Describir de forma textual 3 proyectos de máquinas electrónicas que quieran hacer de forma individual, ordenar por preferencia o interés de que sea desarrollado.
-## encargo-25
-Dibujar diagrama de comportamiento, flujos de interacción. No específicar chips. Considerar procesos de manera especulativa. ¿Cuánto tiempo se usará? ¿Qué encendidos y apagados tiene? ¿Cómo se interactúa?
+
+1.  **Dilo sin decirlo**: Dispositivo que genere sonido o ruido al momento en que una persona tiene contacto con distintas cosas, ya sea con otra persona, el sonido al tocar algo que le guste al usuario, etc. Personalemte me cuesta mucho expresarme verbalmente y hablar en general, por lo que este dispositivo dejaría en evidencia a través de sonido, que es lo que siento sobre distintas cosas, sin tener que usar palabras.
+   
+2.  **Micrófono**: Amplificador de sonido usando un piezo eléctrico y distintos objetos, para ser usado como micrófono (de voz), o para escuchar el sonido de diferentes sujetos de experimentación. Se prende a través de un switch on/off. Qué tenga una forma no convencional (que tenga forma de teléfono, gato, dentadura de abuela, etc). Además se podría incluir algún potenciometro, que cambie las tonalidades de la voz.
+   
+3.  **omnichord de bolsillo**: Tendrá un harp sensor o placa sensible al contacto, además de potenciomentros que permitan variar los ritmos, tendrá una salida de audio para poder amplificar su sonido. Su tamaño será de bolsillo 8ver dimensiones), para poder llevarlo facilmente a todos lados, y para poder decir "mira lo que tengo" y hacer un concierto de la nada. Su forma será de alguna cosa que aún no se me ocurre.
+
+   
+## encargo-24
+
+
+
+
+
+
+
+
+
 
 
 
