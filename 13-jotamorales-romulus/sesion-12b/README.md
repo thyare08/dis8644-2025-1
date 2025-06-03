@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/52bf7a07-e9dc-4b02-aaa6-a320ca98c4fb)# sesion-12b
+# sesion-12b
 ### taller viernes 30 de mayo
 
 ## Módulo mañana
@@ -24,7 +24,7 @@ traer 3 ideas, ordenadas de mejor a peor, explicadas de forma textual. concentra
 
 1. Recipiente para registro de visuales experimentales líquidas.
 
-
+![imagen conceptual](./archivos/propuesta1.png)
 
 
 
