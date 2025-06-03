@@ -41,3 +41,17 @@ Video para miniatura electromagnética - Javier Bustos: https://www.youtube.com/
 
 - traer 3 ideas, ordenadas de mejor a peor, explicadas de forma textual. concentrarse en el lenguaje, los rangos de operación, el uso, no partir desde un chip en particular.
 - traer diagramas y dibujos por cada una de las 3 ideas
+
+### Idea 1
+
+![1](https://github.com/duckusu/dis8644-2025-1/blob/main/23-duckusu/sesion-12b/archivos/1.jpg)
+
+### Idea 2
+
+![2](https://github.com/duckusu/dis8644-2025-1/blob/main/23-duckusu/sesion-12b/archivos/2.jpg)
+
+
+### Idea 3
+
+
+![3](https://github.com/duckusu/dis8644-2025-1/blob/main/23-duckusu/sesion-12b/archivos/3.jpg)
