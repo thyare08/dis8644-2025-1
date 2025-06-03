@@ -36,6 +36,5 @@ motores, sensor de color, botones, y más.
   
 #### referencias
 
-<iframe width="1501" height="541" src="https://www.youtube.com/embed/w1ks0Vy98KI" title="Construí una máquina de canicas que crea pixel art" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+[video referente pixel art machine](https://www.youtube.com/watch?v=FEa2diI2qgA)
 
