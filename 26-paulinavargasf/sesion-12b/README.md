@@ -54,6 +54,8 @@ sin interrumpir el trabajo que se está realizando.
 | Varios | Cables       |                |   |   |
 | 1      | BAT          | 9V             |   |   |
 
+* Los sensores PIR permiten detectar movimiento, casi siempre se usan para saber si un humano se ha movido dentro o fuera del rango de los sensores (https://www.murkyrobot.com/guias/sensores/sensor-pir#:~:text=Los%20sensores%20PIR%20le%20permiten,que%20significa%20%22Infrarrojo%20Pasivo%22.)
+
 ## ¿Cuánto tiempo se usará?
 Se usaría durante la noche.
 
@@ -62,6 +64,7 @@ Mediante un sensor de luz. Y un botón de encendido y apagado.
 
 ## ¿Cómo se interactúa? 
 Con el movimiento, mientras no haya movimiento, las luces se mantendrán apagadas.
+
 
 # 2
  BOM
@@ -87,6 +90,7 @@ El temporizador genera ciclos de encendido y apagado, siguiendo un patrón.
 
 ## ¿Cómo se interactúa? 
 El circuito puede ser automático, sin intervención de la persona.
+
 
 # 3
  BOM
