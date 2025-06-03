@@ -1,4 +1,4 @@
-# ⋆₊˚⊹♡ Clase  12a - Circuitos para un proyecto ♡⊹˚₊⋆
+# ⋆₊˚⊹♡ Clase  12b - Circuitos para un proyecto ♡⊹˚₊⋆
 
 _Viernes 30/05/2025_
 
