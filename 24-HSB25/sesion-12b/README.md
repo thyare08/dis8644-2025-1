@@ -44,10 +44,24 @@ Funciona como una **guía temporal no verbal**, sin distracción ni interrupció
 
 ###  Diagrama de comportamiento
 
-[Inicio manual] ──> [Fase 1] ──> [Fase 2] ──> [Fase 3] ──> [Fin y apagado]
-       ▲                   ▲           ▲           ▲
-       │                   │           │           │
-  [Usuario inicia]   [Tiempo asignado por fase: 5–10 min]
+                         [Inicio manual]
+                               │
+                               ▼
+                            [Fase 1]
+                               │
+                               ▼
+                            [Fase 2]
+                               │
+                               ▼
+                            [Fase 3]
+                               │
+                               ▼
+                        [Fin y apagado]
+
+      ▲                ▲                ▲                ▲
+      │                │                │                │
+[Usuario inicia]  [Tiempo asignado por fase: 5–10 min]
+
 
 ---
 
