@@ -70,7 +70,7 @@
 
 - dc 6v - gira tan rápido como pueda si le llega electricidad 
 
-- para reducir velocidad se necesita un moto reductor mediante **conservación del mometo angulas**
+- para reducir velocidad se necesita un moto reductor mediante **conservación del momento angular**
 
 - Streppermotor o paso a paso - es mucho más lento y preciso, pero no sabe dónde está- impresoras 3D - los grados que avanaz depende del motor [video](https://www.youtube.com/watch?v=Vc2XRVJ9n1o)
 
@@ -78,7 +78,7 @@
 
 - puente H - cambiar ladirección de un motor DC - L298n
 
-![puente H](.\archivos\puenteH.png)
+<img src=".\archivos\puenteH.png" alt="puente H" style="width:200px;height:300px;">
 
 - [solinoide](https://www.youtube.com/watch?v=om0yTP59nG4) - [polyned perc](https://polyend.com/legacy/polyend-perc/) - por principio electromagnético genera movimiento lineal - percusiones electromecánicas
 
@@ -127,7 +127,7 @@ una máquina que se paga sola. al presionar un botón o palanca de encendido, se
 
 o que la persona mueva una palanca que haga encender una luz blanca, sale un bracito que mueve otra palanca y aparecen luces de colores (junio)
 
-### 02 sonido a presión
+### 02 sonido por presión
 
 una máquina que al apretarla repoduce distintos sonidos dependiendo de la presión que se ejerce
 
@@ -138,3 +138,21 @@ una máquina que vibra y hace encender y apagar luces de forma caótica cuando r
 # encargo 02
 
 - dibujar diagrama de comportamiento, flujos de interacción - caja negra - no especificar los chips - procesos de manera especultiva - ¿cuánto tiempo se usará?¿que encendidos y apagados tiene?¿cómo se interactúan?
+
+### 01 "no estoy"
+
+<img src="./archivos/noEstoy.jpg" alt="diagrama 'no estoy'" style="width:300px;">
+
+se enciende con la palanca, la cual enciende una luz y activa un servo motor que se mueve sólo para empujar la palanca y apagar el circuito.
+
+### 02 sonido por presión
+
+<img src="./archivos/sonidoPresion.jpg" alt="diagrama 'soniod por presión'" style="width:300px;">
+
+el sensor de fuerza recibe presión y la envía como señal eléctrica al circuito integrado, el cual la recibe, ,la filtra y la envía al parlante que reproduce la señal en sonido. el circuito está funcionando sólo cuando se presiona el sensor.
+
+### 03 sensibilidad ante el sonido
+
+<img src="./archivos/sensibilidadSonido.jpg" alt="diagrama 'sensibilidad ante el sonido'" style="width:300px;">
+
+el micrófono detecta ruido (sonido) y lo manda como señal eléctrica al circuito integrado, éste lo recibe, filtra y envía señal eléctrica a las luces que se prenden y apagan de forma aleatória (guiadas por el sonido) y a un motor vibrador que se mueve de forma caótica por el sonido. el circuito funicona sólo cuando recibe cierto nivel de sonido.
