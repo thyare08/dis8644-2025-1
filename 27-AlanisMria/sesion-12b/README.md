@@ -67,7 +67,6 @@ La interacción consiste en posicionar el proyector en la dirección que se dese
 
 Esta idea surge de la visualización del referente mencionado en clase Spectra Bloom y de la influencia del pensamiento forjado en un curso de animación experimental.
 
-
 ### AtariPies
 
 este circuito consiste en la unión de dos circuitos atari punk que usen sensores de proximidad a modo de resistencia variable, contará con un potenciómetro en cada atari para modificar el tono de los parlantes, será alimentado mediante una batería recargable de 9v y tendrá un interruptor. Tendrá forma de caja a nivel del suelo y los potenciometros irán a las manos mediante cables para interactuar con manos y pies.
