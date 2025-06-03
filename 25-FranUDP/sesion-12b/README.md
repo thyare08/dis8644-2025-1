@@ -28,7 +28,7 @@ Si el dispensador está recibiendo energía del power supply mantendrá encendid
 
 <img align="left" src="./archivos/1.jpg" alt="dispensador" width=700></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 
-### 2.- Pomodoro
+### 2.- Pomodoro sonoro
 A quienes tenemos TDAH (ADHD) nos puede llegar a costar muchísimo sentarnos a trabajar sin inmediatamente distraernos o comenzar a soñar despiertos.
 
 Una solución usualmente recomendada para este dilema es la técnica del pomodoro (tomate en italiano) que consiste en estudiar por aproximadamente 25 minutos con pequeños breaks entre medio, sin embargo, sin embargo, dependiendo de la capacidad de mantenerse consciente de cada uno, es posible que uno se "vuele" sin saberlo incluso empleando esta técnica.
@@ -41,7 +41,7 @@ Una vez el pomodoro es encendido, este comenzará a emitir un sonido (pulso) cad
 
 Una vez comience el período de descanso, el LED comenzará a atenuarse hasta apagarse, momento en el cual comenzará otro ciclo estudio-descanso.
 
-<img align="left" src="./archivos/2.jpg" alt="dispensador" width=700></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+<img align="left" src="./archivos/2.jpg" alt="Pomodoro sonoro" width=700></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 
 ### 3.- Guante sintetizador
 Se me ocurrió la idea de un instrumento que emita distintos sonidos dependiendo del gesto que se haga con la mano, esto se lograría teniendo los inputs de distintos elementos sonoros en la yema de los dedos (zona metalizada) y distintos valores experimentales ubicados en las falanges y otras zonas de la mano (en caso de que este método no sea viable, se pueden usar pequeños botones de TPU esparcidos por la superficie del guante).
@@ -49,3 +49,4 @@ En otras palabras, dependiendo de que parte de la mano (incluyendo otros dedos) 
 
 Este aparato funcionaría con un una batería recargable mediante USB-c.
 
+<img align="left" src="./archivos/3.jpg" alt="Guante sintetizador" width=700>
