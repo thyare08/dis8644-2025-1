@@ -62,6 +62,30 @@ _la intencidad depende de su tamaño (en pulgadas), de su potencia (en watt) y d
 
 Describir de forma textual 3 proyectos de máquinas electrónicas que quieran hacer de forma individual, ordenar por preferencia o interés de que sea desarrollado.
 
+1. lámpara interactiva -> lámpara que con sensor de movimiento se encienda y se apague y que pueda cambiar su tipo de luz.
+2. 
+3. 
 ## Encargo 25
 
 Dibujar diagrama de comportamiento, flujos de interacción. No específicar chips. Considerar procesos de manera especulativa. ¿Cuánto tiempo se usará? ¿Qué encendidos y apagados tiene? ¿Cómo se interactúa?
+
+### 1.
+
+**BOM**
+
+|componente| cantidad|
+|---|---|
+|bateria|1|
+|sensor de proximidad|1|
+|relé|1|
+|LED||
+|resistencias||
+|capacitores||
+|comparador de voltaje||
+
+Se utilizará a medida que la uz sea escaza en lugares, tipo habitaciones. contara con el ON/OFF mediante sensor de movimiento sobre la lámpara. También variará el tipo de luz, cálida, fría o de colores, dependiendo la necesidad momentánea del usuario, el cual tambiés será mediante movimiento, uno distinto al de encendido y apagado.
+
+Potr otra parte será una lámpara de pie, utilizando madera como su base y con una pantalla para el traspaso de luz.  
+
+![Texto del párrafo](https://github.com/user-attachments/assets/88a4f86e-cd87-4741-a046-bd8247b14de7)
+
