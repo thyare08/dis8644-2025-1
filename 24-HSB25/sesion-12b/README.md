@@ -128,6 +128,8 @@ Por ejemplo:
 ###  Diagrama de comportamiento
 
  [Ambiente inactivo]
+
+                 [Ambiente inactivo]
                          │
                          ▼
                [Visualización mínima]
@@ -140,4 +142,4 @@ Por ejemplo:
                          ▲
                          │
        (retorno al inicio si cambia el estado)
-
+                       
