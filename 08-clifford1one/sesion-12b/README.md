@@ -76,7 +76,7 @@ leds, micrófono, entrada usb c y más.
 
 ![fotomontaje vAso](./archivos/montaje1.png)
 
-![fotomontaje vAso](./archivos/render1.png)
+![fotomontaje vAso](./archivos/render1.PNG)
 
 [video referente led interface](https://www.youtube.com/watch?v=MKOKng-PpdE&t=205s)
 
@@ -120,7 +120,7 @@ la interfaz está compuesta por 5 secciones, cada una  corresponde a un "instrum
 
 ![imagen página web incredibox](./archivos/incredibox.png)
 
-[enlace incrediboz, página que permite hacer musica a principiantes]([https://www.youtube.com/watch?v=MKOKng-PpdE&t=205s](https://www.incredibox.com/es/demo/))
+[enlace incredibox, página que permite hacer musica a principiantes]([https://www.youtube.com/watch?v=MKOKng-PpdE&t=205s](https://www.incredibox.com/es/demo/))
 
 
 ## extras
