@@ -26,7 +26,7 @@ traer 3 ideas, ordenadas de mejor a peor, explicadas de forma textual. concentra
 
 
 
-El objetivo es explorar la relación entre sonido y materia líquida, usando la física de vibraciones y la percepción sensorial para generar una instalación que sea tanto visual como auditiva.
+
 
 3.       
 
