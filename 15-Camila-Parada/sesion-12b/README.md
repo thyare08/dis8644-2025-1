@@ -75,7 +75,7 @@ _▼ Sensor Pulso Cardiaco Corazón. Recuperado de: https://afel.cl/products/sen
 
 Estos días mantego la mente en blanco. Busco no sobrepensar como de costumbre, pero aunque no lo quiera a veces se asoman estas ideas y reabren viejas heridas. Siento que no me estoy esforzando lo suficiente para lograr las cosas que quiero. Siento que no me deberían afectar tan a largo plazo la muerte o la perdida de un empleo. A su vez, mi visión se nubla y siento amenazas donde antes no las había. Me da pena ir a clases y sentir que me es complejo interactuar y sentirme parte de un espacio, sobretodo si no me estoy esforzando por estar al tanto con los contenidos y los circuitos fallan constantemente. ૮ ◞ ﻌ ◟ ა
 Creo que al igual que muchos, quiero un lugar al que pertenecer y sentirme valorada.
-Reflexiones de madrugada antes de la entrega.
+Reflexiones de madrugada mientras pienso en los proyectos.
 
 ***
 
