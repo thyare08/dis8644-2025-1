@@ -53,4 +53,4 @@ Este aparato funcionaría con un una batería recargable mediante USB-c.
 -----------------------------------------------------------------------------------------------------------
 ## Encargo 25 <!-- Dibujar diagrama de comportamiento, flujos de interacción. No específicar chips. Considerar procesos de manera especulativa. ¿Cuánto tiempo se usará? ¿Qué encendidos y apagados tiene? ¿Cómo se interactúa? -->
 ### Diagramas propuestas
-<img align="left" src="./archivos/1.jpg" alt="dispensador" width=600>
+<img align="left" src="./archivos/1.jpg" alt="dispensador" width=700>
