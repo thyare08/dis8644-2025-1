@@ -1,4 +1,4 @@
-# sesion-12b
+![image](https://github.com/user-attachments/assets/52bf7a07-e9dc-4b02-aaa6-a320ca98c4fb)# sesion-12b
 ### taller viernes 30 de mayo
 
 ## Módulo mañana
@@ -21,9 +21,16 @@
 
 ## encargo-24
 traer 3 ideas, ordenadas de mejor a peor, explicadas de forma textual. concentrarse en el lenguaje, los rangos de operación, el uso, no partir desde un chip en particular.,
-traer diagramas y dibujos por cada una de las 3 ideas con el equipo de taller somos fans del ruido, de la comedia, de lo inútil, de lo desconcertante, y de lo pacifista
-los proyectos son de tema libre siempre cuando usen electrónica, deben explicar qué y para qué, si algún tema no sabemos, aprendemos con ustedes
-la máxima del proyecto y examen es mostrar un proyecto y proceso de diseñio integral, con metas, costos, contexto, decisiones de diseño, y que demuestren los aprendizajes disciplinares de interacción humano-electrónica, de comunicación efectiva, etc (editado)
+
+1. Recipiente para registro de visuales experimentales líquidas.
+
+
+
+El objetivo es explorar la relación entre sonido y materia líquida, usando la física de vibraciones y la percepción sensorial para generar una instalación que sea tanto visual como auditiva.
+
+3.       
+
+4.
 
 
 
