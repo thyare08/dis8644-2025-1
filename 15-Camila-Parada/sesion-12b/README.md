@@ -70,6 +70,8 @@ _▼ Captura del Doodle en función._
 
 <br>
 
+
+
 ***
 
 ### Encargo 25: Diagramas, flujos y especulaciones a considerar
