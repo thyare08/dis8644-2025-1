@@ -56,7 +56,18 @@ Este objeto está pensado como una herramienta para crear visuales experimentale
 
 ### Pedal tomatatera
 
+Sí, literalmente es un pedal con forma de tomate, diseñado para conectarse a instrumentos eléctricos (guitarra, teclado, sintetizador). Al presionar su “corazón” o la cosita verde (la superficie superior), transforma la señal entrante en un efecto de timbre pegajoso o “bizcoso”. La forma de este pedal da a entender que el tomate se aplastó, y por eso debería sonar bizcoso.
 
+![imagen conceptual](./archivos/propuesta2.png)
+
+Se busca hacer un pedal con una forma poco vista, ya no es una carcasa, es un tomate.
+
+Uso:
+Se conecta con cables al amplificador o dispositivo de audio. Cuando el músico pisa el tomate, la señal del instrumento se procesa para producir un efecto “viscoso”.
+
+![diagrama2](./archivos/diagrama2.png)
+
+Explorar un timbre extraño y desconcertante.
 
 ## Propuesta 3
 
@@ -73,6 +84,7 @@ Los rangos de operación estarán definidos por:
 - Volumen e intensidad del ruido
 
 - Luminosidad de los LEDs (control de brillo y color si RGB).
+- 
 
 
 
