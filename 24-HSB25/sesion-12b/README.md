@@ -85,15 +85,21 @@ Una lámpara que reacciona a la **cercanía o permanencia del cuerpo**. Si algui
 
 ###  Diagrama de comportamiento
 
-[Sin presencia] ──> [Detección de cuerpo] ──> [Encendido suave]
-                            │
-                            ▼
-                    [Presencia continua > 15 min]
-                            │
-                            ▼
-                  [Atenuación progresiva de luz]
-                            │
-                            ▼
+                       [Sin presencia]
+                              │
+                              ▼
+                   [Detección de cuerpo]
+                              │
+                              ▼
+                       [Encendido suave]
+                              │
+                              ▼
+              [Presencia continua > 15 min]
+                              │
+                              ▼
+             [Atenuación progresiva de luz]
+                              │
+                              ▼
                     [Apagado a los 30 min]
 
 ---
@@ -121,9 +127,17 @@ Por ejemplo:
 
 ###  Diagrama de comportamiento
 
-[Ambiente inactivo] ──> [Visualización mínima]
-         ▲                         │
-         │                         ▼
-[Ambiente activo] <── [Animaciones + sonidos intensos]
-
+ [Ambiente inactivo]
+                         │
+                         ▼
+               [Visualización mínima]
+                         │
+                         ▼
+    [Animaciones + sonidos intensos] 
+                         │
+                         ▼
+                 [Ambiente activo]
+                         ▲
+                         │
+       (retorno al inicio si cambia el estado)
 
