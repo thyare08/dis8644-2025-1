@@ -29,6 +29,11 @@
 
 - El motor se pone en movimiento > se emite un sonido > el motor se detiene > el sonido se detiene > el motor vuelve a ponerse en movimiento.
 
+![Imagen de WhatsApp 2025-06-03 a las 11 36 03_aa346830](https://github.com/user-attachments/assets/14d39c8a-ea21-4b56-8884-ce8b6302151e)
+
+
+Fuente <https://proyectoidis.org/zimoun/>
+
 ### Idea 02
 
 - Un circuito con un LDR y un speaker que suene indicando cuando no reciba luz. En este caso iría junto a una planta, como si la planta estuviera gritando que quiere luz.
