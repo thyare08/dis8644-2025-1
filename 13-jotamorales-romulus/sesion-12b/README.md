@@ -22,15 +22,19 @@
 ## encargo-24
 traer 3 ideas, ordenadas de mejor a peor, explicadas de forma textual. concentrarse en el lenguaje, los rangos de operación, el uso, no partir desde un chip en particular.,
 
-1. Recipiente para registro de visuales experimentales líquidas.
+## Propuesta 1
+
+Recipiente para registro de visuales experimentales líquidas.
 
 ![imagen conceptual](./archivos/propuesta1.png)
 - lo que se busca lograr
   
 [![Video del circuito en acción](https://img.youtube.com/vi/mVG80Ujip5M/0.jpg)](https://www.youtube.com/shorts/mVG80Ujip5M)
 
-Un recipiente el cual permita el desarrollo de visuales con líquidos en tiempo real. El dispositivo se compone de un recipiente transparente, el cual contiene un líquido de comportamiento denso y cambiante, similar al de las lámparas de lava. Este líquido se ilumina desde la base mediante un conjunto de LEDs RGB, los cuales se pueden regular o cambiar su comportamiento con un controlador
-El líquido se mantiene en movimiento constante mediante un sistema interno como una bomba de aire, un motor vibrador o un agitador líquido que genera burbujeo o flujo. Este dinamismo permite que la luz interactúe con el líquido en formas diversas, generando diversas imágenes. 
+Un recipiente diseñado para el desarrollo de visuales con líquidos en tiempo real. El dispositivo está compuesto por un contenedor transparente que alberga un líquido de comportamiento denso y cambiante, similar al de las lámparas de lava. Este líquido es iluminado desde la base mediante un conjunto de LEDs RGB, cuya intensidad y comportamiento pueden ser regulados mediante un controlador.
+
+El líquido se mantiene en movimiento constante a través de un sistema interno, que puede incluir una bomba de aire, un motor vibrador o un agitador líquido que genere burbujeo o flujo. Este dinamismo permite que la luz interactúe con el líquido de múltiples formas, generando imágenes en constante transformación.
+
 Un controlador gestiona:
 
 -La potencia e intensidad de los LEDs.
@@ -45,18 +49,13 @@ Un controlador gestiona:
 
 Este objeto está pensado como una herramienta para crear visuales experimentales en vivo, mezclando luz y movimiento líquido. Permite improvisar efectos visuales en sincronía con la música, funcionando como una especie de VJ análogo, pero usando agua, color y luz en vez de pantallas.
 
+## Propuesta 2
 
-3.       
-
-4.
-
+## Propuesta 3
 
 
 
 
 
-
-
-## encargo-25
 
 
