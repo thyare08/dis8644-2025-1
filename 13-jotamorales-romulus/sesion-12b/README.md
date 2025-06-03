@@ -17,6 +17,13 @@
 
 - Se habló del proyecto final y cómo nos vamos a ir encaminando hacia este. Vamos a tener harto tiempo para ir desarrollándolo, pero este pasa muy rápido. Hay que tener en cuenta que lo que vayamos a hacer funcione antes de mandar a hacer la placa, ver componentes, cotizar, etc.
 
+---- agregar apuntes celu------
+
+## encargo-24
+traer 3 ideas, ordenadas de mejor a peor, explicadas de forma textual. concentrarse en el lenguaje, los rangos de operación, el uso, no partir desde un chip en particular.,
+traer diagramas y dibujos por cada una de las 3 ideas con el equipo de taller somos fans del ruido, de la comedia, de lo inútil, de lo desconcertante, y de lo pacifista
+los proyectos son de tema libre siempre cuando usen electrónica, deben explicar qué y para qué, si algún tema no sabemos, aprendemos con ustedes
+la máxima del proyecto y examen es mostrar un proyecto y proceso de diseñio integral, con metas, costos, contexto, decisiones de diseño, y que demuestren los aprendizajes disciplinares de interacción humano-electrónica, de comunicación efectiva, etc (editado)
 
 
 
@@ -25,8 +32,6 @@
 
 
 
-
-
-###
+## encargo-25
 
 
