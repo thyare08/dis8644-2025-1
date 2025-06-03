@@ -109,3 +109,6 @@ https://www.chilelentes.cl/lentes-opticos-de-seguridad-pegaso-duplex-multifocal
 
 ## encargo-25
 
+![Flujo de la primera propuesta con la canica](./sesion-12b/archivos/mapa-flujo-canicas.png)
+
+
