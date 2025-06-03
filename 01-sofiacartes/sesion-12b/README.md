@@ -66,12 +66,15 @@ Describir de forma textual 3 proyectos de máquinas electrónicas que quieran ha
 
 lámpara que con sensor de movimiento se encienda y se apague y que pueda cambiar su tipo de luz.
 
+2. 
 3. 
 ## Encargo 25
 
 Dibujar diagrama de comportamiento, flujos de interacción. No específicar chips. Considerar procesos de manera especulativa. ¿Cuánto tiempo se usará? ¿Qué encendidos y apagados tiene? ¿Cómo se interactúa?
 
-### 1.BOM
+### 1.
+
+**BOM**
 
 |componente| cantidad|
 |---|---|
