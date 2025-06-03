@@ -63,7 +63,7 @@
 
 Consiste en una caja que contenga leds de alta potencia conectados a una variación del circuito sensor de sombra realizado en clase en donde se reemplaza el ldr por un potenciómetro y se liga a un circuito PWM para lograr mover el motor que cambiara los frames de una animación cuadro a cuadro de una figura abstracta plasmada en papel translúcido. contará con un interruptor para apagar y será alimentado por una batería recargable de 9v.
 
-La interacción consiste en posicionar el proyector en la dirección que se desee y presionar el interruptor, de esa forma comenzaron a encender los leds de diferentes colores que proyecten la luz al papel translúcido girando con el motor, dependiendo de la fluidez y rapidez en cambio de color de la luz se debera girar el potenciometro para modificar la frecuencia.
+La interacción consiste en posicionar el proyector en la dirección que se desee y presionar el interruptor, de esa forma comenzarán a encender los leds de diferentes colores que proyecten la luz al papel translúcido girando con el motor, dependiendo de la fluidez y rapidez en cambio de color de la luz se debera girar el potenciometro para modificar la frecuencia.
 
 Esta idea surge de la visualización del referente mencionado en clase Spectra Bloom y de la influencia del pensamiento forjado en un curso de animación experimental.
 
