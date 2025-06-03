@@ -24,16 +24,19 @@ traer 3 ideas, ordenadas de mejor a peor, explicadas de forma textual. concentra
 
 ## Propuesta 1
 
-Recipiente para registro de visuales experimentales líquidas.
-
-![imagen conceptual](./archivos/propuesta1.png)
-- lo que se busca lograr
-  
-[![Video del circuito en acción](https://img.youtube.com/vi/mVG80Ujip5M/0.jpg)](https://www.youtube.com/shorts/mVG80Ujip5M)
+### Recipiente para registro de visuales experimentales líquidas.
 
 Un recipiente diseñado para el desarrollo de visuales con líquidos en tiempo real. El dispositivo está compuesto por un contenedor transparente que alberga un líquido de comportamiento denso y cambiante, similar al de las lámparas de lava. Este líquido es iluminado desde la base mediante un conjunto de LEDs RGB, cuya intensidad y comportamiento pueden ser regulados mediante un controlador.
 
 El líquido se mantiene en movimiento constante a través de un sistema interno, que puede incluir una bomba de aire, un motor vibrador o un agitador líquido que genere burbujeo o flujo. Este dinamismo permite que la luz interactúe con el líquido de múltiples formas, generando imágenes en constante transformación.
+
+![imagen conceptual](./archivos/propuesta1.png)
+
+- lo que se busca lograr
+  
+[![Video del circuito en acción](https://img.youtube.com/vi/mVG80Ujip5M/0.jpg)](https://www.youtube.com/shorts/mVG80Ujip5M)
+
+
 
 Un controlador gestiona:
 
@@ -45,13 +48,36 @@ Un controlador gestiona:
 
 -La intensidad del movimiento del líquido.
 
-![diagrama1](./archivos/diagramapropuesta1.png)
+![diagrama1](./archivos/diagrama1.png)
 
 Este objeto está pensado como una herramienta para crear visuales experimentales en vivo, mezclando luz y movimiento líquido. Permite improvisar efectos visuales en sincronía con la música, funcionando como una especie de VJ análogo, pero usando agua, color y luz en vez de pantallas.
 
 ## Propuesta 2
 
+### Pedal tomatatera
+
+
+
 ## Propuesta 3
+
+### Acrílico Sonoro
+
+
+
+Un objeto el cual muestre una relación entre sonido, luz y color. Se trata de un dispositivo contenido en una carcasa, que incorpora 3 paneles de acrílico, posicionados arriba de unos leds, estos responden visualmente a distintas modulaciones sonoras. Cada uno de estos paneles cuenta con una fuente de iluminación LED desde abajo, permitiendo resaltar el sonido y las texturas.
+
+El dispositivo incluye un sistema de generación de ruido que puede ser modulado mediante perillas y botones, uno por cada panel. Los controles permiten alterar la intensidad, tono y textura del ruido que afecta cada acrílico, creando contrastes visuales y sonoros en tiempo real.
+
+Los rangos de operación estarán definidos por:
+
+- Volumen e intensidad del ruido
+
+- Luminosidad de los LEDs (control de brillo y color si RGB).
+
+
+
+
+
 
 
 
