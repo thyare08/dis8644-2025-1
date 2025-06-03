@@ -123,17 +123,19 @@
 
 ### 01 "no estoy"
 
-una máquina que se paga sola. al presionar un botón o palanca de encendido, se prende una luz que "despierta" a un brazo que sólo se mueve para volver a apagar la máquina
+una máquina que se apaga sola. 
 
-o que la persona mueva una palanca que haga encender una luz blanca, sale un bracito que mueve otra palanca y aparecen luces de colores (junio)
+al presionar una palanca se enciende una luz que "despierta" a un brazo que sólo se mueve para volver a apagar la máquina
+
+o que la persona mueva la palanca que haga encender una luz blanca (aburrido), sale un bracito que mueve otra palanca y aparecen luces de colores desordenadas como si fuera una fiesta (junio)
 
 ### 02 sonido por presión
 
-una máquina que al apretarla repoduce distintos sonidos dependiendo de la presión que se ejerce
+una pelota antiestrés que al apretarla reproduce distintos sonidos dependiendo de la presión que se ejerce. 
 
 ### 03 sensibilidad ante el sonido
 
-una máquina que vibra y hace encender y apagar luces de forma caótica cuando recibe una señal de sonido
+una máquina que vibra y hace encender y apagar luces de forma caótica cuando recibe una señal de sonido o ruido
 
 # encargo 02
 
@@ -155,4 +157,4 @@ el sensor de fuerza recibe presión y la envía como señal eléctrica al circui
 
 <img src="./archivos/sensibilidadSonido.jpg" alt="diagrama 'sensibilidad ante el sonido'" style="width:300px;">
 
-el micrófono detecta ruido (sonido) y lo manda como señal eléctrica al circuito integrado, éste lo recibe, filtra y envía señal eléctrica a las luces que se prenden y apagan de forma aleatória (guiadas por el sonido) y a un motor vibrador que se mueve de forma caótica por el sonido. el circuito funicona sólo cuando recibe cierto nivel de sonido.
+el micrófono detecta ruido y lo manda como señal eléctrica al circuito integrado, éste lo recibe, filtra y envía señal eléctrica a las luces que se prenden y apagan de forma aleatória (guiadas por el sonido) y a un motor vibrador que se mueve de forma caótica por el sonido. el circuito funicona sólo cuando recibe cierto nivel de sonido.
