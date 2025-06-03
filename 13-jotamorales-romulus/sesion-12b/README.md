@@ -73,18 +73,20 @@ Explorar un timbre extraño y desconcertante.
 
 ### Acrílico Sonoro
 
-
-
 Un objeto el cual muestre una relación entre sonido, luz y color. Se trata de un dispositivo contenido en una carcasa, que incorpora 3 paneles de acrílico, posicionados arriba de unos leds, estos responden visualmente a distintas modulaciones sonoras. Cada uno de estos paneles cuenta con una fuente de iluminación LED desde abajo, permitiendo resaltar el sonido y las texturas.
+
+![imagen conceptual](./archivos/propuesta3.png)
 
 El dispositivo incluye un sistema de generación de ruido que puede ser modulado mediante perillas y botones, uno por cada panel. Los controles permiten alterar la intensidad, tono y textura del ruido que afecta cada acrílico, creando contrastes visuales y sonoros en tiempo real.
 
+![diagrama3](./archivos/diagrama3.png)
+
 Los rangos de operación estarán definidos por:
 
-- Volumen e intensidad del ruido
+-Volumen e intensidad del ruido
 
-- Luminosidad de los LEDs (control de brillo y color si RGB).
-- 
+-Luminosidad de los LEDs (control de brillo y color si RGB).
+
 
 
 
