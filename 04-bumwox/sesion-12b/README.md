@@ -37,3 +37,7 @@ __motores__
 - servomotor, se suele utilizar con arduino, es preciso y rapido, es avaces inestable
 - puente H: configuracion electronica de transistores, ara girar un mototr en emabas direcciones
 - solenoide
+
+## 24. y 25. - proyectos y diagramas
+
+- [encargo 24 - 25 - ideas y mapa de flujo](https://www.figma.com/board/F3oaifWwQECUJCCBzJKcvf/encargo-24---25---ideas-y-mapa-de-flujo?node-id=0-1&t=40E6ZWR177mzVZcT-1)
