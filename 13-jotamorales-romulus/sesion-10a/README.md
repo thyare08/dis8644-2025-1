@@ -6,6 +6,7 @@
 
 ### Circuito PWM
 
+### video trabajo grupal
 ![CIRCUITO](./archivos/pwm.png)
 
 - Durante la clase realizamos el circuito PWM en grupos de tres personas. Al inicio trabajé solo con Francisco Stephens, ya que Braulio aún no había llegado. Francisco amplió el circuito integrando dos LED de diferentes colores. Más adelante se unieron al grupo Santiago Gaete y Martín Silva. Debíamos usar LED de tres colores: rojo, verde y azul, colocando cada uno en un circuito separado para luego unirlos.
