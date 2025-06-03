@@ -59,7 +59,7 @@ _▼ Sensor Pulso Cardiaco Corazón. Recuperado de: https://afel.cl/products/sen
 
 <br>
 
-2. 
+2. Otra ideda que me gustaría realizar sería un sintetizador más complejo que trabaje con plantas para crear pistas de música.
 
 <br>
 
