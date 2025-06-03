@@ -43,13 +43,13 @@ sin interrumpir el trabajo que se está realizando.
 # 1
 | ctdad  | componente   | especificación |   |   |
 |--------|--------------|----------------|---|---|
-| 1      | Sensor PIR   | HC-SR501       |   |   |
+| 1      | Sensor PIR   |  
 | 1      | Circuito 555 | NE555          |   |   |
 | 1      | LED          | Variado        |   |   |
 | 1      | Transistor   |                |   |   |
-| 1      | Resistencia  | 1k             |   |   |
-| 1      | Resistencia  | 10k            |   |   |
-| 1      | Condensador  | 10uf           |   |   |
+| 1      | Resistencia  |                |   |   |
+| 1      | Resistencia  |                |   |   |
+| 1      | Condensador  |                |   |   |
 | 1      | Proto        | Estándar       |   |   |
 | Varios | Cables       |                |   |   |
 | 1      | BAT          | 9V             |   |   |
@@ -73,10 +73,10 @@ Con el movimiento, mientras no haya movimiento, las luces se mantendrán apagada
 | 1      | Chip 555    | NE555          |   |   |
 | 1      | Relé        | 5v             |   |   |
 | 1      | Transistor  |                |   |   |
-| 1      | Resistencia | 100k           |   |   |
-| 1      | Resistencia | 1k             |   |   |
-| 1      | Resistencia | 10k            |   |   |
-| 1      | Condensador | 10uf           |   |   |
+| 1      | Resistencia |                |   |   |
+| 1      | Resistencia |                |   |   |
+| 1      | Resistencia |                |   |   |
+| 1      | Condensador |                |   |   |
 | 1      | Diodo       |                |   |   |
 | Varios | Cables      |                |   |   |
 | 1      | BAT         | 9V             |   |   |
@@ -97,11 +97,11 @@ El circuito puede ser automático, sin intervención de la persona.
 | ctdad | componente            | especificación |   |   |
 |-------|-----------------------|----------------|---|---|
 | 1     | Chip 555              | NE555          |   |   |
-| 1     | Sensor de temperatura | Termistor NTC  |   |   |
+| 1     | Sensor de temperatura |                |   |   |
 | 1     | Transistor            |                |   |   |
-| 1     | Resistencia           | 100k           |   |   |
-| 1     | Resistencia           | 1k             |   |   |
-| 1     | Resistencia           | 10k            |   |   |
+| 1     | Resistencia           |                |   |   |
+| 1     | Resistencia           |                |   |   |
+| 1     | Resistencia           |                |   |   |
 | 1     | Diodo                 |                |   |   |
 | 1     | Motor                 |                |   |   |
 | 1     | BAT                   | 9V             |   |   |
