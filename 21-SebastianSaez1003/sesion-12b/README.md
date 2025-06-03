@@ -108,6 +108,7 @@ https://www.decathlon.cl/p/11778-17684-clip-adaptable-a-lentes-opticos-mh-otg-12
 https://www.chilelentes.cl/lentes-opticos-de-seguridad-pegaso-duplex-multifocal
 
 ## encargo-25
+
 <img src="./sesion-12b/archivos/mapa-flujo-canicas.png" alt="Flujo de la primera propuesta con la canica"/>
 
 <img src="./sesion-12b/archivos/mapa-flujo-reenfoque.png" alt="Flujo de la primera propuesta con la canica"/>
