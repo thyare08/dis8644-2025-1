@@ -120,6 +120,7 @@
 - describir 3 proyectos que quieran hacer de forma individual
 - ordenar por preferencia o interés
 - buscar chips distintos a los que hemos visto
+- ¿para qué es? ¿qué sentimiento quiero generar en otra persona? presición o para burlarse ¿es irónico? ¿práctico, especulativo, performático?
 
 ### 01 "no estoy"
 
@@ -127,11 +128,18 @@ una máquina que se apaga sola.
 
 al presionar una palanca se enciende una luz que "despierta" a un brazo que sólo se mueve para volver a apagar la máquina
 
-o que la persona mueva la palanca que haga encender una luz blanca (aburrido), sale un bracito que mueve otra palanca y aparecen luces de colores desordenadas como si fuera una fiesta (junio)
+o que la persona mueva la palanca que haga encender una luz blanca (aburrido), sale un bracito que mueve otra palanca y aparecen luces de colores desordenadas como si fuera una fiesta
+
+
+ya existe - si lo quiero usar puedo hacer una modificación muy buena al que ya existe
 
 ### 02 sonido por presión
 
 una pelota antiestrés que al apretarla reproduce distintos sonidos dependiendo de la presión que se ejerce. 
+
+genera incomodidad
+
+en vez de una pelota, aarón dijo que podría ser un puff que cuando te sientes, suena, se le pueden poner hartos sensores de presión
 
 ### 03 sensibilidad ante el sonido
 
@@ -141,7 +149,7 @@ una máquina que vibra y hace encender y apagar luces de forma caótica cuando r
 
 - dibujar diagrama de comportamiento, flujos de interacción - caja negra - no especificar los chips - procesos de manera especultiva - ¿cuánto tiempo se usará?¿que encendidos y apagados tiene?¿cómo se interactúan?
 
-### 01 "no estoy"
+### 01 "no estoy" 
 
 <img src="./archivos/noEstoy.jpg" alt="diagrama 'no estoy'" style="width:300px;">
 
@@ -152,6 +160,8 @@ se enciende con la palanca, la cual enciende una luz y activa un servo motor que
 <img src="./archivos/sonidoPresion.jpg" alt="diagrama 'soniod por presión'" style="width:300px;">
 
 el sensor de fuerza recibe presión y la envía como señal eléctrica al circuito integrado, el cual la recibe, ,la filtra y la envía al parlante que reproduce la señal en sonido. el circuito está funcionando sólo cuando se presiona el sensor.
+
+falsa seguridad, te dicen que te va a calmar, pero en realidad te estresa más
 
 ### 03 sensibilidad ante el sonido
 
