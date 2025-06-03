@@ -62,10 +62,7 @@ _la intencidad depende de su tamaño (en pulgadas), de su potencia (en watt) y d
 
 Describir de forma textual 3 proyectos de máquinas electrónicas que quieran hacer de forma individual, ordenar por preferencia o interés de que sea desarrollado.
 
-1. lámpara interactiva
-
-lámpara que con sensor de movimiento se encienda y se apague y que pueda cambiar su tipo de luz.
-
+1. lámpara interactiva -> lámpara que con sensor de movimiento se encienda y se apague y que pueda cambiar su tipo de luz.
 2. 
 3. 
 ## Encargo 25
