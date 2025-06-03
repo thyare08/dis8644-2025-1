@@ -18,6 +18,8 @@ consiste es un sistema de motores que llevan los pixeles(canicas plásticas) has
 
 en proceso creativo: se baraja la opción de añadir un sección que sea capaz de diferenciar las canicas y sortearlas por color. 
 
+![flujo gravity bit](./archivos/12b-gravityByte.png)
+
 #### interfaz
 
 la interfaz se compone de 4 botones, cada uno asociado a un color. el usuario deberá presionar los botonoes en un orden predeterminado para lograr representarla imagen deseada.
@@ -57,6 +59,8 @@ estudiantes, trabajadores de oficina, gente con afinidad por el outdoor.
 la amplificación de sonido se produce gracias a la forma cónica por donde pasa el sonido.
 
 el dispositivo cuenta con un micrófono, con el cual capta el sonido y en base a este genera distintas interacciones de los leds.
+
+![flujo vAso](./archivos/12b-vaso.png)
 
 #### interfaz
 
@@ -99,6 +103,8 @@ aficionados a la música, gente aprendiendo sobre música, niñes.
 #### funcionamiento técnico
 
 el dispositivo tiene 5 sonidos configurados, los cuales pueden sonar simultáneamente. éstos pueden ser manipulados por el usuario mediante la interfaz. 
+
+![flujo pf.ts.k](./archivos/12b-pftsk.png)
 
 #### interfaz
 
