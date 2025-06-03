@@ -46,6 +46,11 @@ Video para miniatura electromagnética - Javier Bustos: https://www.youtube.com/
 
 ![1](https://github.com/duckusu/dis8644-2025-1/blob/main/23-duckusu/sesion-12b/archivos/1.jpg)
 
+- Ventilador de PCB con LEDs
+- Consiste en generar una especie de ventilador, donde las aspas corresponden a la PCB desarrollada con el propósito de girar en base al "mini motor" el cual estaría insertado en el centro de la aspa y fijado con soldadura para que pueda girar sin problema, también posee una impresión 3D como soporte (aunque no quiero usar mucho filamento).
+- También se considera la idea de usar LEDs en la PCB y una pared de acrílico en frente de este para que el color de las luces se mezclé y, a su vez, que **TAMBIÉN** se **DESTRUYA** el propósito del objeto como ventilador.
+
+
 ### Idea 2
 
 ![2](https://github.com/duckusu/dis8644-2025-1/blob/main/23-duckusu/sesion-12b/archivos/2.jpg)
