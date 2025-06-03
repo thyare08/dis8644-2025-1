@@ -1,6 +1,6 @@
 # sesión-01a
 
-## trabajo en clase
+## trabajo en clase / Martes
 
 ### conociendo el taller máquinas electrónicas
 
@@ -12,6 +12,7 @@
 - referentes varios de las artes electronicas
 
 ![foto6](https://github.com/user-attachments/assets/bf64df51-610b-4e25-8dde-08d56e7d7d57)
+
 ![foto7](https://github.com/user-attachments/assets/2f946879-bd3c-496a-9e08-25af20795c02)
 
 ## Encargo

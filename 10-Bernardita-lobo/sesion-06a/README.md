@@ -1,6 +1,6 @@
 # sesion-06a
 
-## Trabajo en clase
+## Trabajo en clase / Martes 15 de Abril
 
 ### Proyecto-01
 

@@ -15,17 +15,11 @@ Secuencia:
 - Dibujar cables con **"w"**
 - Asignar huellas en **panel de control superior**
 
-<div align="center">
-  <img height="100%" src="https://media.discordapp.net/attachments/1248658110625742862/1364254104355999806/clase_22-04.jpg?ex=68090025&is=6807aea5&hm=09b1d950a38ee900608d25b6e61908ed70edc19d4128b6128da450a70b5d8ea2&=&format=webp&width=1964&height=1104"  />
-</div>
+![datos](https://github.com/duckusu/dis8644-2025-1/blob/main/23-duckusu/sesion-07a/archivos/datos.jpg)
 
-<div align="center">
-  <img height="100%" src="https://media.discordapp.net/attachments/1248658110625742862/1364243893784285224/image.png?ex=6808f6a2&is=6807a522&hm=dfb5868f92714ab6609c7930cfd929f893887987934c85b92fb3ceff9a557bc6&=&format=webp&quality=lossless&width=1745&height=1109"  />
-</div>
+![kicad1](https://github.com/duckusu/dis8644-2025-1/blob/main/23-duckusu/sesion-07a/archivos/kicad1.png)
 
-<div align="center">
-  <img height="700" src="https://media.discordapp.net/attachments/1248658110625742862/1364262795817783396/image.png?ex=6809083d&is=6807b6bd&hm=529f636e4329453ef37bc8b47698b16e9e054c708f30ee53e8564e6479bfd155&=&format=webp&quality=lossless&width=825&height=440"  />
-</div>
+![kicad2](https://github.com/duckusu/dis8644-2025-1/blob/main/23-duckusu/sesion-07a/archivos/kicad2.png)
 
 ###
 
@@ -41,13 +35,9 @@ Parte de PCB del esquema en Kicad
 
 **IMPORTANTE: pulsar los siguientes botones ------> alt+3** -------> Visor 3D
 
-<div align="center">
-  <img height="100%" src="https://media.discordapp.net/attachments/1248658110625742862/1364264995646472373/image.png?ex=68090a49&is=6807b8c9&hm=54ccec90a083f1b0cef91ef701be2fa14d2f62336a983894917c21eb74f02a30&=&format=webp&quality=lossless&width=1314&height=1260"  />
-</div>
+![pcb](https://github.com/duckusu/dis8644-2025-1/blob/main/23-duckusu/sesion-07a/archivos/pcb.png)
 
-<div align="center">
-  <img height="100%" src="https://media.discordapp.net/attachments/1248658110625742862/1364265080002183310/image.png?ex=68090a5d&is=6807b8dd&hm=9ebb95da03b0b3da83979490c15815babce5e748140152c8a38acc44fdbeaa6e&=&format=webp&quality=lossless&width=1970&height=1104"  />
-</div>
+![3d](https://github.com/duckusu/dis8644-2025-1/blob/main/23-duckusu/sesion-07a/archivos/3d.png)
 
 Por alguna razón el programa solo registró un solo componente del otro esquema, voy a tener que revisar que pasó (lo mas probable que fuera de la parte "asignar huellas").
 
