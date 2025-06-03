@@ -23,7 +23,7 @@ Este proyecto consiste en la construcción de un semáforo electrónico dividido
 
 Se construyó un circuito que utiliza un LDR para detectar la presencia o ausencia de luz. La señal del LDR es amplificada por el LM324, y mediante el ajuste del potenciómetro, se establece el umbral de activación del LED. Cuando la luz sobre el LDR disminuye (por ejemplo, al pasar una sombra), el LED se enciende, indicando la detección de oscuridad.
 
-## ⏱️ Etapa 2: Generador de Pulso con Temporizador 555
+## Etapa 2: Generador de Pulso con Temporizador 555
 
 **Objetivo:** Generar una señal de reloj (clock) para controlar la secuencia del semáforo.
 
@@ -79,11 +79,11 @@ Al combinar las tres etapas, se obtiene un sistema de semáforo electrónico que
 
 ##  Componentes Utilizados
 
-- [Amplificador Operacional LM324 / LM324N](https://chatgpt.com/?hints=search&q=Amplificador+Operacional+LM324+%2F+LM324N+%7C+Env%C3%ADo+a+todo+Chile)
-- [Circuito Integrado Timer 555](https://chatgpt.com/?hints=search&q=Circuito+Integrado+Timer+555)
-- [LDR fotoresistencia resistencia fotosensible sensor de luz](https://chatgpt.com/?hints=search&q=LDR+fotoresistencia+resistencia+fotosensible+sensor+de+luz)
-- [Pack 5pcs Ic Decodificador Cd4017be Cd4017 Cmos [ Max ]](https://chatgpt.com/?hints=search&q=Pack+5pcs+Ic+Decodificador+Cd4017be+Cd4017+Cmos+%5B+Max+%5D)
-- [Potenciómetro 10k](https://chatgpt.com/?hints=search&q=Potenci%C3%B3metro+10k)
+- Amplificador Operacional LM324 / LM324N
+- Circuito Integrado Timer 555
+- LDR fotoresistencia resistencia fotosensible sensor de luz
+- Pack 5pcs Ic Decodificador Cd4017be Cd4017 Cmos 
+- Potenciómetro 10k
 
 ---
 
