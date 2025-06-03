@@ -89,11 +89,11 @@
 - se usan como amplificador, switch, inversor o compuerta lógic
 
 - tipos:
-    - bipolares 
+    - bipolares
         - ej: 2n2222 (para que se separe electricamente el pin 3)
     - mosfet
         - ej:  IRFZ44n
-- [transmisor modo inversor](https://es.wikipedia.org/wiki/Puerta_NOT) 
+- [transmisor modo inversor](https://es.wikipedia.org/wiki/Puerta_NOT)
 
 ## sonido
 
@@ -120,6 +120,20 @@
 - describir 3 proyectos que quieran hacer de forma individual
 - ordenar por preferencia o interés
 - buscar chips distintos a los que hemos visto
+
+### 01 "no estoy"
+
+una máquina que se paga sola. al presionar un botón o palanca de encendido, se prende una luz que "despierta" a un brazo que sólo se mueve para volver a apagar la máquina
+
+o que la persona mueva una palanca que haga encender una luz blanca, sale un bracito que mueve otra palanca y aparecen luces de colores (junio)
+
+### 02 sonido a presión
+
+una máquina que al apretarla repoduce distintos sonidos dependiendo de la presión que se ejerce
+
+### 03 sensibilidad ante el sonido
+
+una máquina que vibra y hace encender y apagar luces de forma caótica cuando recibe una señal de sonido
 
 # encargo 02
 
