@@ -125,7 +125,7 @@ la interfaz está compuesta por 5 secciones, cada una  corresponde a un "instrum
 
 ## extras
 
-![croquis exploración](./archivos/12bcroquis.png)
+![croquis exploración](./archivos/12b-croquis.png)
 
 - [figma donde se ve más proceso](https://www.figma.com/board/2tv4jx75qGZa6Gua2UCVer/taller.maq.electr?node-id=0-1&t=BGeXfCc5m7jDF3CI-1 "link a mi figma").
 
