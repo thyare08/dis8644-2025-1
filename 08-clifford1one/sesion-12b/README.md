@@ -36,6 +36,6 @@ motores, sensor de color, botones, y más.
   
 #### referencias
 
-[![video de referencias pixel art machine](![image](![image](https://github.com/user-attachments/assets/d81497a5-768e-4ef2-8fb1-7cfdb3661b56))](https://www.youtube.com/watch?v=w1ks0Vy98KI&t=4s "pixel art machine")
+[![video de referencias pixel art machine](![image](https://github.com/user-attachments/assets/d81497a5-768e-4ef2-8fb1-7cfdb3661b56))](https://www.youtube.com/watch?v=w1ks0Vy98KI&t=4s "pixel art machine")
 
 
