@@ -103,20 +103,27 @@ Muy probablemente requerirán transistores.
 
 ## encargo-24
 
-1.  **Dilo sin decirlo**: Dispositivo que genere sonido o ruido al momento en que una persona tiene contacto con distintas cosas, ya sea con otra persona, el sonido al tocar algo que le guste al usuario, etc. Personalemte me cuesta mucho expresarme verbalmente y hablar en general, por lo que este dispositivo dejaría en evidencia a través de sonido, que es lo que siento sobre distintas cosas, sin tener que usar palabras.
-   
-2.  **Micrófono**: Amplificador de sonido usando un piezo eléctrico y distintos objetos, para ser usado como micrófono (de voz), o para escuchar el sonido de diferentes sujetos de experimentación. Se prende a través de un switch on/off. Qué tenga una forma no convencional (que tenga forma de teléfono, gato, dentadura de abuela, etc). Además se podría incluir algún potenciometro, que cambie las tonalidades de la voz.
-   
-3.  **omnichord de bolsillo**: Tendrá un harp sensor o placa sensible al contacto, además de potenciomentros que permitan variar los ritmos, tendrá una salida de audio para poder amplificar su sonido. Su tamaño será de bolsillo 8ver dimensiones), para poder llevarlo facilmente a todos lados, y para poder decir "mira lo que tengo" y hacer un concierto de la nada. Su forma será de alguna cosa que aún no se me ocurre.
+1.  **Dilo sin decirlo**: 
+Dispositivo que traduce el contacto físico en sonido, funcionando como una extensión emocional del cuerpo. A través de la interacción con personas u objetos, el usuario puede expresar lo que siente sin necesidad de usar palabras. El sonido se convierte en un lenguaje alternativo, evidenciando emociones y afinidades de manera sutil pero potente. Es una forma de comunicación sensorial pensada especialmente para quienes encuentran dificultad en la expresión verbal.
 
+2.  **¿Micrófono?**: 
+Este proyecto explora la amplificación del sonido mediante un sensor piezoeléctrico, transformando objetos inesperados (teléfono, gato, dentadura de abuela, etc), en micrófonos funcionales. A través de una estética no convencional, se invita a una interacción directa con el dispositivo, fomentando la curiosidad, el juego y la experimentación. La inclusión de un potenciómetro permite la modulación de la voz, añadiendo una capa de exploración sonora que convierte la escucha en una experiencia activa y creativa.
+
+3.  **Omnichord de bolsillo**: 
+Este omnichord de bolsillo es un instrumento portátil diseñado para la expresión sonora en cualquier contexto. Mediante una interfaz táctil sensible o harp sensor, y potenciómetros para controlar y variar ritmos y tonos; tendrá una salida de audio para poder amplificar su sonido. Tendrá un tamaño compacto que permita su portabilidad, para poder decir "mira lo que tengo" y hacer un concierto de la nada.
    
 ## encargo-24
+Dilo sin decirlo:
 
+persona con dificultades para expresarse ---> toma el dispositivo ---> se genera una interacción entre el sujeto y x cosa ---> el dispositivo genera una frecuencia de sonido producto de la interacción ---> se evidencia y expone una emoción sin decirla .
 
+¿Micrófono?:
 
+existe un objeto poco convencional ---> sujeto toma el objeto dandose cuenta de que es un micrófono ---> se creea una interacción ya sea hablar, cantar, gritar, o amplificando sonidos de cualquier cosa el "micrófono" ---> se alteran las frecuencias sonoras a través de potenciomentros.
 
+Omnichord de bolsillo:
 
-
+persona saca de su bolsillo el instrumento portátil ---> comienza a tocar el instrumento a través de un rasgeo en la placa de contacto ---> se cambian las frecuencias a través de botones ---> la persona da un concierto gratis solo por romper el hielo.
 
 
 
