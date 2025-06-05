@@ -9,11 +9,17 @@
 
 **Programación procedural** y **Programación orientada a objetos** > "clase" (variables o propiedades) instancias, métodos, funciones. Enemigo es una instancia (tipo?: debilidad o fortaleza, tabla de tipos como Pokémon).
 
+La programación procedimental se centra en procedimientos o funciones, mientras que la orientada a objetos se enfoca en objetos y sus interacciones.
+
+**CLASES y OBJETOS.**
+
 La "_clase_" posee instancias.
 
 Dimensión proyectual. **OOO** -> Propiedades y métodos.
 
 **OOO**: ontología orientada a objetos. Todo es objeto. NO sujeto objeto. Por Graham Harman
+
+>  La ontología orientada a objetos (OOO) es una filosofía que plantea que todos los objetos, independientemente de su naturaleza (físicos o virtuales, grandes o pequeños), tienen el mismo estatus ontológico. No le da prioridad a la percepción humana, ni a las relaciones entre objetos, y sostiene que los objetos existen independientemente de la percepción humana.
 
 >  Class: car
 >  Objects: Mercedes, Bmw, Audi.
@@ -29,7 +35,7 @@ OOP tiene propiedades y método, no existe una tercera forma para explicar esto,
 
 objetos tienen relaciones entre sí, tienen una interfaz y una implementación.
 
--  Estética, metafísica filosofía primera.
+-  Estética, metafísica filosofía primera. Aristóteles.
 
 Componentes: R, C, D IC (integrated circuit), POT (potenciómetro), Transistores, Batería, PS (power supply, fuente de poder), +9V, GND, LED, LED RGB. OP-AM (multiplicador de voltaje), **MÓDULO** Relé, LDR, protoboard (lienzo), perfboard, PCB, soldadura, estaño (Sn), (Cu) cobre (Si) silicio (Au) oro.
 
@@ -49,16 +55,24 @@ Aplicaciones: APC, Brillo LED, ON/OFF Ampolleta, Sinte R<sub>exp</sub> (udpudu).
 
 ### **Objetivos hoy**:
 
-Controlar motor tipo DC. 
+Controlar motor tipo DC.
+
+![motor-tipo-dc](./archivos/motor-tipo-dc.jpg)
 
 Armar circuito PWM.
 
 -  Motor convierte electricidad en movimiento, según el sentido + - será el sentido del giro del motor.
--  MOTOR DC -> electricidad movimiento, Miliamperes.
--  Motor necesita muchac orriente. MOTOR 600mA (I) requiere amp.
--  IRFZ44n -> transistor
--  Transistores : Amplificador pequeña señal genera la entrada para algo enorme, es como un diodo controlado, tiene 3 partes.
--  Lógica de las CPU, transistores miles de transistores.
+-  MOTOR DC -> electricidad como movimiento, Miliamperes.
+-  Importante: **Motor necesita mucha corriente**. MOTOR 600mA (I) requiere amp.
+
+![transitorIRFZ44n](./archivos/IRFZ44N.jpg)
+
+**IRFZ44n -> transistor**
+
+-  **Transistores:** Amplificador pequeña señal genera la entrada para algo enorme, es como un diodo controlado, tiene 3 partes.
+
+ Ejemplo:  Lógica de las CPU, transistores miles de transistores.
+
 -  Se puede diseñar un chip por dentro, pueden ser grandes o millones de transistores. Base de la implementación de la electrónica moderna.
 -  GDS (gate puerta, drain drenaje, source fuente). Transistor. 1 2 3, G, D, S.
 
@@ -74,26 +88,36 @@ Muchos dispositivos electrónicos utilizan PWM
 
 Motor DC de 6V (el que tenemos)
 
+![motorreductor](./archivos/motorreductor.jpg)
+
 Motorreductor DC 6V 3RPM (revoluciones por minuto) en 1 minuto da 3 vueltas
+
+>  Unidad compacta que combina un motor y un reductor de velocidad en una sola pieza. Su principal función es reducir la velocidad de rotación del motor mientras aumenta el par (**torque**) de salida. Esto lo convierte en una solución eficiente para aplicaciones que requieren movimiento preciso y control de velocidad.
 
 AFEL Baquedano Salvador 3er piso tienda.
 
+![motor-de-12VC-DC](./archivos/motor-dc12v.webp)
+
 Motor 12V DC
 
--  Motor Vibrador PWM Switch DC
+![motor-vibrador](./archivos/motor-vibrador.jpg)
+
+-  Motor Vibrador PWM Switch DC (similar a de los joysticks de Playstation).
 
 Fuente de poder indica cuanto voltaje da siempre y el máximo cualquier cosa entre A y B.
 
-En una casa cuando se excede los miliamperes se desconecta. Por eso se corta la luz con tanta saturación.
+En una casa cuando se excede los miliamperes se desconecta. **Por eso se corta la luz** con tanta saturación.
 
 Vibrador es un motor.
 
 Zimoun
 
 -  Regleta elétrica, evita usar huincha aislante.
--  Ventiladores de tipo DC, ventiladores de computadores.
+-  Ventiladores de tipo DC, **ventiladores de computadores**.
 -  Ventiladores USB.
 
-Potenciómetro: dos resistencias variables.
+¡La maravilla de los motores!
+
+Potenciómetro: en realidad son dos resistencias variables.
 
 bastl-instruments.com
