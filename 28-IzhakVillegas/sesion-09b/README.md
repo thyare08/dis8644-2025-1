@@ -4,7 +4,7 @@
 
 ### chip PAM8403
 
-![PAM8403](.archivos/amplificador-PAM8403.jpg)
+![PAM8403](./archivos/amplificador-PAM8403.jpg)
 
 El PAM8403 es un amplificador de audio dual de 3W por cada una de sus salidas, correspondientes a los bafles derecho e izquierdo, este amplificador es de clase D. Ofrece baja THD N, lo que le permite lograr una reproducción de sonido de alta calidad. **AMPLIFICA SEÑALES DE AUDIO**.
 
