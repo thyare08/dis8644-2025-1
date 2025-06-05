@@ -1,44 +1,38 @@
 # Manual de uso  para el volca modular
 
-##
 
-[Contexto](./README.md/#contexto)
 
 ## Contexto
 
 Un sintetizador es un instrumento musical electrónico que **genera señales eléctricas**, las cuales son **convertidas a sonido audible** a través de un altavoz.
 
--c: sonido perceptible-
-
 Los sintetizadores **generan y procesan** señales, por lo que es capaz de generar un rango mucho más variado de sonidos que un instrumento tradicional. Un sintetizador tiene una **serie de procesos internos** los cuales dan como resultado distintos sonidos.
 
 ## volca modular
 
-Volca Modular es un sintetizador **semi-modular**, esto quiere decir que permite al usuario manipular el **orden y presencia** de los procesos internos del sistema.
+volca modular es un sintetizador **semi-modular**, esto quiere decir que permite al usuario manipular el **orden, función y presencia** de los procesos internos del sistema.
 
--c: presencia-
+Dentro del volca modular existen 8 módulos independientes con funciones específicas que el usuario cuyo orden y efecto puede ser manipulado para lograr distintos sonidos.
 
-Dentro del volca modular existen 8 módulos independientes con funciones específicas que el usuario puede manipular para lograr distintos sonidos.
+### cuidado y mantenimiento
 
-### precauciones
+- Existen varios factores que pueden acelerar el deterioro del volca modular: exposición a la luz del sol, temperaturas extremas, exceso de polvo/suciedad, vibración excesiva, campos magnéticos potentes.
 
-Los osciladores del volca modular están fabricados con circuitos analógicos discretos, por lo que su afinación puede variar dependiendo de factores ambientales como la temperatura.
+- Los osciladores del volca modular están fabricados con circuitos analógicos discretos, por lo que su afinación puede variar dependiendo de factores ambientales como la temperatura.
 
 Para afinar usar *FUNC* + *RATIO knob*
 
-Factores que pueden acelerar el deterioro del volca modular:
-Exposición a la luz del sol, temperaturas extremas, exceso de polvo/suciedad, vibración excesiva, campos magnéticos potentes.
 
 ## Interfaz
 
 ![Diagrama de la interfaz del volca modular divido en 4 zonas](images/vm-intfaz-diagrama.png)
 
-### setup
+### 1. setup
 
 Compuesto por el **botón de encendido**, la entrada a corriente y **CLOCK knob.** Este último controla la velocidad del secuenciador.
 
 
-### módulos
+### 2. módulos del volca modular
 
 8 módulos:
 
@@ -51,17 +45,17 @@ Compuesto por el **botón de encendido**, la entrada a corriente y **CLOCK knob.
 - utility
 - space out
 
-ver más en la sección Módulos
+ver más en la sección [Módulos](./README.md/#Módulos)
 
-### secuenciador
-
-el secuenciador *agregar info
+### 3. secuenciador
 
 el secuenciador *agregar info
 
 el secuenciador *agregar info
 
-### conexiones
+el secuenciador *agregar info
+
+### 4. conexiones
 
 el volca modular contiene una serie de entradas y salidas mini jack
 
@@ -327,7 +321,7 @@ las funciones avanzadas se desbloquean con el uso de *FUNC*
 para ver el resto de funciones especiales visitar el ["manual de uso del volca modular "](https://cdn.korg.com/jp/support/download/files/8a84fea394a4519c822e68f28ac5ab3b.pdf)
 
 
-## Refrenecias
+## Referencias
 
 - [página del volca modular](https://www.korg.com/cl/products/dj/volca_modular/specifications.php)
 

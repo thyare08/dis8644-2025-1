@@ -37,7 +37,14 @@ Pulse Width Modulation ( Modulación por ancho de pulso)( variación astable)
 
 ![Captura de pantalla 2025-05-09 115207](https://github.com/user-attachments/assets/83119fc9-b0ac-455a-a2af-3ee5e1bccd0a)
 
-## encargo-19
+## Encargo 18
+
+![encargo18](https://github.com/user-attachments/assets/ab459d7e-4728-4c14-bde3-1c2e9b31ad44)
+
+![encargo18 (2)](https://github.com/user-attachments/assets/d464a36b-7914-497f-8028-64fcc70c3ef8)
+
+
+## Encargo-19
 
 laurie anderson 
 

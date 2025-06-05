@@ -41,6 +41,52 @@ BOM para armar UDPudu.
 |Parlante    |8ohm    |                         |1  |                  |
 |J1,J3       |CAIMAN  |Cables caimán            |2  |                  |
 
-## Encargo 22 y 23: Documentación textual y visual del ensamblado de la PCB UDPudu
+## Encargo 22: Documentación textual del ensamblado de la placa PBC UDPudu
 
-1<qQ
+ 1. Como primer paso tuvimos la entrega de las placas, en dónde hicimos un reconocimiento general de la placa y un posterior documentado.
+ 2. En el paso dos tenemos la extracción del BOM del UDPudu, y su conversión en hojas de cálculo para obtener una versión más sintetizada.
+ 3. Para el tercer paso busqué los componentes necesarios para poder ensamblar nuestra PCB. Considerar que en este momento aún no  la tenía la totalidad de los materiales.
+ 4. Ya cuando estuve segura de la cantidad de componentes inicial pude comenzar a preparar mi área de trabajo; preparar cautín y accesorios, además de la placa.
+ 5. En el quinto paso comenzamos con el **socket de 8 pines**, que se ubica en la parte central de la placa.
+ 6. Luego del socket me puse a soldar los **resistores** necesarios, y que son tres.
+ 7. Ya habiendo puesto los resistores de 1k ohm continué con el **diodo** número 1.
+ 8. Con el D1 ya ubicado y soldado, seguí con los **condensadores**, tanto los cerámicos como los electrolíticos.
+
+Para ser sincera hubo una pausa de como 2 clases porque no volvímos a soldar, y yo no tengo cautín personal. Continuamos en la 11b.
+
+ 9. Primeramente como segunda sesión de soldado en la placa recibí los componentes faltantes para soldar a la placa (switch, terminal block).
+ 10. Como paso siguiente volví a juntar los componentes necesarios para terminar la placa.
+ 11. Utilicé un cautín que ya había sido preparado con anterioridad, el cual ya tenía su pañito húmedo y una base adecuada para soldar.
+ 12. Ya lista y segura de los componentes, soldé los **LEDs**, que yo elegí blancos, ambos.
+ 13. Después de los LED continué con con los **terminal block**, para los que pregunté para asegurarme de que estuviera del lado correcto.
+ 14. Finalmente soldé el **switch** como componente final.
+
+## Encargo 23: Documentación visual del ensamblado de la PCB UDPudu
+
+Dentro de las fotos que tomé olvidé ciertas partes del proceso, así que hay ciertas lagunas entre algunas de ellas.
+
+Y también incluiré en medio, porque fue cuando las tomé, fotos de la placa con fondo amarillo.
+
+Foto de la placa vacía.
+
+Foto de los componentes ordenados.
+
+Foto soldadura parte posterior del socket de 8 pines.
+
+Video de la soldadura del socket de 8 pines.
+
+Video de mi soldando el socket de 8 pines.
+
+Foto de la placa con el socket y los resistores.
+
+Fotos mini sesión fotográfica en amarillo.
+
+Foto favorita de la mimi sesión.
+
+Foto detalle terminal block, LED y condensador electrolítico.
+
+Foto placa terminada con todos sus componentes superior.
+
+Foto placa terminada con todos sus componentes posterior.
+
+Fotos y vídeos de mi autoría.

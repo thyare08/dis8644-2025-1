@@ -7,15 +7,15 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "U"
-			(at 0 0 0)
+			(at 0 1.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" ""
-			(at 0 0 0)
+		(property "Value" "555"
+			(at 0 -0.762 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23,7 +23,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_Socket_LongPads"
-			(at 0 0 0)
+			(at 0.508 2.286 0)
 			(effects
 				(font
 					(size 1.27 1.27)
