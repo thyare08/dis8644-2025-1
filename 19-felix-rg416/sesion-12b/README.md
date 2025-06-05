@@ -135,6 +135,8 @@ ya existe - si lo quiero usar puedo hacer una modificación muy buena al que ya 
 
 ### 02 sonido por presión
 
+se basa en un objeto comúnmente conocido como antiestrés (pelota u otro objeto presionable), modificado para que, al ser presionado, genere sonidos caóticos, desagradables y "estresantes". la idea es generar incomodidad y sorpresa en el usuario. es un objeto irónico y burlesco, uno espera desestresarse y termina estresándose más.
+
 una pelota antiestrés que al apretarla reproduce distintos sonidos dependiendo de la presión que se ejerce. 
 
 genera incomodidad
