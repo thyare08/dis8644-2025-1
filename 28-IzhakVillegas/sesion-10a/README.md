@@ -32,6 +32,10 @@ Condiciones
 
 ### chip LM324 (Amplificador operacional, OP-AMP u Operational Amplifiers)
 
+El LM324 es un amplificador operacional cuádruple, que significa que contiene cuatro amplificadores operacionales individuales en un solo paquete. Es diseñado para operar desde una sola fuente de alimentación y ofrece alta ganancia y compensación de frecuencia interna.
+
+![LM324-IC](./archivos/LM324-IC-Pinout.jpg)
+
 tiene 14 patas
 
 - Estadios históricos de la luz electrónica:
@@ -62,12 +66,20 @@ Comparadores.
 
 LM741 (tiene 1 OP-AMP)
 
+![LM741-IC](./archivos/LM471-IC-Pinout.jpg)
+
 Resonador (RLC) bobina
 
 Voltaje de batería es campo de posibilidades, lienzo electrónico, determina donde empieza y dónde termina. En nuestro caso no puede ser mayor que 9V o menor que 0 porque no tenemos algo mayor o menor que esto.
 
-Divisor de voltaje DIV de Voltaje
+### **Divisor de voltaje DIV de Voltaje**
+
+![divisor-de-voltaje](./archivos/divisor-de-voltaje.webp)
+
+-  Circuito simple que utiliza resistencias en serie para reducir un voltaje de entrada a un valor de salida más bajo, generalmente una fracción del voltaje de entrada. Es útil para obtener voltajes de referencia, para calibrar sensores, o para medir altos voltajes utilizando un voltímetro con un rango de medición limitado.
+
 Si hay dos resistencias Vo = Vx R1/R1+R2
+
 9V y 0V cuál es Vo?? se calcula como dos pines de un potenciómetro, Voltaje de la mitad.
 
 Voltaje de dos terminales como una batería.
@@ -76,11 +88,20 @@ Umbral de potenciómetro, decide quiénes pasan y quiénes no.
 
 Aproximación de voltaje entre resistencias con base al LDR (fotorresistor).
 
-La distorsión es un comparador a nivel de audio
+La distorsión es un comparador a nivel de audio.
+-  Buffer.
 
-Buffer. Boss DS-1 Distortion
+>  **Boss DS-1 Distortion**
+El BOSS DS-1 es un pedal de distorsión para guitarra eléctrica, famoso por su sonido clásico y agresivo. Fue el primer pedal de distorsión de la marca BOSS, lanzado en 1978, y desde entonces se ha convertido en un ícono en el mundo de la guitarra.
+-  **Artistas que han utilizado el Boss DS-1:**  Joe Satriani. John Frusciante (Red Hot Chili Peppers) Mike McCready (Pearl Jam) Gary Moore.
 
-Álegra de Boole, funcionan los comparadores, las compuertas son por ejemplo and y or.
+### **Álegra de Boole**, funcionan los comparadores, las compuertas son por ejemplo and y or.
+
+-  El álgebra de Boole es un sistema de lógica matemática que utiliza símbolos para representar operaciones lógicas como **"AND", "OR"** y **"NOT"**. Es esencial en informática y la lógica, permitiendo la representación y simplificación de expresiones lógicas.
+
+![algebra-de-boole](./archivos/algebra-boole.png)
+
+>  Fuente de imagen: https://patriciaemiguel.com/conceptos/2022/11/13/algebra-boole.html
 
 - Abstracciones.
 or gate.
@@ -88,13 +109,17 @@ and o nand gate. el logo de android está basado en esto.
 nmos, cmos.
 Las compuertas son la versión física en el circuito, la programación es en lo digital.
 
-"Si baja la luz lo suficiente se prende una ampolleta".
+>  "Si baja la luz lo suficiente se prende una ampolleta".
 
-Comparadores se pueden hacer con otros componentes, sin embargo, es engorroso.
+Comparadores se pueden hacer con otros componentes, sin embargo, **es engorroso**.
 
-Top down design.
+###  **Top down design.**
 
-Voltaje y corriente es distinto.
+![top-down-design](./archivos/top-down-design.png)
+
+El diseño top-down (de arriba a abajo) es una metodología de diseño que **comienza con una visión general** de alto nivel y luego **divide el problema en componentes más pequeños** y manejables. Este enfoque es común en diversas áreas, incluyendo el diseño de software, ingeniería y gestión. En esencia, se trata de pasar de lo general a lo específico, buscando claridad y organización en el proceso.
+
+**Voltaje y corriente es distinto.**
 
 Detector de sombras.
 
@@ -106,11 +131,16 @@ Detector de sombras.
 
 subir fotos de su propia autoría de pantallas de siete segmentos, y otras variantes que encuentren en su vida cotidiana. les pedimos al menos 3 fotos de distintas pantallas. pueden partir de la base de las que ya subieron hoy a discord. incluir información sobre dónde y cuándo fue capturada la imagen.
 
--  Microondas
+1.  **Microondas**
+
 ![pantalla-7-segmentos1](./archivos/pantalla7-1.jpg)
--  Calculadora
+
+2.  **Calculadora**
+
 ![pantalla-7-segmentos2](./archivos/pantalla7-2.jpg)
--  Reproductor de música
+
+3.  **Reproductor de música**
+
 ![pantalla-7-segmentos3](./archivos/pantalla7-31.jpg)
 ![pantalla-7-segmentos4](./archivos/pantalla7-32.jpg)
 ![pantalla-7-segmentos5](./archivos/pantalla7-33.jpg)
