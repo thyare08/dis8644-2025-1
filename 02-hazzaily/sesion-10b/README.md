@@ -69,9 +69,15 @@ Y también incluiré en medio, porque fue cuando las tomé, fotos de la placa co
 
 Foto de la placa vacía.
 
+![Foto placa UDPudu vacía](./archivos/placa.jpeg)
+
 Foto de los componentes ordenados.
 
+![Foto de los componentes ordenados previo a soldar](./archivos/foto_componentes.jpg)
+
 Foto soldadura parte posterior del socket de 8 pines.
+
+![](./archivos/)
 
 Video de la soldadura del socket de 8 pines.
 
