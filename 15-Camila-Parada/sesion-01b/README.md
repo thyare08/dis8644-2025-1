@@ -1,8 +1,7 @@
-# sesion-01b
-
 <html>
     <body>
-<h1> Apuntes día 2: 14 Marzo 2025 </h1>
+<h1> ⋆₊˚⊹♡ Clase 01b - Github y circuitos ♡⊹˚₊⋆</h1>
+<h4> 14 Marzo 2025 </h4>
         <br>
     <h2> Parte 1: Aprendizaje Github </h2>
         <p> Hoy se enseñó a como poder iniciar sesión en la cuenta de Github, a ver las partes que componen la interface de la cuenta principal, a como crear la copia de un repositorio perteneciente a otra cuenta usando el botón "Fork" (Bifurcación en español). A la par se mostró a como poder editar un archivo desde la copia personal, acto el cual puede modificar el archivo original a través de la herramienta "Pull requests". La ida es poder actualizar los encargos de la clase anterior y subirlos a la carpeta correspondiene según el número de orden de la lista.</p>
@@ -11,7 +10,7 @@
     <p>Sección enfocada en el aprendizaje de los elementos que componen un circuito simple. Para ello se entregaron una serie de herramientas para la exploración en equipos de 3 personas.
     </p>
     <br>
-    <p> Para ello se entregó un kit con los siguientes componentes: </p>
+    <p> Para ello se entregó un kit con varios componentes que fueron puestos a prueba mediante circuitos. Estos serán indicados y descritos más abajo. </p>
 <h2> Registro visual </h2>
        <p>Fotografías de apuntes y resultados obtenidos.</p>
         <br>
@@ -52,8 +51,12 @@
         <li>Buzzer magnetico: también conocido como zumbador, es un transductor electroacústico que se utiliza para generar música simple o como parte de la interfaz de usuario de un objeto (como por ejemplo una alarma, una lavadora, un auto, entre otros). Puede emitir sonido continuo o de forma intermitente, según la señal eléctrica que este reciba. Este buzzer en partícular funciona como un altavoz. Al momento de accionarse la corriente eléctrica pasa por la bobina del electroimán, lo que crea un campo magnético que genera vibraciones entre la lámina de acero y la cubierta.</li>
         </ol>
         <br>
+        Una pregunta curiosa que me surgió fue sobre la histoaria de los leds de color azul. Comenzando por el origen, los "led's" (light-emitting diode, en español diodo emisor de luz) son una fuente de luz que posee dos terminales (una positiva, que permite el paso de la corriente, y una negativa). Estos permiten que la energía circule en una sola dirección, pasando de corriente alterna a continua (tal cuál como lo hace un diodo) y encendiendo el foco, por lo que si se conecta de forma contraria cambia el sentido de la corriente, pero no se genera luz. El primer led de tipo práctico fue creado en 1962, en cuyo caso transmitía luz infrarroja de baja intensidad que no era perceptibles para el ojo humano. Ese mismo año más tarde surgió el primer led que formaba parte del espectro visible, generando luz de color rojo. Ya en 1967 fueron creados los leds verdes, los cuales poseían Fosfato de Galio para generar el color. Pasado mucho tiempo después, en los años 90 se fue desarrollando el led azul. Anteriormente habían existido investigaciones para obtener dicho color, dadas sus propiedades físicas y químicas únicas, como es el caso del Nitruro de galio. Shuji Nakamura fue quien tras años de intentos logró conseguirlo en 1994. Ello ha permitido el desarrollo de pantallas leds, las cuales en la actualidad son indispensables.
+        <br>
     <h2> 2. Encargo 02.1 : Aphex Twin - Come to Daddy </h2>
+        <br>
         <img src="https://cdn-images.dzcdn.net/images/cover/a7eb3f85c6e7b8205032008532cbb7cc/500x500-000000-80-0-0.jpg">
+        <br>
         <p>Este álbum del 1997 cuenta con 8 canciones y tiene una duración aprox. de 33 minutos. Los videos fueron dirigidos por Chris Cunnignham. En este album se usaron ordenadores, sintetizadores de software, generando música a través de voces computerizadas. Originalmente lo temas se distribuyeron en 2 CDs separados: WAP94CD y WAP94CDR, más tarde estas versiones serían reemplazadas por un solo EP: WAP94CDX. El género de este álbum es electrónico IDM (Intelligent dance music) con los estilos Drum n Bass, Experimental, Abstract, Breaks.</p>
         <br>
         <p>¿Cuál es mi canción favorita del álbum?</p>
@@ -63,7 +66,17 @@
         <p>Richard David James es el Dj y productor detrás de esta banda. De origen irlandés y nacionalizado británico. Desde el 1983 que se dedica a la música de forma profesional, y desde los 12 años que comenzó componer. Sus instrumentos suelen ser teclado y sintetizadores (Yamaha DX7/DX100). Estudió ingeniería en.</p>
         <br>  
     <h2> 3. Encargo 02.2 : La historia de Aaron Swartz, el hijo de internet </h2>
+        <br>
         <img src="https://es.gizmodo.com/app/uploads/2014/06/fld9vidyclow6xwhejqk.jpg">
-        <p> Este documental muestra la vida, obra y muerte de Aaron Swarts. Es impactante de ver puesto que nos muestran lo corta que fue su vida. Desde sus más tempranos años fue continuamente aprendiendo en poco tiempo, pudiendo leer con tan solo 3 años. Cuando se le presenta una computadora, su curiosidad crece y se va desenvolviendo mediante programas y códigos. Gracias a sus conocimientos en programación pudo ayudar a desarrollar el lenguaje RSS, el formato Markdown, la fundación y establecimiento de "Creative Commons" y el impulso de Reddit. No le interesaba el dinero ni los bienes. Sus aspiraciones tenían fines políticos, por lo que se salían de los espacios laborales o empresariales. Los computadores y la programación eran como magia, lo que permite que la gente pueda hacer dinero o el bien (que terminaría siendo compartido). Nunca dejó de cuestionarse, de cuestionar el sistema y la sociedad en el cuál seguimos viviendo acualmente, en la que podemos resolver problemas pero no se hacen. Se centró en la política y en liberar las bibliotecas, puesto que el conocimiento de la humanidad se encontraba con la barrera del dinero (ya que se requierre de pagar por el acceso a estos) y los derechos de las personas (cuestionando la desigualdad frente al esfuerzo de algunas personas para tan solo poder comer, mientras que quienes discuten por ello se van haciendo más ricos).</p>
-    </body>
+        <br>
+        <p> Este documental muestra la vida, obra y muerte de Aaron Swarts. Es impactante de ver puesto que nos muestran lo corta que fue su vida. Desde sus más tempranos años fue continuamente aprendiendo en poco tiempo, pudiendo leer con tan solo 3 años. Cuando se le presenta una computadora, su curiosidad crece y se va desenvolviendo mediante programas y códigos. Gracias a sus conocimientos en programación pudo ayudar a desarrollar el lenguaje RSS, el formato Markdown, la fundación y establecimiento de "Creative Commons" y el impulso de Reddit. No le interesaba el dinero ni los bienes. Sus aspiraciones tenían fines políticos, por lo que se salían de los espacios laborales o empresariales. Los computadores y la programación eran como magia, lo que permite que la gente pueda hacer dinero o el bien (que terminaría siendo compartido). Nunca dejó de cuestionarse, de cuestionar el sistema y la sociedad en el cuál seguimos viviendo acualmente, en la que podemos resolver problemas pero no se hacen. Por ello decidió arriesgarse y verse involucrado en varias causas. Se centró en la política y en liberar las bibliotecas, puesto que el conocimiento de la humanidad se encontraba con la barrera del dinero (ya que se requierre de pagar por el acceso a estos) y los derechos de las personas (cuestionando la desigualdad frente al esfuerzo de algunas personas para tan solo poder comer, mientras que quienes discuten por ello se van haciendo más ricos). Por ello fue detenido como un criminal cibernético, comparando el robo de datos y documentos con el hurto de dinero. Ello me deja pensando en que la vida es muy injusta, y que para generar los reales cambios son necesarios generar grandes sacrificios para por lo menos hacer que la gente se siga cuestionando.</p>
+        <br> 
+   <h2> Posdata </h2>
+        <p> Voy puliendo mis apuntes, investigaciones y todo para poder tener una bitácora joyita ᕙ(`▿´)ᕗ </p>
+</body>
 </html>
+
+***
+##### _°˖✧◝(⁰▿⁰)◜✧˖°_
+    
+
