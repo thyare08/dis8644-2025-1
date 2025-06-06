@@ -2,6 +2,18 @@
 
 # Sesión 03b
 
+# Encargo 08
+
+Analisis "Gonzalo Martínez y sus Congas Pensantes"
+
+Este disco es un experimento musical que, al menos para mí, refleja una propuesta bastante arriesgada y adelantada a su tiempo. Mezclar cumbia con electrónica no era algo común en el Chile de fines de los 90, y se nota que la recepción local no fue la mejor. Sin embargo, fuera del país logró captar más atención, sobre todo en circuitos más abiertos a la fusión y a lo alternativo.
+
+Desde lo musical, la combinación es curiosa: los ritmos tradicionales de la cumbia se mezclan con sonidos electrónicos repetitivos y sintetizados, generando una atmósfera que, aunque puede parecer extraña al principio, termina siendo bastante envolvente. En lo personal, me funcionó súper bien como música de fondo para estudiar o trabajar, ya que tiene un ritmo constante que ayuda a mantenerse enfocado sin ser invasivo.
+
+Le doy un 5 de 10. No porque sea malo (de hecho, valoro mucho la propuesta), sino porque no es un álbum que conecte conmigo más allá de su funcionalidad. Aun así, me parece un buen ejemplo de cómo se puede jugar con dos géneros aparentemente opuestos y generar algo distinto, aunque no siempre sea fácil de digerir para todo el mundo.
+
+# Encargo 09
+
 Visita al MAC:
 
 La verdad la visita al museo me gusto mas de lo que esperaba, no tenia las expectativas demasiado altas, ya que no voy a museos si no es por la universidad, pero esta salida me sorprendió al instante, desde ver la frase “Es usted feliz?”, para después entrar y ver la luces neón en la entrada
