@@ -9,11 +9,10 @@
 
 Foto esquemático PWM.
 ![Circuito Pulse Width Modulation esquemático](./archivos/PWM_esquematico.png)
+
 Foto del circuito PWM en protoboard.
 
 ![Circuito Pulse Width Modulation en protoboard](./archivos/PWM_protoboard.jpg)
-
-Foto del circuito PWM con modificaciones.
 
 ## Pantallas de 7 segmentos:
 
@@ -24,6 +23,8 @@ Foto del circuito PWM con modificaciones.
  - Este sistema está diseñado para números, no para letras. Esto es debido a que algunas letras no son compatibles y se pueden llegar a confundir con números.
 
 Foto alfabeto sistema arábigo en 7 segmentos.
+
+![Foto del alfabeto de 7 segmentos](./archivos/7_segmentos.png)
 
 Foto rescatada de https://edupython.blogspot.com/2015/04/visualizador-de-siete-segmentos.html
 
@@ -37,15 +38,21 @@ Fotografía 1: **Reproductor de CDs**
 Fecha: 16 de Mayo de 2025.
 Ubicación: Mi casa.
 
+![Foto reproductor de CDs](./archivos/reproductor_cds.jpg)
+
 Fotografía 2: **Regulador de aire acondicionado**
 Fecha: 16 de Mayo de 2025.
 Ubicación: Facultad de Odontología, Universidad Diego Portales.
+
+![Foto regulador de aire acondicionado](./archivos/aire_acondicionado.jpg)
 
 Fotografía 3: **Radio**
 Fecha: 19 de Mayo de 2025.
 Ubicación: Mi casa.
 
+![Foto radio](./archivos/radio.jpeg)
 
 ## Encargo 21: Simulación de circuitos con 555 y/o comparadores hechos con opamps en Falstad
 
 
+Fotos de mi autoría.
