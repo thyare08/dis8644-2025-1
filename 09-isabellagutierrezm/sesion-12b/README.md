@@ -40,7 +40,7 @@ Considerar:
 ## 1. Dulces sueños a color 
 De pequeña nunca me gustó la oscuridad, y para que fuera **más amigabl**e tenía pegatinas en forma de **estrellas que brillaban** en la oscuridad, siempre me parecieron fascinantes, pero no duraban mucho. Es por eso que mi primera idea es buscar una forma de **iluminación**, con la **combinación de los colores** sea relajante para el usuario, pintando una ampolleta y que se pueda **proyectar a lo largo de la habitación** gracias a la corriente que recibe.
 
-![estrellas](https://github.com/user-attachments/assets/06915200-b106-4001-864e-72ee4e69fe79)
+![estrellas](https://github.com/isabellagutierrezm/dis8644-2025-1/blob/main/09-isabellagutierrezm/sesion-12b/archivos/estrellas.jpg)
 ![ampolleta](https://github.com/user-attachments/assets/5646da1a-6f0b-4080-99c0-f6d96cea7d3c)
 
 ## 2. Querida flor, no te marchitez por favor
