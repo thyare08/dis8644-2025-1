@@ -69,24 +69,46 @@ Y también incluiré en medio, porque fue cuando las tomé, fotos de la placa co
 
 Foto de la placa vacía.
 
+![Foto placa UDPudu vacía](./archivos/placa.jpeg)
+
 Foto de los componentes ordenados.
+
+![Foto de los componentes ordenados previo a soldar](./archivos/foto_componentes.jpg)
 
 Foto soldadura parte posterior del socket de 8 pines.
 
+![Foto de soldadura del DIP a la PCB](./archivos/soldadura_8_pines.jpg)
+
 Video de la soldadura del socket de 8 pines.
 
-Video de mi soldando el socket de 8 pines.
+https://github.com/user-attachments/assets/e6c745f5-2c95-4f95-a54a-7f8b3a8d0b06
+
+Video de mí soldando el socket de 8 pines.
+
+https://github.com/user-attachments/assets/8ea55276-804d-485d-bdaf-7cb8166dfb27
 
 Foto de la placa con el socket y los resistores.
 
+![Foto de la PCB con los resistores ya soldados](./archivos/placa_resistores.jpg)
+
 Fotos mini sesión fotográfica en amarillo.
 
-Foto favorita de la mimi sesión.
+![Collage fotos con fondo amarillo](./archivos/collage_amarillo.jpg)
+
+Foto favorita de la mini sesión.
+
+![Mi foto favorita de la mini sesión de fotos con fondo amarillo](./archivos/fondo_amarillo_1.jpg)
 
 Foto detalle terminal block, LED y condensador electrolítico.
 
+![Detalle de la placa, acercamiento a componentes](./archivos/detalles.jpg)
+
 Foto placa terminada con todos sus componentes superior.
 
+![Foto PCB terminada superior](./archivos/placa_terminada_superior.jpg)
+
 Foto placa terminada con todos sus componentes posterior.
+
+![Foto PCB terminada posterior](./archivos/placa_terminada_posterior.jpg)
 
 Fotos y vídeos de mi autoría.

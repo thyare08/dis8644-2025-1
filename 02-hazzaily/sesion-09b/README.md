@@ -10,11 +10,15 @@ Componente 1: **Chip 8403**
 
 Foto Chip 8403.
 
+![Foto chip 8403](./archivos/chip_8403.jpg)
+
 Componente 2: **SRD05 / Relé de 01 canal**
 
  - Este relé permite controlar el encendido y apagado de cualquier aparato que se conecte a una fuente de alimentación eléctrica externa.
 
-Foto de Relé de  canal.
+Foto de Relé de 01 canal.
+
+![Foto Relé de 01 canal](./archivos/SRD05.jpg)
 
 ## Configuraciones 555: Repaso
 
@@ -31,23 +35,30 @@ Foto de mi croquera.
 
 Foto de mi croquera.
 
-![Onda Monoestable](./archivos/onda_astable.jpg)
+![Onda Monoestable](./archivos/onda_monoestable.jpg)
 
  - in: R y C.
  - out: LEDs, sonido, nov, aviso.
 
 Foto de mi croquera.
 
+![Foto de mis apuntes de clase](./archivos/apuntes_9b.jpg)
 
 ## Circuito esquemático visto en clases: Pulse Width Modulation
 
 Foto de mi croquera.
 
+![Foto circuito esquempatico en mi croquera del PWM](./archivos/PWM_esquemático.jpg)
 
 ## Encargo 18: Realizar esquemático en protoboard
 
 Foto circuito PWM.
 
+![Foto circuito PWM en protoboard](./archivos/PWM_proto.jpg)
+
+Video circuito PWM.
+
+https://github.com/user-attachments/assets/e43665f9-9a3f-4f56-8b49-9e1a29048d72
 
 ## Encargo 19: Investigar cultura electrónica y Laurie Anderson
 
@@ -59,7 +70,11 @@ Foto circuito PWM.
 
 Álbum escuchado: **Big Science**
 
- - Opinión: 
+Opinión: Dentro de todos los artistas de la música electrónica que hemos escuchado a través del semestre, es de los más tranquilos hasta ahora, en el sentido de que con el tiempo podría llegar a escuchar esta artista, mas no sé si este estilo de música. Si bien hay cosas que aún me causan ruido, como el hecho de que muchas veces los instrumentos de fondo suenan más que la propia voz y por ende me abruma un poco porque no termino de entender lo que dice, puedo decir que la mayor parte de las canciones de este álbum me parecieron un poco relajantes, siendo así **"Big Science"** mi favorita. Es larga, pero me provoca un sentimiento de paz que me relajó bastante, al punto de dormirme mientras escuchaba el álbum por primera vez (ups).
+
+Debo admitir que la primera canción: **"From the air"**, no la disfuté para nada, me provocó dolor de cabeza y quizás por eso me gustó y relajó tanto la seegunda (que fue mi favorita). 
+
+Como conclusión, sigue sin gustarme la música electrónica, pero es bueno saber que hay exponentes como **Laurie Anderson** que son un poco más de mi agrado, siendo un poco más melodioso y sin tanto ruido, que es algo que agradezco demasiado.
 
 Fotos  de mi autoría.
 
