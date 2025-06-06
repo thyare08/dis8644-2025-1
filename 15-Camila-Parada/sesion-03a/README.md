@@ -21,3 +21,31 @@
 ### Fotografías y videos
 
 <https://github.com/user-attachments/assets/a851630b-5809-4e49-98fa-d26b09b296af>
+
+### Encargo 06: ¿"Einstürzende neubauten" o "Stereolab"?
+
+<br>
+
+Texto texto texto
+
+<br>
+
+***
+
+### Encargo 07: Expansión sobre el Chip 555
+
+<br>
+
+Texto texto texto
+
+<br>
+
+***
+
+### Posdata
+
+Voy rehaciedo todo poco a poco... aunque cueste ( ͡❛ ㅅ ͡❛)
+
+***
+
+##### _°˖✧◝(⁰▿⁰)◜✧˖°_
