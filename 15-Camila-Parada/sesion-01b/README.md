@@ -1,8 +1,7 @@
-# sesion-01b
-
 <html>
     <body>
-<h1> Apuntes día 2: 14 Marzo 2025 </h1>
+<h1> ⋆₊˚⊹♡ Clase 01b - Github y circuitos ♡⊹˚₊⋆</h1>
+<h4> 14 Marzo 2025 </h4>
         <br>
     <h2> Parte 1: Aprendizaje Github </h2>
         <p> Hoy se enseñó a como poder iniciar sesión en la cuenta de Github, a ver las partes que componen la interface de la cuenta principal, a como crear la copia de un repositorio perteneciente a otra cuenta usando el botón "Fork" (Bifurcación en español). A la par se mostró a como poder editar un archivo desde la copia personal, acto el cual puede modificar el archivo original a través de la herramienta "Pull requests". La ida es poder actualizar los encargos de la clase anterior y subirlos a la carpeta correspondiene según el número de orden de la lista.</p>
