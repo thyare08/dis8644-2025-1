@@ -28,7 +28,6 @@ Los links de los repositorios consultados son:
 
 <br>
 
-
 En esta clase se realizaron la entrega de las baterías de 9V. En la siguiente sesión se pudo habilitar un punto de recarga para estas.
 
 Dentro de los repositorios encontré un link de [Warp Records](https://warp.net/), un sello discográfico de origen británico (sheffield) fundado en 1989 por  Steve Beckett, Robert Mitchell y Robert Gordon. Este se especializa en música electrónica, indie rock y de tipo experimental, teniendo como objetivo ser el lugar que reuna a los nuevos artístas eléctronicos de Reino Unido. Anteriormente fue una tienda de discos (1987), y hoy se definen como "El hogar de la música post-género visionaria".
@@ -93,14 +92,14 @@ Ya con estos antecedentes me dispuse a navegar por el sitio en busqueda de algun
 ![image](https://github.com/user-attachments/assets/f2b23dc6-8d51-4ea1-96d1-86a20ec046b9)
 _▼ Portada de "Eros y Tánatos". Recuperado de: https://ia600202.us.archive.org/22/items/pn230/pn230_eros-y-tanatos-cover-adelante.jpg_
 
-
+En este caso, el disco me gustó. Siento que a momentos es relajante y luego siniestro. El contraste que se genera con instrumentos clásicos como el piano versus los efectos músicales producidos por la energía hace que se me altere y se haga presente la inquietud y la sorpresa, aquello que me enganchó al sentir que no podía predecir los ritmos. No soy mucho de escuchar estas melodías experimentales en mi día a día, pero para descubrir joyitas como estas hay que atreverse y al menos escucharlas una vez.
 
 <br>
 ***
 
 ### Posdata
 
-En proceso... ૮◞ ﻌ ◟ა
+Pos toca ir rehaciendo los pasitos poco a poco para subir unos puntitos y cumplir antes de la fecha (. ❛ ‿‿ ❛ .)
 
 ***
 
