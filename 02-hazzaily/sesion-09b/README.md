@@ -10,11 +10,15 @@ Componente 1: **Chip 8403**
 
 Foto Chip 8403.
 
+![Foto chip 8403](./archivos/chip_8403.jpg)
+
 Componente 2: **SRD05 / Relé de 01 canal**
 
  - Este relé permite controlar el encendido y apagado de cualquier aparato que se conecte a una fuente de alimentación eléctrica externa.
 
-Foto de Relé de  canal.
+Foto de Relé de 01 canal.
+
+![Foto Relé de 01 canal](./archivos/SRD05.jpg)
 
 ## Configuraciones 555: Repaso
 
@@ -38,16 +42,23 @@ Foto de mi croquera.
 
 Foto de mi croquera.
 
+![Foto de mis apuntes de clase](./archivos/apuntes_9b.jpg)
 
 ## Circuito esquemático visto en clases: Pulse Width Modulation
 
 Foto de mi croquera.
 
+![Foto circuito esquempatico en mi croquera del PWM](./archivos/PWM_esquemático.jpg)
 
 ## Encargo 18: Realizar esquemático en protoboard
 
 Foto circuito PWM.
 
+![Foto circuito PWM en protoboard](./archivos/PWM_proto.jpg)
+
+Video circuito PWM.
+
+![PWM_proto (1)](https://github.com/user-attachments/assets/f3a05a3b-6867-4c74-8cf5-7c71cb6c2fbe)
 
 ## Encargo 19: Investigar cultura electrónica y Laurie Anderson
 
