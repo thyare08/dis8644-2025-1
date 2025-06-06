@@ -35,7 +35,7 @@ Foto de mi croquera.
 
 Foto de mi croquera.
 
-![Onda Monoestable](./archivos/onda_astable.jpg)
+![Onda Monoestable](./archivos/onda_monoestable.jpg)
 
  - in: R y C.
  - out: LEDs, sonido, nov, aviso.
@@ -58,7 +58,7 @@ Foto circuito PWM.
 
 Video circuito PWM.
 
-![PWM_proto (1)](https://github.com/user-attachments/assets/f3a05a3b-6867-4c74-8cf5-7c71cb6c2fbe)
+https://github.com/user-attachments/assets/e43665f9-9a3f-4f56-8b49-9e1a29048d72
 
 ## Encargo 19: Investigar cultura electrónica y Laurie Anderson
 
