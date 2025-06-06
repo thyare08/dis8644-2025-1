@@ -34,14 +34,18 @@ CKEN --> resistencia 100k ---> GND
 
 555 (potenciómetro) > 4017 (leds) > 555 (speaker)
 
-*  USB A: pines
+![usbA](./archivos/usbA.jpg)
+![usbAyB](./archivos/usbA-B.jpg)
+![usbC](./archivos/usbC.jpg)
+![usbcomparativa](./archivos/usbgeneral.jpg)
+
+>   Diagramas de conexiones USB, cómo se transimiten los datos a través de los cables y una comparativa evolutiva de los pines presentes en cada versión de USB.
+*  **USB A:** pines
 1. tierra
 2. data +
 3. data -
 4. tierra
-
-* USB B
-* MICROUSB (variante de B)
-* MINIUSB (variante de B)
-
-* USB C
+* **USB B**
+* **MICROUSB** (variante de B)
+* **MINIUSB** (variante de B)
+* **USB C**
