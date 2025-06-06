@@ -86,6 +86,8 @@ Esto se puede ver realizando experimentos con la protoboard, una batería, resis
 
 ### Encargo 04: Pueblo nuevo
 
+<br>
+
 Dada mi inasistencia a esta clase, pensé que había que escuchar un albúm del grupo de música folklorica "Pueblo Nuevo". La clase siguiente me enteré de que se trataba de una [página web](https://pueblonuevo.cl/) de un grupo discográfico y netlabel (distribuidor digital) ubicado en Chile. La mayoría de contenido se centra en música electrónica, independiente de su origen, género, variable, étnia, etc. Desde el 2005 que existen.
 Ya con estos antecedentes me dispuse a navegar por el sitio en busqueda de alguna carátula que me llamara la atención. Tras un tiempo me pillé con el álbum "EROS Y TÁNATOS" del 2024. Decidí escoger este disco ya que el nombre me llamó la atención, puesto que son conceptos de origen griego (el erotísmo y la muerte) y quise saber de que forma se veían representados en la música electrónica.
 
@@ -97,6 +99,46 @@ _▼ Portada de "Eros y Tánatos". Recuperado de: https://ia600202.us.archive.or
 <br>
 
 En este caso, el disco me gustó. Siento que a momentos es relajante y luego siniestro. El contraste que se genera con instrumentos clásicos como el piano versus los efectos músicales producidos por la energía hace que se me altere y se haga presente la inquietud y la sorpresa, aquello que me enganchó al sentir que no podía predecir los ritmos. No soy mucho de escuchar estas melodías experimentales en mi día a día, pero para descubrir joyitas como estas hay que atreverse y al menos escucharlas una vez.
+
+<br>
+
+***
+
+### Encargo 05: Circuitos en serie y en paralelo
+
+<br>
+
+Para este proyecto se nos pidio experimentar con un circuito simple conformado por leds, resistencias y la batería de 9V.
+Por mi parte decidí comenzar con un circuito en serie, lo que significa que la energía traspasa un camino de forma lineal.
+Para ello quise usar leds de color verde. En las imágenes no se puede apreciar si se encuentran iluminados dado que decidí tomar las fotografías con flash.
+
+![en serie a](https://github.com/user-attachments/assets/d307cdcc-cd92-4bec-8304-ee0a883092d3)
+_▼ Circuito en serie encendido, 3 leds. Autoría personal_
+
+![en serie b](https://github.com/user-attachments/assets/82039f1c-731c-4d42-9fb9-6b458aa1e77f)
+_▼ Circuito en serie desconectado, 2 leds. Autoría personal_
+
+<br>
+
+En este caso se puede observar que al retirar uno de los leds, la corriente deja de transitar por los componentes, impidiendo el funcionamiento del circuito. Por ello hay que tener ojo en las partes que componen el total, en las partes que se conectan y si las piezas funcionan sin problema.
+
+<br>
+
+Por otra parte, al montar un circuito en paralelo la situación cambia.
+
+![en paralelo a](https://github.com/user-attachments/assets/c9b882a9-aeb5-49bf-8e36-b060180ee3dc)
+_▼ Circuito en paralelo encendido, 3 leds. Autoría personal_
+
+![en paralelo b](https://github.com/user-attachments/assets/7780c368-3ba2-4fc0-82fe-9fc7c0ecb805)
+_▼ Circuito en paralelo aún encendido, 2 leds. Autoría personal_
+
+<br>
+
+Puesto que la energía que dibide en distintos carriles, esta alimenta sin problemas a los leds, por lo que si uno de estos es retirado el circuito sigue funcionando sin problemas. Este es el camino más viable si uno quiere realizar un circuito con distintas partes que fucionen de manera simultánea.
+
+<br>
+
+Curiosamente, en las últimas fotografías se aprecia que los leds se encuetran encendidos. ¿Será que el espectro infrarrojo que tienen los leds de color verde, junto con la intensidad de la luz, quedan opacados frente al flash de la cámara (luz blanca)? Una hipótesis a considerar de ahora en adelante al momento de realizar mis circuitos y tomar fotografías.
 
 <br>
 
