@@ -2,7 +2,7 @@
 
 # IDEA  PRINCIPAL ENCARGO TALLER
 
-La idea trata de un pequeño robot con ruedas inspirado en la forma de un pokemon (Phantump) mediante impresion 3D, el cual reacciona al nivel de luz usando dos sensores LDR colocados a cada lado, teniendo el objetivo de moverse hacia la lazona con menos luz, a modo de escapes de la luz, para buscar un escondite. Cuando el robot detecta que haay mucha luz, este enciende un LED rojo fuerte a modo de advertencia.
+La idea trata de un pequeño robot con ruedas inspirado en la forma de un pokemon (Phantump) mediante impresion 3D, el cual reacciona al nivel de luz usando dos sensores LDR colocados a cada lado, teniendo el objetivo de moverse hacia la zona con menos luz, a modo de escape de la luz, para buscar un escondite. Cuando el robot detecta que hay mucha luz, este enciende un LED rojo fuerte a modo de advertencia.
 
 Componentes a usar: Sensores LDR, Chip 555, Motor DC o Motor con ruedas, LED Rojo, circuito comparador
 
