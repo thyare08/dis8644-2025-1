@@ -53,7 +53,10 @@ Para el último proyecto me gustaría **mezclar la percepción de los sentidos**
 
 ![disney](https://github.com/user-attachments/assets/44a616d5-12d5-4d03-89da-51eb708c5318)
 
+## Link Consultados
+https://www.instructables.com/PCB-LED-Flower/
 
+https://lasersandlights.wordpress.com/2013/07/22/hand-painted-accent-lights-for-home-and-landcapes/
  
 
 
