@@ -1,8 +1,8 @@
 # sesion-08a
 
-29 - 04 - 2025
+martes 29 de abril
 
--
+> cómo usar GitHub Desktop
 
 ## openSCAD
 

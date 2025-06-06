@@ -1,5 +1,7 @@
 # sesion-04a
 
+martes 1-04
+
 - zach lieberman
 - 100 days for
 - [lauren mccarty](https://lauren-mccarthy.com/)
@@ -10,10 +12,8 @@
 
 ## hacer
 
-- [ ] subir imágenes como imagenes, no como link (crear carpeta de archivos)
 - [x] objeto para desarmar - martes 08
 - [x] escuchar **1 bit symphony**
-- [ ] usar imágenes propias, si son de otros lugares, referenciarlos/citarlos
 
 ### ideas
 
@@ -50,15 +50,21 @@ NO PONER RESISTENCIA MENOR A 1k EN EL PIN 7
 - [límites y ejemplos del 555](https://www.555-timer-circuits.com/)
 - [errores típicos](https://www.555-timer-circuits.com/common-mistakes.html)
 
-![atariPunk_v1](https://github.com/felix-rg416/dis8644-2025-1/blob/main/19-felix-rg416/sesion-04a/archivos/atariPunk_v1.png)
-fuente: [https://www.build-electronic-circuits.com/atari-punk-console/](https://www.build-electronic-circuits.com/atari-punk-console/)
+### atari punk console
 
-![circuito.APC.02](https://github.com/felix-rg416/dis8644-2025-1/blob/main/19-felix-rg416/sesion-04a/archivos/circuito.APC.01.jpg)
-![circuito.APC.01](https://github.com/felix-rg416/dis8644-2025-1/blob/main/19-felix-rg416/sesion-04a/archivos/circuito.APC.02.jpg)
+![atariPunk_v1](.\archivos\atariPunk_v1.png)
 
-## encargo 1 - bit symphony
+### circuito 01
 
-![1-bit symphony](https://github.com/felix-rg416/dis8644-2025-1/blob/main/19-felix-rg416/sesion-04a/archivos/1_bit_symphony.jpg)
+![circuito.APC.01](./archivos/circuito.APC.01.jpg)
+
+### curcuito 02
+
+![circuito.APC.02](./archivos/circuito.APC.02.jpg)
+
+## encargo 10 - bit symphony
+
+![1-bit symphony](./archivos/1_bit_symphony.jpg)
 
 [fuente](https://cantaloupemusic.com/albums/1-bit-symphony)
 

@@ -16,7 +16,7 @@ Siento que este álbum me lleva al futuro, como a una película de ciencia ficci
 Esta película se basa en la exageración de vivencias, es una parodia extrema a la vida universitaria y de instituto.  
 Personalmente, pienso que este tipo de humor se queda "estancado" en su época. A las generaciones de hoy en día no les haría mucha gracia los comentarios y escenas que se muestran, pero, poniéndose en el contexto de la película y sus referencias, se puede llegar a apreciar con gracia los chistes y referencias.
 
-## Encargo01 - mi caja negra y yo - Félix
+## Encargo 01 - mi caja negra y yo - Félix
 
 Elegí mis audífonos a bluetooth.
 
