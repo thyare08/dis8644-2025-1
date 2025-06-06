@@ -59,7 +59,11 @@ Foto circuito PWM.
 
 Álbum escuchado: **Big Science**
 
- - Opinión: 
+Opinión: Dentro de todos los artistas de la música electrónica que hemos escuchado a través del semestre, es de los más tranquilos hasta ahora, en el sentido de que con el tiempo podría llegar a escuchar esta artista, mas no sé si este estilo de música. Si bien hay cosas que aún me causan ruido, como el hecho de que muchas veces los instrumentos de fondo suenan más que la propia voz y por ende me abruma un poco porque no termino de entender lo que dice, puedo decir que la mayor parte de las canciones de este álbum me parecieron un poco relajantes, siendo así **"Big Science"** mi favorita. Es larga, pero me provoca un sentimiento de paz que me relajó bastante, al punto de dormirme mientras escuchaba el álbum por primera vez (ups).
+
+Debo admitir que la primera canción: **"From the air"**, no la disfuté para nada, me provocó dolor de cabeza y quizás por eso me gustó y relajó tanto la seegunda (que fue mi favorita). 
+
+Como conclusión, sigue sin gustarme la música electrónica, pero es bueno saber que hay exponentes como **Laurie Anderson** que son un poco más de mi agrado, siendo un poco más melodioso y sin tanto ruido, que es algo que agradezco demasiado.
 
 Fotos  de mi autoría.
 
