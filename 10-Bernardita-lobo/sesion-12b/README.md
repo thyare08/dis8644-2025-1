@@ -21,6 +21,8 @@
 - WeiweiCam
 - Diseño especulativo
 
+![Foto de mis apuntes de mi bitácora](./archivos/tme-sesion12ay12b-bitacora.jpeg)
+
 ## Encargos
 
 ### Idea 01
