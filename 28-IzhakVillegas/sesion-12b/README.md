@@ -378,4 +378,27 @@ Tienda de referencia:
 
 -  Dibujar diagrama de comportamiento. No especificar chips. Considerar procesos, de manera especulativa. ¿Cuánto tiempo se usará? ¿Qué encendidos y apagados tiene? ¿Cómo se interactúa?
 
+##  Propuestas
+1.  **CAJA NEGRA.**
+
+Caja sensible a estímulos que reproduce sonido y luces (leds en serie). Input detectar sombras output emitir luz.
+
+2.  **INSTRUMENTO EXPERIMENTAL.**
+
+Serie de motores amarrados a instrumentos experimentales que dependen de fotorresistencias en sus oscilaciones. Por lo tanto cualquier cosa puede resultar un instrumento y además la fotorresistencia determina la velocidad de oscilación, similar a un Theremin. Input detectar sombras, output motor encendido, genera movimiento de elementos experimentales.
+
+3.  **MOTOR DE RESISTENCIAS.** (piano)
+
+Dos botones (hacia la izquierda y hacia la derecha)  determinan la posición de un motor el cual conecta un circuito alterno a una serie de resistencias que a su vez reproducen sonido mediante un speaker. Input botones pulsadores. Output motor llega a lugar indicado, output resistencia termina circuito cerrado y emite sonido.
+
+![bitacora1](./archivos/1.png)
+
+![bitacora2](./archivos/2.png)
+
+![bitacora3](./archivos/3.png)
+
+![bitacora4](./archivos/4.png)
+
+![bitacora5](./archivos/5.png)
+
 ¡No subir muchos videos a github porque sobrecarga el repositorio de github! Opciones: youtube.

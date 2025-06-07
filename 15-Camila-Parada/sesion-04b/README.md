@@ -15,9 +15,21 @@ Al comienzo de la clase se trató de poder analizar y revisar los primeros objet
 <img src="./image/001-08.04.jpg">
 <img src="./image/002-08.04.jpg">
 
+<br>
+
 ***
 
-### Avances para la clase 05a
+### Encargo 10: Wendy Carlos - Switched on bach
+
+<br>
+
+Texto texto texto
+
+<br>
+
+***
+
+### Encargo 11: Bajando la opacidad de la caja - Investigación a profundidad
 
 #### _Selección de objeto 02_
 
