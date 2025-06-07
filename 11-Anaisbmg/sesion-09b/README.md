@@ -85,7 +85,7 @@ bom
 
 ## encargo-18: de tinkercad a protoboard
 
-les pedimos que por favor tomen el circuito que simulamos en tinkercad y lo traspasen a su protoboard, usando los componentes que tienen en su kit de materiales.
+[pwm.anaisbmg](https://youtube.com/shorts/mt0j7jvq76E?feature=share)
 
 ## encargo-19: cultura electrónica y laurie anderson
 
