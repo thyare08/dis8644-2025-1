@@ -31,7 +31,7 @@ subir fotos de su propia autoría de pantallas de siete segmentos, y otras varia
 
 **PWM**
 
-(insertar foto pwm.falstad)
+![pwm.falstad](https://github.com/Anaisbmg/dis8644-2025-1/blob/main/11-Anaisbmg/sesion-10a/archivos/pwm.falstad.png)
 
 ```txt
 1 0.000005 8.281975887399955 58 5 50 5e-11
@@ -76,7 +76,7 @@ w 1296 336 1296 368 0
 
 **circuito atari punk console**
 
-(insertar foto apc.falstad)
+![apc.falstad](https://github.com/Anaisbmg/dis8644-2025-1/blob/main/11-Anaisbmg/sesion-10a/archivos/apc.falstad.png)
 
 ```txt $ 1 0.000015625 21.593987231061412 66 5 50 5e-11
 211 1712 384 1776 384 0 1 8000 1
@@ -139,7 +139,7 @@ g 1632 480 1632 608 0 0
 
 Grupo 1
 
-(insertar foto variacionapc.falstad)
+![variacionapc.falstad](https://github.com/Anaisbmg/dis8644-2025-1/blob/main/11-Anaisbmg/sesion-10a/archivos/variacionapc.falstad.png)
 
 ```txt $ 1 0.000005 69.34413510434165 66 5 50 5e-11
 374 1568 160 1568 112 0 0.47530000000000006 Brillo
