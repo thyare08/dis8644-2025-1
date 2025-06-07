@@ -85,7 +85,13 @@ bom
 
 ## encargo-18: de tinkercad a protoboard
 
+https://github.com/user-attachments/assets/4d91e212-cf3a-4007-b8a4-8b6d037d3462
+
+*copiado directo desde galeria*
+
 [pwm.anaisbmg](https://youtube.com/shorts/mt0j7jvq76E?feature=share)
+
+*link a youtube*
 
 ## encargo-19: cultura electrónica y laurie anderson
 
