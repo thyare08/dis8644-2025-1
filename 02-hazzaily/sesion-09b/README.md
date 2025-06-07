@@ -50,7 +50,11 @@ Foto de mi croquera.
 
 ![Foto circuito esquempatico en mi croquera del PWM](./archivos/PWM_esquemático.jpg)
 
-## Encargo 18: Realizar esquemático en protoboard
+## Encargo 18: Realizar esquemático en TinkerCAD y en protoboard
+
+Foto circuito en TinkerCAD.
+
+
 
  - Observación: Me parece muy interesante el cómo con el potenciómetro se puede controlar la potencia del LED, primeramente pq creo que hubo un ejercicio anterior similar, y yo no lo había logrado. Aunque creo que realmente que conecté mal el potenciómetro la primera vez jdjjd.
 
