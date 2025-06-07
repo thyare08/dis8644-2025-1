@@ -54,9 +54,9 @@ Foto de mi croquera.
 
 Foto circuito en TinkerCAD.
 
-![Foto circuito PWM en TinkerCAD](./archivos/PWM_tinkerCAD.png
+![Foto circuito PWM en TinkerCAD](./archivos/PWM_tinkerCAD.png)
 
-pd: mi primer TinkerCAD c: (más intuitivo de lo que creí)
+pd: mi primer TinkerCAD c: (definitivamente más intuitivo de lo que creí)
 
  - Observación: Me parece muy interesante el cómo con el potenciómetro se puede controlar la potencia del LED, primeramente pq creo que hubo un ejercicio anterior similar, y yo no lo había logrado. Aunque creo que realmente que conecté mal el potenciómetro la primera vez jdjjd.
 
