@@ -52,6 +52,8 @@ El mosfet es controlado mediante un pulldown resistor, porque si __*Gate*__ no f
 ### Other things: <!-- Things to organize + random stuff -->
 > ### Motor háptico (vibrador)
 > Es un motor que rota un peso desbalanceado, lo que produce la vibración.
-> <img align="left" src="./archivos/vibrationMotor.jpg" alt="Vista explotada motor vibrador. (Source:https://www.precisionmicrodrives.com/using-dc-motors-for-energy-harvest-or-lras-for-vibration-detection)" width=400></br></br></br></br></br>
+> <img align="left" src="./archivos/vibrationMotor.jpg" alt="Vista explotada motor vibrador. (Source:https://www.precisionmicrodrives.com/using-dc-motors-for-energy-harvest-or-lras-for-vibration-detection)" width=500></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 >
 > ### Efecto Moiré
+> Es un efecto visual que se genera al poner dos patrones regulares uno sobre el otro. Esta superposición produce un patrón nuevo.
+> <img align="" src="" alt="" width=400>
