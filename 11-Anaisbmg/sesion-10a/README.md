@@ -25,7 +25,19 @@ si tengo dos resistencias iguales, estas se dividen a la mitad, entonces 9, lleg
 
 ## encargo-20: pantallas de siete segmentos
 
-subir fotos de su propia autoría de pantallas de siete segmentos, y otras variantes que encuentren en su vida cotidiana. les pedimos al menos 3 fotos de distintas pantallas. pueden partir de la base de las que ya subieron hoy a discord. incluir información sobre dónde y cuándo fue capturada la imagen.
+todas las pantallas identificadas fueron encontradas en el campo
+
+**reloj**
+
+![7segmentosreloj](https://github.com/Anaisbmg/dis8644-2025-1/blob/main/11-Anaisbmg/sesion-10a/archivos/7segmentosreloj.jpeg)
+
+**estufa**
+
+![7segmentosestufa](https://github.com/Anaisbmg/dis8644-2025-1/blob/main/11-Anaisbmg/sesion-10a/archivos/7segmentosestufa.jpeg)
+
+**parlante**
+
+![7segmentosparlante](https://github.com/Anaisbmg/dis8644-2025-1/blob/main/11-Anaisbmg/sesion-10a/archivos/7segmentosparlante.jpeg)
 
 ## encargo-21: simulación de circuitos con 555 y/o comparadores hechos con opamps en Falstad
 
