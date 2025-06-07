@@ -52,6 +52,8 @@ Foto de mi croquera.
 
 ## Encargo 18: Realizar esquemático en protoboard
 
+ - Observación: Me parece muy interesante el cómo con el potenciómetro se puede controlar la potencia del LED, primeramente pq creo que hubo un ejercicio anterior similar, y yo no lo había logrado. Aunque creo que realmente que conecté mal el potenciómetro la primera vez jdjjd.
+
 Foto circuito PWM.
 
 ![Foto circuito PWM en protoboard](./archivos/PWM_proto.jpg)
