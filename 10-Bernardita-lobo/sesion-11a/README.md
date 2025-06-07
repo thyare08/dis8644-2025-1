@@ -45,8 +45,6 @@
 
 ![Foto de los apuntes de mi bitácora](./archivos/tme-sesion11a-bitacora.jpeg)
 
-insertar foto de bitacora*
-
 ## Encargo
 
 - No hay encargo por semana de solemnes.
