@@ -8,6 +8,7 @@
  - Juntar LEDs rojo, verde y azul y combinar colores.
 
 Foto esquemático PWM.
+
 ![Circuito Pulse Width Modulation esquemático](./archivos/PWM_esquematico.png)
 
 Foto del circuito PWM en protoboard.
@@ -35,6 +36,8 @@ Foto rescatada de [edupython](https://edupython.blogspot.com/2015/04/visualizado
 Al abrir Falstad podemos ver automáticamente el circuito **RESONADOR RCL**
 
 Foto resonador RCL.
+
+![Foto circuito resonador RCL en falstad](./archivos/resonador_rcl.png)
 
 Para agregar un nuevo circuito para simular, debemos de presionar "Archivo" > "Importar desde archivo de texto..." > Pegamos el texto .txt que copiamos con la información del nuevo circuito > "OK" > Listo!
 
@@ -66,7 +69,7 @@ x 529 131 911 134 4 24 divisor\sde\svoltaje\scon\spotenciometro
 
 Foto circuito divisor de voltaje con potenciómetro en Falstad.
 
-
+![Foto circuito divisor de voltaje con potenciómetro en falstad](./archivos/divisor_voltaje_falstad.png)
 
 ## Trabajo en clases 2:
 
@@ -103,6 +106,8 @@ Ubicación: Mi casa.
  - Realizar algún circuito realizado en clases con el chip555.
 
 Foto circuito PWM en Falstad.
+
+![Foto circuito PWM en falstad](./archivos/PWM_falstad.png)
 
 **Código .txt PWM**
 
