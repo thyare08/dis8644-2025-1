@@ -56,4 +56,4 @@ El mosfet es controlado mediante un pulldown resistor, porque si __*Gate*__ no f
 >
 > ### Efecto Moiré
 > Es un efecto visual que se genera al poner dos patrones regulares uno sobre el otro. Esta superposición produce un patrón nuevo.
-> <img align="" src="" alt="" width=400>
+> <img align="left" src="./archivos/moire.gif" alt="Efecto Moiré. (Source:https://science.utah.edu/news/moire-magic/)" width=400>
