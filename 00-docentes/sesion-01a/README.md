@@ -30,19 +30,39 @@ educación:
 experiencia docente:
 
 * profe asistente, media jornada, diseño UDP, desde 2023
-  * DIS9005 diseño página web, primer semestre 2023
-  * DIS9034 programación creativa multimedia, primer semestre 2024
-  * DIS8636 taller de interfaz de usuario UI, primer semestre 2023, primer semestre 2024, con profesor Sergio Majluf
-  * DIS8637 taller de experiencia de usuario UX, segundo semestre 2023, segundo semestre 2024, con profesor Sergio Majluf
-  * DIS8644 taller de diseño de máquinas electrónicas, primer semestre 2025
+  * DIS9005 diseño página web
+    * primer semestre 2023
+  * DIS9034 programación creativa multimedia
+    * primer semestre 2024
+  * DIS8636 taller de interfaz de usuario UI, con profesor Sergio Majluf
+    * primer semestre 2023
+    * primer semestre 2024
+  * DIS8637 taller de experiencia de usuario UX con profesor Sergio Majluf
+  * segundo semestre 2023
+  * segundo semestre 2024
+  * DIS8644 taller de diseño de máquinas electrónicas
+    * primer semestre 2025
 * profe de ciencias básicas, media jornada, FAU UChile, desde 2022
   * AUD10004 matemáticas aplicadas al diseño, segundo semestre 2023
-  * AUD20004 física aplicada al diseño, segundo semestre 2022, segundo semestre 2023, primer semestre 2024, segundo semestre 2024, primer semestre 2025
-  * AUD5I022 diseño de interfaces electrónicas, primer semestre 2022, primer semestre 2023
-  * AUDIV020 diseño de instrumentos musicales digitales, segundo semestre 2022
-  * AUDIV027 inteligencia artificial, segundo semestre 2023, primer semestre 2024, segundo semestre 2024, primer semestre 2025
+  * AUD20004 física aplicada al diseño
+    * segundo semestre 2022
+    * segundo semestre 2023
+    * primer semestre 2024
+    * segundo semestre 2024
+    * primer semestre 2025
+  * AUD5I022 diseño de interfaces electrónicas
+    * primer semestre 2022
+    * primer semestre 2023
+  * AUDIV020 diseño de instrumentos musicales digitales
+    * segundo semestre 2022
+  * AUDIV027 inteligencia artificial
+    * segundo semestre 2023
+    * primer semestre 2024
+    * segundo semestre 2024
+    * primer semestre 2025
 * profe invitade, DesignLab, UAI
-  * DIS145 diseño y construcción de interfaces, primer semestre 2024
+  * DIS145 diseño y construcción de interfaces
+    * primer semestre 2024
 
 enlaces:
 
@@ -61,17 +81,39 @@ profe adjunto y co-creador del curso.
 
 experiencia docente:
 
-* 2024 Medios 2. Artes Visuales, Universidad de Chile. Semestre 2 (5 secciones)
-* 2024 Taller complementario de electrónica: del dato al objeto. Artes Visuales, Universidad de Chile. Semestre 6 (1 sección)
-* 2024 Laboratorio de Arte y Electrónica. Artes Visuales, Universidad Diego Portales. Semestre 6 (1 sección)
-* 2024 Aplicaciones Tecnológicas 3: Objeto. Artes Visuales, UNIACC. Semestre 7 (2 secciones)
-* 2024 Aplicaciones Tecnológicas 1: Electrónica. Artes Visuales, Uniacc. Semestre 5 (2 secciones)
-* 2024 Taller Electrónica en Soportes Alternativos. Artes Visuales, Universidad de Chile. Semestre 5 (1 sección)
-* 2023 Taller complementario de electrónica: del dato al objeto. Artes Visuales, Universidad de Chile. Semestre 6 (1 sección)
-* 2023 Medios 2. Artes Visuales, Universidad de Chile. Semestre 2 (5 secciones)
-* 2023 Taller Electrónica en Soportes Alternativos. Artes Visuales, Universidad de Chile. Semestre 5 (1 sección)
-* 2023 Aplicaciones Tecnológicas 1: Electrónica. Artes Visuales, Uniacc. Semestre 5 (2 secciones)
-* 2022 Medios 2. Artes Visuales, Universidad de Chile. Semestre 2 (1 sección)
+* 2024 Medios 2.
+  * Artes Visuales, Universidad de Chile.
+  * Semestre 2 (5 secciones)
+* 2024 Taller complementario de electrónica: del dato al objeto.
+  * Artes Visuales, Universidad de Chile
+  * Semestre 6 (1 sección)
+* 2024 Laboratorio de Arte y Electrónica.
+  * Artes Visuales, Universidad Diego Portales
+  * Semestre 6 (1 sección)
+* 2024 Aplicaciones Tecnológicas 3: Objeto.
+  * Artes Visuales, UNIACC.
+  * Semestre 7 (2 secciones)
+* 2024 Aplicaciones Tecnológicas 1: Electrónica.
+  * Artes Visuales, Uniacc.
+  * Semestre 5 (2 secciones)
+* 2024 Taller Electrónica en Soportes Alternativos.
+  * Artes Visuales, Universidad de Chile.
+  * Semestre 5 (1 sección)
+* 2023 Taller complementario de electrónica: del dato al objeto.
+  * Artes Visuales, Universidad de Chile.
+  * Semestre 6 (1 sección)
+* 2023 Medios 2.
+  * Artes Visuales, Universidad de Chile.
+  * Semestre 2 (5 secciones)
+* 2023 Taller Electrónica en Soportes Alternativos.
+  * Artes Visuales, Universidad de Chile.
+  * Semestre 5 (1 sección)
+* 2023 Aplicaciones Tecnológicas 1: Electrónica.
+  * Artes Visuales, Uniacc.
+  * Semestre 5 (2 secciones)
+* 2022 Medios 2.
+  * Artes Visuales, Universidad de Chile.
+  * Semestre 2 (1 sección)
 
 enlaces:
 
@@ -88,8 +130,11 @@ ayudante del curso
 experiencia docente:
 
 * ayudante curso AUD2004 Física aplicada al diseño, Universidad de Chile
-* ayudante taller DIS8636 Taller de Interfaz de Usuario UI, Universidad Diego Portales, primer semestre 2024.
-* ayudante taller DIS8637 Taller de Experiencia de Usuario UX, Universidad Diego Portales, segundo semestre 2023 y segundo semestre 2024.
+* ayudante taller DIS8636 Taller de Interfaz de Usuario UI, UDP
+  * primer semestre 2024.
+* ayudante taller DIS8637 Taller de Experiencia de Usuario UX, UDP
+  * segundo semestre 2023
+  * segundo semestre 2024.
 
 ## máquinas electrónicas
 
@@ -109,8 +154,15 @@ a escala humana
 
 este encargo00 es de consumo multimedia para dar contexto al curso y para un diagnóstico de su capacidad de observación en obras multimedia.
 
-* ver película Barrio Universitario, del año 2023, escrita por Fabrizio Copano y Pedro Ruminot. La razón es porque estamos haciendo electrónica desde este lugar, y porque es una parodia al mundo universitario, la robótica, y la desigualdad.
-* elegir un disco de la banda Kraftwerk, estudiar su contexto, su historia, los instrumentos usados y creados, las letras.
+* ver película Barrio Universitario (2023)
+  * Porque estamos haciendo electrónica desde este lugar
+  * Porque es una parodia al mundo universitario, la robótica, la desigualdad
+
+* elegir un disco de la banda Kraftwerk
+  * estudiar su contexto
+  * estudiarsu historia
+  * estudiar los instrumentos usados y creados
+  * estudiar las letras
 
 este encargo será revisado y compartido durante la siguiente sesión 01b, del viernes 14 marzo 2025.
 
