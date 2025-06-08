@@ -23,7 +23,6 @@ Siempre debemos posicionar en el bom el orden componentes que soldaremos primero
 |Parlante    |8ohm    |                         |1  |                  |
 |J1,J3       |CAIMAN  |Cables caimán            |2  |                  |
 
-
 ## Encargo 22 y 23
 
 * Paso 1: Vamos a identificar y ordenar nuestros componentes, según lo que indica en el BOM, asegurándonos de que sean de los valores adecuados.
@@ -34,10 +33,11 @@ Siempre debemos posicionar en el bom el orden componentes que soldaremos primero
 
 ![socket](./archivos/socket.jpg)
 
-Como era el primer componente que soldamos en esta PCB, la hicimos a mano alzada, sin soportes que sostuvieron ni el componente ni la PCB para que estuviese estable, pero en los componentes siguientes identificamos el problema y lo abordamos con nuestros elementos de la clase.
+Como era el primer componente que soldamos en esta PCB, fue a mano alzada, sin soportes que sostuvieron ni el componente ni la PCB para que estuviese estable.
 
-**MUY IMPORTANTE**
-Debido a que después el chip que irá dentro de este socket es un chip 555, es muy importante que ninguna de las soldaduras de las patas del socket vaya a tocarse entre sí, debido a que esto causará un cortocircuito, que haría que no funcione el chip, pudiendo llegar a quemarlo, y de esta manera dejase de funcionar el circuito.
+En los componentes siguientes identificamos el problema y lo abordamos con nuestros elementos de la clase.
+
+**MUY IMPORTANTE**: Es muy importante que ninguna de las soldaduras de las patas del socket vaya a tocarse, debido a que esto causará un cortocircuito, que haría que no funcione el chip, pudiendo llegar a quemarlo.
 
 ![soldandoSocket](./archivos/soldandoSocket.jpg)
 
@@ -73,11 +73,11 @@ Por su tamaño y forma fue mas difícil de posicionar y sostener al momento de s
 
 ![condensadoresElectroliticos](./archivos/condensadoresElectroliticos.jpg)
 
-* Paso 8: Agarramos nuestros LEDs, donde nos aseguraremos que la pata más corta (negativa) quede en el agujero inferior que tiene forma cuadrada, que corresponde a D2 y D3. 
+* Paso 8: Agarramos nuestros LEDs, donde nos aseguraremos que la pata más corta (negativa) quede en el agujero inferior que tiene forma cuadrada, que corresponde a D2 y D3.
 
 ![leds](./archivos/leds.jpg)
 
-* Paso 9: Para el componente que corresponde a la serigrafía J2, ya que no teníamos el terminal block para soldar y de esta manera alimentar el circuito, le soldamos un conector broche para la batería, donde el lado negativo (negro) va al agujero cuadrado correspondiente a GROUND, mientras que el cable rojo iría al agujero circular donde está +9V y corresponde al VCC. 
+* Paso 9: Para el componente que corresponde a la serigrafía J2, ya que no teníamos el terminal block para soldar y de esta manera alimentar el circuito, le soldamos un conector broche para la batería, donde el lado negativo (negro) va al agujero cuadrado correspondiente a GROUND, mientras que el cable rojo iría al agujero circular donde está +9V y corresponde al VCC.
 
 ![cableBateria9v](./archivos/cableBateria9v.jpg)
 
@@ -106,5 +106,3 @@ Por su tamaño y forma fue mas difícil de posicionar y sostener al momento de s
 ![prueba1](./archivos/prueba1.mp4)
 
 ![udepudu](./archivos/udpudu.jpg)
-
-
