@@ -51,6 +51,12 @@ bom
 
 ## encargo-23: documentación visual del proceso de ensamblado de udpudu
 
+faltan (2 unidades) terminal block de 2 pines e (1 unidad) interruptor de 2 posiciones
+
+![bom](https://github.com/Anaisbmg/dis8644-2025-1/blob/main/11-Anaisbmg/sesion-10b/archivos/bom.jpeg)
+
+*foto sacada por santiago*
+
 *video desde galeria*
 
 https://github.com/user-attachments/assets/81be00b6-38f8-4c94-97c1-c6fb91cc8490
