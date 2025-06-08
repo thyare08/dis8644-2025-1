@@ -15,3 +15,6 @@ se desarrollo en base al esquemático mostrado en clases y se realizo con los si
 * 555
 * 4017
   
+## Trabajo en clases
+
+<https://github.com/user-attachments/assets/b7fd7b76-2303-49da-9972-a71614eecb09>
