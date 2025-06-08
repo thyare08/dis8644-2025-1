@@ -26,5 +26,5 @@ jobs:
       uses: DavidAnson/markdownlint-cli2-action@v20.0.0
       continue-on-error: true
       with:
-        # fix: true 
+        fix: true 
         globs: '**/*.md'

@@ -10,10 +10,22 @@ profe titular y co-creador del curso.
 
 educación:
 
-* pregrado: ingeniería civil electricista, Pontificia Universidad Católica de Chile, 2008 - 2013.
-* postgrado: máster en arte electrónico, New York University, 2015 - 2017
-* postgrado: máster en ciencias y artes mediales, Massachusetts Institute of Technology, 2019 - 2021.
-* postgrado: doctorado en artes y humanidades, Universidad de Santiago de Chile, 2025 - hoy.
+* pregrado:
+  * ingeniería civil electricista
+  * Pontificia Universidad Católica de Chile
+  * 2008 - 2013
+* postgrado:
+  * máster en arte electrónico
+  * New York University
+  * 2015 - 2017
+* postgrado:
+  * máster en ciencias y artes mediales
+  * Massachusetts Institute of Technology
+  * 2019 - 2021.
+* postgrado:
+  * doctorado en artes y humanidades
+  * Universidad de Santiago de Chile
+  * 2025 - hoy
 
 experiencia docente:
 
