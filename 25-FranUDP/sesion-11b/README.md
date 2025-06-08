@@ -11,8 +11,6 @@ Sus inputs consisten de:
 
 Su rango de voltaje operacional es de 3-18V
 
-</br></br></br>
-
 ### SUBTITULO
 
 
