@@ -14,13 +14,13 @@ Su rango de voltaje operacional es de 3-18V
 ### Circuito
 Armamos un NE555 en modo astable y lo conectamos al pin __Clock__ del CD4017
 
-<img align="left" src="./archivos/circuitoParte1.png" alt="NE555 modo astable. (Source:Misaa.cc)" width=700>
+<img align="left" src="./archivos/circuitoParte1.png" alt="NE555 modo astable. (Source:Misaa.cc)" width=600>
 
-</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 
-<img align="left" src="./archivos/circuitoParte2.png" alt="CD4017. (Source:Misaa.cc)" width=700>
+<img align="left" src="./archivos/circuitoParte2.png" alt="CD4017. (Source:Misaa.cc)" width=600>
 
-</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 
 ### Other things: <!-- Things to organize + random stuff -->
 > #### SUB_SUBTITULO
