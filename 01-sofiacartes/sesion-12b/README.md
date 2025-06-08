@@ -7,11 +7,11 @@
 
 |fuentes de poder|
 |---|
-|baterías 9v|
+|baterias 9v|
 |fuente de poder AC DC|
 |power bank: USB-A USB-B|
 |USB-C tiene un chip, handshake. **trabaja con otro estandar**|
-|USB-C pd permite quelas cosas se carguen muy rápido|
+|USB-C pd permite quelas cosas se carguen muy rapido|
 |pantallas solares|
 |pilas 1.5v|
 |pilas reloj 3v|
@@ -22,8 +22,8 @@ adaptador solo cambia la forma de conctar_
 
 |luces|
 |---|
-|LEDS utiles para saber si algo está funcionando (se pueden quemar)|
-|ampolletas domésticas (con el relés podemos controlar el paso de la corriente)|
+|LEDS utiles para saber si algo esta funcionando (se pueden quemar)|
+|ampolletas domesticas (con el relés podemos controlar el paso de la corriente)|
 |LEDS de 3w ( rdquieren resistencias grandes) (leds de lata potencia)|
 |tiras LED (son muchos LEDS, normalmente son de alta potencia) programables|
 
@@ -38,7 +38,7 @@ adaptador solo cambia la forma de conctar_
 |bipolares|
 |FET|
 
-_se utilizan como amplificadores, como switch, como inversor, o como compuerta lógica._
+_se utilizan como amplificadores, como switch, como inversor, o como compuerta logica._
 
 |solenoide|
 |---|
@@ -60,14 +60,14 @@ _la intencidad depende de su tamaño (en pulgadas), de su potencia (en watt) y d
 
 ## Encargo 24
 
-Describir de forma textual 3 proyectos de máquinas electrónicas que quieran hacer de forma individual, ordenar por preferencia o interés de que sea desarrollado.
+Describir de forma textual 3 proyectos de maquinas electronicas que quieran hacer de forma individual, ordenar por preferencia o interés de que sea desarrollado.
 
 1. lámpara interactiva -> lámpara que con sensor de movimiento se encienda y se apague y que pueda cambiar su tipo de luz.
 2. 
 3. 
 ## Encargo 25
 
-Dibujar diagrama de comportamiento, flujos de interacción. No específicar chips. Considerar procesos de manera especulativa. ¿Cuánto tiempo se usará? ¿Qué encendidos y apagados tiene? ¿Cómo se interactúa?
+Dibujar diagrama de comportamiento, flujos de interaccion. No específicar chips. Considerar procesos de manera especulativa. ¿Cuanto tiempo se usará? ¿Qué encendidos y apagados tiene? ¿Cómo se interactua?
 
 ### 1.
 
@@ -83,9 +83,9 @@ Dibujar diagrama de comportamiento, flujos de interacción. No específicar chip
 |capacitores||
 |comparador de voltaje||
 
-Se utilizará a medida que la uz sea escaza en lugares, tipo habitaciones. contara con el ON/OFF mediante sensor de movimiento sobre la lámpara. También variará el tipo de luz, cálida, fría o de colores, dependiendo la necesidad momentánea del usuario, el cual tambiés será mediante movimiento, uno distinto al de encendido y apagado.
+Se utilizara a medida que la uz sea escaza en lugares, tipo habitaciones. contara con el ON/OFF mediante sensor de movimiento sobre la lampara. Tambien variara el tipo de luz, cálida, fria o de colores, dependiendo la necesidad momentánea del usuario, el cual tambiés sera mediante movimiento, uno distinto al de encendido y apagado.
 
-Potr otra parte será una lámpara de pie, utilizando madera como su base y con una pantalla para el traspaso de luz.  
+Potr otra parte sera una lámpara de pie, utilizando madera como su base y con una pantalla para el traspaso de luz.  
 
 ![Texto del párrafo](https://github.com/user-attachments/assets/88a4f86e-cd87-4741-a046-bd8247b14de7)
 
