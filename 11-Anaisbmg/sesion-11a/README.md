@@ -2,9 +2,6 @@
 
 20-05-2025
 
-no hay encargos por ser semana de solemne
-
-
 ## ontología orientada a objetos (ooo)
 
 forma de representar el conocimiento del mundo como si todo fueran objetos, igual que en la programación.
