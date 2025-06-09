@@ -1,6 +1,6 @@
 # sesion-02b
 
-### Apuntes 21/03
+## Apuntes 21/03
 
 * Tutupá/Matias Serrano Acevedo. *es una drum machine que controla baquetas físicas, creada con la intención de generar ritmos programados con los objetos del entorno.*
 
@@ -24,19 +24,19 @@ Rain forest
 
 * Bob Widlar: ingeniero electrónico estadounidense y diseñador de circuitos integrados lineales.
 
-<img width="226" alt="bob widlar" src="https://github.com/user-attachments/assets/f44c26c7-b0f0-4899-bcbd-3119d826628c" />
+![bob widlar](https://github.com/user-attachments/assets/f44c26c7-b0f0-4899-bcbd-3119d826628c)
 
-**circuito integrado analógico de amplificador operacional**
+circuito integrado analógico de amplificador operacional
 
 Consiste en resistencias y transistores integrados en un chip
 
-<img width="709" alt="amplificador op" src="https://github.com/user-attachments/assets/5e85718c-29d9-40bd-8212-d996d74cc14d" />
+![amplificador operacional](https://github.com/user-attachments/assets/5e85718c-29d9-40bd-8212-d996d74cc14d)
 
-**circuito integrado analógico como amplificador operacional**
+circuito integrado analógico como amplificador operacional
 
 La relación simple de entrada/salida del amplificador operacional es la razón para usar el amplificador operacional en el diseño de circuitos integrados analógicos.
 
-<img width="461" alt="amplificador operacional" src="https://github.com/user-attachments/assets/6f09d651-08db-4af4-aa5a-08f44e4fd9de" />
+![amplificador operacional](https://github.com/user-attachments/assets/6f09d651-08db-4af4-aa5a-08f44e4fd9de)
 
 ### Apuntes cuaderno
 
@@ -62,7 +62,7 @@ n°3
 
 ### Suzanne Ciani
 
-<img width="527" alt="suzzane" src="https://github.com/user-attachments/assets/2006b48a-ed1f-497e-afbf-2cab4fe5cda0" />
+![alt-text](https://github.com/user-attachments/assets/2006b48a-ed1f-497e-afbf-2cab4fe5cda0)
 
 nacionalidad norteamericana; pianista y pionera de la música electrónica, es conocida por su trabajo con los sintetizadores Buchla. Su capacidad para crear paisajes sonoros atmosféricos, la han convertido en una figura icónica. A lo largo de su carrera, ha lanzado 20 discos, recibido cinco nominaciones a los premios Grammy y ha ganado un Globo de Oro.
 

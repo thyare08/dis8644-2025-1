@@ -68,4 +68,4 @@ Puedes visitar el [manual para soldar](./archivos/nasa_soldar.pdf) con recomenda
 
 ## Video tutoral para soldar placa perforada (en inglés)
 
-[<img src="./archivos/soldar_yt.png">](https://youtu.be/3N3ApzmyjzE?t=228)
+<https://youtu.be/3N3ApzmyjzE?t=228>
