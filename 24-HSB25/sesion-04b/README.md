@@ -20,7 +20,7 @@
 
 ### **1.¿Cómo se utiliza el aparato?**
 
-*Función indicativa y simbólica (gestos, contexto)*
+Función indicativa y simbólica (gestos, contexto)
 
 - Uso: El usuario apunta el control hacia el receptor IR de las luces LED y presiona botones con funciones específicas.
 
@@ -32,7 +32,7 @@
 
 ### **2. ¿Quién es el usuario esperado?**
 
-*Condiciones de accesibilidad*
+Condiciones de accesibilidad
 
 - Usuarios generales: Personas de todas las edades (niños, adultos mayores) pueden usarlo si tienen visión funcional.
 
@@ -62,7 +62,7 @@
 
 ### **4. ¿De dónde obtiene energía este aparato?**
 
-*De una pila tipo botón (CR2025 o CR2032)*
+De una pila tipo botón (CR2025 o CR2032)
 
 - Tensión típica: 3V.
 
@@ -96,7 +96,7 @@ Identificadores:
 
 ![diagrama RGB](./archivos/diagrama-control-rgb.png)
 
-**1. PILA 3V**
+1. PILA 3V
 
 - Entrada de energía.
 
@@ -104,13 +104,13 @@ Identificadores:
 
 - Su energía alimenta toda la electrónica del control.
 
-**2. PCB PRINCIPAL**
+2 PCB PRINCIPAL
 
 - La placa base donde están montados todos los componentes.
 
 - Tiene pistas de cobre que conectan eléctricamente cada parte del sistema.
 
-**3. IC Microcontrolador**
+3 IC Microcontrolador
 
 - Es el cerebro del dispositivo.
 
@@ -118,7 +118,7 @@ Identificadores:
 
 - Por ejemplo, si aprietas el botón azul, este chip genera la señal necesaria para que el LED infrarrojo envíe ese comando.
 
-**4. Botones de Membrana**
+4 Botones de Membrana
 
 - Cada botón está conectado a la PCB y activa una entrada eléctrica en el microcontrolador.
 
@@ -126,7 +126,7 @@ Identificadores:
 
 - No hay retroalimentación electrónica (ni sonido, ni luz).
 
-**5. LED IR EMISOR**
+5 LED IR EMISOR
 
 - El diodo emisor infrarrojo se activa cuando el microcontrolador lo indica.
 
@@ -136,7 +136,7 @@ Identificadores:
 
 ![ilustración control RGB](./archivos/ilustracion-control-rgb.png)
 
-# **7. Bill of Materials (BOM) – Partes generales**
+## **7. Bill of Materials (BOM) – Partes generales**
 
 | Ítem | Componente                 | Descripción                                  | Cantidad |
 |------|----------------------------|----------------------------------------------|----------|
