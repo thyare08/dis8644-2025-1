@@ -2,7 +2,7 @@
 
 viernes 30 mayo 2025
 
-### Fuentes de poder
+## Fuentes de poder
 
 Usamos baterías de 9v, lamentablemente son caras y contaminantes
 
@@ -10,11 +10,11 @@ Alternativa: Eliminador de voltaje o fuente de poder AC/DC
 
 Powerbank, o más bien todo lo que usb-A o usb-B. Ojo con USB-C porque trabaja con otro estándar
 
-También pueden usar pantallas solares como [éstas](https://listado.mercadolibre.cl/mini-panel-solar#D[A:mini%20panel%20solar]). Para cargar baterías de litio se requiere un aparato intermediario llamado [BMS](https://afel.cl/collections/cargador-balanceador) 
+También pueden usar pantallas solares como [éstas](https://listado.mercadolibre.cl/mini-panel-solar#D[A:mini%20panel%20solar]). Para cargar baterías de litio se requiere un aparato intermediario llamado [BMS](https://afel.cl/collections/cargador-balanceador)
 
 PILAS: AA, AAA, CR2032, etc
 
-Considerar: 
+Considerar:
 
 - Voltaje: hay de 4,5; 5, 7, 9, 12, 15, 18, 25 VDC, etc... ESTAS SON DC, como una batería. Debe ser IGUAL al que espero que se utilice
 
@@ -56,7 +56,7 @@ Considerar:
 
 - Solenoides. Por principio electromagnético (Henry-Faraday, principio de inducción), genera movimiento lineal. Se usa en percusiones electromecánicas y en chapas electrónicas. Se usan para controlar también [líquidos](https://afel.cl/products/valvula-solenoide-12v-1-2-n-c).
 
-- Bomba de agua o de aire https://afel.cl/products/mini-bomba-de-agua-sumergible-120l-h?_pos=1&_sid=1ab36901a&_ss=r
+- Bomba de agua o de aire <https://afel.cl/products/mini-bomba-de-agua-sumergible-120l-h?_pos=1&_sid=1ab36901a&_ss=r>
 
 ### Transistores
 
@@ -68,7 +68,7 @@ Considerar:
 
 - Ejemplo MOSFET: IRFZ44n
 
-- Ejemplo transistor modo inversor: https://es.wikipedia.org/wiki/Puerta_NOT
+- Ejemplo transistor modo inversor: <https://es.wikipedia.org/wiki/Puerta_NOT>
 
 ### Sonido
 
@@ -132,7 +132,7 @@ Considerar:
 
 ## encargo-24
 
-- Describir de forma textual 3 proyectos de máquinas electrónicas que quieran hacer de forma individual, ordenar por preferencia o interés de que sea desarrollado. 
+- Describir de forma textual 3 proyectos de máquinas electrónicas que quieran hacer de forma individual, ordenar por preferencia o interés de que sea desarrollado.
 
 ## encargo-25
 

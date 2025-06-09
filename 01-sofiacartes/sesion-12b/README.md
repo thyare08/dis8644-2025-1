@@ -2,8 +2,7 @@
 
 ## Apuntes clase
 
-![clase 12b 3005](https://github.com/user-attachments/assets/c6d27827-980f-4cc0-aeed-78f7fd4d93d5)
-
+![clase 12b 3005](./archivos/clase-12b-3005.png)
 
 |fuentes de poder|
 |---|
@@ -48,7 +47,7 @@ _se utilizan como amplificadores, como switch, como inversor, o como compuerta l
 |---|
 |parlantes activos (se enchufan)|
 |parlantes pasivos (no se enchufan) **requieren amplificación externa** |
-|buzzers (son parlantes básicos) principalmente usados como señal| 
+|buzzers (son parlantes básicos) principalmente usados como señal|
 |reproductor de audio (convierte datos digitales en electricidad sonora)|
 |microfonos (convierte el sonido (mecánica) en electricidad)|
 
@@ -63,15 +62,16 @@ _la intencidad depende de su tamaño (en pulgadas), de su potencia (en watt) y d
 Describir de forma textual 3 proyectos de maquinas electronicas que quieran hacer de forma individual, ordenar por preferencia o interés de que sea desarrollado.
 
 1. lámpara interactiva -> lámpara que con sensor de movimiento se encienda y se apague y que pueda cambiar su tipo de luz.
-2. 
-3. 
+2.
+3.
+
 ## Encargo 25
 
 Dibujar diagrama de comportamiento, flujos de interaccion. No específicar chips. Considerar procesos de manera especulativa. ¿Cuanto tiempo se usará? ¿Qué encendidos y apagados tiene? ¿Cómo se interactua?
 
-### 1.
+### 1
 
-**BOM**
+BOM
 
 |componente| cantidad|
 |---|---|
@@ -88,4 +88,3 @@ Se utilizara a medida que la uz sea escaza en lugares, tipo habitaciones. contar
 Potr otra parte sera una lámpara de pie, utilizando madera como su base y con una pantalla para el traspaso de luz.  
 
 ![Texto del párrafo](https://github.com/user-attachments/assets/88a4f86e-cd87-4741-a046-bd8247b14de7)
-

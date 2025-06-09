@@ -7,7 +7,7 @@
 
 ## Diagrama Atari Punk Console
 
-<img width="1013" alt="atari punk console" src="https://github.com/user-attachments/assets/d87e9aea-dd5b-401d-b1e9-04f13ef88322" />
+![atari punk console](https://github.com/user-attachments/assets/d87e9aea-dd5b-401d-b1e9-04f13ef88322)
 
 ## trabajo en clases
 
@@ -20,7 +20,7 @@
 
 ## 1-bit-symphony
 
-<img width="601" alt="1-bit music" src="https://github.com/user-attachments/assets/1dbb2e91-6e3d-4df7-8f22-1aca70c0d3a8" />
+![1-bit music](https://github.com/user-attachments/assets/1dbb2e91-6e3d-4df7-8f22-1aca70c0d3a8)
 
 Creada por **Tristan Perich**, un compositor y artista electrónico. Es un artista estadounidense nacido en 1982. Estudió música y matemáticas, sus obras suelen explorar los límites entre lo digital y lo analógico.
 
