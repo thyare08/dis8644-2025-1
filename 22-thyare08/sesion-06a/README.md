@@ -2,7 +2,7 @@
 
 15 de Abril de 2025.
 
-# Project-01
+Project-01
 
 - Grupo 02:
 
@@ -26,7 +26,7 @@
 
 - En la R_experimental_2 pusimos una resistencia de 330 Ω que según notamos genera una frecuencia más aguda que nos llamó más la atención que con otros resistores.
 
-   4. **Circuito esquemático original y modificado:**
+   4 **Circuito esquemático original y modificado:**
 
 APC original.
 
@@ -36,7 +36,7 @@ APC modificado.
 
 ![APC_modificado](https://github.com/user-attachments/assets/245399b7-14c2-4169-bdf0-22ac388f3cbf)
 
- 5. **Fotografías de protoboard con APC modificado:**
+ 5 **Fotografías de protoboard con APC modificado:**
 
 Foto 1.
 
@@ -46,7 +46,7 @@ Foto 2.
 
 ![Foto_1](https://github.com/user-attachments/assets/27a43fc3-e569-41dc-8a6c-d6ad02228f10)
 
-  6. **Videos de potoboard con APC modificado:**
+  6 **Videos de potoboard con APC modificado:**
 
   Video Atari Punk Console modificada 1.
 
@@ -56,7 +56,7 @@ Video Atari Punk Console modificada 2.
 
 <https://github.com/user-attachments/assets/1dfc053f-26e3-40d8-8d1e-b993af6207fa>
 
-   7. **Bill of Materials:**
+   7 **Bill of Materials:**
 
 | Componentes               | Nombre                     | Valor | Cantidad |
 |---------------------------|----------------------------|-------|----------|
