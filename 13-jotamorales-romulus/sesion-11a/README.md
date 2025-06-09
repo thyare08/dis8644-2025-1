@@ -9,15 +9,17 @@
 
 - Un ejemplo de esto son los ventiladores de computadora, el PWM ajusta la velocidad.
 
--A la hora de armar el circuito, a varias personas del curso se les agotaba la batería muy rápido (incluyendome). Por eso, nos hablaron de diferentes fuentes de poder para evitar tener que usar la batería recargable de 9V. 
-
-- Debido al bajo voltaje de la batería, el motor se encendía por un momento y luego se apagaba, mientras que el resto del circuito permanecía encendido.
-
 - Nos recomendaron traer un cargador portátil y un cable USB tipo A que ya estuviera dañado, para cortarlo y usarlo como fuente de poder para trabajar.
 
-- 
+![registro](./archivos/circuito.jpg)
+
+![registro](./archivos/motor.jpg)
 
 [![Video del circuito en acción](https://img.youtube.com/vi/d-slwTrh7Tw/0.jpg)](https://www.youtube.com/shorts/d-slwTrh7Tw)
+
+- A la hora de armar el circuito, a varias personas del curso se les agotaba la batería muy rápido (incluyendome). Por eso, nos hablaron de diferentes fuentes de poder para evitar tener que usar la batería recargable de 9V. 
+
+- Debido al bajo voltaje de la batería, el motor se encendía por un momento y luego se apagaba, mientras que el resto del circuito permanecía encendido.
 
 
 ## Encargo
