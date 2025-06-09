@@ -6,7 +6,7 @@
 
 llegué temprano, había poquita gente, en la primera media hora entre 8:30 a 9:00 aaron estuvo revisando bitácoras
 
-**apuntes sueltos**
+apuntes sueltos:
 
 - santi preguntó cómo se podía agregar una gráfica vectorial a la pcb
 - se probó con una gráfica de un completinho, al ponerlo en la pcb el archivo no se puede insertar cuando es PNG, para poder ser colocado necesita ser un archivo SVG
