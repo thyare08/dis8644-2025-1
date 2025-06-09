@@ -43,13 +43,13 @@ Considerar:
 De pequeña nunca me gustó la oscuridad, y para que fuera **más amigabl**e tenía pegatinas en forma de **estrellas que brillaban** en la oscuridad, siempre me parecieron fascinantes, pero no duraban mucho. Es por eso que mi primera idea es buscar una forma de **iluminación**, con la **combinación de los colores** sea relajante para el usuario, pintando una ampolleta y que se pueda **proyectar a lo largo de la habitación** gracias a la corriente que recibe.
 
 ![estrellas](https://github.com/isabellagutierrezm/dis8644-2025-1/blob/main/09-isabellagutierrezm/sesion-12b/archivos/estrellas.jpg)
-![ampolleta](https://github.com/user-attachments/assets/5646da1a-6f0b-4080-99c0-f6d96cea7d3c)
+![ampolleta](https://github.com/isabellagutierrezm/dis8644-2025-1/blob/main/09-isabellagutierrezm/sesion-12b/archivos/ampolleta.jpg)
 
 ## 2. Querida flor, no te marchitez por favor
 
 Siempre me han parecido interesantes **las flores,** desde su morfología, su manera tan delicada de florecer y de mantenerse viva a pesar de los diferentes cambios de estación. Sin duda es la representación, de que si **algo se cuida de manera constante, se mantiene vivo**. Mi segunda idea de proyecto consiste en armar una **PCB en forma de flor,** que se ilumina con LEDS, que **varía su intensidad** de luz por medio de un LDR.
 
-![flor pcb](https://github.com/user-attachments/assets/55efeea6-fdfd-4d8e-86bf-37f40d1a8c83)
+![flor pcb](https://github.com/isabellagutierrezm/dis8644-2025-1/blob/main/09-isabellagutierrezm/sesion-12b/archivos/flor%20pcb.jpg)
 
 ## 3. Nostalgia.mp3
 
