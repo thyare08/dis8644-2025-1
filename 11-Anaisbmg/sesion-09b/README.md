@@ -97,4 +97,10 @@ link a youtube
 
 ## encargo-19: cultura electrónica y laurie anderson
 
-estudiar la obra de laurie anderson, incluir citas y referentes usados, explicar qué y por qué les gusta o no de su trabajo.
+O Superman fue la primera canción que escuché de Laurie Anderson, sin saber que era de ella. la escuché en videos de TikTok y YouTube. al realizar los encargos, siempre busco en YouTube y en Google para tener un poco de contexto sobre la persona, me impresionó. luego empecé a indagar más sobre ella y considero que es increíble, ya que su capacidad de exploración y las performances que realiza son totalmente sorprendentes para mí.
+
+me llama mucho la atención su exploración material, como la creación de nuevos instrumentos; por ejemplo, el violín que transforma de algo tan clásico a algo completamente electrónico. eso me parece sorprendente. me genera una sensación similar a la que tuve al escuchar a Clara Rockmore o al ver la performance Duets on Ice, que esta finaliza cuando se derrite por completo el hielo de sus pies, considerando que esta con patines de hielo.
+
+seguí investigando y descubrí que ella se destaca en diversas áreas. además, busca aprender nuevas habilidades para no encasillarse en una temática específica, lo cual me parece totalmente admirable como persona.
+
+algunas de las performances que destaco son: Pillow Speaker, Laurie Anderson and Her Musical Head y Laurie Anderson and Her Clone, precisamente por lo que mencionaba antes: su exploración material, su conexión con la electrónica, su ironía y otras características que la hacen única.
