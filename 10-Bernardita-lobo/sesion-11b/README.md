@@ -19,6 +19,6 @@
 
 ![Foto del circuito en la protoboard](./archivos/tme-sesion11b-circuito01.jpeg)
 
-![Foto del circuito en la protoboard](./archivos/tme-sesion11b-circuito02.jpeg)
+![Foto del circuito en la protoboard](./archivos/tme-sesion11b--circuito02.jpeg)
 
 ![Foto de los apuntes de mi bitácora](./archivos/tme-sesion11b-bitacora.jpeg)
