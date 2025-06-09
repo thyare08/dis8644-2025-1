@@ -2,6 +2,8 @@
 
 Viernes 23 de Mayo del 2025.
 
+
+Me encontraba con licencia pero de igual forma me consegui la materia
 ## Apuntes
 
 Se vio un componete nuevo, el cual es el **Chip 4017**
