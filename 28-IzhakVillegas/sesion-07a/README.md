@@ -2,7 +2,7 @@
 
 (Falté a esta clase)
 
-# Kicad
+## Kicad
 
 <https://www.kicad.org/>
 

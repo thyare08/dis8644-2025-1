@@ -76,10 +76,9 @@ No se puede tocar cobre con cobre ni serigrafía con serigrafía.
 7. PCB Thickness 1.2mm, es más caro hacer placas más delgadas.
 8. SMD (se puede pedir soldado).
 9. LCSC (Shenzhen).
-
-1 mes antes de la entrega, ver qué vamos a ensamblar. Después interfaz de usuario.
-
 10. Ver envío, sube precio. Por ejemplo 5 PCB salndrían $10 USD.
+
+* 1 mes antes de la entrega, ver qué vamos a ensamblar. Después interfaz de usuario.
 
 ## encargo-16: cotizar udpudu en JLCPCB de forma productiva
 
@@ -306,11 +305,11 @@ Peso de cobre en las capas exteriores de 1 oz o 2 oz. El peso interior del cobre
 
 Puede ser de 0.3 mm/(0.4/0.45 mm), 0.25 mm/(0.35/0.4mm), 0.2 mm/(0.3/0.35mm) y 0.15 mm/(0.25/0.3mm).
 
->El tamaño mínimo del orificio y el diámetro de la vía.
+El tamaño mínimo del orificio y el diámetro de la vía.
 El diámetro de la vía debe ser 0,1 mm (preferiblemente 0,15 mm) mayor que el tamaño del orificio de la vía.
 p.ej. cuando el tamaño del orificio de la vía es de 0,2 mm, el diámetro de la vía debe ser de 0,3 mm o 0,35 mm.
 
->Aviso: Se aplicarán cargos adicionales cuando el orificio pasante sea <0,3 mm y el diámetro del orificio pasante sea ≤0,4 mm. No se aplicarán cargos adicionales cuando el orificio pasante sea ≥0,3 mm y el diámetro del orificio pasante sea ≥0,4 mm.
+Aviso: Se aplicarán cargos adicionales cuando el orificio pasante sea <0,3 mm y el diámetro del orificio pasante sea ≤0,4 mm. No se aplicarán cargos adicionales cuando el orificio pasante sea ≥0,3 mm y el diámetro del orificio pasante sea ≥0,4 mm.
 Para placas multicapa, si la vía tiene un diámetro≥0,45 mm, el orificio de 0,2 mm también es gratuito. Por ejemplo, para un orificio de 0,2 mm/0,4 mm de diámetro es necesario un cargo adicional, mientras que un orificio de 0,3 mm/0,40 mm de diámetro es gratuito.
 
 ### Tolerancia del contorno del tablero
@@ -344,9 +343,9 @@ Opciones: No / Sí
 
 ### Agujeros almenados
 
->Las placas con castellados se recubren a través de orificios ubicados en los bordes de una placa de circuito impreso y se cortan para formar una serie de medios orificios.
+Las placas con castellados se recubren a través de orificios ubicados en los bordes de una placa de circuito impreso y se cortan para formar una serie de medios orificios.
 
->El diámetro mínimo de los agujeros almenados es de 0.5 mm.
+El diámetro mínimo de los agujeros almenados es de 0.5 mm.
 
 Para placas con castellados.
 
