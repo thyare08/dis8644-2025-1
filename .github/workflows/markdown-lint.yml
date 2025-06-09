@@ -24,7 +24,7 @@ jobs:
 
     - name: hacer lint
       uses: DavidAnson/markdownlint-cli2-action@v20.0.0
-      continue-on-error: true
+      # continue-on-error: true
       with:
         fix: true
         config: 'config/.markdownlint.jsonc'
