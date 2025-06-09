@@ -8,17 +8,17 @@ death internet theory:  es una teoría conspirativa que afirma que actualmente I
 
 circuit bending: customización creativa de circuitos con dispositivos electrónicos.
 
-nic collins - circuit bending 
+nic collins - circuit bending
 
 *handmade electronic music, the art of hardware hacking* - libro de nicolas collins, se encuentra en el lab de interacción digital
 
-csv: valor separados por coma 
+csv: valor separados por coma
 
 conversor de csv a markdown
 
 css: crear carpeta css para definir distintos estilos, ya sea tipografías, colores, etc.
 
-## entrega de placas y soldaduras 
+## entrega de placas y soldaduras
 
 nos hicieron entrega de las placas diseñadas en Kicad (udpudu), luego nos reunimos en grupos para dar comienzo a las soldaduras de los componentes a la placa.
 
@@ -50,7 +50,7 @@ nos hicieron entrega de las placas diseñadas en Kicad (udpudu), luego nos reuni
 
 ![pantalla_7_segmentos-2](./archivos/foto-martes-donde-funcionarios-registran-su-legada.png)
 
-**foto sacada el día jueves a la pantalla de la lavadora de mi casa, indica el tiempo de lavado y el on/off**
+foto sacada el día jueves a la pantalla de la lavadora de mi casa, indica el tiempo de lavado y el on/off
 
 ![pantalla_7_segmentos-3](./archivos/foto-día-jueves-a-pantalla-de-lavadora-de-mi-casa_indica-tiempo-de-lavado-y-on:off.png)
 

@@ -46,17 +46,11 @@ Y en la subcarpeta "bin" encuentro el acceso al programa como tal.
 
 ![image](https://github.com/user-attachments/assets/e244b639-4675-4612-97ec-3b865c04b14e)
 
-<br>
-
 ***
 
 #### 1.2 Documental Sisters With Transistors
 
-<br>
-
 Pendiente...
-
-<br>
 
 ***
 
@@ -66,4 +60,4 @@ La semana pasada fue horrible, espero que esta sea mejor ૮◞ ﻌ ◟ა
 
 ***
 
-##### _°˖✧◝(⁰▿⁰)◜✧˖°_
+°˖✧◝(⁰▿⁰)◜✧˖°
