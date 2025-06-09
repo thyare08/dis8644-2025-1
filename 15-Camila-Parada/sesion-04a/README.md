@@ -30,11 +30,11 @@ Entre mis búsquedas, encontré uno de los juguetes que formaron parte de mi inf
 
 ![tronic pet 001](./archivos/tronic-001.jpg)
 
-_▼ Empaque y producto por delante_
+Empaque y producto por delante
 
 ![tronic pet 002](./archivos/tronic-002.jpg)
 
-_▼ Empaque y producto por detrás_
+Empaque y producto por detrás
 
 A primera vista, se puede ver que es un objeto pequeño, el cuál permite colgarlo gracias a una cadena, destacandose por ser portable y de un tamaño pequeño, además de tener la forma de un huevo (idea relacionada con la crianza de un animal). Lo que más destaca es la pantalla, que ocupa el centro del objeto en si, seguido por 4 botones de igual color, tamaño y materialidad, pero con distintas funcionalidades: de izq. a der. se encuentran las funciones de "status", "reset", "decide" y "cancel". Esta información se comprende gracias al uso del diseño gráfico impreso como una carcasa que le da personalidad y guía al usuario en sus decisiones.
 

@@ -18,11 +18,9 @@ Una vez terminadas las presentaciones, el resto de la clase se enfocó nuevament
 
 ### Escaneo de bitácora y apuntes escritos del día
 
-<br>
-<img src="./image/001-11.04.jpg">
-<br>
-<img src="./image/002-11.04.jpg">
-<br>
+![alt-text](./archivos/001-11.04.jpg)
+
+![alt-text](./archivos/002-11.04.jpg)
 
 ***
 
@@ -30,47 +28,29 @@ Una vez terminadas las presentaciones, el resto de la clase se enfocó nuevament
 
 #### _Atari Punk Console Editada_
 
-<br>
-
 Para poder comenzar el proyecto en sí, decidí enfocarme en lo que llevo haciendo durante varias clases: analizar el diagrama del circuito, con la finalidad de comprender la composición y orden de las piezas, buscando simplificar lo más posible el montaje en la protoboard para poder realizar la mayor cantidad de modificaciones posibles en el espacio disponible. Para ello me inspiré de este video que enseña el montaje de dicho sintetizador: <https://www.youtube.com/watch?v=c-Rlr_UjkmY>
 
-<br>
+![alt-text](./archivos/003-11.04.png)
 
-<img src="./image/003-11.04.png">
-
-_▼ Diagrama entregado en clase. Obtenido de: <https://www.build-electronic-circuits.com/atari-punk-console/>_
-
-<br>
+Diagrama entregado en clase. Obtenido de: <https://www.build-electronic-circuits.com/atari-punk-console/>
 
 La primera parte decidí centrarme en ir poco a poco fabricando el circuito, comenzando por preparar la mitad de este y ponerlo a prueba.
 
-<br>
+![alt-text](./archivos/005-11.04.jpg)
 
-<img src="./image/005-11.04.jpg">
-
-_▼ Primer avance: una mitad_
-
-<br>
+Primer avance: una mitad
 
 Tras observar que el circuito funcionaba sin problemas, decidí terminar el montaje usando 2 sensores LDR como resistencias experimentales.
 
-<br>
+![alt-text](./archivos/006-11.04.jpg)
 
-<img src="./image/006-11.04.jpg">
-
-_▼ Circuito original completo_
-
-<br>
+Circuito original completo
 
 Ya lista la estructura base, decidí reemplazar la primera resistencia por un potenciometro, con la finalidad de poder controlar de mejor manera los sonidos emitidos. En ello implementé cables dupont hembra-macho para extender fuera del tablero esta pieza. Por suerte pudo funcionar sin problema.
 
-<br>
+![alt-text](./archivos/007-11.04.jpg
 
-<img src="./image/007-11.04.jpg">
-
-_▼ Circuito levemente modificado_
-
-<br>
+Circuito levemente modificado
 
 Como ya había podido usar con anterioridad los potenciómetros, pudiendo tener una comprensión de su uso antes de este proyecto, pues decidí generar un circuito que pudiera funcionar con un interruptor que se separe en 2 caminos. Para ello quise usar un potenciometro y un condensador, además de resistencias. Este fue un proceso de prueba y error, dado que pese a investigar y buscar videos que me enseñaran el funcionamiento de un interruptor en un circuito, no conseguí hasta varios intentos que estos caminos pudieran ser funcionales.
 
@@ -86,21 +66,15 @@ El segundo posee otra resistencia de 10k más un capacitor electrolítico de 1n.
 Otra de las modificaciones que realicé, fue definir como segunda resistencia variable a un sensor LDR.
 Por otra parte, generé una conexión paralela aprovechando el espacio restante en el output de esta caja negra, incluyendo una resistenciade 1k y un led de color verde.
 
-<br>
+![alt-text](./archivos/008-11.04.jpg)
 
-<img src="./image/008-11.04.jpg">
-
-_▼ Circuito modificado_
+Circuito modificado
 
 Para tener una mayor comprensión del circuito y los lenguajes de montaje quise realizar las modificaciones al diagrama anteriormente mostrado, buscando signos que representaran las piezas que incluí y los caminos creados.
 
-<br>
+![alt-text](./archivos/004-11.04.png)
 
-<img src="./image/004-11.04.png">
-
-_▼ Diagrama del circuito modificado_
-
-<br>
+▼ Diagrama del circuito modificado
 
 #### Bill of materials (BOM)
 
@@ -116,8 +90,6 @@ _▼ Diagrama del circuito modificado_
 | Interruptor           | 1       |  Sin nombre    |    30mΩ    |
 | Potenciometro         | 1       |    P1      |    500K    |
 
-<br>
-
 ***
 
 ### Posdata
@@ -126,4 +98,4 @@ No se porqué, pero siempre dejo el escribir estos códigos para la madrugada...
 
 ***
 
-##### _°˖✧◝(⁰▿⁰)◜✧˖°_
+°˖✧◝(⁰▿⁰)◜✧˖°

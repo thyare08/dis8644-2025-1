@@ -1,5 +1,7 @@
 # sesion-10b
-### taller viernes 16 de mayo
+
+## taller viernes 16 de mayo
+
 - Llegué un poco atrasado, no tan tarde, pero cuando pasa esto cuesta entrar en la conversación.
   
 - Dead Internet Theory. Se dice que gran parte de internet está controlada por bots y no por personas reales. Creo que esta parte de la teoría tiene algo de verdad, pero me parece exagerado decir que la mayoría del contenido está siendo manipulado, porque todavía hay mucha gente auténtica creando y compartiendo cosas en línea. Además, por ahora no creo que esto empeore demasiado, ya que es relativamente fácil detectar a estos bots falsos, porque casi siempre intentan que hagas clic en enlaces sospechosos o visites perfiles dudosos.
@@ -8,10 +10,10 @@
   
 - Hardware hacking
   
-  
 - Aaron nos hizo entrega de las placas UDPUDU.
 
-### UDPUDU - escribir manual con pasos a seguir, receta, de los pasos que siguieron para ensamblar la PCB.
+### UDPUDU - escribir manual con pasos a seguir, receta, de los pasos que siguieron para ensamblar la PCB
+
 - Primmero nos juntamos en grupos de 4, ordenando la zona de trabajo.
 - Ordenamos los componentes revisando el BOM; cada componente tenía que tener el mismo valor que indicaba la tabla.
   
@@ -56,7 +58,7 @@
   
 ![recorte](./archivos/6.png)
 
-- Finalizando la clase, los componentes que se alcanzaron a soldar fueron los LEDs, el diodo, el condensadores ceramico e electrolíticos y las resistencias. Los leds van en d3 Y D2, los condensadores electrolíticos van en en c4 (1u) y c5 (47u) y el cerámico va en c5. 
+- Finalizando la clase, los componentes que se alcanzaron a soldar fueron los LEDs, el diodo, el condensadores ceramico e electrolíticos y las resistencias. Los leds van en d3 Y D2, los condensadores electrolíticos van en en c4 (1u) y c5 (47u) y el cerámico va en c5.
 
 ![placa](./archivos/7.png)
 
