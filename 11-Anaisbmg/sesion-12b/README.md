@@ -2,7 +2,7 @@
 
 ## encargo-24
 
-- Describir de forma textual 3 proyectos de máquinas electrónicas que quieran hacer de forma individual, ordenar por preferencia o interés de que sea desarrollado. 
+- Describir de forma textual 3 proyectos de máquinas electrónicas que quieran hacer de forma individual, ordenar por preferencia o interés de que sea desarrollado.
 
 1. __máquina interactiva con parlantes, buzzer y vibrador ocultos__. objeto del tamaño de una mano que emite sonidos y vibraciones diversas según el punto de contacto y su conexión interna.
 2. __máquina de dibujo aleatorio__. un motor mueve un lápiz sobre papel, generando trazos variados según diferentes opciones de velocidad y periodos de movimiento.
@@ -12,8 +12,7 @@
 
 - Dibujar diagrama de comportamiento, flujos de interacción. No específicar chips. Considerar procesos de manera especulativa. ¿Cuánto tiempo se usará? ¿Qué encendidos y apagados tiene? ¿Cómo se interactúa?
 
-
-__1. máquina interactiva con parlantes, buzzer y vibrador ocultos__
+### 1. máquina interactiva con parlantes, buzzer y vibrador ocultos
 
 el objeto está en reposo → tocar y presionar → vibración, sonido → cada zona tiene una respuesta.
 
@@ -23,7 +22,7 @@ ejemplo de respuesta: tonos graves, agudos, mayor y menor periodo, entre otros.
 - reposo: depende de la interacción. si el objeto deja de recibir señales, entra nuevamente en reposo.
 - tiempo estimado de uso: ya que el uso es espontáneo , su duración varía según la curiosidad del usuario, en promedio 5 minutos.
 
-__2. máquina de dibujo aleatorio__
+### 2. máquina de dibujo aleatorio
 
 - estado inicial: la máquina está en reposo al igual que el lápiz, esperando a recibir una señal.
 - inicio de uso: el usuario coloca una hoja en la base y presiona un botón para activarla. el motor comienza a mover el lápiz, así el trazo aparece en el papel.
@@ -31,7 +30,7 @@ __2. máquina de dibujo aleatorio__
 - finalización: la máquina se detiene y el usuario retira la hoja, observa el resultado que se creó gracias a la electrónica.
 - tiempo estimado de uso: en promedio 2 minutos, aunque invita a seguir experimentando con otros parámetros.
 
-__3. conductividad del agua__
+### 3. conductividad del agua
 
 - estado inicial: el agua se encuentra en estado de reposo y el circuito está listo para la interacción.
 - inicio de uso: el usuario comienza a interactuar con el circuito, las luces led se encienden y el agua comienza a vibrar según los tonos producidos por la interacción.

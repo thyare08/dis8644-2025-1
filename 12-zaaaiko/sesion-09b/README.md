@@ -1,7 +1,5 @@
 # sesion-09b
 
-# Clase 09b
-
 ## Primera parte
 
 - Charla introductoria sobre cosas hechas en el receso.
@@ -13,5 +11,4 @@
 
 - Revisión del circuito PWM
 
-  ![image](https://github.com/user-attachments/assets/0d86d019-c382-4be4-b96b-0f8403fed20c)
-
+![image](https://github.com/user-attachments/assets/0d86d019-c382-4be4-b96b-0f8403fed20c)
