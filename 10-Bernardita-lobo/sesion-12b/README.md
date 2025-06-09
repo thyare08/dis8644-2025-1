@@ -61,6 +61,8 @@
 
 ![Foto de mis apuntes de mi bitácora](./archivos/tme-sesion12ay12b-bitacora.jpeg)
 
+insetar foto bitacora*
+
 ## Encargos
 
 ### Encargo-24: Proyectos de máquinas electrónicas
