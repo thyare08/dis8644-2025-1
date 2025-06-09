@@ -23,4 +23,4 @@
 
 
 ## Encargo
-- No hay por semana de solemnes
+- No hay encargos por semana de solemnes
