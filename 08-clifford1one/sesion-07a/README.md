@@ -22,9 +22,9 @@ mi tira el mismo error, lo atribuyo a la misma causa que en el caso anterior, ya
 basado en el circuito [DARK DETECTOR](https://www.555-timer-circuits.com/dark-detector.html)
 
 
-![apuntes de la clase en figma](tme-07a-apunte.png)
+![apuntes de la clase en figma](./archivos/tme-07a-apunte.png)
 
-![investigación extra en figma](tme-07a-investigar.png)
+![investigación extra en figma](./archivos/tme-07a-investigar.png)
 
 ## kicad
 
