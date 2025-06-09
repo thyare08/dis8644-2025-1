@@ -1,6 +1,6 @@
 # sesion-06a
 
-*15 de Abril de 2025*
+15 de Abril de 2025
 
 ## Presentación proyecto 1
 

@@ -1,7 +1,5 @@
 # sesion-04a
 
-# apuntes
-
 ## evaluaciones
 
 bitácoras (1 nota al mes).
