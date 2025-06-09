@@ -25,5 +25,5 @@
 ![registro](./archivos/parte2.jpg)
 
 
-## Soldado udp
+## Soldado udpudu
 - Finalizamos de soldar el circuito en su mayoria, en este caso FranUDP se ofrecio a finalizar el soldado de esta pieza. En esta ocasion se preparo mejor para el soldado ay que compro unos brazitos de soporte para afirmar la placa. 
