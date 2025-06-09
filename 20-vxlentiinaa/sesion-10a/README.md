@@ -72,7 +72,7 @@ o 10 64 0 4099 0.625 0.000390625 2 2 10 3
 
 ## Circuito APC Modificado Grupo 1
 
-<img width="1440" alt="Captura de pantalla 2025-05-15 a la(s) 11 11 19 p m" src="https://github.com/user-attachments/assets/053f0d19-2e1f-4518-b114-ec5f939f4ebb" />
+![alt-text](https://github.com/user-attachments/assets/053f0d19-2e1f-4518-b114-ec5f939f4ebb)
 
 ```txt
 $ 1 0.000005 69.34413510434165 66 5 50 5e-11

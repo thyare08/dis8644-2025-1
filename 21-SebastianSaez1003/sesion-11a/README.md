@@ -1,6 +1,6 @@
 # sesion-11a
-## Módulo de la mañana
 
+## Módulo de la mañana
 
 Hoy conocimos que era un transistor MOSFET.
 
@@ -12,7 +12,21 @@ El motor necesita más corriente que el chip 555 es capaz de emitir directamente
 
 Un PWM es lo que hace que sean más potentes las aspas de un motor, por ejemplo, el ventilador de mi compu y el juguete que trajo una compañera hace unas clases que funcionaba con un sensor de proximidad.
 
-<img src="./archivos/11a-clase-1.jpg" alt="drawing" width="300"/> <img src="./archivos/11a-clase-2.jpg" alt="drawing" width="300"/> <img src="./archivos/11a-clase-3.jpg" alt="drawing" width="300"/> <img src="./archivos/11a-clase-4.jpg" alt="drawing" width="300"/> <img src="./archivos/11a-clase-5.jpg" alt="drawing" width="300"/> <img src="./archivos/11a-clase-6.jpg" alt="drawing" width="300"/> <img src="./archivos/11a-clase-7.jpg" alt="drawing" width="300"/> <img src="./archivos/11a-clase-8.jpg" alt="drawing" width="300"/> 
+![drawing](./archivos/11a-clase-1.jpg)
+
+![drawing](./archivos/11a-clase-2.jpg)
+
+![drawing](./archivos/11a-clase-3.jpg)
+
+![drawing](./archivos/11a-clase-4.jpg)
+
+![drawing](./archivos/11a-clase-5.jpg)
+
+![drawing](./archivos/11a-clase-6.jpg)
+
+![drawing](./archivos/11a-clase-7.jpg)
+
+![drawing](./archivos/11a-clase-8.jpg)
 
 [![Video n1, donde funciona el motor con un maskin para poder observar la rotacion](https://img.youtube.com/vi/GQtUgAqHoPs/0.jpg)](https://www.youtube.com/shorts/GQtUgAqHoPs)
 
