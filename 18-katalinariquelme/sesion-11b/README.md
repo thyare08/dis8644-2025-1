@@ -22,14 +22,3 @@ Foto de pinout
 
 El diagrama de flujo del circuito que vamos a trabajar en clase comienza con el primer 555, que funciona como un generador de reloj. Luego, el 4017 proporciona una secuencia de salidas. A continuación, se encuentra el segundo 555, configurado en modo astable, y finalmente, todo está conectado a un parlante que produce sonido en función de la frecuencia con la que se encienden los LED del secuenciador.
 
-
-## Circuito realizado
-
-Circuito esquemático
-
-Foto del circuito
-
-## Soldadura final UDPudu
-Finalimamos de soldar la placa udupudu.
-
-Foto udpudu con todos sus componentes soldados.
