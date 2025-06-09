@@ -17,7 +17,7 @@
 | D1                 | 1n4007         | Diodo                               |    1            |              |
 | C3                 | 100n             |Condensador cerámico    |     1            | 104      |
 | C4                 | 1u                 |Condensador electrolítico |      1          |              |
-| C5                 | 47u               |  Condensador electrolítico|      1         |              | 
+| C5                 | 47u               |  Condensador electrolítico|      1         |              |
 | D2,D3           | LED              |  Led 5mm                          |       2         |              |
 | J2                 | TBLOCK_2   | Terminal Block 2                |       1         |              |
 |LS1               |SPK                | Terminal Block 2                |       1         |              |
@@ -27,10 +27,10 @@
 ## rncargo-22: Manual de pasos
 
 1. Nos reunimos en grupos de 6 para dividir tareas y comenzar a armar la placa
-2. Hacemos conteo de nuestros componentes 
+2. Hacemos conteo de nuestros componentes
 3. De a uno vamos soldando los componentes (aconsejamos pegar la placa a una plataforma, para que no se mueva mientras soldamos)
 4. Al finalizar recuerda cortar las sobras de la parte trasera de la placa
-   
+
 ## encargo-23: Documentación visual del ensamblado de la placa
 
 ![BOM](https://github.com/isabellagutierrezm/dis8644-2025-1/blob/main/09-isabellagutierrezm/sesion-10b/archivos/BOM.jpeg)
@@ -54,10 +54,7 @@
 ![caimanesyparlante](https://github.com/isabellagutierrezm/dis8644-2025-1/blob/main/09-isabellagutierrezm/sesion-10b/archivos/caimanesyparlante.jpeg)
 
 ![chip555](https://github.com/isabellagutierrezm/dis8644-2025-1/blob/main/09-isabellagutierrezm/sesion-10b/archivos/chip555.jpeg)
+
 ## Placa final
-https://youtube.com/shorts/ZWc0VaQz9aA
 
-
-
-
-
+<https://youtube.com/shorts/ZWc0VaQz9aA>
