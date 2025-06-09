@@ -1,6 +1,6 @@
 # sesion-07a
 
-### encargo 14
+## encargo 14
 
 ![esquemático kicad del APC](./archivos/tme-07a-schApc.png)
 este es el esquemático del circuito base Atari Punk Console.
@@ -14,7 +14,6 @@ Intenté alinear los elementos a la grilla pero sigue saliendo el mismo error.
 
 ![error que me tira](./archivos/tme-07a-sch-lda.png)
 este es el esquemátio hecho en kicad del circuito LDA. Basado en el circuito encontrado en la página <555-timer-circuits.com>
-
 
 ![error que me tira el esquemático del LDA](./archivos/tme-07a-ldaError.png)
 mi tira el mismo error, lo atribuyo a la misma causa que en el caso anterior, ya que pareciera no coincidir aquellos componentes que causan errores.

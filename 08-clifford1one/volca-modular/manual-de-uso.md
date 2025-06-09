@@ -1,7 +1,5 @@
 # Manual de uso  para el volca modular
 
-###
-
 ## Contexto
 
 Un sintetizador es un instrumento musical electrónico que **genera señales eléctricas**, las cuales son **convertidas a sonido audible** a través de un altavoz.
@@ -12,11 +10,9 @@ Los sintetizadores **generan y procesan** señales, por lo que es capaz de gener
 
 Volca Modular es un sintetizador **semi-modular**, esto quiere decir que permite al usuario manipular el **orden y presencia** de los procesos internos del sistema.
 
-
 Dentro del volca modular existen 8 módulos independientes con funciones específicas que el usuario puede manipular para lograr distintos sonidos.
 
 ### precauciones
-
 
 Los osciladores del volca modular están fabricados con circuitos analógicoa dicretos, por lo que su afinación puede variar dependiendo de factores ambientales como la temperatura.
 
@@ -25,8 +21,6 @@ Para afinar usar *FUNC* + *RATIO knob*
 Factores que pueden acelerar el deterioro del volca modular:
 Exposición a la luz del sol, temperaturas exctremas, exceso de polvo/suciedad, vibración excesiva, campos magnéticos potentes.
 
-
-
 ## Interfaz
 
 ![Diagrama de la interfaz del volca modular divido en 4 zonas](vm-interfaz-diagrama.png)
@@ -34,7 +28,6 @@ Exposición a la luz del sol, temperaturas exctremas, exceso de polvo/suciedad, 
 ### setup
 
 Compuesto por el **botón de encendido**, la entrada a corriente y **CLOCK knob.** Este último controla la velocidad del secuenciador.
-
 
 ### módulos
 
@@ -67,8 +60,8 @@ el volca modular contiene una serie de entradas y salidas mini jack
 
 - **Jacks SYNC IN, SYNC OUT:** Permiten la sincronización con dispositivos externos.
 
-    - - IN: cuando esté conectado ignorará el reloj interno propio del volca modular. 
-    - - OUT: manda señales de 5V el comienzo de cada step.
+  - - IN: cuando esté conectado ignorará el reloj interno propio del volca modular.
+  - - OUT: manda señales de 5V el comienzo de cada step.
 
 Salida de audífonos: al conectar audífonos el parlante del dispositivo dejará de sonar.
 
@@ -80,14 +73,14 @@ Salida de audífonos: al conectar audífonos el parlante del dispositivo dejará
 
 El proceso que lleva a cabo el volca modular consta de 8 módulos independientes e intercontables a través de cables dupont. Esto permite una variedad muy amplia de posibles sonidos.
 
-*el volca modular tiene sus propias conexiones internas las cuales funcionan solo cuando no hay cables externos conectados*
+> el volca modular tiene sus propias conexiones internas las cuales funcionan solo cuando no hay cables externos conectados
 
 ### interfaz
 
-Cada módulo cuenta con sus propias entradas(IN) y salidas(OUT). Éstas se diferencian por su contorno. 
+Cada módulo cuenta con sus propias entradas(IN) y salidas(OUT). Éstas se diferencian por su contorno.
 
 Contorno con relleno = OUT
-contorno sin relleno = IN 
+contorno sin relleno = IN
 
 ![diagrama de partes con y sin contorno](vm-contorno-diag.png)
 
@@ -100,9 +93,7 @@ los modulos se comunican mediante señales que varían entre 3V y -3V. el volca 
 - gate: la señal sube a 3V y permanece el tiempo que dure la nota
 - trigger: la señal sube a 3V y desciende inmediantamente
 
-### módulos
-
-##### source: 
+#### source
 
 "Este módulo consta de un par de VCO triangulares (osciladores controlados por voltaje), uno llamado “carrier” (transportador) y el otro “modulator” (modulador). La señal generada por el modulador se utiliza para variar la frecuencia del transportador, y este proceso se denomina modulación de frecuencia (FM). La modulación de frecuencia permite a los usuarios crear sonidos con gran riqueza de contenido armónico, y frecuentemente con una característica metálica. La señal de salida pasa después a través de un circuito doblador de ondas controlado por el mando FOLD que invierte la forma de la onda a ciertos umbrales con el fin de aumentar aún más el contenido armónico."
 
@@ -137,7 +128,7 @@ modulación continua, de manera similar a un LFO."
 - IN: trigger, shape, time
 - OUT: positive, inverted, end trigger
 
-#### sequences 
+#### sequences
 
 "Este módulo es la interfaz con el secuenciador
 interno.
@@ -216,7 +207,6 @@ entrada."
 - IN: audio, amount
 - OUT: audio
 
-
 ## Secuenciador
 
 Muchas de las funciones del volca modular se encuentran ocultas en esta sección.
@@ -228,11 +218,10 @@ Muchas de las funciones del volca modular se encuentran ocultas en esta sección
 
 ### asignar notas
 
-FUNC+STEP REC(grabación en STEP[1]) 
+FUNC+STEP REC(grabación en STEP[1])
  >> STEP[1-16](asignar nota a STEP[1])
  >> STEP REC (asignar silencio)
  >> ACT STEP(reproducir nota ya asignada)
-
 
 ### guardar secuencias
 
@@ -241,7 +230,6 @@ FUNC+MEMORY > STEP[1-16](guarda secuencia en STEP[1-16])
 ### reproducir secuencias guardadas
 
 MEMORY+STEP[1-16](seleccionar secuencia guardada en *STEP[1-16]*) >> *ACT STEP* (reproducir secuencia seleccionada)
-
 
 ### *FUNC*
 

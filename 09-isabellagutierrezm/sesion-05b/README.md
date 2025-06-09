@@ -26,7 +26,7 @@ En el segundo bloque vimos al referente **Forrest Mims**, el cual es un autor qu
 
 ![forrest mims](https://github.com/user-attachments/assets/a2aeeacc-e943-4b86-ba38-500b41a7f971)
 
- *Esta foto fue rescatada del pdf del libro Circuitos básicos semiconductores de Forrest Mims*
+Esta foto fue rescatada del pdf del libro Circuitos básicos semiconductores de Forrest Mims
 
 ## Aprendemos a soldar
 

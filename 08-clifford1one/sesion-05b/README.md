@@ -6,7 +6,7 @@ links relevantes:
 
 <https://www.markdownguide.org/cheat-sheet/>
 
-### Avancesito
+## Avancesito
 
 ![circuito hecho en tinkercad](./archivos/tme-05b-tinker.png)
 
