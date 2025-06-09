@@ -24,6 +24,41 @@
 - WeiweiCam
 - Diseño especulativo
 
+### Fuentes de poder
+
+- Baterías de 9 V
+- Fuente de poder AC/DC
+- Power bank: USB-A, USB-B
+- USB-C
+- Micro pantallas solares
+- Pilas de 1.5 V
+- Pilas para reloj de 3 V
+- Voltajes: 4.5 V, 5 V, 7 V, 9 V, 12 V, 15 V, 18 V, 25 V
+- Polaridad y dimensiones físicas
+
+### LEDs
+
+- LEDs
+- Ampolletas domésticas
+- LEDs de 3 W
+- Tiras LED programables
+
+### Motores
+
+- Motores DC 6 V
+- Motores DC (genéricos)
+- Motor paso a paso
+
+### Transistores
+
+### Sonido
+
+- Parlantes activos
+- Parlantes pasivos
+- Buzzers
+- Reproductor de audio
+- Micrófonos
+
 ![Foto de mis apuntes de mi bitácora](./archivos/tme-sesion12ay12b-bitacora.jpeg)
 
 ## Encargos
