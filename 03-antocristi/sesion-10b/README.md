@@ -1,7 +1,7 @@
 # sesion-10b
 
 ## Encargo 22
-Primero, revisamos el esquematico del circuito de la PCB para ubicar y buscar los componentes necesarios, luego ubicamos los componentes en sus espacios correspondientes mientras esperabamos que se calentara el cautin, durante los primeros semestres aprendimos a soldar por lo que fue sencillo la parte de soldar, por lo que mas "costó trabajo" fue enconttrar la orientación y ubicación de los componentes.
+Primero, revisamos el esquematico del circuito de la PCB para ubicar y buscar los componentes necesarios, luego ubicamos los componentes en sus espacios correspondientes mientras esperabamos que se calentara el cautin, durante los primeros semestres aprendimos a soldar por lo que fue sencillo la parte de soldar, lo que más "costó trabajo" fue encontrar la orientación y ubicación de los componentes.
 
 
 ## Encargo 23
