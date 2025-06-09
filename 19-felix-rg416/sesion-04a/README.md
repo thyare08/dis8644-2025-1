@@ -4,7 +4,7 @@ martes 1-04
 
 - zach lieberman
 - 100 days for
-- [lauren mccarty](https://lauren-mccarthy.com/)
+- [lauren mccarthy](https://lauren-mccarthy.com/)
 - es importante explicar lo que pensaste
 - resistencias pullup pulldown
 - modulación = camnio de un valor (volumen, sonido, etc.)
