@@ -59,8 +59,8 @@ Escuchar 1 disco de pueblonuevo.cl
 
 * Extras / Online Bonus Tracks:
 
-11. Arreglos Lenitivos – (03:07)
-12. Vidas Pasadas – (06:00)
+11 Arreglos Lenitivos – (03:07)
+12 Vidas Pasadas – (06:00)
 
 Tiempo total CD / CD total play: 53:59
 
