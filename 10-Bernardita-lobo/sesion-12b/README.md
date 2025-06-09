@@ -10,6 +10,9 @@
 - Net Art: diagrama de cómo funciona el Net Art, entre dos computadoras está el arte
 - Olia Lialina, Summer (demasiado cool)
 - Problema del año 2000, fin del mundo y computadoras
+
+### Referentes para loa proyectos
+
 - Bienal de Artes Mediales / Drum Circle
 - Tutupá
 - General MIDI Showdown: instrumento virtual, sonido dosmilero / VST (Virtual Studio Instrument)
