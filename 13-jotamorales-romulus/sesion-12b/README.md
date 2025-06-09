@@ -17,8 +17,8 @@
 
 - Se habló del proyecto final y cómo nos vamos a ir encaminando hacia este. Vamos a tener harto tiempo para ir desarrollándolo, pero este pasa muy rápido. Hay que tener en cuenta que lo que vayamos a hacer funcione antes de mandar a hacer la placa, ver componentes, cotizar, etc.
 
-- Nos hicieron como un repaso de varias cosas que debíamos tener en cuenta o que nos podrían servir para nuestros proyectos.
-  
+- Nos hicieron como un repaso de varias cosas que debíamos tener en cuenta o que nos podrían servir para nuestros proyectos. Esta parte fue bastante extensa, así que anoté lo que me llamaba la atención o encontraba importante.
+
 ## LEDs  
 - Necesitan resistencia o se queman.  
 - Sirven para indicar si algo funciona.  
@@ -44,10 +44,6 @@
 ## Puente H  
 - Cambia dirección de motor DC.  
 - Se arma con transistores o chip L298N.
-
-## Solenoides  
-- Movimiento lineal por inducción electromagnética.  
-- Usos: cerraduras, percusión, líquidos.
 
 ## Transistores  
 - Sirven como interruptores y amplificadores.  
