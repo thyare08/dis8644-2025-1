@@ -22,16 +22,20 @@ Armamos un NE555 en modo astable y lo conectamos al pin __Clock__ del CD4017
 
 </br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 
+El CD4017 tiene su pin 13 (__Clock Inhibit__) conectado a tierra, a traves de una resistencia, esto hace que el chip reaccione ante los __inputs__ que recibe el pin 14 (__Clock__).
+
+Hay 4 LEDs conectados a los __Outputs 0, 1, 2 y 3__ (pines 3, 2, 4 y 7 respectivamente). Para hacer que el contador después de activar el LED 4 no intente seguir activando los __Outputs__ restantes del chip (5 a 9), se conecta el __Output 4__ (pin 10) a __Reset__ (pin 15), haciendo que tras completar el ciclo vuelva a contar desde 0.
+
+ <img align="left" src="./archivos/circuitoParte3.jpg" alt="Foto del esquema de la pizarra. (Source:FranUDP)" width=600>
+
+ </br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+
+ Luego hicimos otro NE555 en modo astable y lo conectamos al __Output 0__ del circuito anterior. En lugar de utilizar __Trigger__ (pin 2) como __Input__, esta vez utilizamos __Reset__ (pin 4) siendo controlado por el pin 4 (__Reset__), lo que genera que __reset__ sea conectado a __GND__ cuando no está reciviendo un input del CD4017, haciendo que el pin 3 (__Output__) se mantenga en __LOW__, efectivamente deteniendo el funcionamiento del NE555.
+
+ Video: ![Circuito en acción](https://youtube.com/shorts/BZCv6bY_jlQ?feature=share)
+
 ### Other things: <!-- Things to organize + random stuff -->
 > #### SUB_SUBTITULO
 
------------------------------------------------------------------------------------------------------------
-## Encargo XX <!-- TEXT -->
-### TITULO
-
-
------------------------------------------------------------------------------------------------------------
-## Encargo YY <!-- TEXT -->
-### TITULO
 <img align="" src="" alt=". (Source:)" width=400></br>
 __**__
