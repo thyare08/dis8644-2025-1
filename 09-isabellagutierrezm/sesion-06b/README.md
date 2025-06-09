@@ -4,18 +4,19 @@
 
 ## Encargo 12: Instalar Kicad
 
-1. Ir al link de Manual de supervivencia
+1 Ir al link de Manual de supervivencia
 
 ![link](https://github.com/user-attachments/assets/63d82973-41b6-443f-a603-fc4504f5777c)
 
-2. Descargar la versión 9.01
+2 Descargar la versión 9.01
 
 ![version 9 01](https://github.com/user-attachments/assets/b454b7d9-055d-4527-bf26-6edb1461019a)
 
-3. Bienvenida a KiCad y lo dejamos como aplicación predeterminada
+3 Bienvenida a KiCad y lo dejamos como aplicación predeterminada
+
 ![instalacion](https://github.com/user-attachments/assets/0d1f9c4e-f1b8-477a-a1cd-ce41b05aee29)
 
-4. Lo logramos!!!
+4 Lo logramos!!!
 
 ![sofware](https://github.com/user-attachments/assets/731fc007-4c40-4c4e-bbbe-d1af71a49828)
 
@@ -29,7 +30,7 @@ El disco que escuche fue **"The Expanding Universe" de Laurie Spiegel**, lanzado
 
 ![spiegel](https://github.com/user-attachments/assets/0703b536-04c6-44f3-82ba-94b707a0c4b8)
 
-*Foto recuperada de Wikipedia*
+Foto recuperada de Wikipedia
 
 ![disco](https://github.com/user-attachments/assets/414a25c4-be8e-4e28-835d-343b8a31770e)
 
