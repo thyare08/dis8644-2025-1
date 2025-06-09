@@ -19,7 +19,6 @@ martes 1-04
 
 - caja de madera, una cara con acrílico para ver los componentes, bellísimo
 - materiales orgánicos (humita?)
--
 
 ## proyecto 01
 
