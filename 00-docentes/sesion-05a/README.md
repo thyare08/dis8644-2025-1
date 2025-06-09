@@ -2,7 +2,7 @@
 
 martes 08 de abril 2025
 
-### Modificando un atari punk console
+## Modificando un atari punk console
 
 ![atarikpunkModding](/00-docentes/sesion-04a/archivos/atariPunk_v1.png)
 
@@ -40,7 +40,7 @@ git commit -m "mensaje de bitacora"
 
 para subir a la nube, toma el commit local y lo manda a github.com
 
-```
+```sh
 git push
 ```
 
