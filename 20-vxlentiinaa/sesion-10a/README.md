@@ -20,7 +20,7 @@
 
 ![IMG_4314](https://github.com/user-attachments/assets/e1ac13bf-eb88-4450-a50f-b65a30ccc8a5)
 
-* Fue capturada el 13/05 en República 180, es el ascensor de la universidad, algo que comunmente usamos con mis amigas, nos acordamos que estaba la pantalla de 7 segmentos. 
+* Fue capturada el 13/05 en República 180, es el ascensor de la universidad, algo que comunmente usamos con mis amigas, nos acordamos que estaba la pantalla de 7 segmentos.
 
 ![IMG_4317](https://github.com/user-attachments/assets/8f0cfaf8-143f-497f-ad3f-9c536c810322)
 
@@ -28,17 +28,17 @@
 
  ![IMG_4316](https://github.com/user-attachments/assets/634a1759-55b2-4342-9ff2-9cf04628a0e1)
 
- * Fue capturada el 13/05 en el Dunkin Donuts de República, le estaban preparando el café a mis amigas y nos dimos cuenta que el temporizador que estaba arriba de la máquina tenía la pantalla de 7 segmentos.
+* Fue capturada el 13/05 en el Dunkin Donuts de República, le estaban preparando el café a mis amigas y nos dimos cuenta que el temporizador que estaba arriba de la máquina tenía la pantalla de 7 segmentos.
 
 ## encargo-21
 
 ### Circuito PWM
 
-<img width="1440" alt="Captura de pantalla 2025-05-15 a la(s) 10 31 51 p m" src="https://github.com/user-attachments/assets/332314b7-4c77-449b-9828-e8feb7bd27ac" />
+![alt-text](https://github.com/user-attachments/assets/332314b7-4c77-449b-9828-e8feb7bd27ac)
 
-<img width="1440" alt="Captura de pantalla 2025-05-15 a la(s) 10 33 47 p m" src="https://github.com/user-attachments/assets/15c09740-7b1a-49cf-8528-39878650316f" />
+![alt-text](https://github.com/user-attachments/assets/15c09740-7b1a-49cf-8528-39878650316f)
 
-```txt 
+```txt
 $ 1 0.000005 1.3241202019156522 72 5 50 5e-11
 165 560 272 592 272 14 8.992760336826649
 c 464 400 464 464 4 100 0.0000012381682351598956 0.001 0
@@ -134,4 +134,3 @@ w 848 304 880 368 0
 w 944 368 976 304 0
 211 976 304 1104 304 0 1 8000 1
 ```
-

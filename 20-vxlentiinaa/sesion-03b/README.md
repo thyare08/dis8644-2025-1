@@ -25,8 +25,9 @@
 
 <https://www.latercera.com/culto/2024/12/06/el-dia-en-que-jorge-gonzalez-hizo-cumbia-electronica-en-nueva-york-y-lanzo-uno-de-sus-mejores-discos/>
 
-<img width="643" alt="Captura de pantalla 2025-03-30 a la(s) 7 10 10 p m" src="https://github.com/user-attachments/assets/0b783060-a601-45f0-b4bc-fcd469fbc42d" />
-<img width="326" alt="Captura de pantalla 2025-03-30 a la(s) 6 51 36 p m" src="https://github.com/user-attachments/assets/14e41adb-d22f-4a52-8968-c1ef985abbaa" />
+![alt-text](https://github.com/user-attachments/assets/0b783060-a601-45f0-b4bc-fcd469fbc42d)
+
+![alt-text](https://github.com/user-attachments/assets/14e41adb-d22f-4a52-8968-c1ef985abbaa)
 
 Generó una influencia en Chile ya que al recordar cumbias tan antiguas, la gente que iba escuchando el disco de Jorge, le generaban recuerdos de sus infancias. Es un disco con una amplia variedad de sonidos que son curiosos e hipnotizantes, que te genera una alegría cuando lo escuchas :)
 
