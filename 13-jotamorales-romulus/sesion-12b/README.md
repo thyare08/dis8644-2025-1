@@ -19,7 +19,45 @@ viernes 30 de mayo
 
 - Se habló del proyecto final y cómo nos vamos a ir encaminando hacia este. Vamos a tener harto tiempo para ir desarrollándolo, pero este pasa muy rápido. Hay que tener en cuenta que lo que vayamos a hacer funcione antes de mandar a hacer la placa, ver componentes, cotizar, etc.
 
----- agregar apuntes celu------
+- Nos hicieron como un repaso de varias cosas que debíamos tener en cuenta o que nos podrían servir para nuestros proyectos. Esta parte fue bastante extensa, así que anoté lo que me llamaba la atención o encontraba importante.
+
+## LEDs  
+- Necesitan resistencia o se queman.  
+- Sirven para indicar si algo funciona.  
+- Tiras LED: se cortan, control por PWM y transistor.
+
+## Ampolletas 220V  
+- Peligrosas.  
+- Se controlan con relés.
+
+## Motores DC  
+- Giran con voltaje.  
+- Para girar más lento: motorreductores.
+
+## Motor Paso a Paso  
+- Giran lento y preciso con pulsos eléctricos.  
+- Tipos: unipolar y bipolar.
+
+## Servomotor  
+- Preciso, sabe su posición.  
+- A veces tiembla.  
+- Usado con Arduino.
+
+## Puente H  
+- Cambia dirección de motor DC.  
+- Se arma con transistores o chip L298N.
+
+## Transistores  
+- Sirven como interruptores y amplificadores.  
+- Tipos: bipolar (2n2222), MOSFET (IRFZ44n).
+
+## Sonido  
+- Parlantes activos (enchufan), pasivos (requieren amplificador).  
+- Buzzers = alarmas simples, muy ruidosos.  
+- Micrófonos electret (voz) y piezoeléctricos (vibración).  
+- Sintetizadores crean sonido eléctrico.  
+- Pedales guitarra: kits para hacerlos. [Pedal Hamburguesa - Custom Cheesefuzzberg](https://www.lefapedals.com/store/p145/CUSTOM_CHEESEFUZZBERG.html#/)
+ Este me salió hace unos días, me pareció gracioso y único.
 
 ## encargo-24
 
