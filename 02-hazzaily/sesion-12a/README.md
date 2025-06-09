@@ -14,9 +14,9 @@ Foto circuito esquemático Detector de sombra por Matías Serrano.
 
 ![Circuito esquemático completo Detector de sombra](./archivos/detector_de_sombra.png)
 
-**Etapa 1: Detector de sombra**
+### Etapa 1: Detector de sombra
 
- - Inicialmente con un potenciómetro controlamos el punto en donde el LED casi se apaga, dejándolo justo ahí. Luego generando sombra sobre el LDR deberíamos lograr que el LED se apague, y que cada vez que el mismo LDR sea estimulado con luz se vuelva a prender.
+- Inicialmente con un potenciómetro controlamos el punto en donde el LED casi se apaga, dejándolo justo ahí. Luego generando sombra sobre el LDR deberíamos lograr que el LED se apague, y que cada vez que el mismo LDR sea estimulado con luz se vuelva a prender.
 
 Foto esquemático en mi croquera.
 
@@ -28,9 +28,9 @@ Foto circuito etapa 1 en protoboard.
 
 Video funcionamiento circuito etapa 1 en protoboard.
 
-https://github.com/user-attachments/assets/6706e704-e056-4ba6-8f8d-0b846b4a4d7c
+<https://github.com/user-attachments/assets/6706e704-e056-4ba6-8f8d-0b846b4a4d7c>
 
-**Etapa 2: Temporizador**
+### Etapa 2: Temporizador
 
 - En esta segunda etapa ubicamos un segundo LED en la protoboard conectado a un chip 555 configurado en monoestable, que al momento de hacer sombra sobre el LDR provoca que se apague el primer LED y se active el segundo LED, y viceversa.
 
@@ -46,9 +46,9 @@ Foto circuito etapa 2 en protoboard.
 
 Video funcionamiento circuito etapa 2 en protoboard.
 
-https://github.com/user-attachments/assets/a6bad3d3-7da1-48a5-b6e6-4b15a18dd9fe
+<https://github.com/user-attachments/assets/a6bad3d3-7da1-48a5-b6e6-4b15a18dd9fe>
 
-**Etapa 3: Secuenciador**
+### Etapa 3: Secuenciador
 
 - Al añadir un chip 4017 logramos incorporar un secuenciador de LEDs que se prenden en orden cada vez que se ubica una sombra sobre el LDR, esto quiere decir que cada vez que se hace sombra sobre el LDR cambia el LED de la etapa 3 que se enciende de forma odenada.
   
@@ -64,6 +64,6 @@ Foto circuito etapa 3 en protoboard.
 
 Video funcionamiento circuito etapa 3 en protoboard.
 
-https://github.com/user-attachments/assets/80d88acb-df67-4398-b20a-093b083370e2
+<https://github.com/user-attachments/assets/80d88acb-df67-4398-b20a-093b083370e2>
 
 Fotos y vídeos de mi autoría, menos el PWM esquemático.

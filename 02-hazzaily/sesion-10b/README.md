@@ -4,7 +4,7 @@
 
 ## Trabajo en clase
 
- - En clase nos entregaron la placa UDPudu, para soldar sus componentes. Para esto realizamos un BOM de materiales del UDPudu original.
+- En clase nos entregaron la placa UDPudu, para soldar sus componentes. Para esto realizamos un BOM de materiales del UDPudu original.
 
 BOM CVS Original.
 
@@ -12,7 +12,7 @@ BOM CVS Original.
 |---------|-----------------------------|---------|---------------------------------------------|---|---|
 |C3       |100n                         |~        |Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm   |1  |   |
 |C4       |1u                           |~        |Capacitor_THT:CP_Radial_D6.3mm_P2.50mm       |1  |   |
-|C5       |47u                          |~        |Capacitor_THT:CP_Radial_D6.3mm_P2.50mm       |1  |   |
+|C5       |47u                          |~        |Capacitor_THT:CP_Radial_D6.3mm_P2s.50mm       |1  |   |
 |D1       |1n4007                       |~        |Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal  |1  |   |
 |D2,D3    |LED                          |~        |LED_THT:LED_D5.0mm                           |2  |   |
 |J1,J3    |CAIMAN                       |~        |modules_teee2025:caiman                      |2  |   |
@@ -54,12 +54,16 @@ BOM para armar UDPudu.
 
 Para ser sincera hubo una pausa de como 2 clases porque no volvímos a soldar, y yo no tengo cautín personal. Continuamos en la 11b.
 
- 9. Primeramente como segunda sesión de soldado en la placa recibí los componentes faltantes para soldar a la placa (switch, terminal block).
- 10. Como paso siguiente volví a juntar los componentes necesarios para terminar la placa.
- 11. Utilicé un cautín que ya había sido preparado con anterioridad, el cual ya tenía su pañito húmedo y una base adecuada para soldar.
- 12. Ya lista y segura de los componentes, soldé los **LEDs**, que yo elegí blancos, ambos.
- 13. Después de los LED continué con con los **terminal block**, para los que pregunté para asegurarme de que estuviera del lado correcto.
- 14. Finalmente soldé el **switch** como componente final.
+9 Primeramente como segunda sesión de soldado en la placa recibí los componentes faltantes para soldar a la placa (switch, terminal block).
+10 Como paso siguiente volví a juntar los componentes necesarios para terminar la placa.
+
+11 Utilicé un cautín que ya había sido preparado con anterioridad, el cual ya tenía su pañito húmedo y una base adecuada para soldar.
+
+12 Ya lista y segura de los componentes, soldé los **LEDs**, que yo elegí blancos, ambos.
+
+13 Después de los LED continué con con los **terminal block**, para los que pregunté para asegurarme de que estuviera del lado correcto.
+
+14 Finalmente soldé el **switch** como componente final.
 
 ## Encargo 23: Documentación visual del ensamblado de la PCB UDPudu
 
@@ -81,11 +85,11 @@ Foto soldadura parte posterior del socket de 8 pines.
 
 Video de la soldadura del socket de 8 pines.
 
-https://github.com/user-attachments/assets/e6c745f5-2c95-4f95-a54a-7f8b3a8d0b06
+<https://github.com/user-attachments/assets/e6c745f5-2c95-4f95-a54a-7f8b3a8d0b06>
 
 Video de mí soldando el socket de 8 pines.
 
-https://github.com/user-attachments/assets/8ea55276-804d-485d-bdaf-7cb8166dfb27
+<https://github.com/user-attachments/assets/8ea55276-804d-485d-bdaf-7cb8166dfb27>
 
 Foto de la placa con el socket y los resistores.
 

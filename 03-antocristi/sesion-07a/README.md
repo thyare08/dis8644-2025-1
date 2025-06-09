@@ -10,7 +10,7 @@
 
 **D**iodo
 
-**T**
+T
 
 ***Colocar valor:***
 Seleccionar componente y apretar letra v
