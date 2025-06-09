@@ -15,36 +15,36 @@ Lo bueno de este proceso fue que la equivocación me ayudo a memorizar ciertos p
 
 ## Cotización
 
-1. Ingresar en tu navegador JLCPCB
+1 Ingresar en tu navegador JLCPCB
 
 ![buscar](https://github.com/user-attachments/assets/50be5c4e-79a6-432b-bf51-f1b423ac9809)
 
-3. Ve a la tercera opción en el resultado de búsqueda y abrela
+3 Ve a la tercera opción en el resultado de búsqueda y abrela
 
 ![opciónCorrecta](https://github.com/user-attachments/assets/69dd83c7-e16a-4b53-a456-587676f2896f)
 
-4. En el inicio de la pagina aparecerá esto, donde debes ir a la opción iniciar sesion y hacer click en Empieza aquí
+4 En el inicio de la pagina aparecerá esto, donde debes ir a la opción iniciar sesion y hacer click en Empieza aquí
 
 ![pantallaInicial](https://github.com/user-attachments/assets/c99efb08-6d93-4447-be48-b1d512fe0700)
 
-5. Aparecerá esta pantalla en la que deberás ingresar tus datos para crear una cuenta, al terminar presiona enviar código, donde te enviaran un código de verificación a tu correo, el cual debes ingresar al lado izquierdo de la opción antes presionada.
+5 Aparecerá esta pantalla en la que deberás ingresar tus datos para crear una cuenta, al terminar presiona enviar código, donde te enviaran un código de verificación a tu correo, el cual debes ingresar al lado izquierdo de la opción antes presionada.
 
 ![crearCuenta](https://github.com/user-attachments/assets/f85e2c18-eac2-48a7-8a12-c92ad68a101a)
 
-6. Luego de un inicio de sesión exitoso aparecerá la misma pantalla principal, solo que con tu nombre de usuario en la esquina superior. Ve a la opción Cargar archivo Gerber
+6 Luego de un inicio de sesión exitoso aparecerá la misma pantalla principal, solo que con tu nombre de usuario en la esquina superior. Ve a la opción Cargar archivo Gerber
 
 ![agregarArchivo](https://github.com/user-attachments/assets/273af63e-8ce6-415a-98d3-7e33f5a0ed56)
 
-9. Ubica la carpeta comprimida que hiciste y subela
+9 Ubica la carpeta comprimida que hiciste y subela
 
 ![buscarCarpeta](https://github.com/user-attachments/assets/f96b6104-d5b6-47b4-bb35-ec2ed897bb3b)
 
-11. Aparecerá una pantalla de carga que luego te mostrara un previsualización y el costo de tu cotización, la cual cuesta 2 dólares por 5 PCB
+11 Aparecerá una pantalla de carga que luego te mostrara un previsualización y el costo de tu cotización, la cual cuesta 2 dólares por 5 PCB
 
 ![pantallaCarga](https://github.com/user-attachments/assets/9099b24f-6b23-4d59-9d14-f5c95361983f)
 ![resultadoCotización](https://github.com/user-attachments/assets/4cca39f2-580f-4f9f-801a-dffe321523ba)
 
-12. para editar la cantidad de PCB debes dirigirte a la parte inferior, presionar cantidad y elegir alguna en la tabla o una opción personalizada (el mínimo de pedidos es 5), por 30 PCB el costo es de 14 dólares con 70 centavos
+12 para editar la cantidad de PCB debes dirigirte a la parte inferior, presionar cantidad y elegir alguna en la tabla o una opción personalizada (el mínimo de pedidos es 5), por 30 PCB el costo es de 14 dólares con 70 centavos
 
 ![cantidadPCB](https://github.com/user-attachments/assets/df8db82a-111b-4ad7-8589-5c428bc5a15d)
 ![cotización30PCB](https://github.com/user-attachments/assets/b1a9efbd-e0e5-448a-9715-808dc1062e71)
