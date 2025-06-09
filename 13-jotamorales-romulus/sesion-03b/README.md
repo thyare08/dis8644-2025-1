@@ -16,7 +16,7 @@ Si se aumenta la resistencia, el tiempo de carga del condensador se incrementa, 
 
 Al principio me pareció gracioso que Gonzalo Martínez no era una persona sino la asociación de Jorge González de la banda nacional Los Prisioneros (tremendos) junto con Martín Schopf. Fue lanzado en 1997 es un disco en el que hacen mezcla cumbia con electrónica, algo que encuentro súper raro para su época.
 
-#### “La única manera de que la música tecno entrara a Sudamérica era que Sudamérica entrará en ella” – Martín Schopf / Jorge González
+### “La única manera de que la música tecno entrara a Sudamérica era que Sudamérica entrará en ella” – Martín Schopf / Jorge González
 
 En Chile el disco pasó sin pena ni gloria, vendió poco y no encajó en ninguna escena, pero en Europa, especialmente en Alemania y Reino Unido, fue más apreciado dentro del circuito electrónico. Con los años, empezó a valorarse como un trabajo adelantado a su tiempo, influyendo en la cumbia electrónica que después se haría más popular.
 

@@ -27,7 +27,7 @@ Al PCB se le puede dar diversas formas exportandolas desde otros programas (fush
 ARC: permite redondar bordes placa
 VIA: es un pequeño orificio perforado en la PCB que permite la conexión eléctrica entre diferentes capas del PCB
 
-HUELLAS 
+HUELLAS
 
 completar apuntes!!!!
 
@@ -61,7 +61,7 @@ JLCPCB es una empresa china que fabrica placas de circuito impreso (PCBs). Es un
 
 ---
 
-###  Precio total
+### Precio total
 
 | Conceptos              | Costos       |
 |------------------------|-------------|
@@ -76,14 +76,9 @@ Envío por DHL: Aunque es caro, los tiempos de entrega son más rápidos. Lo ide
 ---
 
 ### Tiempo de fabricación
+
 - Seleccioné la opción de 3 días (sin pagar extra), ya que de momento no hay apuro. Aunque también está disponible una opción de fabricación en 24 horas, esta tiene un costo adicional de $7.20 USD.
 
----
-
-
-
 ## encargo-17: cotizar udpudu en JLCPCB de forma experimental
-probar opciones que no entiendan, documentar otros parámetros que no conozcan aún.
-=======
 
-
+probar opciones que no entiendan, documentar otros parámetros que no conozcan aún

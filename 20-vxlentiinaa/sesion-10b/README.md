@@ -20,6 +20,7 @@ incluir aciertos y errores, aprendizajes y consejos.
 ### 1. Primero realizamos el BOM para verificar si teníamos todos los componentes
 
 ## Bom Udpudu
+
 |Referencia  |Valor   |Huella                   |Qty|OBS               |
 |------------|--------|-------------------------|---|------------------|
 |U1          |~       |Socket 8 pines           |1  |                  |
@@ -45,11 +46,11 @@ incluir aciertos y errores, aprendizajes y consejos.
 
 ### 3. Realizamos el circuito en la protoboard para verificar si estaban bien el sonido y el esquemático
 
-https://github.com/user-attachments/assets/93b0a12c-55cf-4e89-8543-497fa0d1a0f5
+<https://github.com/user-attachments/assets/93b0a12c-55cf-4e89-8543-497fa0d1a0f5>
 
-https://github.com/user-attachments/assets/71f48e6b-3ea5-4950-aa32-d7f91fa46741
+<https://github.com/user-attachments/assets/71f48e6b-3ea5-4950-aa32-d7f91fa46741>
 
-### 4. Con el grupo dejamos los componentes en un lado para que no se nos perdieran 
+### 4. Con el grupo dejamos los componentes en un lado para que no se nos perdieran
 
 * (Cabe recalcar que las fotos de procedimiento las tiene nuestro compañero Santiago)
   
@@ -67,7 +68,7 @@ https://github.com/user-attachments/assets/71f48e6b-3ea5-4950-aa32-d7f91fa46741
 
 ### 8. Cuando estén listas las soldaduras, se corta el excedente de los componentes
 
-### 9. Al tener todo listo, Aarón trajo un set para poder tomar fotitos de la PCB.
+### 9. Al tener todo listo, Aarón trajo un set para poder tomar fotitos de la PCB
 
 ## encargo-23: documentación visual del proceso de ensamblado de udpudu
 

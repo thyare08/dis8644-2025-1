@@ -1,8 +1,6 @@
 # sesion-03b
 
-# Sesión 03b
-
-# Encargo 08
+## encargo-08
 
 Analisis "Gonzalo Martínez y sus Congas Pensantes"
 
@@ -12,7 +10,7 @@ Desde lo musical, la combinación es curiosa: los ritmos tradicionales de la cum
 
 Le doy un 5 de 10. No porque sea malo (de hecho, valoro mucho la propuesta), sino porque no es un álbum que conecte conmigo más allá de su funcionalidad. Aun así, me parece un buen ejemplo de cómo se puede jugar con dos géneros aparentemente opuestos y generar algo distinto, aunque no siempre sea fácil de digerir para todo el mundo.
 
-# Encargo 09
+## encargo-09
 
 Visita al MAC:
 
@@ -23,7 +21,6 @@ Sin duda mi obra favorita fue la del dispensador de papeles con un texto expresa
 ![D020FD6E-87EF-41FE-9C4F-87D872FE56E8](https://github.com/user-attachments/assets/4406863b-e9c1-403b-9717-98e85718673f)
 
 A continuacion adjunto las imagenes que mas me gustaron del museo:
-
 
 ![IMG_9633](https://github.com/user-attachments/assets/73d363d1-362c-4560-a03f-b4568ce2eba3)
 

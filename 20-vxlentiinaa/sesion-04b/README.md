@@ -70,7 +70,7 @@ Nosotras elegimos el Mando de la Xbox 360
 * **Realizar diagrama de flujo: ¿Qué placas requieren alimentación? ¿Dónde llegan las interacciones? Usar lenguaje simbólico propio**
 ![IMG_0183](https://github.com/user-attachments/assets/5c024cbd-562f-41df-be4e-841a3cfa9e66)
 
-**Bill of materials. ¿Qué y cuantas partes tiene? de manera general**
+Bill of materials. ¿Qué y cuantas partes tiene? de manera general
 
 | Tipo | Qty |
 |-----------------|--------|
@@ -100,7 +100,7 @@ Nosotras elegimos el Mando de la Xbox 360
 
 <https://github.com/user-attachments/assets/30be88b7-f298-4074-9fc3-eb6d8147ac95>
 
-<img width="837" alt="Captura de pantalla 2025-04-07 a la(s) 10 55 23 p m" src="https://github.com/user-attachments/assets/d56ae16d-f2eb-4dc8-9cc6-e32a10aedc9e" />
+![alt-text](https://github.com/user-attachments/assets/d56ae16d-f2eb-4dc8-9cc6-e32a10aedc9e)
 
 ![joystick1](https://github.com/user-attachments/assets/ae09650b-9134-46c1-8dbe-4ffe13be6003)
 

@@ -6,13 +6,13 @@ bom -> bill of materials
 
 ## ejercicio 1
 
-<img width="695" alt="ejercicio1" src="https://github.com/user-attachments/assets/13721709-c79d-43d6-9d36-173100d6dfa0" />
+![ejercicio 1](./archivos/ejercicio1.png)
 
 |  componente  |  nombre  |  valor  |  cantidad  |
 | --- | --- | --- | --- |
-| resistencia | r1, r2, r3 | 220 | 4 | 
-| resistencia | r4 | 1k | 1 | 
-| led | d1, d2, d3, d4 | - | 4 | 
+| resistencia | r1, r2, r3 | 220 | 4 |
+| resistencia | r4 | 1k | 1 |
+| led | d1, d2, d3, d4 | - | 4 |
 
 | . | d1 | d2 | d3 | d4 |
 | --- | --- | --- | --- | --- |
@@ -24,12 +24,12 @@ bom -> bill of materials
 
 ## ejercicio 2
 
-<img width="901" alt="ejercicion2" src="https://github.com/user-attachments/assets/e23c1fe2-9012-4510-9ae5-d1cf505f88fa" />
+![ejercicio 2](./archivos/ejercicio2.png)
 
 |  componente  |  nombre  |  valor  |  cantidad  |
 | --- | --- | --- | --- |
-| resistencia | r1, r2, r3, r4, r5, r6 | 220 | 6 | 
-| led | d1, d2, d3, d4 | - | 4 | 
+| resistencia | r1, r2, r3, r4, r5, r6 | 220 | 6 |
+| led | d1, d2, d3, d4 | - | 4 |
 
 | . | d1 | d2 | d3 | d4 |
 | --- | --- | --- | --- | --- |
@@ -41,13 +41,13 @@ bom -> bill of materials
 
 ## ejercicio 3
 
-<img width="848" alt="ejercicion3" src="https://github.com/user-attachments/assets/b40e4746-dbc2-4a21-8a3a-d9e2b8dec8f2" />
+![ejercicio 3](./archivos/ejercicio3.png)
 
 |  componente  |  nombre  |  valor  |  cantidad  |
 | --- | --- | --- | --- |
-| resistencia | r1, r2, r3, r4, r8 | 220 | 5 | 
-| resistencia | r5, r6, r7 | 1k | 3 | 
-| led | d1, d2, d3 | - | 3 | 
+| resistencia | r1, r2, r3, r4, r8 | 220 | 5 |
+| resistencia | r5, r6, r7 | 1k | 3 |
+| led | d1, d2, d3 | - | 3 |
 
 | . | d1 | d2 | d3 |
 | --- | --- | --- | --- |

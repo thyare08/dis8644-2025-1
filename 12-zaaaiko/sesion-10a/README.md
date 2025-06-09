@@ -2,7 +2,7 @@
 
 Clase 13/05 10a
 
-### Segunda parte
+## Segunda parte
 
 - Comparativa de los componentes electrónicos con el funcionamiento de la redstone en Minecraft (específicamente el comparador).
 

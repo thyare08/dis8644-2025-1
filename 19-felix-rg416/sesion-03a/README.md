@@ -53,7 +53,7 @@ almacena voltaje
 
 #### fotoresistencia
 
-# 1er circuito con 555
+## 1er circuito con 555
 
 ![circuito-NE555](https://github.com/user-attachments/assets/19042858-de64-4df2-abb7-867a24c81020)
 
@@ -68,13 +68,13 @@ almacena voltaje
 | Condensador cerámico      | 470nF (474)  | 2            |
 | Condensador electrolítico | 10uF         | 2            |
 
-#### ATENTO A DONDE PONES LOS CANLES
+### ATENTO A DONDE PONES LOS CANLES
 
 #### revisar muy bien el valor de los componentes
 
 #### revisar muy bien las conexiones**
 
-**los condensadores electrolíticos TIENEN polaridad. si no se ponen correctamente EXPLOTAN**
+los condensadores electrolíticos TIENEN polaridad. si no se ponen correctamente EXPLOTAN
 
 ![esquematico-astable](https://github.com/user-attachments/assets/9915a34c-306b-4363-936a-51acff133bbf)
 
@@ -104,7 +104,7 @@ condensador electrolítico 1 μF + con el potenciómetro se puede controlar la v
 
 ## encargo-06
 
-#### einstrürzende neubauten
+### einstrürzende neubauten
 
 grupo musical formado en Berlín, 1980. se podría clasificar usualmente como industrial o electrónica, pero esos estilos no llegan a describir su sonido. usan instrumentos y sonidos que ellos mismos fabricaron, acompañados de instrumentos tradicionales como guitarra, bajo y sintetizadores. pertenecieron al movimiento dadaísta Die Geniale Dilletanten, que tenía el objetivo de revolucionar lo musical usando sierras, palas, taladros y otras herramientas de construcción como instrumentos musicales.
 

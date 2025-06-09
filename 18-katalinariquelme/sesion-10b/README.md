@@ -7,7 +7,7 @@ Viernes 16 de Mayo del 2025.
 - hablamos de lo que haremos el dia de hoy, que era soldar los componentes a la placa PCB que realizamos hace unas clases atrás el cual era udpudu.
 - para ello vimos los componentes que usaremos y realizamos un BOM en excel.
 
-**BOM CSV Original (sin modificaciones)**
+BOM CSV Original (sin modificaciones)
 
 |Reference|Value                        |Datasheet|Footprint                                    |Qty|DNP|
 |---------|-----------------------------|---------|---------------------------------------------|---|---|
@@ -23,7 +23,7 @@ Viernes 16 de Mayo del 2025.
 |SW1      |SW_SPDT                      |~        |modules_teee2025:SPDT_PCB_small_P2.5mm       |1  |   |
 |U1       |~                            |         |Package_DIP:DIP-8_W7.62mm_Socket_LongPads    |1  |   |
 
-**BOM (con modificaciones/ nombre de componentes simplificados)**
+BOM (con modificaciones/ nombre de componentes simplificados)
 
 |Referencia  |Valor   |Huella                   |Qty|OBS               |
 |------------|--------|-------------------------|---|------------------|
@@ -88,13 +88,13 @@ Sobreposicion de base DIP para ver como se veria
 
 ![componentes a utilizar](./archivos/componentes.jpeg)
 
-- **PASO 5:** Reunimos 4 mesas para formar grupos de 6 y ayudarnos a soldar, dieron un cautin por 3 personas, por lo menos así fue en mi grupo. 
+- **PASO 5:** Reunimos 4 mesas para formar grupos de 6 y ayudarnos a soldar, dieron un cautin por 3 personas, por lo menos así fue en mi grupo.
 - **PASO 6:** Luego calentamos el cautín con mucho cuidado, siempre dejandolo en su respectiva base.
 - **PASO 7:** Limpiamos la punta y comenzamos a soldar, en esta parte nos ibamos turnando con mis compañeras de clase y simepre llevando registro de lo que hacíamos.
 
 Registro de video soldando
 
-https://github.com/user-attachments/assets/4eb16723-1366-4345-8e7a-974ea8bdc051
+<https://github.com/user-attachments/assets/4eb16723-1366-4345-8e7a-974ea8bdc051>
 
 Resultado de la primera pieza soldada
 
@@ -104,10 +104,10 @@ Resultado de la primera pieza soldada
 
 ![recorte de las patitas de los componentes](./archivos/recorte_sobrantes.jpeg)
 
-- **PASO 9:** Y ese fue el resultado final de la clase, no alcancé a soldar todas las piezas por el tiempo pero voy a continuar en mi casa :). 
+- **PASO 9:** Y ese fue el resultado final de la clase, no alcancé a soldar todas las piezas por el tiempo pero voy a continuar en mi casa :).
 
-https://github.com/user-attachments/assets/2f4b2e38-c6eb-45bc-975d-c05aa686c220
+<https://github.com/user-attachments/assets/2f4b2e38-c6eb-45bc-975d-c05aa686c220>
 
 ## Páginas utilizadas
 
-**Para comprimir videos** https://clideo.com/es/compress-video
+**Para comprimir videos** <https://clideo.com/es/compress-video>

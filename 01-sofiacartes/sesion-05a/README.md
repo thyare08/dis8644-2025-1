@@ -7,17 +7,17 @@
 
 ## chip 556
 
-<img width="354" alt="556" src="https://github.com/user-attachments/assets/e4bb1a86-7e48-47e2-a6ee-2551f30553f1" />
+![556](https://github.com/user-attachments/assets/e4bb1a86-7e48-47e2-a6ee-2551f30553f1)
 
-imágen de: <https://k1.spdns.de/Develop/Hardware/Circuits/555%20Timer%20Circuits/>
+imagen de: <https://k1.spdns.de/Develop/Hardware/Circuits/555%20Timer%20Circuits/>
 
 ### Atari punk console
 
-<img width="1012" alt="atari punk console" src="https://github.com/user-attachments/assets/8e8dd426-678a-445d-9cce-56e1c561e692" />
+![atari punk console](https://github.com/user-attachments/assets/8e8dd426-678a-445d-9cce-56e1c561e692)
 
 ## Cambios realizados al circuito Atari punk console
 
-# 1
+## 1
 
 r1 se cambia por un botón, además cambiamos la c1 de 474 por una 223 y el resultado del sonido fue mas grave y bajito.
 
@@ -27,13 +27,13 @@ r1 se cambia por un botón, además cambiamos la c1 de 474 por una 223 y el resu
 
 <https://github.com/user-attachments/assets/b07da373-cc86-47a9-9a8f-59548a552cac>
 
-# 2
+## 2
 
 r1 se cambia por un LDR y luego sale un condensador de 100 uF y luego un botón.
 
 <https://github.com/user-attachments/assets/e85eabfa-6852-43cb-b427-02d1503128cc>
 
-# 3
+## 3
 
 r1 se le agregó un potenciómetro y se agrega en serie dos condensadores de 100 uF y luego cada uno con un botón.
 

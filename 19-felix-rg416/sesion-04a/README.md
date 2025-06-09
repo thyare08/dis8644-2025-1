@@ -4,7 +4,7 @@ martes 1-04
 
 - zach lieberman
 - 100 days for
-- [lauren mccarty](https://lauren-mccarthy.com/)
+- [lauren mccarthy](https://lauren-mccarthy.com/)
 - es importante explicar lo que pensaste
 - resistencias pullup pulldown
 - modulación = camnio de un valor (volumen, sonido, etc.)
@@ -19,7 +19,6 @@ martes 1-04
 
 - caja de madera, una cara con acrílico para ver los componentes, bellísimo
 - materiales orgánicos (humita?)
--
 
 ## proyecto 01
 
@@ -50,15 +49,15 @@ NO PONER RESISTENCIA MENOR A 1k EN EL PIN 7
 - [límites y ejemplos del 555](https://www.555-timer-circuits.com/)
 - [errores típicos](https://www.555-timer-circuits.com/common-mistakes.html)
 
-### atari punk console
+atari punk console
 
 ![atariPunk_v1](.\archivos\atariPunk_v1.png)
 
-### circuito 01
+circuito 01
 
 ![circuito.APC.01](./archivos/circuito.APC.01.jpg)
 
-### curcuito 02
+curcuito 02
 
 ![circuito.APC.02](./archivos/circuito.APC.02.jpg)
 

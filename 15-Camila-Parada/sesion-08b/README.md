@@ -17,11 +17,7 @@ Planeo dedicar estas "hojas"/ archivos digitales para ir documentando todo lo qu
 
 ### Bitácora digital
 
-<br>
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam aliquet.
-
-<br>
 
 ***
 

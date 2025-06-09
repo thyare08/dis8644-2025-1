@@ -1,12 +1,12 @@
 # sesion-09b
 
-# ¿Qué es el Land Art?
+## ¿Qué es el Land Art?
 
 Land Art (también conocido como Earth Art o Arte de la Tierra) es una corriente artística que surgió a finales de los años 60 en Estados Unidos y se caracteriza por crear obras directamente en el paisaje, utilizando materiales naturales como tierra, piedras, madera, arena, nieve o agua.
 
 En lugar de exhibirse en museos o galerías tradicionales, las obras de Land Art se integran al entorno natural y muchas veces están sujetas a los cambios del clima, la erosión y el paso del tiempo. Esta relación con la naturaleza es fundamental en el movimiento.
 
-# Módulos y componentes recibidos
+## Módulos y componentes recibidos
 
 - **Amplificador 8403:**
 El módulo PAM8403 es un amplificador de audio de baja potencia que permite aumentar significativamente el volumen de salida de un parlante. Es eficiente y se alimenta típicamente con 5V, ideal para proyectos pequeños que requieren salida de sonido más potente sin grandes fuentes de energía.
@@ -34,9 +34,9 @@ Movimiento (a través de motores).
 
 Señales de aviso (luz, sonido o vibración).
 
-# encargo-19
+## encargo-19
 
-# Laurie Anderson y la cultura electrónica
+### Laurie Anderson y la cultura electrónica
 
 Laurie Anderson es una artista multidisciplinaria pionera en el cruce entre arte, tecnología y performance. Su trabajo ha sido central en el desarrollo de la cultura electrónica, especialmente por su uso de sintetizadores, dispositivos de voz, instrumentos electrónicos experimentales y la mezcla entre narrativa, imagen y sonido.
 

@@ -1,6 +1,6 @@
 # sesion-12b
 
-30 de  Mayo de 2025.
+30 de Mayo de 2025.
 
 ## Fuentes de poder:
 
@@ -51,9 +51,9 @@ Se utilizan como amplificador, como switch, como inversor, o como compuerta lóg
 
 Principalmente hay dos tipos: bipolares y FET.
 
- - Ejemplo bipolar: 2n2222
+ - **Ejemplo bipolar:** 2n2222
 
- - Ejemplo MOSFET: IRFZ44n
+ - **Ejemplo MOSFET:** IRFZ44n
 
 ## Sonido:
 
@@ -79,14 +79,22 @@ Fotos del membrete en cuestión.
 
 Muchas graciasss, está muy lindo c:
 
-## Encargo 26:
+## Encargo 24:
 
 Describir 3 proyectos de máquinas electrónicas que quieran hacer de formal individual. Ordenar por preferencia o interés. 
 
-## Encargo 27:
+ 1. A
+
+ 2. B
+
+ 3. C
+
+## Encargo 25:
 
 Dibujar diagrama de comportamiento, flujos de interacción. No especificar chips. Considerar procesos de manera especulativa.
 
  -  ¿Cuánto tiempo se usará?
  -  ¿Qúe encendidos y apagados tiene?
  -  ¿Cómo se interactúa?
+
+Fotos de mi autoría.

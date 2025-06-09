@@ -70,15 +70,15 @@ Foto resistencia 1k Ω
 
 ![1k_ohm](https://github.com/user-attachments/assets/17a5db6f-3348-412d-86fa-8426acb4322c)
 
-**Ejercicio en clase**
+Ejercicio en clase
 
- 1. Recrear el circuito de la clase anterior:
+1 Recrear el circuito de la clase anterior:
 
 Foto esquema de circuito y circuito:
 
 ![Ejercicio_01](https://github.com/user-attachments/assets/044fbcec-5243-485b-870a-51525a32604a)
 
- 2. Añadir un circuito paralelo al primer circuito:
+2 Añadir un circuito paralelo al primer circuito:
 
 Foto esquema de circuito y circuito:
 
@@ -86,7 +86,7 @@ Foto esquema de circuito y circuito:
 
 En un circuito en paralelo, si quito una luz LED no afecta la otra. Además de que cuando un circuito es paralelo se comparte el voltaje, pero se divide la corriente. Esto significa que la potencia de la luz disminuirá.
 
- 3. Añadir un LED al circuito original, en serie:
+3 Añadir un LED al circuito original, en serie:
 
 Foto esquema de circuito y circuito:
 

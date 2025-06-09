@@ -14,7 +14,7 @@
 
 ![IMG_3733](https://github.com/user-attachments/assets/6f1851d2-9e1f-4207-9f84-91ac414aaa4e)
 
-<img width="1015" alt="Captura de pantalla 2025-04-07 a la(s) 9 01 31 p m" src="https://github.com/user-attachments/assets/bcb6d4fb-5f8a-443e-9b87-99eca9c27301" />
+![alt-text](https://github.com/user-attachments/assets/bcb6d4fb-5f8a-443e-9b87-99eca9c27301)
 
 ### Trabajo en clases
 

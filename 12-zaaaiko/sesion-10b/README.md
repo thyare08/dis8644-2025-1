@@ -1,6 +1,6 @@
 # sesion-10b
 
-# Clase 16/05 10b
+16/05
 
 Primera parte
 
@@ -9,4 +9,4 @@ Primera parte
 
 ![A4ED5567-68CC-4E41-864B-ACF216F994F5](https://github.com/user-attachments/assets/1febc5a4-e311-4985-8a8c-f6f712d64f8a)
 
-- Edición de la PCB de UDPUDU en Kicad 
+- Edición de la PCB de UDPUDU en Kicad

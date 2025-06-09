@@ -1,6 +1,7 @@
 # sesion-05a
 
-__consejos y componentes__
+## consejos y componentes
+
 - en la mayor medidda posible buscar e identificar los compopnentes tanto fisicos como digitales que usamos
 - THT (through-hole technology): tecnica de montaje donde los componentes se instalan a traves de orificios hechos en una placa PBC
 - SMD (surface mount device): tecnica de montaje en donde los compopnentes se instalan sobre la placa PCB en vez de pasar a traves de los orificios
@@ -12,14 +13,15 @@ __consejos y componentes__
 - en un parlante, lo que escuchamos es un cambio en la energia que recibe, no en la constancia del sonido
 - el comportamiento de las resistencias y los condensadores tienen las formulas opuestas, en seri y el paralelo
 
-__modificando el ataria punk console__
+## modificando el atari punk console
 
 ![image](https://github.com/user-attachments/assets/09c82dad-336d-4071-a796-8b55769d20a3)
 
 variamos el atari cambiando la restincia experimental que era un LDR por un ninterruptor de dos estados, prinpialmente era para ci¿uando encendieramos el interruptor pasara la energia y cuando se apagara costara la energia, pero obtuvimos un resultado interesante ya que en vez de cortar el paso de energia bajaba la frecuencia del parlante cuando se apagaba el interruptor
 
-https://github.com/user-attachments/assets/eea28dea-544e-4e37-b016-45866d34b1c4
+<https://github.com/user-attachments/assets/eea28dea-544e-4e37-b016-45866d34b1c4>
 
-__recursos__
+## recursos
+
 - [reconocer valores de capacitores](https://circuitdigest.com/calculators/capacitor-value-code-calculator)
 - [calculadora de condensadores](https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-series-and-parallel-capacitor)

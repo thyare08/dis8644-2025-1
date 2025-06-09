@@ -1,12 +1,12 @@
 # sesion-12a
 
-#  Proyecto de Semáforo Electrónico con Detector de Sombra
+## Proyecto de Semáforo Electrónico con Detector de Sombra
 
 Este proyecto consiste en la construcción de un semáforo electrónico dividido en tres etapas, utilizando componentes como el LM324, el temporizador 555 y el contador CD4017. Además, se incorpora un detector de sombra que permite la activación del sistema mediante la detección de cambios en la iluminación ambiental.
 
 ---
 
-##  Etapa 1: Detector de Sombra
+## Etapa 1: Detector de Sombra
 
 **Objetivo:** Activar un LED en función de la cantidad de luz recibida por un LDR (Light Dependent Resistor).
 
@@ -44,7 +44,7 @@ Se implementó un circuito astable utilizando el temporizador 555 para generar u
 
 ---
 
-##  Etapa 3: Control de Secuencia con CD4017
+## Etapa 3: Control de Secuencia con CD4017
 
 **Objetivo:** Controlar la secuencia de encendido de los LEDs que simulan las luces de un semáforo.
 
@@ -63,13 +63,13 @@ El CD4017 es un contador de décadas que, al recibir pulsos de reloj del tempori
 
 ---
 
-##  Integración de las Etapas
+## Integración de las Etapas
 
 Al combinar las tres etapas, se obtiene un sistema de semáforo electrónico que se activa mediante la detección de sombra. Cuando el LDR detecta una disminución en la luz, el LED de la primera etapa se enciende, activando el temporizador 555 de la segunda etapa. Este genera pulsos que son enviados al CD4017 en la tercera etapa, el cual controla la secuencia de los LEDs del semáforo.
 
 ---
 
-##  Imágenes del Proyecto
+## Imágenes del Proyecto
 
 ![Semáforo Electrónico con 555 y CD4017](https://unicrom.com/wp-content/uploads/2023/04/Semaforo-electronico-con-555-y-4017.png)
 
@@ -77,17 +77,17 @@ Al combinar las tres etapas, se obtiene un sistema de semáforo electrónico que
 
 ---
 
-##  Componentes Utilizados
+## Componentes Utilizados
 
 - Amplificador Operacional LM324 / LM324N
 - Circuito Integrado Timer 555
 - LDR fotoresistencia resistencia fotosensible sensor de luz
-- Pack 5pcs Ic Decodificador Cd4017be Cd4017 Cmos 
+- Pack 5pcs Ic Decodificador Cd4017be Cd4017 Cmos
 - Potenciómetro 10k
 
 ---
 
-##  Referencias
+## Referencias
 
 - [Semáforo Electrónico con 555 y CD4017 - Unicrom](https://unicrom.com/semaforo-electronico-con-555-y-4017/)
 - [Detector de Sombra con LM324 y LDR (Video)](https://www.youtube.com/watch?v=aLV8XfISqdE)
@@ -97,7 +97,3 @@ Al combinar las tres etapas, se obtiene un sistema de semáforo electrónico que
 ![Semáforo terminado](https://unicrom.com/wp-content/uploads/semaforo-electronico-temp-555-cont-decad-4017.png)
 
 ![Semáforo terminado](https://image.easyeda.com/components/3b5d2e3af1b9406093e45f113e7bf828.png)
-
-
-
-

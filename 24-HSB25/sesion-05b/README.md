@@ -1,8 +1,8 @@
 # sesion-05b
 
-# Apuntes CLases
+## Apuntes CLases
 
-# Engineer’s Mini-Notebooks de Forrest M. Mims III
+## Engineer’s Mini-Notebooks de Forrest M. Mims III
 
 ![Engineer](https://tse1.mm.bing.net/th?id=OIP.QFCrGsOYTz4AUhmdFl8k4AHaJ4&w=474&h=474&c=7)
 ![Engineer](https://tse1.mm.bing.net/th?id=OIP.OqM1oMMAWuBDzSVe2aNazAHaJ4&w=474&h=474&c=7)
@@ -12,7 +12,7 @@
 Los Engineer’s Mini-Notebooks de Forrest M. Mims III son una serie de cuadernillos de electrónica muy populares, publicados entre los años 1980 y 1990 por la tienda estadounidense Radio Shack. Están diseñados para enseñar de forma práctica y accesible conceptos de electrónica a estudiantes, aficionados y autodidactas.​
 eBay
 
-# ¿Qué contienen?
+## ¿Qué contienen?
 
 Cada cuadernillo incluye:​
 

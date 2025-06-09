@@ -92,27 +92,17 @@ A continuación se nos dio "chipe libre" para seguir recorriendo las demás sala
 
 ![WhatsApp Image 2025-04-28 at 9 48 49 AM (4)](https://github.com/user-attachments/assets/26931d89-af86-4611-aff3-7b495e8a38d0)
 
-<br>
-
 ***
 
 ### Encargo 08: Gonzalo Martínez y sus Congas Pensantes, en Chile
 
-<br>
-
 Texto texto texto
-
-<br>
 
 ***
 
 ### Encargo 09: Salida a terreno en el MAC -> Opiniones
 
-<br>
-
 Texto texto texto
-
-<br>
 
 ***
 

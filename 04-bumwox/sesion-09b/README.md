@@ -1,20 +1,24 @@
 # sesion-09b
 
-[pstshiu](https://patshiu.com)
+[patshiu](https://patshiu.com)
 
-__pam 8403__
+pam 8403:
+
 - modulo que permite q un parlante suene mas fuerte
 
-__relé__
+relé:
+
 - puede transmitir pequeñas señales de control por el usuario
 
-__555__
+555:
+
 - recibe una señal que perturba la frecuencia del timer que es el 555
 - no necesariamente genera fenomenos perceptuales
 - astable, que oscila constantemente entre sus modos
 - monoestable, que está naturalmente en un estado hasta que se perturba, cambia al otro estado y se mantiene por un tiempo en ese cambio, para después volver al estado anterior
 
-__modulo__
+modulo:
+
 - lo mas fundamental de la electronicas son los electrones
 - materia es la que conduce la electricidad/energia producida por electrones y protones
 - componentes: resistencias, condensadores, diodos, protoboard, baterias, cables, interruptopes, pulsadores, bobinas, parlante
@@ -23,7 +27,7 @@ __modulo__
 
 ![image](https://github.com/user-attachments/assets/f73aa3fa-e790-40d2-b409-6e1e28152e8c)
 
-__la materia que se hablo despues de esto me la perdi ya que fui a la charla de lord of the logos__
+> la materia que se hablo despues de esto me la perdi ya que fui a la charla de lord of the logos
 
 ## 18. 555 con PWM
 
@@ -42,5 +46,3 @@ RGB funciona de manera contextual, por eso sí es posible que mi pantalla me mue
 
 - laura phillips " laurie " anderson es una artista vanguardista estadounidense, música y cineasta cuyo trabajo abarca el arte escénico, la música pop y proyectos multimedia, inicialmente formada en violín y escultura, anderson realizó diversos proyectos de arte escénico en la ciudad de nueva york durante la década de 1970, centrándose especialmente en el lenguaje, la tecnología y las imágenes visuales, alcanzó un éxito comercial inesperado cuando su canción " O Superman " alcanzó el número dos en la lista de sencillos del reino unido en 1981
 - es una reflexión crítica sobre la tecnología, la guerra y la búsqueda de autoridad, inspirada en el fracaso de la operación garra de aguila para rescatar a los rehenes en irán. la letra, que incluye frases como "oh, superman" y "porque cuando el amor se acaba, siempre hay justicia", se interpreta como una plegaria a una autoridad que no puede brindar consuelo y una crítica a la dependencia de la tecnología militar para resolver problemas
-
-

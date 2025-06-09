@@ -14,7 +14,7 @@
 
 ### update 05mayo
 
-# encargo musical: Wendy Carlos
+## encargo musical: Wendy Carlos
 
 <https://es.wikipedia.org/wiki/Wendy_Carlos>
 <https://www.youtube.com/watch?v=rTJDtY-j_Zg>
@@ -31,4 +31,3 @@ al escuchar Switched On Bach, no pude evotar pensar que sonaba "crudo", no sé s
 nota: 6/10
 
 (anotación: las notas hacen refernecia a que tanto me gustó el proyecto en cuestón, la relevancia histórica y aportes al medio no son tomados en cuenta)
-

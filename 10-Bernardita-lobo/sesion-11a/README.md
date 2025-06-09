@@ -43,7 +43,7 @@
 
 ![Foto moog](./archivos/tme-sesion11a-moog.jpg)
 
-insertar foto de bitacora*
+![Foto de los apuntes de mi bitácora](./archivos/tme-sesion11a-bitacora.jpeg)
 
 ## Encargo
 

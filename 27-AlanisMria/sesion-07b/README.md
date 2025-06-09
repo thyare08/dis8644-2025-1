@@ -1,8 +1,8 @@
 # sesion-07b
 
-*25 de Abril de 2025*
+25 de Abril de 2025
 
-### Encargo 14
+## Encargo 14
 
 Variación de Atari punk console, con potenciometro y pulsador
 

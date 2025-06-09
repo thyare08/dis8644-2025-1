@@ -4,7 +4,7 @@ Martes 20 de Mayo del 2025.
 
 ## Apuntes clases
 
-**Componentes que conocemos:** 
+**Componentes que conocemos:**
 
 - R (resistencia)
 - C (condensador)
@@ -24,14 +24,14 @@ Martes 20 de Mayo del 2025.
 - PCB (placa)
 - PERFBOARD (placa perforada)
 
-**Circuitos que conocemos**
+Circuitos que conocemos
 
 - Atari Punk Consolo (APC)
 - PWN (duty cycle)
 - Astable (AS)
 - Monostable (MS)
 
-**Aplicaciones**
+Aplicaciones
 
 - APC (Atari Punk Console)
 - Brilld LED

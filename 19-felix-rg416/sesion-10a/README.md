@@ -3,12 +3,12 @@
 - filósofo descartes
 - descartes - silvio rodríguez
 - <https://www.falstad.com/circuit/>
--  si googleas "pinout" se sabe la función de cada patita
+- si googleas "pinout" se sabe la función de cada patita
 - "la batería es un lienzo"
 
-# circuito PWM
+## circuito PWM
 
-1. armar 1 circuito 
+1. armar 1 circuito
 2. juntarse entre 3 personas, c/u con un LED rojo, verde o azul
 3. combinar colores
 
@@ -18,7 +18,7 @@ pin 5 del 555 - control de voltaje, es inestable, por eso se usa un condensador
 
 ___
 
-# lm324 - amplificador operacional (OP-AMP)
+## lm324 - amplificador operacional (OP-AMP)
 
 "el comparador de minecraft está inspirado en eso"
 
@@ -28,24 +28,24 @@ chip de 14 patitas
 
 muy usado
 
-* DIBUJO *
+- DIBUJO *
 
 puede usar alimencación bipolar "es un cacho"
 
-# divisor de voltaje
- 
-*divisor de voltaje *
+## divisor de voltaje
+
+divisor de voltaje
 
 si quiero dividir a la mitad el voltaje de la batería, pongo una resistencia en cada lado
 
-# falstad
+## falstad
 
-# circuito RLC
+## circuito RLC
 
-# Encargo
+## Encargo
 
 pantallas de segmentos y cuántos tienen
 
-# encargo
+## encargo
 
 hacer en falstad el PWM

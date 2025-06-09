@@ -92,7 +92,7 @@ command d = duplicar
 
 pitch: distancia entre los pads o pines (espaciado)
 
-![sch] <img width="893" alt="Captura de pantalla 2025-05-09 a la(s) 11 20 09 p m" src="https://github.com/user-attachments/assets/4a36ff67-4704-41e3-a0bf-33838d5eea48" />
+![sch](https://github.com/user-attachments/assets/4a36ff67-4704-41e3-a0bf-33838d5eea48)
 
 ## Editor de placas (etapa 2) *anotaciones*
 

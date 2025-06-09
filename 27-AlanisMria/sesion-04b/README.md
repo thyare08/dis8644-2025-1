@@ -2,7 +2,7 @@
 
 4 de abril de 2025
 
-*"Con un botón se puede hacer mucho"*
+> "Con un botón se puede hacer mucho"
 
 Las pantallas requieren de mucha info para poder funcionar.
 

@@ -2,7 +2,7 @@
 
 martes 22 de abril
 
-### - **[Bleep Labs](https://bleeplabs.com/)**
+## - **[Bleep Labs](https://bleeplabs.com/)**
 
 ![bleepLabs](./archivos/BleepLabs.collage.png)
 
@@ -14,7 +14,7 @@ martes 22 de abril
 
 ### - **tarjeta de presentación misaa**
 
-![tarjeta de presentación de missa](./archivos/misaaCollage.png) 
+![tarjeta de presentación de missa](./archivos/misaaCollage.png)
 
 ### - **subaquatic**
 
@@ -48,7 +48,7 @@ La belleza de la protoboard *"Me gusta que las cosas puedan fallar"* - Aarón
 
 -----
 
-# kicad
+## kicad
 
 Palabra importantísima - **COMPONENTE**
 
@@ -61,7 +61,7 @@ tiene 3 características: - **Valor** / - **Símbolo** / - **rating** (cuanto ag
 - [Diodo](https://www.mouser.cl/ProductDetail/onsemi-Fairchild/1N4148?qs=i4Fj9T%2FoRm8RMUhj5DeFQg%3D%3D)
 - Potenciómetro RK163
 
-### comandos
+## comandos
 
 - Añadir símbolos **[A]***
 - Rotar **[R]**

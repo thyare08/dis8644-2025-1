@@ -1,21 +1,21 @@
 # sesion-11a
 
-### taller martes 20 de mayo de 2025
+martes 20 de mayo de 2025
 
-**llegué tarde a clases por un taco horrible que había de la micro al metro, me perdí la primera media hora**
+llegué tarde a clases por un taco horrible que había de la micro al metro, me perdí la primera media hora
 
-### primera parte
+## primera parte
 
 - cuando llegué estaban hablando de que el proyecto 2 será un anteproyecto del examen, un pre-examen y que sería a mediados del mes de junio
 - también en la pizarra estaban anotados algunos de los componentes que habíamos visto a modo de repaso, no alcancé a escribirlo todo porque lo borraron
 - estaban anotados tambien los tipos de circuitos que hemos visto hasta el momento, de estos son los astable, monostable y ahora el pwm
 - el día de hoy haremos un pwm pero le añadiremos un motor
 
-**en este rato armamos el pwm que habíamos armado la clase anterior, me funcionó mejor ahora que la vez pasada**
+en este rato armamos el pwm que habíamos armado la clase anterior, me funcionó mejor ahora que la vez pasada
 
-**aquí un video del circuito ya armado y funcionando**
+aquí un video del circuito ya armado y funcionando
 
-https://github.com/user-attachments/assets/e639b94e-b67e-4c11-8b22-9a349fb0becb
+<https://github.com/user-attachments/assets/e639b94e-b67e-4c11-8b22-9a349fb0becb>
 
 - una observación a comparación de la vez pasada, es que ya no parpadea cuando le bajamos al potenciómetro, la vez pasada si lo hacía y esto no tenía que ocurrir
 
@@ -42,15 +42,14 @@ https://github.com/user-attachments/assets/e639b94e-b67e-4c11-8b22-9a349fb0becb
 - ahora haremos el circuito nuevo, aquí el esquemático
 ![1000012569](https://github.com/user-attachments/assets/921f1c4e-63ac-40e3-b5cd-38f495de6b37)
 
- - en una primera instancia desarrollamos el circuito con un potenciómetro que nos permitía manipular el motor, adjunto video
+- en una primera instancia desarrollamos el circuito con un potenciómetro que nos permitía manipular el motor, adjunto video
 
-
-https://github.com/user-attachments/assets/a7666dc5-72bc-403d-b2b8-8207dcc418c2
+<https://github.com/user-attachments/assets/a7666dc5-72bc-403d-b2b8-8207dcc418c2>
 
 - este circuito a diferencia del pwm básico, contiene las modificaciones del transistor mofet
 - después de hacer este circuito se agregó un pequeño hack, el cual consistía en cambiar el potenciómetro (resistencia variable) por un LDR
 - lo que hace esto era que nos permite variar la velocidad del motor a medida que intervenimos en la luz que recibe el LDR, adjunto video
 
-https://github.com/user-attachments/assets/dd2b2f51-a45a-4cf1-baca-54ada48d1707
+<https://github.com/user-attachments/assets/dd2b2f51-a45a-4cf1-baca-54ada48d1707>
 
 - buenas noticias para el viernes, no hay encargo !!!!! yea

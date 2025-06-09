@@ -1,10 +1,10 @@
-### sesion-06a
+# sesion-06a
 
-## Entrega Proyecto 01
+Entrega Proyecto 01
 
-# LDA: Light Dependent Awelita
+## LDA: Light Dependent Awelita
 
-# Premisa
+### Premisa
 
 - Elegir Temática
 
@@ -16,27 +16,27 @@
 
 <https://www.555-timer-circuits.com>
 
-![Foto de los ejemplos que más nos gustaron(las4 en una misma foto)](tme-p1-esquemas.png)
+![Foto de los ejemplos que más nos gustaron(las4 en una misma foto)](./archivos/tme-p1-esquemas.png)
 
 Miramos los distintos ejemplos en esta página, y destacamos los que más nos llamaron la atención.
 
-![foto bitácora](tme-p1-bitacoraEsquema.jpeg)
+![foto bitácora](./archivos/tme-p1-bitacoraEsquema.jpeg)
 
-![foto del cirucuito APC](tme-p1-circuitoAtari.jpeg)
+![foto del cirucuito APC](./archivos/tme-p1-circuitoAtari.jpeg)
 
-![Foto esquemático original del pryecto dark detector](tme-p1-esquemaDarkDetector1.png)
+![Foto esquemático original del pryecto dark detector](./archivos/tme-p1-esquemaDarkDetector1.png)
 
-![Foto trabajo poor discord](tme-p1-trabajoOnline.jpeg)
+![Foto trabajo poor discord](./archivos/tme-p1-trabajoOnline.jpeg)
 
-![Foto circuito armadod](tme-p1-circuitoDark.jpeg)
+![Foto circuito armadod](./archivos/tme-p1-circuitoDark.jpeg)
 
 <https://www.555-timer-circuits.com/dark-detector.html>
 
- Este proyecto consiste en un circuito que sensa la luz a través de un LDR. Una alarma se activa cuando el nivel de luz detectado es menor a cierta cantidad determinada por la configuración del sistema.
+Este proyecto consiste en un circuito que sensa la luz a través de un LDR. Una alarma se activa cuando el nivel de luz detectado es menor a cierta cantidad determinada por la configuración del sistema.
 
 ## Definir Usuario
 
-![Foto user persona](tme-p1-user.png)
+![Foto user persona](./archivos/tme-p1-user.png)
 
 USER PERSONA
 
@@ -62,7 +62,7 @@ Identificamos una problemática en aquella situación cuando una persona, en est
 
 Esto ocurre porque la disminución de la luz es paulatina, y sucede a una velocidad que permite que nuestro ojo se vaya acostumbrando a ella automáticamente. Por eso a veces pareciera que oscureció de golpe en la noche
 
-![Figura 1.13 del archivo retinaAdaptTesis.pdf](tme-p1-grafico.png)
+![Figura 1.13 del archivo retinaAdaptTesis.pdf](./archivos/tme-p1-grafico.png)
 
 <https://uvadoc.uva.es/handle/10324/22376>
 
@@ -70,16 +70,16 @@ Si bien, no hay estudios que comprueben que hacer atividades a oscuras dañe la 
 
 Definición Función:
 
-![Foto luz alarma](tme-p1-alarmaNoche.jpeg)
+![Foto luz alarma](./archivos/tme-p1-alarmaNoche.jpeg)
 Imagen generada por Ia mediante chatGPT
 
 Un objeto que cuando se oscurezca emita una alarma para alertar al usuario, y que este recuerde encender una luz para que no suene. Esta alarma sonará durante 300s y después el istema se suspenderá hasta que vuelva a detectar luz.
 
-# Diseño
+### Diseño
 
 ## Investigación 1: Iluminación
 
-![foto de algo con luz ahaha](tme-1p-fotoLuz.jpeg)
+![foto de algo con luz ahaha](./archivos/tme-1p-fotoLuz.jpeg)
 
 <https://pin.it/83V7VnPhr>
 
@@ -110,41 +110,41 @@ Para cada uno de los objetivos que tenemos ya tenemos un circuito conocido.
 
 Con el circuito  Dark Detector podemos hacer que el cirtuito emita una alarma cuando haya poca luz.
 
-![Foto esquemático original del proyecto dark detector](tme-p1-esquemaDarkDetector1.png)
+![Foto esquemático original del proyecto dark detector](./archivos/tme-p1-esquemaDarkDetector1.png)
 
 Con el circuito monoestable podemos lograr que cuando se recibe un estímulo, este quede corriendo durante un tiempo y después apagarse.
 
-![Foto esquemático original del circuito monoestable](tme-p1-esquemaMonoestable.png)
+![Foto esquemático original del circuito monoestable](./archivos/tme-p1-esquemaMonoestable.png)
 
 La idea es "fusionar" ambos circuitos para lograr que la parte del Dark Detector(A) "controle" a la parte monoestble (B)
 
-![Foto esquemático dibujo parte A](tme-p1-esquemaFusionA.jpeg)
+![Foto esquemático dibujo parte A](./archivos/tme-p1-esquemaFusionA.jpeg)
 
-![Foto esquemático dibujo parte B](tme-p1-esquemaFusionB.jpeg)
+![Foto esquemático dibujo parte B](./archivos/tme-p1-esquemaFusionB.jpeg)
 
-![Foto esquemático dibujo fusión](tme-p1-esquemaFusion.jpeg)
+![Foto esquemático dibujo fusión](./archivos/tme-p1-esquemaFusion.jpeg)
 
 ## Redefinición
 
 Tras múltiples intentos no logramos
 
-![Foto esquemático intento fallido tinker](tme-p1-tinkerTry1.png)
+![Foto esquemático intento fallido tinker](./archivos/tme-p1-tinkerTry1.png)
 
-![Foto esquemático otro intento fallido tinker](tme-p1-tinkerTry2.png)
+![Foto esquemático otro intento fallido tinker](./archivos/tme-p1-tinkerTry2.png)
 
 Tras no lograr llevar a cabo la idea original, decidimos optar por quedarnos con la parte que teníamos funcionando.
 
-![Foto esquemático del circuito que tenemos realmente](tme-p1-esquemaDarkDetector1.png)
+![Foto esquemático del circuito que tenemos realmente](./archivos/tme-p1-esquemaDarkDetector1.png)
 
-![Foto edel cableado funcionante](tme-p1-esquemaDark.png)
+![Foto edel cableado funcionante](./archivos/tme-p1-esquemaDark.png)
 
-![Foto del flujo real](tme-p1-flujoReal.png)
+![Foto del flujo real](./archivos/tme-p1-flujoReal.png)
 
-![Foto esquemático dibujo fusión](tme-p1-esquemaFusion.jpeg)
+![Foto esquemático dibujo fusión](./archivos/tme-p1-esquemaFusion.jpeg)
 
-![Foto del flujo que queriamos que fuera](tme-p1-flujoIdeal.png)
+![Foto del flujo que queriamos que fuera](./archivos/tme-p1-flujoIdeal.png)
 
-# FABRICACIÓN
+### FABRICACIÓN
 
 - Cables
 
@@ -152,7 +152,7 @@ Tras no lograr llevar a cabo la idea original, decidimos optar por quedarnos con
 
 ## Cables
 
-![Foto avances](tme-p1-bitacoraBoceto.jpeg)
+![Foto avances](./archivos/tme-p1-bitacoraBoceto.jpeg)
 
 En esta etapa tomamos medidas de los componentes, y los tuvimos en cuenta para el diseño de la carcasa
 
@@ -178,25 +178,25 @@ Bill of Materials
 
 Hicimos un modelo 3D mediante Rhinoceros 3D
 
-![Foto donde aparezcan varias fotos de proceso del modelado 3d](tme-p1-modelado0.png)
+![Foto donde aparezcan varias fotos de proceso del modelado 3d](./archivos/tme-p1-modelado0.png)
 
-![Foto del modelado 1](tme-p1-modelado01.png)
+![Foto del modelado 1](./archivos/tme-p1-modelado01.png)
 
-![Foto del modelado 1](tme-p1-modelado02.png)
+![Foto del modelado 1](./archivos/tme-p1-modelado02.png)
 
-![Foto del render](tme-p1-render.png)
+![Foto del render](./archivos/tme-p1-render.png)
 
 Impresión 3D
 
-![Foto de la impresión comenzando](tme-p1-imp1.jpg)
+![Foto de la impresión comenzando](./archivos/tme-p1-imp1.jpg)
 
-![foto de la impresión al 40%](tme-p1-imp2.jpg)
+![foto de la impresión al 40%](./archivos/tme-p1-imp2.jpg)
 
-![foto de la impresión fallando](tme-p1-imp3.jpg)
+![foto de la impresión fallando](./archivos/tme-p1-imp3.jpg)
 
-![Foto de la impresión lista](tme-p1-imp4.jpg)
+![Foto de la impresión lista](./archivos/tme-p1-imp4.jpg)
 
-![Foto de la los soportes sacados](tme-p1-imp5.jpg)
+![Foto de la los soportes sacados](./archivos/tme-p1-imp5.jpg)
 
 ### Referencias
 
@@ -220,10 +220,8 @@ Para más información y más proceso, por favor consultar nuestro figma con acc
 
 <https://www.figma.com/board/2tv4jx75qGZa6Gua2UCVer/taller.maq.electr?node-id=0-1&t=aBNh63yuq9MDT4AI-1>
 
-
-
 ### enacrgo 12: kicad
 
-Instalé kicad para windows. Versión 9.0.2. Creé una carpeta llamada kicad, dentro de mi carpeta del taller. de modo que la jerarquía es: Escritorio > todo > universidarks > 4TO-ano > taller.maq.elec > kicad. dentro de la carpeta de kicad tengo los siguientes archivos: udpudu, theypudu, 00-libsKicad-teee, etc. 
+Instalé kicad para windows. Versión 9.0.2. Creé una carpeta llamada kicad, dentro de mi carpeta del taller. de modo que la jerarquía es: Escritorio > todo > universidarks > 4TO-ano > taller.maq.elec > kicad. dentro de la carpeta de kicad tengo los siguientes archivos: udpudu, theypudu, 00-libsKicad-teee, etc.
 
 ahora me gustaría cambiar la carpeta kicad desde la carpeta del taller, hacia mi carpeta diseno.diseno, en la cual guardo cosas relacionadas a lo que me gusta diseñar. en ese caso la jerarquía sería:  Escritorio > todo > diseno.diseno > kicad.

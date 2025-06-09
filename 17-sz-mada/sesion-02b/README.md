@@ -30,8 +30,8 @@ Como las 3 resistencias son iguales, el brillo de los LED es el mismo. Si modifi
 |Resistencia|3|R1, R2, R3|1k Ω|
 |LED|4|D1, D2, D3, D4|Variable|
 |Batería|1|BAT|9V|
-|Protoboard|1|
-|Cables|6|
+|Protoboard|1|||
+|Cables|6|||
 
 - Con la **Tabla de verdad** podemos saber el “valor de verdad” de una combinación propuesta y todas sus variaciones
 
@@ -59,8 +59,8 @@ Esquema de circuito 1
 |Resistencia|1|R4|1k Ω|
 |LED|4|D1, D2, D3, D4|Variable|
 |Batería|1|BAT|9V|
-|Protoboard|1|
-|Cables|2|
+|Protoboard|1|||
+|Cables|2|||
 
 - Tabla de verdad
 
@@ -87,8 +87,8 @@ Esquema de circuito 2
 |Resistencia|6|R1, R2, R3, R4, R5, R6|220 Ω|
 |LED|4|D1, D2, D3, D4|Variable|
 |Batería|1|BAT|9V|
-|Protoboard|1|
-|Cables|13|
+|Protoboard|1|||
+|Cables|13|||
 
 - Tabla de verdad
 
@@ -119,8 +119,8 @@ Esquema de circuito 3
 |Resistencia|3|R5, R6, R7|1k Ω|
 |LED|3|D1, D2, D3|Variable|
 |Batería|1|BAT|9V|
-|Protoboard|1|
-|Cables|8|
+|Protoboard|1|||
+|Cables|8|||
 
 - Tabla de verdad
 

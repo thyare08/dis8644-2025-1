@@ -77,14 +77,14 @@ tamaño tarjeta de presentación: 85 x 55
 
 los componentes tienen:
 
-**- Nombre**
+- Nombre
 
 - resistencia
 - condensador
 - LED
 - etc.
 
-**- Valor**
+- Valor
 
 - 100k ohm (de una resistencia)
 - 10 uF (de un condensador)
@@ -98,13 +98,13 @@ los componentes tienen:
 - DIP-8 (circuito integrado de 8 pines de tipo THT)
 - etc.
 
-> D : diámetro
->
-> P : Pitch - distancia entre patitas
->
-> DIP : Dual In Line - package de circuitos integrados
+ D : diámetro
 
-> para saber el encapsulado de los componentes, googlear "Package *componente + valor*"
+ P : Pitch - distancia entre patitas
+
+ DIP : Dual In Line - package de circuitos integrados
+
+ para saber el encapsulado de los componentes, googlear "Package *componente + valor*"
 
 ---
 

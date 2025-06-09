@@ -1,3 +1,3 @@
 # sesion-08b
 
-# Receso 
+Receso

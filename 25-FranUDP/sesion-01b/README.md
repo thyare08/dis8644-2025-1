@@ -50,7 +50,9 @@ Limitan el flujo de electrones (corriente) para que otros componentes puedan fun
 
 #### Baterías
 
-<img align="left" src="https://media.licdn.com/dms/image/v2/D5612AQGAPUJPOk3GXA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1718624801052?e=1747872000&v=beta&t=jJfT0pireZLA0QnAAVElrogv1ybiwcjoslnfZ1FnDWo" width=400> Similares a los [capacitores](https://youtu.be/X4EUwTwZ110?si=W06CjwpOs9OW3rEu) en que almacenan y liberan energía (baterias almacenan más y se cargan más lento). Las baterias pueden ser de distintas capacidades (miliamperios mah) y voltajes (v), pero todas se usan para proveer de energia un circuito.
+![alt-text]("https://media.licdn.com/dms/image/v2/D5612AQGAPUJPOk3GXA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1718624801052?e=1747872000&v=beta&t=jJfT0pireZLA0QnAAVElrogv1ybiwcjoslnfZ1FnDWo)
+
+Similares a los [capacitores](https://youtu.be/X4EUwTwZ110?si=W06CjwpOs9OW3rEu) en que almacenan y liberan energía (baterias almacenan más y se cargan más lento). Las baterias pueden ser de distintas capacidades (miliamperios mah) y voltajes (v), pero todas se usan para proveer de energia un circuito.
 
 Después de desconectar un aparato eléctrico y/o circuito esperar 30 sec para evitar descargas eléctricas.
 
@@ -58,7 +60,9 @@ Tener cuidado con voltajes sobre 30 Volts. Outlets in Chile output 220V AC (alte
 
 ### Ejercicio práctico
 
-<img align="left" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-01b/archivos/diagrama.jpg" width=250> <img align="center" src="https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-01b/archivos/circuito.jpg" width=400>
+![alt-text](./archivos/diagrama.jpg)
+
+![alt-text](./archivos/circuito.jpg)
 
 Armamos un circuito usando los componentes antes mencionados y usamos una bateria de 9V (voltios/volts) para darle energía.
 
@@ -120,7 +124,7 @@ resistencia variable cuyo valor máximo es 500k ohm (500.000 ohm) (la resistenci
 | [LM358](https://youtu.be/kqCV-HGJc6A?si=1e65dbutlo4v1AY-) | [NE555](https://youtu.be/fLaexx-NMj8?si=-22qzLNU37zI5imM) | [CD4017](https://youtu.be/WIIcYPLMbgM?si=wEb6JMgKfma03rM0) | CD4093 |
 |-----------------------------------------------------------|-----------------------------------------------------------|------------------------------------------------------------|------------|
 | operational amplifier                                     | timer                                                     | counter (decade)                                           | [logic gates](https://youtu.be/INEtYZqtjTo?si=lgLCz3nbBNJun3b7) |
-| amplification                                             | timing, pulse generation                                  |
+| amplification                                             | timing, pulse generation                                  |       |       |
 
 ### Botón on/off 4 pins
 

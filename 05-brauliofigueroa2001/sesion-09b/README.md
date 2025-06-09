@@ -13,17 +13,22 @@ llegué un poco tarde
 - Gordon Matta Clark, hijo del chileno Roberto Matta, el papá nunca lo tomó en cuenta y murió joven. Era un anarquitecto como se definía él, sus obras eran lo contrario a arquitectura, le gustaba destruir y hacer agujeros en los edificios
 - prácticas, emergencias tecnológicas
 - hablaron de algo que iremos a ver respecto a diseño, a saber qué está pasando en la escuela y qué están haciendo los demás. Acá Aarón dijo que "somos malos para celebrar los chilenos" me quedó dando muchas vueltas en la cabeza, creo que en este país nunca se reconocen los esfuerzos
+
 - ### **QS top universities**
+
 - nos metimos a un ranking de universidades a nivel mundial para ver en qué lugar estaban las universidades chilenas, las primeras eran las típicas (MIT,Oxford, Harvard, Cambridge, etc) después habían varias universidades chinas y también una de Singapur
 - las universidades chilenas mejor ubicadas son la católica en lugar 93 creo y la chile en el 100yalgo , la Diego Portales estaba cerca del lugar 1000
 - existen varios parámetros para generar este ranking
 - considerando que la udp es relativamente nueva, ha escalado muy bien en el ranking si nos ponemos a pensar que hay universidades que existen hace 500 años
+
 - ### **salud mental**
+
 - los profes hablaron que durante nuestro receso se capacitaron en salud mental de estudiantes y que les proponían una actividad que consiste en preguntarle a los alumnos si había pasado algo bueno durante la semana
 - varios contaron lo que había pasado, me quedo con el de félix que desbloqueó un logro de caminar 7 o 70km entre portales del nether en minecraft, debe jugar muchísimo.
 - misaaa contó que había salido un tiny desk de jeff parker, era de jazz. Lo anoté porque ando en búsqueda de escuchar música nueva, siempre escucho lo mismo
 
 ## segunda parte post break
+
 - me fui a comprar un pan con jamón y palta que era muy grande y me dió asco comerlo, pero comí galletas frac.
 - en la vuelta del break nos entregaron un nuevo chip y más cosas, dentro de estas se encuentra el PAM8403 que es un amplificador de audio, hace que todo suene más fuerte
 - mostraron la página afel.cl que es barata y rápida, no sé si es buena, creo que tiene las versiones charcha de las cosas. Dijeron que para un examen no comprarían ahí, es bueno saberloé
@@ -47,24 +52,24 @@ llegué un poco tarde
 
 - ![1000010842](https://github.com/user-attachments/assets/403bdae6-c7c1-45c4-81fd-2078caacdb73)
 
- ### encargo-18: de tinkercad a protoboard
+### encargo-18: de tinkercad a protoboard
 
- **traspasar circuito pwm hecho en tinkercad a protoboard**
+traspasar circuito pwm hecho en tinkercad a protoboard
 
  no asistí el martes a clases por lo cual no estuve cuando revisaron el circuito armado en la protoboard, lo armé según estaba en el módulo de tinkercad pero aún así no funciona, no sé en que esté fallando. Lo que ocurre es que la luz led se enciende pero al girar el potenciómetro, no genera efecto alguno sobre la luz. En algo debo haberme equivocado pero no logro comprenderlo aún, adjunto fotos del circuito.
 
  ![tinkercad circuito](https://github.com/user-attachments/assets/2f169d57-832e-4081-88dc-d96904ee1d70)
 
-
  ![1000011318](https://github.com/user-attachments/assets/ddb066f4-54eb-4fd2-bf09-d2d17cda25d3)
 
  ![1000011329](https://github.com/user-attachments/assets/22516e39-d51b-4b5d-8674-10180ff86461)
 
-https://github.com/user-attachments/assets/4e382456-b36f-415d-a4ec-26a28e4d2f01
+<https://github.com/user-attachments/assets/4e382456-b36f-415d-a4ec-26a28e4d2f01>
 
 ### actualización
 
 pregunté en clases en qué había fallado el circuito y misaaa me ayudó amablemente, la falla estuvo ante mis ojos y no supe verlo, los cambios que hicimos al que tenía anteriormente fueron:
+
 - se conectaron nuevos diodos a las patas que sobraban del potenciómetro, anteriormente los diodos no estaban conectados al potenciómetro sino que solamente estaba conectado el cable del medio, esto se había probado antes pero no funcionaba no sé por qué
 - se cambiaron los condensadores 474 por condensadores cerámicos de 104 en paralelo, estos fueron los unicos 2 cambios que se hicieron, adjunto video y foto del circuito funcionando
 - también se simplificó el circuito en la parte izquierda donde estaban los cables amarillos conectados a los diodos, se sacó uno y se conectaron ambos diodos a 1 cable
@@ -95,7 +100,7 @@ Heart of a Dog es un documental de 2015 dirigido por la artista visual y composi
 
 ### Habeas Corpus (2015)
 
-![andersonobra2](https://github.com/user-attachments/assets/0760fcab-589a-4229-8969-4ca55ee393ab
+![andersonobra2](<https://github.com/user-attachments/assets/0760fcab-589a-4229-8969-4ca55ee393ab>
 
 Esta nueva y cautivadora obra de arte combina cine, escultura, música y video para explorar la historia de Mohammed el Gharani, uno de los detenidos más jóvenes de la Bahía de Guantánamo. Abierto al público durante el día, HABEAS CORPUS invita a los visitantes a usar la sala de instrucción como un espacio para reflexionar sobre el tiempo, la identidad, la vigilancia y la libertad. El evocador ambiente de la sala de instrucción incluye un paisaje sonoro original e inmersivo que combina guitarras y amplificadores en retroalimentación, originalmente diseñado por Lou Reed, con sonidos derivados de la vigilancia de audio y la naturaleza. El espacio también se activará con presentaciones musicales improvisadas durante el día y concluirá por la noche con un concierto de celebración y una fiesta de baile con el cantante sirio Omar Souleyman, Merrill Garbus de tUnE-yArDs, la multiinstrumentista Shahzad Ismaily, el guitarrista Stewart Hurwood y la propia Anderson.
 
@@ -111,7 +116,7 @@ Amelia, (2024)
 
 En esta ocasión luego de investigar sobre Laurie Anderson y adentrarme dentro de su arte, me fui por el ámbito musical y el álbum que elegí fue "Amelia". Este álbum fue lanzado el 30 de agosto de 2024 a través de Nonesuch Records. Este disco tiene una duración de 34 minutos y 51 segundos, consta de 22 piezas dentro de las cuáles se narra la tragedia de la aviadora Amelia Earhart que desapareció en un vuelo en el año 1937. El álbum se reproduce de forma narrativa, todas las pistas entre sí están conectadas a través de transiciones muy bien logradas
 
-Antes de ser lo que es ahora, Laurie Anderson ya había estrenado esta pieza por primera vez en el Carnegie Hall de Nueva York en el año 2000 con una muy buena aceptación que decidió continuarlo en el futuro y ese futuro ha llegado, recientemente se presentó una versión actualizada en su gira por Europa. El álbum cuenta con la colaboración de ANOHNI en 6 de las 22 canciones. 
+Antes de ser lo que es ahora, Laurie Anderson ya había estrenado esta pieza por primera vez en el Carnegie Hall de Nueva York en el año 2000 con una muy buena aceptación que decidió continuarlo en el futuro y ese futuro ha llegado, recientemente se presentó una versión actualizada en su gira por Europa. El álbum cuenta con la colaboración de ANOHNI en 6 de las 22 canciones.
 
 En una declaración sobre el álbum, Laurie Anderson dijo lo siguiente: “Las palabras utilizadas en Amelia están inspiradas en sus diarios de piloto, los telegramas que le escribió a su marido y mi idea de lo que podría pensar una mujer que vuela alrededor del mundo”.
 
@@ -123,18 +128,10 @@ El álbum Amelia a mi gusto me pareció como si se tratara de una pieza cinemato
 
 links utilizados para la investigación:
 
-https://www.mondosonoro.com/criticas/discos-musica/laurie-anderson-amelia/
+<https://www.mondosonoro.com/criticas/discos-musica/laurie-anderson-amelia/>
 
-https://warp.la/laurie-anderson-nuevo-album-narrativo-amelia/
+<https://warp.la/laurie-anderson-nuevo-album-narrativo-amelia/>
 
-https://laurieanderson.com/
+<https://laurieanderson.com/>
 
-https://es.wikipedia.org/wiki/Laurie_Anderson
-
-
-
-
-
-
- 
-
+<https://es.wikipedia.org/wiki/Laurie_Anderson>

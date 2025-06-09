@@ -1,7 +1,7 @@
 # sesion-09a
 
 - Para postular hay que ser lo más específicos posibles [palacio pereira]
-    - emergencias tecnológicas
+  - emergencias tecnológicas
 - <https://patshiu.com/> <https://officialfan.club/>
 - [new york](https://www.diaart.org/visit/visit-our-locations-sites/walter-de-maria-the-new-york-earth-room-new-york-united-states)
 - [ranking de universidades](https://www.topuniversities.com/world-university-rankings)
@@ -26,40 +26,39 @@ módulos: un chip con las conexiones ya hechas, conexiones SMT
 
 ## [relé de canal 01](https://afel.cl/products/rele-de-01-canal)
 
-* imagen *
+- imagen *
 
 controla el encendido y apagado de cualquier aparato que se conecte a una fuente de alimentación eléctrica externa.
 
-# 555
+## 555
 
 - astable - no estable--> oscilación cíclica - control/aviso - va y viene _-_-_-_-_ (los transistores son el turco mecánico)
-    - input: resistencia [R] y condensador [C] 
-    - output: led - sonido - movimiento - AVISO
+  - input: resistencia [R] y condensador [C]
+  - output: led - sonido - movimiento - AVISO
 
-- monostable - timer - está en un estado de estabilidad hasta que es perturbado 
+- monostable - timer - está en un estado de estabilidad hasta que es perturbado
 
 > "está durmiendo y dice 'ah, me despertaron' y se mantiene así" - misa
 
     - input: resistencia [R] y condensador [C]
     - output: led - movimiento - sonido - AVISO
 
-
 ## módulo - siguiente grado de expansión en la electrónica
 
 - lo más importante de la electrónica: electrones - conjunto de electrónes: materia -> componentes "no importa qué es, importa para qué sirve"
-    - resistencias
-    - condensadores
-    - diodos
-    - LED
-    - power suplly (batería)
-    - potenciómetro (resistencia variables)
+  - resistencias
+  - condensadores
+  - diodos
+  - LED
+  - power suplly (batería)
+  - potenciómetro (resistencia variables)
 -> circuitos - Ateri Punk Console - astable - monostable -> CAJA NEGRA
 
 ## diagrama de flujo
 
 separar el problema que queremos resolver en cajas más chicas para simplificarlo
 
-# control de brillo LED - circuito PWM
+## control de brillo LED - circuito PWM
 
 Pulse Width Modulation - Modulación por Ancho de Pulso
 
@@ -71,7 +70,6 @@ tioene una gradiante - comportamiento gris, no es blanco y negro
 - en la pata 3 siempre sale una onda rectangular
 - no se controla la amplitud de la onda ni la frecuencia, estamos cambiando cuanto tiempo está prendido. la suma del tiempo que está prendido más cuando está apagado, es constante sin importar la posición del potenciómetro, lo que cambia es la diferencia entre cada momento
 - porcentaje que para prendido: DUTY "si el duty es de 90% significa que el 90% del timpo está prendido y el 10% apagado"
-
 
 > - siempre va a parpadear por la persistencia visual -> cuando ves una luz por mucho tiempo, cierras los ojos y se sigue viendo la luz
 

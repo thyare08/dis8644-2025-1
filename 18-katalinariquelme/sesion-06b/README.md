@@ -4,27 +4,27 @@ Clase 11: Viernes 18 de Abril del 2025
 
 - Feriado por semana santa.
 
-## Encargo 13 ##
+## Encargo 13
 
 - Ver documental "Sisters with transistors" y escuchar un disco de alguna de las mujeres que te llamo la atención.
 
-**Sisters with transistors**
+Sisters with transistors
 
 Para entrar en contexto este documental se estrenó en 2020, en el cual la cineasta Lisa Rovner sigue la historia de las pioneras de la música electrónica (cuales muchas son desconocidas), compositoras que adoptaron las máquinas y sus tecnologías liberadoras para transformar la forma en la que se produce y escucha música en la actualidad.
 
-Lo que me gusto de este documental es que contenia grabaciones reales sobre las experiencias e innovaciones de las compositoras, algo que se podia notar a menudo en los filmaciones es que estas maravillosas mujeres trabajaran en la "sombra" de los hombres, pero esto no quita que ellas de una forma se hicieron notar, resaltar, admirar encontrando en las máquinas electrónicas un potencial y una herramienta poderosa para dar forma a sonidos nunca antes escuchados. 
+Lo que me gusto de este documental es que contenia grabaciones reales sobre las experiencias e innovaciones de las compositoras, algo que se podia notar a menudo en los filmaciones es que estas maravillosas mujeres trabajaran en la "sombra" de los hombres, pero esto no quita que ellas de una forma se hicieron notar, resaltar, admirar encontrando en las máquinas electrónicas un potencial y una herramienta poderosa para dar forma a sonidos nunca antes escuchados.
 
 Imagen de documental "Sisters with transistors"
 
 ![sisters with transistors](https://github.com/user-attachments/assets/1fabb84e-480f-4987-bf6d-67cabeb248a9)
 
-La imagen fue rescada de: https://www.primevideo.com/-/es/detail/Sisters-With-Transistors/0IMHX36779MP4D68KC97C39Z7T
+La imagen fue rescada de: <https://www.primevideo.com/-/es/detail/Sisters-With-Transistors/0IMHX36779MP4D68KC97C39Z7T>
 
 ![Daphne-Oram-1](https://github.com/user-attachments/assets/6688f86f-3ee0-4cf0-8dc3-f5702aceda15)
 
-Fuente: Admin. (2023b, noviembre 2). Daphne Oram, una mujer que desafió los límites de la música y la tecnología. Asociación MIM. https://asociacionmim.com/daphne-oram-una-mujer-que-desafio-los-limites-de-la-musica-y-la-tecnologia/.
+Fuente: Admin. (2023b, noviembre 2). Daphne Oram, una mujer que desafió los límites de la música y la tecnología. Asociación MIM. <https://asociacionmim.com/daphne-oram-una-mujer-que-desafio-los-limites-de-la-musica-y-la-tecnologia/>.
 
-**Contexto:** Daphne Oram fue una pionera británica de la música electrónica nacida en 1925, fue una de las primeras compositoras británicas en producir sonido electrónico y fue una pionera de la música concreta en el Reino Unido, aunque su trabajo no es muy conocido. 
+**Contexto:** Daphne Oram fue una pionera británica de la música electrónica nacida en 1925, fue una de las primeras compositoras británicas en producir sonido electrónico y fue una pionera de la música concreta en el Reino Unido, aunque su trabajo no es muy conocido.
 
 **Albúm escuchado:** Oramics.
 
@@ -32,4 +32,4 @@ Este disco fue lanzado en el año 2007 pero fue compuesto y grabado en la décad
 
 ![daphne](https://github.com/user-attachments/assets/6c7f3103-e0ae-43dd-b101-d4a2bcaa0247)
 
-FUente: ¿Un sintetizador con dibujos? (s. f.). HolaWave. https://holawave.store/blogs/noticias/un-sintetizador-con-dibujos.
+FUente: ¿Un sintetizador con dibujos? (s. f.). HolaWave. <https://holawave.store/blogs/noticias/un-sintetizador-con-dibujos>.

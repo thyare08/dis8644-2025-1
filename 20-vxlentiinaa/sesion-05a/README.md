@@ -13,7 +13,7 @@
 
 * Con mis compañeras Sofia Cartes, Anais Marschhausen y Valentina Ruz, realizamos cuatro variaciones en el circuito Atari Pink Console
 
-<img width="1015" alt="Captura de pantalla 2025-04-07 a la(s) 9 01 31 p m" src="https://github.com/user-attachments/assets/c1102537-5164-4e0c-b0e8-cc6fcda596a4" />
+![alt-text](https://github.com/user-attachments/assets/c1102537-5164-4e0c-b0e8-cc6fcda596a4)
 
 ### Variaciones
 

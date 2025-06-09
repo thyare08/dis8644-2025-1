@@ -44,7 +44,7 @@ Referencias:
 
 ## encargo-09: apuntes sobre visita al museo de arte contemporáneo
 
-<img src="https://github.com/user-attachments/assets/c2e1f1a2-1eb1-4602-a551-debbe9a7c4c6" width="400"/>  
+![alt-text](https://github.com/user-attachments/assets/c2e1f1a2-1eb1-4602-a551-debbe9a7c4c6)
 
 Al comienzo de la visita, lo primero que me llamó la atención no fue el museo en sí, sino una escultura de un escorpión que estaba a uno de los lados del patio de la entrada.
 
@@ -54,11 +54,13 @@ Para después continuar con la introducción que nos dieron nuestros profesores 
 
 ![20250328_115033](https://github.com/user-attachments/assets/e59bd6cb-2851-436f-a6b5-3f16f291578e)
 
-<img src="https://github.com/user-attachments/assets/a9820129-5426-4f43-a332-6942fc0ca20c" width="400"/>
+![alt-text](https://github.com/user-attachments/assets/a9820129-5426-4f43-a332-6942fc0ca20c)
 
 ![20250328_115922](https://github.com/user-attachments/assets/26a56aa8-9531-4f1d-81c6-4a0dc95d9044)
-<img src="https://github.com/user-attachments/assets/c83da0f8-c7b6-4993-b1fe-651a22373848" width="400"/>
-<img src="https://github.com/user-attachments/assets/e1fb457d-aa7a-4cb4-b998-562537f97775" width="400"/>  
+
+![alt-text](https://github.com/user-attachments/assets/c83da0f8-c7b6-4993-b1fe-651a22373848)
+
+![alt-text](https://github.com/user-attachments/assets/e1fb457d-aa7a-4cb4-b998-562537f97775)
 
 Como primera parada en una sala de exposición, fuimos directo a "Museo en estéreo", la exposición del profe Matias Serrano y Maria Ignacia Valdebenito. A primera vista me llamaron la atención los objetos colgando en el aire, pero después de como 5 minutos observándolos, me fijé en la pared, donde había múltiples registros plasmados, con un remitente y destinatario, fecha de grabación, duración de esta misma, el lugar donde fue grabado y una descripción o texto escrito por el remitente.
 

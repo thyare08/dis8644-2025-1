@@ -81,7 +81,7 @@ ejemplos: para paneles eléctricos,de potencia, de goma, etc.
 2.Cables de media tensión.
 ejemplos: ***RHZ1*** con aislamiento de XLPE, libre de halógenos y no propagador de la llama y/o el incendio; cable de Media Tensión en cobre y aluminio para aplicaciones especiales. Especialmente recomendado para instalaciones donde haya riesgo de presencia de aceites y agentes químicos de tipo hidrocarburos o sus derivados.
 
-<img width="929" alt="Sin títulos" src="https://github.com/user-attachments/assets/b6195061-4cb3-42b9-bc9f-6999561c9a6f" />
+![alt-text](https://github.com/user-attachments/assets/b6195061-4cb3-42b9-bc9f-6999561c9a6f)
 
 ### LED
 

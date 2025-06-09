@@ -1,13 +1,14 @@
 # sesion-12a
-### taller martes 27 de mayo
+
+martes 27 de mayo
 
 **un día que partió extremadamente caótico con una falla eléctrica en metro escuela militar, yo que iba desde san pablo hasta república sufrí las consecuencias. Estaba asquerosamente lleno y no me podía mover, mi estrategia para que no me empujaran al fondo del vagón consistió en pegarme al fierro del medio del vagón y quedar anclado ahí, fue muy efectivo, la gente no entiende que ya no cabe más gente y se siguen subiendo, terrible.**
 
-**debido a esto llegué tarde tipo 9**
+debido a esto llegué tarde tipo 9
 
 ![fotometro](./archivos/metroXD.jpg)
 
-### primera parte de la clase
+## primera parte de la clase
 
 - chip 4017
 - inhibidores, clock inhibidores, me permiten activar acciones
@@ -32,8 +33,9 @@
   8. ahora aparecerá la foto en la carpeta archivos, la dirección de la foto
   9. ahora en readme debemos escribir lo siguiente para poder mostrar nuestra foto, ejemplo: ![nombreficticio].(/archivos/direcciondearchivo.png)
   10. al escribirlo se creara un link que nos lleva a la imagen
- 
+
 - ### más info
+
 - w3 schools
 - para las fotos con html se usan 3 parámetros
 - src: donde vive la foto (./archivos)
@@ -42,6 +44,7 @@
 - height: no alcancé a escribir
 
 ### post break
+
 - gabriel hopzabfel
 - AHORA realizaremos un circuito detector de sombras
 - detector de sombras ---- > temporizador --- > secuenciador
@@ -66,7 +69,8 @@
 - al conectarlo sucedió lo que tenía que suceder, ahora cuando poníamos el dedo encima del LDR se prendía un led y se apagaba el otro, al sacar el dedo, el primer led se apagaba y se prendía el segundo
 - por la amabilidad de Antonia le dieron una décima, la verdad bien merecida
 
-**tercera parte del circuito**
+## tercera parte del circuito
+
 - esta parte del circuito no alcancé a sacarle foto bien al esquemático, pero ahora debíamos agregar el chip 4017
 - hice las conexiones pertinentes pero ya casi terminaba la clase por lo cuál lo hice bastante apurado y no me funcionó
 - quedaban pocos minutos por lo cuál no pregunté mis dudas de qué podía haber pasado que no resultó

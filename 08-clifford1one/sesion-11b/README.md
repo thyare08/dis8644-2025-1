@@ -1,3 +1,3 @@
 # sesion-11b
 
-![](./archivos/tme-11b-apunte.png)
+![alt-text](./archivos/tme-11b-apunte.png)

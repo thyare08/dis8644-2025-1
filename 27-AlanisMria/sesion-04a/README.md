@@ -1,6 +1,6 @@
 # sesion-04a
 
-*1 de Abril de 2025*
+1 de Abril de 2025
 
 Es importante documentar nuestro trabajo
 

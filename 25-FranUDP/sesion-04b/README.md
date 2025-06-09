@@ -6,21 +6,25 @@
 
 Son elementos que conducen electricidad ${\color{#b0e6e6}a \space veces}$. Hechos en base a silicio, se puede controlar bajo que condiciones ${\color{#b0e6e6}permiten}$ que fluya corriente, dependiendo de las impuridades que se le añadan al silicio durante su manufactura
 
-<img align="Right" src="./files/semiconductor.jpg" width=360>  
+![alt-text](./archivos/semiconductor.jpg)
 
 Algunos de los semiconductores más conocidos son [Diodos](https://youtu.be/Fwj_d3uO5g8?si=eLHL5z7lVKGsZLGO) y [Transistores](https://youtu.be/OwS9aTE2Go4?si=8A0mQECx-MySfj-R)  
 
 El silicio o silicona también es empleado en la [manufactura](https://youtu.be/g8Qav3vIv9s?si=SgyKNQiU5Iu0JIH8) de [Circuitos integrados](https://youtu.be/dX9CGRZwD-w?si=RD4EN_lyvIlrVc-l)
 
-### [Pulse Width Modulation<sub>1</sub>](https://youtu.be/aeE0u1J-1pg?si=EWB5LtXMR-1_rJlJ) [(PWM<sub>2</sub>)](https://youtu.be/B_Ysdv1xRbA?si=gfMATx2EDeaGAVc6)
+### [Pulse Width Modulation1](https://youtu.be/aeE0u1J-1pg?si=EWB5LtXMR-1_rJlJ) [(PWM2)](https://youtu.be/B_Ysdv1xRbA?si=gfMATx2EDeaGAVc6)
 
-<img align="Left" src="./files/PWM.png" width=360>  Es una ${\color{#b0e6e6}onda}$ (corriente) que consiste de ${\color{white}Low(s)}$ y ${\color{red}High(s)}$, se emplea para ${\color{#b0e6e6}controlar}$ ciertos componentes electrónicos (o aspectos de ellos), como ${\color{#b0e6e6}motores}$ (rpm), ${\color{lightgreen}LEDs}$ (luminosidad variable), ${\color{#b0e6e6}"heating \space elements"}$, y los sonidos que emitía el ${\color{#b0e6e6}parlante}$ en los circuitos con el  ${\color{white}555 \space timer}$.
+![alt-text](./archivos/PWM.png)
+
+Es una ${\color{#b0e6e6}onda}$ (corriente) que consiste de ${\color{white}Low(s)}$ y ${\color{red}High(s)}$, se emplea para ${\color{#b0e6e6}controlar}$ ciertos componentes electrónicos (o aspectos de ellos), como ${\color{#b0e6e6}motores}$ (rpm), ${\color{lightgreen}LEDs}$ (luminosidad variable), ${\color{#b0e6e6}"heating \space elements"}$, y los sonidos que emitía el ${\color{#b0e6e6}parlante}$ en los circuitos con el  ${\color{white}555 \space timer}$.
 
 ### [555 Monoestable](https://youtu.be/ckTlx-Q-RNk?si=PRbHdi_ONOloSaGT)
 
-<img align="left" src="./files/mono_sch.png" width=650>  Circuito que es ${\color{#b0e6e6}estable}$ en uno de sus estados, es decir que tras hacer que cambie de estado ${\color{white}[High/Low]}$ el circuito ${\color{#b0e6e6}volverá}$ por si solo al estado predeterminado (${\color{#b0e6e6}estable}$).   Con esta configuración del 555 podemos controlar la ${\color{#b0e6e6}duración \ del \ período \ de}$ ${\color{#b0e6e6}tiempo}$ que transcurre antes de regresar al estado estable, variando la capacitancia del ${\color{#6462fe}capacitor}$.   Para más información ir a ["Sesion-03a"/Encargo-07 (sección con imagenes alineadas a la derecha)](https://github.com/disenoUDP/dis8644-2025-1/tree/main/25-FranUDP/sesion-03a)
+![alt-text](./archivos/mono_sch.png)
 
-<img align="left" src="./files/MonoStable.jpg" width=450>
+Circuito que es ${\color{#b0e6e6}estable}$ en uno de sus estados, es decir que tras hacer que cambie de estado ${\color{white}[High/Low]}$ el circuito ${\color{#b0e6e6}volverá}$ por si solo al estado predeterminado (${\color{#b0e6e6}estable}$).   Con esta configuración del 555 podemos controlar la ${\color{#b0e6e6}duración \ del \ período \ de}$ ${\color{#b0e6e6}tiempo}$ que transcurre antes de regresar al estado estable, variando la capacitancia del ${\color{#6462fe}capacitor}$.   Para más información ir a ["Sesion-03a"/Encargo-07 (sección con imagenes alineadas a la derecha)](https://github.com/disenoUDP/dis8644-2025-1/tree/main/25-FranUDP/sesion-03a)
+
+![alt-text](./archivos/MonoStable.jpg)
 
 Al presionar el ${\color{#b0e6e6}"Push \ button \ switch"}$ se ${\color{white}cierra}$ el circuito, cambiando de estado ${\color{White}[High/Low]}$ el 555 timer.
 
@@ -36,15 +40,13 @@ Como el usuario interactua con la tecnología (ej: [VirtualRealityUI](https://yo
 
 ### Push button (switch)
 
-<img align="left" src="./files/SwitchSectionView.jpg" width=400>
+![alt-text](./archivos/SwitchSectionView.jpg)
 
 Es un interruptor que de por sí, se mantiene abierto (Normally Open [N.O]), hasta que uno lo acciona y cierra el circuito, sim embargo, tras soltar el switch, este volverá inmediatamente a abrir el circuito.  
 
-<img align="left" src="https://github.com/user-attachments/assets/1009f655-7593-4ae8-be7c-13877f2bdc28" width=400>
+![alt-text](https://github.com/user-attachments/assets/1009f655-7593-4ae8-be7c-13877f2bdc28)
 
 Las "patas" que están alineados son parte del mismo pin (conectados), mientras que las patas paralelas son los distintos pines del switch
-
------------------------------------------------------------------------------------------------------------
 
 ## Encargo 11
 
@@ -62,7 +64,7 @@ Escuchando entrevistas, encontré curioso que seleccionara la música de Bach po
 
 * Objeto:  Logitech M585 Wireless Mouse.
 
-<img align="left" src="./files/mouse.jpg" width=300>
+![alt-text](./archivos/mouse.jpg)
 
 ### Uso
 
@@ -102,10 +104,10 @@ El mouse consiste de 2 PCBs, una placa principal donde está el microprocesador 
 
 En las placas hay numeros, letras y nombres que indican donde van los componentes, Textos indicando lugar y fecha de manufactura, terminal Vcc y GND y logos  
 
-<img align="left" src="./files/desarme.jpg" width=450>
+![alt-text](./archivos/desarme.jpg)
 
-<img align="left" src="./files/pcb1.jpg" width=450<img align="right" src="./files/pcb2.jpg" width=450>
+![alt-text](./archivos/pcb1.jpg)
 
 ### Diagrama de flujo
 
-<img align="left" src="./files/diagrama.jpg" width=600>
+![alt-text](./archivos/diagrama.jpg)

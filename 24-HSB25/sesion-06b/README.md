@@ -70,7 +70,7 @@ Narrado por la legendaria Laurie Anderson, el documental combina grabaciones de 
 
 - Creaba sonidos únicos manipulando cintas, loops y generadores de tono, todo antes de que existieran los sintetizadores modernos, los cuales para mi suenan muy similares a algo que ella lo hacia propio.
 
-**Álbum recomendado favorito**
+Álbum recomendado favorito
 
 "The Delian Mode" (compilación de sus trabajos experimentales)
 

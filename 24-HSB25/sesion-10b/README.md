@@ -10,7 +10,7 @@ Los LEDs RGB combinan tres emisores de luz de diferentes colores (rojo, verde y 
 
 Estos LEDs RGB suelen presentarse en dos configuraciones: de cátodo común o de ánodo común. Con este montaje, replicamos el principio de funcionamiento de una rosa cromática, ya que al combinar los tres LEDs, pudimos observar cómo sus luces se mezclaban para formar nuevos colores.
 
-# FALSTAD
+## FALSTAD
 
 Falstad es el nombre común con el que se conoce al Simulador de Circuitos Electrónicos Falstad, una herramienta en línea gratuita muy utilizada para visualizar y simular el comportamiento de circuitos eléctricos y electrónicos en tiempo real. Fue desarrollado por Paul Falstad, un programador y físico aficionado, y se ha convertido en una herramienta muy popular en entornos educativos y entre personas que aprenden electrónica.
 
@@ -32,7 +32,7 @@ LM324N: Contiene cuatro OP-AMPs en un solo encapsulado.
 - Pinout y documentación
 Cuando se busca información de un chip, como el LM324N, se recomienda escribir “pinout” junto al nombre en buscadores. Así se accede rápidamente al esquema de conexiones sin tener que buscar el significado de cada pata individualmente.
 
-# Construcción del UDPUDU
+## Construcción del UDPUDU
 
 ![UDPUDU1](https://media.discordapp.net/attachments/1318882679659171892/1372986482549198918/IMG_7502.jpg?ex=682d620e&is=682c108e&hm=a647956703994809dbbd3ef9a9497edbcc142c056328215d014d595cbd6b7c37&=&format=webp&width=875&height=544)
 
@@ -40,11 +40,11 @@ Cuando se busca información de un chip, como el LM324N, se recomienda escribir 
 
 ![UDPUDU3](https://media.discordapp.net/attachments/1318882679659171892/1372983253551677591/IMG_1384.jpg?ex=682d5f0c&is=682c0d8c&hm=c2aa89c3467024f0dd374b5ba24f3a94eef85b1e13d3202e9a5c685ba87389f9&=&format=webp&width=725&height=544)
 
-# ¿Que es?
+## ¿Que es?
 
 Es un generador de sonido breve que se activa con una señal de entrada. Usa un temporizador 555 para generar un pulso y hacer sonar un buzzer o altavoz por un momento. También enciende un LED para mostrar visualmente que se activó.
 
-# Componentes principales
+## Componentes principales
 
 Alimentación
 
@@ -80,7 +80,7 @@ Alimentación
 
 - D3 (LED) y R4 (1k): Indican que el circuito está encendido (conectado a VCC).
 
-# ¿Cómo funciona todo junto?
+## ¿Cómo funciona todo junto?
 
 1. Conectas 9V y enciendes el interruptor (SW1).
 
@@ -96,7 +96,7 @@ Alimentación
 
 7. Luego de ese tiempo, el 555 vuelve a su estado inactivo, apagando el LED y el sonido.
 
-# Bills of Materials (BOM)
+## Bills of Materials (BOM)
 
 |Referencia  |Valor   |Huella                   |Qty|OBS               |
 |------------|--------|-------------------------|---|------------------|
@@ -115,17 +115,18 @@ Alimentación
 |Parlante    |8ohm    |                         |1  |                  |
 |J1,J3       |CAIMAN  |Cables caimán            |2  |                  |
 
-# Circuito de UDPUDU
+## Circuito de UDPUDU
 
 ![sch-pudu](https://raw.githubusercontent.com/disenoUDP/dis8644-2025-1/refs/heads/main/00-docentes/sesion-10b/archivos/udpudu-sch.png)
 
-# ENCARGO 22: Documentación textual del proceso de ensamblado de UDPUDU
+## ENCARGO 22: Documentación textual del proceso de ensamblado de UDPUDU
 
 ![UDPUDUIMG](https://raw.githubusercontent.com/disenoUDP/dis8644-2025-1/main/00-docentes/sesion-10b/archivos/udpudu-pcbRef.png)
 
 ![UDPSCH](https://raw.githubusercontent.com/disenoUDP/dis8644-2025-1/refs/heads/main/00-docentes/sesion-10b/archivos/udpudu-sch.png)
 
-# Materiales necesarios
+### Materiales necesarios
+
 - Placa PCB del circuito UDPUDU (como en la imagen)
 
 - Componentes electrónicos:
@@ -152,7 +153,7 @@ Alimentación
 
 - 1x Altavoz pequeño (LS1)
 
-# Herramientas:
+## Herramientas
 
 - Soldador y estaño
 
@@ -160,9 +161,9 @@ Alimentación
 
 - Multímetro (opcional pero recomendado)
 
-# Pasos para el ensamblado
+## Pasos para el ensamblado
 
-# 1. Preparación
+## 1. Preparación
 
 - Verifica que tienes todos los componentes.
 
@@ -170,7 +171,7 @@ Alimentación
 
 - Ubica la imagen de referencia (como la de la serigrafía).
 
-# 2. Montaje de componentes pasivos (resistencias y diodos)
+## 2. Montaje de componentes pasivos (resistencias y diodos)
 
 Comienza por los componentes más pequeños:
 
@@ -183,7 +184,7 @@ Comienza por los componentes más pequeños:
 ✅ Acierto: soldar primero componentes pequeños evita obstáculos para los más grandes.
 ⚠️ Error común: no respetar la polaridad de los LEDs y el diodo. Revisa antes de soldar.
 
-# 3. Montaje de capacitores
+## 3. Montaje de capacitores
 
 - C3: cerámico de 100nF, sin polaridad.
 
@@ -191,7 +192,7 @@ Comienza por los componentes más pequeños:
 
 ✅ Consejo: marcar el lado positivo con un plumón para evitar confusiones.
 
-# 4. Montaje del 555 y componentes más grandes
+## 4. Montaje del 555 y componentes más grandes
 
 - Coloca el zócalo del 555 (U1) con la muesca mirando hacia el lado correcto (coincidiendo con la serigrafía).
 
@@ -200,11 +201,11 @@ Comienza por los componentes más pequeños:
 ✅ Acierto: usar zócalo facilita reemplazar el IC sin dañar la placa.
 ⚠️ Error común: soldar el zócalo al revés; eso puede causar confusión al insertar el 555.
 
-# 5. Inserción del IC 555
+## 5. Inserción del IC 555
 
 - Una vez que todo esté soldado, inserta con cuidado el NE555 en el zócalo.
 
-# 6. Pruebas iniciales
+## 6. Pruebas iniciales
 
 - Conecta una batería de 9V.
 
@@ -215,7 +216,7 @@ Comienza por los componentes más pequeños:
 ✅ Acierto: probar por secciones permite encontrar errores fácilmente.
 ⚠️ Error común: si no suena el buzzer, revisar polaridad del capacitor C5 y la conexión del altavoz.
 
-# 7. Aprendizajes y consejos
+## 7. Aprendizajes y consejos
 
 - Siempre probar componentes antes de soldar, especialmente los polarizados (diodos, LEDs, electrolíticos).
 
@@ -225,7 +226,7 @@ Comienza por los componentes más pequeños:
 
 - El diseño incluye un toque lúdico (la silueta de un animal), lo cual hace más atractivo el aprendizaje de la electrónica.
 
-# 8. Resultado final
+## 8. Resultado final
 
 - Una vez terminado, tendrás un circuito funcional que:
 
@@ -235,7 +236,7 @@ Comienza por los componentes más pequeños:
 
 - Este es un gran ejemplo de cómo integrar diseño y electrónica básica en un solo proyecto educativo.
 
-# ENCARGO 23: Documentación visual del proceso de ensamblado de UDPUDU
+## ENCARGO 23: Documentación visual del proceso de ensamblado de UDPUDU
 
 Las fotos que subire no son de autoria mía ya que, como comente no asisti a la clase pero de igual manera me informe con varios compañeros para poder saber que hicieron en la clase.
 
@@ -248,8 +249,3 @@ Las fotos que subire no son de autoria mía ya que, como comente no asisti a la 
 ![udpudu03](https://media.discordapp.net/attachments/1318882679659171892/1372978615909879869/IMG_1392.jpg?ex=682d5aba&is=682c093a&hm=94711f9d4bd5cadd8ddd1260b7697d1eb6896727f0c57511f48f795c08324da0&=&format=webp&width=408&height=544)
 
 ![udpudu04](https://media.discordapp.net/attachments/1318882679659171892/1372987063162507395/IMG_7516.jpg?ex=682d6298&is=682c1118&hm=1625613a83fe0090a68d67ae1c5dd5c92cdf832035eef4654f5fbd5cc4458c8f&=&format=webp&width=736&height=552)
-
-
-
-
-

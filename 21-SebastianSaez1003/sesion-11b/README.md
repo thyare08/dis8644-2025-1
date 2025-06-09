@@ -1,4 +1,5 @@
 # sesion-11b
+
 ## Módulo de la mañana
 
 Vamos a ver un poco de la secuencia; son cosas que pasan a través del tiempo, como indicaría el nombre, donde tiene que ocurrir paso a paso.
@@ -9,7 +10,7 @@ Lo que vamos a hacer con el 4017 va a ser algo secuencial; vamos a aprender a ag
 
 Tenemos que digerir de aquí al martes el poder de las secuencias.
 
-Un clock es una señal de aviso que gobierna la velocidad a la que ocurren las cosas después. 
+Un clock es una señal de aviso que gobierna la velocidad a la que ocurren las cosas después.
 
 El cambio del clock no tiene por qué ser regular; la pata del clock detecta el edge rising de una señal, así que puede ser controlado por nosotros o por elementos que nosotros armemos.
 
@@ -17,9 +18,9 @@ Hay muchos chips que empiezan con 40; guardemos esto en nuestro corazón.
 
 Pata positiva, pata N16 VCC; pata negativa es la 8 GND.
 
-<img src="./archivos/11b-clase-1.jpg" alt="drawing"/>
+![drawing](./archivos/11b-clase-1.jpg)
 
-<img src="./archivos/11b-clase-2.jpg" alt="drawing"/>
+![drawing](./archivos/11b-clase-2.jpg)
 
 Hay 10 salidas, pero si tan solo quiero ocupar una cantidad menor, por ejemplo 4, deberíamos conectar la pata Q4 al reset, ya que se cuenta de Q0 a Q9.
 
@@ -33,7 +34,15 @@ Primero deberíamos armar el 555 para poder probarlo.
 
 Un 555 astable para usar 4 salidas del 4017.
 
-<img src="./archivos/11b-clase-3.jpg" alt="drawing" width="300"/> <img src="./archivos/11b-clase-4.jpg" alt="drawing" width="300"/> <img src="./archivos/11b-clase-5.jpg" alt="drawing" width="300"/> <img src="./archivos/11b-clase-6.jpg" alt="drawing" width="300"/> <img src="./archivos/11b-clase-7.jpg" alt="drawing" width="300"/>
+![drawing](./archivos/11b-clase-3.jpg)
+
+![drawing](./archivos/11b-clase-4.jpg)
+
+![drawing](./archivos/11b-clase-5.jpg)
+
+![drawing](./archivos/11b-clase-6.jpg)
+
+![drawing](./archivos/11b-clase-7.jpg)
 
 ## Módulo después del break
 

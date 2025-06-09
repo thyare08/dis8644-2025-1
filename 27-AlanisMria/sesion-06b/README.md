@@ -30,7 +30,7 @@ había escuchado el audio de boots, es muy sobrecogedor pensando en el contexto 
 
 Se nota que conocía y convivia mucho con sus máquinas, su cara y forma de hablar refleja como amaba lo que hacía.
 
-*“La música electrónica es mucho más que accidental, es el sonido del futuro”*
+“La música electrónica es mucho más que accidental, es el sonido del futuro”
 
 No sabía que la música electrónica era considerada diabólica en ciertos lugares.
 
@@ -42,7 +42,7 @@ Es muy relajante el ruido producido por ella, muy meditativo.
 
 Se refiere a que trabaja con el tiempo, al usar cambios de frecuencia lentos.
 
-*Eran mujeres inmersas en un “mundo de hombres” que buscaron y forjaron su camino en lo que les apasionaba*
+> Eran mujeres inmersas en un “mundo de hombres” que buscaron y forjaron su camino en lo que les apasionaba
 
 #### Bebe Barron
 

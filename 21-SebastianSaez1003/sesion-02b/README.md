@@ -30,7 +30,7 @@ Logre conectar un potenciómetro a una Led de una manera autodidacta durante el 
 Creamos un circuito en el que dependiendo de la resistencia se prende con mayor o menos intensidad el LED.
 Creamos algunos circuitos un poco más complejos en comparación de la semana pasada.
 
-<img width="695" alt="schLearn1" src="https://github.com/user-attachments/assets/2d4b8a6b-4a42-469a-b441-13af3e9e4016" />
+![schLearn1](https://github.com/user-attachments/assets/2d4b8a6b-4a42-469a-b441-13af3e9e4016)
 
 ![20250321_120300](https://github.com/user-attachments/assets/c2326afd-2fe6-4725-a474-eb8f3741f12a)
 ![20250321_120248](https://github.com/user-attachments/assets/f1f4c205-ce1e-48d7-8a13-f238dc88e31d)

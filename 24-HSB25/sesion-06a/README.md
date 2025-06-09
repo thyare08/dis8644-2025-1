@@ -92,7 +92,7 @@ Aca se aprecia más de cerca el funcionamiento de nuestro APC, con el LED azul e
 
 ![proy11](proy11.jpeg)
 
-# Bills of Materials - CAJA MADERA
+## Bills of Materials - CAJA MADERA
 
 | Materiales                   | Cantidad | Precio   | Especificaciones                         |
 |-----------------------------|----------|----------|------------------------------------------|

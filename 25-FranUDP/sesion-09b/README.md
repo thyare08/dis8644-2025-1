@@ -2,16 +2,13 @@
 
 ## Apuntes
 
-###### ${\color{#3d3d44}Se \ recomienda \ usar \ modo \ oscuro, \ hay \ palabras \ en \ color \ blanco \ que \ de \ otra \ forma \ no \ son \ visibles.}$
-###### ${\color{#3d3d44}The \ use \ of \ dark mode \ is \ recommended, \ there's \ white \ colored \ text \ that \ otherwise \ is \ not \ visible.}$
-
 ### Modulo PAM8403
 
 ![alt text](./archivos/pam8403.jpg)
 
 Es un módulo ${\color{#b0e6e6}amplificador}$ clase D de 2 canales (para audio ${\color{#b0e6e6}stereo}$ [${\color{#b0e6e6}L}$ and ${\color{#b0e6e6}R}$ speakers]).
 
-#### Características:
+#### Características
 
 * Requiere ${\color{red}5V}$ para operar
 
@@ -25,11 +22,11 @@ Es un módulo ${\color{#b0e6e6}amplificador}$ clase D de 2 canales (para audio $
 
 * ${\color{#b0e6e6}Protección}$ contra ${\color{#b0e6e6}corto \ circuitos}$ integrada
 
-#### Especificaciones:
+#### Especificaciones
+
 * Rango de voltaje de operación: ${\color{red}2.5V-5.5V}$
 * Carga del parlante: ${\color{#ffe4a8}4-8Ω}$
 * Tamaño: 21 X 18 X 3.4 mm (Largo X Ancho X Alto)
-
 
 :warning: No conectar las terminales negativas de los canales (R y L) entre sí, o se dañará el módulo
 
@@ -42,7 +39,7 @@ Ver [Sesión-04b](https://github.com/disenoUDP/dis8644-2025-1/tree/main/25-FranU
 ### Persistencia virtual
 
 Es una ${\color{#b0e6e6}ilusión \ óptica}$ que nos permite ${\color{#b0e6e6}percibir \ movimiento}$ al ver una secuencia de ${\color{#b0e6e6}imagenes \ estáticas}$, producto de las imagenes ${\color{#b0e6e6}permaneciendo}$ en nuestra ${\color{#b0e6e6}vista}$ por un período de tiempo después de haberlas visto. En el caso de las LEDs, este fenómeno nos permite percibir un ${\color{#b0e6e6}cambio \ de \ luminocidad}$ al ver ${\color{#b0e6e6}LEDs \ parpadeando \ rápidamente}$
- 
+
 ### Diagrama de flujo
 
 ![alt text](./archivos/flowChart.png)
@@ -60,17 +57,20 @@ Diodo de ${\color{#b0e6e6}alta \ velocidad}$ (4ns), con un ${\color{red}forward 
 ![alt text](./archivos/diode.jpg)
 
 ### Forward  Voltage
+
 Es la ${\color{#b0e6e6}diferencia \ de}$ ${\color{red}voltaje}$ ${\color{#b0e6e6}entre \ el}$ ${\color{red}anodo}$ ${\color{#b0e6e6}y \ el}$ ${\color{white}catodo}$ del diodo, es decir, el ${\color{red}voltaje}$ que recibe el diodo se ${\color{#b0e6e6}reduce}$ en el ${\color{red}forward \ voltage}$
 El ${\color{red}forward \ voltage}$ ${\color{#b0e6e6}varía \ dependiendo \ del \ material}$ del diodo
-### Threshold Voltage (Voltaje de encendido) 
+
+### Threshold Voltage (Voltaje de encendido)
+
 Este es el ${\color{red}voltaje \ mínimo}$ que requiere el diodo para ${\color{#b0e6e6}permitir \ que \ pase \ la \ corriente}$ (bajo el voltaje mínimo hay un flujo minusculo de corriente)
-Desde el punto threshold, la ${\color{#b0e6e6}corriente}$ que pasa por el diodo ${\color{#b0e6e6}aumentará \ de \ forma \ exponencial}$ 
+Desde el punto threshold, la ${\color{#b0e6e6}corriente}$ que pasa por el diodo ${\color{#b0e6e6}aumentará \ de \ forma \ exponencial}$
 
 ### Modulo relé (relay module)
 
 ![alt text](./archivos/relay.gif)
 
-${\color{#b0e6e6}Similar}$ a un ${\color{#b0e6e6}transistor}$, en el sentido que una ${\color{#b0e6e6}señal \ pequeña}$ ${\color{white}(input)}$ ${\color{#b0e6e6}controla \ una \ señal \ más \ grande}$ ${\color{white}(output)}$, Pero ${\color{#b0e6e6}difiere}$ en que la ${\color{white}señal \ controlada \ (output)}$ está ${\color{#b0e6e6}aislada}$ del circuito del cual proviene la ${\color{white}señal \ de \ control \ (input)}$, esto permite que la ${\color{white}señal \ de \ salida}$ sea muchísimo más grande que el ${\color{white}input}$ o incluso que sea de ${\color{red}corriente \ alterna \ (AC)}$ 
+${\color{#b0e6e6}Similar}$ a un ${\color{#b0e6e6}transistor}$, en el sentido que una ${\color{#b0e6e6}señal \ pequeña}$ ${\color{white}(input)}$ ${\color{#b0e6e6}controla \ una \ señal \ más \ grande}$ ${\color{white}(output)}$, Pero ${\color{#b0e6e6}difiere}$ en que la ${\color{white}señal \ controlada \ (output)}$ está ${\color{#b0e6e6}aislada}$ del circuito del cual proviene la ${\color{white}señal \ de \ control \ (input)}$, esto permite que la ${\color{white}señal \ de \ salida}$ sea muchísimo más grande que el ${\color{white}input}$ o incluso que sea de ${\color{red}corriente \ alterna \ (AC)}$
 
 ### Other things
 
@@ -78,7 +78,7 @@ ${\color{#b0e6e6}Similar}$ a un ${\color{#b0e6e6}transistor}$, en el sentido que
 
 ![alt text](./archivos/GordonMattaClark.jpg)
 
-Artista y arquitecto chileno-estadounidense conocido por sus intervenciones arquitectónicas, donde hacia cortes y perforaciones en estructuras 
+Artista y arquitecto chileno-estadounidense conocido por sus intervenciones arquitectónicas, donde hacia cortes y perforaciones en estructuras
 
 ### Clases de amplificadores
 

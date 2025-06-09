@@ -1,13 +1,13 @@
 # sesion-09a
 
-# Clase 05/09 09a
+05/09
 
-### Compra de componentes electrónicos
+## Compra de componentes electrónicos
 
 - Pam8403: Amplificador de audio, tecnología SMD
 - Modulo Reve 5v: Se pueden ingresar señales de control (has algo, no lo hagas, pulsar, abrir un circuito, etc)
 
-Link de compra: https://afel.cl/products/rele-de-01-canal?srsltid=AfmBOopGZLcFrs4N91tVQEvRWiWV-oCQ3U2woh6b8ohZmb3P_aEJyMyX
+Link de compra: <https://afel.cl/products/rele-de-01-canal?srsltid=AfmBOopGZLcFrs4N91tVQEvRWiWV-oCQ3U2woh6b8ohZmb3P_aEJyMyX>
 
 ### Recapitulación
 

@@ -1,6 +1,8 @@
-# sesion-11a 20-05
+# sesion-11a
 
-<img width="804" alt="apuntesclase 11a" src="https://github.com/user-attachments/assets/f8d28f8b-39ce-4000-949c-3eb1a8154d0a" />
+20-05
+
+![apuntesclase 11a](https://github.com/user-attachments/assets/f8d28f8b-39ce-4000-949c-3eb1a8154d0a)
 
 |PS: Power Supply|
 |-----|

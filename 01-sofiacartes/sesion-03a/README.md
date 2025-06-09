@@ -40,22 +40,23 @@ Descarga **DIS o DISCH:** Permite descargar el condensador externo al circuito i
 
 * Voltaje de alimentación **Vcc o Vdd:** Terminal positiva de la alimentación, normalmente son valores de 4.5 V hasta 16 V.
 
-<img width="583" alt="555" src="https://github.com/user-attachments/assets/daf5e63a-0e60-4b88-ab44-a66e6b7b7af4" />
-<img width="911" alt="555" src="https://github.com/user-attachments/assets/eccb546e-9486-431a-8194-4feecb09710e" />
+![555](https://github.com/user-attachments/assets/daf5e63a-0e60-4b88-ab44-a66e6b7b7af4)
 
- _información de: <https://www.areatecnologia.com/electronica/circuito-integrado-555.html> <https://www.330ohms.com/blogs/blog/que-es-el-circuito-integrado-555?srsltid=AfmBOopvba65AJOLFOc9oJPC7cs7yi6Nfiz5dXYf4YRss-Ne0m_mtXn9>_
+![555](https://github.com/user-attachments/assets/eccb546e-9486-431a-8194-4feecb09710e)
+
+información de: <https://www.areatecnologia.com/electronica/circuito-integrado-555.html> <https://www.330ohms.com/blogs/blog/que-es-el-circuito-integrado-555?srsltid=AfmBOopvba65AJOLFOc9oJPC7cs7yi6Nfiz5dXYf4YRss-Ne0m_mtXn9>
 
 ## Einstürzende Neubauten - disco: Grundstueck
 
-<img width="604" alt="bbb" src="https://github.com/user-attachments/assets/5474eaeb-8925-46b1-9fbd-19545c46edde" />
+![bbb](https://github.com/user-attachments/assets/5474eaeb-8925-46b1-9fbd-19545c46edde)
 
 Grupo musical alemán ha sido pionero en el movimiento de la música industrial y experimental en los años 80.
 
 Su nombre es traducido como Edificios en ruinas, se formó en Berlín en 1980. El grupo está compuesto por Blixa Bargeld, N.U. Unruh, Alexander Hacke, Jochen Arbeit y Rudolf Moser. La banda comenzó como un proyecto artístico.
 
-<img width="699" alt="aa" src="https://github.com/user-attachments/assets/6eb2cf64-b40e-4df1-ae1b-58f337b243d0" />
+![aa](https://github.com/user-attachments/assets/6eb2cf64-b40e-4df1-ae1b-58f337b243d0)
 
-_imagen de: <https://www.soundonsound.com/techniques/einsturzende-neubauten>_
+imagen de: <https://www.soundonsound.com/techniques/einsturzende-neubauten>
 
 El estilo musical de la banda es industrial, post-industrial, experimental, avant-garde y noise, _**utilizan martillos, clavos y objetos metálicos para crear sonidos**_
 

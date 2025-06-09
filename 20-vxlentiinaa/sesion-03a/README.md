@@ -41,7 +41,7 @@ Cada uno de los ocho pines proporciona las siguientes funciones (Fig. 1) :
 
 ***V+***: Voltaje de entradas.
 
-<img width="237" alt="Captura de pantalla 2025-03-25 a la(s) 7 34 04 p m" src="https://github.com/user-attachments/assets/f5790020-2d36-4f09-adb7-be90ed3ae5db" />
+![alt-text](https://github.com/user-attachments/assets/f5790020-2d36-4f09-adb7-be90ed3ae5db)
 
 ![r1](https://github.com/user-attachments/assets/0eb7c8e5-ab44-4133-8fe9-c5571e20c7eb)
 

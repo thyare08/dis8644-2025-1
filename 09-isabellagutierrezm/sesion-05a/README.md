@@ -1,6 +1,6 @@
 # sesion-05a
 
-### 08.Abril. 2025
+## 08.Abril. 2025
 
 En la primera mitad de la clase, expusimos grupo por grupo los objetos escogidos para el primer proyecto del curso, lo cual encontré bastante bueno, ya que me sirvió para retroalimentar de mejor manera nuestro trabajo, como por ejemplo cómo jerarquizar y graficar de  mejor manera la parte interna de nuestro objeto escogido. También repasamos las resistencias en serie y en paralelo. Además de repasar el circuito Atari
 

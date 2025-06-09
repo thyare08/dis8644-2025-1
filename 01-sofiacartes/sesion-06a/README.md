@@ -2,11 +2,11 @@
 
 ## Proyecto - Grupo 1
 
-**Circuito atari punk console**
+Circuito atari punk console
 
-<img width="1012" alt="atari punk console" src="https://github.com/user-attachments/assets/9eeeac5b-9c71-43d8-9f34-83ca12d27867" />
+![atari punk console](https://github.com/user-attachments/assets/9eeeac5b-9c71-43d8-9f34-83ca12d27867)
 
-**Variaciones**
+Variaciones
 
 ### 1. R1 cambiamos por un  botón, además cambiamos C1 de 474 por una de 223 y el resultado del sonido fue grabe y bajo
 
