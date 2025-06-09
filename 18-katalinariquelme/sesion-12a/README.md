@@ -2,7 +2,9 @@
 
 Martes 27 de Mayo del 2025.
 
-## Apuntes
+Me encontraba con licencia pero de igual forma me consegui la materia con mis compañeras
+
+## Apuntes 
 
  Foto de mi bitácota
 
