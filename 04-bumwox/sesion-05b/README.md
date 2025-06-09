@@ -1,12 +1,13 @@
 # sesion-05b
 
-__nuevos componentes__
+## nuevos componentes
+
 - DIP (Ddouble in-line package): son interruptores pequeños y manuales que se utilizan para realizar ajustes o configuraciones en dispositivos electrónicos, una base para que cuando nosotros soldemos los componentes a nuestra placa, en vez de soldar el chip 555 directamente se solda el DIP, asi podemos hacer cambios despues de soldar mas famcilmente
 - nos pasaron una placa PBC ya perforada
 - mostraron como soldar en vivo, recomendaron limpiar el cautin cada 2 o 3 pasadas del cautin por la soldadura
 - hay dos conceptos importantes sobre la placa al momento de soldar, el pad = toda la placa y el pin = las patitas de los componentes
 
-__componentes para PBC__
+33 componentes para PBC
 
 hay componentes que son hechos para poder pasados por las placa y sus orificios
 
@@ -14,7 +15,7 @@ hay componentes que son hechos para poder pasados por las placa y sus orificios
 
 ![image](https://github.com/user-attachments/assets/343342be-fa58-4a71-b62a-df9d729626be)
 
-__placas perforadas__
+## placas perforadas
 
 hay distintos tipos de placa, usualmente se ven las siguientes:
 
@@ -28,8 +29,6 @@ hay distintos tipos de placa, usualmente se ven las siguientes:
 
 es muy importante no soldar directamente los chips (IC) sino que primero se solda un DI para asi hacer cambios posteriores, aqui hya un ejemplo de base DIP
 
-__base DIP__
+## base DIP
 
 ![image](https://github.com/user-attachments/assets/237367dd-ff58-4b8c-9a9d-d04a39f2f65d)
-
-
