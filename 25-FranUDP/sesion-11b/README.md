@@ -32,7 +32,7 @@ Hay 4 LEDs conectados a los __Outputs 0, 1, 2 y 3__ (pines 3, 2, 4 y 7 respectiv
 
  Luego hicimos otro NE555 en modo astable y lo conectamos al __Output 0__ del circuito anterior. En lugar de utilizar __Trigger__ (pin 2) como __Input__, esta vez utilizamos __Reset__ (pin 4) siendo controlado por el pin 4 (__Reset__), lo que genera que __reset__ sea conectado a __GND__ cuando no está reciviendo un input del CD4017, haciendo que el pin 3 (__Output__) se mantenga en __LOW__, efectivamente deteniendo el funcionamiento del NE555.
 
- Video: ![Circuito en acción](https://youtube.com/shorts/BZCv6bY_jlQ?feature=share)
+ Video: </br> [![Circuito en acción](https://img.youtube.com/vi/BZCv6bY_jlQ/hqdefault.jpg)](https://youtube.com/shorts/BZCv6bY_jlQ?feature=share)
 
 ### Other things: <!-- Things to organize + random stuff -->
 > #### SUB_SUBTITULO
