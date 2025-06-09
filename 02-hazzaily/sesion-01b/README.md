@@ -59,91 +59,91 @@ Estudiar la caja de materiales entregada la clase pasada, hacer un listado de co
 
 **Componentes:**
 
-1. **Protoboard:** Es una placa de pruebas en donde podemos conectar componentes eléctricos sin soldar. Se utiliza para crear un prototipo del circuito que queremos crear. Por dentro contiene una matriz de conectores eléctricos que hacen posible la experimentación.
+1 **Protoboard:** Es una placa de pruebas en donde podemos conectar componentes eléctricos sin soldar. Se utiliza para crear un prototipo del circuito que queremos crear. Por dentro contiene una matriz de conectores eléctricos que hacen posible la experimentación.
 
 Foto de protoboard.
 
 ![encargo-03 foto de protoboard](./archivos/encargo-03-protoboard.jpg)
 
-2. **Conector de batería:** Es un dispositivo a través del cual podemos conectar una batería a un equipo eléctrico. Se utiliza para darle “vida” a nuestros circuitos.
+2 **Conector de batería:** Es un dispositivo a través del cual podemos conectar una batería a un equipo eléctrico. Se utiliza para darle “vida” a nuestros circuitos.
 
 Foto del conector de batería.
 
 ![encargo-03 foto de conector de bateria](./archivos/encargo-03-conector-bateria.jpg)
 
-3. **Cables:** Los cables son conductores de electricidad de un punto a otro. Un punto importante a aclarar de estos mismos son sus colores llamativos, a los cuales uno les puede dar sentido para tener un orden, pero lo más común es: rojo=positivo y negro=negativo.
+3 **Cables:** Los cables son conductores de electricidad de un punto a otro. Un punto importante a aclarar de estos mismos son sus colores llamativos, a los cuales uno les puede dar sentido para tener un orden, pero lo más común es: rojo=positivo y negro=negativo.
 
 Foto de los cables.
 
 - ![encargo-03 foto de cables](./archivos/encargo-03-cables.jpg)
 
-4. **LEDs:** Es un diodo (dispositivo semiconductor unidireccional) emisor de luz que se ilumina al momento en que la energía los "atraviesa". Tiene dos patas, una más larga que la otra; esto nos indica que: pata larga=positivo y pata corta=negativo.
+4 **LEDs:** Es un diodo (dispositivo semiconductor unidireccional) emisor de luz que se ilumina al momento en que la energía los "atraviesa". Tiene dos patas, una más larga que la otra; esto nos indica que: pata larga=positivo y pata corta=negativo.
 
 Foto de los LEDs.
 
 ![encargo-03 foto de LEDs](./archivos/encargo-03-leds.jpg)
 
-5. **Resistencia:** Regulan y estabilizan el flujo de corriente en los circuitos. Ayudan a mantener un nivel de corriente seguro para evitar que se quemen o echen a perder.
+5 **Resistencia:** Regulan y estabilizan el flujo de corriente en los circuitos. Ayudan a mantener un nivel de corriente seguro para evitar que se quemen o echen a perder.
 
 Foto de las resietencias.
 
 ![encargo-03 foto de resistencias](./archivos/encargo-03-resistencias.jpg)
 
-6. **Batería 9V:** Es una pila eléctrica de corriente de 9 voltios. Es la fuente de energía que vamos a utilizar en el semestre.
+6 **Batería 9V:** Es una pila eléctrica de corriente de 9 voltios. Es la fuente de energía que vamos a utilizar en el semestre.
 
 Foto de la batería de 9V.
 
 ![encargo-03 foto de batería 9V](./archivos/encargo-03-bateria-9v.jpg)
 
-7. **Interruptor basculante:** Dependiendo del lado hacia el que esté inclinado tiene una función distinta, por ende este interruptor se utiliza para iniciar o detener, y encender o apagar el flujo de corriente en un circuito.
+7 **Interruptor basculante:** Dependiendo del lado hacia el que esté inclinado tiene una función distinta, por ende este interruptor se utiliza para iniciar o detener, y encender o apagar el flujo de corriente en un circuito.
 
 Foto del interruptor basculante.
 
 ![encargo-03 foto de interruptor basculante](./archivos/encargo-03-interruptor-basculante.jpg)
 
-8. **Parlante 0.5W, 8 Ohms:** Reproduce sonidos o melodías por un microcontrolador como podría ser Arduino.
+8 **Parlante 0.5W, 8 Ohms:** Reproduce sonidos o melodías por un microcontrolador como podría ser Arduino.
 
 Foto del parlante.
 
 ![encargo-03 foto de parlante](./archivos/encargo-03-parlante.jpg)
 
-9. **Mini protoboard:** Cumple la misma función que la protoboard normal, solo que en un tamaño reducido.
+9 **Mini protoboard:** Cumple la misma función que la protoboard normal, solo que en un tamaño reducido.
 
 Foto mini protoboard.
 
 ![encargo-03 foto de mini protoboard](./archivos/encargo-03-mini-protoboard.jpg)
 
-10. **Potenciómetro:** Es un componente utilizado para ajustar la resistencia eléctrica en un circuito. Esto es a través de una perilla regulable para la necesidad que tengamos, como podría ser el regular el voltaje.
+10 **Potenciómetro:** Es un componente utilizado para ajustar la resistencia eléctrica en un circuito. Esto es a través de una perilla regulable para la necesidad que tengamos, como podría ser el regular el voltaje.
 
 Foto potenciómetro.
 
 ![encargo-03 foto de potenciómetro](./archivos/encargo-03-potenciometro.jpg)
 
-11. **Micro servo motor:** Es un pequeño actuador rotativo diseñado para controlar el movimiento de su eje en cuanto a velocidad, aceleración, torque (fuerza que se utiliza para hacer girar un objeto) y posición.
+11 **Micro servo motor:** Es un pequeño actuador rotativo diseñado para controlar el movimiento de su eje en cuanto a velocidad, aceleración, torque (fuerza que se utiliza para hacer girar un objeto) y posición.
 
 Foto micro servo motor.
 
 ![encargo-03 foto de micro servo motor](./archivos/encargo-03-mini-servo-motor.jpg)
 
-12. **Condensador electrolítico o capacitor:** Es un dispositivo que almacena energía de forma interna cuando se conecta a una fuente de tensión o voltaje.
+12 **Condensador electrolítico o capacitor:** Es un dispositivo que almacena energía de forma interna cuando se conecta a una fuente de tensión o voltaje.
 
 Foto condensador electrolítico.
 
 ![encargo-03 foto de condensadores electrolíticos](./archivos/encargo-03-condensadores-electroliticos.jpg)
 
-13. **Zumbador piezoeléctrico:** Son componentes eléctricos diseñados para producir sonido. Existen en una variedad de tonos y frecuencias.
+13 **Zumbador piezoeléctrico:** Son componentes eléctricos diseñados para producir sonido. Existen en una variedad de tonos y frecuencias.
 
 Foto de zumbador piezoeléctrico.
 
 ![encargo-03 foto de zumbador](./archivos/)
 
-14. **Adaptador de conector:** Sirven para adaptar para interconectar dos conectores de puertos distintos.
+14 **Adaptador de conector:** Sirven para adaptar para interconectar dos conectores de puertos distintos.
 
 Foto de adaptador de conector.
 
 ![encargo-03 foto de adaptador de conector](./archivos/encargo-03-zumbador.jpg)
 
-15. **Condensador cerámico  o tipo lenteja:** Al igual que los condensadores más grandes, almacenan energía de igual manera pero en menor escala.
+15 **Condensador cerámico  o tipo lenteja:** Al igual que los condensadores más grandes, almacenan energía de igual manera pero en menor escala.
 
 Foto de condensador cerámico.
 
