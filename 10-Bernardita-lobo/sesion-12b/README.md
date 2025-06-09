@@ -25,25 +25,26 @@
 
 ## Encargos
 
-### Idea 01
+### Encargo-24: Proyectos de máquinas electrónicas
 
-- Un circuito con un motor que sostenga algún elemento que asemeje a la naturaleza (o directamente algo de la naturaleza, como una flor) y que se esté moviendo constantemente, como si tuviera vida, hasta que se emita un sonido en el espacio y se detenga.
+- Describir de forma textual 3 proyectos de máquinas electrónicas que quieran hacer de forma individual, ordenar por preferencia o interés de que sea desarrollado.
 
-- El motor se pone en movimiento > se emite un sonido > el motor se detiene > el sonido se detiene > el motor vuelve a ponerse en movimiento.
+- Idea 01: Un circuito con un motor que sostenga algún elemento que asemeje a la naturaleza (o directamente algo de la naturaleza, como una flor) y que se esté moviendo constantemente, como si tuviera vida, hasta que se emita un sonido en el espacio y se detenga.
 
 ![Imagen de WhatsApp 2025-06-03 a las 11 36 03_aa346830](https://github.com/user-attachments/assets/14d39c8a-ea21-4b56-8884-ce8b6302151e)
 
-
 Fuente <https://proyectoidis.org/zimoun/>
 
-### Idea 02
+- Idea 02: Un circuito con un LDR y un speaker que suene indicando cuando no reciba luz. En este caso iría junto a una planta, como si la planta estuviera gritando que quiere luz.
 
-- Un circuito con un LDR y un speaker que suene indicando cuando no reciba luz. En este caso iría junto a una planta, como si la planta estuviera gritando que quiere luz.
+- Idea 03: Un circuito con un motor que sostenga algún elemento que se asemeje a la naturaleza (o directamente algo de la naturaleza, como una flor) y que active el motor en cuanto le llegue luz.
 
-- Se va la luz > el speaker y el LED se encienden > vuelve la luz > el speaker y el LED se mantienen apagados.
+### Encargo-25: Dibujar diagrama de comportamiento
 
-### Idea 03
+- Dibujar diagrama de comportamiento, flujos de interacción. No específicar chips. Considerar procesos de manera especulativa. ¿Cuánto tiempo se usará? ¿Qué encendidos y apagados tiene? ¿Cómo se interactúa?
 
-- Un circuito con un motor que sostenga algún elemento que se asemeje a la naturaleza (o directamente algo de la naturaleza, como una flor) y que active el motor en cuanto le llegue luz.
+- Idea 01: El motor se pone en movimiento > se emite un sonido > el motor se detiene > el sonido se detiene > el motor vuelve a ponerse en movimiento.
 
-- Motor detenido > le llega luz > el motor se pone en movimiento > se detiene la luz > el motor se detenido.
+- Idea 02: Se va la luz > el speaker y el LED se encienden > vuelve la luz > el speaker y el LED se mantienen apagados.
+
+- Idea 03: Motor detenido > le llega luz > el motor se pone en movimiento > se detiene la luz > el motor se detenido.
