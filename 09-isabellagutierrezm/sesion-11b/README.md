@@ -6,14 +6,14 @@
 - Posee características que permite la interconexión directa y con otros componentes como 555.
 - La pata 3 del 555, emite señal de aviso.
   
-  ![4017](https://github.com/user-attachments/assets/9214b932-6968-4973-8941-4af6a2b0c714)
+  ![4017](https://github.com/isabellagutierrezm/dis8644-2025-1/blob/main/09-isabellagutierrezm/sesion-11b/archivos/4017.jpeg)
 
  **Lógica secuencial:** La salida depende de las señales de la entrada y de las secuencias anteriores.
  
  **Logica combinacional:** Sus salidas son exclusivas del valor de la entrada en un momento dado (pseudo simultáneo).
 
  ## Esquema del circuito
-![esquema4017](https://github.com/user-attachments/assets/31df01e0-2ee0-408a-801d-3fc382271390)
+![esquema4017](https://github.com/isabellagutierrezm/dis8644-2025-1/blob/main/09-isabellagutierrezm/sesion-11b/archivos/esquema4017.jpeg)
 
 ## Enlaces a los videos de procesos y final.
 
