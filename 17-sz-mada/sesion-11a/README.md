@@ -2,13 +2,13 @@
 
 [20 de mayo del 2025]
 
-### Teloneo
+## Teloneo
 
-> Misaa habló de artistas sonoros como [Jaap Blonk](http://www.jaapblonk.com/)
->
-> También poetas sonoros, ex. Altazor de Vicente Huidobro y Ursonate de Kurt Schwitters
->
-> Artistas que Aarón y Misaa consideran escenciales a la clase: Caterina Barbieri, Ela Minus, Kali Malone
+Misaa habló de artistas sonoros como [Jaap Blonk](http://www.jaapblonk.com/)
+
+También poetas sonoros, ex. Altazor de Vicente Huidobro y Ursonate de Kurt Schwitters
+
+Artistas que Aarón y Misaa consideran escenciales a la clase: Caterina Barbieri, Ela Minus, Kali Malone
 
 ## Apuntes
 

@@ -2,7 +2,7 @@
 
 [30 de mayo del 2025]
 
-### Teloneo
+## Teloneo
 
 > [posternurarecords](https://posternurarecords.cl/) - Creado por Christian Oyarzún
 >
@@ -11,9 +11,9 @@
 > Y2K o Year 2000 problem: se refiere a los problemas relacionados al formato de calendario de los computadores después del año 2000
 >
 > web 1.0: pre-2000, apenas cargaba gifs // web 2.0: rss feed, net art (a esto se dedicaba Christian)
->
-> [Summer - Olia Lialina](https://art.teleportacia.org/olia/summer/) &rarr; cada frame es un sitio web de sus amigos
->
+
+[Summer - Olia Lialina](https://art.teleportacia.org/olia/summer/) &rarr; cada frame es un sitio web de sus amigos
+
 > Muchos de los proyectos de Christian fueron echos en Adobe Flash, así que ahora están obsoletos
 >
 > Bienal Artes Mediales 2015 &rarr; [drumCircle\[\]](https://error404.cl/drumCircle/)
@@ -81,7 +81,7 @@
 - Needs transistors
 
 - DC 6V, rotates con electricidad, en juguetes, ventiladores, ruedas
- 
+
 - Motorreductor, reduces RPM but speeds torque via principio de conservación del movimiento angular ex. [Arthur Ganson](https://www.arthurganson.com/faster-1)
 
 - Steppermotor (paso a paso). significantly slower but precise, used in 3D printers. Two types, unipolar and bipolar

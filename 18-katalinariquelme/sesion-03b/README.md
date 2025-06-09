@@ -7,7 +7,7 @@ Clase 6: Viernes 28 de Marzo del 2025.
 - **Parte 3:** Encargo08: escuchar disco de Gonzalo Martínez y sus Congas Pensantes.
 - **Parte 4:** Encargo09: apuntes sobre visita al museo de arte contemporáneo.
 
-**Apuntes**
+Apuntes
 
 Foto de mi bitácora
 
