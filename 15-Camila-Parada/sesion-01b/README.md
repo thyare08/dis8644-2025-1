@@ -1,6 +1,6 @@
 # ⋆₊˚⊹♡ Clase 01b - Github y circuitos ♡⊹˚₊⋆
 
-_Viernes 14 Marzo 2025_
+Viernes 14 Marzo 2025
 
 ***
 
@@ -42,7 +42,6 @@ Ver el documental "The Internet's Own Boy" y escribir una breve reseña de esta.
 
 ![alt-text](./archivos/IMG_8313.jpeg)
 
-<br>
 
 * Cables dupont macho-macho: Es un tipo de cableado usado para interconectar los componentes electrónicos de un prototipo a la “protoboard” o tabla de pruebas, transmitiendo señales eléctricas. Soporta un rango entre lo 3v a 18v como máximo.Son de varios colores y están compuesto de cobre y plástico ABS.  Surgen en 1950, de mano de la compañía Berg Electronics, pero se volvieron populares tras haber sido adquiridos por la compañía DuPont, adoptando su nombre.
 
@@ -62,7 +61,6 @@ Ver el documental "The Internet's Own Boy" y escribir una breve reseña de esta.
 
 * Buzzer magnetico: también conocido como zumbador, es un transductor electroacústico que se utiliza para generar música simple o como parte de la interfaz de usuario de un objeto (como por ejemplo una alarma, una lavadora, un auto, entre otros). Puede emitir sonido continuo o de forma intermitente, según la señal eléctrica que este reciba. Este buzzer en partícular funciona como un altavoz. Al momento de accionarse la corriente eléctrica pasa por la bobina del electroimán, lo que crea un campo magnético que genera vibraciones entre la lámina de acero y la cubierta.
 
-<br>
 
 Una pregunta curiosa que me surgió fue sobre la histoaria de los leds de color azul. Comenzando por el origen, los "led's" (light-emitting diode, en español diodo emisor de luz) son una fuente de luz que posee dos terminales (una positiva, que permite el paso de la corriente, y una negativa). Estos permiten que la energía circule en una sola dirección, pasando de corriente alterna a continua (tal cuál como lo hace un diodo) y encendiendo el foco, por lo que si se conecta de forma contraria cambia el sentido de la corriente, pero no se genera luz. El primer led de tipo práctico fue creado en 1962, en cuyo caso transmitía luz infrarroja de baja intensidad que no era perceptibles para el ojo humano. Ese mismo año más tarde surgió el primer led que formaba parte del espectro visible, generando luz de color rojo. Ya en 1967 fueron creados los leds verdes, los cuales poseían Fosfato de Galio para generar el color. Pasado mucho tiempo después, en los años 90 se fue desarrollando el led azul. Anteriormente habían existido investigaciones para obtener dicho color, dadas sus propiedades físicas y químicas únicas, como es el caso del Nitruro de galio. Shuji Nakamura fue quien tras años de intentos logró conseguirlo en 1994. Ello ha permitido el desarrollo de pantallas leds, las cuales en la actualidad son indispensables.
 
