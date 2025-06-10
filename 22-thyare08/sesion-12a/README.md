@@ -2,6 +2,36 @@
 
 Apuntes de la clase
 
-![20250527_124945](https://github.com/user-attachments/assets/b84dde61-7592-4ee3-9887-d3f0d5aa27b4)
-![20250527_124959](https://github.com/user-attachments/assets/b5c5b242-58a8-40ab-a3a7-884b93bc3d87)
-![20250527_125835](https://github.com/user-attachments/assets/b2510fd0-270e-4ac9-9b14-503d5a03e14c)
+![apuntes_12a_1.jpg](./archivos/apuntes_12a_1.jpg)
+
+![apuntes_12a_2.jpg](./archivos/apuntes_12a_2.jpg)
+
+![apuntes_12a_3.jpg](./archivos/apuntes_12a_3.jpg)
+
+**Etapa 1**
+
+![lm324n_1.jpg](./archivos/lm324n_1.jpg)
+
+![lm324n_2.jpg](./archivos/lm324n_2.jpg)
+
+**Etapa 2**
+
+![lm324n_555_1.jpg](./archivos/lm324n_555_1.jpg)
+
+![lm324n_555_2.jpg](./archivos/lm324n_555_2.jpg)
+
+**Etapa 3**
+
+![lm324n_555_4017_encendido.jpg](./archivos/lm324n_555_4017_encendido.jpg)
+
+![lm324n_555_4017_listo.jpg](./archivos/lm324n_555_4017_listo.jpg)
+
+![lm324n_555_4017_2.jpg](./archivos/lm324n_555_4017_2.jpg)
+
+![lm324n_555_4017_azul.jpg](./archivos/lm324n_555_4017_azul.jpg)
+
+![lm324n_555_4017_amarillo.jpg](./archivos/lm324n_555_4017_amarillo.jpg)
+
+![lm324n_555_4017_rojo.jpg](./archivos/lm324n_555_4017_rojo.jpg)
+
+![lm324n_555_4017_blanco.jpg](./archivos/lm324n_555_4017_blanco.jpg)
