@@ -27,7 +27,7 @@ Similar a [__Exercism.org__](https://exercism.org/) pero __W3__ se enfoca más e
 
 ### HTML
 Agregar imágenes con texto alternativo:
-````
+````html
 <img align="ALINEACIÓN DE IMAGEN A LA PAGINA" src="URL DE IMAGEN" alt="TEXTO ALTERNATIVO" width=VALOR TAMAÑO>
 ````
 
