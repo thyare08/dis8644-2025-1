@@ -115,4 +115,8 @@ Foto placa terminada con todos sus componentes posterior.
 
 ![Foto PCB terminada posterior](./archivos/placa_terminada_posterior.jpg)
 
+Video PCB terminada con los componentes externos.
+
+https://github.com/user-attachments/assets/67bf027f-7c0a-470d-8b5e-ce4ab3e16425
+
 Fotos y vídeos de mi autoría.
