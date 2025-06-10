@@ -33,7 +33,7 @@
 - Jorge González aprendió a utilizar el sintetizador con “La Pollera Amarilla”.
 - En un principio no tuvo tanto éxito porque el público esperaba música más del estilo de Los Prisioneros.
 
-![Imagen de Jorge Gonzáles](./archivos/tme-sesion03b-Jorge.pneg)
+![Imagen de Jorge Gonzáles](./archivos/tme-sesion03b-jorge.jpeg)
 
 Fuente <https://www.latercera.com/resizer/v2/BDYJOBYAAJCG5H54U5J3SVYCRE.jpg?auth=aff2d71fd0ecf28821d374222163e8d81413409cb8e959d3a3ccaface1aeeb21&smart=true&width=800&height=1000&quality=70>
 
