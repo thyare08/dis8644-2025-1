@@ -90,22 +90,21 @@ después de reunir los materiales vamos con los siguientes pasos
 ### encargo 23 documentación visual del proceso de ensamblado de udpudu
 
 1. reunimos los componentes
-![WhatsApp Image 2025-05-19 at 7 34 50 PM (1)](https://github.com/user-attachments/assets/beb78fc4-3c10-4d8a-86aa-3b9bd6b33719)
-
+![imagen1](./archivos/10bimagen1.jpeg)
 2. procedemos a ensamblarlos en los respectivos lugares antes de soldarlos
-![WhatsApp Image 2025-05-19 at 7 34 51 PM](https://github.com/user-attachments/assets/0e73b793-adf6-4d6a-a0fa-b625acd60037)
-![WhatsApp Image 2025-05-19 at 7 34 50 PM](https://github.com/user-attachments/assets/b6b8960c-ed5d-44a4-a933-6c9e84acfe8d)
+![imagen2](./archivos/10bimagen2.jpeg)
+![imagen3](./archivos/10bimagen3.jpeg)
 
 3. ahora comenzamos a soldar con mucho cuidado los componentes
-![WhatsApp Image 2025-05-19 at 7 35 03 PM](https://github.com/user-attachments/assets/c60c57ea-3bbf-466d-ac0c-12c5333afe8b)
-![WhatsApp Image 2025-05-19 at 7 35 00 PM](https://github.com/user-attachments/assets/78455309-5794-4ed4-b34a-345b6ee5d5bc)
+![imagen4](./archivos/10bimagen4.jpeg)
+![imagen5](./archivos/10bimagen5.jpeg)
 
 4. mientras vamos teniendo algunas piezas soldadas, nos encargamos de retirar los restos de las patitas que sobran por la parte de atrás de nuestras placas
-![WhatsApp Image 2025-05-19 at 7 35 02 PM](https://github.com/user-attachments/assets/58663e23-3fcc-468e-9cde-b4195a487a1c)
+![imagen6](./archivos/10bimagen6.jpeg)
 
 5. aquí tenemos una foto de una de las placas con lo que se alcanzó a soldar en clases, faltan componentes aún por soldar pero de momento queda así
-![WhatsApp Image 2025-05-19 at 7 34 58 PM (1)](https://github.com/user-attachments/assets/43de3ebb-b09c-4dc3-a887-39155766fe70)
+![imagen7](./archivos/10bimagen7.jpeg)
 
 6. por último una muestra del avance de las 4 placas, todas con los mismos componentes ya que fuimos 1 a 1
-![WhatsApp Image 2025-05-19 at 7 34 59 PM](https://github.com/user-attachments/assets/60a1352c-5c93-465a-a3c4-4258dcb6d651)
-![WhatsApp Image 2025-05-19 at 7 35 06 PM2](https://github.com/user-attachments/assets/22681f15-517b-44f1-ad4f-f1aa3f98513f)
+![imagen8](./archivos/10bimagen8.jpeg)
+![imagen9](./archivos/10bimagen9.jpeg)
