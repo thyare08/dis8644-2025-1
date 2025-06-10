@@ -1,10 +1,16 @@
 # ⋆₊˚⊹♡ Clase 01b - Github y circuitos ♡⊹˚₊⋆
 
-14 Marzo 2025
+_Viernes 14 Marzo 2025_
+
+***
 
 ## Parte 1: Aprendizaje Github
 
 Hoy se enseñó a como poder iniciar sesión en la cuenta de Github, a ver las partes que componen la interface de la cuenta principal, a como crear la copia de un repositorio perteneciente a otra cuenta usando el botón "Fork" (Bifurcación en español). A la par se mostró a como poder editar un archivo desde la copia personal, acto el cual puede modificar el archivo original a través de la herramienta "Pull requests". La ida es poder actualizar los encargos de la clase anterior y subirlos a la carpeta correspondiene según el número de orden de la lista.
+
+<br>
+
+***
 
 ## Parte 2: Como armar circuitos
 
@@ -12,11 +18,19 @@ Sección enfocada en el aprendizaje de los elementos que componen un circuito si
 
 Para ello se entregó un kit con varios componentes que fueron puestos a prueba mediante circuitos. Estos serán indicados y descritos más abajo.
 
+<br>
+
+***
+
 ## Registro visual
 
 Fotografías de apuntes y resultados obtenidos.
 
 ![alt-text](./archivos/01.jpeg)
+
+<br>
+
+***
 
 ## Tarea: Analizar los componentes entregados en el Kit
 
@@ -28,7 +42,9 @@ Escuchar un álbum de "Aphex Twin", hacer una reseña y breve investigación
 
 Ver el documental "The Internet's Own Boy" y escribir una breve reseña de esta.
 
-## Encargos y tareas 18 marzo 2025
+<br>
+
+***
 
 ## 1. Encargo 03: Kit de electrónica
 
@@ -54,6 +70,10 @@ Buzzer magnetico: también conocido como zumbador, es un transductor electroacú
 
 Una pregunta curiosa que me surgió fue sobre la histoaria de los leds de color azul. Comenzando por el origen, los "led's" (light-emitting diode, en español diodo emisor de luz) son una fuente de luz que posee dos terminales (una positiva, que permite el paso de la corriente, y una negativa). Estos permiten que la energía circule en una sola dirección, pasando de corriente alterna a continua (tal cuál como lo hace un diodo) y encendiendo el foco, por lo que si se conecta de forma contraria cambia el sentido de la corriente, pero no se genera luz. El primer led de tipo práctico fue creado en 1962, en cuyo caso transmitía luz infrarroja de baja intensidad que no era perceptibles para el ojo humano. Ese mismo año más tarde surgió el primer led que formaba parte del espectro visible, generando luz de color rojo. Ya en 1967 fueron creados los leds verdes, los cuales poseían Fosfato de Galio para generar el color. Pasado mucho tiempo después, en los años 90 se fue desarrollando el led azul. Anteriormente habían existido investigaciones para obtener dicho color, dadas sus propiedades físicas y químicas únicas, como es el caso del Nitruro de galio. Shuji Nakamura fue quien tras años de intentos logró conseguirlo en 1994. Ello ha permitido el desarrollo de pantallas leds, las cuales en la actualidad son indispensables.
 
+<br>
+
+***
+
 ## 2. Encargo 02.1 : Aphex Twin - Come to Daddy
 
 ![alt-text](https://cdn-images.dzcdn.net/images/cover/a7eb3f85c6e7b8205032008532cbb7cc/500x500-000000-80-0-0.jpg)
@@ -68,11 +88,19 @@ Sobre el artista
 
 Richard David James es el Dj y productor detrás de esta banda. De origen irlandés y nacionalizado británico. Desde el 1983 que se dedica a la música de forma profesional, y desde los 12 años que comenzó componer. Sus instrumentos suelen ser teclado y sintetizadores (Yamaha DX7/DX100). Estudió ingeniería en.
 
+<br>
+
+***
+
 ## 3. Encargo 02.2 : La historia de Aaron Swartz, el hijo de internet
 
 ![alt-text](https://es.gizmodo.com/app/uploads/2014/06/fld9vidyclow6xwhejqk.jpg)
 
 Este documental muestra la vida, obra y muerte de Aaron Swarts. Es impactante de ver puesto que nos muestran lo corta que fue su vida. Desde sus más tempranos años fue continuamente aprendiendo en poco tiempo, pudiendo leer con tan solo 3 años. Cuando se le presenta una computadora, su curiosidad crece y se va desenvolviendo mediante programas y códigos. Gracias a sus conocimientos en programación pudo ayudar a desarrollar el lenguaje RSS, el formato Markdown, la fundación y establecimiento de "Creative Commons" y el impulso de Reddit. No le interesaba el dinero ni los bienes. Sus aspiraciones tenían fines políticos, por lo que se salían de los espacios laborales o empresariales. Los computadores y la programación eran como magia, lo que permite que la gente pueda hacer dinero o el bien (que terminaría siendo compartido). Nunca dejó de cuestionarse, de cuestionar el sistema y la sociedad en el cuál seguimos viviendo acualmente, en la que podemos resolver problemas pero no se hacen. Por ello decidió arriesgarse y verse involucrado en varias causas. Se centró en la política y en liberar las bibliotecas, puesto que el conocimiento de la humanidad se encontraba con la barrera del dinero (ya que se requierre de pagar por el acceso a estos) y los derechos de las personas (cuestionando la desigualdad frente al esfuerzo de algunas personas para tan solo poder comer, mientras que quienes discuten por ello se van haciendo más ricos). Por ello fue detenido como un criminal cibernético, comparando el robo de datos y documentos con el hurto de dinero. Ello me deja pensando en que la vida es muy injusta, y que para generar los reales cambios son necesarios generar grandes sacrificios para por lo menos hacer que la gente se siga cuestionando.
+
+<br>
+
+***
 
 ## Posdata
 
