@@ -39,6 +39,10 @@
 - efectos de sonido y jingles.
 - disruptivo para los puristas de la música.
 
+Fuente <https://artemetraje.com/wp-content/uploads/2023/02/19b38a-20201111-wendy-carlos.jpg>
+
+Fuente <https://npr.brightspotcdn.com/dims4/default/d597491/2147483647/strip/true/crop/1280x1280+0+0/resize/880x880!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fwxxifm%2Ffiles%2F202102%2Fwendy_carlos.jpg>
+
 ### La historia de los sintetizadores moog
 
 - video documental "moog - la historia del sintetizador moog - BBC londres" <https://youtu.be/1vRtgWH2d9Q?si=DEMKQfVymHAIr2w>
@@ -53,6 +57,10 @@
 - lo que hace tan bello a este instrumento es que es un sintetizador "analógico", lo que quiere decir que genera las vibraciones eléctricas a partir de una serie de componentes electrónicos. o sea que el origen de los sonidos no son números, sino vibraciones eléctricas que hacen el papel de las cuerdas, el metal y la madera. el sonido proviene de la placa analógica, que para Robert Moog es donde ocurre la magia, ya que él se imagina cómo los componentes actúan, cómo las resistencias alteran la corriente, se visualizan los voltajes, al igual que los cambios de sonido. para él esto es como una conexión espiritual, que conecta diferentes realidades que existen en el universo desde otros sentidos.
 - para él la creación del sintetizador fue una sucesión de simples casualidades.
 - después del minuto 42:40 del documental, robert moog junto a unos artistas, hace una serie de comentarios machistas y cosificadores, así que deje de verlo.
+
+Fuente <https://media.wnyc.org/i/800/0/c/85/1/moog.jpg>
+
+Fuente <https://edm.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTc2OTEzMTgxODQ1NzU5NTcx/cbkkt9otkxlgyjdxrmxl7y.jpg>
 
 ![foto32](https://github.com/user-attachments/assets/ed6b3444-2466-4a1d-8ae5-9e4c4eac13ca)
 ![foto31](https://github.com/user-attachments/assets/f696c017-8e36-4065-a300-ad4a669ed5bd)
