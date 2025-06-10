@@ -9,6 +9,8 @@
 
 ![tme-sesion06a-foto01](https://github.com/user-attachments/assets/c2cc97c2-12ce-4752-a620-c4cc16a9a289)
 
+fuente <https://www.555-timer-circuits.com>
+
 ## Presentaciones
 
 ### Grupo-02
