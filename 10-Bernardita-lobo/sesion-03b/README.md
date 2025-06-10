@@ -9,17 +9,17 @@
 - Circuito electrónico con bocina.
 - Orquesta de circuitos electrónicos con sensor de luz y bocina.
 
-![Foto](./archivos/tme-sesion03b-foto17.jpeg)
+![Foto de la protoboard](./archivos/tme-sesion03b-foto17.jpeg)
 
-![Foto](./archivos/tme-sesion03b-foto18.jpeg)
+![Foto de mis apuntes en mi bitácora y protoboard](./archivos/tme-sesion03b-foto18.jpeg)
 
 ### Visita al  Museo de Arte Contemporáneo
 
 - Museo de Arte Contemporáneo en Quinta Normal
 
-![Foto](./archivos/tme-sesion03b-foto19.jpeg)
+![Foto de la fachada del Museo de Arte Contemporáneo](./archivos/tme-sesion03b-foto19.jpeg)
 
-![Foto](./archivos/tme-sesion03b-foto20.jpeg)
+![Foto de la exposición](./archivos/tme-sesion03b-foto20.jpeg)
 
 ## Encargos
 
@@ -27,11 +27,17 @@
 
 - Gonzalo Martínez y sus Congas Pensantes.
 - Por Jorge González y Dandy Jack.
-- Video "Jorge González habla del disco Gonzalo Martínez" <https://youtu.be/MGBKucEQzwk?si=bGuyuFHy3gRyJhxA>
-- Video "Gonzalo Martínez y sus Congas Pensantes" <https://youtu.be/owdi6iuhx9k?si=iSjnu-mXeoPZjEeD>
+- Video Jorge González habla del disco Gonzalo Martínez <https://youtu.be/MGBKucEQzwk?si=bGuyuFHy3gRyJhxA>
+- Video Gonzalo Martínez y sus Congas Pensantes <https://youtu.be/owdi6iuhx9k?si=iSjnu-mXeoPZjEeD>
 - Cumbia electrónica para acercar la música electrónica a Sudamérica.
 - Jorge González aprendió a utilizar el sintetizador con “La Pollera Amarilla”.
 - En un principio no tuvo tanto éxito porque el público esperaba música más del estilo de Los Prisioneros.
+
+![Imagen de Jorge Gonzáles](./archivos/tme-sesion03b-jorge.jpeg)
+
+Fuente <https://www.latercera.com/resizer/v2/BDYJOBYAAJCG5H54U5J3SVYCRE.jpg?auth=aff2d71fd0ecf28821d374222163e8d81413409cb8e959d3a3ccaface1aeeb21&smart=true&width=800&height=1000&quality=70>
+
+Fuente <https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHD6KpcCPdnS9TmLSIlb1nJ9hgwSCeASfBXWWgUgOPTJ5atcI0LNMtjuPo-t_hjcvbMBl2r3mvKrV3XuBsYT6pmdPT1ECvL0Iuel7YhnzqwJqId3Fruz4JwsZbA4ODFXQznEbYgI1CH3xf/s1600/GM+1.JPG>
 
 ![Foto](./archivos/tme-sesion03b-foto23.jpeg)
 

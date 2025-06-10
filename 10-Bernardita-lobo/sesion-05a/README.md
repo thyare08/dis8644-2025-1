@@ -23,7 +23,7 @@
 
 ![Foto de apuntes en mi bitácora](./archivos/tme-foto37.jpeg)
 
-### BOM
+### Bill of Materials
 
 | Nombre | Cantidad | Componente                    |
 |--------|----------|-------------------------------|

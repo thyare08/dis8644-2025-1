@@ -9,9 +9,9 @@
 - Valores de resistencias y capacitor
 - Capacitor y condensador son lo mismo
 
-![Foto](./archivos/tme-sesion03a-foto16.jpeg)
+![Foto componentes](./archivos/tme-sesion03a-foto16.jpeg)
 
-![Foto](./archivos/tme-sesion03a-foto13.jpeg)
+![Foto de mis apuntes en mi bitácora](./archivos/tme-sesion03a-foto13.jpeg)
 
 ### Primer circuito astable
 
@@ -20,7 +20,7 @@
 - Circuito electrónico con circuito integrado 555
 - Luz oscilante con potenciómetro
 
-![Foto](./archivos/tme-sesion03a-foto14.jpeg)
+![Foto de mis apuntes en mi bitácora y protoboard](./archivos/tme-sesion03a-foto14.jpeg)
 
 ## Encargos
 
@@ -38,4 +38,4 @@
 - ¿Cómo funciona un circuito integrado 555 en mis palabras?
 - Funciones de patillas del circuito integrado 555
 
-![Foto](./archivos/tme-sesion03a-foto21.jpeg)
+![Foto de mis apuntes en mi bitácora](./archivos/tme-sesion03a-foto21.jpeg)

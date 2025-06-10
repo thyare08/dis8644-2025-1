@@ -1,6 +1,6 @@
 # sesión-01a
 
-## Trabajo en clase / Martes
+## Trabajo en clase / Martes 11 de Marzo
 
 ### Conociendo el Taller Máquinas Electrónicas
 

@@ -4,26 +4,26 @@
 
 ### Sistemas electrónicos
 
-- Funcionamiento de 1-bit
-- CPU es Unidad Central de Procesamiento; es un componente del hardware
-- Hardware son los componentes físicos y tangibles de un sistema informático
-- Analizamos el funcionamiento y sistema electrónico de una botonera
-- Interfaz, intención y ergonomía
+- Funcionamiento de 1-bit.
+- CPU es Unidad Central de Procesamiento; es un componente del hardware.
+- Hardware son los componentes físicos y tangibles de un sistema informático.
+- Analizamos el funcionamiento y sistema electrónico de una botonera.
+- Interfaz, intención y ergonomía.
 
 ![Foto de apuntes de mi bitácora](./archivos/tme-sesion04b-01.jpeg)
 
 ### Circuito electrónico monoestable
 
-- Primer circuito con un botón
-- Se mantiene estable hasta que es perturbado
-- Emite un único pulso de corriente durante un tiempo determinado
+- Primer circuito con un botón.
+- Se mantiene estable hasta que es perturbado.
+- Emite un único pulso de corriente durante un tiempo determinado.
 
 ![Foto de caja de componentes](./archivos/tme-sesion04b-componentes.jpeg)
 
 ### Grandmother
 
-- Sintetizadores análogos Moog
-- Un instrumento musical pasa de gesto a sonido
+- Sintetizadores análogos Moog.
+- Un instrumento musical pasa de gesto a sonido.
 - Video: Wendy Carlos Demonstrates Her Moog Synthesizer <https://youtu.be/4SBDH5uhs4Q?si=6EMCE5zsOz8-7VFA>
 
 ![Foto de Sintetizador Moog Grandmother](./archivos/tme-sesion04b-02.jpeg)
@@ -32,7 +32,7 @@
 
 ### Encargo-10: Wendy Carlos
 
-- Switched-On Bach por Wendy Carlos
+- Switched-On Bach por Wendy Carlos.
 - Video "Wendy Carlos" <https://youtu.be/_zjvv7n3mGQ?si=qLXQ_js-CSqN9ypS>
 - Música clásica con su síntesis traspasada a la electrónica.
 - Popularizó los sintetizadores Moog y revolucionó la tecnología musical.
