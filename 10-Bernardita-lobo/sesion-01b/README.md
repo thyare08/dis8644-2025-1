@@ -35,7 +35,7 @@
 - Le ofrecieron un acuerdo en el cual tenía que declararse culpable y cumplir seis meses en la cárcel. Él decidió rechazar este acuerdo, ya que consideraba que no había cometido ningún crimen. Lamentablemente, dos días después decidió quitarse la vida.
 - Aaron Swartz fue un importante activista que lo único que buscaba era que todo el mundo tuviera acceso a la información académica.
 
-![Foto de los componentes](./archivos/tme-sesion01b-foto2.jpeg)
+![Fotos apuntes en mi bitácora](./archivos/tme-sesion01b-foto2.jpeg)
 
 ### Encargo-03: Estudiar la caja de materiales inicial
 
@@ -43,6 +43,6 @@
 - Inventario y organización de los componentes que se encuentran en mi cajita
 - Estudio del significado de los colores de los cables
 
-![Foto](./archivos/tme-sesion01b-foto9.jpeg)
+![Fotos de mis componentes](./archivos/tme-sesion01b-foto9.jpeg)
 
-![Foto](./archivos/tme-sesion01b-foto3.jpeg)
+![Fotos apuntes en mi bitácora](./archivos/tme-sesion01b-foto3.jpeg)
