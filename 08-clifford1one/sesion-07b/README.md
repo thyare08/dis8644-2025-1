@@ -21,7 +21,7 @@ para el segundo caso, mi objetivo será llegar al precio máximo posible, con el
 
 ![sección principal sitio "jlcpcb"](./archivos/tme-07b-expSection1.png)
 
-![sección secundaria sitio "jlcpcb"](./archivos/tme-07b-expSection.png).
+![sección secundaria sitio "jlcpcb"](./archivos/tme-07b-expSection2.png).
 
 ![sección de parámetros especiales sitio "jlcpcb"](./archivos/tme-07b-expSection3.png)
 
