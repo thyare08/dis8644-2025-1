@@ -2,7 +2,7 @@
 
 ![alt-text](./archivos/tme-07b-apunte.png)
 
-### encargo: cotizar pcb
+## encargo: cotizar pcb
 
 para el primer caso, mi objetivo será manipular los parámetros para que la compra sea lo más barata posible.
 
@@ -15,7 +15,7 @@ para el primer caso, mi objetivo será manipular los parámetros para que la com
 ![sección cobro sitio "jlcpcb"](./archivos/tme-07b-sectionBoleta.png)
 
 
-### encargo experimental: cotizar pcb 
+## encargo experimental: cotizar pcb 
 
 para el segundo caso, mi objetivo será llegar al precio máximo posible, con el objetivo de entender los parámetros y ver cuáles afectan más al precio.
 
