@@ -4,21 +4,24 @@
 
 ### Feedback aprendido del desarme electrónico
 
-- existen componentes para soldarlos sobre la placa y otros componentes integrados.
-- SMD (surface-mount device) y SMT (surface-mount technology)
-- led smd (surface-mount device)
-- la velocidad del sonido depende de la temperatura y de la humedad.
-- pitch es como humanamente percibimos las frecuencias.
+- Existen componentes para soldarlos sobre la placa y otros componentes integrados.
+- SMD (Surface-Mount Device) y SMT (Surface-Mount Technology).
+- LED SMD (Surface-Mount Device).
+- La velocidad del sonido depende de la temperatura y de la humedad.
+- Pitch es cómo humanamente percibimos las frecuencias.
 
 ### Atari punk console
 
-- primera vez que logré hacer el circuito Atari Punk Console.
-- modding APC y esquema APC
-- lista de componentes
-- tabla BOM en markdown
+- Primera vez que logré hacer el circuito Atari Punk Console.
+- Registro del montaje del APC en mi protoboard, realizado durante la clase.
+- Me parece muy interesante todas las modificaciones que se le pueden hacer a este circuito.
+- Modding Atari Punk Console y esquemático Atari Punk Console.
+- Lista de componentes utilizados para el circuito.
+- Tabla BOM (Bill of Materials) en Markdown.
 
-![foto36](https://github.com/user-attachments/assets/5995f2d9-560e-48dd-a5af-a8405a121ccd)
-![tme-foto37](https://github.com/user-attachments/assets/e240235a-298f-4bc4-835e-a55d1a5fce8e)
+![foto](./archivos/foto36.jpeg)
+
+![foto](./archivos/tme-foto37.jpeg)
 
 | Nombre | Cantidad | Componente                    |
 |--------|----------|-------------------------------|
@@ -36,10 +39,11 @@
 
 ### Trabajo en casa
 
-- trabajo en grupo con 08-clifford1one para reintentar hacer el atari punk console.
-- por primera vez siento que entiendo y logro traspasar un esquema a la proboard
-- aprendí a hacer circuitos en tinkercad.
-- conversamos ideas para las modificaciones al APC.
+- Trabajo en grupo con 08-clifford1one para reintentar hacer el Atari Punk Console.
+- Por primera vez siento que entiendo y logro traspasar un esquemático a la protoboard.
+- Aprendí a hacer circuitos en Tinkercad; esto sirve para ir testeando y ordenando los componentes.
+- Conversamos ideas para las modificaciones al Atari Punk Console.
 
-![foto35](https://github.com/user-attachments/assets/26a1ac10-08c3-42ce-b5e6-2549679b955f)
-![foto39](https://github.com/user-attachments/assets/8be02243-0789-46c4-baa5-d28f26ae1c56)
+![foto](./archivos/foto35.jpeg)
+
+![foto](./archivos/foto39.png)
