@@ -2,7 +2,7 @@
 
 ## Trabajo en clase / Martes
 
-### Conociendo el Taller Máquinas eEectrónicas
+### Conociendo el Taller Máquinas Electrónicas
 
 - ¿Qué experiencias hemos tenido con la electrónica?
 - ¿Cuáles son nuestras expectativas para este taller?
