@@ -1,7 +1,5 @@
 # sesion-11a
 
-# Sesión 11a
-
 En esta clase llegue pasado la mitad, por lo que no se que se hizo en la primera parte
 
 En la segunda parte se nos hace la entrega de múltiples piezas con las cuales trabajar a futuro, las cuales son:
