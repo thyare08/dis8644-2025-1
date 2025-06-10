@@ -27,7 +27,7 @@
 
 > muy práctica, ordena elementos y ayuda con presupuestos
 
-# circuitos y actividades
+## circuitos y actividades
 
 ## LQXTLC
 

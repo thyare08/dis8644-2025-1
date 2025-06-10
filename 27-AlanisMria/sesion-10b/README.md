@@ -1,6 +1,6 @@
 # sesion-10b
 
-*16 de Mayo de 2025*
+16 de Mayo de 2025
 
 Siempre debemos posicionar en el bom el orden componentes que soldaremos primero en nuestra placa
 

@@ -53,20 +53,20 @@ atajos
 
 el esquema que hice esta basado en una de las variaciones del proyecto pasado, el cual era la incorporacion de un interruptor al circuito para variar el parlante
 
-__esquematico final hecho en kicad__
+### esquematico final hecho en kicad
 
-<img width="715" alt="image" src="https://github.com/user-attachments/assets/9d5354af-04d2-4b84-9b90-760360470422" />
+![alt-text](https://github.com/user-attachments/assets/9d5354af-04d2-4b84-9b90-760360470422)
 
 (R1 y R2 son resistencias experimentales en este caso LDR, despues de haberlo terminado me di cuenta que me falto la sigla al lado del valor valor del componente TT)
 
 ## 15. dudas + aprendizajes
 
-__dudas__
+### Dudas
 
 - como puedo exportarlo a imagen o como exportarlo para que no pierda claridad y se mas facil de visualizar completo?
 - como puedo organizar mejor la composicion del esquema en tanto a mover datos por ejemplo de la unidad del 555, lo que me complico fue tener que mezclar las conexiones que en un punto me costo bastante ver cual conectaba con cual
 
-__aprendizajes__
+### Aprendizajes
 
 - creo que aprendi una gran herramienta, quizas le tenia un poco de miedo ya que sea veia complicada pero en el proceso lo he encontrado bastante entretenido, ya que siento que estoy armando un puzle, y lo mejor de todo es que lo entiendo lo que veo y hago, asi que es realmente satisfactorio poder hacerlo con mis propias manos 👌
 
@@ -82,24 +82,24 @@ el ___"noise toys"___ que me traje es la version ___"manatees"___ que fisicament
 
 ## acercamiento del ___"noise toys"___ + prueba hecha por mi
 
-__componentes generales__
+componentes generales
   
 ![acercamiento_01](https://github.com/user-attachments/assets/28879c5e-9d3f-4533-8e5f-52c364fff6d6)
 
-__rueda para controlar volumen__
+rueda para controlar volumen
 
 ![acercamiento_02](https://github.com/user-attachments/assets/3f011f08-3708-4c9b-af82-4a08088163f8)
 
-__placa por abajo__
+placa por abajo
 
 ![acercamiento_03](https://github.com/user-attachments/assets/fe3d780d-e441-4a1b-b97a-d59996cff720)
 
-__componentes generales__
+componentes generales
 
 ![acercamiento_04](https://github.com/user-attachments/assets/7d2e5e31-e00d-4f8a-8866-4f0f745f0517)
 
-__funcionamiento__
+funcionamiento
 
-<video src="./archivos/bumwox-loud-toys.mp4" width="320" height="240" controls></video>
+![video](./archivos/bumwox-loud-toys.mp4)
 
 tambien encontre una [guia](https://makezine.com/article/maker-news/how-to-build-the-noise-to/) que nos ayuda a crear un ___"noise toys"___ con detalle de compopnentes, y pasos a seguir para construirlo, que tambien incluye un cast con __"kick pearson"__ el creador de __"make electronic music"___

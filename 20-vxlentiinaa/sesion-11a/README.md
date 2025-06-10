@@ -4,9 +4,9 @@
 
 ## Apuntes
 
-* _Ontología orientada a los objetos (ooo)_: Es  una perspectiva filosófica que sostiene que los objetos son entidades independientes que existen en si mismos. ***Para qué sirve y para qué está hecho***
+* _Ontología orientada a los objetos (ooo)_: Es  una perspectiva filosófica que sostiene que los objetos son entidades independientes que existen en si mismos. _**Para qué sirve y para qué está hecho**_
 
-| Componentes| 
+| Componentes|
 |----|
 |R: resistencias|
 |C: condensadores|
@@ -25,7 +25,7 @@
 |PCB|
 |Perfoard|
 
-|Circuitos| 
+|Circuitos|
 |---|
 |AS -> MS|
 |PWM|
@@ -42,11 +42,12 @@
 * **Motor**: Transforma la energía en movimiento (DC 6V)
 * El motor necesita 600 mA (I) (requiere Amp) y el Chip 555 solo resiste 100 mA
 * Motorreductor, es un motor de velocidad, que permite reducir la velocidad de rotación
-* Transistor Mosfet (IRFZ44N)(Package TO-220): Sirve para amplificar señales electrónicas. Se manda una señal pequeña y el transistor amplifica la señal para "prender/apagar" cosas más grandes 
+* Transistor Mosfet (IRFZ44N)(Package TO-220): Sirve para amplificar señales electrónicas. Se manda una señal pequeña y el transistor amplifica la señal para "prender/apagar" cosas más grandes
 * EL transistor tiene 3 patas porque uno avisa y el otro hace que pase la corriente
 
 * TRAER FUENTES DE ENERGÍA ALTERNATIVAS
-* 
+*
+
 |PS: Power Supply|
 |-----|
 |9v -> Portátil,Accesible,Recargable,Voltaje 9V|

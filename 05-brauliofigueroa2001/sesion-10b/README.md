@@ -1,11 +1,12 @@
 # sesion-10b
-### taller viernes 16 de mayo
 
-**llegué 12 minutos tarde**
+viernes 16 de mayo
 
-### primera parte
+llegué 12 minutos tarde
 
-**navegadores web**
+## primera parte
+
+navegadores web
 
 - cuando llegué a la sala estaban hablando sobre navegadores web, el primero fue chromium. Me llamó la atención porque una vez recuerdo que se me instaló solo chromium en el computador y salía que había reemplazado a google, pensé que era un virus, en realidad nunca supe si lo fue o no
 - chromium es un navegador de fuente abierta, es la versión completa de google
@@ -18,17 +19,19 @@
 - aaron cuando busca algo lo hace de la siguiente manera: !g , esto se usa para ir a google
 - cuando ponemos signo de exclamación y el sitio al que queremos ir, nos dirige automáticamente, por ejemplo : !w (wikipedia) !yt (youtube)
 
-**algunos datos**
+### algunos datos
+
 - la teoría del internet muerto explica que habrían mas robots que humanos en internet, por eso cada vez que entramos a algunos sitios nos preguntan si somos robots o humanos
 - el sistema, enemigo, se maneja automáticamente
 - en china no funciona tiktok, pese a que tiktok es chino, creemos que es por el tipo de contenido que se muestra en tiktok el gobierno chino no quiere que sus jóvenes consuman esto
 - una vez en tiktok apareció una carta de bin laden explicando el motivo del ataque a las torres gemelas y se hizo viral
 
-**LLEGARON LAS PLACAS UDPUDU**
+LLEGARON LAS PLACAS UDPUDU
 
 - hermoso momento, muy bonitas las placas la verdad
 
-**más apuntes**
+## más apuntes
+
 - nos mostraron el concepto de circuit bending
 - es la customización de circuitos de dispositivos electrónicos
 - se usan en juguetes de niños, los circuitos deben ser resistentes y simples
@@ -49,12 +52,12 @@
 
 ### encargo 22: documentación textual del proceso de ensamblado de udpudu
 
-**a continuación se describirán los pasos a seguir para el montaje de ensamblado de udpudu**
+a continuación se describirán los pasos a seguir para el montaje de ensamblado de udpudu
 
 - el primer paso que se realizó fue reunirse en grupos de 4 personas para poder trabajar de manera más rápida y en equipos, la idea es que cada uno realizara una labor
 - como grupo lo primero que hicimos fue revisar el BOM (bill of materials) de udpudu en github, de esta forma reunimos todos los componentes que necesitaban nuestras placas pcb
 - reunimos la cantidad de componentes para que nos alcanzaran para todas las placas de nuestro grupo
-- cada placa necesitaba utilizar: 
+- cada placa necesitaba utilizar:
 - 1 socket de 8 pines
 - 3 resistencias de 1k
 - 1 diodo 1n4007
@@ -70,7 +73,7 @@
 - 1 parlante 8ohm
 - 2 cables caimán
 
- **después de reunir los materiales vamos con los siguientes pasos**
+después de reunir los materiales vamos con los siguientes pasos
 
 - ya con nuestros materiales en mano debemos comenzar a soldar
 - lo primero es calentar el cautín durante al menos 5 minutos, una vez acerquemos la mano y sintamos calor, está listo para ser utilizado
@@ -106,11 +109,3 @@
 6. por último una muestra del avance de las 4 placas, todas con los mismos componentes ya que fuimos 1 a 1
 ![WhatsApp Image 2025-05-19 at 7 34 59 PM](https://github.com/user-attachments/assets/60a1352c-5c93-465a-a3c4-4258dcb6d651)
 ![WhatsApp Image 2025-05-19 at 7 35 06 PM2](https://github.com/user-attachments/assets/22681f15-517b-44f1-ad4f-f1aa3f98513f)
-
-
-
-
-
-
-
-

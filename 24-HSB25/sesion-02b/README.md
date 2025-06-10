@@ -38,7 +38,7 @@ Si reduces la resistencia, la corriente aumenta y el LED brillará más (pero cu
 
 Pero nosotros con mi compañero Martin probamos con una resitencia de 47K, para poder apreciar mucho mas el hecho de que baje la intensidad del Led (ocupamos todos leds de color blanco para poder apreciar las diferencias de cada led)
 
-# Ver Resistencias (6.8k)
+## Ver Resistencias (6.8k)
 
 `Azul` 6
 `Gris` 8

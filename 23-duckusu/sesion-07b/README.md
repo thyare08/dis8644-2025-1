@@ -4,7 +4,7 @@
 
 ## Esquematico de atari punk en Kicad
 
-- archivo: [Uploading atari chip punk (vanilla).kicad_sch…]()
+FOTO NO SUBIDA
 
 ![atpunk](https://github.com/duckusu/dis8644-2025-1/blob/main/23-duckusu/sesion-07b/archivos/atpunk.png)
 

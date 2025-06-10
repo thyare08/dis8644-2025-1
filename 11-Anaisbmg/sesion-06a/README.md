@@ -12,13 +12,13 @@ Con Sofía Cartes, Anais Marschhausen y Valentina Ruz
 
 r1 se cambia por un botón, ademas cambiamos el condensador c1 de 474 por un condensador de 223 y el resultado del sonido fue más grabe y bajito
 
-*condensador 474*
+condensador 474
 
 <https://github.com/user-attachments/assets/916fa235-2f58-4bab-b592-31f0b883e0ec>
 
 ![1 474](https://github.com/user-attachments/assets/d5663b48-1ce3-4ab3-93b8-967ea3ba62d8)
 
-*condensador 223*
+condensador 223
 
 <https://github.com/user-attachments/assets/dcd7b72e-55f0-42f8-b9bb-f3d4dbd10d0f>
 

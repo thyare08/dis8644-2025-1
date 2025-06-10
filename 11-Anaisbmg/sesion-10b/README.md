@@ -22,13 +22,13 @@ proceso:
 2. al soldar debemos tener precaución con componentes para que no quede espacio entre los componentes y la pcb
 3. debemos cortar las patitas bien cerca de la pcb
 
-tips: 
+tips:
 
 - tener precaución al soldar el componente, asegurándose de colocarlo en la posición correcta y evitando el exceso de estaño para prevenir fallas de conexión.
 - limpiar la punta del cautín
 - simpre verificar si esta bien el componente, posición y el valor antes de soldar
 
-bom 
+bom
 
 |Referencia  |Valor   |Huella                   |Qty|OBS               |
 |------------|--------|-------------------------|---|------------------|
@@ -47,7 +47,7 @@ bom
 |Parlante    |8ohm    |                         |1  |                  |
 |J1,J3       |CAIMAN  |Cables caimán            |2  |                  |
 
-*sacado de dis8644-2025-1/00-docentes/sesion-10b/*
+sacado de dis8644-2025-1/00-docentes/sesion-10b/
 
 ## encargo-23: documentación visual del proceso de ensamblado de udpudu
 
@@ -55,13 +55,13 @@ faltan (2 unidades) terminal block de 2 pines e (1 unidad) interruptor de 2 posi
 
 ![bom](https://github.com/Anaisbmg/dis8644-2025-1/blob/main/11-Anaisbmg/sesion-10b/archivos/bom.jpeg)
 
-*foto sacada por santiago*
+foto sacada por santiago
 
-*video desde galeria*
+video desde galeria
 
-https://github.com/user-attachments/assets/81be00b6-38f8-4c94-97c1-c6fb91cc8490
+<https://github.com/user-attachments/assets/81be00b6-38f8-4c94-97c1-c6fb91cc8490>
 
-*link a youtube video*
+link a youtube video
 
 [soldadura.anaisbmg](https://youtube.com/shorts/ZTDDUp5fdoA?feature=share)
 

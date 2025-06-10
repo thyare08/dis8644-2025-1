@@ -37,11 +37,11 @@ En esta tabla O = apagado y I = encendido, de esta forma podemos observar qué L
 
 - **Parte 2:** Con los conocimientos ya aplicados y desarrollados, generar el circuito, BOM, y la tabla de verdad con los siguientes circuitos de forma autónoma.
 
- 1. **Circuito a realizar de forma autónoma:**
+1 **Circuito a realizar de forma autónoma:**
 
 Foto del circuito esquemático 01.
 
-<img width="695" alt="schLearn1" src="https://github.com/user-attachments/assets/acf954b0-d899-4a63-9b24-9abe610d47d4" />
+![schLearn1](https://github.com/user-attachments/assets/acf954b0-d899-4a63-9b24-9abe610d47d4)
 
 Foto del circuito 01.
 
@@ -55,11 +55,11 @@ Foto de tabla de verdad circuito 01.
 
 ![Tabla_verdad_01](https://github.com/user-attachments/assets/ced9458e-cb88-41f4-8cc6-58c4a3202db5)
 
- 2. **Circuito a realizar de forma autónoma:**
+2 **Circuito a realizar de forma autónoma:**
 
 Foto del circuito esquemático 02.
 
-<img width="901" alt="schLearn2" src="https://github.com/user-attachments/assets/c0e27d7b-b4e1-4a40-979d-3f9d89c3a351" />
+![schLearn2](https://github.com/user-attachments/assets/c0e27d7b-b4e1-4a40-979d-3f9d89c3a351)
 
 Foto del circuito 02.
 
@@ -71,11 +71,11 @@ Foto de tabla BOM circuito 02.
 
 Foto de tabla de verdad circuito 02.
 
- 3. **Circuito a realizar de forma autónoma:**
+3 Circuito a realizar de forma autónoma
 
 Foto del circuito esquemático 03.
 
-<img width="848" alt="schLearn3" src="https://github.com/user-attachments/assets/28692c8c-4ccb-4bd5-8665-011f5affc4d5" />
+![schLearn3](https://github.com/user-attachments/assets/28692c8c-4ccb-4bd5-8665-011f5affc4d5)
 
 Foto del circuito 03.
 

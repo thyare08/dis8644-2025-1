@@ -1,6 +1,6 @@
 # sesion-05a
 
-*11 de abril de 2025*
+11 de abril de 2025
 
 forrest mims
 

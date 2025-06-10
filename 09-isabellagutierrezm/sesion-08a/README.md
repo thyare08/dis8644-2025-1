@@ -6,15 +6,16 @@
 
 - Objetivo: avisar al profesor sobre un cambio de bitácora o encargo y ser revisado
   
-1. Vamos al repositorio de diseño udp
+1 Vamos al repositorio de diseño udp
 
 ![repositorio](https://github.com/user-attachments/assets/114d3e24-01f7-41b9-a011-83683555e039)
 
-2. Vamos a donde dice “Issue”
+2 Vamos a donde dice “Issue”
 
 ![issue](https://github.com/user-attachments/assets/edd453ca-7e16-45b6-a35f-590ea958ad5a)
 
-3. Apretamos el icono en verde de “New issue” y elegimos de cuál de los temas queremos informar y listo
+3 Apretamos el icono en verde de “New issue” y elegimos de cuál de los temas queremos informar y listo
+
 ![nuevo issue](https://github.com/user-attachments/assets/24538f58-228c-4e6d-a73b-14a9bdcced4d)
 
 ## 2do bloque: Revisamos diferentes softwares

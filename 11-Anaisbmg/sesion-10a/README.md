@@ -4,44 +4,48 @@
 
 ## clase
 
-### LED RGB 
+### LED RGB
+
 es la combinación de los tres colores primarios rojo (R), verde (G) y azul (B), gracias a esto se puede dar diversos colores.
 
-### OP-AMP 
+### OP-AMP
+
 es un amplificador operacional de alta ganancia, esto se refiere a que es capaz de amplificar significativamente a una pequeña diferencia de voltaje entre sus entradas.
 
 básicamente detecta la diferencia de voltaje entre dos señales y amplifica esa diferencia, con una entrada positiva y otra negativa.
 
 ejemplo: la señal de la entrada positiva es más grande que la negativa, la salida sube mucho y viceversa →  - > + = baja.
 
-### LM 324 
+### LM 324
+
 es un chip de 14 patas, circuito integrado el cual contiene cuatro amplificadores.
 
-### falstad.com 
+### falstad.com
+
 es un simulador de circuitos electrónicos.
 
 divisor de tensión (divisor de voltaje)
-si tengo dos resistencias iguales, estas se dividen a la mitad, entonces 9, llega a 4,5 y luego a 0, esto es si quisiera dividir justo la energía 
+si tengo dos resistencias iguales, estas se dividen a la mitad, entonces 9, llega a 4,5 y luego a 0, esto es si quisiera dividir justo la energía
 
 ## encargo-20: pantallas de siete segmentos
 
 todas las pantallas identificadas fueron encontradas en el campo
 
-**reloj**
+### reloj
 
 ![7segmentosreloj](https://github.com/Anaisbmg/dis8644-2025-1/blob/main/11-Anaisbmg/sesion-10a/archivos/7segmentosreloj.jpeg)
 
-**estufa**
+#### estufa
 
 ![7segmentosestufa](https://github.com/Anaisbmg/dis8644-2025-1/blob/main/11-Anaisbmg/sesion-10a/archivos/7segmentosestufa.jpeg)
 
-**parlante**
+#### parlante
 
 ![7segmentosparlante](https://github.com/Anaisbmg/dis8644-2025-1/blob/main/11-Anaisbmg/sesion-10a/archivos/7segmentosparlante.jpeg)
 
 ## encargo-21: simulación de circuitos con 555 y/o comparadores hechos con opamps en Falstad
 
-**PWM**
+### PWM
 
 ![pwm.falstad](https://github.com/Anaisbmg/dis8644-2025-1/blob/main/11-Anaisbmg/sesion-10a/archivos/pwm.falstad.png)
 
@@ -86,7 +90,7 @@ w 1296 336 1296 368 0
 
 ```
 
-**circuito atari punk console**
+## circuito atari punk console
 
 ![apc.falstad](https://github.com/Anaisbmg/dis8644-2025-1/blob/main/11-Anaisbmg/sesion-10a/archivos/apc.falstad.png)
 
@@ -147,7 +151,7 @@ g 1632 480 1632 608 0 0
 
 ```
 
-**variación de circuito atari punk console**
+## variación de circuito atari punk console
 
 Grupo 1
 

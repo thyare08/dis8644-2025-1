@@ -36,19 +36,19 @@
 
 ### Ejercicio 1
 
-<img width="695" alt="Ejercicio 1" src="https://github.com/user-attachments/assets/8837e565-9329-4460-84f7-1c6dbc3c1857" />
+![Ejercicio 1](https://github.com/user-attachments/assets/8837e565-9329-4460-84f7-1c6dbc3c1857)
 
 ![Img c4](https://github.com/user-attachments/assets/8cd82363-6df8-4879-b362-e8f67a016510)
 
 ### Ejercicio 2
 
-<img width="901" alt="Ejercicio 2" src="https://github.com/user-attachments/assets/1b97342e-6d6d-4b52-8aca-18a84db79111" />
+![Ejercicio 2](https://github.com/user-attachments/assets/1b97342e-6d6d-4b52-8aca-18a84db79111)
 
 ![ejercicio 2](https://github.com/user-attachments/assets/fa5e2113-7f1e-4173-958c-0bce030db272)
 
 ### Ejercicio 3
 
-<img width="848" alt="Ejercicio 3 " src="https://github.com/user-attachments/assets/59d27a30-d9d5-406b-be94-f33a7722d34e" />
+![Ejercicio 3](https://github.com/user-attachments/assets/59d27a30-d9d5-406b-be94-f33a7722d34e)
 
 ![ej 3 ](<https://github.com/user-attachments/assets/1fad9e12-4489-401e-9045-e2eadad37bae>
 

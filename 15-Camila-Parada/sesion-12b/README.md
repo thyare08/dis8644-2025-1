@@ -1,6 +1,6 @@
 # ⋆₊˚⊹♡ Clase  12b - Circuitos para un proyecto ♡⊹˚₊⋆
 
-_Viernes 30/05/2025_
+Viernes 30/05/2025
 
 ***
 
@@ -10,8 +10,8 @@ _Viernes 30/05/2025_
 - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet 
 - https://www.markdownguide.org/basic-syntax/--->
 
-Este día no quería ir. Dado que se ha vuelvo a alterar mi vida personal no tenía mucha energía para poder ir. Al final me obligué a ir, y llegué justo a tiempo. 
-De la información que alcancé a recapitular fue la obra ["Summer" (2013) de Olia Lialina](https://rhizome.org/editorial/2013/aug/8/olia-lialina-summer-2013/): en esta se observa que a medida que se va recargando la página web una mujer se va comulpiando. Tras ello se comenzó a hablar del artista chileno [Cristian Oyarzún](https://www.error404.cl/coyarzun.htm) y de sus obras digitales perdidas que fueron recuperadas gracias a un fondart. Otro proyecto destacado fue [Posternura Records](https://posternurarecords.cl/). Se habló de las diferencias entre sonidos digitales hechos con ["General midi"](https://es.wikipedia.org/wiki/General_MIDI) y [Virtual Studio Technology](https://en.wikipedia.org/wiki/Virtual_Studio_Technology), los eventos de [Algorave](https://en.wikipedia.org/wiki/Algorave), los softeare [Traktor](https://en.wikipedia.org/wiki/Traktor) y [Sonic Pi](https://sonic-pi.net/). 
+Este día no quería ir. Dado que se ha vuelvo a alterar mi vida personal no tenía mucha energía para poder ir. Al final me obligué a ir, y llegué justo a tiempo.
+De la información que alcancé a recapitular fue la obra ["Summer" (2013) de Olia Lialina](https://rhizome.org/editorial/2013/aug/8/olia-lialina-summer-2013/): en esta se observa que a medida que se va recargando la página web una mujer se va comulpiando. Tras ello se comenzó a hablar del artista chileno [Cristian Oyarzún](https://www.error404.cl/coyarzun.htm) y de sus obras digitales perdidas que fueron recuperadas gracias a un fondart. Otro proyecto destacado fue [Posternura Records](https://posternurarecords.cl/). Se habló de las diferencias entre sonidos digitales hechos con ["General midi"](https://es.wikipedia.org/wiki/General_MIDI) y [Virtual Studio Technology](https://en.wikipedia.org/wiki/Virtual_Studio_Technology), los eventos de [Algorave](https://en.wikipedia.org/wiki/Algorave), los softeare [Traktor](https://en.wikipedia.org/wiki/Traktor) y [Sonic Pi](https://sonic-pi.net/).
 Luego se habló de las problematicas de la información y privacidad que uno posee, que permiten acceder mediante rastreo los movimientos de la página web de la bip! (lugares en el que se usó, colegio o istitucion perteneciente, etc.) o el carnet de identidad, por ello saltamos al documental [Joshua: Adolescente vs. Superpotencia (2017)](https://en.wikipedia.org/wiki/Joshua:_Teenager_vs._Superpower). Más referentes son [Twitter and tear gas](https://es.wikipedia.org/wiki/Twitter_and_tear_gas), [Anillo web / web ring](https://es.wikipedia.org/wiki/Anillo_web), [WeiweiCam](https://en.wikipedia.org/wiki/WeiweiCam), [Domestic Tension (2017)](https://wafaabilal.com/domestic-tension/), [La privamera Hacker - Chile](https://phacker.org/).
 
 ***
@@ -38,14 +38,9 @@ Luego se habló de las problematicas de la información y privacidad que uno pos
 
 - Pantallas solares:
 
-#### 
-
-<br>
-
+####
 
 [Demasled](https://www.demasled.cl/)
-
-<br>
 
 ***
 
@@ -57,26 +52,18 @@ Cómo primera idea se me ocurrió un objeto de dimenciones pequeñas (que no sob
 
 ![image](https://github.com/user-attachments/assets/bc6d79c3-1434-4591-97e6-ecf1c515856d)
 
-_▼ Sensor Pulso Cardiaco Corazón. Recuperado de: https://afel.cl/products/sensor-pulso-cardiaco-corazon?variant=45125252087960_
+_▼ Sensor Pulso Cardiaco Corazón. Recuperado de: <https://afel.cl/products/sensor-pulso-cardiaco-corazon?variant=45125252087960>_
 
-<br>
+2 SINTETIZADOR VERDE: MÚSICA DESDE LAS RAICES
 
-2. SINTETIZADOR VERDE: MÚSICA DESDE LAS RAICES
-
-Otra ideda que me gustaría realizar sería un sintetizador más complejo que trabaje con plantas para crear pistas de música. Para ello me interesa el poder grabar sonidos base que sean producidos por las frecuencias de energía de cada planta. La idea es poder hacer una mezcla del Atari Punk console y el circuito PWM más complejo, que no sólo trabaje en vivo con un "ser vegetal", sino que pueda hacer pequeñas piezas sonoras que queden registradas. Esta idea se inspira en todos los sintetizadores que hemos visto y que han traído, pero con la inspiración de conectar lo digital con lo natural. Esta idea se inspira en el [Google Doodle de Oskar Fischinger’s de 2017](https://www.google.com/logos/doodles/2017/fischinger/fischinger17.9.html?hl=es-419), el cuál muestra que componer pequeñas piezas de sonido puede ser divertido. Un video que muestra en funcionamiento: https://www.youtube.com/watch?v=izFtLmpxEMc&ab_channel=CharlesDWright. La idea necesita aclararse más.
+Otra ideda que me gustaría realizar sería un sintetizador más complejo que trabaje con plantas para crear pistas de música. Para ello me interesa el poder grabar sonidos base que sean producidos por las frecuencias de energía de cada planta. La idea es poder hacer una mezcla del Atari Punk console y el circuito PWM más complejo, que no sólo trabaje en vivo con un "ser vegetal", sino que pueda hacer pequeñas piezas sonoras que queden registradas. Esta idea se inspira en todos los sintetizadores que hemos visto y que han traído, pero con la inspiración de conectar lo digital con lo natural. Esta idea se inspira en el [Google Doodle de Oskar Fischinger’s de 2017](https://www.google.com/logos/doodles/2017/fischinger/fischinger17.9.html?hl=es-419), el cuál muestra que componer pequeñas piezas de sonido puede ser divertido. Un video que muestra en funcionamiento: <https://www.youtube.com/watch?v=izFtLmpxEMc&ab_channel=CharlesDWright>. La idea necesita aclararse más.
 
 ![image](https://github.com/user-attachments/assets/9f77d402-d8ff-4ead-b9ab-722fbd15b071)
 _▼ Captura del Doodle en función._
 
-<br>
-
-
-
 ***
 
 ### Encargo 25: Diagramas, flujos y especulaciones a considerar
-
-<br>
 
 ***
 

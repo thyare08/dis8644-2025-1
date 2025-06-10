@@ -1,6 +1,6 @@
 # sesion-12b
 
-# IDEA  PRINCIPAL ENCARGO TALLER
+## IDEA  PRINCIPAL ENCARGO TALLER
 
 La idea trata de un pequeño robot con ruedas inspirado en la forma de un pokemon (Phantump) mediante impresion 3D, el cual reacciona al nivel de luz usando dos sensores LDR colocados a cada lado, teniendo el objetivo de moverse hacia la zona con menos luz, a modo de escape de la luz, para buscar un escondite. Cuando el robot detecta que hay mucha luz, este enciende un LED rojo fuerte a modo de advertencia.
 
@@ -15,4 +15,3 @@ Imagen de referencia de la forma del robot:
 Dispositivo el cual tiene un pulso y puede latir al ritmo de los sonidos que tenga cerca, mediante LDR y LEDs, enfocado mas hacia la musica y sonidos de percusion. Parecido al "Donda Stem Player"
 
 ![image](https://github.com/user-attachments/assets/5ebbf881-3adb-41ec-9191-2ae6e69a7538)
-

@@ -37,7 +37,7 @@ armado del circuito posterior al de la semana pasada (me perdí el de la semana 
 
 ![atariPunk_v1](<https://github.com/user-attachments/assets/8f7c5e69-a4e9-421e-99f5-290d514b93e8>
 
-  **tipeos, cosas aprendidas durante el armado del circuito**
+### tipeos, cosas aprendidas durante el armado del circuito
 
 - Los capacitores suman su valor si los pongo en paralelo.
 - Si cambio los capacitores por uno de más valor, el sonido es más grave, en cambio, si el valor de los capacitores es menor, el sonido será más agudo.

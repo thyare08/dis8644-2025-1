@@ -8,7 +8,7 @@ Martes 13 de Mayo del 2025.
 - juntarse entre 3, c/u con un LED rojo, verde o azul.
 - combinar colores.
 
-**Primer circuito esquematico diseñado en KiCad**
+Primer circuito esquematico diseñado en KiCad
 
 ![primer circuito realizado en kicad](./archivos/primer_circuito_kicad.png)
 
@@ -36,33 +36,33 @@ Ejemplo:
 
 ![foto tomada por thyare santander](./archivos/negocio_republica.jpg)
 
-*FotografÍa tomada por mi compañera de taller Thyare Santander el 13/05 en el negocio al lado de la FAAD (no recuerdo como se llama :( )*
+FotografÍa tomada por mi compañera de taller Thyare Santander el 13/05 en el negocio al lado de la FAAD (no recuerdo como se llama :( )
 
 También el sistema de siete segmentos está diseñado para números, pero no para letras, por eso algunas no son compatibles y hacen confundir a un número y a veces, no se puede distinguir. Aquí tenemos los números y las letras del alfabeto latino.
 
 ![captura wikipedia numeros siete segmentos](./archivos/numeros_siete_segmentos.png)
 
-Imagen rescada de wikipedia https://es.wikipedia.org/wiki/Visualizador_de_siete_segmentos
+Imagen rescada de wikipedia <https://es.wikipedia.org/wiki/Visualizador_de_siete_segmentos>
 
 ![captura wikipedia abecedario latino](./archivos/abecedario_siete_segmentos.png)
 
-Imagen rescada de wikipedia https://es.wikipedia.org/wiki/Visualizador_de_siete_segmentos
+Imagen rescada de wikipedia <https://es.wikipedia.org/wiki/Visualizador_de_siete_segmentos>
 
 ## Encargo 20: pantallas de siete segmentos
 
-**IMAGEN 1**
+IMAGEN 1
 
 ![foto microondas](./archivos/microondas_siete_segmentos.jpg)
 
 fue capturada el 14/05 en mi casa.
 
-**IMAGEN 2**
+IMAGEN 2
 
 ![foto estufa](./archivos/estufa_siete_segmentos.jpg)
 
 fue capturada el 15/05 en mi casa.
 
-**IMAGEN 3**
+IMAGEN 3
 
 ![foto refrigerador](./archivos/refrigerador_siete_segmentos.jpg)
 

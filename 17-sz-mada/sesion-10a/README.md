@@ -44,7 +44,7 @@ Circuito PWM en falstad
 
 ![pwm en falstad](./archivos/pwm_falstad.png)
 
-```
+```txt
 $ 1 0.000005 10.20027730826997 50 5 43 5e-11
 R 320 160 320 96 0 0 40 9 0 0 0.5
 w 352 416 352 352 0

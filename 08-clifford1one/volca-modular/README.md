@@ -1,7 +1,5 @@
 # Manual de uso  para el volca modular
 
-
-
 ## Contexto
 
 Un sintetizador es un instrumento musical electrónico que **genera señales eléctricas**, las cuales son **convertidas a sonido audible** a través de un altavoz.
@@ -22,7 +20,6 @@ Dentro del volca modular existen 8 módulos independientes con funciones especí
 
 Para afinar usar *FUNC* + *RATIO knob*
 
-
 ## Interfaz
 
 ![Diagrama de la interfaz del volca modular divido en 4 zonas](images/vm-intfaz-diagrama.png)
@@ -30,7 +27,6 @@ Para afinar usar *FUNC* + *RATIO knob*
 ### 1. setup
 
 Compuesto por el **botón de encendido**, la entrada a corriente y **CLOCK knob.** Este último controla la velocidad del secuenciador.
-
 
 ### 2. módulos del volca modular
 
@@ -63,8 +59,8 @@ el volca modular contiene una serie de entradas y salidas mini jack
 
 - **Jacks SYNC IN, SYNC OUT:** Permiten la sincronización con dispositivos externos.
 
-    - - IN: cuando esté conectado ignorará el reloj interno propio del volca modular. 
-    - - OUT: manda señales de 5V el comienzo de cada step.
+  - - IN: cuando esté conectado ignorará el reloj interno propio del volca modular.
+  - - OUT: manda señales de 5V el comienzo de cada step.
     -c:cambiar reloj por temporizador o clock-
 
 Salida de audífonos: al conectar audífonos el parlante del dispositivo dejará de sonar.
@@ -77,14 +73,14 @@ Salida de audífonos: al conectar audífonos el parlante del dispositivo dejará
 
 El proceso que lleva a cabo el volca modular consta de 8 módulos independientes e intercontables a través de cables dupont. Esto permite una variedad muy amplia de posibles sonidos.
 
-*el volca modular tiene sus propias conexiones internas las cuales funcionan solo cuando no hay cables externos conectados*
+> el volca modular tiene sus propias conexiones internas las cuales funcionan solo cuando no hay cables externos conectados
 
 ### interfaz
 
-Cada módulo cuenta con sus propias entradas(IN) y salidas(OUT). Éstas se diferencian por su contorno. 
+Cada módulo cuenta con sus propias entradas(IN) y salidas(OUT). Éstas se diferencian por su contorno.
 
 Contorno con relleno = OUT
-contorno sin relleno = IN 
+contorno sin relleno = IN
 
 ![diagrama de partes con y sin contorno](images/vm-contorno-diagrama.png)
 
@@ -101,10 +97,9 @@ los modulos se comunican mediante señales que varían entre 3V y -3V. el volca 
 
 ![diagrama de partes con y sin contorno](images/vm-modulos-color.png)
 
-##### source(verde): 
+#### source(verde)
 
-![](images/vm-source-diagram.png)
-
+![alt-text](images/vm-source-diagram.png)
 
 "Este módulo consta de un par de VCO triangulares (osciladores controlados por voltaje), uno llamado “carrier” (transportador) y el otro “modulator” (modulador). La señal generada por el modulador se utiliza para variar la frecuencia del transportador, y este proceso se denomina modulación de frecuencia (FM). La modulación de frecuencia permite a los usuarios crear sonidos con gran riqueza de contenido armónico, y frecuentemente con una característica metálica. La señal de salida pasa después a través de un circuito doblador de ondas controlado por el mando FOLD que invierte la forma de la onda a ciertos umbrales con el fin de aumentar aún más el contenido armónico."
 
@@ -114,7 +109,7 @@ los modulos se comunican mediante señales que varían entre 3V y -3V. el volca 
 
 #### function(azul)
 
-![](images/vm-functions-diagram.png)
+![alt-text](images/vm-functions-diagram.png)
 
 **AHR** (parte izquierda):
 
@@ -143,7 +138,7 @@ modulación continua, de manera similar a un LFO."
 
 #### sequences (rosado)
 
-![](images/vm-clock-diag.png)
+![alt-text](images/vm-clock-diag.png)
 
 "Este módulo es la interfaz con el secuenciador
 interno.
@@ -162,7 +157,7 @@ secuenciador en +/- 20 BPM."
 
 #### woggle (morado)
 
-![](images/vm-woggle-diag.png)
+![alt-text](images/vm-woggle-diag.png)
 
 "Este módulo es un circuito de muestreo y mantenimiento (sample
 and hold) predeterminado para muestrear una fuente de ruido
@@ -179,7 +174,7 @@ suave en vez de saltar inmediatamente al siguiente valor muestreado."
 
 #### split (amarillo)
 
-![](images/vm-split-diag.png)
+![alt-text](images/vm-split-diag.png)
 
 "Este módulo duplica una entrada a dos salidas diferentes, de modo que una señal
 pueda ser dividida y conectada a más de una salida. También es posible utilizar este
@@ -191,7 +186,7 @@ combinando dos señales de control o de audio en una."
 
 #### dual LPG (rojo)
 
-![](images/vm-dualLpg-diag.png)
+![alt-text](images/vm-dualLpg-diag.png)
 
 "Estos son dos circuitos de puerta de paso bajo
 individuales que consisten en la combinación de un
@@ -207,7 +202,7 @@ mediante el mando CUTOFF."
 
 #### utility (naranjo)
 
-![](images/vm-utility-diag.png)
+![alt-text](images/vm-utility-diag.png)
 
 "Este módulo permite combinar y atenuar las señales
 de varias maneras. 'c' se utiliza para atenuar la entrada 'b', y el resultado se suma a
@@ -221,7 +216,7 @@ puede aplicar una compensación de voltaje fija a 'a' controlando el valor de 'c
 
 #### space out
 
-![](images/vm-spaceOut-diag.png)
+![alt-text](images/vm-spaceOut-diag.png)
 
 "Este módulo aplica un efecto espacial digital a la señal de
 audio de entrada y envía el audio al jack de auriculares y
@@ -233,7 +228,6 @@ entrada."
 - OUT: audio
 
 ![referencia de los pines](images/vm-moduleReference1.png)
-
 
 ### patchs
 
@@ -273,12 +267,11 @@ Una onda triangular con el tono disminuido suena con una frecuencia baja mediant
 
 ![ejemplo "Vibrato"](images/vm-example7.png)
 
-El LFO se utiliza para modular ligeramente el tono de una onda triangular, lo que permite tocar un suave sonido solista que recuerda sonoridades de cuerdas solistas. 
+El LFO se utiliza para modular ligeramente el tono de una onda triangular, lo que permite tocar un suave sonido solista que recuerda sonoridades de cuerdas solistas.
 
 ![ejemplo "Dubsteo Bass"](images/vm-example8.png)
 
 El LFO modula el corte de la puerta de paso bajo, haciendo que suene un bajo FM con una sensación de movimiento. UTILITY y SPLIT se utilizan para reducir la velocidad del LFO cuanto más bajo sea el tono.
-
 
 Cuando quieres compartir y/o replicar un patch específico, es importante documentarlo. Si bien la página del volca modular propone estos diagramas para documentar los patch, hay una simbología que se propone en el libro "Patch and Weaks" que vale la pena mencionar.
 
@@ -295,11 +288,10 @@ Muchas de las funciones del volca modular se encuentran ocultas en esta sección
 
 ### asignar notas
 
-FUNC+STEP REC(grabación en STEP[1]) 
+FUNC+STEP REC(grabación en STEP[1])
  >> STEP[1-16](asignar nota a STEP[1])
  >> STEP REC (asignar silencio)
  >> ACT STEP(reproducir nota ya asignada)
-
 
 ### guardar secuencias
 
@@ -308,7 +300,6 @@ FUNC+MEMORY > STEP[1-16](guarda secuencia en STEP[1-16])
 ### reproducir secuencias guardadas
 
 MEMORY+STEP[1-16](seleccionar secuencia guardada en *STEP[1-16]*) >> *ACT STEP* (reproducir secuencia seleccionada)
-
 
 ### *FUNC*
 
@@ -319,7 +310,6 @@ las funciones avanzadas se desbloquean con el uso de *FUNC*
 *FUNC* + *RATIO knob* (ajustar afinación global del oscilador)
 
 para ver el resto de funciones especiales visitar el ["manual de uso del volca modular "](https://cdn.korg.com/jp/support/download/files/8a84fea394a4519c822e68f28ac5ab3b.pdf)
-
 
 ## Referencias
 

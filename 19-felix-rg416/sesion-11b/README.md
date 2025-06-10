@@ -7,15 +7,15 @@
 
 ## lógica
 
- - secuaecial - el tiempo es importante
- - conbinacional  - seudo simultáneo
+- secuaecial - el tiempo es importante
+- conbinacional  - seudo simultáneo
 
-# 555
+## 555
 
 - pin 3 --> pin clk del 4017
-- pin 4 **reset** - espera recibir voltaje positivo - se puedde conectar a un 4017 
+- pin 4 **reset** - espera recibir voltaje positivo - se puedde conectar a un 4017
 
-# 4017
+## 4017
 
 los circuitos integrados 40xx, son una serie de cirtuitos que hacen funciones distintas
 
@@ -29,7 +29,7 @@ los circuitos integrados 40xx, son una serie de cirtuitos que hacen funciones di
 - pin 12 **Cout** - carry
 - pin 2 al 11 (sin el 8)
 
-# secuencia de LED
+## secuencia de LED
 
 4017 manejado por un 555 se usa como timer para hacer una secuencia de luces
 
@@ -43,6 +43,6 @@ en el segundo 555 puse un potenciómetro B500K con una resistencia de 10k
 
 ![LEDsequence](./archivos/LEDsequence.jpg)
 
-## USB A 
+## USB A
 
 sí o sí hay un cable positivo y otro negativo (rojo y negro)

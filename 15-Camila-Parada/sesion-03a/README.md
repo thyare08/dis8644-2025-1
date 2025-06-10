@@ -1,20 +1,18 @@
 # ⋆₊˚⊹♡ Clase 03a - Conociendo el chip 555 ♡⊹˚₊⋆
 
-##### _Martes 25/03/2024_
+Martes 25/03/2024
 
 ***
 
-### Registro visual de la bitácora y la clase
+## Registro visual de la bitácora y la clase
 
-<br>
-<img src="./image/IMG_0067.jpeg">
-<br>
-<img src="./image/IMG_0066.jpeg">
-<br>
-<img src="./image/IMG_0065.jpeg">
-<br>
-<img src="./image/IMG_0064.jpeg">
-<br>
+![alt-text](./archivos/IMG_0067.jpeg)
+
+![alt-text](./archivos/IMG_0066.jpeg)
+
+![alt-text](./archivos/IMG_0065.jpeg)
+
+![alt-text](./archivos/IMG_0064.jpeg)
 
 ***
 
@@ -24,21 +22,13 @@
 
 ### Encargo 06: ¿"Einstürzende neubauten" o "Stereolab"?
 
-<br>
-
 Texto texto texto
-
-<br>
 
 ***
 
 ### Encargo 07: Expansión sobre el Chip 555
 
-<br>
-
 Texto texto texto
-
-<br>
 
 ***
 
@@ -48,4 +38,4 @@ Voy rehaciedo todo poco a poco... aunque cueste ( ͡❛ ㅅ ͡❛)
 
 ***
 
-##### _°˖✧◝(⁰▿⁰)◜✧˖°_
+°˖✧◝(⁰▿⁰)◜✧˖°

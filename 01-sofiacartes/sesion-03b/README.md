@@ -23,23 +23,23 @@ La idea de ellos era hacer conocida la música electrónica en Sudamerica y expe
 
 Obtuvieron una buena reseña en Chile y se popularizó por otros artistas también.
 
-_"Para septiembre del mismo año el grupo se oía en las radios chilenas con la cumbia "La pollera colorá", popularizada hacía décadas por la cantante colombiana (asentada en Chile) Amparito Jiménez. Y el único disco de Gonzalo Martínez, Gonzalo Martínez y sus congas pensantes (1997), apareció en octubre con versiones de las cumbias "La pollera amarilla", "La piragua" (difundida por Luisín Landáez), "Soledad", "Tiburón", "El barco" y "Cumbia algarrobera"; además de tres canciones originales: "La cumbia triste", de González; "¡Guapa!", de Dandy Jack ; y "La cumbia del pepino", de ambos."_
+"Para septiembre del mismo año el grupo se oía en las radios chilenas con la cumbia "La pollera colorá", popularizada hacía décadas por la cantante colombiana (asentada en Chile) Amparito Jiménez. Y el único disco de Gonzalo Martínez, Gonzalo Martínez y sus congas pensantes (1997), apareció en octubre con versiones de las cumbias "La pollera amarilla", "La piragua" (difundida por Luisín Landáez), "Soledad", "Tiburón", "El barco" y "Cumbia algarrobera"; además de tres canciones originales: "La cumbia triste", de González; "¡Guapa!", de Dandy Jack ; y "La cumbia del pepino", de ambos."
 
 información sacada de: <https://www.musicapopular.cl/grupo/gonzalo-martinez/#:~:text=Los%20nombres%20de%20sus%20dos,tarde%20se%20volver%C3%ADa%20tendencia%20mundial.>
 
 ### Encargo09: apuntes sobre visita al museo de arte contemporáneo
 
-**"Museo en estéreo"**
+"Museo en estéreo"
 
 el sonido como medio en caminatas, la obra era interactiva con el visitante mediante los sonidos, los cuales eran un intercambio auditivo. Se logra entender como la percepción del espacio a través de herramientas digitales y experimentación auditiva.
 
-**"Ecosistemas y paisajes mediados"**
+"Ecosistemas y paisajes mediados"
 
 Alude a los videos performaticos y registros sobre la exploración entre la relación del entorno y la tecnología. ¿cómo los paisajes y ecosistemas pueden ser reinterpretados a través de medios electrónicos?
 
 mediante sensores, proyecciones y paisajes sonoros digitales.
 
-**"Bordes Fluidos"**
+"Bordes Fluidos"
 
 Combinaron tecnología y medios digitales con enfoque a la memoria, identidad y territorio, utilizando videos y audios. Percepción sensorial y emocional dentro de la electrónica.
 

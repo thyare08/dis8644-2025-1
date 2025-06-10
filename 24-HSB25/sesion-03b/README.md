@@ -14,7 +14,7 @@ La propuesta del disco Gonzalo Martínez influyó en la escena musical chilena a
 
 ![GONZALOMARTINEZ](https://scontent.fscl38-1.fna.fbcdn.net/v/t39.30808-6/475486496_1162041572593517_7420405655827928993_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=4Zr2g-s50CcQ7kNvgE8xCEQ&_nc_oc=AdmG_-XA_sahQkN0XnfYlG5JbWFEsmbA6e5ZH1eRwjfVeGtiUideZra246LBCsorqmU&_nc_zt=23&_nc_ht=scontent.fscl38-1.fna&_nc_gid=HUTpRUVy8DjsL4-4t6RlOw&oh=00_AYEmSmvZcCaF9POvoCOi0relk4qYQnzDsS9ckYsGpbC2yw&oe=67F0DB3E)
 
-# encargo-09: Visita al Museo de Arte Contemporáneo
+## encargo-09: Visita al Museo de Arte Contemporáneo
 
 ![museo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Museo_de_Arte_Contempor%C3%A1neo%2C_Santiago_20230305_01.jpg/960px-Museo_de_Arte_Contempor%C3%A1neo%2C_Santiago_20230305_01.jpg)
 

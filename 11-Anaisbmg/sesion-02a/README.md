@@ -99,9 +99,9 @@ v=i:r
 ¿Qué significa cada banda?
 
 1. indica el primer dígito del valor.
-3. indica el primer dígito del valor.
-4. es el multiplicador
-5. tolerancia que puede variar
+2. indica el primer dígito del valor.
+3. es el multiplicador
+4. tolerancia que puede variar
 
 experimentación
 

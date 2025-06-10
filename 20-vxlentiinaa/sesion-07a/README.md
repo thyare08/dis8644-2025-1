@@ -40,7 +40,7 @@
 
 Variación de Atari Punk Console
 
-<img width="1346" alt="APC" src="https://github.com/user-attachments/assets/c0d6fcf5-a430-4ba8-a61a-db72f32f60f8" />
+![alt-text](https://github.com/user-attachments/assets/c0d6fcf5-a430-4ba8-a61a-db72f32f60f8)
 
 ## encargo-15
 

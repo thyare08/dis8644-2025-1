@@ -14,7 +14,7 @@
 
 ***
 
-### Proyecto 01
+## Proyecto 01
 
 1. funcionamiento explicado en texto (premisa, declaración inicial)
 

@@ -2,10 +2,10 @@
 
 13 de Mayo de 2025.
 
-## Trabajo en clases 1:
+## Trabajo en clases 1
 
- - Armar circuito **PWM** (Pulse Width Modulation)
- - Juntar LEDs rojo, verde y azul y combinar colores.
+- Armar circuito **PWM** (Pulse Width Modulation)
+- Juntar LEDs rojo, verde y azul y combinar colores.
 
 Foto esquemático PWM.
 
@@ -15,13 +15,13 @@ Foto del circuito PWM en protoboard.
 
 ![Circuito Pulse Width Modulation en protoboard](./archivos/PWM_protoboard.jpg)
 
-## Pantallas de 7 segmentos:
+## Pantallas de 7 segmentos
 
 ¿Qué son?
 
- - La pantalla de 7 segmentos es un aparato electrónico que utiliza 7 segamnetos LED que se pueden encender o apagar de manera individual para representar números del 0 al 9 en un formato de cifras arábigas.
+- La pantalla de 7 segmentos es un aparato electrónico que utiliza 7 segamnetos LED que se pueden encender o apagar de manera individual para representar números del 0 al 9 en un formato de cifras arábigas.
   
- - Este sistema está diseñado para números, no para letras. Esto es debido a que algunas letras no son compatibles y se pueden llegar a confundir con números.
+- Este sistema está diseñado para números, no para letras. Esto es debido a que algunas letras no son compatibles y se pueden llegar a confundir con números.
 
 Foto alfabeto sistema arábigo en 7 segmentos.
 
@@ -31,7 +31,7 @@ Foto rescatada de [edupython](https://edupython.blogspot.com/2015/04/visualizado
 
 ## Apuntes de clase: Falstad
 
- - **Falstad** es un simulador de circuitos, pensada especialmente para estudiantes. 
+- **Falstad** es un simulador de circuitos, pensada especialmente para estudiantes.
 
 Al abrir Falstad podemos ver automáticamente el circuito **RESONADOR RCL**
 
@@ -41,7 +41,7 @@ Foto resonador RCL.
 
 Para agregar un nuevo circuito para simular, debemos de presionar "Archivo" > "Importar desde archivo de texto..." > Pegamos el texto .txt que copiamos con la información del nuevo circuito > "OK" > Listo!
 
- - Código agregado: Divisor de voltaje con potenciómetro.
+- Código agregado: Divisor de voltaje con potenciómetro.
 
 ```txt
 $ 1 0.000005 10.20027730826997 50 5 50 5e-11
@@ -71,7 +71,7 @@ Foto circuito divisor de voltaje con potenciómetro en Falstad.
 
 ![Foto circuito divisor de voltaje con potenciómetro en falstad](./archivos/divisor_voltaje_falstad.png)
 
-## Trabajo en clases 2:
+## Trabajo en clases 2
 
 Tomar fotografías de pantallas con 7 segmentos que encontremos en la FAAD o alrededores y subirlas a discord.
 
@@ -103,13 +103,13 @@ Ubicación: Mi casa.
 
 ## Encargo 21: Simulación de circuitos con 555 y/o comparadores hechos con opamps en Falstad
 
- - Realizar algún circuito realizado en clases con el chip555.
+- Realizar algún circuito realizado en clases con el chip555.
 
 Foto circuito PWM en Falstad.
 
 ![Foto circuito PWM en falstad](./archivos/PWM_falstad.png)
 
-**Código .txt PWM**
+Código .txt PWM
 
 ```txt
 $ 1 0.000005 10.20027730826997 50 5 50 5e-11

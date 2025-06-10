@@ -12,15 +12,13 @@ Consecuentemente nos entregaron como muestra los siguientes artilugios:
 
 ![materiales](https://github.com/duckusu/dis8644-2025-1/blob/main/23-duckusu/sesion-09b/archivos/materiales.png)
 
-###
-
 ## **Comienzo de clase**
 
 Como ninguno (yo incluido) trajo su caja mágica a la clase nos dedicamos a hablar de los contenidos a un nivel más teórico, con ello, englobando la electrónica en general.
 
 ![pizarra](https://github.com/duckusu/dis8644-2025-1/blob/main/23-duckusu/sesion-09b/archivos/pizarra.jpg)
 
-# RECESO de 15 minutos
+## RECESO de 15 minutos
 
 ## Regreso a clases
 
@@ -34,8 +32,6 @@ Como ninguno (yo incluido) trajo su caja mágica a la clase nos dedicamos a habl
 
 ![proto](https://github.com/duckusu/dis8644-2025-1/blob/main/23-duckusu/sesion-09b/archivos/proto.png)
 
-###
-
 - Al desarrollar la protoboard, se optó por cambiar los diodos por condensadores y los ceramicos de 100 por unos de 473 para que fuera más notorio el funcionamiento del circuito PWM, por ello se dieron los resultados del siguiente video.
 
 - Link del video: <https://youtu.be/K1TGlEYi-z4?si=7yJn56YzCrBxILIr>
@@ -45,8 +41,6 @@ Como ninguno (yo incluido) trajo su caja mágica a la clase nos dedicamos a habl
 ### Laurie Anderson
 
 ![lawrie](https://github.com/duckusu/dis8644-2025-1/blob/main/23-duckusu/sesion-09b/archivos/lawrie.png)
-
-###
 
 - Es una artista estadounidense, la cual es conocida por sus trabajos en la mezcla musical, trabajos tecnológicos y las artes visuales con ello demostrando que es multidisciplinaria en el ámbito del arte. Nacida en el año 1947, es conocida como una de las artistas más influyentes del arte experimental y electrónico.
 

@@ -32,7 +32,7 @@ En algunas composiciones se utiliza el violín y el contrabajo pero de forma no 
 
 ## Portada del álbum
 
-<img width="159" alt="ww2w" src="https://github.com/user-attachments/assets/a9ec0742-9dd7-42f8-b7f0-dbc114d43b0d" />
+![ww2w](https://github.com/user-attachments/assets/a9ec0742-9dd7-42f8-b7f0-dbc114d43b0d)
 
 ### análisis y percepción personal del disco
 

@@ -2,16 +2,16 @@
 
 [23 de mayo del 2025]
 
-### Teloneo
+## Teloneo
 
 > Trump administration kicking immigrant students out of Harvard. A new law made it so Harvard doesn't accept foreign student visas
->
-> Hoy vamos a soldar para  terminar el udpudu
->
-> Aprender a "salir"??? a usb: another power source
->
-> Hail to the Thief de Radiohead (Johan reference 🗣️🗣️🗣️)
->
+
+Hoy vamos a soldar para  terminar el udpudu
+
+Aprender a "salir"??? a usb: another power source
+
+Hail to the Thief de Radiohead (Johan reference 🗣️🗣️🗣️)
+
 > Alcanzamos 4k commits en el GitHub
 
 ## Apuntes
@@ -92,7 +92,7 @@
 
 >
     En la clase, Misaa peló un cable como ejemplo y mostró que eran 4 cables por cada pin del USB, pero mi cable solo tenía DOS (uno rojo y uno blanco, as opposed to negro, blanco, verde, y rojo)
-    
+
     Aarón me dijo que algunos cables USB son solo de carga así que no necesitan los de transferencia de datos, lo cual hace sentido considerando que mi cable era de un cargador viejo
 
 ![cables USB](./archivos/usb.png)

@@ -2,18 +2,18 @@
 
 <https://www.figma.com/board/2tv4jx75qGZa6Gua2UCVer/taller.maq.electr?node-id=0-1&t=aZ8HCSQeFZaROUsg-1>
 
-![alt text](tme-c2-apunte.png)
+![alt text](./archivos/tme-c2-apunte.png)
 
-![alt text](tme-c2-links.png)
+![alt text](./archivos/tme-c2-links.png)
 
 ## ENCARGOS
 
 ### encargo-03: DIAGRAMAS ELÉCTRICOS
 
-![alt text](tme-c2-encargod1.jpg)
-![alt text](tme-c2-encargod2.jpg)
-![alt text](tme-c2-encargod3.jpg)
-![alt text](tme-c2-encargod4.jpg)
+![alt text](./archivos/tme-c2-encargod1.jpg)
+![alt text](./archivos/tme-c2-encargod2.jpg)
+![alt text](./archivos/tme-c2-encargod3.jpg)
+![alt text](./archivos/tme-c2-encargod4.jpg)
 
 ### encargo-02: MÚSICA ELECTRÓNICA: Aphex Twin
 
@@ -40,7 +40,7 @@ Lo puedo comparar con el disco “The Man Machine” de Kraftwerk, en el sentido
 
 Nota: 9/10
 
-**actualización 19/04**
+actualización 19/04
 
 dentro de los instrumentos más icónicos de aphex twin se encuentran
 

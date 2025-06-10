@@ -1,6 +1,7 @@
 # sesion-12b
 
-__modulo de la mañana__
+## módulo de la mañana
+
 - se menciono a christian oyarzun y empezamos a hablar de su trabajo
 - hablamos sobre la web 1.0, 2.0, 3.0...etc que se refiere a los estados de la web en diiferentes epocas
 - rss feed: eran distintos algoritmos que uno podia elegirlos, ya que antes el algoritmo no existia para cada individua, sino que todo veian lo mismo, al mismo tiempo
@@ -15,7 +16,8 @@ __modulo de la mañana__
 - anillo web: es un grupo de sitios web que se enlazan unos con otros en una estructura circular.
 - twitter and tear gas: lkbro escrito por zeynep tufekci sobre una lucha en la era de internet
 
-__fuentes de popder__
+## fuentes de popder
+
 - bateria 9v. no es eficiente de usar
 - eliminador de pila/fuente de poder acdc, tienen un ligar por dentro y por fuera, es imortante ser consciente de las polaridades, ya que tierra o cielo puede varias de posicion,
 - tamaños de conector fisico
@@ -25,12 +27,14 @@ __fuentes de popder__
 - gijsgieske: hace dispositivos que dependen completamente de luz solar
 - pilas de reloj
 
-__iluminacion__
+## iluminación
+
 - los leds se queman
 - ampolletas domesticas, puede conectar a un rele para hacer pasi de energia y asi no es necesario conectarlo a corriente directa
 - cinta led, son controlables por via pwm y transistor acorde, se pueden recortar, pero depende de la cinta, sus caracteroioisgicas electricas se calculan por metro
 
-__motores__
+## motores
+
 - requieren transistores
 - motores dc 5v
 - si quiero que giren menos debo de agregar un motoreductor, revisar a arthur ganson

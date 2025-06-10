@@ -17,7 +17,7 @@ En esta clase aprendimos a usar la página Falstad, para simular circuitos eléc
 **¿Qué es una pantalla de 7 segmentos?**
 Es un aparato que utiliza 7 segmentos LED, los cuales se pueden encender o apagar de forma individual, para mostrar números del 0 al 9 en forma de cifras arábigas
 
-# Encargo 20: Pantallas de 7 segmentos (Al menos 3)
+## Encargo 20: Pantallas de 7 segmentos (Al menos 3)
 
 ![20250515_213044](https://github.com/user-attachments/assets/0bdb1ede-7910-4b2f-af62-6e037a727899)
 
@@ -31,7 +31,7 @@ Imagen tomada el día 15/05 en mi casa, es un despertador
 
 Imagen tomada en mi clase de Inglés en la facultad de Manuel Rodriguez, en la sala 503 de su termostato
 
-# Encargo 21: Simulación de circuitos con 555 y/o comparadores hechos con opamps en Falstad
+## Encargo 21: Simulación de circuitos con 555 y/o comparadores hechos con opamps en Falstad
 
 Realizar el circuito PWN visto en clases en Falstad
 

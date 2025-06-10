@@ -8,12 +8,11 @@ _imágen rescadada de: <https://vishaworld.com/products/pam8403-5v-two-channel-s
 
 Es un amplificador de audio estéreo clase D, combinación única de potencia, eficiencia y tamaño compacto.
 
-Se distingue por su relación de potencia-tamaño. Este chip es capaz de entregar hasta 3W por canal en una carga de 4Ω, operando con una fuente de alimentación de 5V. 
+Se distingue por su relación de potencia-tamaño. Este chip es capaz de entregar hasta 3W por canal en una carga de 4Ω, operando con una fuente de alimentación de 5V.
 
-**Amplificador de audio estéreo clase D:** 
+**Amplificador de audio estéreo clase D:**
 
-Son amplificadores conmutados, bien en relación a la etapa de salida, bien en la parte de alimentación o bien en todo el conjunto. 
-
+Son amplificadores conmutados, bien en relación a la etapa de salida, bien en la parte de alimentación o bien en todo el conjunto.
 
 ## SRD05 / Relé de 01 canal
 
@@ -21,7 +20,7 @@ Son amplificadores conmutados, bien en relación a la etapa de salida,�
 
 _imágen rescatada de: <https://bracsan.pe/producto/modulo-relay-5v-10a-1-canal-srd05-x1pcb/>_
 
-Permite controlar el encendido/apagado, de equipos de corriente alterna. En otras palabras, provee el aislamiento y conmuta las cargas resistivas de corriente alterna. 
+Permite controlar el encendido/apagado, de equipos de corriente alterna. En otras palabras, provee el aislamiento y conmuta las cargas resistivas de corriente alterna.
 
 Su configuración es SPDT (un polo, dos tiros).
 
@@ -29,9 +28,9 @@ Su configuración es SPDT (un polo, dos tiros).
 
 ## Circuito pwm - realizado en clases en tinkercad
 
-<img width="677" alt="Circuito pwm " src="https://github.com/user-attachments/assets/6b430a90-d6de-4452-a5f8-6ecda5163f80" />
+![Circuito PWM](https://github.com/user-attachments/assets/6b430a90-d6de-4452-a5f8-6ecda5163f80)
 
-### BOM:
+### BOM
 
 |Componente| Cantidad |Unidad|
  |----|------|------|
@@ -46,9 +45,9 @@ Su configuración es SPDT (un polo, dos tiros).
 
 ## Circuito pwm con variación - realizado en clases en tinkercad
 
-<img width="1315" alt="Circuitopwmconvariación" src="https://github.com/user-attachments/assets/adc2e5a1-1e4a-4fcc-9d06-603f7f83f895" />
+![Circuito PWM con variación](https://github.com/user-attachments/assets/adc2e5a1-1e4a-4fcc-9d06-603f7f83f895)
 
-### BOM:
+### Bill of materials (BOM)
 
 |Componente| Cantidad |Unidad|
  |----|------|------|
@@ -61,10 +60,10 @@ Su configuración es SPDT (un polo, dos tiros).
  |potenciómetro|1|100k|
  |bateria|1| 9v|
 
- ## Esquemático
- 
+## Esquemático
+
 ![IMG_9057](https://github.com/user-attachments/assets/144a9260-37bd-44f1-a83c-d923e21805b2)
- 
+
 ![pizarra09-05](https://github.com/user-attachments/assets/a9f83c81-7b10-48e1-806b-5cdeaf185d06)
 
 ## Encargo-18: de tinkercad a protoboard
@@ -83,7 +82,7 @@ Su configuración es SPDT (un polo, dos tiros).
 
 _cita de: <https://mujeresbacanas.com/la-eterna-pionera-laurie-anderson-1947-es-una/>_
 
-Nació el 5 de junio de 1947 en Glen Ellyn, Illinois, Estados Unidos. Escritora, directora, artista visual y vocalista. 
+Nació el 5 de junio de 1947 en Glen Ellyn, Illinois, Estados Unidos. Escritora, directora, artista visual y vocalista.
 
 Ha inventado varios instrumentos, entre ellos el violín de arco de cinta, el cual tiene un cabezal magnético en lugar de cuerdas y una cinta de audio en lugar de las cerdas del arco, y un traje con sensores que disparan diversos sonidos de batería electrónica.
 
@@ -94,7 +93,7 @@ cita de: <https://news.harvard.edu/gazette/story/2015/03/the-introspective-lauri
 
 ### Big Science - 1982
 
-<img width="329" alt="bigscience" src="https://github.com/user-attachments/assets/0eb0d350-f3f3-4d07-bc77-9368ccf79a32">
+![big science](https://github.com/user-attachments/assets/0eb0d350-f3f3-4d07-bc77-9368ccf79a32)
 
 _imágen rescadada de: <https://www.nonesuch.com/journal/laurie-andersons-big-science>_
 
@@ -127,5 +126,3 @@ _8.<https://studsterkel.wfmt.com/programs/laurie-anderson-discusses-her-album-bi
 _9. <https://www.nonesuch.com/journal/laurie-andersons-big-science>_
 
 _reductor peso videos: <https://clideo.com/es/compress-video>_
-
-

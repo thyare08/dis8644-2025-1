@@ -2,13 +2,13 @@
 
 [16 de mayo del 2025]
 
-### Charla pre-clase
+## Charla pre-clase
 
-> Aarón mostró que llegaron las placas y dijo que hoy probablemente ocupemos toda la clase soldando
->
-> Chrome en sí no es opensource, pero hay una versión opensource de chromium online
->
-> [Dead internet theory](https://en.wikipedia.org/wiki/Dead_Internet_theory): teoría que decide que por un *"esfuerzo coordinado e intencional"* (lol), el internet consiste mayormente de bots y contenido generado automáticamente para controlar a la población
+Aarón mostró que llegaron las placas y dijo que hoy probablemente ocupemos toda la clase soldando
+
+Chrome en sí no es opensource, pero hay una versión opensource de chromium online
+
+[Dead internet theory](https://en.wikipedia.org/wiki/Dead_Internet_theory): teoría que decide que por un *"esfuerzo coordinado e intencional"* (lol), el internet consiste mayormente de bots y contenido generado automáticamente para controlar a la población
 >
 > Circuit bending: utilizar los circuitos de juguetes de niños o sintetizadores digitales para poder hacer música
 >
@@ -40,22 +40,22 @@
 
 ### BOM udpudu
 
-|Reference   |Value   |Footprint            	|Qty|OBS           	|
+|Reference   |Value   |Footprint             |Qty|OBS            |
 |------------|--------|-------------------------|---|------------------|
-|U1      	|~   	|Socket 8 pines       	|1  |              	|
-|R2,R3,R4	|1k  	|Resistencias         	|3  |              	|
-|D1      	|1n4007  |Diodo                	|1  |              	|
-|C3      	|100n	|Condensador cerámico 	|1  |104           	|
-|C4      	|1u  	|Condensador electrolítico|1  |              	|
-|C5      	|47u 	|Condensador electrolítico|1  |              	|
-|D2,D3   	|LED 	|Led 5mm              	|2  |              	|
-|J2      	|TBLOCK_2|Terminal Block 2     	|1  |              	|
-|LS1     	|SPK 	|Terminal Block 2     	|1  |              	|
-|SW1     	|SW_SPDT |Switch spdt          	|1  |              	|
-|U1      	|NE555   |DIP-8                	|1  |Va en el socket U1|
-|Clip batería|9v  	|                     	|1  |              	|
-|Parlante	|8ohm	|                     	|1  |              	|
-|J1,J3   	|CAIMAN  |Cables caimán        	|2  |              	|
+|U1       |~    |Socket 8 pines        |1  |               |
+|R2,R3,R4 |1k   |Resistencias          |3  |               |
+|D1       |1n4007  |Diodo                 |1  |               |
+|C3       |100n |Condensador cerámico  |1  |104            |
+|C4       |1u   |Condensador electrolítico|1  |               |
+|C5       |47u  |Condensador electrolítico|1  |               |
+|D2,D3    |LED  |Led 5mm               |2  |               |
+|J2       |TBLOCK_2|Terminal Block 2      |1  |               |
+|LS1      |SPK  |Terminal Block 2      |1  |               |
+|SW1      |SW_SPDT |Switch spdt           |1  |               |
+|U1       |NE555   |DIP-8                 |1  |Va en el socket U1|
+|Clip batería|9v   |                      |1  |               |
+|Parlante |8ohm |                      |1  |               |
+|J1,J3    |CAIMAN  |Cables caimán         |2  |               |
 
 ## Encargo 22 - Documentación textual del proceso de ensamblado de udpudu
 
@@ -73,17 +73,12 @@
 
 ![placa vacía](./archivos/udpudu_1.png)
 
-
 ![reverso placa vacía](./archivos/udpudu_2.png)
-
 
 ![placa con componentes sobrepuestos](./archivos/udpudu_3.png)
 
-
 ![primera soldadura de placa](./archivos/udpudu_4.png)
 
-
 ![placa completamente soldada](./archivos/udpudu_5.png)
-
 
 ![reverso placa soldada](./archivos/udpudu_6.png)

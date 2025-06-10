@@ -15,22 +15,23 @@ resistencias R, ccondensadores C, diodos D, circuitos integrados C, potenciómet
 astable AS, monoestable MS, PWM
 
 ### aplicaciones
+
 APC, brillo LED, On/Off si/no ampolleta, UDPUDU
 
-### componentes
+## descripciones componentes
 
-**motor**
+### motor
 
-transforma la energía en movimiento 
+transforma la energía en movimiento
 
 si necesito que gire hacia el otro lado, cambio la entrada y salida
 
 energia maxima de 555 es 100mA, y el motor necesita 600mA (I)
 
-**transisitor mosfet**
+#### transisitor mosfet
 
 IRFZ44N (package TO-220)
 
-amplifica las señales electrónicas. 
+amplifica las señales electrónicas.
 
 ### no hay encargos por ser semana de solemne

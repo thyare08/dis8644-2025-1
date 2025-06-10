@@ -17,7 +17,6 @@ se pueden hacer 4 operaciones a la vez
 
 ![IMG_1259](https://github.com/user-attachments/assets/6b1d05f0-ab4f-4eba-8126-5d94079129c7)
 
-
 ## encargo-20: pantallas de siete segmentos
 
 ### imagen 1
@@ -37,6 +36,7 @@ fue capturada el 13/05 en el dunkin donuts de república, estabamos comprando ca
 ![pantalladesietesegmentos ejemplo3](https://github.com/user-attachments/assets/ea831424-63c3-4f73-b4fd-f0a276a2f13f)
 
 fue capturada el 15/05 estación de metro pedro de valdivia.
+
 ### imagen 4
 
 ![pantalladesietesegmentos ejemplo4](https://github.com/user-attachments/assets/44b6f408-eb1b-46c3-8f24-5adefc5f37a1)
@@ -45,11 +45,11 @@ fue capturada el 15/05 en mi casa haciendo trabajos.
 
 ## encargo-21: simulación de circuitos con 555 y/o comparadores hechos con opamps en Falstad
 
-simular circuitos que hemos visto en clases con chips 555 
+simular circuitos que hemos visto en clases con chips 555
 
 ### Atari punk sonsole
 
-M<img width="1470" alt="ataripunkconsole falstad" src="https://github.com/user-attachments/assets/d2c52a84-b484-4196-b8fa-cd54ef0c28cf" />
+![ataripunkconsole falstad](https://github.com/user-attachments/assets/d2c52a84-b484-4196-b8fa-cd54ef0c28cf)
 
 ```txt
 $ 1 0.000015625 21.593987231061412 66 5 50 5e-11
@@ -109,10 +109,10 @@ w 656 480 752 480 0
 211 1024 448 1136 448 0 1 8000 1
 
 ```
+
 ### PWM
 
-
-<img width="1470" alt="circuitopwm falstad" src="https://github.com/user-attachments/assets/2f288c33-404a-4844-a7bc-104513fe4f29" />
+![alt-text](https://github.com/user-attachments/assets/2f288c33-404a-4844-a7bc-104513fe4f29)
 
 ```txt
 1 0.000005 10.20027730826997 50 5 50 5e-11

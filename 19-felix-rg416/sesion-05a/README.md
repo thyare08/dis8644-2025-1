@@ -22,15 +22,16 @@ C5 ---> elimina DC - output DC coupling
 
 C1 ---> modifica la frecuencia (PITCH)
 
-> ### cálculo de resistencia
->
-> Serie: R1 + R2 = Req (Resistencia equivalente)
-> Paralelo: Req = R1*R2/R1+R2
+cálculo de resistencia
 
-> ### cálculo de resistencia
->
-> Paralelo: Ceq = C1 + C2
-> Serie: Ceq = C1*C2/C1+C2
+Serie: R1 + R2 = Req (Resistencia equivalente)
+
+Paralelo: Req = R1*R2/R1+R2
+
+cálculo de resistencia:
+
+Paralelo: Ceq = C1 + C2
+Serie: Ceq = C1*C2/C1+C2
 
 ## MODDING
 

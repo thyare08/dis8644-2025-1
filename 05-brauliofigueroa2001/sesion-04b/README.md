@@ -112,7 +112,7 @@ El objeto utilizado fue una cámara instax mini 8, la cámara ya estaba mala por
 
 Switched On Bach fue creado por Wendy Carlos en octubre del año 1968 y fue lanzado en ese mismo año por Columbia Records. Éste álbum es una recopilación de piezas de Johann Sebastian Bach pero traspasadas al mundo de los sintetizadores. Carlos estudió y se graduó en Física y Música en Brown University, en su nativa Rhode Island, antes de mudarse a Nueva York en 1962 para estudiar Composición en Columbia University, donde estudió y trabajó con varios técnicos y músicos electrónicos en el Electronic Music Center de Princeton.
 
-**un poco del contexto de cómo partió todo**
+### un poco del contexto de cómo partió todo
 
 - Wendy Carlos había conocido al ingeniero Robert Moog en un evento de la Sociedad de Ingenieros de Audio en 1964, iniciándose una interesantísima asociación en la que Carlos contribuyó con consejos, peticiones y asistencia técnica en el desarrollo del famoso Sintetizador Moog. Carlos convenció a Moog de agregar un teclado sensitivo al toque para mejorar la dinámica de la interpretación, entre otras cosas que se fueron sumando a los sucesivos modelos. Moog reconoció siempre los aportes de Carlos y le dio su respectivo crédito. En 1966, Carlos ya era propietario de un pequeño Moog, el cual utilizó para grabar efectos de sonido y jingles para comerciales de televisión, que le proporcionaron algún dinero.
 

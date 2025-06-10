@@ -7,7 +7,12 @@
 ### Circuito PWM
 
 ### video trabajo grupal
+
 ![CIRCUITO](./archivos/pwm.png)
+
+![Video del circuito en acción](https://img.youtube.com/vi/8P1cwcV48vQ/0.jpg)
+
+<https://www.youtube.com/shorts/8P1cwcV48vQ>
 
 - Durante la clase realizamos el circuito PWM en grupos de tres personas. Al inicio trabajé solo con Francisco Stephens, ya que Braulio aún no había llegado. Francisco amplió el circuito integrando dos LED de diferentes colores. Más adelante se unieron al grupo Santiago Gaete y Martín Silva. Debíamos usar LED de tres colores: rojo, verde y azul, colocando cada uno en un circuito separado para luego unirlos.
 
@@ -29,6 +34,7 @@
 - Fui al casino de la FAAD y le saqué una fotografía a la pantalla de uno de los microondas.
 
 ## Falstad
+
 ![Falstad](./archivos/Falstad.png)
 
 Nos presentaron y utilizamos Falstad por primera vez; anteriormente, lo había visto usar Fran UDP en algunas clases.
@@ -45,13 +51,15 @@ Nos presentaron y utilizamos Falstad por primera vez; anteriormente, lo había v
 - Ascensor de mi edificio
   
 ![siete segmentos](./archivos/cronometro.jpeg)
+
 - El cronómetro de mi padre. Lo usa casi todos los días, ya que es profesor de Educación Física. Se lo pedí cuando llegó, como a las 9 de la noche.
   
 ![siete segmentos](./archivos/RADIO.png)
+
 - Radio con reloj. Tiene una pantalla que indica la hora. Lo tenemos desde hace bastante tiempo y no recuerdo que haya mostrado más información; si alguna vez tuvo otras funciones, hoy en día ya no aparecen en la pantalla. Está algo polvoriento, y la verdad es que lo tenemos bastante arrumbado en una esquina de la cocina.
 
 ## encargo-21: simulación de circuitos con 555 y/o comparadores hechos con opamps en Falstad
 
-simular circuitos que hemos visto en clases con chips 555 y/o circuitos comparadores usando el simulador de Falstad disponible en https://falstad.com/circuit/
+simular circuitos que hemos visto en clases con chips 555 y/o circuitos comparadores usando el simulador de Falstad disponible en <https://falstad.com/circuit/>
 
 SUBIR el texto en una cajita como esta, revisar cómo se hace esta cajita de texto revisando el código en Markdown que lo hace posible.

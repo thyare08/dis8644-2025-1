@@ -2,4 +2,4 @@
 
 [6 de mayo del 2025]
 
-### No hay clases por semana de receso
+## No hay clases por semana de receso

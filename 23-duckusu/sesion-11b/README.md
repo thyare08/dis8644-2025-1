@@ -10,11 +10,9 @@
 
 - Primer circuito
 
-
 ![pwm2](https://github.com/duckusu/dis8644-2025-1/blob/main/23-duckusu/sesion-11b/archivos/pwm3.png)
 
 - Segundo circuito (se conectan ambos a partir del puerto 3 del chip 555)
-
 
 ![pizarra](https://github.com/duckusu/dis8644-2025-1/blob/main/23-duckusu/sesion-11b/archivos/pizarra.png)
 
@@ -26,29 +24,21 @@
 
 ![proto](https://github.com/duckusu/dis8644-2025-1/blob/main/23-duckusu/sesion-11b/archivos/proto.jpg)
 
-
 ## Receso de 30 minutos
-### Udp pudú final
 
+### Udp pudú final
 
 Estado de la placa en la clase pasada
 
 ![placa](https://github.com/duckusu/dis8644-2025-1/blob/main/23-duckusu/sesion-11b/archivos/placa1.jpg)
 
-
 Soldado
 
 ![sold](https://github.com/duckusu/dis8644-2025-1/blob/main/23-duckusu/sesion-11b/archivos/sold.png)
-
 
 Últimas piezas
 
 ![final1](https://github.com/duckusu/dis8644-2025-1/blob/main/23-duckusu/sesion-11b/archivos/final.png)
 
-
 Final
 ![final2](https://github.com/duckusu/dis8644-2025-1/blob/main/23-duckusu/sesion-11b/archivos/final2.png)
-
-###
-###
-###

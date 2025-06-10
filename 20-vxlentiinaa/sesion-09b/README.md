@@ -28,11 +28,11 @@ Imagen sacada de: <https://afel.cl/products/rele-de-01-canal>
 
 ### Circuito PWM en Tinkercad, hechos en clase
 
-<img width="1440" alt="Captura de pantalla 2025-05-09 a la(s) 12 08 51 p m" src="https://github.com/user-attachments/assets/38b632a3-f69f-41d7-91af-e5ec477fbf09" />
+![alt-text](https://github.com/user-attachments/assets/38b632a3-f69f-41d7-91af-e5ec477fbf09)
 
-<img width="1440" alt="Captura de pantalla 2025-05-09 a la(s) 12 09 10 p m" src="https://github.com/user-attachments/assets/cd1b1160-aef6-438a-ae0b-63c78a02faf7" />
+![alt-text](https://github.com/user-attachments/assets/cd1b1160-aef6-438a-ae0b-63c78a02faf7)
 
-### BOM:
+### BOM
 
 |Componente| Cantidad |Unidad|
  |----|------|------|
@@ -46,16 +46,16 @@ Imagen sacada de: <https://afel.cl/products/rele-de-01-canal>
  |bateria|1| 9v|
 
 ## encargo-18: de Tinkercad a protoboard
- 
+
 Condensador 474 en la pata 2
 
-https://github.com/user-attachments/assets/63707e7f-4ed6-4d8f-9653-654d5974c503
+<https://github.com/user-attachments/assets/63707e7f-4ed6-4d8f-9653-654d5974c503>
 
 Condensador 103 en la pata 2
 
-https://github.com/user-attachments/assets/dabfe30d-9163-426b-b271-adfc2b82723f
+<https://github.com/user-attachments/assets/dabfe30d-9163-426b-b271-adfc2b82723f>
 
-## encargo-19 
+## encargo-19
 
 ![laurie-anderson](https://github.com/user-attachments/assets/e70a3ab6-2961-42a1-8f3e-b7dd60e7f771)
 
@@ -69,6 +69,6 @@ Laurie Anderson nació el 5 de junio de 1947 en Glen Ellyn. Es cantante, violini
 
 * Bright Red es el quinto álbum de estudio del músico de vanguardia estadounidense Laurie Anderson, lanzado por Warner Bros. en 1994. El álbum continúa la dirección más orientada al pop que Anderson lanzó con Strange Angels. Producida por Brian Eno, Bright Red se divide en dos partes: "Bright Red" y "Tightrope".
 * Laurie planeó originalmente prescindir de la electrónica para la grabación de Bright Red y, en su lugar, centrarse en una instrumentación más orgánica, como bajos, acordeones, violines, percusión brasileña y batería.
-* Al principio no me llamaba la atención ya que sus sonidos son demasiados experimentales y no estoy acostumbrada a eso. Pero después de escucharlo completo, me gustó bastante los esquemas que logró con la música, hay canciones un poco mas alegres y experimentales y otras que parece solo un monólogo pero eso es lo que lo hace interesante. 
+* Al principio no me llamaba la atención ya que sus sonidos son demasiados experimentales y no estoy acostumbrada a eso. Pero después de escucharlo completo, me gustó bastante los esquemas que logró con la música, hay canciones un poco mas alegres y experimentales y otras que parece solo un monólogo pero eso es lo que lo hace interesante.
 
 cita de: <https://en.wikipedia.org/wiki/Bright_Red>

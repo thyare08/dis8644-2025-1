@@ -1,6 +1,6 @@
 # ⋆₊˚⊹♡ Clase  12a - Circuitos para un proyecto ♡⊹˚₊⋆
 
-_Martes 27/05/2025_
+Martes 27/05/2025
 
 ***
 
@@ -21,14 +21,11 @@ Llegué tarde debido a un atraso en la afluencia del metro. Terminé sobre estim
 Se estuvo analizando las partes de este documento, el cual muestra la naturaleza de este chip.
 
 Logica de boole
-https://es.wikipedia.org/wiki/%C3%81lgebra_de_Boole
+<https://es.wikipedia.org/wiki/%C3%81lgebra_de_Boole>
 
 Compuerta AND
 
 ![image](https://github.com/user-attachments/assets/42f89508-1e21-442b-aadf-22fd17b8f55d)
-
-
-<br>
 
 ***
 

@@ -60,15 +60,15 @@ Foto de mi croquera.
 
 Este chip tiene diversas configuraciones que sirven para distintas cosas, estas son:
 
- 1. **Astable:** En este modo el chip funciona como oscilador que genera una onda cuadrada ajustable al modificar los valores de resistencia y condensador conectado al chip.
+1 **Astable:** En este modo el chip funciona como oscilador que genera una onda cuadrada ajustable al modificar los valores de resistencia y condensador conectado al chip.
 
 ![Astable](https://github.com/user-attachments/assets/4919be99-c050-41fd-9432-9a1bd4b29d2e)
 
- 2. **Monoestable:** También se conoce como el mode de una sola vez, esto porque el output es un pulso simple, corto y positivogenerado por un input simple, cuya duración se determina por los valores de resistencia y capacitancia del circuito.
+2 **Monoestable:** También se conoce como el mode de una sola vez, esto porque el output es un pulso simple, corto y positivogenerado por un input simple, cuya duración se determina por los valores de resistencia y capacitancia del circuito.
 
 ![Monoestable](https://github.com/user-attachments/assets/68948f76-8c03-4a7b-bfc1-1c10b6356843)
 
- 3. **Biestable:** Es un circuito integrado que alterna entre dos estados estables (activado y desactivado).
+3 **Biestable:** Es un circuito integrado que alterna entre dos estados estables (activado y desactivado).
 
 ![Biestable](https://github.com/user-attachments/assets/7fbb1048-916c-4674-b920-5d47d794e9dd)
 

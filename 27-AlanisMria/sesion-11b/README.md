@@ -8,7 +8,6 @@ Un chip 4017 tiene 16 pines, de los cueles 10 son de output
 
 ![circuito](./archivos/circuito.jpg)
 
-
 ## Resultado
 
 ![circuito555y4017](./archivos/circuito555y4017.mp4)
@@ -21,7 +20,7 @@ vamos a conectar el circuito que hicimos hoy al PWM.
 
 Si desconectamos el pin 4 del positivo el 555 no funcionará, porque este pin espera un voltaje positivo y podemos hacer que este funcione según otro lo permita
 
-## Resultado
+## Resultados
 
 Al hacer el circuito es dificil posicionar los componentes, ya que la protoboard que se utilizó era muy pequeña, en la primera version se usó un potenciometro.
 

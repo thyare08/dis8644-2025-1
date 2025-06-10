@@ -46,13 +46,13 @@ Carlos Alberto Scolari
 
 - Escuchar Switched on bach de Wendy Carlos.
 
-**Contexto**
+## Contexto
 
 Walter Carlos, mejor conocida como Wendy Carlos nació el 14 de noviembre de 1939 Pawtucket (Rhode Island, Estados Unidos) es una compositora e intérprete estadounidense de música electrónica.​ Wendy fue una de las primeras intérpretes famosas de música electrónica que usaron sintetizadores, consiguiendo popularizar el género hacia una audiencia más amplia y heterogénea.​
 
 Considerada una artista innovadora entre sus obras más célebres figuran Switched-On Bach (1968), ganardonada con tres Premios Grammy,en la que reinterpretaba electrónicamente composiciones de Johann Sebastian Bach,​ o las bandas sonoras para las películas The Clockwork Orange (1971)​ y The Shining (1980), dirigidas por Stanley Kubrick, y Tron (1982),​ dirigida por Steven Lisberger.
 
-**Disco: Switched on Bach**
+### Disco: Switched on Bach
 
 - Switched-On Bach, en español Conectado a Bach lanzado en 1968, fue tal vez el primer disco en intentar el empleo de sintetizadores como una alternativa a la orquesta.
 - El disco es una reintrepretación innovadora de obras de Johann Sebastian Bach mezclado con sintetizadores Moog.

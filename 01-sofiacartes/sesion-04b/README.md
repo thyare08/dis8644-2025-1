@@ -16,7 +16,7 @@
 
 ## Switched on Bach - Wendy Carlos
 
-<img width="547" alt="wendy" src="https://github.com/user-attachments/assets/f7d46f0f-9c02-446b-983e-d2c14ba39b42" />
+![Wendy](https://github.com/user-attachments/assets/f7d46f0f-9c02-446b-983e-d2c14ba39b42)
 
 _Género:_ Electronic, Classical
 
@@ -26,9 +26,9 @@ Es el álbum debut de la compositora estadounidense Wendy Carlos , lanzado en oc
 
 Me gustó mucho la combinación de música clásica con la electrónica, es muy novedoso escuchar el álbum, ya que no es lo que normalmente en el día a día se muestra.
 
-**Moog**
+Moog
 
-<img width="439" alt="robert moog" src="https://github.com/user-attachments/assets/f3abf16d-3c27-4b57-95d1-8ebe4d4441d1" />
+![Robert Moog](https://github.com/user-attachments/assets/f3abf16d-3c27-4b57-95d1-8ebe4d4441d1)
 
 Es un modular inventado por el ingeniero estadounidense Robert Moog en 1964. Se convirtió en el primer sintetizador de música electrónica ampliamente utilizado y el primero en realizar la transición de la vanguardia a la música popular.
 
@@ -44,7 +44,7 @@ Valentina ruz, Anais Marschhausen y Sofía Cartes
 ![IMG_0183](https://github.com/user-attachments/assets/20648313-48b1-4912-9132-d2a70d24b39f)
 ![IMG_0182](https://github.com/user-attachments/assets/23025941-b1a6-4376-b3bb-11d5063abb65)
 
-**objeto desarmado**
+objeto desarmado
 
 ![IMG_0605](https://github.com/user-attachments/assets/a2c9a214-b0ad-4cbd-b28f-69421cdc12bb)
 ![IMG_0612](https://github.com/user-attachments/assets/3cb44238-44ad-4ce5-bb65-72fecffa1015)
