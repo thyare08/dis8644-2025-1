@@ -1,7 +1,23 @@
 # sesion-10b
 
 ## Encargo 22
-Primero, revisamos el esquematico del circuito de la PCB para ubicar y buscar los componentes necesarios, luego ubicamos los componentes en sus espacios correspondientes mientras esperabamos que se calentara el cautin, durante los primeros semestres aprendimos a soldar por lo que fue sencillo la parte de soldar, por lo que mas "costó trabajo" fue enconttrar la orientación y ubicación de los componentes.
+Primero, revisamos el esquematico del circuito de la PCB para ubicar y buscar los componentes necesarios, luego ubicamos los componentes en sus espacios correspondientes mientras esperabamos que se calentara el cautin, durante los primeros semestres aprendimos a soldar por lo que fue sencillo la parte de soldar, lo que más "costó trabajo" fue encontrar la orientación y ubicación de los componentes.
+
+### BOM
+
+| Componentes      | Nombre   | Valor  | Cantidad |
+|------------------|----------|--------|----------|
+| Socket 8 pines   | U1       | -      | 1        |
+| Resistencias     | R2,R3,R4 | 1K     | 3        |
+| Diodo            | D1       | 1n4007 | 1        |
+| C. Cerámico      | C3       | 100n   | 1        |
+| C. Polarizado    | C4       | 1u     | 1        |
+| C. Polarizado    | C5       | 47u    | 1        |
+| Led              | D2,D3    | -      | 2        |
+| Terminal block2  | J2       | TBLOCK | 1        |
+| Terminal block2  | LS1      | SPKR   | 1        |
+| Switch           | SW1      | SPDT   | 1        |
+| Chip 555         | DIP-8    | 555    | 1        |
 
 
 ## Encargo 23

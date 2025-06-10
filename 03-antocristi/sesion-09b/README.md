@@ -35,9 +35,10 @@ Relé: aviso
 
 Pulse Width Modulation ( Modulación por ancho de pulso)( variación astable)
 
-![Captura de pantalla 2025-05-09 115207](https://github.com/user-attachments/assets/83119fc9-b0ac-455a-a2af-3ee5e1bccd0a)
 
 ## Encargo 18
+
+![Captura de pantalla 2025-05-09 115207](https://github.com/user-attachments/assets/83119fc9-b0ac-455a-a2af-3ee5e1bccd0a)
 
 ![encargo18](https://github.com/user-attachments/assets/ab459d7e-4728-4c14-bde3-1c2e9b31ad44)
 
