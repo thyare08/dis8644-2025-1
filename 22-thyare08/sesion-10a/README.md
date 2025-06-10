@@ -5,12 +5,12 @@ Apuntes 13/05
 ![apuntes_10a_fin.jpg](./archivos/apuntes_10a_fin.jpg)
 
 En esta clase aprendimos a usar la página Falstad, para simular circuitos eléctricos como se puede observar en las siguientes imágenes
-![falstad_1.jpg](./archivos/falstad_1.jpg)
-![falstad_2.jpg](./archivos/falstad_2.jpg)
-![falstad_3.jpg](./archivos/falstad_3.jpg)
-![falstad_4.jpg](./archivos/falstad_4.jpg)
-![falstad_5.jpg](./archivos/falstad_5.jpg)
-![falstad_6.jpg](./archivos/falstad_6.jpg)
+![falstad_1.jpg](./archivos/falstad_1.png)
+![falstad_2.jpg](./archivos/falstad_2.png)
+![falstad_3.jpg](./archivos/falstad_3.png)
+![falstad_4.jpg](./archivos/falstad_4.png)
+![falstad_5.jpg](./archivos/falstad_5.png)
+![falstad_6.jpg](./archivos/falstad_6.png)
 
 **¿Qué es una pantalla de 7 segmentos?**
 Es un aparato que utiliza 7 segmentos LED, los cuales se pueden encender o apagar de forma individual, para mostrar números del 0 al 9 en forma de cifras arábigas
