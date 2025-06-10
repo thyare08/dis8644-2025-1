@@ -1,5 +1,71 @@
 # sesion-12b
 
+30-05-2025
+
+## resumen de componentes
+
+### fuentes de poder
+
+- batería 9v
+- power bank
+- pilas 1,5
+- pilas reloj (2032 3v) *estas van en un socket*
+- fuente de poder: esta debe ser mayor a lo que quiero utilizar *cuidado ya que existen jack de 2.1 y 2.1*
+
+### luces
+
+- puede variar la intensidad y la potencia, son programables.
+- leds, siempre con una resistencia *poner en paralelo para ver si funcionan*
+- leds de alta potencia
+- tiras led/cintas led *existen varios tipos*
+
+### motores
+
+- algo que regula las revoluciones
+- necesitaran transistores
+- Dc 6v, gira tan rápido como pueda, si necesito cambiar la dirección, cambio las entradas *motoreductores se utilizan para bajar la velocidad de giro*
+- steppermotor o paso a paso genera un movimiento mucho más lento y controlado, reciben pulsos eléctricos y esto genera el movimiento *existen unipolares y bipolares*
+- solenoides genera movimiento lineal *se puede controlar líquidos*
+- bombas de agua o aire
+- puente h: si enciendo s1 y s4 se mueve hacia la derecha, si prendo s3 y s2 se mueve hacia la izquierda *también existe uno que viene listo*
+  
+![puenteh](https://lh4.googleusercontent.com/m0OLxiwguWzEd33R-OGEHfscX-0e3Wt27qG8bt0kE5mICrIEh3LOHTCvfAH9okuCQfiPnl1Dq4NYgxSLwYPa_B0PHkzTSeMHQWW5n3U3nx_k958ozikYdW90RbX1V4PMGxVdMCB9yaPRRYx5Kui-_w)
+
+[mcielectronics.cl-puenteh](https://cursos.mcielectronics.cl/2022/08/05/que-es-un-puente-h/)
+
+
+### transistores
+
+- se usa como amplificador o switch
+- bipolares *2n2222*
+- fet *IRFZ44N*
+
+### sonido
+
+- parlante activos *se enchufan*
+- parlante pasivos *requiere amplificación*
+- buzzers *zumbador*
+- reproductor de audio *datos a electricidad*
+- micrófonos *sonido en electricidad*
+- sintetizadores 
+
+### referentes
+
+- gijsgieskes
+- tristian perich
+- arthur ganson
+- javier bustos
+- audiomaquinas
+- polyend
+- gabriel holzapfel
+- monica bate
+- logic noise
+- tonepad
+- kickstarter
+- hackday
+- tindle
+- etsy
+
 ## encargo-24
 
 - Describir de forma textual 3 proyectos de máquinas electrónicas que quieran hacer de forma individual, ordenar por preferencia o interés de que sea desarrollado.
