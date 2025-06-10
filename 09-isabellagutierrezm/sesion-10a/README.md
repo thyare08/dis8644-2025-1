@@ -51,10 +51,41 @@ https://github.com/user-attachments/assets/cb71c247-3422-4a41-a363-738bec171e5a
 - Foto tomada de la temperatura de la sala, viernes 16 de mayo
 ![temperatura sala](https://github.com/isabellagutierrezm/dis8644-2025-1/blob/main/09-isabellagutierrezm/sesion-10a/archivos/temperatura%20sala.jpeg)
 
+## Circuito 555 en falstad
+Para ello utilice el circuito Monoestable botón más LED
 
+![circuitomonostable](https://github.com/isabellagutierrezm/dis8644-2025-1/blob/main/09-isabellagutierrezm/sesion-10a/archivos/circuitomonostable.png)
 
-
-
+~~~
+$ 1 0.000005 10.20027730826997 50 5 50 5e-11
+165 256 208 400 208 14 2.943329998186235
+w 256 240 224 240 0
+w 256 304 224 304 0
+w 224 304 224 384 0
+c 224 384 224 448 4 0.00009999999999999999 2.941200069375345 0.001 0.1
+g 224 448 224 480 0 0
+c 320 368 320 432 4 0.00009999999999999999 6.767858900456613 0.001 0
+g 320 432 320 464 0 0
+w 384 272 464 272 0
+w 224 304 224 240 0
+172 320 176 320 80 0 7 9 9 0 0 0.5 Voltage
+r 224 240 224 176 0 10000
+w 224 176 224 144 0
+w 224 144 384 144 0
+w 384 240 384 144 0
+w 224 144 144 144 0
+w 144 144 144 176 0
+r 144 176 144 240 0 10000
+w 224 304 144 304 0
+w 256 336 224 336 0
+w 144 240 144 352 0
+s 144 352 144 400 0 1 false
+g 144 400 144 464 0 0
+w 464 272 464 288 0
+162 464 288 464 352 2 default-led 1 0 0 0.01
+r 464 352 464 400 0 10000
+g 464 400 464 432 0 0
+~~~
 
 
 
