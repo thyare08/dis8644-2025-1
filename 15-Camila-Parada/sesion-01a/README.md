@@ -1,6 +1,6 @@
 # ⋆₊˚⊹♡ Clase 01a - Primera clase ♡⊹˚₊⋆
 
-_Martes 11/03/2024_
+Martes 11/03/2024
 
 ***
 
@@ -48,8 +48,6 @@ Indagar en piezas y componentes, distribuidores y tiendas en Chile, referentes (
 Elegir un objeto electrónico con un vínculo emocional.
 Especular e imaginar que sucede dentro de esta máquina.
 Diagramar toda la información que pueda servir (¿Cómo es el objeto?, etc.).
-
-<br>
 
 * Tiene que ser un objeto que necesite de una batería o estar conectado a corriente  
 
