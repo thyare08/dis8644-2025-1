@@ -9,9 +9,9 @@
 - Primer circuito eléctrico básico
 - Bases para escribir en GitHub
 
-![foto8](https://github.com/user-attachments/assets/2d1c2f7c-42b1-40c7-afc8-37262a75311f)
+![Foto caja con componentes](./archivos/tme-sesion01b-foto8.jpeg)
 
-![foto5](https://github.com/user-attachments/assets/4fc794e2-8415-4af5-a2db-6e27aa7027b9)
+![Fotos apuntes en mi bitácora](./archivos/tme-sesion01b-foto5.jpeg)
 
 ## Encargos
 
@@ -35,7 +35,7 @@
 - Le ofrecieron un acuerdo en el cual tenía que declararse culpable y cumplir seis meses en la cárcel. Él decidió rechazar este acuerdo, ya que consideraba que no había cometido ningún crimen. Lamentablemente, dos días después decidió quitarse la vida.
 - Aaron Swartz fue un importante activista que lo único que buscaba era que todo el mundo tuviera acceso a la información académica.
 
-![foto2](https://github.com/user-attachments/assets/68e9150f-f196-421d-8f64-ea3c7ee603a4)
+![Foto de los componentes](./archivos/tme-sesion01b-foto2.jpeg)
 
 ### Encargo-03: Estudiar la caja de materiales inicial
 
@@ -43,6 +43,6 @@
 - Inventario y organización de los componentes que se encuentran en mi cajita
 - Estudio del significado de los colores de los cables
 
-![foto9](https://github.com/user-attachments/assets/c595bb00-11bd-47f5-ae1b-e349959cbce3)
+![Foto](./archivos/tme-sesion01b-foto9.jpeg)
 
-![foto3](https://github.com/user-attachments/assets/e09a01f9-7b1c-4c68-b9f7-c6dd5f1464ed)
+![Foto](./archivos/tme-sesion01b-foto3.jpeg)
