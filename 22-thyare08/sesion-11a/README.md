@@ -1,13 +1,12 @@
 # sesion-11a
 
-![20250523_125913](https://github.com/user-attachments/assets/f2abf27b-6a3f-467c-bd06-f14f457f787d)
-![20250523_125925](https://github.com/user-attachments/assets/74a0e8f1-ca2a-4a5b-8364-ac3c24262695)
+![apuntes_11a.jpg](./archivos/apuntes_11a.jpg)
+
+![apuntes_11a_fin.jpg](./archivos/apuntes_11a_fin.jpg)
 
 **Nuevos componentes entregados en clases**
-![20250520_093429](https://github.com/user-attachments/assets/e91bbf22-60c4-4b76-8ec3-1659ad6cdba2)
-![20250520_095300](https://github.com/user-attachments/assets/acc1d7d6-4dff-4a7d-86c8-9d1acfc12997)
-![20250520_095315](https://github.com/user-attachments/assets/16272d4f-80eb-46bd-b11b-28fa320d2cad)
-![20250520_095416](https://github.com/user-attachments/assets/1a5b12f2-fd0d-4f75-8fd4-9006382a2f95)
+![nuevos_componentes.jpg](./archivos/nuevos_componentes.jpg)
+![nuevos_componentes_circulo.jpg](./archivos/nuevos_componentes_circulo.jpg)
 
 **El primer PWS hecho en clases en Protoboard**
 Con un potenciador de 500k
