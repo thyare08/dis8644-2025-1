@@ -96,7 +96,7 @@ _▼ Circuito en paralelo aún encendido, 2 leds. Autoría personal_
 
 Puesto que la energía que dibide en distintos carriles, esta alimenta sin problemas a los leds, por lo que si uno de estos es retirado el circuito sigue funcionando sin problemas. Este es el camino más viable si uno quiere realizar un circuito con distintas partes que fucionen de manera simultánea.
 
-Curiosamente, en las últimas fotografías se aprecia que los leds se encuetran encendidos. ¿Será que el espectro infrarrojo que tienen los leds de color verde, junto con la intensidad de la luz, quedan opacados frente al flash de la cámara (luz blanca)? Una hipótesis a considerar de ahora en adelante al momento de realizar mis circuitos y tomar fotografías.
+Curiosamente, en las últimas fotografías se aprecia que los leds se encuentran encendidos. ¿Será que el espectro infrarrojo que tienen los leds de color verde, junto con la intensidad de la luz, quedan opacados frente al flash de la cámara (luz blanca)? Una hipótesis a considerar de ahora en adelante al momento de realizar mis circuitos y tomar fotografías.
 
 ***
 
