@@ -56,7 +56,7 @@ Para ello utilice el circuito Monoestable botón más LED
 
 ![circuitomonostable](https://github.com/isabellagutierrezm/dis8644-2025-1/blob/main/09-isabellagutierrezm/sesion-10a/archivos/circuitomonostable.png)
 
-~~~
+```
 $ 1 0.000005 10.20027730826997 50 5 50 5e-11
 165 256 208 400 208 14 2.943329998186235
 w 256 240 224 240 0
@@ -84,8 +84,8 @@ g 144 400 144 464 0 0
 w 464 272 464 288 0
 162 464 288 464 352 2 default-led 1 0 0 0.01
 r 464 352 464 400 0 10000
-g 464 400 464 432 0 0
-~~~
+g 464 400 464 432 0 0```
+
 
 
 
