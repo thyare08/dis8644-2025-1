@@ -1,4 +1,4 @@
-# ⋆₊˚⊹♡ Clase 02a -  ♡⊹˚₊⋆
+# ⋆₊˚⊹♡ Clase 02a - Flujos y electricidad ♡⊹˚₊⋆
 
 _Martes 18/03/2025_
 
