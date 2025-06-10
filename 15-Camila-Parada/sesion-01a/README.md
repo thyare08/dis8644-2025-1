@@ -68,7 +68,7 @@ Escuchar un album de la banda kraftwerk y analizar todo en torno a este disco.
 
 Impresora Brother DCP 165-C
 
-![alt-text](https://bie-p-001.sitecorecontenthub.cloud/api/public/content/6df18c984238457ca42666754236517a?v=bc66b51d)
+<img src="./archivos/002.png" style="width:600px;height:800px;">
 
 Fecha de Manufactura: 2008  
 
