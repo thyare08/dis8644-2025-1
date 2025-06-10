@@ -5,11 +5,49 @@
 ### Proyecto-01
 
 - Presentación de mi Grupo-07; LDA Light Dependant Awelita
-- todo nuestro proceso esta en la sesion 06a de clifford1one y en el figma <https://www.figma.com/board/2tv4jx75qGZa6Gua2UCVer/taller.maq.electr?node-id=0-1&t=aBNh63yuq9MDT4AI-1>
+- Todo nuestro proceso oficial en detalle está en la sesión 06A de Clifford1One y en el Figma <https://www.figma.com/board/2tv4jx75qGZa6Gua2UCVer/taller.maq.electr?node-id=0-1&t=aBNh63yuq9MDT4AI-1>
 
-![tme-sesion06a-foto01](https://github.com/user-attachments/assets/c2cc97c2-12ce-4752-a620-c4cc16a9a289)
+![](./archivos/tme-sesion06a-foto01.jpeg)
+
+### Un poco del proceso
+
+- Primero elegimos uno de los tres circuitos que nos habían llamado la atención de esta página <https://www.555-timer-circuits.com>
+- Nos decidimos por el dark detector, ya que podía ser un proyecto con un potencial más sensible.
+- Realizamos algunos intentos por separado del circuito dark detector en la protoboard.
+
+![](./archivos/tme-foto40.png)
 
 fuente <https://www.555-timer-circuits.com>
+
+![](./archivos/tme-p1-circuitoDark.jpeg)
+
+- Después nos reunimos de manera online para realizar algunos cambios y mejorar el funcionamiento de acuerdo al usuario que habíamos escogido.
+- Traspasamos el circuito dark detector a Tinkercad para poder ir testeando más rápido y en conjunto.
+- Una vez decididos los cambios en el circuito, realizamos un BOM con todos los componentes necesarios.
+
+![](./archivos/foto35.jpeg)
+
+![](./archivos/foto43.jpeg)
+
+![](./archivos/tme-sesion05b-foto02.png)
+
+### Bill of Materials
+
+| Componente              | Valor | Unidades |
+|-------------------------|-------|----------|
+| Resistencia             | 10k   | 1        |
+| Resistencia             | 22k   | 1        |
+| Resistencia             | 100k  | 1        |
+| Resistencia             | 1M    | 1        |
+| Capacitor Cerámico      | 10nF  | 1        |
+| Capacitor Cerámico      | 100nF | 1        |
+| Capacitor Electrolítico | 10uF  | 1        |
+| LDR                     |       | 1        |
+| Bocina                  |       | 1        |
+| 555                     |       | 1        |
+| protoboard              |       | 1        |
+| Cables Dupont           |       | 1        |
+| Batería                 |  9V   | 1        |
 
 ## Presentaciones
 
@@ -21,7 +59,7 @@ fuente <https://www.555-timer-circuits.com>
 - objeto interactivo sonoro
 - tres modificaciones
 
-![tme-foto41](https://github.com/user-attachments/assets/787371fc-fa3d-43e0-88cb-c6e13fd17eee)
+![](./archivos/tme-foto41.jpeg)
 
 ### Grupo-03
 
@@ -29,7 +67,7 @@ fuente <https://www.555-timer-circuits.com>
 - suena muy armónico
 - metáfora de la sociedad y su circuito
 
-![tme-foto42](https://github.com/user-attachments/assets/665bd64c-2a53-4d1b-ba93-c1656ccdf123)
+![](./archivos/tme-foto42.jpeg)
 
 ### Grupo-04
 
@@ -39,7 +77,7 @@ fuente <https://www.555-timer-circuits.com>
 - interación de pulsador
 - pulsadores en paralelo
 
-![tme-foto43](https://github.com/user-attachments/assets/ca81eece-fdc6-4798-a857-ae02fb2f7d90)
+![](./archivos/tme-foto43.jpeg)
 
 ### Grupo-05
 
@@ -48,7 +86,7 @@ fuente <https://www.555-timer-circuits.com>
 - recrear un sonido que hizo Wendy Carlos
 - carcasa en impresión 3d
 
-![tme-foto44](https://github.com/user-attachments/assets/e3fe27fe-4985-4a16-88d8-5c10e4b18236)
+![](./archivos/tme-foto44.jpeg)
 
 ### Grupo-06
 
@@ -60,4 +98,4 @@ fuente <https://www.555-timer-circuits.com>
 - carcasa hecha en impresión 3D
 - circuito soldado no funcionó, pero es muy valorable que lo hayan intentado
 
-![tme-foto45](https://github.com/user-attachments/assets/2cf126a6-c943-44a7-a4c5-a10a516cea15)
+![](./archivos/tme-foto45.jpeg)
