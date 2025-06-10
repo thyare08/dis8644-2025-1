@@ -1,5 +1,9 @@
 # sesion-12b
 
+**Apuntes de la clase 27/05**
+
+![apuntes_12b_1](./archivos)
+
 ## Encargo 24
 
 Describir de forma textual 3 proyectos de máquinas electrónicas que quieran hacer de forma individual, ordenado por preferencia o interés de que sea desarrollado
