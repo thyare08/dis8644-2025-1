@@ -4,10 +4,10 @@
 
 ### Componentes eléctricos y introducción a github
 
-- Estudiamos los componentes que se encuentran en nuestras cajitas
-- Repaso de voltajes
-- Primer circuito eléctrico básico
-- Bases para escribir en GitHub
+- Estudiamos los componentes que se encuentran en nuestras cajitas.
+- Repaso de voltajes.
+- Primer circuito eléctrico básico.
+- Bases para escribir en GitHub.
 
 ![Foto caja con componentes](./archivos/tme-sesion01b-foto8.jpeg)
 
@@ -17,10 +17,10 @@
 
 ### Encargo-02: Aplex Twin
 
-- Álbum Selected Ambient Works Volume II Expanded Edition y Syro
-- Variedad de géneros como el techno, acid techno, jungle, ambient, glitch, experimental, entre otros
-- Sesiones de música completa, música ambiental
-- Transmiten ideas y sucesos; las canciones eran largas y te transportaban por diversos niveles
+- Álbum Selected Ambient Works Volume II Expanded Edition y Syro.
+- Variedad de géneros como el techno, acid techno, jungle, ambient, glitch, experimental, entre otros.
+- Sesiones de música completa, música ambiental.
+- Transmiten ideas y sucesos; las canciones eran largas y te transportaban por diversos niveles.
 
 ### Encargo-02: Aaron Swartz
 
@@ -39,9 +39,9 @@
 
 ### Encargo-03: Estudiar la caja de materiales inicial
 
-- Reconocimiento de los componentes existentes
-- Inventario y organización de los componentes que se encuentran en mi cajita
-- Estudio del significado de los colores de los cables
+- Reconocimiento de los componentes existentes.
+- Inventario y organización de los componentes que se encuentran en mi cajita.
+- Estudio del significado de los colores de los cables.
 
 ![Fotos de mis componentes](./archivos/tme-sesion01b-foto9.jpeg)
 
