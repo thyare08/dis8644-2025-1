@@ -68,7 +68,7 @@ El CD4017 cuenta, haciendo brillar un LED tras otro cuando recibe un input del c
 
 El __Output 4__ está conectado a __Reset__, para que al llegar a 4, vuelva a comenzar desde el inicio, evitando que intente encender LEDs que no existen.
 
-### Circuito armado </br>
+### Circuito armado
 ![Circuito en breadboard](./archivos/detectorSombrasCircuito.jpg)
 
 Fuente: [Misaa.cc](https://misaa.cc/)
