@@ -2,7 +2,9 @@
 
 Martes 27 de Mayo del 2025.
 
-## Apuntes
+Me encontraba con licencia pero de igual forma me consegui la materia con mis compañeras
+
+## Apuntes 
 
  Foto de mi bitácota
 
@@ -22,9 +24,6 @@ Foto circuito esquemático en mi bitácora.
 
  ![circuito esquemático parte 1](./archivos/parte_1.JPG)
 
-Foto circuito "parte 1" en protoboard.
-
-Video funcionamiento circuito "parte 1" en protoboard.
 
 ### Parte 2: Temporizador
 
@@ -36,23 +35,14 @@ Foto circuito esquemático en mi bitácora.
 
  ![circuito esquemático parte 2](./archivos/parte_2.JPG)
 
-Foto circuito "parte 2" en protoboard.
-
-Video funcionamiento circuito "parte 2" en protoboard.
-
 ### Parte 3: Secuenciador
 
 Al agregar el chip 4017, conseguimos que los LEDs se enciendan en secuencia cada vez que se pone una sombra sobre el LDR. Esto significa que, cuando el LDR se oscurece, el LED de la etapa 3 se enciende en orden.
-
-**Observación:** Aunque al principio el circuito no funcionaba bien, al poner un condensador electrolítico de 10uF entre el pin 16 y tierra, logramos que todo funcione de manera más estable.
 
 Foto circuito esquemático en mi bitácora.
 
  ![circuito esquemático parte 3](./archivos/parte_3.JPG)
 
-Foto circuito "parte 3" en protoboard.
-
-Video funcionamiento circuito "parte 3" en protoboard.
 
 ## Subir fotos a GitHub
 
