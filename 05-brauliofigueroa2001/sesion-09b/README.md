@@ -96,7 +96,7 @@ Heart of a Dog es un documental de 2015 dirigido por la artista visual y composi
 
 ### Habeas Corpus (2015)
 
-![andersonobra2](./archivos/9bimagen
+![andersonobra2](./archivos/9bimagen10.jpg)
 
 Esta nueva y cautivadora obra de arte combina cine, escultura, música y video para explorar la historia de Mohammed el Gharani, uno de los detenidos más jóvenes de la Bahía de Guantánamo. Abierto al público durante el día, HABEAS CORPUS invita a los visitantes a usar la sala de instrucción como un espacio para reflexionar sobre el tiempo, la identidad, la vigilancia y la libertad. El evocador ambiente de la sala de instrucción incluye un paisaje sonoro original e inmersivo que combina guitarras y amplificadores en retroalimentación, originalmente diseñado por Lou Reed, con sonidos derivados de la vigilancia de audio y la naturaleza. El espacio también se activará con presentaciones musicales improvisadas durante el día y concluirá por la noche con un concierto de celebración y una fiesta de baile con el cantante sirio Omar Souleyman, Merrill Garbus de tUnE-yArDs, la multiinstrumentista Shahzad Ismaily, el guitarrista Stewart Hurwood y la propia Anderson.
 
