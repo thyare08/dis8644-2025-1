@@ -46,22 +46,20 @@ llegué un poco tarde
 - **Circuito PWM**, pulse width modulation --- > modulación por ancho de pulso
 - en esta parte usaron tinkercad pero no lo utilicé porque no tenía internet en el celu y no me podía conectar al de la u
 - **explicación diagramada del ancho de pulso**
-- ![esquematico].(/archivos/9bimagen1.jpg)
+- ![esquematico](./archivos/9bimagen1.jpg)
 - **esquemático circuito PWM¨**
 
-- ![1000010842](https://github.com/user-attachments/assets/403bdae6-c7c1-45c4-81fd-2078caacdb73)
-
+![esquematicopwm](./archivos/9bimagen2.jpg)
 ### encargo-18: de tinkercad a protoboard
 
 traspasar circuito pwm hecho en tinkercad a protoboard
 
  no asistí el martes a clases por lo cual no estuve cuando revisaron el circuito armado en la protoboard, lo armé según estaba en el módulo de tinkercad pero aún así no funciona, no sé en que esté fallando. Lo que ocurre es que la luz led se enciende pero al girar el potenciómetro, no genera efecto alguno sobre la luz. En algo debo haberme equivocado pero no logro comprenderlo aún, adjunto fotos del circuito.
 
- ![tinkercad circuito](https://github.com/user-attachments/assets/2f169d57-832e-4081-88dc-d96904ee1d70)
+ ![tinkercad circuito](./archivos/9bimagen3.png)
 
- ![1000011318](https://github.com/user-attachments/assets/ddb066f4-54eb-4fd2-bf09-d2d17cda25d3)
-
- ![1000011329](https://github.com/user-attachments/assets/22516e39-d51b-4b5d-8674-10180ff86461)
+![circuito](./archivos/9bimagen4.jpg)
+![circuito](./archivos/9bimagen5.jpg)
 
 <https://github.com/user-attachments/assets/4e382456-b36f-415d-a4ec-26a28e4d2f01>
 
@@ -73,8 +71,7 @@ pregunté en clases en qué había fallado el circuito y misaaa me ayudó amable
 - se cambiaron los condensadores 474 por condensadores cerámicos de 104 en paralelo, estos fueron los unicos 2 cambios que se hicieron, adjunto video y foto del circuito funcionando
 - también se simplificó el circuito en la parte izquierda donde estaban los cables amarillos conectados a los diodos, se sacó uno y se conectaron ambos diodos a 1 cable
 
-![1000011407](https://github.com/user-attachments/assets/8e00869c-f543-4488-a646-c028e37c3c54)
-
+![circuito](./archivos/9bimagen6.jpg)
 <https://github.com/user-attachments/assets/f5e06c0a-44c3-4631-88b0-6982ab0ead84>
 
 ### encargo-19 Laurie Anderson
@@ -87,19 +84,19 @@ A continuación se mostrarán algunas de las obras destacadas de Laurie Anderson
 
 ### Chalkroom (2017-actualidad)
 
-![andersonobra](https://github.com/user-attachments/assets/18ffb3db-bbb6-484d-9f3c-9575eb639225)
+![andersonobra](./archivos/9bimagen7.jpg)
 
 En su página web se describe a esta obra como "Chalkroom es una obra de realidad virtual de Laurie Anderson y Hsin-Chien Huang en la que el lector vuela a través de una enorme estructura hecha de palabras, dibujos e historias. Una vez dentro, eres libre de vagar y volar. Las palabras surcan el aire como correos electrónicos. Se convierten en polvo. Se forman y se reforman."
 
 ### Heart Of A Dog (2015)
 
-![corazondeperro](https://github.com/user-attachments/assets/b8f2de74-49a5-4d0b-a50f-049cdf98e973)
+![corazondeperro](./archivos/9bimagen8.jpg)
 
 Heart of a Dog es un documental de 2015 dirigido por la artista visual y compositora Laurie Anderson. Se centra en los recuerdos que Anderson guarda de su difunta y querida perra Lolabelle, pianista y pintora con los dedos. Nonesuch Records lanzó una banda sonora con el mismo nombre el 23 de octubre de 2015.
 
 ### Habeas Corpus (2015)
 
-![andersonobra2](<https://github.com/user-attachments/assets/0760fcab-589a-4229-8969-4ca55ee393ab>
+![andersonobra2](./archivos/9bimagen
 
 Esta nueva y cautivadora obra de arte combina cine, escultura, música y video para explorar la historia de Mohammed el Gharani, uno de los detenidos más jóvenes de la Bahía de Guantánamo. Abierto al público durante el día, HABEAS CORPUS invita a los visitantes a usar la sala de instrucción como un espacio para reflexionar sobre el tiempo, la identidad, la vigilancia y la libertad. El evocador ambiente de la sala de instrucción incluye un paisaje sonoro original e inmersivo que combina guitarras y amplificadores en retroalimentación, originalmente diseñado por Lou Reed, con sonidos derivados de la vigilancia de audio y la naturaleza. El espacio también se activará con presentaciones musicales improvisadas durante el día y concluirá por la noche con un concierto de celebración y una fiesta de baile con el cantante sirio Omar Souleyman, Merrill Garbus de tUnE-yArDs, la multiinstrumentista Shahzad Ismaily, el guitarrista Stewart Hurwood y la propia Anderson.
 
@@ -109,7 +106,7 @@ El resultado es una obra innovadora que abarca los mundos de las artes visuales,
 
 ## Obra a analizar
 
-![laurie-anderson-amelia](https://github.com/user-attachments/assets/1aa637dc-72c0-4603-9923-fa188cbef8f5)
+![laurie-anderson-amelia](./archivos/9bimagen9.jpg)
 
 Amelia, (2024)
 
