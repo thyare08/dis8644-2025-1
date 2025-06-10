@@ -4,7 +4,7 @@
 
 ### Proyecto-01
 
-- Presentación de mi Grupo-07; LDA Light Dependant Awelita
+- Presentación de mi Grupo-07; LDA Light Dependant Awelita.
 - Todo nuestro proceso oficial en detalle está en la sesión 06A de Clifford1One y en el Figma <https://www.figma.com/board/2tv4jx75qGZa6Gua2UCVer/taller.maq.electr?node-id=0-1&t=aBNh63yuq9MDT4AI-1>
 
 ![Foto del proyecto presentado: protoboard e impresión 3D](./archivos/tme-sesion06a-foto01.jpeg)
