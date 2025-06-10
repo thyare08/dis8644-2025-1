@@ -24,7 +24,7 @@
 
 ![Foto protoboard](./archivos/tme-sesion04a-foto25.jpeg)
 
-## Encargo
+## Encargos
 
 ### 1-bit Symphony
 
