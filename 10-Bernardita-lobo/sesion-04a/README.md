@@ -11,7 +11,7 @@
 - Presentación oral
 - Funcionamiento sí o no
 
-![](./archivos/tme-sesion04a-foto24.jpeg)
+![Foto apuntes bitácora](./archivos/tme-sesion04a-foto24.jpeg)
 
 ### Atari Punk Console
 
@@ -22,7 +22,7 @@
 - Puede estar compuesto con un sensor de luz LDR o con potenciómetro.
 - Inputs: LDR, potenciómetro, orgánico, cuerpo.
 
-![](./archivos/tme-sesion04a-foto25.jpeg)
+![Foto protoboard](./archivos/tme-sesion04a-foto25.jpeg)
 
 ## Encargo
 
@@ -44,7 +44,7 @@
 - Nintendo llevó el lenguaje de 8 bits a otro nivel al componer la música de títulos icónicos como "Mario Bros" y "Zelda". Sin embargo, fue "Super Mario Bros 3" el que alcanzó la cúspide de la música en 8 bits, destacándose por su alta complejidad, ya que cada elemento del juego contaba con su propio sonido.
 - Finalmente, a mediados de los 80 salieron los primeros microchips. Esto permitió mejorar la capacidad de procesamiento y la calidad del sonido en los videojuegos, lo que hizo posible composiciones más complejas, marcando un antes y un después en la evolución de la música en los videojuegos.
 
-![](./archivos/tme-sesion04a-foto26.jpeg)
+![Foto apuntes bitácora](./archivos/tme-sesion04a-foto26.jpeg)
 
 ### ¿Qué es un bit?
 
@@ -73,4 +73,4 @@
 - Si mides su ubicación de manera vertical u horizontal, el orden de los factores sí altera el producto
 
 
-![](./archivos/tme-sesion04a-foto27.jpeg)
+![foto apuntes bitácora](./archivos/tme-sesion04a-foto27.jpeg)
