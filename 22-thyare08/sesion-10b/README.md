@@ -49,8 +49,7 @@ Usamos este cortados de alambre para cortarle el sobrante a los componentes
 ![alicate.jpg](./archivos/alicate.jpg)
 
 Imagen de la primera soldadura en la PCB se puede observar que estoy usando cautín y estaño (sin plomo)
-
-![VideoCapture_20250519-213359](https://github.com/user-attachments/assets/dfc3c76a-3e77-4d96-ad81-39d33202468b)
+![primera_soldadura_pcb.jpg](./archivos/primera_soldadura_pcb.jpg)
 
 Soldadura del Soporte de chip 555
 ![soldadura_soporte_chip.jpg](./archivos/soldadura_soporte_chip.jpg)
