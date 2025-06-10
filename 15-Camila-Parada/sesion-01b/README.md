@@ -68,7 +68,7 @@ Una pregunta curiosa que me surgió fue sobre la histoaria de los leds de color 
 
 ### 2. Encargo 02.1 : Aphex Twin - Come to Daddy
 
-![alt-text](https://cdn-images.dzcdn.net/images/cover/a7eb3f85c6e7b8205032008532cbb7cc/500x500-000000-80-0-0.jpg)
+![alt-text](./archivos/002.jpeg)
 
 Este álbum del 1997 cuenta con 8 canciones y tiene una duración aprox. de 33 minutos. Los videos fueron dirigidos por Chris Cunnignham. En este album se usaron ordenadores, sintetizadores de software, generando música a través de voces computerizadas. Originalmente lo temas se distribuyeron en 2 CDs separados: WAP94CD y WAP94CDR, más tarde estas versiones serían reemplazadas por un solo EP: WAP94CDX. El género de este álbum es electrónico IDM (Intelligent dance music) con los estilos Drum n Bass, Experimental, Abstract, Breaks.
 
@@ -84,7 +84,7 @@ Richard David James es el Dj y productor detrás de esta banda. De origen irland
 
 ### 3. Encargo 02.2 : La historia de Aaron Swartz, el hijo de internet
 
-![alt-text](https://es.gizmodo.com/app/uploads/2014/06/fld9vidyclow6xwhejqk.jpg)
+![alt-text](./archivos/003.jpg)
 
 Este documental muestra la vida, obra y muerte de Aaron Swarts. Es impactante de ver puesto que nos muestran lo corta que fue su vida. Desde sus más tempranos años fue continuamente aprendiendo en poco tiempo, pudiendo leer con tan solo 3 años. Cuando se le presenta una computadora, su curiosidad crece y se va desenvolviendo mediante programas y códigos. Gracias a sus conocimientos en programación pudo ayudar a desarrollar el lenguaje RSS, el formato Markdown, la fundación y establecimiento de "Creative Commons" y el impulso de Reddit. No le interesaba el dinero ni los bienes. Sus aspiraciones tenían fines políticos, por lo que se salían de los espacios laborales o empresariales. Los computadores y la programación eran como magia, lo que permite que la gente pueda hacer dinero o el bien (que terminaría siendo compartido). Nunca dejó de cuestionarse, de cuestionar el sistema y la sociedad en el cuál seguimos viviendo acualmente, en la que podemos resolver problemas pero no se hacen. Por ello decidió arriesgarse y verse involucrado en varias causas. Se centró en la política y en liberar las bibliotecas, puesto que el conocimiento de la humanidad se encontraba con la barrera del dinero (ya que se requierre de pagar por el acceso a estos) y los derechos de las personas (cuestionando la desigualdad frente al esfuerzo de algunas personas para tan solo poder comer, mientras que quienes discuten por ello se van haciendo más ricos). Por ello fue detenido como un criminal cibernético, comparando el robo de datos y documentos con el hurto de dinero. Ello me deja pensando en que la vida es muy injusta, y que para generar los reales cambios son necesarios generar grandes sacrificios para por lo menos hacer que la gente se siga cuestionando.
 
