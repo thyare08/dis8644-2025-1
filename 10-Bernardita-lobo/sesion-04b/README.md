@@ -10,7 +10,7 @@
 - Analizamos el funcionamiento y sistema electrónico de una botonera
 - Interfaz, intención y ergonomía
 
-![](./archivos/tme-sesion04b-01.jpeg)
+![Foto de apuntes de mi bitácora](./archivos/tme-sesion04b-01.jpeg)
 
 ### Circuito electrónico monoestable
 
@@ -18,7 +18,7 @@
 - Se mantiene estable hasta que es perturbado
 - Emite un único pulso de corriente durante un tiempo determinado
 
-![](./archivos/tme-sesion04b-componentes.jpeg)
+![Foto de caja de componentes](./archivos/tme-sesion04b-componentes.jpeg)
 
 ### Grandmother
 
@@ -26,7 +26,7 @@
 - Un instrumento musical pasa de gesto a sonido
 - Video: Wendy Carlos Demonstrates Her Moog Synthesizer <https://youtu.be/4SBDH5uhs4Q?si=6EMCE5zsOz8-7VFA>
 
-![](./archivos/tme-sesion04b-02.jpeg)
+![Foto de Sintetizador Moog Grandmother](./archivos/tme-sesion04b-02.jpeg)
 
 ## Encargos
 
@@ -39,7 +39,7 @@
 - Efectos de sonido y jingles.
 - Disruptivo para los puristas de la música.
 
-![](./archivos/tme-sesion04b-wendy.jpeg)
+![Foto de Wendy Carlos](./archivos/tme-sesion04b-wendy.jpeg)
 
 Fuente <https://artemetraje.com/wp-content/uploads/2023/02/19b38a-20201111-wendy-carlos.jpg>
 
@@ -60,15 +60,15 @@ Fuente <https://npr.brightspotcdn.com/dims4/default/d597491/2147483647/strip/tru
 - Para él, la creación del sintetizador fue una sucesión de simples casualidades.
 - Después del minuto 42:40 del documental, Robert Moog, junto a unos artistas, hace una serie de comentarios machistas y cosificadores, así que dejé de verlo.
 
-![](./archivos/tme-sesion04b-moog.jpeg)
+![Foto de Sintetizadores Moog](./archivos/tme-sesion04b-moog.jpeg)
 
 Fuente <https://media.wnyc.org/i/800/0/c/85/1/moog.jpg>
 
 Fuente <https://edm.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTc2OTEzMTgxODQ1NzU5NTcx/cbkkt9otkxlgyjdxrmxl7y.jpg>
 
-![](./archivos/tme-sesion04b-03.jpeg)
+![Foto de apuntes de mi bitácora](./archivos/tme-sesion04b-03.jpeg)
 
-![](./archivos/tme-sesion04b-04.jpeg)
+![Foto de apuntes de mi bitácora](./archivos/tme-sesion04b-04.jpeg)
 
 ### Encargo-11: Bajando opacidad a la caja negra
 
@@ -81,8 +81,8 @@ Fuente <https://edm.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_au
 
 ### Proceso de trabajo
 
-![](./archivos/tme-sesion04b-foto33.png)
+![Foto de Figma](./archivos/tme-sesion04b-foto33.png)
 
-![](./archivos/tme-sesion04b-foto34.png)
+![Foto de desarme en Figma](./archivos/tme-sesion04b-foto34.png)
 
-![](./archivos/tme-sesion04b-foto35.jpeg)
+![Foto de desarme con los componentes](./archivos/tme-sesion04b-foto35.jpeg)
