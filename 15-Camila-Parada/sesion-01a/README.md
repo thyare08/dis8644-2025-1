@@ -114,7 +114,7 @@ E) ¿Se producen subproductos? Si, en este caso a veces se filtran restos fresco
         
 F) Imágenes y diagramas 
         
-<img src="./image/001.jpg" style="width:600px;height:800px;">
+<img src="./archivos/001.jpg" style="width:600px;height:800px;">
         
 <br>
 
