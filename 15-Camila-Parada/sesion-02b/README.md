@@ -2,6 +2,8 @@
 
 _21 Marzo 2025_
 
+***
+
 ## Escaneo de bitácora
 
 ![001](https://github.com/user-attachments/assets/46331e01-fa69-4d4c-9920-68defbcf3a2d)
