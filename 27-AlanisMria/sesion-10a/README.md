@@ -26,11 +26,17 @@ En la lavadora muestra cifras numéricas que nos muestran el tiempo que tomará 
 
 ## Encargo 21: Simulación de circuitos con 555 y/o comparadores hechos con opamps en Falstad
 
-Durante el proceso, al no estar en clase hice todo de manera intuitiva y resultó bien, logré encontrar los componentes y diagramarlos de manera correcta, es algo bastante parecido a Kicad a mi percepción, a excepción de un pequeño detalle, en la última conexión del esquema me di cuenta que por alguna razón no lograba la alimentación de un componente.
+Durante el proceso, al no estar en clase hice todo de manera intuitiva, también con ayuda de mis compañeros y resultó bien, logré encontrar los componentes y diagramarlos de manera correcta, es algo bastante parecido a Kicad a mi percepción, a excepción de un pequeño detalle, en la última conexión del esquema me di cuenta que por alguna razón no lograba la alimentación de un componente.
 
 ![variacionAtariPunkEnFalstad](https://github.com/AlanisMria/dis8644-2025-1/blob/main/27-AlanisMria/sesion-10a/archivos/variacionAtariPunkEnFalstad.png)
 
+Al cambiar a una salida de audio logre la alimentacion del componente, pero al pponerle GND esta se bloqueaba.
 
+![Gnd](https://github.com/AlanisMria/dis8644-2025-1/blob/main/27-AlanisMria/sesion-10a/archivos/Gnd.png)
+
+Al quitar el GND hay flujo de corriente.
+
+![nognd](https://github.com/AlanisMria/dis8644-2025-1/blob/main/27-AlanisMria/sesion-10a/archivos/nognd.png)
 
 
 
