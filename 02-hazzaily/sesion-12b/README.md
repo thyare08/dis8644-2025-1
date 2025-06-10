@@ -83,18 +83,38 @@ Muchas graciasss, está muy lindo c:
 
 Describir 3 proyectos de máquinas electrónicas que quieran hacer de formal individual. Ordenar por preferencia o interés. 
 
- 1. A
+ 1. **Lámpara con sensor:** Es una luz que se enciende al detectar movimiento, que intecatúa con el ambiente.
 
- 2. B
+ 2. **Cuadro LEDs:** Iluminación decorativa para espacios apagados o de trabajo, ofrece algún tipo de motivación.
 
- 3. C
+ 3. **Ventilador personal para PC:** Viento y aire para el usuario, relajación durante el trabajo.
 
 ## Encargo 25:
 
 Dibujar diagrama de comportamiento, flujos de interacción. No especificar chips. Considerar procesos de manera especulativa.
 
- -  ¿Cuánto tiempo se usará?
- -  ¿Qúe encendidos y apagados tiene?
- -  ¿Cómo se interactúa?
+###  ¿Cuánto tiempo se usará?
+
+ 1. Se utiliza de manera momentánea, sólo cuando el usuario necesita la luz en específico
+
+ 2. Se mantiene encendido durante el tiempo que el usuario lo requiera o desee, no hay un tiempo específico al ser un objeto de decoración.
+
+ 3. Se utiliza mientras se trabaja en el PC durante días de calor excesivo, o en momentos de estrés. Depeniendo de la situación varía el uso.
+
+### ¿Qúe encendidos y apagados tiene?
+
+ 1. Se enciende al recibir un estimulo por parte de un objeto o persona en movimiento. Y se apaga después de cierto tiempo al no recibir estímulo alguno.
+
+ 2. A través de una acción como presionar o deslizar se enciende este cuadro, y con el mismo movimiento también podemos apagarlo.
+
+ 3. En cuanto se conecta al PC se enciente, y en cuanto se desconecta se apaga.
+
+### Diagrama de flujo:
+
+ 1. **Input:** Persona u objeto en movimiento > **Proceso:** Enciende algún tipo de temporizador > **Output:** Se enciende la luz por el tiempo estimado.
+
+ 2. **Input:** Persona realiza deslamiento o presión > **Proceso:** Da paso al encendimiento de los LEDs > **Output:** LEDs que se mantienen encendidos en una misma forma hasta que el usuario lo apaga.
+
+ 3. **Input:** Persona conecta el objeto al PC > **Proceso:** Se traspasa la electricidad del PC al objeto > **Output:** El objeto gira y genera aire para el usuario, hasta que es desconectado. 
 
 Fotos de mi autoría.
