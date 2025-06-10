@@ -2,7 +2,7 @@
 
 **Apuntes de la clase 27/05**
 
-![apuntes_12b_1.jpg](.\archivos)
+![apuntes_12b_1.jpg](.\archivos\apuntes_12b_1.jpg)
 
 ## Encargo 24
 
