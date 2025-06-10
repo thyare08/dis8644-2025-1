@@ -33,6 +33,12 @@
 - Circuito electrónico programado para generar sonido en tiempo real.
 - Sonidos generados por encendidos y apagados, similares a los videojuegos.
 
+
+
+Fuente <https://composerfocus.com/wp-content/uploads/2012/05/1bit01.jpg>
+
+Fuente <https://f4.bcbits.com/img/0004731944_71.jpg>
+
 ### Primeros sonidos en los videojuegos
 
 - Video "Música y videojuegos: 40 años de arte sonoro" <https://youtu.be/0zuqYId4s3Q?si=G7SqTVAYq9nPEjfa>
