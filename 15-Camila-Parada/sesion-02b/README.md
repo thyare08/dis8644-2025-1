@@ -1,6 +1,6 @@
 # ⋆₊˚⊹♡ Clase 02b - Primeros circuitos ♡⊹˚₊⋆
 
-_21 Marzo 2025_
+_Viernes 21 Marzo 2025_
 
 ***
 
