@@ -66,7 +66,7 @@ Fuente: <https://github.com/disenoUDP/dis8644-2025-1/blob/main/00-docentes/sesio
 
 El MOSFET es controlado mediante un pulldown resistor, porque si __*Gate*__ no fuese conectada a GND, el MOSFET permanecería __*HIGH*__ (interruptor cerrado) </brD4 se encarga de proteger el MOSFET del "golpe" de voltaje reverso producido por el motor al apagarse, esto ocurre porque el motor está tomando corriente mientras gira, luego le cortamos la corriente, pero sigue girando por inercia, por lo que se pone a producir corriente, causando que la terminal del motor que antes estaba conectada a GND ahora tenga un exceso de voltaje positivo, el cual es llevado al riel positivo por el diodo.
 
-![Circuito PWM + MOSFET]./archivos/pwmMosfetCircuit.jpg)
+![Circuito PWM + MOSFET](./archivos/pwmMosfetCircuit.jpg)
 
 ### Other things: <!-- Things to organize + random stuff -->
 
