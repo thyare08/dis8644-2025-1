@@ -14,15 +14,15 @@
 
 ![Foto apuntes de mi bitácora](./archivos/tme-sesion02a-foto11.jpeg)
 
-## Encargo
+## Encargos
 
-### 04-Cultura electrónica chilena y latinoamericana
+### Encargo-04: Cultura electrónica chilena y latinoamericana
 
 - Escuchar un álbum de Pueblo Nuevo
 - Álbum El poder corrompe por Daniel Jeffs
 - La presencia del tempo
 
-### 05-Estudio de resistores y circuitos en serie y paralelo
+### Encargo-05: Estudio de resistores y circuitos en serie y paralelo
 
 - ¿Cómo identificar el valor de las resistencias a través de la tabla de códigos de colores?
 - Componentes y circuitos
