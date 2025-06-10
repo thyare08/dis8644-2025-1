@@ -13,16 +13,16 @@
 
 ![foto5](https://github.com/user-attachments/assets/4fc794e2-8415-4af5-a2db-6e27aa7027b9)
 
-## Encargo
+## Encargos
 
-### 02-Aplex Twin
+### Encargo-02: Aplex Twin
 
 - Álbum Selected Ambient Works Volume II Expanded Edition y Syro
 - Variedad de géneros como el techno, acid techno, jungle, ambient, glitch, experimental, entre otros
 - Sesiones de música completa, música ambiental
 - Transmiten ideas y sucesos; las canciones eran largas y te transportaban por diversos niveles
 
-### 02-Aaron Swartz
+### Encargo-02: Aaron Swartz
 
 - Video documental "The Story of Aaron Swartz" <https://youtu.be/9vz06QO3UkQ?si=af0mqpFzA42sv1d8>
 - Información adicional <https://www.infobae.com/historias/2025/01/11/un-hacker-convertido-en-martir-el-suicidio-del-prodigio-que-libero-el-conocimiento-restringido-de-la-web-y-fue-perseguido-por-el-fbi/?outputType=amp-type>
@@ -37,7 +37,7 @@
 
 ![foto2](https://github.com/user-attachments/assets/68e9150f-f196-421d-8f64-ea3c7ee603a4)
 
-### 03-Estudiar la caja de materiales inicial
+### Encargo-03: Estudiar la caja de materiales inicial
 
 - Reconocimiento de los componentes existentes
 - Inventario y organización de los componentes que se encuentran en mi cajita
