@@ -12,7 +12,7 @@ para el primer caso, mi objetivo será manipular los parámetros para que la com
 
 ![sección de parámetros especiales sitio "jlcpcb"](./archivos/tme-07b-section3.png)
 
-![sección cobro sitio "jlcpcb"](tme-07b-./archivos/sectionBoleta.png)
+![sección cobro sitio "jlcpcb"](./archivos/tme-07b-sectionBoleta.png)
 
 
 ### encargo experimental: cotizar pcb 
