@@ -69,49 +69,50 @@ fuente <https://www.555-timer-circuits.com>
 
 ### Grupo-02
 
-- modificar el sonido
-- tres pulsadores
-- interruptor de dos tiempor que frena la energía
-- objeto interactivo sonoro
-- tres modificaciones
+- Modificar el sonido.
+- Tres pulsadores.
+- Interruptor de dos tiempos que corta la energía.
+- Objeto interactivo sonoro.
+- Tres modificaciones.
 
 ![Foto del proyecto de mis compañer@s](./archivos/tme-foto41.jpeg)
 
 ### Grupo-03
 
-- incorponaron un motor y un LDR
-- suena muy armónico
-- metáfora de la sociedad y su circuito
+- Incorporaron un motor y un LDR.
+- Suena muy armónico.
+- Metáfora de la sociedad y su circuito.
 
 ![Foto del proyecto de mis compañer@s](./archivos/tme-foto42.jpeg)
 
 ### Grupo-04
 
-- experimentación basada en las clases
-- los LDR modifican la frecuencia de su bocina
-- variación de interruptor
-- interación de pulsador
-- pulsadores en paralelo
+- Experimentación basada en las clases.
+- Los LDR modifican la frecuencia de su bocina.
+- Variación del interruptor.
+- Interacción del pulsador.
+- Pulsadores en paralelo.
 
 ![Foto del proyecto de mis compañer@s](./archivos/tme-foto43.jpeg)
 
 ### Grupo-05
 
-- sintetizador pocket de uso recreativo
-- un sonido más variable de escala descendiente
-- recrear un sonido que hizo Wendy Carlos
-- carcasa en impresión 3d
+- Experimentación basada en las clases.
+- Los LDR modifican la frecuencia de su bocina.
+- Variación del interruptor.
+- Interacción del pulsador.
+- Pulsadores en paralelo.
 
 ![Foto del proyecto de mis compañer@s](./archivos/tme-foto44.jpeg)
 
 ### Grupo-06
 
-- hacer un teclado electrónico.
-- ¿cómo se genera una nota musical?
-- a mayor resistencia, menos oscilaciones por segundo
-- frecuencia y notas musicales
-- en vez de botones, experimentaron con caimanes
-- carcasa hecha en impresión 3D
-- circuito soldado no funcionó, pero es muy valorable que lo hayan intentado
+- Hacer un teclado electrónico.
+- ¿Cómo se genera una nota musical?
+- A mayor resistencia, menos oscilaciones por segundo.
+- Frecuencia y notas musicales.
+- En vez de botones, experimentaron con caimanes.
+- Carcasa hecha mediante impresión 3D.
+- Circuito soldado no funcionó, pero es muy valorable que lo hayan intentado.
 
 ![Foto del proyecto de mis compañer@s](./archivos/tme-foto45.jpeg)
