@@ -7,7 +7,7 @@
 - Presentación de mi Grupo-07; LDA Light Dependant Awelita
 - Todo nuestro proceso oficial en detalle está en la sesión 06A de Clifford1One y en el Figma <https://www.figma.com/board/2tv4jx75qGZa6Gua2UCVer/taller.maq.electr?node-id=0-1&t=aBNh63yuq9MDT4AI-1>
 
-![](./archivos/tme-sesion06a-foto01.jpeg)
+![Foto del proyecto presentado: protoboard e impresión 3D](./archivos/tme-sesion06a-foto01.jpeg)
 
 ### Un poco del proceso
 
@@ -15,21 +15,21 @@
 - Nos decidimos por el dark detector, ya que podía ser un proyecto con un potencial más sensible.
 - Realizamos algunos intentos por separado del circuito dark detector en la protoboard.
 
-![](./archivos/tme-foto40.png)
+![Foto de los tres esquemáticos](./archivos/tme-foto40.png)
 
 fuente <https://www.555-timer-circuits.com>
 
-![](./archivos/tme-p1-circuitoDark.jpeg)
+![Foto de la protoboard con el circuito Dark Detector](./archivos/tme-p1-circuitoDark.jpeg)
 
 - Después nos reunimos de manera online para realizar algunos cambios y mejorar el funcionamiento de acuerdo al usuario que habíamos escogido.
 - Traspasamos el circuito dark detector a Tinkercad para poder ir testeando más rápido y en conjunto.
 - Una vez decididos los cambios en el circuito, realizamos un BOM con todos los componentes necesarios.
 
-![](./archivos/foto35.jpeg)
+![Foto de nuestra reunión de trabajo en línea](./archivos/foto35.jpeg)
 
-![](./archivos/foto43.png)
+![Captura de pantalla de nuestra reunión de trabajo en línea](./archivos/foto43.png)
 
-![](./archivos/tme-sesion05b-foto02.png)
+![Captura de pantalla del circuito en Tinkercad](./archivos/tme-sesion05b-foto02.png)
 
 ### Bill of Materials
 
@@ -55,15 +55,15 @@ fuente <https://www.555-timer-circuits.com>
 - La modelamos en Rhino 8, considerando el tamaño de los componentes y su funcionalidad. 
 - Luego la imprimimos en 3D con filamento PLA, obteniendo una estructura resistente y liviana.
 
-![](./archivos/tme-p1-modelado0.png)
+![Captura de pantalla del modelado 3D en Rhino](./archivos/tme-p1-modelado0.png)
 
-![](./archivos/tme-p1-modelado1.png)
+![Captura de pantalla del modelado 3D en Rhino](./archivos/tme-p1-modelado1.png)
 
-![](./archivos/tme-p1-modelado.png)
+![Captura de pantalla del modelado 3D en Rhino](./archivos/tme-p1-modelado.png)
 
-![](./archivos/tme-p1-render.png)
+![Captura de pantalla del modelado 3D en Rhino](./archivos/tme-p1-render.png)
 
-![](./archivos/tme-sesion06a-foto01.jpeg)
+![Foto del proyecto presentado: protoboard e impresión 3D](./archivos/tme-sesion06a-foto01.jpeg)
 
 ## Presentaciones
 
@@ -75,7 +75,7 @@ fuente <https://www.555-timer-circuits.com>
 - objeto interactivo sonoro
 - tres modificaciones
 
-![](./archivos/tme-foto41.jpeg)
+![Foto del proyecto de mis compañer@s](./archivos/tme-foto41.jpeg)
 
 ### Grupo-03
 
@@ -83,7 +83,7 @@ fuente <https://www.555-timer-circuits.com>
 - suena muy armónico
 - metáfora de la sociedad y su circuito
 
-![](./archivos/tme-foto42.jpeg)
+![Foto del proyecto de mis compañer@s](./archivos/tme-foto42.jpeg)
 
 ### Grupo-04
 
@@ -93,7 +93,7 @@ fuente <https://www.555-timer-circuits.com>
 - interación de pulsador
 - pulsadores en paralelo
 
-![](./archivos/tme-foto43.jpeg)
+![Foto del proyecto de mis compañer@s](./archivos/tme-foto43.jpeg)
 
 ### Grupo-05
 
@@ -102,7 +102,7 @@ fuente <https://www.555-timer-circuits.com>
 - recrear un sonido que hizo Wendy Carlos
 - carcasa en impresión 3d
 
-![](./archivos/tme-foto44.jpeg)
+![Foto del proyecto de mis compañer@s](./archivos/tme-foto44.jpeg)
 
 ### Grupo-06
 
@@ -114,4 +114,4 @@ fuente <https://www.555-timer-circuits.com>
 - carcasa hecha en impresión 3D
 - circuito soldado no funcionó, pero es muy valorable que lo hayan intentado
 
-![](./archivos/tme-foto45.jpeg)
+![Foto del proyecto de mis compañer@s](./archivos/tme-foto45.jpeg)
