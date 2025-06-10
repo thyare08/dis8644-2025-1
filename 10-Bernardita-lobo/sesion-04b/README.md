@@ -10,6 +10,7 @@
 - analizamos el funcionamiento y sistema electrónico de una botonera
 - interfaz, intención y ergonomía
 
+![](./archivos/tme-sesion04b-01.jpeg)
 ![foto28](https://github.com/user-attachments/assets/7d0c4353-8013-4b4c-a0a5-73f847f5d0ad)
 
 ### Circuito electrónico monoestable
@@ -18,6 +19,7 @@
 - se mantiene estable hasta que es perturbado
 - emite un único pulso de corriente durante un tiempo determinado
 
+![](./archivos/tme-sesion04b-componentes.jpeg)
 ![foto30](https://github.com/user-attachments/assets/a5044861-b7b7-4999-9bf1-ad8a6f363bf4)
 
 ### Grandmother
@@ -26,6 +28,7 @@
 - un instrumento musical pasa de gesto a sonido
 - video: wendy carlos demonstrates her moog synthesizer
 
+![](./archivos/tme-sesion04b-02.jpeg)
 ![foto29](https://github.com/user-attachments/assets/00a91f8b-9c35-44c2-8040-9c94c409347e)
 
 ## encargos
@@ -38,6 +41,8 @@
 - popularizó los sintetizadores moog y revolucionó la tecnología musical.
 - efectos de sonido y jingles.
 - disruptivo para los puristas de la música.
+
+![](./archivos/tme-sesion04b-wendy.jpeg)
 
 Fuente <https://artemetraje.com/wp-content/uploads/2023/02/19b38a-20201111-wendy-carlos.jpg>
 
@@ -58,9 +63,15 @@ Fuente <https://npr.brightspotcdn.com/dims4/default/d597491/2147483647/strip/tru
 - para él la creación del sintetizador fue una sucesión de simples casualidades.
 - después del minuto 42:40 del documental, robert moog junto a unos artistas, hace una serie de comentarios machistas y cosificadores, así que deje de verlo.
 
+![](./archivos/tme-sesion04b-moog.jpeg)
+
 Fuente <https://media.wnyc.org/i/800/0/c/85/1/moog.jpg>
 
 Fuente <https://edm.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTc2OTEzMTgxODQ1NzU5NTcx/cbkkt9otkxlgyjdxrmxl7y.jpg>
+
+![](./archivos/tme-sesion04b-03.jpeg)
+
+![](./archivos/tme-sesion04b-04.jpeg)
 
 ![foto32](https://github.com/user-attachments/assets/ed6b3444-2466-4a1d-8ae5-9e4c4eac13ca)
 ![foto31](https://github.com/user-attachments/assets/f696c017-8e36-4065-a300-ad4a669ed5bd)
@@ -77,6 +88,13 @@ Fuente <https://edm.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_au
 ### El comienzo de los walkie talkie
 
 falta transcribir y insertar foto*
+
+![](./archivos/tme-sesion04b-foto33.jpeg)
+
+![](./archivos/tme-sesion04b-foto34.jpeg)
+
+![](./archivos/tme-sesion04b-foto35.jpeg
+
 ![tme-foto33](https://github.com/user-attachments/assets/4985511b-4776-49e3-aa69-df5cab51904d)
 ![tme-foto34](https://github.com/user-attachments/assets/4a438290-b390-4b60-93bd-6c692163bfdc)
 ![tme-foto35](https://github.com/user-attachments/assets/ece66632-f6c2-4d93-887e-dad3a75a3c64)
