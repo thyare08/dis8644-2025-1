@@ -8,19 +8,19 @@ Apuntes de la clase
 
 ![apuntes_12a_3.jpg](./archivos/apuntes_12a_3.jpg)
 
-**Etapa 1**
+Etapa 1
 
 ![lm324n_1.jpg](./archivos/lm324n_1.jpg)
 
 ![lm324n_2.jpg](./archivos/lm324n_2.jpg)
 
-**Etapa 2**
+Etapa 2
 
 ![lm324n_555_1.jpg](./archivos/lm324n_555_1.jpg)
 
 ![lm324n_555_2.jpg](./archivos/lm324n_555_2.jpg)
 
-**Etapa 3**
+Etapa 3
 
 ![lm324n_555_4017_encendido.jpg](./archivos/lm324n_555_4017_encendido.jpg)
 

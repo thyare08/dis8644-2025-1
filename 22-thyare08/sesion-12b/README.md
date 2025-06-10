@@ -1,6 +1,6 @@
 # sesion-12b
 
-**Apuntes de la clase 27/05**
+Apuntes de la clase 27/05
 
 ![apuntes_12b_1.jpg](./archivos/apuntes_12b_1.jpg)
 
@@ -18,4 +18,4 @@ Describir de forma textual 3 proyectos de máquinas electrónicas que quieran ha
 
 ## Encargo 25
 
-**Dinujar con diagrama de comportamiento, flujos de interacción. Sin patatas fritas específicas. Considerar procesos de manera especulativas. ¿Cuánto tiempo se usará?¿Qué encendidos y apagados tiene?¿Cómo se interactúa?**
+Dibujar con diagrama de comportamiento, flujos de interacción. Sin patatas fritas específicas. Considerar procesos de manera especulativas. ¿Cuánto tiempo se usará?¿Qué encendidos y apagados tiene?¿Cómo se interactúa?
