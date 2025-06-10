@@ -19,9 +19,9 @@
 - Lista de componentes utilizados para el circuito.
 - Tabla BOM (Bill of Materials) en Markdown.
 
-![foto](./archivos/foto36.jpeg)
+![Foto del circuito Atari Punk Console en protoboard](./archivos/foto36.jpeg)
 
-![foto](./archivos/tme-foto37.jpeg)
+![Foto de apuntes en mi bitácora](./archivos/tme-foto37.jpeg)
 
 ### BOM
 
@@ -46,8 +46,8 @@
 - Aprendí a hacer circuitos en Tinkercad; esto sirve para ir testeando y ordenando los componentes.
 - Conversamos ideas para las modificaciones al Atari Punk Console.
 
-![foto](./archivos/foto35.jpeg)
+![Foto de nuestra reunión de trabajo en línea](./archivos/foto35.jpeg)
 
-![foto](./archivos/foto43.png)
+![Captura de pantalla de nuestra reunión de trabajo en línea](./archivos/foto43.png)
 
-![foto](./archivos/foto39.png)
+![Captura de pantalla del circuito en Tinkercad](./archivos/foto39.png)
