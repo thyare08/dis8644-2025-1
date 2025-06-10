@@ -8,13 +8,9 @@
 
 - SRD05 (relé): Para controlar on/off por el usuario
 
-***
-
 - 555 Timer
-
-    - Astable: genera señal oscilante // in: R y C // out: LEDs, sonido
-    
-    - Monostable: cambia de estado al recibir una señal // in: R y C // out: LEDs, sonido
+  - Astable: genera señal oscilante // in: R y C // out: LEDs, sonido
+  - Monostable: cambia de estado al recibir una señal // in: R y C // out: LEDs, sonido
 
 - Módulo: e-, componentes, circuitos (apc, as, ms, pls)
 

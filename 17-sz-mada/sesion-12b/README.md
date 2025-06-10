@@ -14,7 +14,7 @@ web 1.0: pre-2000, apenas cargaba gifs // web 2.0: rss feed, net art (a esto se 
 
 [Summer - Olia Lialina](https://art.teleportacia.org/olia/summer/) &rarr; cada frame es un sitio web de sus amigos
 
-Muchos de los proyectos de Christian fueron echos en Adobe Flash, así que ahora están obsoletos
+Muchos de los proyectos de Christian fueron hechos en Adobe Flash, así que ahora están obsoletos.
 
 Bienal Artes Mediales 2015 &rarr; [drumCircle\[\]](https://error404.cl/drumCircle/)
 
