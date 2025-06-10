@@ -27,7 +27,7 @@ fuente <https://www.555-timer-circuits.com>
 
 ![](./archivos/foto35.jpeg)
 
-![](./archivos/foto43.jpeg)
+![](./archivos/foto43.png)
 
 ![](./archivos/tme-sesion05b-foto02.png)
 
@@ -48,6 +48,22 @@ fuente <https://www.555-timer-circuits.com>
 | protoboard              |       | 1        |
 | Cables Dupont           |       | 1        |
 | Batería                 |  9V   | 1        |
+
+### Carcasa del proyecto
+
+- Diseñamos una carcasa (caja negra) para nuestro proyecto, pensada en las necesidades del usuario. 
+- La modelamos en Rhino 8, considerando el tamaño de los componentes y su funcionalidad. 
+- Luego la imprimimos en 3D con filamento PLA, obteniendo una estructura resistente y liviana.
+
+![](./archivos/tme-p1-modelado0.png)
+
+![](./archivos/tme-p1-modelado1.png)
+
+![](./archivos/tme-p1-modelado.png)
+
+![](./archivos/tme-p1-render.png)
+
+![](./archivos/tme-sesion06a-foto01.jpeg)
 
 ## Presentaciones
 
