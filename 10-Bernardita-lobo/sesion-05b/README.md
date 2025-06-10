@@ -9,7 +9,7 @@
 - la segunda propuesta era una especie de ruleta un poco compleja de realizar.
 - la tercera propuesta que fue finalmente la elegida, consiste en un circuito que emite una alarma cuando el LDR no detecta luz. esta idea tiene una carga más sensible  y puede resultar más práctica en su aplicación.
 
-![tme-foto40](https://github.com/user-attachments/assets/4bc56ebf-00a5-4fc8-8d59-58c476996f01)
+![Foto de los tres esquemáticos](./archivos/tme-foto40.png)
 
 fuente <https://www.555-timer-circuits.com>
 
@@ -30,13 +30,13 @@ fuente <https://www.555-timer-circuits.com>
 - coloca la punta del cautín tocando al mismo tiempo la pata del componente y el agujero por tres segundos.
 - acerca el estaño hasta que se derrita, retira el estaño y luego el cautín.
 
-![foto37](https://github.com/user-attachments/assets/1aba7514-5381-4ca3-b246-bfe82ca7533b)
+![Foto](./archivos/foto37.jpeg)
 
 ## Encargo
 
 ### Álbum "Kind of blue" por Miles Davis
 
-- fuente <https://www.chicagoacademyforthearts.org/heads-blog-2/2021/2/12/a-quick-intro-to-the-brilliance-of-miles-davis#:~:text=In%20addition%20to%20being%20widely,jazz%2C%20and%20%E2%80%9Cfusion%E2%80%9D>
+- Fuente <https://www.chicagoacademyforthearts.org/heads-blog-2/2021/2/12/a-quick-intro-to-the-brilliance-of-miles-davis#:~:text=In%20addition%20to%20being%20widely,jazz%2C%20and%20%E2%80%9Cfusion%E2%80%9D>
 - video "Leyendas: Miles Davis" <https://youtu.be/TRF5EOQDmpQ?si=xu0QRHl0VvkuqtDj>
 - recomendación de Misa
 - también escuché el álbum "birth of the cool"
@@ -51,6 +51,6 @@ fuente <https://www.555-timer-circuits.com>
 - comenzamos traspasando el esquemático a la protoboard.
 - hicimos un circuito en tinkercad para ordenar las ideas
 
-![tme-p1-circuitoDark](https://github.com/user-attachments/assets/30facf24-9226-4817-8323-9fd323db803e)
-![tme-p1-bitacoraBoceto](https://github.com/user-attachments/assets/c882ba90-2141-40b1-9835-bb8a2cd4184c)
-![tme-sesion05b-foto02](https://github.com/user-attachments/assets/7c7ea339-e47d-4df1-8492-e6b20055ce1c)
+![Foto](./archivos/tme-p1-circuitoDark.jpeg)
+![Foto](./archivos/tme-p1-bitacoraBoceto.jpeg)
+![Foto](./archivos/tme-sesion05-foto02.png)
