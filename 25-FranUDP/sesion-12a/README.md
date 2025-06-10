@@ -3,11 +3,11 @@
 ## Apuntes
 
 ### Semáforo
-Misaa nos preguntó como podríamos hacer un semáforo con el CD4017, considerando que cada una de las 3 luces se mantiene encendida por un período de tiempo distinto.
+Misaa nos preguntó cómo podríamos hacer un semáforo con el CD4017, considerando que cada una de las 3 luces se mantiene encendida por un período de tiempo distinto.
 
-Yo propuse hacer que el output 1 active un transistor que conecte otro(s) capacitor(es) al circuito astable (555) que lo haría funcionar, efectivamente cambiando la frecuancia a la que corre el circuito, variando el tiempo que se mantiene encendida cada LED.
+Yo propuse hacer que el output 1 active un transistor que conecte otro(s) capacitor(es) al circuito astable (555) que lo haría funcionar, efectivamente cambiando la frecuencia a la que corre el circuito, variando el tiempo que se mantiene encendida cada LED.
 
-@SebastianSaez1003 propuso conectar múltiles outputs a un mismo LED para variar el tiempo que permanecen encendidos cada uno, sin embargo, nos dimos cuenta que la cantidad de outputs no serían suficientes 
+@SebastianSaez1003 propuso conectar múltiples outputs a un mismo LED para variar el tiempo que permanecen encendidos cada uno, sin embargo, nos dimos cuenta que la cantidad de outputs no serían suficientes 
 
 Misaa propuso utilizar el pin __Clock Inhibit__ para extender el tiempo de encendido
 
@@ -18,12 +18,12 @@ Misaa propuso utilizar el pin __Clock Inhibit__ para extender el tiempo de encen
 * Divisor de frecuencia
 * Controlador de timers y contadores
 * __Clock Inhibit__: Detiene el contador, mantiene el output actual, hasta que sea conectado a __GND__
-* __Reset__: Vuelve a contar desde 0 si recive una señal __HIGH__
+* __Reset__: Vuelve a contar desde 0 si recibe una señal __HIGH__
 * __Carry Out__: después del output 9 emite un pulso para señalar que completó un set de 10 haciendo que, junto con otros CD4017, puedan contar más allá de 10, 100, 1000, etc. (cascading) 
 
 ### [W3 schools](https://www.w3schools.com/)
 Sitio web educativo y __gratuito__ con tutoriales, ejemplos, ejercicios y otros recursos para aprender varios lenguajes de programación. </br>
-Similar a [__Exercism.org__](https://exercism.org/) pero __W3__ se enfoca más en tutoriales y guias, mientras que __Exercism__ se enfoca en practicar
+Similar a [__Exercism.org__](https://exercism.org/) pero __W3__ se enfoca más en tutoriales y guías, mientras que __Exercism__ se enfoca en practicar
 
 ### HTML
 Agregar imágenes con texto alternativo:
@@ -42,14 +42,14 @@ El circuito utiliza un __LDR__ conectado a una resistencia para formar un diviso
 
 El LM324 (comparador) compara el voltaje que sale del LDR y el potenciómetro (conectado como divisor de voltaje) para emitir __LOW__ cuando haya poca luz.
 
-El potenciómetro se usa para calibrar el aparato, ya que en distintos lugares hay distintas luminocidades.
+El potenciómetro se usa para calibrar el aparato, ya que en distintos lugares hay distintas luminosidades.
 
 Para evaluar si el circuito funciona o no, se colocó un LED en el __Output__ del comparador.
 
 </br></br></br></br></br></br>
 
 ### Parte 2: Procesamiento </br>
-<img align="left" src="./archivos/ne555.png" alt="NE555 monostable" width=350> Este circuito se encarga de tomar el output del comparador, que emite ___HIGH__ por defecto, e invertir la señal, además de incorporar un delay en el cambio de estado del __Output__ del NE555, para evitar que se envien múltiples pulsos (estabilizar la señal), ya sea por rápidad activaciones consecutivas intencionales o accidentales, o inestabilidad del circuito de la parte 1.
+<img align="left" src="./archivos/ne555.png" alt="NE555 monostable" width=350> Este circuito se encarga de tomar el output del comparador, que emite ___HIGH__ por defecto, e invertir la señal, además de incorporar un delay en el cambio de estado del __Output__ del NE555, para evitar que se envíen múltiples pulsos (estabilizar la señal), ya sea por rápidas activaciones consecutivas intencionales o accidentales, o inestabilidad del circuito de la parte 1.
 
 Este circuito también cuenta con un LED para confirmar el correcto funcionamiento de este.
 
@@ -63,12 +63,12 @@ El __Output 4__ está conectado a __Reset__, para que al llegar a 4, vuelva a co
 </br></br></br></br></br></br></br></br></br></br></br></br></br>
 
 ### Circuito armado </br>
-<img align="left" src="./archivos/detectorSombrasCircuito.jpg" alt="Circuito en breadboard" width=550> Por la falta de espacio en la breadboard, hise unas pequeñas modificaciones, específicamente tratando de las resistencias que van con cada LED, Ya que pensando que el chip debe funcionar como un switch, que deja pasar la corriente que tiene en su pin Vcc a los distintos outputs, poner una resistencia en Vcc debería ser lo mismo que poner una en cada LED (mismo lugar eléctricamente hablando). En la práctica, el CD4017 se comportaba de forma errática al recibir un input regresando hacia atrás el contador y pulsando cuando __Clock__ recive tanto __HIGH__ como __LOW__.
+<img align="left" src="./archivos/detectorSombrasCircuito.jpg" alt="Circuito en breadboard" width=550> Por la falta de espacio en la breadboard, hice unas pequeñas modificaciones, específicamente tratando de las resistencias que van con cada LED, Ya que pensando que el chip debe funcionar como un switch, que deja pasar la corriente que tiene en su pin Vcc a los distintos outputs, poner una resistencia en Vcc debería ser lo mismo que poner una en cada LED (mismo lugar eléctricamente hablando). En la práctica, el CD4017 se comportaba de forma errática al recibir un input regresando hacia atrás el contador y pulsando cuando __Clock__ recibe tanto __HIGH__ como __LOW__.
 
-Parece que este comportamiento fue a causa de la resistencia, ya que al cambiarla por una de menor valor el chip se comenzó a comportar de forma más predecible, aunque al final terminé quitando la resistencia, ya que así funcionaba de forma más estable y los LEDs funcionaban bién.
+Parece que este comportamiento fue a causa de la resistencia, ya que al cambiarla por una de menor valor el chip se comenzó a comportar de forma más predecible, aunque al final terminé quitando la resistencia, ya que así funcionaba de forma más estable y los LEDs funcionaban bien.
 
 </br>
 
 ### Other things: <!-- Things to organize + random stuff -->
 > ### Álgebra Booleana
-> Inventada por George Boole, es un sistéma matemático que funciona en base de __1__ y __0__, gracias a este sistema funcionan las distintas compuertas lógicas que permiten que funcionen los computadores.
+> Inventada por George Boole, es un sistema matemático que funciona en base de __1__ y __0__, gracias a este sistema funcionan las distintas compuertas lógicas que permiten que funcionen los computadores.
