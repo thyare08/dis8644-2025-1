@@ -25,7 +25,7 @@ aquí un video del circuito ya armado y funcionando
 - GDS --- > gate source drain
 - el transistor mofet tiene 3 patitas que se dividen en g d s, gate source drain, cada una de estas cumple una tarea distinta
 - el transistor mofet tiene escrito irfz44n
-![transistor-mosfet](https://github.com/user-attachments/assets/0958840f-8768-4568-9c6c-0420ec536cb2)
+![transistor-mosfet](./archivos/11aimagen1.jpg)
 
 ### post break
 
@@ -40,7 +40,7 @@ aquí un video del circuito ya armado y funcionando
 - ¿dónde podemos encontrar el motor que estamos utilizando?, en ventilador dc, en un motor vibrador celular 3v
 - podemos hacer nuestro propio vibrador celular, no buscar en aliexpress por favor
 - ahora haremos el circuito nuevo, aquí el esquemático
-![1000012569](https://github.com/user-attachments/assets/921f1c4e-63ac-40e3-b5cd-38f495de6b37)
+![imagen2](./archivos/11aimagen2.jpg)
 
 - en una primera instancia desarrollamos el circuito con un potenciómetro que nos permitía manipular el motor, adjunto video
 
