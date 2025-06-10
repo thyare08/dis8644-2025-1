@@ -35,8 +35,12 @@ Agregar imágenes con texto alternativo:
 Circuito que detecta cuando le hacen sombra y avanza un contador de 4 dígitos (LEDs)
 ![Esquema del circuito detector de sombras](./archivos/detectorSombra.png)
 
-### Parte 1: Input </br>
-<img align="left" src="./archivos/lm324.png" alt="Detector de sombra (input)" width=500> El primero de los 3 circuitos que conforman el circuito del detector de sombras.
+### Parte 1: Input 
+![Detector de sombra (input)](./archivos/lm324.png)
+
+Fuente: [Misaa.cc](https://misaa.cc/)
+
+El primero de los 3 circuitos que conforman el circuito del detector de sombras.
 
 El circuito utiliza un __LDR__ conectado a una resistencia para formar un divisor de voltaje, esto se hace porque nos permite variar de forma __mucho__ más importante el valor del voltaje, que si solo usáramos la resistencia variable para cambiar el voltaje. 
 
@@ -46,28 +50,32 @@ El potenciómetro se usa para calibrar el aparato, ya que en distintos lugares h
 
 Para evaluar si el circuito funciona o no, se colocó un LED en el __Output__ del comparador.
 
-</br></br></br></br></br></br>
+### Parte 2: Procesamiento
+![NE555 monostable](./archivos/ne555.png)
 
-### Parte 2: Procesamiento </br>
-<img align="left" src="./archivos/ne555.png" alt="NE555 monostable" width=350> Este circuito se encarga de tomar el output del comparador, que emite ___HIGH__ por defecto, e invertir la señal, además de incorporar un delay en el cambio de estado del __Output__ del NE555, para evitar que se envíen múltiples pulsos (estabilizar la señal), ya sea por rápidas activaciones consecutivas intencionales o accidentales, o inestabilidad del circuito de la parte 1.
+Fuente: [Misaa.cc](https://misaa.cc/)
+
+Este circuito se encarga de tomar el output del comparador, que emite ___HIGH__ por defecto, e invertir la señal, además de incorporar un delay en el cambio de estado del __Output__ del NE555, para evitar que se envíen múltiples pulsos (estabilizar la señal), ya sea por rápidas activaciones consecutivas intencionales o accidentales, o inestabilidad del circuito de la parte 1.
 
 Este circuito también cuenta con un LED para confirmar el correcto funcionamiento de este.
 
-</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+### Parte 3: Output
+![CD4017 conectado a 4 LEDs](./archivos/cd4017.png)
 
-### Parte 3: Output </br>
-<img align="left" src="./archivos/cd4017.png" alt="CD4017 conectado a 4 LEDs" width=550> El CD4017 cuenta, haciendo brillar un LED tras otro cuando recibe un input del circuito anterior.
+Fuente: [Misaa.cc](https://misaa.cc/)
+
+El CD4017 cuenta, haciendo brillar un LED tras otro cuando recibe un input del circuito anterior.
 
 El __Output 4__ está conectado a __Reset__, para que al llegar a 4, vuelva a comenzar desde el inicio, evitando que intente encender LEDs que no existen.
 
-</br></br></br></br></br></br></br></br></br></br></br></br></br>
-
 ### Circuito armado </br>
-<img align="left" src="./archivos/detectorSombrasCircuito.jpg" alt="Circuito en breadboard" width=550> Por la falta de espacio en la breadboard, hice unas pequeñas modificaciones, específicamente tratando de las resistencias que van con cada LED, Ya que pensando que el chip debe funcionar como un switch, que deja pasar la corriente que tiene en su pin Vcc a los distintos outputs, poner una resistencia en Vcc debería ser lo mismo que poner una en cada LED (mismo lugar eléctricamente hablando). En la práctica, el CD4017 se comportaba de forma errática al recibir un input regresando hacia atrás el contador y pulsando cuando __Clock__ recibe tanto __HIGH__ como __LOW__.
+![Circuito en breadboard](./archivos/detectorSombrasCircuito.jpg)
+
+Fuente: [Misaa.cc](https://misaa.cc/)
+
+Por la falta de espacio en la breadboard, hice unas pequeñas modificaciones, específicamente tratando de las resistencias que van con cada LED, Ya que pensando que el chip debe funcionar como un switch, que deja pasar la corriente que tiene en su pin Vcc a los distintos outputs, poner una resistencia en Vcc debería ser lo mismo que poner una en cada LED (mismo lugar eléctricamente hablando). En la práctica, el CD4017 se comportaba de forma errática al recibir un input regresando hacia atrás el contador y pulsando cuando __Clock__ recibe tanto __HIGH__ como __LOW__.
 
 Parece que este comportamiento fue a causa de la resistencia, ya que al cambiarla por una de menor valor el chip se comenzó a comportar de forma más predecible, aunque al final terminé quitando la resistencia, ya que así funcionaba de forma más estable y los LEDs funcionaban bien.
-
-</br>
 
 ### Other things: <!-- Things to organize + random stuff -->
 > ### Álgebra Booleana
