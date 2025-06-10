@@ -33,7 +33,7 @@
 - Circuito electrónico programado para generar sonido en tiempo real.
 - Sonidos generados por encendidos y apagados, similares a los videojuegos.
 
-
+![Foto de Tristan Perich y álbum 1-bit Symphony](./archivos/tme-sesion04a-bit.jpeg)
 
 Fuente <https://composerfocus.com/wp-content/uploads/2012/05/1bit01.jpg>
 
