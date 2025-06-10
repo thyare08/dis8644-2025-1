@@ -2,7 +2,7 @@
 
 ## Trabajo en clase / Martes 01 de Abril
 
-### Intruducción proyecto 01
+### Introducción proyecto 01
 
 - Declaración inicial del proyecto
 - Anatomía de la física del proyecto
@@ -11,7 +11,7 @@
 - Presentación oral
 - Funcionamiento sí o no
 
-![foto24](https://github.com/user-attachments/assets/8889d4e3-4fbe-4b6b-8fb7-942a3945ca6c)
+![](./archivos/tme-sesion04a-foto24.jpeg)
 
 ### Atari Punk Console
 
@@ -22,7 +22,7 @@
 - Puede estar compuesto con un sensor de luz LDR o con potenciómetro.
 - Inputs: LDR, potenciómetro, orgánico, cuerpo.
 
-![foto25](https://github.com/user-attachments/assets/0ddab1f7-4246-468b-9228-71fd9bee2ae2)
+![](./archivos/tme-sesion04a-foto25.jpeg)
 
 ## Encargo
 
@@ -44,7 +44,7 @@
 - Nintendo llevó el lenguaje de 8 bits a otro nivel al componer la música de títulos icónicos como "Mario Bros" y "Zelda". Sin embargo, fue "Super Mario Bros 3" el que alcanzó la cúspide de la música en 8 bits, destacándose por su alta complejidad, ya que cada elemento del juego contaba con su propio sonido.
 - Finalmente, a mediados de los 80 salieron los primeros microchips. Esto permitió mejorar la capacidad de procesamiento y la calidad del sonido en los videojuegos, lo que hizo posible composiciones más complejas, marcando un antes y un después en la evolución de la música en los videojuegos.
 
-![foto26](https://github.com/user-attachments/assets/420c7ada-1c46-4ecf-8dbd-f16f10a9654d)
+![](./archivos/tme-sesion04a-foto26.jpeg)
 
 ### ¿Qué es un bit?
 
@@ -72,4 +72,5 @@
 - Infinitas superposiciones diferentes
 - Si mides su ubicación de manera vertical u horizontal, el orden de los factores sí altera el producto
 
-![foto27](https://github.com/user-attachments/assets/18c01eea-d5ac-4478-a8f5-7de9260489df)
+
+![](./archivos/tme-sesion04a-foto27.jpeg)
