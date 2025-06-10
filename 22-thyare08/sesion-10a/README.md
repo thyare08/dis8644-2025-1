@@ -29,7 +29,7 @@ Imagen tomada en mi clase de Inglés en la facultad de Manuel Rodriguez, en la s
 ## Encargo 21: Simulación de circuitos con 555 y/o comparadores hechos con opamps en Falstad
 
 Realizar el circuito PWN visto en clases en Falstad
-![encargo_21.jpg](./archivos/encargo_21.jpg)
+![encargo_21.jpg](./archivos/encargo_21.png)
 
 Código
 
