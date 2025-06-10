@@ -1,4 +1,4 @@
-# sesion-10a
+# sesión-10a
 *13 de mayo de 2025*
 
 No fui a clase :(
@@ -30,13 +30,14 @@ Durante el proceso, al no estar en clase hice todo de manera intuitiva, también
 
 ![variacionAtariPunkEnFalstad](https://github.com/AlanisMria/dis8644-2025-1/blob/main/27-AlanisMria/sesion-10a/archivos/variacionAtariPunkEnFalstad.png)
 
-Al cambiar a una salida de audio logre la alimentacion del componente, pero al pponerle GND esta se bloqueaba.
+Al cambiar a una salida de audio logré la alimentación del componente, pero al ponerle GND esta se bloqueaba.
 
 ![Gnd](https://github.com/AlanisMria/dis8644-2025-1/blob/main/27-AlanisMria/sesion-10a/archivos/Gnd.png)
 
 Al quitar el GND hay flujo de corriente.
 
 ![nognd](https://github.com/AlanisMria/dis8644-2025-1/blob/main/27-AlanisMria/sesion-10a/archivos/nognd.png)
+
 
 
 
