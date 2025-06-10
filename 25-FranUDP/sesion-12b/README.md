@@ -2,11 +2,45 @@
 
 ## Apuntes
 
-### SUBTITULO
+### Web 1.0/2.0/3.0
+> 1.0: *Read-Only*. En la primera versión de la World Wide Web (WWW), solo se podía acceder a información, mas uno no podía llegar y subir información, como se hace ahora. Y las páginas usaban un HTML básico.
+>2.0: *Read-Write*. Esta versión se enfoca en el usuario, ya que es interactiva y permite compartir información fácilmente (redes sociales). El internet ya no es libre, las plataformas tienen dueños, restringen lo que se puede hacer en ellas y colectan venden nuestra información.
+>3.0: *Read-Write-Own". La siguiente versión de la web (aunque en algunos aspectos es la actual), el concepto clave detrás de ella es la descentralización, mover el control fuera de las corporaciones y plataformas y de vuelta a las manos de los usuarios. Es inteligente y altamente interactiva debido a las tecnologías de Inteligencia Artificial (AI).
 
-### Other things
+### RSS (Really Simple Syndication) feed
+Sistema de suscripción (gratuito) donde un sitio web te envía periódicamente los nuevos posts, noticias, contenidos varios, etc.
 
-#### SUB_SUBTITULO
+### Web ring
+Colección de sitios web de temática similar. Al final de cada página perteneciente a un ring hay un botón para moverse a la página "Siguiente" o a la "Previa". Si uno continúa avanzando a través de los distintos sitios, eventualmente regresaría donde comenzó, de ahí su nombre.
+
+### MIDI (Musical Instrument Digital Interface)
+Es un protocolo de comunicación que se usa para controlar dispositivos compatibles, enviando notas musicales (pulsos eléctricos, no sonoros)
+
+### Fuentes de poder: Voltaje y corriente
+Una fuente de poder (PS) no envía una cantidad delimitada de corriente, sino que el dispositivo a la que está conectada va a "chupar" la corriente que necesite para funcionar. Se lista el máximo amperaje que la PS puede dar.
+
+Si el aparato necesita más corriente de la que PS le puede proveer, no funcionará (o no funcionará bien) y probablemente se dañará la fuente de poder.
+
+Si el voltaje es mayor al voltaje máximo que necesita el dispositivo, este se puede quemar
+
+Si el voltaje es menor, aparato funcionará mal, si es que funciona, y probablemente también se dañe.
+
+### H-bridge
+IC que se utiliza para controlar motores, consiste de 4 transistores (switches) que pueden variar la polaridad de las terminales del motor para hacerlo girar en una dirección o la otra.
+
+### Bobinas y electroimanes
+El magnestismo crea electricidad y la electricidad crea magnetismo. al pasar corriente por cables delgadosenrollados se produce una emición electromagnética.
+
+### Solenoide
+Similar a un parlante, en que recibe vibraciones y las convierte en información. También puede generar vibraciones dependiendo del input que reciba
+
+### Piezoelectricidad
+Un objeto emite electricidad al set deformado, aunque también puede recivir electricidad y deformarse en respuesta.
+
+### LCD (Liquid Christal Dysplay)
+Tecnología empleada en pantallas, donde una de estas pantallas está llena de diminutas "cortinas" que regulan el paso de la luz.
+
+los cristales se cambian de forma dependiendo de la electricidad que recivan, gracias a esto se puede mezclar la luz RGB en estas pantallas.
 
 ## Encargo 24 y 25 <!-- Describir de forma textual 3 proyectos de máquinas electrónicas que quieran hacer de forma individual, ordenar por preferencia o interés de que sea desarrollado. Dibujar diagrama de comportamiento, flujos de interacción. No específicar chips. Considerar procesos de manera especulativa. ¿Cuánto tiempo se usará? ¿Qué encendidos y apagados tiene? ¿Cómo se interactúa? -->
 
