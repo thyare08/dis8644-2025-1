@@ -4,13 +4,13 @@ Viernes 14 Marzo 2025
 
 ***
 
-### Parte 1: Aprendizaje Github
+## Parte 1: Aprendizaje Github
 
 Hoy se enseñó a como poder iniciar sesión en la cuenta de Github, a ver las partes que componen la interface de la cuenta principal, a como crear la copia de un repositorio perteneciente a otra cuenta usando el botón "Fork" (Bifurcación en español). A la par se mostró a como poder editar un archivo desde la copia personal, acto el cual puede modificar el archivo original a través de la herramienta "Pull requests". La ida es poder actualizar los encargos de la clase anterior y subirlos a la carpeta correspondiene según el número de orden de la lista.
 
 ***
 
-### Parte 2: Como armar circuitos
+## Parte 2: Como armar circuitos
 
 Sección enfocada en el aprendizaje de los elementos que componen un circuito simple. Para ello se entregaron una serie de herramientas para la exploración en equipos de 3 personas.
 
