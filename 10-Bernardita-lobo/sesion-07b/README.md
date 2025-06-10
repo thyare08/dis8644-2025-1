@@ -67,10 +67,10 @@
 - Es probable que no se permita seleccionar otros acabados, como HASL, en estos espesores más finos porque el proceso térmico que implica el HASL podría deformar la placa debido a su fragilidad. Esto hace que ENIG sea la opción más adecuada por sus propiedades físicas.
 - Fuente <https://www.protoexpress.com/blog/surface-finish-pcb-manufacturing/>
 
-![Imagen de cotización en JLC](./archivos/tme-sesion07b-cotizacion02.png)
+![Imagen de cotización en JLC](./archivos/tme-sesion07b-cotizacion02.jpeg)
 
 ![Imagen de cotización en JLC](./archivos/tme-sesion07b-JLC02.png)
 
 ![Imagen de la PCB en JLC](./archivos/tme-sesion07b-JLC0.png)
 
-![Foto de mi bitácora](./archivos/tme-sesion07b-bitacora.png)
+![Foto de mi bitácora](./archivos/tme-sesion07b-bitacora.jpeg)
