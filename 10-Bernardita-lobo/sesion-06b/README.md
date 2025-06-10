@@ -2,24 +2,24 @@
 
 ## Este viernes fue feriado / Viernes 18 de Abril
 
-## Encargo
+## Encargos
 
-### encargo-12: Instalar KiCad
+### Encargo-12: Instalar KiCad
 
 - KiCad 9.0  lo instalé aquí: <https://www.kicad.org/download/>
-- decidí instalarme el de Norteamérica porque pensé que iba a estar en inglés, pero no fue así.
-- aquí adjunto unas fotos de todo el proceso de instalación.
+- Decidí instalar la versión de Norteamérica porque pensé que estaría en inglés, pero no fue así.
+- Aquí adjunto unas fotos de todo el proceso de instalación.
 
 ![Foto de varias capturas de pantalla de cuando me instalé KiCad](./archivos/tme-sesion06a-foto07.jpeg)
 
-### encargo-13: Documental Sisters with transistors
+### Encargo-13: Documental Sisters with transistors
 
 - Este documental nos cuenta la historia de varias mujeres pioneras en la música electrónica. muestra cómo decidieron crear sonidos, las máquinas que utilizaban y de qué manera la tecnología se convirtió en una herramienta liberadora.
 - En este documental mencionan que "la historia de las mujeres ha sido una historia de silencio", retratando la disparidad y lo difícil que era para ellas ser tomadas en serio en el mundo de la música electrónica.
 
 ![Foto de la portada del documental](./archivos/tme-sesion06b-documental.jpeg)
 
-fuente <https://images.squarespace-cdn.com/content/v1/5ffde3b67374686520d5765f/27650ed8-fd5e-4959-b7e4-3457cd1b9ac1/MAmache_cPollyWeil_1985_05.jpg>
+Fuente <https://images.squarespace-cdn.com/content/v1/5ffde3b67374686520d5765f/27650ed8-fd5e-4959-b7e4-3457cd1b9ac1/MAmache_cPollyWeil_1985_05.jpg>
 
 ### Clara Rockmore
 
@@ -28,9 +28,9 @@ fuente <https://images.squarespace-cdn.com/content/v1/5ffde3b67374686520d5765f/2
 
 ![dos fotos de clara](./archivos/tme-sesion06b-clara.jpeg)
 
-fuente <https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2018/03/13000706/Clara-Rockmore-by-Toppo-c.-1930.Cropped-15M.jpg>
+Fuente <https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2018/03/13000706/Clara-Rockmore-by-Toppo-c.-1930.Cropped-15M.jpg>
 
-fuente <https://theremintimes.ru/wp-content/uploads/2021/03/%D1%80%D0%BE%D0%BA%D0%BC%D0%BE%D1%80-%D0%B8-%D1%81%D1%82%D0%BE%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9.jpg>
+Fuente <https://theremintimes.ru/wp-content/uploads/2021/03/%D1%80%D0%BE%D0%BA%D0%BC%D0%BE%D1%80-%D0%B8-%D1%81%D1%82%D0%BE%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9.jpg>
 
 ### Daphne Oram
 
@@ -40,78 +40,78 @@ fuente <https://theremintimes.ru/wp-content/uploads/2021/03/%D1%80%D0%BE%D0%BA%D
 
 ![dos fotos de daphne](./archivos/tme-sesion06b-daphne.jpeg)
 
-fuente <https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/8F53/production/_96419663_mediaitem96419662.jpg.webp>
+Fuente <https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/8F53/production/_96419663_mediaitem96419662.jpg.webp>
 
-fuente <https://asociacionmim.com/wp-content/uploads/2023/11/Daphne-Oram-1.jpg>
+Fuente <https://asociacionmim.com/wp-content/uploads/2023/11/Daphne-Oram-1.jpg>
 
 ### Delia Derbyshire
 
 ![dos fotos de delia](./archivos/tme-sesion06b-delia.jpeg)
 
-fuente <https://www.effectrode.com/wp-content/uploads/2018/08/delia_derbyshire_radiophonic_workshop_1965.jpg>
+Fuente <https://www.effectrode.com/wp-content/uploads/2018/08/delia_derbyshire_radiophonic_workshop_1965.jpg>
 
-fuente <https://proyectoidis.org/wp-content/uploads/1963/04/444103d0b8a147920668e527c686d7fc.jpg>
+Fuente <https://proyectoidis.org/wp-content/uploads/1963/04/444103d0b8a147920668e527c686d7fc.jpg>
 
 ### Bebe Barron
 
 ![dos fotos de bebe](./archivos/tme-sesion06b-bebe.jpeg)
 
-fuente <https://themoviescores.com/wp-content/uploads/2020/09/Women-In-Electronic-Music-4-1024x683-1.png>
+Fuente <https://themoviescores.com/wp-content/uploads/2020/09/Women-In-Electronic-Music-4-1024x683-1.png>
 
-fuente <https://themoviescores.com/wp-content/uploads/2020/09/barronBebeLouis1.jpg>
+Fuente <https://themoviescores.com/wp-content/uploads/2020/09/barronBebeLouis1.jpg>
 
 ### Pauline Oliveros
 
 ![dos fotos de pauline](./archivos/tme-sesion06b-pauline.jpeg)
 
-fuente <https://www.thewire.co.uk/img/max/1200/1200/2016/12/12/OLIVEROS_Pauline_3-cut.jpg>
+Fuente <https://www.thewire.co.uk/img/max/1200/1200/2016/12/12/OLIVEROS_Pauline_3-cut.jpg>
 
-fuente <https://es.in-edit.org/wp-content/uploads/2023/09/Deep-Listening_The-Story-of-Pauline-Oliveros.jpg>
+Fuente <https://es.in-edit.org/wp-content/uploads/2023/09/Deep-Listening_The-Story-of-Pauline-Oliveros.jpg>
 
 ### Maryanne Amacher
 
 ![dos fotos de maryanne](./archivos/tme-sesion06b-maryanne.jpeg)
 
-fuente <https://monoskop.org/images/thumb/a/a7/Maryanne_Amacher_1985.jpg/350px-Maryanne_Amacher_1985.jpg>
+Fuente <https://monoskop.org/images/thumb/a/a7/Maryanne_Amacher_1985.jpg/350px-Maryanne_Amacher_1985.jpg>
 
-fuente <https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQlAP7RSq39KkC28TefsPCzGxegtO3Qno22xLDUBmMWJ7NrfzbamDZi0EW47bpzB8F4g8N99c-QRzvSY3F5ljq6msVRg7-_VtaXm7y2uf7-Jnyh8eMnrw1GUMhDdGqdeaqoOnnm8ryLGQ0/s320/Maryanne+Amacher.jpg>
+Fuente <https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQlAP7RSq39KkC28TefsPCzGxegtO3Qno22xLDUBmMWJ7NrfzbamDZi0EW47bpzB8F4g8N99c-QRzvSY3F5ljq6msVRg7-_VtaXm7y2uf7-Jnyh8eMnrw1GUMhDdGqdeaqoOnnm8ryLGQ0/s320/Maryanne+Amacher.jpg>
 
 ### Eliane Radigue
 
 ![dos fotos de eliane](./archivos/tme-sesion06b-eliane.jpeg)
 
-fuente <https://gagosian.com/media/images/quarterly/essay-the-sound-before-sound-eliane-radigue/VAvw8HvoLNvT_2400x2400.jpg>
+Fuente <https://gagosian.com/media/images/quarterly/essay-the-sound-before-sound-eliane-radigue/VAvw8HvoLNvT_2400x2400.jpg>
 
-fuente <https://proyectoidis.org/wp-content/uploads/1957/01/radigue-large1-1024x678.jpg>
+Fuente <https://proyectoidis.org/wp-content/uploads/1957/01/radigue-large1-1024x678.jpg>
 
 ### Laurie Spiegel
 
 ![dos fotos de laurie](./archivos/tme-sesion06b-laurie.jpeg)
 
-fuente <https://muac.unam.mx//assets/images/exposiciones%202023/ees_l_spiegel_web_ppal.jpg>
+Fuente <https://muac.unam.mx//assets/images/exposiciones%202023/ees_l_spiegel_web_ppal.jpg>
 
-fuente <https://muac.unam.mx/assets/images/exposiciones%202023/ees_l_spiegel_web_vert.jpg>
+Fuente <https://muac.unam.mx/assets/images/exposiciones%202023/ees_l_spiegel_web_vert.jpg>
 
 ### Suzanne Ciani
 
 ![dos fotos de suzanne](./archivos/tme-sesion06b-suzanne.jpeg)
 
-fuente <https://i0.wp.com/es.rollingstone.com/wp-content/uploads/2022/06/Sisters-with-transistors-portada.jpg?w=1280&ssl=1>
+Fuente <https://i0.wp.com/es.rollingstone.com/wp-content/uploads/2022/06/Sisters-with-transistors-portada.jpg?w=1280&ssl=1>
 
-fuente <https://www.wfyi.org/files/wfyi/programs_radio/current/cman-21-12-16.jpg>
+Fuente <https://www.wfyi.org/files/wfyi/programs_radio/current/cman-21-12-16.jpg>
 
 ### Wendy Carlos
 
 ![dos fotos de wendy](./archivos/tme-sesion06b-wendy.jpeg)
 
-fuente <https://beardedgentlemenmusic.com/wp-content/uploads/2019/12/Wendy-Carlos-5.jpg>
+Fuente <https://beardedgentlemenmusic.com/wp-content/uploads/2019/12/Wendy-Carlos-5.jpg>
 
-fuente <https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6paVJJVflkmc_Ye2jCO5lTEOGJBEeRk3a2A&s>
+Fuente <https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6paVJJVflkmc_Ye2jCO5lTEOGJBEeRk3a2A&s>
 
 ### Artista favorita elegida
 
-- mi artista favorita elegida fue Daphne Oram. Además de ser una artista increíble y profundamente empoderada, me parece muy admirable todo su proceso hasta lograr tener su propio estudio, así como la manera en que su trabajo ayudó a dar forma a los sonidos que escuchamos hoy en día.
+. Mi artista favorita elegida fue Daphne Oram. Además de ser una artista increíble y profundamente empoderada, me parece muy admirable todo su proceso hasta lograr tener su propio estudio, así como la manera en que su trabajo ayudó a dar forma a los sonidos que escuchamos hoy en día.
 - Ella tenía un gran interés por el misticismo, lo que la llevó a desarrollar sus propias teorías sobre las conexiones entre las ondas sonoras y el alma.
-- álbum "Beauty and The Beast"
-- Me gustó bastante el álbum; siento que me transporta a imágenes surrealistas. Me encanta que comience con sonidos que le dan profundidad a sus canciones y que de repente, se sumen sonidos más agudos por encima. Mis favoritas fueron la primera canción, "Beauty and the Beast, Pt. 1" y "Rotolock".
-- fuente <https://www.bbc.com/mundo/vert-cul-40225071.amp>
+- Álbum Beauty and the Beast
+- Me gustó bastante el álbum; siento que me transporta a imágenes surrealistas. Me encanta que comience con sonidos que le dan profundidad a sus canciones y que de repente, se sumen sonidos más agudos por encima. Mis favoritas fueron la primera canción, Beauty and the Beast, Pt. 1, y Rotolock.
+- Fuente <https://www.bbc.com/mundo/vert-cul-40225071.amp>
