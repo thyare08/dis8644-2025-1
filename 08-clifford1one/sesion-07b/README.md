@@ -17,7 +17,7 @@ para el primer caso, mi objetivo será manipular los parámetros para que la com
 
 ### encargo experimental: cotizar pcb 
 
-para el segundo caso, mi objetivo será llegar al precio máximo posible, con el objetivo de entender los parámetros
+para el segundo caso, mi objetivo será llegar al precio máximo posible, con el objetivo de entender los parámetros y ver cuáles afectan más al precio.
 
 ![sección principal sitio "jlcpcb"](./archivos/tme-07b-expSection1.png)
 
