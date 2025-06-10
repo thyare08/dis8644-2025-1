@@ -45,6 +45,12 @@ Fuente <https://www.555-timer-circuits.com>
 - Nunca había escuchado un álbum de jazz, y me encantó lo lento, transitorio y relajado que es el álbum.
 - Este Blindfold Test de la revista Down Beat me pareció muy interesante. <https://youtu.be/tZtSBz_6SSA?si=MgLMNVNjm5VXxtxe>
 
+
+
+Fuente <https://www.latercera.com/resizer/v2/T56PABQ5HVFC5J4RRILVHVRKV4.jpg?auth=0a43f3ad7c2b2ce8060a2d7461267bf0a1c2b96c71a9737cd3d9516c8144d330&width=600&smart=true>
+
+Fuente <https://is1-ssl.mzstatic.com/image/thumb/Music/7f/9f/d6/mzi.vtnaewef.jpg/600x600bf-60.jpg>
+
 ### Modificaciones APC Dark Detector
 
 - Decidimos seguir trabajando con el circuito detector de oscuridad.
