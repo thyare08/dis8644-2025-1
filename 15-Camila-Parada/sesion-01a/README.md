@@ -56,7 +56,7 @@ Escuchar un album de la banda kraftwerk y analizar todo en torno a este disco.
 
 Impresora Brother DCP 165-C
 
-<img src="./archivos/002.png" style="width:600px;height:800px;">
+![image](./archivos/002.png)
 
 Fecha de Manufactura: 2008  
 
@@ -90,7 +90,7 @@ E) ¿Se producen subproductos? Si, en este caso a veces se filtran restos fresco
     
 F) Imágenes y diagramas 
         
-<img src="./archivos/001.jpg" style="width:600px;height:800px;">
+![image](./archivos/001.jpg)
 
 ***
 
