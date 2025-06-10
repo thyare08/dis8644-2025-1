@@ -23,6 +23,8 @@
 
 ![foto](./archivos/tme-foto37.jpeg)
 
+### BOM
+
 | Nombre | Cantidad | Componente                    |
 |--------|----------|-------------------------------|
 | 555    | 2        | temporizador                  |
@@ -45,5 +47,7 @@
 - Conversamos ideas para las modificaciones al Atari Punk Console.
 
 ![foto](./archivos/foto35.jpeg)
+
+![foto](./archivos/foto43.png)
 
 ![foto](./archivos/foto39.png)
