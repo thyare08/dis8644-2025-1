@@ -1,18 +1,18 @@
 # ⋆₊˚⊹♡ Clase 02b - Primeros circuitos ♡⊹˚₊⋆
 
-_Viernes 21 Marzo 2025_
+Viernes 21 Marzo 2025
 
 ***
 
 ## Escaneo de bitácora
 
-![001](https://github.com/user-attachments/assets/46331e01-fa69-4d4c-9920-68defbcf3a2d)
+![alt-text](./archivos/001.jpg)
 
-![002](https://github.com/user-attachments/assets/3397c513-920d-4734-b317-055725129b75)
+![alt-text](./archivos/002.jpg)
 
-![003](https://github.com/user-attachments/assets/45222a2c-65c8-4d87-9d50-0c680ca1fab5)
+![alt-text](./archivos/003.jpg)
 
-![004](https://github.com/user-attachments/assets/c93d78e1-2ec6-47b8-8c11-893d788c30ca)
+![alt-text](./archivos/004.jpg)
 
 <br>
 
@@ -24,7 +24,7 @@ En esta clase pudimos aprender a interpretar el diagrama de un circuito, comenza
 
 ![alt-text](./archivos/IMG_8281.jpeg)
 
-_▼ Circuito realizado en clases, correspondiente al mostrado en el esquema de la segunda hoja. Autoría personal._
+▼ Circuito realizado en clases, correspondiente al mostrado en el esquema de la segunda hoja. Autoría personal.
 
 ***
 
