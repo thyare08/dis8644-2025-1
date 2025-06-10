@@ -46,8 +46,7 @@ llegué un poco tarde
 - **Circuito PWM**, pulse width modulation --- > modulación por ancho de pulso
 - en esta parte usaron tinkercad pero no lo utilicé porque no tenía internet en el celu y no me podía conectar al de la u
 - **explicación diagramada del ancho de pulso**
-- ![1000010841](https://github.com/user-attachments/assets/95815e93-0280-44d4-b6a3-49444a6751f1)
-
+- ![esquematico].(/archivos/9bimagen1.jpg)
 - **esquemático circuito PWM¨**
 
 - ![1000010842](https://github.com/user-attachments/assets/403bdae6-c7c1-45c4-81fd-2078caacdb73)
