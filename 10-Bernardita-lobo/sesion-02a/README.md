@@ -4,11 +4,11 @@
 
 ### Circuitos eléctricos
 
-- repaso github
-- explicación dibujos esquemáticos
-- voltaje y resistencia
-- circuitos paralelos e independientes
-- valores de las resistencias
+- Repaso GitHub
+- Explicación de dibujos esquemáticos
+- Voltaje y resistencia
+- Circuitos paralelos e independientes
+- Valores de las resistencias
 
 ![foto10](https://github.com/user-attachments/assets/6d77738c-f9c8-4489-be3a-d8c83d9a61b7)
 
@@ -18,17 +18,17 @@
 
 ### 04-Cultura electrónica chilena y latinoamericana
 
-- escuchar un álbum de Pueblo nuevo
-- álbum "el poder corrompe" por daniel jeffs
-- la presencia del tempo
+- Escuchar un álbum de Pueblo Nuevo
+- Álbum El poder corrompe por Daniel Jeffs
+- La presencia del tempo
 
 ### 05-Estudio de resistores y circuitos en serie y paralelo
 
-- ¿cómo identificar el valor de las resitencias a través de la tabla de códigos de colores?
-- componentes y circuitos
-- componentes repasados: resistencia, capacitor, diodo, potenciómetro y protoboard
-- simbología de los esquemas electrónicos
-- funcionamiento protoboard
+- ¿Cómo identificar el valor de las resistencias a través de la tabla de códigos de colores?
+- Componentes y circuitos
+- Componentes repasados: resistencia, capacitor, diodo, potenciómetro y protoboard
+- Simbología de los esquemas electrónicos
+- Funcionamiento de la protoboard
 
 ![foto13](https://github.com/user-attachments/assets/54921d43-b93e-4795-8951-345cb8bcc7eb)
 
