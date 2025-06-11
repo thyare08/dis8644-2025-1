@@ -77,7 +77,7 @@ En este caso, el condensador polarizado de 10uF "guarda" energía por un corto p
 
 
 
-#### BOM (Bill Of Materials)
+#### BOM (Bill Of Materials) 1
 
 | Componente       | Qty | Nombre(s) | Valor/tipo |
 |-----------------------|---------|------------|----------------|
@@ -103,7 +103,7 @@ Más tarde, el 27 de marzo, se rearmó el circuito pero usando como resustencia 
 
 ▼ Diagrama del circuito.
 
-#### BOM (Bill Of Materials)
+#### BOM (Bill Of Materials) 2
 
 | Componente       | Qty | Nombre(s) | Valor/tipo |
 |-----------------------|---------|------------|----------------|
