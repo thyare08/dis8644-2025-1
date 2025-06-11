@@ -47,6 +47,8 @@ Al escuchar el disco me despertaron muchas emociones, entre de gusto y disgusto.
 
 En esta clase se realizó un circuito, el cual funciona mediante el chip 555. 
 
+Pude encontrar el [datasheet del circuito integrado](./archivos/NA555.pdf)
+
 Al montar los componentes en los distintos canales de salida del Chip, teniendo como "resistencia variable" un resistor de 10K, pues permite que la energía que circula envíe una señal que se vea cortada por el paso de corriente de esta, actuando y generando intervalos en los que la luz se enciende y se apaga de forma uniforme. (0 y 1, Si y No, etc). 
 
 
