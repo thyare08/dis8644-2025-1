@@ -65,7 +65,13 @@ La importancia de este programa se debe a nos permite desarrollar un archivo par
 
 ### Encargo 13: Sisters with transistors
 
+![alt-text](./archivos/011.jpg)
 
+![alt-text](./archivos/012.jpg)
+
+![alt-text](./archivos/013.jpg)
+
+![alt-text](./archivos/014.jpg)
 
 
 ***
