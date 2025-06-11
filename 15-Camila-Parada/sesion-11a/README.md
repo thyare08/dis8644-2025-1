@@ -1,6 +1,6 @@
 # ⋆₊˚⊹♡ Clase  11a - Circuitos PWM (Pulse Width Modulation) ♡⊹˚₊⋆
 
-Martes 20/05/2025
+Martes 20 Mayo2025
 
 ***
 
@@ -34,19 +34,28 @@ Hoy vamos a ver un motor que funcione con chips 555 y pmw. Para eso armamos el c
 
 ![alt text](./archivos/01.jpg)
 
+▼ Diagrama del circuito con motor realizado por el profesor Matías.
+
 A su vez se nos entregó una serie de piezas:
 
 ![alt text](./archivos/02.jpg)
 
-- Transistor Mosfet (TO-220):
+- Transistor Mosfet (TO-220)
 - Motor
 
 ![alt text](./archivos/03.jpg)
-_▼ Piezas entregadas durante la clase. Izq a derecha: transistor npn pn2222a, mosfet-n irfz44e, base para circuito, amplificador operacional lm324, xx, interruptor pequeño, motor._
 
-![alt text](https://media.discordapp.net/attachments/1318882679659171892/1374908638497476628/Captura_de_pantalla_2025-05-21_a_las_20.36.00.png?ex=68311473&is=682fc2f3&hm=aed0ccf61ad520a916a2dc310fb1f3594a96da803930e3b048ce11e44c9d07ad&=&format=webp&quality=lossless&width=1505&height=675)
+▼ Piezas entregadas durante la clase. Izq a derecha: transistor npn pn2222a, mosfet-n irfz44e, base para circuito, amplificador operacional lm324, xx, interruptor pequeño, motor.
 
-_▼ Diagrama del circuito con motor realizado por el profesor Matías. Recuperado del Discord del curso._
+Tras ello nos dedicamos a montar un circuito, cuyas partes a destacar son el chip 555 y el motor.
+
+![alt text](./archivos/04.jpg)
+
+
+<https://github.com/user-attachments/assets/8156aa4b-71b2-416e-898e-d62e0a743243>
+
+
+▼ Fotografía y video del resultado de la clase.
 
 ***
 
