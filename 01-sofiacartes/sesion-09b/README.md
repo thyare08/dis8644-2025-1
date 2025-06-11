@@ -24,7 +24,7 @@ Permite controlar el encendido/apagado, de equipos de corriente alterna. En otra
 
 Su configuración es SPDT (un polo, dos tiros).
 
-**Pequeña señal de control con ruido mecánico**
+Pequeña señal de control con ruido mecánico
 
 ## Circuito pwm - realizado en clases en tinkercad
 

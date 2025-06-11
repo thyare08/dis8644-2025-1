@@ -50,6 +50,7 @@ llegué un poco tarde
 - **esquemático circuito PWM¨**
 
 ![esquematicopwm](./archivos/9bimagen2.jpg)
+
 ### encargo-18: de tinkercad a protoboard
 
 traspasar circuito pwm hecho en tinkercad a protoboard
