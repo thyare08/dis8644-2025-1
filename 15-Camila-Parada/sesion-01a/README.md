@@ -1,6 +1,6 @@
 # ⋆₊˚⊹♡ Clase 01a - Primera clase ♡⊹˚₊⋆
 
-Martes 11 de Marzo del 2025
+Martes 11 de Marzo 2025
 
 ***
 
