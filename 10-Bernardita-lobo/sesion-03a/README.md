@@ -4,38 +4,38 @@
 
 ### Nuevos componentes
 
-- caimanes, potenciómetros, resistencias, capacitores y dos 555
-- introducción al circuito integrado 555
-- valores de resistencias y capacitor
-- capacitor y condensador son lo mismo
+- Caimanes, potenciómetros, resistencias, capacitores y dos circuitos integrados 555
+- Introducción al circuito integrado 555
+- Valores de resistencias y capacitor
+- Capacitor y condensador son lo mismo
 
-![foto16](https://github.com/user-attachments/assets/cbd7ad22-b71f-49bb-bbe2-a78ec235d99d)
+![Foto componentes](./archivos/tme-sesion03a-foto16.jpeg)
 
-![foto13](https://github.com/user-attachments/assets/683b5ac3-cfc1-47f6-85f5-2ec2db66e596)
+![Foto de mis apuntes en mi bitácora](./archivos/tme-sesion03a-foto13.jpeg)
 
 ### Primer circuito astable
 
-- unidades de potencia
-- datasheet manual
-- circuito electrónico con circuito integrado 555
-- luz oscilante con potenciómetro
+- Unidades de potencia
+- Datasheet/manual
+- Circuito electrónico con circuito integrado 555
+- Luz oscilante con potenciómetro
 
-![foto14](https://github.com/user-attachments/assets/059aec7a-4a6e-46d0-bd3a-9eaa948c61f8)
+![Foto de mis apuntes en mi bitácora y protoboard](./archivos/tme-sesion03a-foto14.jpeg)
 
-## encargos
+## Encargos
 
-### encargo-06: Cultura electrónica europea de los 1980s y 1990s
+### Encargo-06: Cultura electrónica europea de los 1980s y 1990s
 
-- álbum "perpetuum mobile" por Einstürzende Neubauten
-- estilo industrial electrónico
-- ellos fabricaban sus propios instrumentos
-- ¿qué es el movimiento dadaísta?
-- ¿qué es un perpetuum mobile?
+- Álbum "Perpetuum Mobile" por Einstürzende Neubauten
+- Estilo industrial electrónico
+- Ellos fabricaban sus propios instrumentos
+- ¿Qué es el movimiento dadaísta?
+- ¿Qué es un perpetuum mobile?
 
-### encargo-07: Apuntes sobre digerir, reflexión y expansión del chip 555
+### Encargo-07: Apuntes sobre digerir, reflexión y expansión del chip 555
 
-- circuito integrado 555
-- ¿cómo funciona un circuito integrado 555 en mis palabras?
-- funciones de patillas del circuito integrado 555
+- Circuito integrado 555
+- ¿Cómo funciona un circuito integrado 555 en mis palabras?
+- Funciones de patillas del circuito integrado 555
 
-![foto21](https://github.com/user-attachments/assets/dd6ac920-43b9-4f2b-a817-6fa0d4cd05b1)
+![Foto de mis apuntes en mi bitácora](./archivos/tme-sesion03a-foto21.jpeg)

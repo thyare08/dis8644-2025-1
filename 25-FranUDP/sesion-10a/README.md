@@ -1,4 +1,4 @@
-# sesion-10a <!-- This feels so odd without the vertical lines and the ">" -->
+# sesion-10a
 
 ## Apuntes
 
@@ -18,12 +18,13 @@ Fuente: <https://amishajhanji.weebly.com/datasheets.html>
 
 Similares a los LEDs RGB en que ${\color{#b0e6e6}contienen \ múltiples \ LEDs}$ de menor tamaño dentro, sin embargo estos displays emplean LEDs del mismo color en ${\color{#b0e6e6}distintas \ ubicaciones \ para \ formar \ distintos \ números \ y/o \ letras}$
 
-> ### [Codificador(encoder)](https://youtu.be/NWiPVMDh7GE?si=5goLb4drnWfBChbt) y [decodificador(decoder)](https://youtu.be/HHQFI8R1iZc?si=c0AfhkyOAGCwZzmC)
->
-> En un display de 7 segmentos hay que ${\color{#b0e6e6}controlar \ 7 \ LEDs}$, pero ¿qué pasa si tenemos varios displays de 7 segmentos trabajando juntos para mostrar números más grandes o pantallas de más alta resolución? necesitaríamos una ${\color{#b0e6e6}cantidad \ enorme \ de \ pines \ GPIO}$ en nuestros microcontroladores (arduino, esp32, raspberry pi pico, etc), sin mencionar la cantidad de cables y espacio.  Es por esto que se emplean ${\color{#b0e6e6}encoders}$ y ${\color{#b0e6e6}decoders}$
->
-> * ${\color{#b0e6e6}Encoders}$: Toma ${\color{#b0e6e6}múltiples \ inputs}$ y los convierte en ${\color{#b0e6e6}pocos \ outputs}$. Ej: Un teclado con 101 teclas que se comunica mediante USB (Universal Serial Bus), el cual utiliza 2 canales llamados Data+ y Data- para comunicarse
-> * ${\color{#b0e6e6}Decoders}$: Toma ${\color{#b0e6e6}pocos \ inputs}$ y los convierte en ${\color{#b0e6e6}múltiples \ outputs}$. Ej: Un microcontrolador controlando un display de 60 LEDs mediante el protocolo I2C, el cual emplea 2 canales de comunicación (Serial Data [SDA] y Serial Clock [SCL])
+### [Codificador(encoder)](https://youtu.be/NWiPVMDh7GE?si=5goLb4drnWfBChbt) y [decodificador(decoder)](https://youtu.be/HHQFI8R1iZc?si=c0AfhkyOAGCwZzmC)
+
+En un display de 7 segmentos hay que ${\color{#b0e6e6}controlar \ 7 \ LEDs}$, pero ¿qué pasa si tenemos varios displays de 7 segmentos trabajando juntos para mostrar números más grandes o pantallas de más alta resolución? necesitaríamos una ${\color{#b0e6e6}cantidad \ enorme \ de \ pines \ GPIO}$ en nuestros microcontroladores (arduino, esp32, raspberry pi pico, etc), sin mencionar la cantidad de cables y espacio.  Es por esto que se emplean ${\color{#b0e6e6}encoders}$ y ${\color{#b0e6e6}decoders}$
+
+* ${\color{#b0e6e6}Encoders}$: Toma ${\color{#b0e6e6}múltiples \ inputs}$ y los convierte en ${\color{#b0e6e6}pocos \ outputs}$. Ej: Un teclado con 101 teclas que se comunica mediante USB (Universal Serial Bus), el cual utiliza 2 canales llamados Data+ y Data- para comunicarse
+
+* ${\color{#b0e6e6}Decoders}$: Toma ${\color{#b0e6e6}pocos \ inputs}$ y los convierte en ${\color{#b0e6e6}múltiples \ outputs}$. Ej: Un microcontrolador controlando un display de 60 LEDs mediante el protocolo I2C, el cual emplea 2 canales de comunicación (Serial Data [SDA] y Serial Clock [SCL])
 
 ### [RGB v/s CMYK](https://youtu.be/NnP-SRiOc4o?si=X7VKQyWvUsUm_wed)
 
