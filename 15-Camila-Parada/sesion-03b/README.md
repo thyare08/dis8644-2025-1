@@ -1,6 +1,6 @@
 # ⋆₊˚⊹♡ Clase 03b - Atari punk console ♡⊹˚₊⋆
 
-Viernes 28 de marzo 2025
+Viernes 28 Marzo 2025
 
 ***
 
