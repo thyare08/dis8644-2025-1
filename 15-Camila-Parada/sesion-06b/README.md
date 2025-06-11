@@ -1,6 +1,6 @@
 # ⋆₊˚⊹♡ Clase 06b - Feriado ♡⊹˚₊⋆
 
-Viernes 18/04/2024
+Viernes 18 Abril 2025
 
 ***
 
