@@ -57,7 +57,7 @@
 
 ![imagen de fotos de pantallas con siete segmentos](./archivos/tme-sesion10a-segmentos.jpeg)
 
-### Encargo-21 :Simulación de circuitos con 555 y/o comparadores hechos con opamps en Falstad
+### Encargo-21 :Simulación de circuitos con chip 555 y/o comparadores hechos con opamps en Falstad
 
 - Simular circuitos que hemos visto en clase con chips 555, usando el simulador de Falstad.
 
