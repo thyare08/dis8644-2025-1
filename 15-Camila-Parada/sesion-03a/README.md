@@ -1,6 +1,6 @@
 # ⋆₊˚⊹♡ Clase 03a - Conociendo el chip 555 ♡⊹˚₊⋆
 
-Martes 25/03/2024
+Martes 25 Marzo 2025
 
 ***
 
