@@ -6,7 +6,7 @@ Martes 1/04/2024
 
 ## Observaciones
 
-El primer periodo se buscó recrear uno circuitos vistos antes de la clase anterior, a la par que hablar sobre la visita a la exposición del MAC en Quinta normal. Más tarde se nos presentó un diagrama eléctrico de "Atari Punk Console", el cual cada estudiante tuvo que descifrar para poder construirlo con las piezas entregadas en clase. A su vez, se habló de las solemnes, las notas que serán parte del curso y la importancia de registrar cada avance, descubrimiento, desastre, etc. Absolutamente todo. Antes de terminar con la clase, quedamos de formar equipos de 2 a 3 personas para realizar la primera solemne, cuya primera fase es encontrar un objeto electrónico, desarmarlo para aprender lo más posible de ella (ingeniería inversa) y usar estos conocimientos para inspirarnos en posibles ideas para las máquinas que podamos desarrollar a futuro.
+El primer periodo se buscó recrear uno circuitos vistos antes de la clase anterior, a la par que hablar sobre la visita a la exposición del MAC en Quinta normal. Más tarde se nos presentó un diagrama eléctrico de "Atari Punk Console", el cual cada estudiante tuvo que descifrar y traducir para poder construirlo con las piezas entregadas en clas clases anteriores. A su vez, se habló de las solemnes, las notas que serán parte del curso y la importancia de registrar cada avance, descubrimiento, desastre, etc. Absolutamente todo. Antes de terminar con la clase, quedamos de formar equipos de 2 a 3 personas para realizar la primera solemne, cuya primera fase es encontrar un objeto electrónico, desarmarlo para aprender lo más posible de ella (ingeniería inversa) y usar estos conocimientos para inspirarnos en posibles ideas para las máquinas que podamos desarrollar a futuro.
 
 ***
 
@@ -16,9 +16,7 @@ El primer periodo se buscó recrear uno circuitos vistos antes de la clase anter
 
 ![bitacora 002](./archivos/002.jpg)
 
-### Avances para la clase 04b
-
-#### _Selección de objeto_
+### Avances para la clase 04b: Tamagotchi - Tronic Pet
 
 Para esta ocasión, quise probar a buscar juguetes electrónicos pensados para niños, que trabajaran con botones como "inputs" y con cambios en una pantalla como "output".
 
@@ -30,11 +28,11 @@ Entre mis búsquedas, encontré uno de los juguetes que formaron parte de mi inf
 
 ![tronic pet 001](./archivos/tronic-001.jpg)
 
-Empaque y producto por delante
+▼ Empaque y producto por delante
 
 ![tronic pet 002](./archivos/tronic-002.jpg)
 
-Empaque y producto por detrás
+▼ Empaque y producto por detrás
 
 A primera vista, se puede ver que es un objeto pequeño, el cuál permite colgarlo gracias a una cadena, destacandose por ser portable y de un tamaño pequeño, además de tener la forma de un huevo (idea relacionada con la crianza de un animal). Lo que más destaca es la pantalla, que ocupa el centro del objeto en si, seguido por 4 botones de igual color, tamaño y materialidad, pero con distintas funcionalidades: de izq. a der. se encuentran las funciones de "status", "reset", "decide" y "cancel". Esta información se comprende gracias al uso del diseño gráfico impreso como una carcasa que le da personalidad y guía al usuario en sus decisiones.
 
@@ -56,9 +54,16 @@ Al otro lado del paquete se muestran las versiones de dicho juguete (con código
 
 ![tronic pet 009](./archivos/tronic-009.jpg)
 
+▼ Desmontaje del objeto.
+
+Cómo se permite observar en las imágenes, el objeto es bastante simple referente a la cantidad de piezas que poseen, necesitando de 2 pilas para poder funcionar.
+Además, cuenta con 4 botones cuyo diseño delantero informa de forma errónea las funciones que cumple cada uno. La placa que realiza la “magia” es bastante simple y plana, teniendo el número K-1729 escrito, además de tener una especie de sólido color oscuro que conecta con la pequeña pantalla pixelada.
+Esta misma simpleza me deja en duda el cómo es poder fabricar una mascota así, puesto que es un objeto que permite “cuidar” de dicho ser mediante múltiples opciones, las cuales no se pueden descifrar por el circuito.
+
+
 ### Investigación
 
-Indagando un poco por el internet, consultando el producto original "Tamagotchi" pude encontrar unvideo de una copia realizado con Arduino y circuitos eléctricos.
+Indagando un poco por el internet, consultando el producto original "Tamagotchi" pude encontrar un video de cómo realizar una copia de dicho objeto usando la tecnología de Arduino y los circuitos eléctricos.
 
 - Link: <https://www.instructables.com/Arduino-Tamagotchi-Project-I-Am-the-Tamagotchi/>
 
