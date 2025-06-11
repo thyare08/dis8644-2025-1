@@ -1,6 +1,6 @@
 # ⋆₊˚⊹♡ Clase 07b - Kicad 2 y Atari punk console ♡⊹˚₊⋆
 
-Viernes 25/04/2025
+Viernes 25 Abril 2025
 
 ***
 
