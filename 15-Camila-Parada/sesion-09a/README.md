@@ -17,7 +17,9 @@ Planeo dedicar estas "hojas"/ archivos digitales para ir documentando todo lo qu
 
 ### Bitácora digital
 
-Y bueno, al final ese tiempo no pude aprovecharlo como quería. Mi abuela falleció, me preocupé por mi madre, no supe lidiar bien co la perdida. Sólo quería dormir y hacer como si el tiempo no pasara.
+Y bueno, al final este tiempo no pude aprovecharlo como quería. Mi abuela terminó falleciendo. El lunes viajé con mi familia para asistir al velorio y funeral. La enterraron este día. Me angustiaba la escena, ya que el día anterior tuve una crisis emocional al no manejar mis emociones frente a la preocupación por mi madre y la que considero la primera perdida dolorosa de una persona que he tenido. Sólo quería dormir y hacer como si el tiempo no pasara.
+
+![alt-text](./archivos/001-1.jpg)
 
 ***
 
