@@ -21,9 +21,9 @@ adaptador solo cambia la forma de conctar_
 
 |luces|
 |---|
-|LEDS utiles para saber si algo esta funcionando (se pueden quemar)|
+|LEDS utiles para saber si algo está funcionando (se pueden quemar)|
 |ampolletas domesticas (con el relés podemos controlar el paso de la corriente)|
-|LEDS de 3w ( rdquieren resistencias grandes) (leds de lata potencia)|
+|LEDS de 3w ( rdquieren resistencias grandes) (LEDs de alta potencia)|
 |tiras LED (son muchos LEDS, normalmente son de alta potencia) programables|
 
 |motores|
@@ -51,19 +51,17 @@ _se utilizan como amplificadores, como switch, como inversor, o como compuerta l
 |reproductor de audio (convierte datos digitales en electricidad sonora)|
 |microfonos (convierte el sonido (mecánica) en electricidad)|
 
-_la intencidad depende de su tamaño (en pulgadas), de su potencia (en watt) y de su impoedancia (en ohm)._
+la intensidad depende de su tamaño (en pulgadas), de su potencia (en watts) y de su impedancia (en ohm).
 
-|piezo electrico|
+|piezo eléctrico|
 |---|
 |movimiento en electricidad|
 
 ## Encargo 24
 
-Describir de forma textual 3 proyectos de maquinas electronicas que quieran hacer de forma individual, ordenar por preferencia o interés de que sea desarrollado.
+Describir de forma textual 3 proyectos de maquinas electrónicas que quieran hacer de forma individual, ordenar por preferencia o interés de que sea desarrollado.
 
 1. lámpara interactiva -> lámpara que con sensor de movimiento se encienda y se apague y que pueda cambiar su tipo de luz.
-2.
-3.
 
 ## Encargo 25
 

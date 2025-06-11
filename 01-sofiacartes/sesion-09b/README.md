@@ -4,7 +4,7 @@
 
 ![PAM8403](https://github.com/user-attachments/assets/77990228-3c5f-446f-af10-8bf4bbe240da)
 
-_imágen rescadada de: <https://vishaworld.com/products/pam8403-5v-two-channel-stereo-mini-class-d-3w-3w-audio-amplifier>_
+imagen rescatada de: <https://vishaworld.com/products/pam8403-5v-two-channel-stereo-mini-class-d-3w-3w-audio-amplifier>
 
 Es un amplificador de audio estéreo clase D, combinación única de potencia, eficiencia y tamaño compacto.
 
@@ -18,13 +18,13 @@ Son amplificadores conmutados, bien en relación a la etapa de salida,�
 
 ![srd05](https://github.com/user-attachments/assets/cff2cdcd-6604-4ff7-8ff0-142d6a39c7d0)
 
-_imágen rescatada de: <https://bracsan.pe/producto/modulo-relay-5v-10a-1-canal-srd05-x1pcb/>_
+imagen rescatada de: <https://bracsan.pe/producto/modulo-relay-5v-10a-1-canal-srd05-x1pcb/>
 
 Permite controlar el encendido/apagado, de equipos de corriente alterna. En otras palabras, provee el aislamiento y conmuta las cargas resistivas de corriente alterna.
 
 Su configuración es SPDT (un polo, dos tiros).
 
-**Pequeña señal de control con ruido mecánico.**
+**Pequeña señal de control con ruido mecánico**
 
 ## Circuito pwm - realizado en clases en tinkercad
 
