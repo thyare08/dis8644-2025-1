@@ -93,6 +93,8 @@ Además, pude encontrar un video en Youtube por la mano de unos creadores de con
 
 Todavía es necesario seguir indagando para descubrir la naturaleza del funcionamiento de sus piezas vitales: el circuito, la batería, el motor, el sensor infrarojo.
 
+***
+
 ### Posdata
 
 Estoy cansada...me cuesta descansar ૮◞ ﻌ ◟ა
