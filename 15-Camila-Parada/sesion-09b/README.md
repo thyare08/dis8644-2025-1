@@ -1,6 +1,6 @@
 # ⋆₊˚⊹♡ Clase  09b - Receso de clases ♡⊹˚₊⋆
 
-Viernes 9/05/2025
+Viernes 9 Mayo 2025
 
 ***
 
