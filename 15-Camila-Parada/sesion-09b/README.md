@@ -89,11 +89,12 @@ Tras este ejercicio rápido y la simulación de este, los profesores se pusieron
 
 ***
 
-### Tarea 1: Desarrollo de circuitos en Protoboard (Aplicando las piezas)
+### Encargo 18: Tinkerkad a protoboard
+
 
 ***
 
-### Tarea 2: Laurie Anderson
+### Encargo 19: Laurie Anderson
 
 Este referente fue mencionado en clases, destacando su obra "Concert for Dogs" la cuál como su nombre lo indica corresponde a un concierto-performance dirigido hacia los perros. Para ello, la artista realizó una serie de piezas músicales pensadas en ser tocada en una frecuencia audible para los caninos. La primera presentación se llevó a cabo en Times Square (EEUU) en pleno invierno, reuniendo a cerca de 50 canes y 100 de sus acompañantes humanos. El concierto tuvo como instrumento el violín (instrumento que inventó en 1970) y el teclado, cuyas vibraciones al ser transmitidas a una serie de parlantes se creaba un nuevo sonido debido a la baja frecuencia resultante, el cuál apenas era audible para las personas por lo que se dispuso de auriculares que permitían escuchar el concierto como si lo hiciera un perro. Cada momento fue registrado como parte de la experiencia.
 
