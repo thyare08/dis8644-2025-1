@@ -37,7 +37,7 @@ En la página oficial del grupo se puede encontrar la [lista de letras](https://
 
 ![alt-text](./archivos/003.jpg)
 
-▼ Portada del disco Halber Mensch. Recuperado de: https://www.discogs.com/es/release/502732-Einst%C3%BCrzende-Neubauten-Halber-Mensch
+▼ Portada del disco Halber Mensch. Recuperado de: https://www.discogs.com/es/release/502732-Einst%C3%BCrzende-Neubauten-Halber-Mensch.
 
 
 ***
@@ -51,9 +51,9 @@ Al montar los componentes en los distintos canales de salida del Chip, teniendo 
 
 ![alt-text](./archivos/002.png)
 
-▼ Imagen de los pines del Chip 555. Recuperado de: https://electrotec.pe/blog/ElectronicaBasica
+▼ Imagen de los pines del Chip 555. Recuperado de: https://electrotec.pe/blog/ElectronicaBasica.
 
-
+<br>
 Al modificarse el valor de la resistencia colocada al lado del led, la cantidad de luz emitida por este puede ser más o menos brillante dependiendo de si el valor es alto o bajo.
 
 En este caso, el condensador polarizado de 10uF "guarda" energía por un corto periodo de tiempo antes de que toque el lado negativo, lo que se traduce en el tiempo que pasa encendido y apagado el led. Por otra parte, el otro condensador cerámico "474" permite el paso de corriente de forma directa a tierra.
@@ -88,6 +88,34 @@ En este caso, el condensador polarizado de 10uF "guarda" energía por un corto p
 | Chip 555                  | 1      |  U1  |   4.5V a 16V  |
 | Condensador polarizado                  | 1      |  C1  |   10uF  |
 | Condensador Cerámico 474                 | 1      |  C2  |   0.47uF |
+
+<br>
+
+Más tarde, el 27 de marzo, se rearmó el circuito pero usando como resustencia variable un potenciometro de 500k.
+
+![alt-text](./archivos/008.jpeg)
+
+<https://github.com/user-attachments/assets/b9e250f6-0250-47a1-93ce-46c661f28116>
+
+▼ Fotografía del circuito y video en uso.
+
+
+![alt-text](./archivos/010.png)
+
+▼ Diagrama del circuito.
+
+#### BOM (Bill Of Materials)
+
+| Componente       | Qty | Nombre(s) | Valor/tipo |
+|-----------------------|---------|------------|----------------|
+| Batería               | 1       | BT1      |       9V       |
+| Resistencias          | 3       | R1, R2    | 1k, 10k  |
+| Leds                  | 1      |  D1  |   3,3V    |
+| Chip 555                  | 1      |  U1  |   4.5V a 16V  |
+| Condensador polarizado                  | 1      |  C1  |   10uF  |
+| Condensador Cerámico 474                 | 1      |  C2  |   0.47uF |
+| Potenciometro             | 1      |  RV1  |   500k |
+
 
 ***
 
