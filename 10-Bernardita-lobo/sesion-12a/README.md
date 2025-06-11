@@ -14,7 +14,7 @@
 - El circuito envía pulsos con distintas frecuencias.
 - ¿Cómo podríamos hacer que nuestro circuito varíe los tiempos, como en los semáforos?
 - Amarillo: 4 segundos, rojo: 6 segundos, verde: 6 segundos.
-- Circuito detector de sombra.
+- Circuito detector de sombra, indica cuando el LDR no percibe luz.
 - Esquemáticos divididos en primera etapa, segunda etapa y tercera etapa.
 
 ![Foto de la protoboard y mis materiales](./archivos/tme-sesion12a-cosas.jpeg)
@@ -29,7 +29,7 @@
 - Diagrama de tiempo y diagrama de lógica.
 - Condicionales y George Boole.
 - Libro The Mathematical Analysis of Logic.
-- Además, repasamos cómo subir fotos a GitHub: cargar los archivos y luego agregar el texto para que aparezca la imagen.
+- Además, repasamos cómo subir fotos a GitHub: cargar las fotos en archivos y luego agregar el texto para que aparezca la imagen.
 
 ![Foto de mis apuntes de mi bitácora](./archivos/tme-sesion12a-bitacora.jpeg)
 

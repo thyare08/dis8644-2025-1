@@ -45,7 +45,7 @@ Fuente <https://www.555-timer-circuits.com>
 - Nunca había escuchado un álbum de jazz, y me encantó lo lento, transitorio y relajado que es el álbum.
 - Este Blindfold Test de la revista Down Beat me pareció muy interesante. <https://youtu.be/tZtSBz_6SSA?si=MgLMNVNjm5VXxtxe>
 
-
+![Foto de Miles Davis](./archivos/tme-sesion05b-miles.jpeg)
 
 Fuente <https://www.latercera.com/resizer/v2/T56PABQ5HVFC5J4RRILVHVRKV4.jpg?auth=0a43f3ad7c2b2ce8060a2d7461267bf0a1c2b96c71a9737cd3d9516c8144d330&width=600&smart=true>
 
