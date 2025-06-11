@@ -17,7 +17,7 @@ Planeo dedicar estas "hojas"/ archivos digitales para ir documentando todo lo qu
 
 ### Bitácora digital
 
-Y bueno, al final ese tiempo no pude aprovecharlo como quería. Mi abuela falleció, me preocupé por mi madre, no supe lidiar bien co la perdida. Sólo quería dormir y hacer como si el tiempo no pasara.
+Esos días fueron algo ocupados. Mi madre viajó de urgencia desde Santiago a La Estrella. Mi abuela no comía. Algo pasaba y yo solo pude evitar el tema y enfocarme en lo que me pasaba. Al final hubo que llevarla de un CESFAM a un hospital en Marchigue, y de ahí a Santa Cruz. Mi mente pensaba lo peor, pero no quería creerlo. Hasta que pasó.
 
 ***
 
