@@ -22,7 +22,7 @@
 ### OpenSCAD
 
 - En la clase nos instalamos OpenSCAD, aunque realmente no alcanzamos a hablar mucho sobre este.
-- Fuente: https://www.3dnatives.com/es/openscad-modelador-3d/#!
+- Fuente <https://www.3dnatives.com/es/openscad-modelador-3d/#!>
 - OpenSCAD es un software CAD gratuito y de código abierto para crear modelos 3D sólidos, dirigido a usuarios con más experiencia en programación.
 - Este es un modelador 3D basado en scripts que utiliza su propio lenguaje de descripción.
 - Con este programa no se puede seleccionar ni modificar interactivamente con el mouse el modelo.
