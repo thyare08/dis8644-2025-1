@@ -17,13 +17,13 @@ Planeo dedicar estas "hojas"/ archivos digitales para ir documentando todo lo qu
 
 ### Bitácora digital
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam aliquet.
+Y bueno, al final ese tiempo no pude aprovecharlo como quería. Mi abuela falleció, me preocupé por mi madre, no supe lidiar bien co la perdida. Sólo quería dormir y hacer como si el tiempo no pasara.
 
 ***
 
 ### Posdata
 
-Espacio paa escribir todo y de todo
+...
 
 ***
 
