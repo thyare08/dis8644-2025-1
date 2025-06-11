@@ -18,7 +18,7 @@
 
 ## encargo 19
 
-laurie anderson es una artista estadounidense nacida en 1947. entre sus obras más destacadas se encuentran su más de 10 álbumes de estudio como solista, además diseñó varios instrumentos, uno de ellos es el violín de arco de cinta. 
+Laurie Anderson es una artista estadounidense nacida en 1947. entre sus obras más destacadas se encuentran su más de 10 álbumes de estudio como solista, además diseñó varios instrumentos, uno de ellos es el violín de arco de cinta. 
 
 para investigar su obra vi el video musical de O Superman. Lo más llamativo de este video para mi fue ver como Laurie se desenvolvía ante la cámara, mostrando un desplante escénico que solo puede tener alguien con mucha experiencia. El ritmo de la canción está marcado por sonidos generados a partir de la voz de Laurie, y esto me parece muy interesante. Es algo que no había visto, y en mi opinión ocurre un fenómeno en donde la separación entre instrumental y el canto se difumina, y se puede llegar a ver como un solo sonido.
 
