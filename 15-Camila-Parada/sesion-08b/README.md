@@ -19,6 +19,10 @@ Planeo dedicar estas "hojas"/ archivos digitales para ir documentando todo lo qu
 
 Esos días fueron algo ocupados. Mi madre viajó de urgencia desde Santiago a La Estrella. Mi abuela no comía. Algo pasaba y yo solo pude evitar el tema y enfocarme en lo que me pasaba. Al final hubo que llevarla de un CESFAM a un hospital en Marchigue, y de ahí a Santa Cruz. Mi mente pensaba lo peor, pero no quería creerlo. Hasta que pasó.
 
+Dentro de lo poco que avancé fue una idea de una serigrafía para la placa PCB.
+
+![alt-text](./archivos/001.jpeg)
+
 ***
 
 ### Posdata
