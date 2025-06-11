@@ -74,8 +74,6 @@ Hail to the Thief de Radiohead (Johan reference 🗣️🗣️🗣️)
 
 ![solo LED](./archivos/led_3.gif)
 
-***
-
 ![diagrama circuito segundo NE555](./archivos/4step_pt3.png)
 
 ![circuito pt.3](./archivos/circuito_2.png)
@@ -88,15 +86,14 @@ Hail to the Thief de Radiohead (Johan reference 🗣️🗣️🗣️)
 
 - USB-A: GND D+ D- 5V (D being transferencia de datos)
 
-- Caja Faraday: estructura metálica que protege contra campos eléctricos estáticos y electromagnéticos. Por esto los microondas son de metal, y no hay señal dentro de los ascensores
+Caja Faraday: estructura metálica que protege contra campos eléctricos estáticos y electromagnéticos. Por esto los microondas son de metal, y no hay señal dentro de los ascensores
 
->
-    En la clase, Misaa peló un cable como ejemplo y mostró que eran 4 cables por cada pin del USB, pero mi cable solo tenía DOS (uno rojo y uno blanco, as opposed to negro, blanco, verde, y rojo)
+En la clase, Misaa peló un cable como ejemplo y mostró que eran 4 cables por cada pin del USB, pero mi cable solo tenía DOS (uno rojo y uno blanco, as opposed to negro, blanco, verde, y rojo)
 
-    Aarón me dijo que algunos cables USB son solo de carga así que no necesitan los de transferencia de datos, lo cual hace sentido considerando que mi cable era de un cargador viejo
+Aarón me dijo que algunos cables USB son solo de carga así que no necesitan los de transferencia de datos, lo cual hace sentido considerando que mi cable era de un cargador viejo
 
 ![cables USB](./archivos/usb.png)
 
-    Conecté el USB a mi computador para ver si funcionaba como batería. En la proto hice un circuito simple de un LED y una resistencia para probar y si bien se encendía el LED cuando conectaba los cables, tenía que encontrarle un punto perfecto para que se mantuviera
-    
-    Agarrándolos en un jumping cable no funcionó, tampoco al usarlos directo para el circuito de los dos NE555 + 4017. No sé si el soldarlos ayudará, o si directamente algo hice mal en el stripping
+Conecté el USB a mi computador para ver si funcionaba como batería. En la proto hice un circuito simple de un LED y una resistencia para probar y si bien se encendía el LED cuando conectaba los cables, tenía que encontrarle un punto perfecto para que se mantuviera.
+
+Agarrándolos en un jumping cable no funcionó, tampoco al usarlos directo para el circuito de los dos NE555 + 4017. No sé si el soldarlos ayudará, o si directamente algo hice mal en el stripping.

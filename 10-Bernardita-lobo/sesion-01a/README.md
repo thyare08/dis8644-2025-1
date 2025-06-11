@@ -1,42 +1,42 @@
 # sesión-01a
 
-## trabajo en clase / Martes
+## Trabajo en clase / Martes 11 de Marzo
 
-### conociendo el taller máquinas electrónicas
+### Conociendo el Taller Máquinas Electrónicas
 
-- ¿que experiencias hemos tenido con la electrónica?
-- ¿cuales son nuestras expectativas para este taller?
-- tecnologías interactivas
-- concepto de tecnológia
-- input y output
-- referentes varios de las artes electronicas
+- ¿Qué experiencias hemos tenido con la electrónica?
+- ¿Cuáles son nuestras expectativas para este taller?
+- Tecnologías interactivas
+- Concepto de tecnología
+- Input y output
+- Referentes varios de las artes electrónicas
 
-![foto6](https://github.com/user-attachments/assets/bf64df51-610b-4e25-8dde-08d56e7d7d57)
+![Foto pcbs](./archivos/tme-sesion01a-foto6.jpeg)
 
-![foto7](https://github.com/user-attachments/assets/2f946879-bd3c-496a-9e08-25af20795c02)
+![Foto libros](./archivos/tme-sesion01a-foto7.jpeg)
 
-## Encargo
+## Encargos
 
-### 00-Barrio universitario
+### Encargo-00: Barrio universitario
 
-- barrio universitario es una película chilena de comedia, se estrenó el 25 de julio del 2013.
-- esta historia se desarrolla en un contexto universitario, los protagonistas se inscriben en una competencia de robótica con el objetivo de conquistar a una chica de una universidad más prestigiosa. cuando reciben el primer fondo para comenzar a trabajar, se lo gastan en puras tonteras, lo que los obliga a improvisar. de alguna manera su proyecto casi hecho de basura es seleccionado por considerarse una propuesta sustentable, a lo largo de la película pasan por un largo proceso y logran crear un proyecto final de forma ingeniosa. además de esto, también enfrentan tensiones, malentendidos y conflictos dentro de su grupo de amistades.
-- dentro de esta película podemos ver una clara crítica social y cómo se perpetúan estereotipos. siento que lograron abordar bien lo que querían comunicar a través del humor y la sátira. aunque no tenía muchas expectativas, me gustó la película, aunque en algún momento me pareció un poco lenta y predecible, no la volvería a ver, pero también estoy feliz de haberla visto.
-- les dejo este video de 42 razones para ver Barrio universitario https://youtu.be/2eGPD23Sn10?si=gyEDcZvTY5J39IQv
+- Barrio Universitario es una película chilena de comedia que se estrenó el 25 de julio de 2013.
+- La historia se desarrolla en un contexto universitario. Los protagonistas se inscriben en una competencia de robótica con el objetivo de conquistar a una chica de una universidad más prestigiosa. Cuando reciben el primer fondo para comenzar a trabajar, lo gastan en puras tonteras, lo que los obliga a improvisar. De alguna manera, su proyecto, casi hecho de basura, es seleccionado por considerarse una propuesta sustentable. A lo largo de la película, atraviesan un largo proceso y logran crear un proyecto final de forma ingeniosa. Además de esto, también enfrentan tensiones, malentendidos y conflictos dentro de su grupo de amistades.
+- En esta película se puede ver una clara crítica social y cómo se perpetúan ciertos estereotipos. Siento que lograron comunicar bien lo que querían transmitir a través del humor y la sátira. Aunque no tenía muchas expectativas, me gustó la película. En algunos momentos me pareció un poco lenta y predecible. No la volvería a ver, pero me alegra haberla visto.
+- Les dejo este video con 42 razones para ver Barrio Universitario. <https://youtu.be/2eGPD23Sn10?si=gyEDcZvTY5J39IQv>
 
-### 00-Kraftwerk
+### Encargo-00: Kraftwerk
 
-- albúm "man machine" y "tour de france"
-- tecnología de vanguardia
-- arte socialista constructivista
+- Álbum Man Machine y Tour de France
+- Tecnología de vanguardia
+- Arte socialista constructivista
 
-![foto4](https://github.com/user-attachments/assets/1e42a54d-2365-40c1-bd70-65c93ae56f55)
+![Foto de mis apuntes en mi bitácora](./archivos/tme-sesion01a-foto4.jpeg)
 
-### 01-Mi caja negra y yo
+### Encargo-01: Mi caja negra y yo
 
-- ejercicio especulativo
-- ¿cómo llegan mis perritos a mi 3ds? ¿cómo es posible que entren en un cartucho? ¿cómo caben tantos perritos en un cartucho tan pequeño?
-- para poder almacenar a perritos en un cartucho, se lleva a cabo un proceso molecular. a nivel molecular se toman partículas de perritos. las partículas de perritos son "perritos microscópicos" y son fáciles de distinguir. Entonces capturan estas partículas y las almacenan en los cartuchos. la 3DS funciona como una lupa, donde proyecta todas las partículas de perritos que se encuentran en el cartucho.
+- Ejercicio especulativo
+- ¿Cómo llegan mis perritos a mi 3DS? ¿Cómo es posible que entren en un cartucho? ¿Cómo caben tantos perritos en un cartucho tan pequeño?
+- Para poder almacenar perritos en un cartucho, se lleva a cabo un proceso molecular. A nivel molecular, se toman partículas de perritos. Estas partículas son como "perritos microscópicos" y se pueden distinguir con facilidad. Entonces, se capturan estas partículas y se almacenan dentro del cartucho.
+La 3DS funciona como una especie de lupa, que proyecta todas las partículas de perritos contenidas en el cartucho, permitiendo así que los podamos ver y jugar con ellos.
 
-![foto1](https://github.com/user-attachments/assets/27bde512-b2ea-475e-8833-fa6e4e4d4cc2)
-
+![Foto de mis apuntes en mi bitácora](./archivos/tme-sesion01a-foto1.jpeg)

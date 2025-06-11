@@ -48,11 +48,11 @@ nos hicieron entrega de las placas diseñadas en Kicad (udpudu), luego nos reuni
 
 **foto tomada el día martes en la entrada de ss donde los funcionarios marcan y registran su llegada.**
 
-![pantalla_7_segmentos-2](./archivos/foto-martes-donde-funcionarios-registran-su-legada.png)
+![pantalla_7_segmentos-2](./archivos/foto-martes-donde-funcionarios-registran-su-llegada.png)
 
 foto sacada el día jueves a la pantalla de la lavadora de mi casa, indica el tiempo de lavado y el on/off
 
-![pantalla_7_segmentos-3](./archivos/foto-día-jueves-a-pantalla-de-lavadora-de-mi-casa_indica-tiempo-de-lavado-y-on:off.png)
+![pantalla_7_segmentos-3](./archivos/foto-dia-jueves-a-pantalla-de-lavadora-de-mi-casa_indica-tiempo-de-lavado-y-on:off.png)
 
 ## encargo-21: simulación de circuitos con 555 y/o comparadores hechos con opamps en Falstad
 

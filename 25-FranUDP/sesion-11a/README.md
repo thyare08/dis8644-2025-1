@@ -7,10 +7,10 @@
 Se emplean "clases" y "objetos" al programar, para atribuir ciertas propiedades a los elementos pertenecientes a una determinada "clase" u "objeto".
 Es decir, en lugar de definir que X elemento tiene Y características, por cada elemento que tengamos. Solo tendríamos que definir las características y seleccionar los elementos que las poseen.
 
-### Recapitulando
->
+Recapitulando
+
 ### Componentes
->
+
 | Componente | Ejemplos | Referencia |
 |:----------:|:--------:|:----------:|
 | Resistencias de distintos tipos | Resistencia, potenciómetro, LDR, etc. | R |
@@ -22,13 +22,13 @@ Es decir, en lugar de definir que X elemento tiene Y características, por cada 
 | Fuentes de poder | Baterías, power supplies, puerto USB, panel solar, etc. | Vcc, +9V etc.|
 | Protoboards | Breadboard y Perfboard | n/a |
 | PCBs | 2 capas, 4 capas, etc. Fr4, aluminio, rogers, etc. | n/a |
->
+
 ### Circuitos
->
+
 PWM, astable, monostable, bistable
->
+
 ### Aplicaciones
->
+
 Atari Punk Console (APC)
 Regular brillo LED (PWM)
 On/off ampolleta
@@ -66,9 +66,9 @@ Fuente: <https://github.com/disenoUDP/dis8644-2025-1/blob/main/00-docentes/sesio
 
 El MOSFET es controlado mediante un pulldown resistor, porque si __*Gate*__ no fuese conectada a GND, el MOSFET permanecería __*HIGH*__ (interruptor cerrado) </brD4 se encarga de proteger el MOSFET del "golpe" de voltaje reverso producido por el motor al apagarse, esto ocurre porque el motor está tomando corriente mientras gira, luego le cortamos la corriente, pero sigue girando por inercia, por lo que se pone a producir corriente, causando que la terminal del motor que antes estaba conectada a GND ahora tenga un exceso de voltaje positivo, el cual es llevado al riel positivo por el diodo.
 
-![Circuito PWM + MOSFET]./archivos/pwmMosfetCircuit.jpg)
+![Circuito PWM + MOSFET](./archivos/pwmMosfetCircuit.jpg)
 
-### Other things: <!-- Things to organize + random stuff -->
+### Other things
 
 ### Motor háptico (vibrador)
 

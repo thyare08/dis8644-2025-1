@@ -44,5 +44,5 @@
 - Repasar en general me ayudó a procesar toda la información vista en clase, y ahora tengo más integrado cómo se llama cada componente que hemos utilizado en KiCad.
 - Una de las cosas que aún no termino de entender es cómo se conectan los cables cuando hay muchos componentes que juntar, ya que a veces hay cables que impiden el paso de otros.
 - ¿Cómo se puede modificar las patillas del componente 555 en KiCad?
-- ¿Se pueden mandar a hacer PCBs con otras formas geométricas?
+- ¿Se pueden mandar a hacer PCBs con otras formas geométricas y figurativas?
   

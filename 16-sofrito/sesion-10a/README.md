@@ -20,11 +20,11 @@ Pantalla de 7 segmentos: contiene 7 leds, y cada uno se asocia a un segmento, qu
 
 ## LM324 (4 op-amp)
 
-chip de 14 patas 
+chip de 14 patas
 
 op-amp: caja negra llena de transistores. Es un circuito integrado (CI) que amplifica señales eléctricas, especialmente voltajes diferenciales
 
-![símbolo.op-amp](./archivos/símbolo.op-amp.png)
+![símbolo opamp](./archivos/siimbolo-op-amp.png)
 
 V+: Entrada no inversora
 
@@ -54,7 +54,7 @@ trapasar el circuito simulado en tinkercad a la protoboard
 
 ## encargo_19: cultura electrónica y laurie anderson
 
-Laurie Anderson es una artista multidisciplinaria, reconocida por su trabajo en música experimental, performance, poesía, artes visuales y tecnología. 
+Laurie Anderson es una artista multidisciplinaria, reconocida por su trabajo en música experimental, performance, poesía, artes visuales y tecnología.
 
 Personalmente, conocia la obra  "O Superman", pero no conocía a profundidad quien era la creadora ni sus otros trabajos. Lo que más me sorprendió fue su trabajo (re) diseñando distintos intrumentos musicales, pero sobre todo modificando violines de tal forma que ninguno se parece entre si en cuanto al sonido que produce, sin embargo siguen siendo el mismo intrumento que se utiliza de la misma manera que un violín tradicional. Puedo decir que mis favoritos son: Tape bow violin, Neon Violin y The Talking Stick. Como anécdota personal, yo solía tocar el violín, pero por distintas razones (sindrome del impostor) lo dejé a pesar de que es algo siempre quise hacer, por lo que investigar sobre Laurie Anderson hace que quiera volver y retomar el violín, y poder experimentar y crear cosas.
 
@@ -70,5 +70,4 @@ De las obras que más me gustaron destaco son, Self-playing violin – Duets on 
 
 aquí dejo una página que contiene un video de Laurie explicando los instrumentos que creó, su inspiración y algunas anécdotas.
 
-https://vimeo.com/589418427/bcaf06cd4b
-
+<https://vimeo.com/589418427/bcaf06cd4b>

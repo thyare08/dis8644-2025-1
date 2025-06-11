@@ -4,43 +4,43 @@
 
 ## Teloneo
 
-> [posternurarecords](https://posternurarecords.cl/) - Creado por Christian Oyarzún
->
-> [error404.cl](https://error404.cl/) - Christian Oyarzún
->
-> Y2K o Year 2000 problem: se refiere a los problemas relacionados al formato de calendario de los computadores después del año 2000
->
-> web 1.0: pre-2000, apenas cargaba gifs // web 2.0: rss feed, net art (a esto se dedicaba Christian)
+[posternurarecords](https://posternurarecords.cl/) - Creado por Christian Oyarzún
+
+[error404.cl](https://error404.cl/) - Christian Oyarzún
+
+Y2K o Year 2000 problem: se refiere a los problemas relacionados al formato de calendario de los computadores después del año 2000
+
+web 1.0: pre-2000, apenas cargaba gifs // web 2.0: rss feed, net art (a esto se dedicaba Christian)
 
 [Summer - Olia Lialina](https://art.teleportacia.org/olia/summer/) &rarr; cada frame es un sitio web de sus amigos
 
-> Muchos de los proyectos de Christian fueron echos en Adobe Flash, así que ahora están obsoletos
->
-> Bienal Artes Mediales 2015 &rarr; [drumCircle\[\]](https://error404.cl/drumCircle/)
->
-> Misaa vió el drumCircle[] y decidió expandirlo, así creando la tutupá
->
-> [Sonic Pi](https://sonic-pi.net/): Software de música con coding
->
-> Algorave: Raves donde se hace código algorítmico en vivo
->
-> Rasterized vs vectors &rarr; sample vs midi
->
-> [General MIDI](https://www.youtube.com/watch?v=MWAnDOX5Xxwu)
->
-> noisk8: Live coder de Medellín y sk8r, usa foxdot y hasta lo tradujo al español
->
-> [Joshua: Teenager vs Superpower](https://www.imdb.com/title/tt6333072/) on Netflix
->
-> Webring: círculo de sitios web enlazados de manera circular, generalmente estaban centrados en un tema y eran de ámbito educativo o social
->
-> Twitter and Tear Gas - Zeynep Tufekci
->
-> Ai Weiwei Cam &rarr; proyecto de self-survaillance donde Weiwei colocó 4 webcams con un 24h livestream en el sitio weiweicam.com
->
-> Wafaa Bilal &rarr; tiene una obra donde llevaba una [cámara en la nuca](https://wafaabilal.com/thirdi/) que tomaba fotos cada minuto
->
-> McLuhan's "el medio es el mensaje"
+Muchos de los proyectos de Christian fueron hechos en Adobe Flash, así que ahora están obsoletos.
+
+Bienal Artes Mediales 2015 &rarr; [drumCircle\[\]](https://error404.cl/drumCircle/)
+
+Misaa vió el drumCircle[] y decidió expandirlo, así creando la tutupá
+
+[Sonic Pi](https://sonic-pi.net/): Software de música con coding
+
+Algorave: Raves donde se hace código algorítmico en vivo
+
+Rasterized vs vectors &rarr; sample vs midi
+
+[General MIDI](https://www.youtube.com/watch?v=MWAnDOX5Xxwu)
+
+noisk8: Live coder de Medellín y sk8r, usa foxdot y hasta lo tradujo al español
+
+[Joshua: Teenager vs Superpower](https://www.imdb.com/title/tt6333072/) on Netflix
+
+Webring: círculo de sitios web enlazados de manera circular, generalmente estaban centrados en un tema y eran de ámbito educativo o social
+
+Twitter and Tear Gas - Zeynep Tufekci
+
+Ai Weiwei Cam &rarr; proyecto de self-survaillance donde Weiwei colocó 4 webcams con un 24h livestream en el sitio weiweicam.com
+
+Wafaa Bilal &rarr; tiene una obra donde llevaba una [cámara en la nuca](https://wafaabilal.com/thirdi/) que tomaba fotos cada minuto
+
+McLuhan's "el medio es el mensaje"
 
 ## Apuntes
 
@@ -120,8 +120,26 @@
 
 1. **Detector de mala vibra**: hace sonidos aleatoriamente y a veces enciende luces sin sentido
 
+![dibujo proyecto 1](./archivos/12b_1.png)
+
 1. **Detector de nada**: cuando no hay luz, no hay sonido, ni movimiento, activa luces intermitentes y sonidos como alarma
 
-1. **Botón de pánico falso**: un botón que activa luces y alarmas dramáticas, pero no hace nada más
+![dibujo proyecto 2](./archivos/12b_2.png)
+
+1. **Botón de pánico falso**: un botón que finge un mecanismo interno de activación (luces y pitidos varios), pero solo hace un pequeño sonido
+
+![dibujo proyecto 3](./archivos/12b_3.png)
 
 ## Encargo 25 - Dibujar diagramas de los 3 proyectos
+
+1. Diagrama de flujo del **Detector de mala vibra**
+
+![flujo proyecto 1](./archivos/flujo_1.png)
+
+1. Diagrama de flujo del **Detector de nada**
+
+![flujo proyecto 2](./archivos/flujo_2.png)
+
+1. Diagrama de flujo del **Botón de pánico falso**
+
+![flujo proyecto 3](./archivos/flujo_3.png)

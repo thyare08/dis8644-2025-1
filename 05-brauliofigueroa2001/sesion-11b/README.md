@@ -10,7 +10,9 @@ viernes 23 de mayo de 2025
 - la segunda parte del circuito consistía en implementar el chip 4017 en la protoboard
 - lo que se buscaba era generar una especie de secuenciador, el chip 4017 se encargaba de esto
 - como llegué tarde no entendí bien el cómo el chip 4017 actuaba como secuenciador, debo estudiarlo más
+
 - **primera parte del circuito**
+
 ![fotocircuitoavance](./archivos/1748578185408.jpg)
 
 ## post break
