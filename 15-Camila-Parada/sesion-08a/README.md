@@ -1,6 +1,6 @@
 # ⋆₊˚⊹♡ Clase  08a - Revisión de Kicad, programas y atajos para trabajar desde el PC ♡⊹˚₊⋆
 
-Martes 29/04/2025
+Martes 29 Abril 2025
 
 ***
 
