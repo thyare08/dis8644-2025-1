@@ -14,6 +14,7 @@ Viernes 21 Marzo 2025
 
 ![alt-text](./archivos/004.jpg)
 
+
 En esta clase pudimos aprender a interpretar el diagrama de un circuito, comenzando por la simbología de las piezas que lo componen, el nombre y valor asociado a cada parte, además de ponerlos a prueba en la protoboard. Además, aprendimos lo que era un Bill Of Materials (BOM): una lista de todos los componentes que forman parte de un circuito, cuyo contenido abarca el tipo de componente, la cantidad, el nombre asociado a cada pieza y los valores de estos. Esta información sirve como parte fundamental para poder construir un circuito.
 
 ***
