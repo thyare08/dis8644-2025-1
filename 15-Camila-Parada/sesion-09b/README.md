@@ -91,6 +91,12 @@ Tras este ejercicio rápido y la simulación de este, los profesores se pusieron
 
 ### Encargo 18: Tinkerkad a protoboard
 
+Desarrollo del circuito visto en clases
+
+![alt-text](./archivos/012.jpeg)
+
+
+<https://github.com/user-attachments/assets/c9754b91-30a6-4a1d-9720-86b4a049daac>
 
 ***
 
