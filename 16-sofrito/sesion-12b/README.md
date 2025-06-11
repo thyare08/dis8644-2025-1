@@ -7,6 +7,7 @@ y2k o problema del año 2000: fue un bug o error de software causado por la cost
 web 2.0: se refiere a una evolución de la web en la que se promueve la interacción y la colaboración entre usuarios.
 
 net art: obras de arte creadas específicamente para internet y que utilizan la red como un medio principal.
+
 <https://art.teleportacia.org/olia/summer/>
 
 posternura records: <https://posternurarecords.cl/>
@@ -23,7 +24,7 @@ joshua: teenager vs superpower, es un documental sobre activismo y tensiones pol
 
 ## fuentes de poder
 
-Batería 9vl, son caras y contaminantes
+Batería 9v, son caras y contaminantes
 
 Fuente de poder ac/dc: convierte la corriente alterna en corriente continua
 
@@ -59,7 +60,7 @@ Muy probablemente requerirán transistores.
   
 - Para que gire más lento, se debe buscar motoreductores, que cambian su velocidad por el principio de conservación del movimiento angular.
   
-- Steppermotor:  Es mucho más lento y preciso. Se utilizan en impresoras 3D. Funciona a partir de recibir pequeños impulsos eléctricos  que activan ciertas regiones del motor.
+- Stepper motor:  Es mucho más lento y preciso. Se utilizan en impresoras 3D. Funciona a partir de recibir pequeños impulsos eléctricos  que activan ciertas regiones del motor.
   
 - Servomotor o paso a paso: Se suele utilizar con arduino. Sabe donde está, es preciso y puede ser rápido. A veces es inestable.
   
@@ -71,7 +72,7 @@ Muy probablemente requerirán transistores.
 
 ### Transistores
 
-- Se usan como amplificador, como switch,como inversor o como compuerta lógica.
+- Se usan como amplificador, como switch, como inversor o como compuerta lógica.
   
 - Hay principalmente dos tipos: Bipolares y FET
   
@@ -83,7 +84,7 @@ Muy probablemente requerirán transistores.
 
 ### Sonido
 
-- Parlantes activos y pasivos. Activos se enchufam. Pasivos no, ya que requieren amplificación externa, como el PAM8403. Su intensidad sonora depende de su tamaño (en pulgadas), de su potencia (en watt), de su impedancia (en ohm).
+- Parlantes activos y pasivos. Activos se enchufa. Pasivos no, ya que requieren amplificación externa, como el PAM8403. Su intensidad sonora depende de su tamaño (en pulgadas), de su potencia (en watt), de su impedancia (en ohm).
   
 - Buzzers: Parlantes muy básicos, principalmente usados como señal de alrma o aviso. Puede sonar muy fuerte.
   

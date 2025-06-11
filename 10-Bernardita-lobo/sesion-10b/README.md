@@ -4,14 +4,14 @@
 
 ### Cosas que hablamos en la mañana
 
-- Dead Internet Theory
+- Dead Internet Theory.
 - TikTok opera en Estados Unidos y los datos de los usuarios se envían a China.
 - Circuit bending es la personalización de circuitos, donde se modifican juegos infantiles o sintetizadores.
 - Nicolás Collings, el sonido proviene de romper los circuitos electrónicos.
 - Circuit bent Speak and Spell <https://youtu.be/Y-M9mXLl9gM?si=lVejOtLXzZZFFr8s>
 - Hack of the Month Club, jumping speakers <https://youtu.be/6ZxxuDNQuMQ?si=KUrd1tIN_m32f4_6>
 
-### Bom udpudu
+### BOM Udpudu
 
 |Referencia  |Valor   |Huella                   |Qty|OBS               |
 |------------|--------|-------------------------|---|------------------|
@@ -30,7 +30,7 @@
 |Parlante    |8ohm    |                         |1  |                  |
 |J1,J3       |CAIMAN  |Cables caimán            |2  |                  |
 
-### PCB udpudu
+### PCB Udpudu
 
 - Llegaron las PCBs Udpudu que habían encargado a China hace algunas clases y nos mostraron una lista de personas a las que se las van a regalar, con y sin soldar.
 - En esta clase tuvimos que seleccionar los componentes y probar cómo queríamos que sonara el circuito en la protoboard.

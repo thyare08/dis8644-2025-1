@@ -25,7 +25,7 @@
 
 ## Encargos
 
-### Encargo-18: De tinkercad a protoboard
+### Encargo-18: De Tinkercad a protoboard
 
 - Tomar el circuito que simulamos en Tinkercad y traspasarlo a la protoboard.
 

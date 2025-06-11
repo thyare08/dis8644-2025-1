@@ -5,7 +5,7 @@
 ### Cosas que hablamos en la mañana
 
 - Hablamos de lo que está pasando con Harvard y en Estados Unidos en general, ya que están expulsando a todos los extranjeros de la universidad por las nuevas leyes de Trump.
-- Hail to the Thief, Radiohead
+- Hail to the Thief, Radiohead.
 - Video Radioheard there there <https://youtu.be/N19sz20EYpw?si=vnvCaswkuZnkHjJl>
 
 ### Circuito secuenciador con 4017 y 555
@@ -16,6 +16,7 @@
 - Tenía cuatro luces que se iban alternando; al llegar a la primera, sonaba el speaker. El sonido era muy interesante y se podían hacer muchas variaciones al circuito.
 - No pueden prenderse y sonar dos al mismo tiempo.
 - Diagrama de flujo.
+- Anoté algunas ideas para el Proyecto 02, enfocándome en las cosas que quiero que ocurran con mi circuito y la interacción del usuario.
 
 ![Foto del circuito en la protoboard](./archivos/tme-sesion11b-circuito01.jpeg)
 

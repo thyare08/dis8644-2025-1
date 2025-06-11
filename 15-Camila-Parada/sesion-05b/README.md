@@ -1,13 +1,12 @@
 # ⋆₊˚⊹♡ Clase 05b - Desarrollo Atari ♡⊹˚₊⋆
 
-_Viernes 11/04/2025_
+Viernes 11/04/2025
 
 ***
 
 ## Observaciones
 
 Esta clase comenzó con una charla sobre salud mental, lo que personalmente me generó más confianza con la clase y el equipo docente, puesto que tengo bastante ansiedad antes de comenzar y me armo de valor para poder levantarme e ir a presentarme a la facultad.
-
 
 ***
 
