@@ -51,6 +51,9 @@
 
 ### Transistores
 
+- Bipolar: 2n2222
+- MOSFET: IRFZ44n
+
 ### Sonido
 
 - Parlantes activos
@@ -58,6 +61,7 @@
 - Buzzers
 - Reproductor de audio
 - Micrófonos
+- piezo eléctrico
 
 ![Foto de mis apuntes de mi bitácora](./archivos/tme-sesion12ay12b-bitacora.jpeg)
 
@@ -67,7 +71,7 @@
 
 - Describir de forma textual 3 proyectos de máquinas electrónicas que quieran hacer de forma individual, ordenar por preferencia o interés de que sea desarrollado.
 
-- Idea 01 Circuito interactivo, naturaleza sensible al sonido: El circuito estará diseñado para mantener el motor en funcionamiento continuo mientras no haya ruido en el ambiente. Cuando se detecta un sonido (a través de un micrófono o sensor de sonido), el sistema reaccionará y detendrá el motor, como si la "vida" del objeto se interrumpiera por el ruido, creando un contraste entre lo orgánico y lo tecnológico
+- Idea 01 Circuito interactivo, naturaleza sensible al sonido: El circuito estará diseñado para mantener el motor en funcionamiento continuo mientras no haya ruido en el ambiente. Cuando se detecta un sonido (a través de un micrófono o sensor de sonido), el sistema reaccionará y detendrá el motor, como si la "vida" del objeto se interrumpiera por el ruido, creando un contraste entre lo orgánico y lo tecnológico.
 
 - Idea 02 Fotosíntesis sonora: Este circuito se colocará junto a una planta, de modo que cuando la planta quede en la sombra o en oscuridad, el sistema “grite” simbólicamente, como una forma de expresar que necesita luz para vivir. La planta se convierte en una especie de entidad comunicadora, alertando a través de una señal sonora.
 
@@ -75,7 +79,7 @@
 
 ### Referentes
 
-![](./archivos/tme-sesion)
+![Imagen de referente](./archivos/tme-sesion12b-referente.jpeg)
 
 Fuente <https://artishockrevista.com/wp-content/uploads/2020/01/Zimoun-2019-297-2330.jpg>
 
@@ -91,4 +95,4 @@ Fuente <https://proyectoidis.org/zimoun/>
 
 - Idea 03: Motor detenido > le llega luz > el motor se pone en movimiento > se detiene la luz > el motor se detenido.
 
-![](./archivos/tme-sesion)
+![Foto de los apuntes de mi bitácora](./archivos/tme-sesion12b-bitacora.jpeg)
