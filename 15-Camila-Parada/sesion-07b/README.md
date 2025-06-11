@@ -144,7 +144,7 @@ Dado que en la clase se enseñó a como editar las placas PCB en el aspecto más
 
 ▼ Sitio web asociado: <https://animeanime.global/2020/02/21/51644.html>
 
-Esta es una placa diseñada para ser parte de una carcasa para iPhone. Por lo que informa la descripción posee un Led que se enciende sin usar batería, sino que hace uso de las ondas electrónicas del dispositivo móvil. El fabricante original se trata de "PBC Art Moeco" (<https://pcbartmoeco.jp/>), una empresa japonesa dedicada al diseño artístico sobre placas PBC para ser vendidas como carcasas funcionales. Posee muchas placas diseñadas con bastante precisión y belleza.
+Esta es una placa diseñada para ser parte de una carcasa para iPhone. Por lo que informa la descripción posee un Led que se enciende sin usar batería, sino que hace uso de las ondas electrónicas del dispositivo móvil. El fabricante original se trata de ["PBC Art Moeco"](<https://pcbartmoeco.jp/>), una empresa japonesa dedicada al diseño artístico sobre placas PBC para ser vendidas como carcasas funcionales. Posee muchas placas diseñadas con bastante precisión y belleza.
 
 #### Fabriquer un CIRCUIT IMPRIME TRANSPARENT
 
@@ -184,7 +184,7 @@ Nuevamente, de este proyecto me fascina la simpleza que posee. Aunque no se trat
 
 ▼ Sitio web asociado: <https://magazine.raspberrypi.com/articles/tufty-2040-interactive-name-badge-review>
 
-Fabricado por Pimoroni (<https://shop.pimoroni.com/products/tufty-2040?variant=40036912595027>), es una placa que se basa en el chip de microcontrolador RP2040 y posee un una pantalla LCD a color de 2,4 pulgadas, siendo una "Pantalla Badger Programable". Esto quiere decir que es un gafete interactivo que consiste en una tarjeta programable que integra un microcontrolador RP2040 y una pantalla E Ink (tinta electrónica) para crear una tarjeta de identificación que puede mostrar diferentes textos e imágenes (<https://www.330ohms.com/products/badger-2040#:~:text=El%20Badger%202040%20es%20un,mostrar%20diferentes%20textos%20e%20im%C3%A1genes>).
+Fabricado por [Pimoroni](<https://shop.pimoroni.com/products/tufty-2040?variant=40036912595027>), es una placa que se basa en el chip de microcontrolador RP2040 y posee un una pantalla LCD a color de 2,4 pulgadas, siendo una "Pantalla Badger Programable". Esto quiere decir que es un gafete interactivo que consiste en una tarjeta programable que integra un microcontrolador RP2040 y una pantalla E Ink (tinta electrónica) para crear una tarjeta de identificación que puede mostrar diferentes textos e imágenes (<https://www.330ohms.com/products/badger-2040#:~:text=El%20Badger%202040%20es%20un,mostrar%20diferentes%20textos%20e%20im%C3%A1genes>).
 
 Me parece un objeto bastante curioso, siendo atraída principalmente por el aspecto visual. Al informarme me di cuenta de la complejidad que posee, y de lo útil y divertido que puede ser el tener una de estas placas.
 
