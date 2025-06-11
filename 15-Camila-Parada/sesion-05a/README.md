@@ -48,7 +48,7 @@ Circuito original completo
 
 Ya lista la estructura base, decidí reemplazar la primera resistencia por un potenciometro, con la finalidad de poder controlar de mejor manera los sonidos emitidos. En ello implementé cables dupont hembra-macho para extender fuera del tablero esta pieza. Por suerte pudo funcionar sin problema.
 
-![alt-text](./archivos/007-11.04.jpg
+![alt-text](./archivos/007-11.04.jpg)
 
 Circuito levemente modificado
 
