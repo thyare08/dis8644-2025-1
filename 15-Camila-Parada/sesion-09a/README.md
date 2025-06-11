@@ -1,6 +1,6 @@
 # ⋆₊˚⊹♡ Clase  09a - Semana de receso  ♡⊹˚₊⋆
 
-Viernes 2 Mayo 2025
+Martes 6 Mayo 2025
 
 ***
 
