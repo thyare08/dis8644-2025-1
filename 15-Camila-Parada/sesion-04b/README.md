@@ -1,6 +1,6 @@
 # ⋆₊˚⊹♡ Clase 04b - Segundos avances ♡⊹˚₊⋆
 
-Viernes 4 de Abril del 2025
+Viernes 4 Abril 2025
 
 ***
 
