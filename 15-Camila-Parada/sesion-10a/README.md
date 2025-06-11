@@ -1,6 +1,6 @@
 # ⋆₊˚⊹♡ Clase  10a - Circuitos PWM (Pulse Width Modulation) ♡⊹˚₊⋆
 
-Martes 13/05/2025
+Martes 13 Mayo 2025
 
 ***
 
@@ -28,9 +28,9 @@ Para llegar a esto hubo que corregir y ajustar los valores de cada LED, teniendo
 
 A su vez se mencionó los "Leds RGB", los "Leds de 7 segmentos". Encontrar display de LEDs (Un dispositivo que tenga LEDs incrustados, como un semáforo).
 
-![image](https://github.com/user-attachments/assets/e91aa685-68f4-4a7d-b0ae-8fd1f125309f)
+![image](./archivos/001.png)
 
-_▼ Diagrama Leds de 7 segmentos. Obtenido de [RS](https://cl.rsdelivers.com/product/broadcom/hdsp-n151/display-led-7-segmentos-broadcom-de-1-caract-rojo/2465522)_
+▼ Diagrama Leds de 7 segmentos. Obtenido de [RS](https://cl.rsdelivers.com/product/broadcom/hdsp-n151/display-led-7-segmentos-broadcom-de-1-caract-rojo/2465522).
 
 Tras ello hablamos sobre Descartes, el plano cartesiano, la geometría analítica, la lógica, meditaciones, etc.
 
@@ -44,20 +44,20 @@ Dado que llegué unos minutos tarde por atender un asunto personal, me perdí gr
 
 Además, se realizó una simulación en Falstad, una plataforma web basada en Java que simula circuitos eléctricos análogos y digitales, (dibujandolos de forma intuitiva) y demuestra distintos parámetros de forma visual mediante gráficos que se van actualizando continuamente.
 
-![image](https://github.com/user-attachments/assets/59527ff1-16df-4d40-a871-44507b88df93)
+![image](./archivos/002.png)
 
 ***
 
 #### Encargo 20: Pantallas de siete segmentos
 
 ![alt text](./archivos/01.jpg)
-_▼ Fotografía totem de entrada y salida República 180. Fotografía tomada el martes 13 de mayo del 2025._
+▼ Fotografía totem de entrada y salida República 180. Fotografía tomada el martes 13 de mayo del 2025.
 
 El contexto de esta imagen fue parte del trabajo de clases, en el que durante el descanso de la clase tuvimos que ir a recorrer el barrio para obtener fotografías de pantallas de 7 segmentos. Esta pantalla parece estar conformada por leds de color verde, las cuales tienen encendidas ciertos focos que feneran una flecha (lo que indica que se puede pasar).
 
 ![alt text](./archivos/02.jpg)
 
-_▼ Fotografía mini pantalla de leds. Fotografía tomada el viernes 21 de marzo del 2025._
+▼ Fotografía mini pantalla de leds. Fotografía tomada el viernes 21 de marzo del 2025.
 
 El día en el que tomé la fotografía tuvimos clases. Dado que había realizado una compra en MCI electronics <https://mcielectronics.cl/> tuve que ir a retirarla a su sucursal ubicada en Providencia.
 
