@@ -1,6 +1,6 @@
 # ⋆₊˚⊹♡ Clase 05b - Desarrollo Atari ♡⊹˚₊⋆
 
-Viernes 11/04/2025
+Viernes 11 Abril 2025
 
 ***
 
