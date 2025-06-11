@@ -1,6 +1,6 @@
 # ⋆₊˚⊹♡ Clase 06a - Circuito experimental ♡⊹˚₊⋆
 
-Martes 15/04/2024
+Martes 15 Abril 2025
 
 Grupo 08 - Isabella Gutierrez, Camila Parada
 

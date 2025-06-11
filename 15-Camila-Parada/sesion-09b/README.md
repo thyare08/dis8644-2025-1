@@ -1,6 +1,6 @@
 # ⋆₊˚⊹♡ Clase  09b - Receso de clases ♡⊹˚₊⋆
 
-Viernes 9/05/2025
+Viernes 9 Mayo 2025
 
 ***
 
@@ -11,7 +11,7 @@ Tras la exposición de estos, proseguimos a hablar sobre la posición de la univ
 
 A su vez conversamos sobre los primeros auxilios psicológicos y algunos hablaron de sus logros y cosas buenas que habían pasado en la semana, en conjunto a los profes.
 
-Tras ello nos quedan las últimas 7 semanas de clases. Vamos a usar nuevas piezas para aprender a usarlas
+Tras ello nos quedan las últimas 7 semanas de clases. Vamos a usar nuevas piezas para aprender qué son y para que sirven.
 
 ***
 
@@ -25,25 +25,25 @@ Es un módulo y amplificador digital dual relacionado al audio. El módulo sa te
 
 ¿Qué es un amplificador? Es un circuito cuya función es incrementar la intensidad de la corriente. En este caso, el efecto que produce es aumentar la potencia de la señal de audio a la par que permite lograr una reproducción de sonido de alta calidad gracias al bajo THD (Total Harmonic Distortion). La pieza en si posee una doble salida.
 
-![image](https://github.com/user-attachments/assets/abe65e5b-f6ce-40ec-9c62-d56671a3d037)
+![alt-text](./archivos/001.png)
 
-_▼ Imagen de referencia (uno similar, cambia el chip). Obtenido de [Aliexpress.](https://es.aliexpress.com/item/1005002662145301.html)_
+▼ Imagen de referencia (uno similar, cambia el chip). Obtenido de [Aliexpress.](https://es.aliexpress.com/item/1005002662145301.html).
 
 - [RELE de 01 Canal](https://afel.cl/products/rele-de-01-canal):
 
 Un Relé (en inglés Relay) es una pieza electrónica que funciona como un interruptor controlado por la energía presente en un circuito electrico. Esta pieza posee una bobina (almacena energía de forma pasiva) y un electroimán (requiere de la bobina para funcionar, permitiendo prender o apagar según la presencia de corriente).  Su funcionamiento permite encender u apagar secciones de un circuito (privando u otorgando electricidad a diferentes partes) y controlar la potencia de la energía que ingresa (actuando como un amplificador eléctrico al controlar dispositivos de alta potencia con señales eléctricas de baja potencia y al contrario). Existen variedades de relés en el mercado: electromecánicos (EMR), de estado sólido (SSR) y los Reed.
 
-![S60a7c3c0546e40daa8ea34470a0a9959u jpg_960x960q75 jpg_](https://github.com/user-attachments/assets/f9903be3-fa4b-4f26-bd99-406f15f299db)
+![alt-text](./archivos/002.jpg)
 
-_▼ Imagen de referencia. Obtenido de [Aliexpress.](https://es.aliexpress.com/item/1005005959775711.html)_
+▼ Imagen de referencia. Obtenido de [Aliexpress.](https://es.aliexpress.com/item/1005005959775711.html).
 
-![image](https://github.com/user-attachments/assets/d706a47b-78d6-487f-bded-f5938e2683cd)
+![alt-text](./archivos/003.png)
 
-_▼ Esquema de las partes de un relé. Obtenido de [Electricidad Práctica.](https://autodesarrollo-electricidadpractica.blogspot.com/2011/07/relays.html)_
+▼ Esquema de las partes de un relé. Obtenido de [Electricidad Práctica.](https://autodesarrollo-electricidadpractica.blogspot.com/2011/07/relays.html).
 
-![image](https://github.com/user-attachments/assets/c7ce5aa8-3686-4181-a9bb-db6b8ddc1ab3)
+![alt-text](./archivos/004.png)
 
-_▼ Partes de un relé. Obtenido de [Electricidad Práctica.](https://autodesarrollo-electricidadpractica.blogspot.com/2011/07/relays.html)_
+▼ Partes de un relé. Obtenido de [Electricidad Práctica.](https://autodesarrollo-electricidadpractica.blogspot.com/2011/07/relays.html).
 
 - [1N4007 Diodo](https://maxelectronica.cl/componentes-electronicos/163-diodo-rectificador-1n4007.html):
 
@@ -53,9 +53,9 @@ Esta pieza es un Diodo rectificador, una pieza semiconductora que actua como un 
 
 [Diferencias entre Corriente Alterna y Continua - MasterD](https://www.youtube.com/watch?v=85eQw7cmDqU)
 
-![image](https://github.com/user-attachments/assets/aad3d0e3-f210-4c3a-82a7-94178ceeb7fe)
+![alt-text](./archivos/005.png)
 
-_▼ Imagen de referencia . Obtenido de [Rambal.](https://rambal.com/circuitos-integrados/2120-diodo-1n4007-1kv1a.html)_
+▼ Imagen de referencia. Obtenido de [Rambal.](https://rambal.com/circuitos-integrados/2120-diodo-1n4007-1kv1a.html).
 
 Con estas piezas en mano (metafóricamente hablando) nos disponemos a recordar los conocimientos relacionados con el chip 555 y sus estados: astable (estado variable constante) y monoestable (estado permanente hasta que se perturbe). Ello para poder realizar un montaje virtual mediante Tinkercad, puesto que casi ningún esudiante llevó el kit de prototipado.
 
@@ -65,42 +65,50 @@ Estas piezas nos hacen pensar en el concepto de "Modularidad" aplicado a los cir
 
 #### Parte 2: Circuito PWM (Pulse Width Modulation - Modulación por ancho de pulso)
 
-![image](https://github.com/user-attachments/assets/246ece20-4999-440c-88bd-9c91e6c02fe8)
-_▼ Fotografía del circuito dibujado en la pantalla_
+![alt-text](./archivos/006.png)
 
-![image](https://github.com/user-attachments/assets/3b498d01-9608-4825-9cf2-1581bd98c5c5)
+▼ Fotografía del circuito dibujado en la pantalla.
 
-Resultado del circuito hecho en Tinkercad
+![alt-text](./archivos/007.png)
+
+▼ Resultado del circuito hecho en Tinkercad.
 
 Tras este ejercicio rápido y la simulación de este, los profesores se pusieron a explicar la teoría de cómo funciona un relé dentro de un circuito, procediendo por un lado a usar el prototipado del circuito anterior, conectarle un relé y una ampolleta en la salida (en vez del led). Como se puede observar, el Relé permite que la energía pueda encender y apagar la ampolleta.
 
-![image](https://github.com/user-attachments/assets/8f20cb67-3611-4c21-bfa6-6bedd6619edd)
+![alt-text](./archivos/008.png)
 
-![image](https://github.com/user-attachments/assets/06a5639d-81ca-4ee9-beb7-df5e88788c77)
+![alt-text](./archivos/009.png)
 
-![image](https://github.com/user-attachments/assets/d87a0c56-c482-4c1e-b0a2-63a22b797652)
+![alt-text](./archivos/010.png)
 
-Imágenes recuperadas del discord del curso, otorgadas por Aarón Montoya
+▼ Imágenes recuperadas del discord del curso, otorgadas por Aarón Montoya.
 
 <https://github.com/user-attachments/assets/9707321d-749d-48dc-b4ed-07b176e1966d>
 
-Video del resultado
+▼ Video del resultado.
 
 ***
 
-### Tarea 1: Desarrollo de circuitos en Protoboard (Aplicando las piezas)
+### Encargo 18: Tinkerkad a protoboard
+
+Desarrollo del circuito visto en clases
+
+![alt-text](./archivos/012.jpeg)
+
+
+<https://github.com/user-attachments/assets/c9754b91-30a6-4a1d-9720-86b4a049daac>
 
 ***
 
-### Tarea 2: Laurie Anderson
+### Encargo 19: Laurie Anderson
 
 Este referente fue mencionado en clases, destacando su obra "Concert for Dogs" la cuál como su nombre lo indica corresponde a un concierto-performance dirigido hacia los perros. Para ello, la artista realizó una serie de piezas músicales pensadas en ser tocada en una frecuencia audible para los caninos. La primera presentación se llevó a cabo en Times Square (EEUU) en pleno invierno, reuniendo a cerca de 50 canes y 100 de sus acompañantes humanos. El concierto tuvo como instrumento el violín (instrumento que inventó en 1970) y el teclado, cuyas vibraciones al ser transmitidas a una serie de parlantes se creaba un nuevo sonido debido a la baja frecuencia resultante, el cuál apenas era audible para las personas por lo que se dispuso de auriculares que permitían escuchar el concierto como si lo hiciera un perro. Cada momento fue registrado como parte de la experiencia.
 
 (<https://www.theguardian.com/music/2016/jan/05/laurie-anderson-music-dog-concert-times-square-new-york>)
 
-![image](https://github.com/user-attachments/assets/decbb57b-afe9-40c5-be0d-06de35700761)
+![alt-text](./archivos/011.png)
 
-_▼ Imagen del concierto. Obtenido de [Independent.](https://www.independent.co.uk/arts-entertainment/music/news/performance-artist-laurie-anderson-plays-concert-especially-for-dogs-in-new-york-a6798581.html)_
+▼ Imagen del concierto. Obtenido de [Independent.](https://www.independent.co.uk/arts-entertainment/music/news/performance-artist-laurie-anderson-plays-concert-especially-for-dogs-in-new-york-a6798581.html).
 
 Tras indagar sobre esta obra, me surgió la duda, ¿Quién es Laurie Anderson?, ¿A qué se dedica y por qué es famosa/destacada?
 

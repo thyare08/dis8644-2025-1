@@ -1,6 +1,6 @@
 # ⋆₊˚⊹♡ Clase  08a - Revisión de Kicad, programas y atajos para trabajar desde el PC ♡⊹˚₊⋆
 
-Martes 29/04/2025
+Martes 29 Abril 2025
 
 ***
 
@@ -20,58 +20,64 @@ Para ello el equipo docente envió un [video](https://www.dropbox.com/scl/fi/xj2
 
 ### Parte 1: Revisión de "udpudu"
 
-Hoy fui corriendo a la sala pese a que me sentía un poco mareada después del viaje en metro. Cuando pude llegar e instalarme en la sala identifiqué que estaban revisando el circuito que los profesores mandaron a imprimir en la página JLCPCB (<https://jlcpcb.com/>), revisando las capas que le componen (serigrafía, cobre, cortes en la placa, etc).
+Hoy fui corriendo a la sala pese a que me sentía un poco mareada después del viaje en metro. Cuando pude llegar e instalarme en la sala identifiqué que estaban revisando el circuito que los profesores mandaron a imprimir en la página [JLCPCB](<https://jlcpcb.com/>), revisando las capas que le componen (serigrafía, cobre, cortes en la placa, etc).
 Estos documentos se encuentran en la página "<https://github.com/disenoUDP/dis8644-2025-1/tree/main/00-docentes/sesion-07b/udpudu>".
 
 Dado que la carpeta es bastante grande y posee bastantes archivos y versiones, decidí enfocarme en encontrar un documento con terminación "Zip" que hubiera sido actualizado lo más reciente posible. Por lo que pude ver, hay varrias carpetas con esa descripción que habían sido actualizadas el día anterior. Al final terminé decidiendo por ingresar a la carpeta "udpudu-2025-04-28_225809" y descargar su contenido al hacer click en el archivo y en la opción "View raw".
 
 - Información recuperada de: <https://docs.github.com/es/get-started/start-your-journey/downloading-files-from-github>
 
-![image](https://github.com/user-attachments/assets/69c1114a-6e3c-4e99-b109-9ae45c9e1d07)
+![alt-text](./archivos/001.png)
 
-Captura de la carpeta descargada en Github
+▼ Captura de la carpeta descargada en Github.
 
 Una vez descargada exporté todos los documentos para poder analizar las partes que componen dicho documento.
 
 #### Archivo diagrama
 
-![image](https://github.com/user-attachments/assets/1d75f11d-24b3-47ab-bf4b-419806a514bf)
+![alt-text](./archivos/002.png)
 
-Captura del diagama
+▼ Captura del diagama.
 
-![image](https://github.com/user-attachments/assets/89d3fa22-9fe0-4084-8983-71362949c108)
+![alt-text](./archivos/003.png)
 
-Captura de las huellas del archivo
+▼ Captura de las huellas del archivo.
 
-**Análisis:** En comparación con el esquema realizado en clases, a este se les añadió 4 perforaciones (MountingHole) númeradas del H1 al H4. Las huellas de estas piezas son "MountingHole_3.2mm_M3". Por lo que pude apreciar, no es necesario que estos elementos se encuentren posicionados en una parte en específico (no como en la placa PCB). Fuera de eso, el circuito es similar al que realizamos la clase pasada.
+#### Análisis 1: 
+
+En comparación con el esquema realizado en clases, a este se les añadió 4 perforaciones (MountingHole) númeradas del H1 al H4. Las huellas de estas piezas son "MountingHole_3.2mm_M3". Por lo que pude apreciar, no es necesario que estos elementos se encuentren posicionados en una parte en específico (no como en la placa PCB). Fuera de eso, el circuito es similar al que realizamos la clase pasada.
 
 #### Archivo PCB
 
-![image](https://github.com/user-attachments/assets/1eeafae9-e1a3-48ab-a9e8-1bb8bc84d94d)
+![alt-text](./archivos/004.png)
 
-Visualización completa de la placa. Se observa una sobreposición de los elementos delanteros con los de atrás
+▼ Visualización completa de la placa. Se observa una sobreposición de los elementos delanteros con los de atrás.
 
-![image](https://github.com/user-attachments/assets/d0e02dd7-7054-48a4-9e6f-41f502c87625)
+![alt-text](./archivos/005.png)
 
-Visualización de la parte frontal (F.) de la Placa (Cu, Silkscreen, Mask, Edge.cuts, Courtyard, Fab)
+▼ Visualización de la parte frontal (F.) de la Placa (Cu, Silkscreen, Mask, Edge.cuts, Courtyard, Fab).
 
-![image](https://github.com/user-attachments/assets/ccf3fa42-4a23-4081-9ff4-391ff9d46601)
+![alt-text](./archivos/006.png)
 
-Visualización de la parte trasera (B.) de la Placa (Cu, Silkscreen, Mask, Edge.cuts, Courtyard, Fab)
+▼ Visualización de la parte trasera (B.) de la Placa (Cu, Silkscreen, Mask, Edge.cuts, Courtyard, Fab).
 
-**Análisis:** La placa se ve completa y separada por cada parte. Los esenciales son los conectores de Cu (cobre), los cortes de los bordes (dimención del circuito) y los agujeros por donde entrarán las piezas. Sin estos el circuito como tal no sería funcional. Los demás parametros ayudan a generar una guía para sabe en qué lugar se instala qué pieza, para darle un sentido de identidad y estética, entre otros.
+#### Análisis 2: 
+
+La placa se ve completa y separada por cada parte. Los esenciales son los conectores de Cu (cobre), los cortes de los bordes (dimención del circuito) y los agujeros por donde entrarán las piezas. Sin estos el circuito como tal no sería funcional. Los demás parametros ayudan a generar una guía para sabe en qué lugar se instala qué pieza, para darle un sentido de identidad y estética, entre otros.
 
 #### Simulación en 3D
 
-![image](https://github.com/user-attachments/assets/da022933-a232-4cbb-bcba-57e27ec1fce3)
+![alt-text](./archivos/007.png)
 
-Visualización de la parte frontal
+▼ Visualización de la parte frontal.
 
-![image](https://github.com/user-attachments/assets/70a61d89-3d09-44f1-a958-a4ec43d4da33)
+![alt-text](./archivos/008.png)
 
-Visualización de la parte trasera
+▼ Visualización de la parte trasera.
 
-**Análisis:** Usando esta herramienta se puede ver una aproximación del resultado final antes de mandarlo a fabricar. Es la última oportunidad para poder realizar observaciones y cambios tanto en los componentes como en el circuito como tal.
+#### Análisis 3:
+
+Usando esta herramienta se puede ver una aproximación del resultado final antes de mandarlo a fabricar. Es la última oportunidad para poder realizar observaciones y cambios tanto en los componentes como en el circuito como tal.
 
 ***
 
@@ -107,7 +113,42 @@ El fundamento de la creación de esta web es ["La idea de unir las fuerzas de di
 
 Exposición realizada por el Núcleo de Artes Sonoras: Mónica Bate, Jorge Cabieses, Rainer Krause, Francisco Sanfuentes, Matias Serrano, Lucas Soffia.
 
-▼ Este es un texto.
+![alt-text](./archivos/009.jpg)
+
+▼ Imagen encontrada en la página de la exposición. Recuperado de: https://mac.uchile.cl/exposiciones/tiempo-de-decaimiento-temprano/.
+
+El día de la inauguración tuvimos clases, por lo que me quedé toda la tarde en la universidad haciendo la hora para poder asistir. Dado que la hora a la que comenzaba el evento era muy tarde y me daba nervios ir sola quise invitar a mi novio. Me gusta poder compartir momentos con él, me hace sentir acompañada y querida, y aprovecho de poder interactuar frente a nuestras agendas y la realidad.
+
+Una vez llegamos al lugar vimos que había mucha gente, siendo una convocatoria grande al tener varias muestras que habían sido renovadas (me parece que cerca de 3).
+Fui paciente y estuve escuchando los discursos que daban, intentando entender lo que decían las personalidades extranjeras que colaboraron con el museo. Cuando ya hubo “chipe libre” para ir a pasear por el museo sentí exaltación por querer saber qué era lo que nos podía esperar.
+
+Para la posteridad, decidí tomar algunas fotografías de las obras que más me llegaron a gustar de alguna u otra forma.
+
+![alt-text](./archivos/010.jpeg)
+
+![alt-text](./archivos/011.jpeg)
+
+![alt-text](./archivos/012.jpeg)
+
+![alt-text](./archivos/013.jpeg)
+
+![alt-text](./archivos/014.jpeg)
+
+![alt-text](./archivos/015.jpeg)
+
+![alt-text](./archivos/016.jpeg)
+
+![alt-text](./archivos/017.jpeg)
+
+![alt-text](./archivos/018.jpeg)
+
+![alt-text](./archivos/019.jpeg)
+
+![alt-text](./archivos/020.jpeg)
+
+![alt-text](./archivos/021.jpeg)
+
+Pude disfrutar bastante de las exposiciones. La sala que más me gustó fue la que tuvo lámparas ultra violeta, me generaba cierta calma y fascinación al ver los objetos en composiciones difíciles sobre una superficie con agua y que a su vez esta tuviera plantas saliendo me gustó.
 
 ***
 

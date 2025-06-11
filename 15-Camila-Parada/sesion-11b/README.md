@@ -10,7 +10,9 @@ Viernes 23/05/2025
 - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet 
 - https://www.markdownguide.org/basic-syntax/--->
 
-Hail to the thief - Radiohead
+Esta clase comenzamos a ver un nuevo chip, a aprender sus funciones y a montar un circuito con el cuál presenciar de qué forma puede ser implementado en nuestros proyectos.
+
+A la par, soltaron otro referente para ver: Hail to the thief - Radiohead
 
 ***
 
@@ -26,29 +28,34 @@ Hay dos tipos de lógica en la electrónica, en la cual la lógica secuencial se
 
 El chip 4017 no tiene que ser regular. Es un detector de trasnmisiones (ondas).
 
-negador
+![alt text](./archivos/001.png)
 
-![image](https://github.com/user-attachments/assets/1f81d226-5f09-4f48-93e4-e19358a7f65e)
+▼ Recuperado de: <https://www.allaboutcircuits.com/textbook/experiments/chpt-7/led-sequencer/>
 
-_▼ Recuperado de: <https://www.allaboutcircuits.com/textbook/experiments/chpt-7/led-sequencer/>_
+Para ello se nos propone el desarrollo de un circuito, el cuál funciona con 2 chips 555 y 1 Chip 4017.
 
-Hoy vamos a ver un motor que funcione con chips 555 y PWM. Para eso armamos el circuito PWM/Brillo LED.
+![alt text](./archivos/005.jpg)
 
-![alt text](./archivos/01.jpg)
+▼ Fotografía de la pizarra con el esquema dibujado por el profesor Matías. Recuperado de discord.
 
-A su vez se nos entregó una serie de piezas:
+Tras las indicaciones, fui intentando montar el circuito poco a poco. Lo malo es que a pesar de todos los intentos que hice para que funcionara pues no encendió del todo. Ante ello pensé que podía deberse a un mal funcionamiento de la protoboard o de alguna otra pieza, y dado que no tenía otra para poder reensamblar todo me quedé observando que es lo que hacía el resto del curso mientras tanto.
 
-![alt text](./archivos/02.jpg)
+Otro día quise volver a montar todo, pero nuevamente me fallaron los circuitos en todas las ocasiones.
 
-- Transistor Mosfet (TO-220):
-- Motor
+Al final decidí tomarle fotos a mis fracasos y volver a averiguar qué era lo que estaba mal antes de que perdiera la paciencia.
 
-![alt text](./archivos/03.jpg)
-_▼ Piezas entregadas durante la clase. Izq a derecha: transistor npn pn2222a, mosfet-n irfz44e, base para circuito, amplificador operacional lm324, xx, interruptor pequeño, motor._
+![alt text](./archivos/002.jpeg)
 
-![alt text](https://media.discordapp.net/attachments/1318882679659171892/1374908638497476628/Captura_de_pantalla_2025-05-21_a_las_20.36.00.png?ex=68311473&is=682fc2f3&hm=aed0ccf61ad520a916a2dc310fb1f3594a96da803930e3b048ce11e44c9d07ad&=&format=webp&quality=lossless&width=1505&height=675)
+![alt text](./archivos/003.jpeg)
 
-_▼ Diagrama del circuito con motor realizado por el profesor Matías. Recuperado del Discord del curso._
+▼ Fotografía de mis intentos para montar el circuito.
+
+De igual forma, al menos pude disfrutar de los videos que hicieron los demás, destacando el de ["3-antocristi"](https://github.com/disenoUDP/dis8644-2025-1/tree/main/03-antocristi) video que me permitió disfrutar mejor del circuito en vez ded quedarme ansiosa ante tanto estimulo en la sala.
+
+
+<https://github.com/user-attachments/assets/8f857e2c-bc76-409f-820d-e8b514a862c7>
+
+▼ Video de un circuito y su funcionamiento. Recuperado de discord.
 
 ***
 

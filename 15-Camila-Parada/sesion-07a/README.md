@@ -1,6 +1,6 @@
 # ⋆₊˚⊹♡ Clase 07a - Kicad y placas PCB ♡⊹˚₊⋆
 
-Martes 21/04/2025
+Martes 22 Abril 2025
 
 ***
 
@@ -18,33 +18,33 @@ La segunda parte de la clase se centró en orientar los materiales dentro de una
 
 Cuando llegué a la sala estaban hablando de proyectos y programas que no alcancé a escuchar mucho. A la par hicierom circular por la clase varios proyectos enfocados en generar música y sonido, los cuales pude registrar mediante fotografías con mi teléfono.
 
-### Bleep labs - "The Pico Paso"
+#### Bleep labs - "The Pico Paso"
 
-![WhatsApp Image 2025-04-22 at 9 32 46 AM](https://github.com/user-attachments/assets/3b5edad9-1c76-4d5f-a6fe-d986e128c815)
+![alt-text](./archivos/001.jpeg)
 
-![WhatsApp Image 2025-04-22 at 9 32 46 AM (1)](https://github.com/user-attachments/assets/6740cae8-6caf-4e10-816a-b072130bb96a)
+![alt-text](./archivos/002.jpeg)
 
-Sitio web asociado: <https://bleeplabs.com/product/the-pico-paso/>
+▼ Sitio web asociado: <https://bleeplabs.com/product/the-pico-paso/>
 
-### Loud Objects - "Noise Toys"
+#### Loud Objects - "Noise Toys"
 
-![WhatsApp Image 2025-04-22 at 9 32 47 AM](https://github.com/user-attachments/assets/ed01f290-bd0a-4aa0-aa67-b771a06f4842)
+![alt-text](./archivos/003.jpeg)
 
-![WhatsApp Image 2025-04-22 at 9 32 47 AM (1)](https://github.com/user-attachments/assets/0a0ae4f6-4e2b-4f81-9c20-5d57fc69e416)
+![alt-text](./archivos/004.jpeg)
 
-![WhatsApp Image 2025-04-22 at 9 32 49 AM](https://github.com/user-attachments/assets/b0d29e64-3aee-4258-b791-250bd2e9760b)
+![alt-text](./archivos/005.jpeg)
 
-![WhatsApp Image 2025-04-22 at 9 32 49 AM (1)](https://github.com/user-attachments/assets/9c2cca9e-2406-4ab5-9a65-aa09307756c0)
+![alt-text](./archivos/006.jpeg)
 
-_▼ Sitio web asociado: <https://loudobjects.bandcamp.com/merch>_
+▼ Sitio web asociado: <https://loudobjects.bandcamp.com/merch>
 
-### Matías Serrano Acevedo - "Tarjeta de presentación"
+#### Matías Serrano Acevedo - "Tarjeta de presentación"
 
-![WhatsApp Image 2025-04-22 at 9 32 48 AM](https://github.com/user-attachments/assets/e7eeb9a0-9add-4826-b6cf-022a932e0a20)
+![alt-text](./archivos/007.jpeg)
 
-![WhatsApp Image 2025-04-22 at 9 32 48 AM (1)](https://github.com/user-attachments/assets/1ac94898-b72a-4ec2-aab6-6ebe95be71d8)
+![alt-text](./archivos/008.jpeg)
 
-_▼ Sitio web asociado: <http://misaa.cc/home.html>_
+▼ Sitio web asociado: <http://misaa.cc/home.html>
 
 Después empezamos a hablar a rasgos generales sobre el programa Kicad, que es un repertorio de componentes.
 
@@ -67,9 +67,9 @@ Tras ello se presiona "w" para poner la herramienta de cables. Para mover el com
 
 Ya que en este caso el Chip 555 tiene una terminal que no se va a conectar, hay que presionar el boton "q" para indicar que la pata número 5 no tendrá conexión. Después seguimos avanzando y realizando un esquema simple.
 
-![image](https://github.com/user-attachments/assets/f4f262c6-3bb1-4873-951d-807e0c5dda59)
+![alt-text](./archivos/009.png)
 
-![image](https://github.com/user-attachments/assets/5c025e70-b67c-4716-b859-4b0b59735c3a)
+![alt-text](./archivos/010.png)
 
 Package-> Es el encapsulado y protege a la pieza. DO35 es la forma, o mejor dicho, el tipo de encapsulado.
 
@@ -79,13 +79,11 @@ En el siguiente módulo terminé desconcentrandome, por lo que decidí consultar
 
 ***
 
-### encargo-14
-
-#### 1.1 Esquemático "Atari Punk Console" en KiCad
+### Encargo 14: Esquemático "Atari Punk Console" en KiCad
 
 Dado que ya tenía hecho el esquemático del circuito dibujado en Ilustrator, solo tuve que buscar los componentes e ir montando de nuevo la estructura. Con las piezas que no conocía su nombre u código decidí buscarlas en google. Tras ello sólo quedó acomodar las partes y asignar los valores.
 
-![image](https://github.com/user-attachments/assets/a4d9139a-9d36-4ed3-a2d9-b81be012ac17)
+![alt-text](./archivos/011.png)
 
 Imagen del diagrama final en Kicad
 
@@ -93,19 +91,25 @@ El archivo final se encuentra en la carpeta "diagram", puesto que al intentar su
 
 ***
 
-## encargo-15 Preguntas sobre "Manual de supervivencia para KiCAD"
+### Encargo 15: Preguntas sobre "Manual de supervivencia para KiCAD"
 
-1-. ¿Cómo poder ordenar las patitas del chip N555 u otros componentes?}
+1-. ¿Cómo poder ordenar las patitas del chip N555 u otros componentes?
 
-2-. ¿KiCad StepUp? Ayuda a poder descargar archivos en 3D
+2-. ¿Cómo se puede colocar una imagen en PNG en la capa de serigrafía?
+
+4-. ¿KiCad StepUp? Ayuda a poder descargar archivos en 3D
 
 <https://github.com/easyw/kicadStepUpMod/>
 
 ***
 
-### 1.3 Película "Una mente brillante (2001)"
+### Encargo personal: "Una mente brillante" (2001)
 
-No es una tarea como tal, pero el profesor me dijo que sería un buen ejercicio verla.
+![alt-text](./archivos/012.jpg)
+
+▼ Portada de la película. Recuperado de: https://www.primevideo.com/-/es/detail/Una-Mente-Brillante/0JUMWO71OQJ1V10AV42E9KLCEE.
+
+No es una tarea como tal, pero el profesor me dijo que sería un buen ejercicio verla... Lamentablemente no la he podido encontrar ni verla.
 
 ***
 

@@ -1,6 +1,6 @@
 # ⋆₊˚⊹♡ Clase 02a - Flujos y electricidad ♡⊹˚₊⋆
 
-Martes 18/03/2025
+Martes 18 Marzo 2025
 
 ***
 
