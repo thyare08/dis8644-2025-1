@@ -54,7 +54,7 @@
 
 ![Captura de Github](./archivos/tme-sesion08a-hithub.png)
 
-## Encargo
+## Encargos
 
 ### Trabajo en casa
 
