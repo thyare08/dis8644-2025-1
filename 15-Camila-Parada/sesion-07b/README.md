@@ -198,9 +198,28 @@ Pese a varios intentos, no pude colocar el video directamente desde youtube.
 
 ### Encargo 16: Cotización normal
 
+Para poder realizar las cotizaciones fueron necesarias 2 cosas:
+En primer lugar, tuve que crearme una cuenta con la cual poder subir y administrar los archivos subidos. Por otra parte, dado que nunca había realizado una cotización en esta página, tuve que ver un [tutorial en YouTube]( https://www.youtube.com/watch?v=AN291FWuzqE&ab_channel=MundoElectr%C3%B3nica) en el cuál se informa sobre el proceso. 
+
+![alt-text](./archivos/028.png)
+
+![alt-text](./archivos/029.png)
+
+Para esta primera cotización decidí el realizar una placa lo más sencilla posible, en donde la única variable es la cantidad de placas, siendo un total de 30 a fabricar. De esa forma se puede ver que el monto más económico saldría cerca de 31 dólares, sin incluir en envío.
+
 ***
 
 ### Encargo 17: Cotización experimental
+
+Ya para esta segunda cotización decidí variar. Para comenzar la placa tendría una base de cobre, cuyo color superficial sería el negro y poseería serigrafía color blanco. El tipo de producto está pensado para ser de tipo Aeroespacial, pensado en ser resistente. Además de ello, el espesor de la placa sería de 1 mm, lo más delgado posible para dicho material, y sin marcas extras. 
+
+![alt-text](./archivos/030.png)
+
+![alt-text](./archivos/031.png)
+
+![alt-text](./archivos/032.png)
+
+Al ver la previsualización quedé encantada con la elegancia que demuestra, pero al fijarme en el precio quedé para atrás. En este caso, con todas las modificaciones, el precio saldría $191,20 dólares. Con el envío aumentaría a $204,02.
 
 ***
 
