@@ -1,4 +1,4 @@
-# ⋆₊˚⊹♡ Clase  08b - Semana ded receso  ♡⊹˚₊⋆
+# ⋆₊˚⊹♡ Clase  08b - Semana de receso  ♡⊹˚₊⋆
 
 Viernes 2 Mayo 2025
 
