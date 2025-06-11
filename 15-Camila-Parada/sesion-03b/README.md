@@ -1,6 +1,6 @@
 # ⋆₊˚⊹♡ Clase 03b - Atari punk console ♡⊹˚₊⋆
 
-Viernes 28/03/2025
+Viernes 28 de marzo 2025
 
 ***
 
@@ -14,7 +14,7 @@ La clase fue más experimental. El primer módulo se enfocó en trabajar con el 
 
 ### Resultados de la Clase
 
-![IMG_8372](https://github.com/user-attachments/assets/a2a70eaf-efc1-4fce-a170-56474fe5931e)
+![alt-text](./archivos/001.jpg)
 
 <https://github.com/user-attachments/assets/9102512c-2482-4703-8dcd-dd6b0c6be7ca>
 
@@ -40,27 +40,26 @@ _▼ Imágenes recuperadas de: <https://mac.uchile.cl/exposiciones/sala-interacc
 
 Por mi lado aproveché de tomar fotografías centradas en lo que me llamó la curiosidad.
 
-![WhatsApp Image 2025-04-28 at 9 11 07 AM](https://github.com/user-attachments/assets/6d3591fc-0c51-4569-8aca-fd485e7d08b6)
+![alt-text](./archivos/002.jpeg)
 
-![WhatsApp Image 2025-04-28 at 9 11 07 AM (1)](https://github.com/user-attachments/assets/a77a56f0-f670-41fc-9eca-f888e41f10fd)
+![alt-text](./archivos/003.jpeg)
 
-![WhatsApp Image 2025-04-28 at 9 11 07 AM (2)](https://github.com/user-attachments/assets/114d4405-88db-4382-9769-0f1434d1975f)
+![alt-text](./archivos/004.jpeg)
 
-![WhatsApp Image 2025-04-28 at 9 11 07 AM (3)](https://github.com/user-attachments/assets/b7767f8a-cef3-4e70-8e94-9db83c8bfb70)
+![alt-text](./archivos/005.jpeg)
 
-![WhatsApp Image 2025-04-28 at 9 11 07 AM (4)](https://github.com/user-attachments/assets/ba6c4cbb-0ba0-417c-938c-83a4aa7d77a2)
+![alt-text](./archivos/006.jpeg)
 
-![WhatsApp Image 2025-04-28 at 9 11 07 AM (5)](https://github.com/user-attachments/assets/91e7200c-ec8f-4b7f-acaf-6c71db3512ad)
+![alt-text](./archivos/007.jpeg)
 
-![WhatsApp Image 2025-04-28 at 9 11 07 AM (6)](https://github.com/user-attachments/assets/1c2269a3-c970-4094-bb69-28dbeb2a4916)
+![alt-text](./archivos/008.jpeg)
 
-![WhatsApp Image 2025-04-28 at 9 11 07 AM (7)](https://github.com/user-attachments/assets/135c47ce-d02a-4d38-b19c-b16d6da9010d)
+![alt-text](./archivos/009.jpeg)
 
-![WhatsApp Image 2025-04-28 at 9 11 07 AM (8)](https://github.com/user-attachments/assets/25f4e335-85c4-49fc-8a8e-9eb8c51db76b)
+![alt-text](./archivos/010.jpeg)
 
-![WhatsApp Image 2025-04-28 at 9 11 07 AM (9)](https://github.com/user-attachments/assets/a161bda5-d858-463d-ada0-22a92a2c96d1)
+![alt-text](./archivos/011.jpeg)
 
-**▼ Opinión personal:** La muestra me pareció interesante y curiosa, sobre todo por la fabricación de las esculturas y los sonidos que se pueden escuchar. Ello lo hace bastante estimulante, lo que me mareoóun poco, pero fuera de eso pude disfrutar de la muestra.
 
 ***
 
@@ -68,30 +67,29 @@ Por mi lado aproveché de tomar fotografías centradas en lo que me llamó la cu
 
 A continuación se nos dio "chipe libre" para seguir recorriendo las demás salas del museo y los proyectos que ahí se encuentran.
 
-![WhatsApp Image 2025-04-28 at 9 48 49 AM](https://github.com/user-attachments/assets/21309455-bf8c-4ad0-8dc6-707255dcf40a)
+![alt-text](./archivos/012.jpeg)
 
-![WhatsApp Image 2025-04-28 at 9 48 49 AM (1)](https://github.com/user-attachments/assets/66407e8b-460d-4a30-82c6-b4a245b1a9f9)
+![alt-text](./archivos/013.jpeg)
 
-![WhatsApp Image 2025-04-28 at 9 48 49 AM (2)](https://github.com/user-attachments/assets/ec660c9e-e940-4dc4-92c7-c7db8462f66c)
+![alt-text](./archivos/014.jpeg)
 
-![WhatsApp Image 2025-04-28 at 9 48 51 AM](https://github.com/user-attachments/assets/d90d04dc-c2a8-4287-9b0d-b7db233bad50)
+![alt-text](./archivos/015.jpeg)
 
-![WhatsApp Image 2025-04-28 at 9 48 49 AM (3)](https://github.com/user-attachments/assets/118ae423-b8ca-4a50-aac4-32620a4bf89e)
+![alt-text](./archivos/016.jpeg)
 
 ▼ Esta fue la "escultura" que me llamó más la atención. Me gusta como con elementos tan simples se puede transformar en algo memorable e interactivo. Se siente muy extraño y atractivo, como si estuviera siendo vigilada al ser mostrada en la pantalla y al hacer que se imprima un papel con la interacción.
 
-![WhatsApp Image 2025-04-28 at 9 48 51 AM (4)](https://github.com/user-attachments/assets/915c7554-feb1-42b3-9b14-1a2a18640a6a)
+![alt-text](./archivos/017.jpeg)
 
-![WhatsApp Image 2025-04-28 at 9 48 51 AM (3)](https://github.com/user-attachments/assets/134a1941-0a90-4fcb-8dea-75f7f9461b05)
+![alt-text](./archivos/018.jpeg)
 
-![WhatsApp Image 2025-04-28 at 9 48 51 AM (2)](https://github.com/user-attachments/assets/73b5206a-888a-40a8-a5a5-a9dec6569e88)
+![alt-text](./archivos/019.jpeg)
 
-![WhatsApp Image 2025-04-28 at 9 48 51 AM (1)](https://github.com/user-attachments/assets/e40596f2-100e-4240-aae1-185d63fada5d)
+![alt-text](./archivos/020.jpeg)
 
-![WhatsApp Image 2025-04-28 at 9 48 51 AM](https://github.com/user-attachments/assets/e7c0b6c1-af55-4a25-8c85-e94535421742)
+![alt-text](./archivos/021.jpeg)
 
-![WhatsApp Image 2025-04-28 at 9 48 49 AM (4)](https://github.com/user-attachments/assets/26931d89-af86-4611-aff3-7b495e8a38d0)
-
+![alt-text](./archivos/022.jpeg)
 ***
 
 ### Encargo 08: Gonzalo Martínez y sus Congas Pensantes, en Chile
@@ -102,7 +100,7 @@ Texto texto texto
 
 ### Encargo 09: Salida a terreno en el MAC -> Opiniones
 
-Texto texto texto
+La muestra me pareció interesante y curiosa, sobre todo por la fabricación de las esculturas y los sonidos que se pueden escuchar. Ello lo hace bastante estimulante, lo que me genero un poco de mareo por la sobre estimulación, pero fuera de eso pude disfrutar de la muestra.
 
 ***
 
