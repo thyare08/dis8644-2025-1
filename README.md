@@ -1,22 +1,36 @@
-# dis8644-2025-1
+# dis8644-2025-1-procesos
 
-## acerca de
+## Acerca de
 
 * Sigla: DIS8644
-* Nombre: taller de diseño de máquinas eléctricas
+* Nombre: Taller de diseño de máquinas electrónicas
 * Escuela: Escuela de diseño
 * Facultad: Facultad de Arquitectura, Arte y Diseño
-* Universidad: Universidad Diego Portales.
+* Universidad: Universidad Diego Portales
+* Semestre: primer semestre 2025 (marzo a julio)
+* Versión: v1.0.0, esta es la primera vez que se dicta este curso.
 
-dictado durante el primer semestre 2025 (marzo a julio)
+## Estructuras de repositorios
+
+El trabajo conjunto de este curso es público, y está repartido en 2 repositorios:
+
+* <https://github.com/disenoUDP/dis8644-2025-1-procesos>
+  * activo entre principios de marzo 2025 y principios de junio 2025.
+  * concentra las bitácoras y encargos de estudiantes del curso, y el primer proyecto grupal.
+  * repositorio activo desde principios de marzo 2025, y archivado el 11 de junio 2025 a las 09pm.
+* <https://github.com/disenoUDP/dis8644-2025-1-proyectos>:
+  * activo entre principios de junio 2025 y principios de julio 2025.
+    * concentra las bitácoras y encargos de estudiantes del curso, el segundo proyecto grupal, y el examen grupal.
 
 ## equipo docente
 
-* aarón montoya <https://github.com/montoyamoraga/>
-* matías serrano <https://github.com/misaaaaaa>
-* andrés martin <https://github.com/AndresMartinM>
+* aarón montoya <https://github.com/montoyamoraga/>, profesor titular de taller
+* matías serrano <https://github.com/misaaaaaa>, profesor adjunto de taller
+* andrés martin <https://github.com/AndresMartinM>, ayudante de taller
 
-## enlaces a cada carpeta
+## subcarpetas de apuntes
+
+a continuación están los enlaces a las subcarpetas de apuntes este repositorio.
 
 * [00-docentes](./00-docentes/)
 * [01-sofiacartes](./01-sofiacartes/)
@@ -31,7 +45,6 @@ dictado durante el primer semestre 2025 (marzo a julio)
 * [11-Anaisbmg](./11-Anaisbmg/)
 * [12-zaaaiko](./12-zaaaiko/)
 * [13-jotamorales-romulus](./13-jotamorales-romulus/)
-* [14-todo](./14-todo/) NOTA: estudiante ya no está en el curso
 * [15-Camila-Parada](./15-Camila-Parada/)
 * [16-sofrito](./16-sofrito/)
 * [17-sz-mada](./17-sz-mada/)
@@ -49,7 +62,7 @@ dictado durante el primer semestre 2025 (marzo a julio)
 
 ## sesiones
 
-nuestras sesiones de clases serán los martes y viernes entre marzo y julio 2025.
+nuestras sesiones de clases son los martes y viernes entre marzo y julio 2025.
 
 * 08:30am - 09:00am: preparación inicial, resolver dudas
 * 09:00am - 10:30am: primera parte, foco contenidos y trabajo grupal de taller
@@ -65,7 +78,7 @@ nuestras sesiones de clases serán los martes y viernes entre marzo y julio 2025
 | [02a](00-docentes/sesion-02a/)| 03-18 mar| resistores, LEDs, interruptores |
 | [02b](00-docentes/sesion-02b/)| 03-21 vie| circuitos serie y paralelo      |
 | [03a](00-docentes/sesion-03a/)| 03-25 mar| chips, timer 555, esquemáticos  |
-| [03b](00-docentes/sesion-03b/)| 03-28 vie| resistores experimentales, visita MAC    |
+| [03b](00-docentes/sesion-03b/)| 03-28 vie| resist. experimentales, visita MAC |
 | [04a](00-docentes/sesion-04a/)| 04-01 mar| trabajo proyecto-01             |
 | [04b](00-docentes/sesion-04b/)| 04-04 vie| trabajo proyecto-01             |
 | [05a](00-docentes/sesion-05a/)| 04-08 mar| trabajo proyecto-01             |
@@ -80,25 +93,10 @@ nuestras sesiones de clases serán los martes y viernes entre marzo y julio 2025
 | [09b](00-docentes/sesion-09b/)| 05-09 vie| circuitos de PWM                |
 | [10a](00-docentes/sesion-10a/)| 05-13 mar| comparadores y opamps           |
 | [10b](00-docentes/sesion-10b/)| 05-16 vie| soldar placas udpudu y BOMs     |
-| [11a](00-docentes/sesion-11a/)| 05-20 mar| TODO                            |
-| [11b](00-docentes/sesion-11b/)| 05-23 vie| TODO                            |
-| [12a](00-docentes/sesion-12a/)| 05-27 mar| TODO                            |
-| [12b](00-docentes/sesion-12b/)| 05-30 vie| TODO                            |
-| [13a](00-docentes/sesion-13a/)| 06-03 mar| TODO                            |
-| [13b](00-docentes/sesion-13b/)| 06-06 vie| salida:  palacio pereira        |
-| [14a](00-docentes/sesion-14a/)| 06-10 mar| TODO                            |
-| [14b](00-docentes/sesion-14b/)| 06-13 vie| TODO                            |
-| [15a](00-docentes/sesion-15a/)| 06-17 mar| TODO                            |
-| [15b](00-docentes/sesion-15b/)| 06-20 vie| entrega proyecto-02             |
-| [16a](00-docentes/sesion-16a/)| 06-24 mar| TODO                            |
-| [16b](00-docentes/sesion-16b/)| 06-27 vie| TODO                            |
-| [examen](examen/)             | 07-07 tbd| TODO                            |
-
-otras fechas:
-
-* semana de exámenes teóricos, por lo tanto, NO hay evaluación de taller
-* semana exclusiva de trabajo de talleres, NO hay evaluación de taller
-* semana exclusiva de trabajo de talleres, NO hay evaluación de taller
+| [11a](00-docentes/sesion-11a/)| 05-20 mar| motores y transistores          |
+| [11b](00-docentes/sesion-11b/)| 05-23 vie| secuencias con chip 4017        |
+| [12a](00-docentes/sesion-12a/)| 05-27 mar| clock, temporizar, secuenciar   |
+| [12b](00-docentes/sesion-12b/)| 05-30 vie| repaso  de todo lo aprendido    |
 
 ## evaluaciones
 
@@ -194,23 +192,8 @@ los 6 criterios a evaluar son:
 
 ### sobre la nota de proyecto-02
 
-esta nota mide 6 criterios, cada uno se evalúa con nota entre 0.0 y 1.0:
+info en repositorio <https://github.com/disenoUDP/dis8644-2025-1-proyectos>
 
-* 0.0: inexistente o con muchísimos errores
-* 0.3: existente, con muchos errores
-* 0.5: cumple, con errores
-* 0.7: bueno, con pocos errores
-* 1.0: muy bueno, poquísimos errores
+### sobre la nota de examen final
 
-los 6 criterios a evaluar son:
-
-1. TODO
-2. TODO
-3. TODO
-4. TODO
-5. TODO
-6. TODO
-
-## bibliografia
-
-## referentes
+info en repositorio <https://github.com/disenoUDP/dis8644-2025-1-proyectos>
