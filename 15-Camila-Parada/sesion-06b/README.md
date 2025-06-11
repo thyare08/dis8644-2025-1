@@ -10,9 +10,7 @@ La clase pasada falté a la entrega del día martes por encontrarme enferma de g
 
 ***
 
-### encargo-12
-
-#### 1.1 Instalación  KiCad
+### Encargo 12: Instalación  KiCad
 
 Comencé por buscar la página de descarga del programa mediante Google. Tras ello ingresé al link de la página original (<https://www.kicad.org/>) y luego le di click en el botón azul "Download". Al hacer eso me redirige a una página de descargas en la que me consulta acerca del sistema operativo de mi portatil, que en este caso es Windows 10 con un sistema operativo de 64 bits.
 
@@ -48,7 +46,7 @@ Y en la subcarpeta "bin" encuentro el acceso al programa como tal.
 
 ***
 
-#### 1.2 Documental Sisters With Transistors
+### Encargo 13: Sisters with transistors
 
 Pendiente...
 
