@@ -1,6 +1,6 @@
 # ⋆₊˚⊹♡ Clase 07a - Kicad y placas PCB ♡⊹˚₊⋆
 
-Martes 21/04/2025
+Martes 22 Abril 2025
 
 ***
 
