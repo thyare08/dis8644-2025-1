@@ -1,6 +1,6 @@
 # ⋆₊˚⊹♡ Clase  11a - Circuitos PWM (Pulse Width Modulation) ♡⊹˚₊⋆
 
-Martes 20 Mayo2025
+Martes 20 Mayo 2025
 
 ***
 
