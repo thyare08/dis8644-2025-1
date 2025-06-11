@@ -39,6 +39,7 @@ En la página oficial del grupo se puede encontrar la [lista de letras](https://
 
 ▼ Portada del disco Halber Mensch. Recuperado de: https://www.discogs.com/es/release/502732-Einst%C3%BCrzende-Neubauten-Halber-Mensch.
 
+Al escuchar el disco me despertaron muchas emociones, entre de gusto y disgusto. En el comienzo, me gustó la composición improvisada de "instrumentos" que se presenta en cada canción, generando una gran gama de sonidos a coordinar. Ello me dejó cuestionando sobre los orígenes de la música, pensando en ¿Qué es como tal?, ¿Debe poseer un ritmo?, ¿Es necesario que sea generada por tocar un "instrumento"?. Esta mezcla de sonidos fue agradable, armoniosa para mis oídos, sensación que duró poco puesto que se hizo presente. Poco a poco, las letras y entonaciones de quienes cantan me fueron cambiando mi estado de ánimo, recordándome tiempos oscuros relacionados a la religión, pues me daba sensación de estar presente en una especie de misa en la cuál se emitía un juicio. Pese a ello decidí seguir disfrutando dentro de lo posible la música, pese a la incomodidad.
 
 ***
 
