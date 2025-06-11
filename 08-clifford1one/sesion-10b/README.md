@@ -36,25 +36,25 @@ Las resistencias van colocadas en R2, R3 y R4, y un diodo en D1. Hay que fijarse
 
 ![alt text](./archivos/tarjeta-con-dedos-entera.jpeg)
 
-![alt text](./archivos/tarjeta-morada-acostada-condospinzasmetalicasjpeg)
+![alt text](./archivos/tarjeta-morada-acostada-condospinzasmetalicas.jpeg)
 
 Para el soldado, usamos dos pedazos de madera para mantener la pieza elevada y trabajar de forma más cómoda. Ojalá tuviéramos algo más adecuado para este proceso. Utilizamos una resistencia delgada; ojo que vi a varios grupos usando una bastante gruesa, y si no se coloca bien, podría provocar un cortocircuito.
 
-![alt text](./archivos/hombreconlentes-manipulandolatarjetaconunguanteyundestornilladorparecejpeg)
+![alt text](./archivos/hombreconlentes-manipulandolatarjetaconunguanteyundestornilladorparece.jpeg)
 
-![alt text](./archivos/tarjeta-morada-acostada-hilometalicosostenidopordedosconguantesjpeg)
+![alt text](./archivos/tarjeta-morada-acostada-hilometalicosostenidopordedosconguantes.jpeg)
 
 Al final del soldado de cada componente, se recortaron el alambre en exceso de las patitas. Fuimos juntando el exceso para que no se ensuciara la zona de trabajo.
 
-![alt text](./archivos/alicateazul-con-tarjetamoradajpeg)
+![alt text](./archivos/alicateazul-con-tarjetamorada.jpeg)
 
 Finalizando la clase, los componentes que se alcanzaron a soldar fueron los LEDs, el diodo, el condensadores ceramico e electrolíticos y las resistencias. Los leds van en d3 Y D2, los condensadores electrolíticos van en en c4 (1u) y c5 (47u) y el cerámico va en c5.
 
-![alt text](./archivos/tarjeta-morada-acostada-muy-cerca-de-la-camarajpeg)
+![alt text](./archivos/tarjeta-morada-acostada-muy-cerca-de-la-camara.jpeg)
 
-![alt text](./archivos/tarjeta-morada-acostada-cerca-de-la-camarajpeg)
+![alt text](./archivos/tarjeta-morada-acostada-cerca-de-la-camara.jpeg)
 
 Continuaremos con el soldado en las próximas clases.
 
-![alt text](./archivos/tarjeta-morada-con-fondo-duraznojpeg)
+![alt text](./archivos/tarjeta-morada-con-fondo-durazno.jpeg)
 
