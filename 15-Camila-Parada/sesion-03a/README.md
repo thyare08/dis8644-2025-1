@@ -39,6 +39,7 @@ En la página oficial del grupo se puede encontrar la [lista de letras](https://
 
 ▼ Portada del disco Halber Mensch. Recuperado de: https://www.discogs.com/es/release/502732-Einst%C3%BCrzende-Neubauten-Halber-Mensch.
 
+Al escuchar el disco me despertaron muchas emociones, entre de gusto y disgusto. En el comienzo, me gustó la composición improvisada de "instrumentos" que se presenta en cada canción, generando una gran gama de sonidos a coordinar. Ello me dejó cuestionando sobre los orígenes de la música, pensando en ¿Qué es como tal?, ¿Debe poseer un ritmo?, ¿Es necesario que sea generada por tocar un "instrumento"?. Esta mezcla de sonidos fue agradable, armoniosa para mis oídos, sensación que duró poco puesto que se hizo presente. Poco a poco, las letras y entonaciones de quienes cantan me fueron cambiando mi estado de ánimo, recordándome tiempos oscuros relacionados a la religión, pues me daba sensación de estar presente en una especie de misa en la cuál se emitía un juicio. Pese a ello decidí seguir disfrutando dentro de lo posible la música, pese a la incomodidad.
 
 ***
 
@@ -96,7 +97,7 @@ Más tarde, el 27 de marzo, se rearmó el circuito pero usando como resustencia 
 
 <https://github.com/user-attachments/assets/b9e250f6-0250-47a1-93ce-46c661f28116>
 
-▼ Fotografía del circuito y video en uso.
+▼ Fotografía y video del circuito en uso.
 
 
 ![alt-text](./archivos/010.png)
@@ -108,13 +109,72 @@ Más tarde, el 27 de marzo, se rearmó el circuito pero usando como resustencia 
 | Componente       | Qty | Nombre(s) | Valor/tipo |
 |-----------------------|---------|------------|----------------|
 | Batería               | 1       | BT1      |       9V       |
-| Resistencias          | 3       | R1, R2    | 1k, 10k  |
+| Resistencias          | 2       | R1, R2    | 1k, 10k  |
 | Leds                  | 1      |  D1  |   3,3V    |
 | Chip 555                  | 1      |  U1  |   4.5V a 16V  |
 | Condensador polarizado                  | 1      |  C1  |   10uF  |
 | Condensador Cerámico 474                 | 1      |  C2  |   0.47uF |
 | Potenciometro             | 1      |  RV1  |   500k |
 
+***
+
+Además de este experimento, el mismo día fui probando nuevos cambios en el circuito, esta vez usando caimanes para conectarlos a distintos materiales y trabajar con "resistencias variables".
+
+<https://github.com/user-attachments/assets/6779ab7c-c8de-4b74-97f9-edc41ddc20fd>
+
+
+<https://github.com/user-attachments/assets/cb866195-6aaf-405d-b63b-fe79d98807c4>
+
+
+<https://github.com/user-attachments/assets/61e20b3a-0649-4b57-a16d-e372182abc73>
+
+▼ Videos del circuito en función. En el primero se utilizó como resistencia variable un papel mojado, lo que trasmite de forma más directa la corriente y hace que la luz parpadee más rápido. En el video 2 y 3 se puede apreciar el uso de manos (mías y de mi jefa) para hacer de “puente” y encender la luz.
+
+
+![alt-text](./archivos/014.png)
+
+▼ Diagrama del circuito.
+
+#### BOM (Bill Of Materials) 3
+
+| Componente       | Qty | Nombre(s) | Valor/tipo |
+|-----------------------|---------|------------|----------------|
+| Batería               | 1       | BT1      |       9V       |
+| Resistencias          | 2       | R1, R2    | 1k, 10k  |
+| Resistencias variable          | 1       | R1   | Variable  |
+| Leds                  | 1      |  D1  |   3,3V    |
+| Chip 555                  | 1      |  U1  |   4.5V a 16V  |
+| Condensador polarizado                  | 1      |  C1  |   10uF  |
+| Condensador Cerámico 474                 | 1      |  C2  |   0.47uF |
+
+***
+
+Cómo último experimento del día, llegué a mi casa tras el trabajo para probar a conectar una papa como resistencia variable, además de incluir un led de color rojo al circuito y hacerlo funcionar.
+
+
+<https://github.com/user-attachments/assets/10e91909-ab8b-411c-a5ab-eb24b690c73f>
+
+▼ Video del circuito en función.
+
+
+![alt-text](./archivos/016.png)
+
+▼ Diagrama del circuito.
+
+#### BOM (Bill Of Materials) 4
+
+| Componente       | Qty | Nombre(s) | Valor/tipo |
+|-----------------------|---------|------------|----------------|
+| Batería               | 1       | BT1      |       9V       |
+| Resistencias          | 2       | R2, R3    | 1k, 10k  |
+| Resistencias variable          | 1       | R1   | Variable  |
+| Leds                  | 2      |  D1, D2  |   3,3V    |
+| Chip 555                  | 1      |  U1  |   4.5V a 16V  |
+| Condensador polarizado                  | 1      |  C1  |   10uF  |
+| Condensador Cerámico 474                 | 1      |  C2  |   0.47uF |
+
+
+Lo que más me gusto de estos experimentos fue el volver a disfrutar y jugar como niña, el poder compartir con quienes trabajé ese día e ir viendo cómo con pequeños ajustes el Chip 555 podía dar otros resultados.
 
 ***
 
