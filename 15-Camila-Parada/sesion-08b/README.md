@@ -1,6 +1,6 @@
 # ⋆₊˚⊹♡ Clase  08b - Semana ded receso  ♡⊹˚₊⋆
 
-Martes 29/04/2025
+Viernes 2 Mayo 2025
 
 ***
 
