@@ -26,35 +26,32 @@
 
 
 
-Primero colocamos los sockets de 8 pines, ya que son la base principal de la placa; ahí se inserta el chip NE555.
+Paso 1: colocar el socket, donde posteriormente se insertará en E555
 
-![alt text](./archivos/tarejta-sola-entera.jpeg)
 
-Las resistencias van colocadas en R2, R3 y R4, y un diodo en D1. Hay que fijarse que el diodo tenga bien orientados sus polos positivo y negativo para colocarlo correctamente. Para facilitar el soldado, se doblaron las patitas.
+Paso 2: Colocar las resistencias en R2, R3 y R4, y un diodo en D1. Teniendo en cuenta la dirección en la que "apunta" el diodo.
 
-![alt text](./archivos/tarjeta-con-dedosyclip-diagonal.jpeg)
-
-![alt text](./archivos/tarjeta-con-dedos-entera.jpeg)
-
-![alt text](./archivos/tarjeta-morada-acostada-condospinzasmetalicas.jpeg)
-
-Para el soldado, usamos dos pedazos de madera para mantener la pieza elevada y trabajar de forma más cómoda. Ojalá tuviéramos algo más adecuado para este proceso. Utilizamos una resistencia delgada; ojo que vi a varios grupos usando una bastante gruesa, y si no se coloca bien, podría provocar un cortocircuito.
+Para el soldado, lo hicimos de a 2 personas por placa, una persona se encagaba de sostener los componentes la placa en su lugar, mientras la otra persona iba soldando.
 
 ![alt text](./archivos/hombreconlentes-manipulandolatarjetaconunguanteyundestornilladorparecejpg.jpeg)
 
 ![alt text](./archivos/tarjeta-morada-acostada-hilometalicosostenidopordedosconguantes.jpeg)
 
-Al final del soldado de cada componente, se recortaron el alambre en exceso de las patitas. Fuimos juntando el exceso para que no se ensuciara la zona de trabajo.
+El siguiente paso fue mejorar el oficio del soldado, a la vez que nos asegurábamos de que los componentes estuvieran lo más cercano posible a la pcb. Para esto, un integrante derretía el estaño, y el otro integrante "tiraba" el pin para asegurarse de que quedara pegado a la pcb. 
 
 ![alt text](./archivos/alicateazul-con-tarjetamoradajpg.jpeg)
 
-Finalizando la clase, los componentes que se alcanzaron a soldar fueron los LEDs, el diodo, el condensadores ceramico e electrolíticos y las resistencias. Los leds van en d3 Y D2, los condensadores electrolíticos van en en c4 (1u) y c5 (47u) y el cerámico va en c5.
+finalmente recortamos el sobrante de los pines. El equipo docente me recomendó dejar un poco del pin expuesto, y posteriormente recortarlo para que no sobresalga el pin por fuera de la soldadura.
 
-![alt text](./archivos/tarjeta-morada-acostada-muy-cerca-de-la-camara.jpeg)
+PD: esta clase no traje mis componentes porque se me olvidaron. Anaisbmg me prestó los componentes necesarios para esta etapa y comprometí en devolvérselos a la brevedad.
 
-![alt text](./archivos/tarjeta-morada-acostada-cerca-de-la-camara.jpeg)
+- 3 resistores de 1k
+- 1 capacitor electrolítico de 470uF, 16v
+- 1 capacitor electrolítico de 1uF, 50v
+- 1 capacitor cerámico de 100nF
+- 2 leds azules
+- 1 diodo 1n418
 
-Continuaremos con el soldado en las próximas clases.
+nota: ya los devolví
 
-![alt text](./archivos/tarjeta-morada-con-fondo-durazno.jpeg)
 
