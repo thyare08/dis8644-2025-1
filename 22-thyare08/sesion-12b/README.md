@@ -19,3 +19,10 @@ Describir de forma textual 3 proyectos de máquinas electrónicas que quieran ha
 ## Encargo 25
 
 Dibujar con diagrama de comportamiento, flujos de interacción. Sin patatas fritas específicas. Considerar procesos de manera especulativas. ¿Cuánto tiempo se usará?¿Qué encendidos y apagados tiene?¿Cómo se interactúa?
+
+1. Sensor de movimiento -> ON=Abierto -> OFF=Cerrado
+   - Se usará por 2 min
+3. Sensor de movimiento -> Secuencia -> LED Gradual -> Output
+   - Se usará durante 30 min
+5. Sensor de movimiento -> Vibración -> Output
+   - Se usaría cada vez quw la persona necesite
